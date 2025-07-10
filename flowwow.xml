@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
   <offer>
+    <id>1</id>
     <name>Роза одноголовая Аваланш</name>
-    <price>55</price>
+    <price>1055</price>
     <qty>550</qty>
     <picture>https://lh3.googleusercontent.com/d/1Dzy-rmqVNW6rTqegKdNb4yFWF-0Jf2JF</picture>
     <description>Роза одноголовая</description>
@@ -12,30 +13,9 @@
     <consist name="Роза одноголовая Аваланш" unit="шт">20</consist>
   </offer>
   <offer>
-    <name>Роза одноголовая  Аваланш Пич</name>
-    <price>50</price>
-    <qty>1000</qty>
-    <picture>https://lh3.googleusercontent.com/d/1Kdyetgj--R6hQK9NDIWI5AB5bQi8No9j</picture>
-    <description>Роза одноголовая</description>
-    <param name="Высота, см">45</param>
-    <param name="Страна">Россия</param>
-    <param name="Производитель">Линия роз (Подосинки)</param>
-    <consist name="Роза одноголовая  Аваланш Пич" unit="шт">20</consist>
-  </offer>
-  <offer>
-    <name>Роза одноголовая  Аква</name>
-    <price>45</price>
-    <qty>850</qty>
-    <picture>https://lh3.googleusercontent.com/d/1Fnna5X513fRFYiUebxg5g6iLsD7vEWXX</picture>
-    <description>Роза одноголовая</description>
-    <param name="Высота, см">30</param>
-    <param name="Страна">Россия</param>
-    <param name="Производитель">Линия роз (Подосинки)</param>
-    <consist name="Роза одноголовая  Аква" unit="шт">20</consist>
-  </offer>
-  <offer>
+    <id>4</id>
     <name>Роза одноголовая  Анор</name>
-    <price>35</price>
+    <price>1055</price>
     <qty>500</qty>
     <picture>https://lh3.googleusercontent.com/d/11hudE1QQ043u8folJ8ADpbwlu99FW6S8</picture>
     <description>Роза одноголовая</description>
