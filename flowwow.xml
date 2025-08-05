@@ -63,4 +63,14 @@
     <param name="Страна">Россия</param>
     <consist name="Лилия:1" unit="шт">1</consist>
   </offer>
+    <offer id="FL0005">
+    <name>Альстромерия:1</name>
+    <price>50</price>
+    <qty>20</qty>
+    <picture>https://lh3.googleusercontent.com/d/1pUDxT_EgOH64HVd14aWVKBSwOIIZQwtx</picture>
+    <description>Альстромерия сорт Гималая</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <consist name="Альстромерия:1" unit="шт">1</consist>
+  </offer>
 </offers>
