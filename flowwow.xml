@@ -43,4 +43,14 @@
     <param name="Страна">Россия</param>
     <consist name="Роза:1" unit="шт">1</consist>
   </offer>
+    <offer id="FL0007">
+    <name>Хризантема:1</name>
+    <price>60</price>
+    <qty>50</qty>
+    <picture>https://lh3.googleusercontent.com/d/13cQaqEtZ25g6CZc9m6x2o90ckc31ml_D</picture>
+    <description>Хризантема сорт Балтика</description>
+    <param name="Высота, см">60</param>
+    <param name="Страна">Россия</param>
+    <consist name="Хризантема:1" unit="шт">1</consist>
+  </offer>
 </offers>
