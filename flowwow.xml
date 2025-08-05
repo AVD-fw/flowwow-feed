@@ -53,4 +53,14 @@
     <param name="Страна">Россия</param>
     <consist name="Хризантема:1" unit="шт">1</consist>
   </offer>
+    <offer id="FL0008">
+    <name>Альстромерия:1</name>
+    <price>60</price>
+    <qty>20</qty>
+    <picture>https://lh3.googleusercontent.com/d/1iBYDC7lDABKxOtetJIiY96KVKPXFRdNd</picture>
+    <description>Альстромерия сорт Не указано</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <consist name="Альстромерия:1" unit="шт">1</consist>
+  </offer>
 </offers>
