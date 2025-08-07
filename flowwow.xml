@@ -83,4 +83,14 @@
     <param name="Страна">Россия</param>
     <consist name="Тюльпан:1" unit="шт">15</consist>
   </offer>
+    <offer id="FL0006">
+    <name>Роза:1</name>
+    <price>60</price>
+    <qty>50</qty>
+    <picture>https://lh3.googleusercontent.com/d/1ysIGNsdcNaCI8xjncbXiGdO1Cxd4B2px</picture>
+    <description>Роза сорт Аваланш</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <consist name="Роза:1" unit="шт">10</consist>
+  </offer>
 </offers>
