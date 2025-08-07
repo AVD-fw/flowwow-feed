@@ -33,4 +33,14 @@
     <param name="Производитель">Линия роз (Подосинки)</param>
     <consist name="Роза одноголовая  Анор" unit="шт">20</consist>
   </offer>
+    <offer id="FL0001">
+    <name>Роза:1</name>
+    <price>150</price>
+    <qty>1000</qty>
+    <picture>https://lh3.googleusercontent.com/d/1FUz4i6lyJw2AXcIhuA2qu13d6G29wdJl</picture>
+    <description>Роза сорт Пигги</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <consist name="Роза:1" unit="шт">10</consist>
+  </offer>
 </offers>
