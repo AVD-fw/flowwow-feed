@@ -43,4 +43,14 @@
     <param name="Страна">Россия</param>
     <consist name="Роза:1" unit="шт">10</consist>
   </offer>
+    <offer id="FL0002">
+    <name>Роза:1</name>
+    <price>100</price>
+    <qty>1000</qty>
+    <picture>https://lh3.googleusercontent.com/d/1Ve1cwmShdzbdc9lAybYk52Oi8G277uCN</picture>
+    <description>Роза сорт Пигги</description>
+    <param name="Высота, см">70</param>
+    <param name="Страна">Россия</param>
+    <consist name="Роза:1" unit="шт">10</consist>
+  </offer>
 </offers>
