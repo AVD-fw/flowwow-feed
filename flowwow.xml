@@ -73,4 +73,14 @@
     <param name="Страна">Россия</param>
     <consist name="Тюльпан:1" unit="шт">15</consist>
   </offer>
+    <offer id="FL0005">
+    <name>Тюльпан:1</name>
+    <price>100</price>
+    <qty>10000</qty>
+    <picture>https://lh3.googleusercontent.com/d/1kos0Wirv30Fzb1S-2z6PT22FFj_-LJpK</picture>
+    <description>Тюльпан сорт Голден</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <consist name="Тюльпан:1" unit="шт">15</consist>
+  </offer>
 </offers>
