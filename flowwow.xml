@@ -157,4 +157,15 @@
     <param name="Страна">Голландия</param>
     <consist name="Тюльпан:1" unit="шт">25</consist>
   </offer>
+    <offer id="FL0013">
+    <name>Роза одноголовая пионовидная:1</name>
+    <price>150</price>
+    <qty>50</qty>
+    <picture>https://lh3.googleusercontent.com/d/1kJLIHGRCXYBi2qJ-KEpAcjF0a4abyZVW</picture>
+    <description>Роза одноголовая пионовидная Аваланш</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Эквадор</param>
+    <param name="Производитель">Росхилл</param>
+    <consist name="Роза одноголовая пионовидная:1" unit="шт">25</consist>
+  </offer>
 </offers>
