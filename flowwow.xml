@@ -384,7 +384,7 @@ Kwekerij waalzicht
     <name>Танацетум 
 Verkoop
 Голландия</name>
-    <price>58</price>
+    <price>72</price>
     <qty>100</qty>
     <picture>https://lh3.googleusercontent.com/d/1qLXAidB6Z1H_XT3y9L-DL-THn8YGVZl7</picture>
     <description>Танацетум 
@@ -635,5 +635,20 @@ Marginpar
     <consist name="Солидаго 
 Marginpar
 Голландия" unit="шт">25</consist>
+  </offer>
+    <offer id="FL0046">
+    <name>Роза одноголовая пионовидная Леди Априкот
+Подосинки
+Россия</name>
+    <price>75</price>
+    <qty>40</qty>
+    <picture>https://lh3.googleusercontent.com/d/1HGtss2X1On2f5N0ulgLaYhZodVne0mK_</picture>
+    <description>Леди Априкот</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <param name="Производитель">Подосинки</param>
+    <consist name="Роза одноголовая пионовидная Леди Априкот
+Подосинки
+Россия" unit="шт">10</consist>
   </offer>
 </offers>
