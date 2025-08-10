@@ -147,4 +147,14 @@
     <param name="Производитель">Флора Лэнд</param>
     <consist name="Роза одноголовая:1" unit="шт">25</consist>
   </offer>
+    <offer id="FL0012">
+    <name>Тюльпан:1</name>
+    <price>56</price>
+    <qty>100</qty>
+    <picture>https://lh3.googleusercontent.com/d/1EIBeObHymb8-SWMG20qTNtCUtrEvawwM</picture>
+    <description>Тюльпан Голден</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Голландия</param>
+    <consist name="Тюльпан:1" unit="шт">25</consist>
+  </offer>
 </offers>
