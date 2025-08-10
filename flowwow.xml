@@ -189,4 +189,25 @@
     <param name="Производитель">Флора</param>
     <consist name="Роза одноголовая:1" unit="шт">25</consist>
   </offer>
+    <offer id="FL0016">
+    <name>Роза одноголовая пионовидная:1</name>
+    <price>100</price>
+    <qty>600</qty>
+    <picture>https://lh3.googleusercontent.com/d/1N6UrSpF1PvhMLGn2OIthV4gZ-yNE9RyC</picture>
+    <description>Роза одноголовая пионовидная Баблз</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Эквадор</param>
+    <param name="Производитель">Флора</param>
+    <consist name="Роза одноголовая пионовидная:1" unit="шт">36</consist>
+  </offer>
+    <offer id="FL0017">
+    <name>Роза кустовая пионовидная:1</name>
+    <price>49</price>
+    <qty>100</qty>
+    <picture>https://lh3.googleusercontent.com/d/1F8h6GmOvoSvPYLeUx_W6U6mNyXQ8RHtp</picture>
+    <description>Роза кустовая пионовидная Пигги тест</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Кения</param>
+    <consist name="Роза кустовая пионовидная:1" unit="шт">25</consist>
+  </offer>
 </offers>
