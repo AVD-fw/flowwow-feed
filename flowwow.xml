@@ -136,4 +136,15 @@
     <param name="Страна">Россия</param>
     <consist name="Роза Пигги:1" unit="шт">10</consist>
   </offer>
+    <offer id="FL0011">
+    <name>Роза одноголовая:1</name>
+    <price>150</price>
+    <qty>100</qty>
+    <picture>https://lh3.googleusercontent.com/d/1QH-rJLGhGIwI2cXoMRZTiQv24R1Tel49</picture>
+    <description>Роза одноголовая Роза Аква</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Эквадор</param>
+    <param name="Производитель">Флора Лэнд</param>
+    <consist name="Роза одноголовая:1" unit="шт">25</consist>
+  </offer>
 </offers>
