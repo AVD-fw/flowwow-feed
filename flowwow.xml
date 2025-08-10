@@ -144,7 +144,7 @@
     <description>Роза одноголовая Роза Аква</description>
     <param name="Высота, см">50</param>
     <param name="Страна">Эквадор</param>
-    <param name="Производитель">Флора Лэнд</param>
+    <param name="Производитель">Подосинки</param>
     <consist name="Роза одноголовая:1" unit="шт">25</consist>
   </offer>
     <offer id="FL0012">
@@ -186,7 +186,7 @@
     <description>Роза одноголовая Пигги</description>
     <param name="Высота, см">50</param>
     <param name="Страна">Кения</param>
-    <param name="Производитель">Флора</param>
+    <param name="Производитель">Подосинки</param>
     <consist name="Роза одноголовая:1" unit="шт">25</consist>
   </offer>
     <offer id="FL0016">
@@ -197,7 +197,7 @@
     <description>Роза одноголовая пионовидная Баблз</description>
     <param name="Высота, см">50</param>
     <param name="Страна">Эквадор</param>
-    <param name="Производитель">Флора</param>
+    <param name="Производитель">Подосинки</param>
     <consist name="Роза одноголовая пионовидная:1" unit="шт">36</consist>
   </offer>
     <offer id="FL0017">
@@ -218,7 +218,18 @@
     <description>Роза Аваланш</description>
     <param name="Высота, см">50</param>
     <param name="Страна">Россия</param>
-    <param name="Производитель">Флора Лэнд</param>
+    <param name="Производитель">Подосинки</param>
+    <consist name="Роза:1" unit="шт">25</consist>
+  </offer>
+    <offer id="FL0019">
+    <name>Роза:1</name>
+    <price>50</price>
+    <qty>50</qty>
+    <picture>https://lh3.googleusercontent.com/d/1rawdNot1Dlf6sGtkZ_pf5ucfCat8EibI</picture>
+    <description>Роза Аваланш</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <param name="Производитель">Подосинки</param>
     <consist name="Роза:1" unit="шт">25</consist>
   </offer>
 </offers>
