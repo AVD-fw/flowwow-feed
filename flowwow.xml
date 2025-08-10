@@ -243,4 +243,34 @@
     <param name="Производитель">Росхилл</param>
     <consist name="Роза:1" unit="шт">50</consist>
   </offer>
+    <offer id="FL0021">
+    <name>Роза Пигги
+Подосинки
+Россия</name>
+    <price>60</price>
+    <qty>100</qty>
+    <picture>https://lh3.googleusercontent.com/d/12sec6z9MDWdTYbikZrgGo7OXyEeeyEeZ</picture>
+    <description>Пигги</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <param name="Производитель">Подосинки</param>
+    <consist name="Роза Пигги
+Подосинки
+Россия" unit="шт">15</consist>
+  </offer>
+    <offer id="FL0022">
+    <name>Роза Аква
+Чеховский сад
+Россия</name>
+    <price>50</price>
+    <qty>1000</qty>
+    <picture>https://lh3.googleusercontent.com/d/19ir9q6-GxUMLYjUZt2IdSLpdE0MVUMZu</picture>
+    <description>Аква</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <param name="Производитель">Чеховский сад</param>
+    <consist name="Роза Аква
+Чеховский сад
+Россия" unit="шт">15</consist>
+  </offer>
 </offers>
