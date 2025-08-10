@@ -232,4 +232,15 @@
     <param name="Производитель">Подосинки</param>
     <consist name="Роза:1" unit="шт">25</consist>
   </offer>
+    <offer id="FL0020">
+    <name>Роза:1</name>
+    <price>15</price>
+    <qty>20</qty>
+    <picture>https://lh3.googleusercontent.com/d/1UZRCy3MdQdqYP4dDgErMFgsA2b4Ejkvk</picture>
+    <description>Роза Пигги</description>
+    <param name="Высота, см">50</param>
+    <param name="Страна">Россия</param>
+    <param name="Производитель">Росхилл</param>
+    <consist name="Роза:1" unit="шт">50</consist>
+  </offer>
 </offers>
