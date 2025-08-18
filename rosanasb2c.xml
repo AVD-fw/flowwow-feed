@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
     <offer id="FL0001">
-      <name>Георгин Не указано 9 шт Розовый 50 см</name>
+      <name>Георгин 9 шт Розовый 50 см</name>
       <price>1450</price>
       <picture>https://lh3.googleusercontent.com/d/14SFWqkznWN843Ev-TwoBqXlEG7mO1T2S</picture>
       <picture>https://lh3.googleusercontent.com/d/1kKpiZdF0g8JIKdVm_BUDkit8Slzsul5t</picture>
       <picture>https://lh3.googleusercontent.com/d/1r9kIIGA070dNYtmYbZSM8wBkeAU2BvO-</picture>
       <picture>https://lh3.googleusercontent.com/d/1Yodhzu2sdxSRaLg7BgFcaur3s5XOjiH-</picture>
-      <description>Георгин Не указано 9 шт Розовый 50 см</description>
+      <description>Георгин 9 шт Розовый 50 см</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
@@ -126,5 +126,46 @@
       <consist name="Роза одноголовая Торнео
 Волгоград
 Россия" unit="шт">1</consist>
+    </offer>
+    <offer id="FL0010">
+      <name>Роза одноголовая Вайт Найт 9 шт 40 см</name>
+      <price>310</price>
+      <picture>https://lh3.googleusercontent.com/d/1_F1RlTaiFr9teTFnb8A3dmXiX0ihEJDE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tq9jxqEP9u94ozkcp5QxB6yE_LgQlkes</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dZ6NOELva7F_siBs_vTlmvEwIFWTrNqv</picture>
+      <picture>https://lh3.googleusercontent.com/d/17OhMsYnQdrK4bmLAob7Mv98q7FDC0Dhl</picture>
+      <description>Вайт Найт</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Волгоград</param>
+      <consist name="Роза одноголовая Вайт Найт
+Волгоград
+Россия" unit="шт">1</consist>
+    </offer>
+    <offer id="FL0015">
+      <name>Альстромерия Не указано 9 шт Белый 70 см</name>
+      <price>760</price>
+      <picture>https://lh3.googleusercontent.com/d/1hUQYikoeuKSnV560D7ENrqPAofOQK7AF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IOpWzCpa-QlyxToryy2K3FnRZ0Nf7b7g</picture>
+      <picture>https://lh3.googleusercontent.com/d/10IrD1W8Epe0P8kcmshX3c920rdhvR0rj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vlqDCEeJU2iuXPRyewVz1gfUxlx82HWb</picture>
+      <description>Альстромерия Не указано 9 шт Белый 70 см</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <consist name="Альстромерия Geoflora
+Колумбия" unit="шт">1</consist>
+    </offer>
+    <offer id="FL0016">
+      <name>Альстромерия Не указано 9 шт Красный 70 см</name>
+      <price>810</price>
+      <picture>https://lh3.googleusercontent.com/d/1KVRikY0MlbHLVaDQFX2SMY1XOQIs5VMF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wdhyFBNFiZakNuQZ1Kg1HSBR9jjzFB8B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DwX_455sMVODN70ubWsF41Pe7V1NZlgv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_eMZBfvXzGueXkd9XauC3RxptuQdkNSq</picture>
+      <description>Альстромерия Не указано 9 шт Красный 70 см</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <consist name="Альстромерия Geoflora
+Колумбия" unit="шт">1</consist>
     </offer>
 </offers>
