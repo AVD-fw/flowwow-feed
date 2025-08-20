@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
+    <offer id="FL0001">
+      <name>Георгин Розовый 50 см</name>
+      <price>145</price>
+      <qty>100</qty>
+      <picture>https://lh3.googleusercontent.com/d/14SFWqkznWN843Ev-TwoBqXlEG7mO1T2S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kKpiZdF0g8JIKdVm_BUDkit8Slzsul5t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r9kIIGA070dNYtmYbZSM8wBkeAU2BvO-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Yodhzu2sdxSRaLg7BgFcaur3s5XOjiH-</picture>
+      <description>Георгин Розовый 50 см</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <consist name="Георгин Россия" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0002">
+      <name>Георгин Бордовый 50 см</name>
+      <price>145</price>
+      <qty>100</qty>
+      <picture>https://lh3.googleusercontent.com/d/1mbkwOuZZAEN1r3Dcpm6V_FlCSEMxDk35</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WAJ_SFlp2AXWILMul3i7azkeZkexBq19</picture>
+      <picture>https://lh3.googleusercontent.com/d/18xfnEucH2FYcjIunYjXNGAFYdUkP0CYI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pUZu2fjvNcTr2JTZI3Cp5AAydNhBJWvv</picture>
+      <description>Георгин Бордовый 50 см</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <consist name="Георгин Россия" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0003">
+      <name>Георгин Ярко розовый 50 см</name>
+      <price>145</price>
+      <qty>100</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Mttvk4-DyfO4uQM6BV5SzpvMvjD038zn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dkDBSDdnSQvJUMiNtXSOP_5tk-ZWWM0T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Swzvldhoc3tDamv7_42kvxwlzI9vyj5L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ph8OisTCid3ojJ0Eq0wyoOq7rUn65RJ6</picture>
+      <description>Георгин Ярко розовый 50 см</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <consist name="Георгин Россия" unit="шт">10</consist>
+    </offer>
     <offer id="FL0004">
       <name>Георгин Терракотовый 50 см</name>
       <price>145</price>
