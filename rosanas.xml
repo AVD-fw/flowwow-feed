@@ -499,7 +499,7 @@ Geoflora
     </offer>
     <offer id="FL0035">
       <name>Роза кустовая Одилия 50 см</name>
-      <price>1</price>
+      <price>105</price>
       <qty>100</qty>
       <picture>https://lh3.googleusercontent.com/d/1ileNlzOzNnKPJHJgjVkg2s-Jtd--C02m</picture>
       <picture>https://lh3.googleusercontent.com/d/1vpMjmDMdYEqWoAOtVN2hS2IowD-ix81n</picture>
@@ -509,8 +509,9 @@ Geoflora
       <description>Одилия</description>
       <param name="Высота, см">50</param>
       <param name="Страна">К</param>
+      <param name="Производитель">Цветополис</param>
       <consist name="Роза кустовая Одилия
-К" unit="шт">10</consist>
+Россия" unit="шт">10</consist>
     </offer>
     <offer id="FL0036">
       <name>Роза одноголовая Вау 50 см</name>
@@ -529,7 +530,7 @@ Geoflora
     </offer>
     <offer id="FL0037">
       <name>Гипсофила Радужная 80 см</name>
-      <price>1</price>
+      <price>109</price>
       <qty>100</qty>
       <picture>https://lh3.googleusercontent.com/d/18aEB4c2PkHrGUw8fExNGeUSS9sR9XFB3</picture>
       <picture>https://lh3.googleusercontent.com/d/1ladDIFPvzgKPIc8WArb60O8goCtBxRQI</picture>
@@ -539,8 +540,9 @@ Geoflora
       <description>Радужная</description>
       <param name="Высота, см">80</param>
       <param name="Страна">К</param>
-      <consist name="Гипсофила Радужная
-К" unit="шт">25</consist>
+      <param name="Производитель">Esmeralda</param>
+      <consist name="Гипсофила Радужная Esmeralda
+Эквадор" unit="шт">25</consist>
     </offer>
     <offer id="FL0038">
       <name>Хризантема кустовая Алтай 60 см</name>
