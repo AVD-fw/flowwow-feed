@@ -294,19 +294,6 @@ Florigeni Suntory
       <consist name="Георгина 
 Россия" unit="шт">10</consist>
     </offer>
-    <offer id="FL0023">
-      <name>Малина Зелёный 70 см Арт. Рц00237</name>
-      <price>600</price>
-      <qty>100</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1NfHE0IULVEoMamk_d4EY61wWy0hN8JOs</picture>
-      <description>Малина Зелёный 70 см Арт. Рц00237</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Рц00237</param>
-      <consist name="Малина 
-Россия" unit="шт">1</consist>
-    </offer>
     <offer id="FL0024">
       <name>Роза одноголовая Палома Paloma 60 см Арт. Рц00246</name>
       <price>120</price>
@@ -456,32 +443,6 @@ Terra Nostra
       <consist name="Роза одноголовая пионовидная Лемонаде Lemonade
 Милагро Milagro
 Эквадор" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0034">
-      <name>Рускус Зелёный 60 см Арт. Рц00346</name>
-      <price>50</price>
-      <qty>100</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mo4ES1XTfrrekX9Diaestpa4LHBPM1j1</picture>
-      <description>Рускус Зелёный 60 см Арт. Рц00346</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Израиль</param>
-      <param name="Артикул">Рц00346</param>
-      <consist name="Рускус
-Израиль" unit="шт">50</consist>
-    </offer>
-    <offer id="FL0035">
-      <name>Рускус Зелёный 50 см Арт. Рц00355</name>
-      <price>700</price>
-      <qty>100</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1h_6CA0ZI4GZ5iEakqSBOapNy5ss20Bj1</picture>
-      <description>Рускус Зелёный 50 см Арт. Рц00355</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Рц00355</param>
-      <consist name="Рускус
-Россия" unit="шт">20</consist>
     </offer>
     <offer id="FL0036">
       <name>Герберамини Красный 50 см Арт. Рц00365</name>
@@ -1090,6 +1051,19 @@ Decorum
       <consist name="Фисташка
 Израиль" unit="шт">1</consist>
     </offer>
+    <offer id="FL0023">
+      <name>Малина Зелёный 70 см Арт. Рц00237</name>
+      <price>600</price>
+      <qty>100</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NfHE0IULVEoMamk_d4EY61wWy0hN8JOs</picture>
+      <description>Малина Зелёный 70 см Арт. Рц00237</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рц00237</param>
+      <consist name="Малина 
+Россия" unit="шт">1</consist>
+    </offer>
     <offer id="FL0077">
       <name>Хризантема кустовая Розовый 60 см Арт. Рц00776</name>
       <price>110</price>
@@ -1510,6 +1484,32 @@ VannoVa
 Экстра
 Канада" unit="шт">1</consist>
     </offer>
+    <offer id="FL0034">
+      <name>Рускус Зелёный 60 см Арт. Рц00346</name>
+      <price>50</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mo4ES1XTfrrekX9Diaestpa4LHBPM1j1</picture>
+      <description>Рускус Зелёный 60 см Арт. Рц00346</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Израиль</param>
+      <param name="Артикул">Рц00346</param>
+      <consist name="Рускус
+Израиль" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0035">
+      <name>Рускус Зелёный 50 см Арт. Рц00355</name>
+      <price>700</price>
+      <qty>100</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h_6CA0ZI4GZ5iEakqSBOapNy5ss20Bj1</picture>
+      <description>Рускус Зелёный 50 см Арт. Рц00355</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рц00355</param>
+      <consist name="Рускус
+Россия" unit="шт">1</consist>
+    </offer>
     <offer id="FL0105">
       <name>Папоротник Зеленый 50 см Арт. Рц01055</name>
       <price>700</price>
@@ -1527,13 +1527,13 @@ VannoVa
       <name>Фатсия Зеленый 50 см Арт. Рц01065</name>
       <price>150</price>
       <qty>100</qty>
-      <quantity_in_package>20</quantity_in_package>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WFmgskiOEArdtDpvQe5i47clpxdk28X1</picture>
       <description>Фатсия Зеленый 50 см Арт. Рц01065</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Рц01065</param>
-      <consist name="Фатсия" unit="шт">20</consist>
+      <consist name="Фатсия" unit="шт">10</consist>
     </offer>
     <offer id="FL0107">
       <name>Берграсс Зеленый 50 см Арт. Рц01075</name>
