@@ -1,34 +1,3 @@
-<yml_catalog date="2025-09-09 22:14">
-<shop>
-<name>Cheese-Cake</name>
-<company>Cheese-Cake.Ru Inc.</company>
-<url>https://cheese-cake.ru</url>
-<currencies>
-<currency id="RUR" rate="1"/>
-</currencies>
-<categories>
-<category id="3">Низкокалорийные</category>
-<category id="4">Новинки</category>
-<category id="5">Сделано в России</category>
-<category id="6">Дегустационные сеты</category>
-<category id="7">Чизкейки</category>
-<category id="9">Торты</category>
-<category id="10">Пироги</category>
-<category id="11">Пирожные</category>
-<category id="12">Печенье и кукисы</category>
-<category id="13">Мороженое</category>
-<category id="14">Сорбет</category>
-<category id="15">Штрудели и киши</category>
-<category id="16">Тирамису</category>
-<category id="17">Макаруны / Макарони</category>
-<category id="18">Круассаны</category>
-<category id="20">Пончики</category>
-<category id="22">Ассорти</category>
-<category id="23">Выпечка</category>
-<category id="30">Гуакамоле</category>
-<category id="31">Подарочные сертификаты</category>
-<category id="36">Экспресс-доставка</category>
-</categories>
 <offers>
 <offer id="16" available="true">
 <url>https://cheese-cake.ru/assortiment/chizkejki/chizkejk-assorti-20p-2.html</url>
@@ -49,42 +18,9 @@
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">6</age>
 <barcode>4810987121447</barcode>
-<weight>2</weight>
+<weight>200</weight>
 <expiry>P1Y</expiry>
-<param name="Weight">2</param>
-<param name="Portions">20</param>
-<param name="Высота">12</param>
-<param name="Ширина">25</param>
-</offer>
-<offer id="24" available="true">
-<url>https://cheese-cake.ru/assortiment/chizkejki/chizkejk-malinovyj-16p.html</url>
-<price>1750</price>
-<oldprice>1999</oldprice>
-<currencyId>RUR</currencyId>
-<categoryId>7</categoryId>
-<picture>https://cheese-cake.ru/DesertImg/chizkejk-malinovyj-16p-0.jpg</picture>
-<picture>https://cheese-cake.ru/DesertImg/chizkejk-malinovyj-16p-1.jpg</picture>
-<picture>https://cheese-cake.ru/DesertImg/chizkejk-malinovyj-16p-2.jpg</picture>
-<picture>https://cheese-cake.ru/DesertImg/chizkejk-malinovyj-16p-3.jpg</picture>
-<picture>https://cheese-cake.ru/DesertImg/chizkejk-malinovyj-16p-4.jpg</picture>
-<picture>https://cheese-cake.ru/DesertImg/chizkejk-malinovyj-16p-5.jpg</picture>
-<store>false</store>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>Чизкейк "Малиновый" 16 пор (16 порций)</name>
-<vendor>cheese-cake.ru</vendor>
-<vendorCode>*ДФ-6</vendorCode>
-<description>Классический чизкейк NewYork с вихрями из пюре из натуральной малины.</description>
-<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
-<manufacturer_warranty>true</manufacturer_warranty>
-<country_of_origin>Россия</country_of_origin>
-<age unit="year">6</age>
-<barcode>4607178121412</barcode>
-<weight>2</weight>
-<expiry>P1Y</expiry>
-<param name="Weight">2</param>
-<param name="Portions">16</param>
+<param name="Высота, см">12</param>
+<param name="Ширина, см">25</param>
 </offer>
 </offers>
-</shop>
-</yml_catalog>
