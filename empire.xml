@@ -588,6 +588,18 @@ Decorum" unit="шт">25</consist>
       <param name="Артикул">Иц01125</param>
       <consist name="Астильба" unit="шт">10</consist>
     </offer>
+    <offer id="FL0113">
+      <name>Маттиола Лиловый 50 см Арт. Иц01135</name>
+      <price>120</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Q9Qef-tgjUJgpHtE8q1YasfymPqKQGXZ</picture>
+      <description>Маттиола Лиловый 50 см Арт. Иц01135</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01135</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
     <offer id="FL0117">
       <name>Гипсофила Розовая-белая-голубая 50 см Арт. Иц01175</name>
       <price>77</price>
@@ -636,8 +648,36 @@ Decorum" unit="шт">25</consist>
       <param name="Страна">Эквадор</param>
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Иц01237</param>
-      <consist name="Гипсофила Краш. Светло-Розовая
+      <consist name="Гипсофила
+Краш. Светло-Розовая
 Esmeralda
 Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0125">
+      <name>Лизиантус 70 см Арт. Иц01257</name>
+      <price>140</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NvoPrIL7Yg9_fKWzoaavEf6tQYZdF-04</picture>
+      <description>Лизиантус 70 см Арт. Иц01257</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Иц01257</param>
+      <consist name="Лизиантус
+Kwekerij waalzicht
+Голландия" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0126">
+      <name>Товар FL0126 60 см Арт. Иц01266</name>
+      <price>120</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
+      <description>Товар FL0126 60 см Арт. Иц01266</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01266</param>
+      <consist name="Товар FL0126" unit="шт">25</consist>
     </offer>
 </offers>
