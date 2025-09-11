@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
+    <offer id="FL0053">
+      <name>Гипсофила Радужный 70 см Арт. Иц00537</name>
+      <price>77</price>
+      <qty>300</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16l4HDeE2vTgvZtr87wJ0PMDHyYKCvC8p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uEjBqIPlRo2GmAISDtB-VT-99j1eZuxC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oxuUd7WzIzhxkqpscwdBzvKBjW9AOqrK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w4oulXKzVk-YMkLcgo27R59X-2PwmUHj</picture>
+      <description>Гипсофила Радужный 70 см Арт. Иц00537</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Иц00537</param>
+      <consist name="Гипсофила
+Esmeralda
+Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0054">
+      <name>Гипсофила Белый 70 см Арт. Иц00547</name>
+      <price>69</price>
+      <qty>300</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kCwWBoitDU2r_FTV1q9oZpfXLdcMf8j8</picture>
+      <picture>https://lh3.googleusercontent.com/d/17yaqu7emMAIbV3JXEt3eYhYlXS0k43Z4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AdaZF0JebD7KPuoyFKJNPS6ORx5narn2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ftz2UVQp-4oZ7TpjhuY_Bgyb8QFG4FER</picture>
+      <description>Гипсофила Белый 70 см Арт. Иц00547</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Иц00547</param>
+      <consist name="Гипсофила
+Esmeralda
+Эквадор" unit="шт">25</consist>
+    </offer>
     <offer id="FL0042">
       <name>Ирис Белый 50 см Арт. Иц00425</name>
       <price>41</price>
@@ -443,5 +479,20 @@ Preferred pick
       <consist name="Хризантема Сантини
 Preferred pick
 Голландия" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0123">
+      <name>Гипсофила Краш. Светло-Розовая 70 см Арт. Иц01237</name>
+      <price>77</price>
+      <qty>500</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11YkrS3WdSd8aCLxURMLA2Rm9vH3EX2jT</picture>
+      <description>Краш. Светло-Розовая</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Иц01237</param>
+      <consist name="Гипсофила Краш. Светло-Розовая
+Esmeralda
+Эквадор" unit="шт">25</consist>
     </offer>
 </offers>
