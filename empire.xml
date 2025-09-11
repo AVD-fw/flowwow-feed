@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
-    <offer id="FL0053">
-      <name>Гипсофила Радужный 70 см Арт. Иц00537</name>
-      <price>77</price>
-      <qty>300</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/16l4HDeE2vTgvZtr87wJ0PMDHyYKCvC8p</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uEjBqIPlRo2GmAISDtB-VT-99j1eZuxC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oxuUd7WzIzhxkqpscwdBzvKBjW9AOqrK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1w4oulXKzVk-YMkLcgo27R59X-2PwmUHj</picture>
-      <description>Гипсофила Радужный 70 см Арт. Иц00537</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Esmeralda</param>
-      <param name="Артикул">Иц00537</param>
-      <consist name="Гипсофила
-Esmeralda
-Эквадор" unit="шт">25</consist>
-    </offer>
     <offer id="FL0054">
       <name>Гипсофила Белый 70 см Арт. Иц00547</name>
       <price>69</price>
@@ -365,7 +347,7 @@ Tonie flowers
     <offer id="FL0030">
       <name>Танацетум Белый 60 см Арт. Иц00306</name>
       <price>85</price>
-      <qty>150</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qLXAidB6Z1H_XT3y9L-DL-THn8YGVZl7</picture>
       <picture>https://lh3.googleusercontent.com/d/1jAiJC4vPzaUCrRQdkEr3D6DSBUWn8qLU</picture>
@@ -479,6 +461,57 @@ Preferred pick
       <consist name="Хризантема Сантини
 Preferred pick
 Голландия" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0098">
+      <name>Хризантема Сантини Пепталк 50 см Арт. Иц00985</name>
+      <price>82</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14eFjjnCkLS55Yopw-6_JSVmQPwPx5ecD</picture>
+      <description>Пепталк</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Иц00985</param>
+      <consist name="Хризантема Сантини
+Пепталк
+Decorum" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0100">
+      <name>Хризантема Сантини Фиолетовый 50 см Арт. Иц01005</name>
+      <price>82</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19RygnhrWv2jycxQMTvPUSo4LcWpdzQ6V</picture>
+      <description>Хризантема Сантини Фиолетовый 50 см Арт. Иц01005</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01005</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0105">
+      <name>Хризантема Сантини Белый 50 см Арт. Иц01055</name>
+      <price>82</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oAwhFbahjIJfFWkhC4z9b7mM2blfZtib</picture>
+      <description>Хризантема Сантини Белый 50 см Арт. Иц01055</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01055</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0109">
+      <name>Лилия Белый 50 см Арт. Иц01095</name>
+      <price>250</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1i9eTYGYbuETqP1OcHoZrHQth9DvXjAit</picture>
+      <description>Лилия Белый 50 см Арт. Иц01095</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01095</param>
+      <consist name="Лилия" unit="шт">10</consist>
     </offer>
     <offer id="FL0123">
       <name>Гипсофила Краш. Светло-Розовая 70 см Арт. Иц01237</name>
