@@ -744,6 +744,21 @@ Kwekerij waalzicht
 Valems Flowers
 Эквадор" unit="шт">25</consist>
     </offer>
+    <offer id="FL0130">
+      <name>Роза одноголовая Би Свит 70 см Арт. Иц01307</name>
+      <price>122</price>
+      <qty>200</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tuf_VOOuebJvOjU8JbOuaykFnSwXlC5W</picture>
+      <description>Би Свит</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">OK Roses</param>
+      <param name="Артикул">Иц01307</param>
+      <consist name="Роза одноголовая Би Свит
+OK Roses
+Эквадор" unit="шт">25</consist>
+    </offer>
     <offer id="FL0131">
       <name>Роза одноголовая пионовидная 60 см Арт. Иц01316</name>
       <price>109</price>
@@ -774,16 +789,60 @@ Tu Roses
 Star Roses
 Эквадор" unit="шт">25</consist>
     </offer>
-    <offer id="FL0136">
-      <name>Роза одноголовая Эксплорер 50 см Арт. Иц01365</name>
+    <offer id="FL0133">
+      <name>Роза одноголовая Креам Экспрешн 60 см Арт. Иц01336</name>
       <price>122</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oATmEzUW_kJ5AnrcHPXxPhFuBEtyfA9l</picture>
+      <description>Креам Экспрешн</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Roses</param>
+      <param name="Артикул">Иц01336</param>
+      <consist name="Роза одноголовая
+Креам Экспрешн
+Roses
+Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0134">
+      <name>Роза одноголовая Мандала 70 см Арт. Иц01347</name>
+      <price>109</price>
       <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15cigMDxJv57B461asp4LVea3lsllA6MD</picture>
+      <description>Мандала</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Иц01347</param>
+      <consist name="Роза одноголовая
+Мандала
+Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0135">
+      <name>Роза одноголовая Нина 60 см Арт. Иц01356</name>
+      <price>109</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bki-0FjepdLmDI-8K7shtrYQ6yP1w-A1</picture>
+      <description>Нина</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Иц01356</param>
+      <consist name="Роза одноголовая
+Нина
+Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0136">
+      <name>Роза одноголовая Эксплорер 70 см Арт. Иц01367</name>
+      <price>122</price>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NjAZBV8iAQtf7aY8EnB55ltPnropFgou</picture>
       <description>Эксплорер</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">70</param>
       <param name="Страна">Эквадор</param>
-      <param name="Артикул">Иц01365</param>
+      <param name="Артикул">Иц01367</param>
       <consist name="Роза одноголовая
 Эксплорер
 Эквадор" unit="шт">25</consist>
@@ -803,5 +862,20 @@ Star Roses
 Эсперансе
 Star Roses
 Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0138">
+      <name>Роза одноголовая пионовидная Принцесса Краун 60 см Арт. Иц01386</name>
+      <price>130</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1S9VJnNZCcpRh1ZIftiwOUZ3s4jOL6t9G</picture>
+      <description>Принцесса Краун</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Sofi Farms</param>
+      <param name="Артикул">Иц01386</param>
+      <consist name="Роза одноголовая пионовидная
+Принцесса Краун
+Sofi Farms" unit="шт">25</consist>
     </offer>
 </offers>
