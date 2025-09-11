@@ -231,7 +231,7 @@ Zentoo
     <offer id="Рс01611">
       <name>Гладиолус Ред Баланс 120 см Арт. Рс01611</name>
       <price>173</price>
-      <qty>20</qty>
+      <qty>200</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AqMYstTg_-8_f0sX-PnZrmlNctvl60g6</picture>
       <description>Ред Баланс</description>
@@ -240,5 +240,18 @@ Zentoo
       <param name="Артикул">Рс01611</param>
       <consist name="Гладиолус
 Ред Баланс" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01628">
+      <name>Гидрангия Верена Блау 80 см Арт. Рс01628</name>
+      <price>483</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wU8G-LxqPGn-NzGEhIFnz_4PnfJlBG2v</picture>
+      <description>Верена Блау</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01628</param>
+      <consist name="Гидрангия
+Верена Блау" unit="шт">5</consist>
     </offer>
 </offers>
