@@ -115,4 +115,30 @@
 Ступино
 Россия" unit="шт">10</consist>
     </offer>
+    <offer id="Рс01441">
+      <name>Гладиолус Мистик Маджен 130 см Арт. Рс01441</name>
+      <price>192</price>
+      <qty>5</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-haPJqWl2lsldVE3Sgb5iJOzPAioDnhb</picture>
+      <description>Мистик Маджен</description>
+      <param name="Высота, см">130</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01441</param>
+      <consist name="Гладиолус
+Мистик Маджен" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01611">
+      <name>Гладиолус Ред Баланс 120 см Арт. Рс01611</name>
+      <price>173</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AqMYstTg_-8_f0sX-PnZrmlNctvl60g6</picture>
+      <description>Ред Баланс</description>
+      <param name="Высота, см">120</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01611</param>
+      <consist name="Гладиолус
+Ред Баланс" unit="шт">10</consist>
+    </offer>
 </offers>
