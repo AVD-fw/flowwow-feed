@@ -681,15 +681,28 @@ Kwekerij waalzicht
 Голландия" unit="шт">10</consist>
     </offer>
     <offer id="FL0126">
-      <name>Товар FL0126 60 см Арт. Иц01266</name>
+      <name>Статица Фиолетовый 60 см Арт. Иц01266</name>
       <price>120</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
-      <description>Товар FL0126 60 см Арт. Иц01266</description>
+      <description>Статица Фиолетовый 60 см Арт. Иц01266</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Иц01266</param>
-      <consist name="Товар FL0126" unit="шт">25</consist>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0128">
+      <name>Хризантема кустовая Алтай 60 см Арт. Иц01286</name>
+      <price>90</price>
+      <qty>100</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1g4RyoZi1wqFRFg07Wyj_E3hWyUPM_MNQ</picture>
+      <description>Алтай</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01286</param>
+      <consist name="Хризантема кустовая
+Алтай" unit="шт">5</consist>
     </offer>
 </offers>
