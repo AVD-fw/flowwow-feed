@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
+    <offer id="Рс00015">
+      <name>Георгин Розовый 50 см Арт. Рс00015</name>
+      <price>126</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14SFWqkznWN843Ev-TwoBqXlEG7mO1T2S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kKpiZdF0g8JIKdVm_BUDkit8Slzsul5t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r9kIIGA070dNYtmYbZSM8wBkeAU2BvO-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Yodhzu2sdxSRaLg7BgFcaur3s5XOjiH-</picture>
+      <description>Георгин Розовый 50 см Арт. Рс00015</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс00015</param>
+      <consist name="Георгин
+Россия" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс00035">
+      <name>Георгин Ярко розовый 50 см Арт. Рс00035</name>
+      <price>126</price>
+      <qty>300</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Mttvk4-DyfO4uQM6BV5SzpvMvjD038zn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dkDBSDdnSQvJUMiNtXSOP_5tk-ZWWM0T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Swzvldhoc3tDamv7_42kvxwlzI9vyj5L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ph8OisTCid3ojJ0Eq0wyoOq7rUn65RJ6</picture>
+      <description>Георгин Ярко розовый 50 см Арт. Рс00035</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс00035</param>
+      <consist name="Георгин
+Россия" unit="шт">10</consist>
+    </offer>
     <offer id="Рс00055">
       <name>Георгин Фиолетовый 50 см Арт. Рс00055</name>
       <price>126</price>
@@ -28,5 +60,18 @@
       <param name="Артикул">Рс00995</param>
       <consist name="Гвоздика кустовая
 Турция" unit="шт">20</consist>
+    </offer>
+    <offer id="Рс01664">
+      <name>Георгин Белый 40 см Арт. Рс01664</name>
+      <price>126</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10G_vbLB2Xyt_kLDnwYHFiWJv82mt7VZ9</picture>
+      <description>Георгин Белый 40 см Арт. Рс01664</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01664</param>
+      <consist name="Георгин
+Россия" unit="шт">10</consist>
     </offer>
 </offers>
