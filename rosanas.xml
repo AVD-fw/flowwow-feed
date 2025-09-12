@@ -48,6 +48,25 @@
       <consist name="Георгин
 Россия" unit="шт">10</consist>
     </offer>
+    <offer id="Рс00136">
+      <name>Гвоздика одноголовая Вирджилио 60 см Арт. Рс00136</name>
+      <price>51</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fQkl2SuxGHXBWpABKHlM5D4WS0Kq8OsN</picture>
+      <picture>https://lh3.googleusercontent.com/d/14KgQc6M5XY5_ykObKJ3yGeqpFz6USasp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1386qqsH6Ut9T3kb3YLvHmtzxbPf4x87h</picture>
+      <picture>https://lh3.googleusercontent.com/d/17k0KXQ6o3nOtCr3KVZxgqljg9NDo1ZKe</picture>
+      <description>Вирджилио</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Рс00136</param>
+      <consist name="Гвоздика одноголовая
+Вирджилио
+Geoflora
+Колумбия" unit="шт">25</consist>
+    </offer>
     <offer id="Рс00197">
       <name>Альстромерия  Аврора 70 см Арт. Рс00197</name>
       <price>49</price>
@@ -65,6 +84,24 @@
       <consist name="Альстромерия 
 Аврора
 Россия" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс00234">
+      <name>Вероника Смарт Диана 40 см Арт. Рс00234</name>
+      <price>59</price>
+      <qty>40</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JQ3Vu6oiYcqiUsXzXF0RA3RMVMoHEEaN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JyMaYHdNUww3d5Gc2xcFZyAGmbG5bqge</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rTSWb_mY0sCNAwjNX8wiitt1kBXJhOB9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zeOjhGHtGXlrsFYBkji_GTz9htjnYcBD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DWLecO4zBHvTGapeu1e3rhNkS14ZGKH0</picture>
+      <description>Смарт Диана</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Рс00234</param>
+      <consist name="Вероника
+Смарт Диана
+Голландия" unit="шт">20</consist>
     </offer>
     <offer id="Рс00635">
       <name>Роза кустовая пионовидная Мисс Пиони 50 см Арт. Рс00635</name>
@@ -114,6 +151,20 @@
       <consist name="Гвоздика кустовая
 Турция" unit="шт">20</consist>
     </offer>
+    <offer id="Рс01004">
+      <name>Калла Денвер 40 см Арт. Рс01004</name>
+      <price>182</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11f-mcNRenQ9pVzeu_DxhGq_klX0rpWi-</picture>
+      <description>Денвер</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Рс01004</param>
+      <consist name="Калла
+Денвер
+Голландия" unit="шт">10</consist>
+    </offer>
     <offer id="Рс01047">
       <name>Кампанула Кам Пеар Пинк 70 см Арт. Рс01047</name>
       <price>134</price>
@@ -139,6 +190,51 @@
       <param name="Артикул">Рс01057</param>
       <consist name="Кампанула
 Чемпион Блу" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01235">
+      <name>Гиперикум Коко Казино 50 см Арт. Рс01235</name>
+      <price>105</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xPN64-IOg66mzgIkdaGSnMx3VCyLmjqs</picture>
+      <description>Коко Казино</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Floriusflowers</param>
+      <param name="Артикул">Рс01235</param>
+      <consist name="Гиперикум
+Коко Казино
+Floriusflowers
+Голландия" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01245">
+      <name>Гиперикум Коко Диабло 50 см Арт. Рс01245</name>
+      <price>105</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yRGFUbujNdD9pdr7V_LElCNcXSCx7LqV</picture>
+      <description>Коко Диабло</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Floriusflowers</param>
+      <param name="Артикул">Рс01245</param>
+      <consist name="Гиперикум
+Коко Диабло
+Floriusflowers
+Голландия" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01297">
+      <name>Целозия Роуз Делайт 70 см Арт. Рс01297</name>
+      <price>163</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18DDzla_AhcbikK8W-JDDOKV3H4em7lhW</picture>
+      <description>Роуз Делайт</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01297</param>
+      <consist name="Целозия
+Роуз Делайт" unit="шт">5</consist>
     </offer>
     <offer id="Рс01431">
       <name>Гладиолус Нова Зембла 120 см Арт. Рс01431</name>
@@ -282,6 +378,19 @@
 Меритим
 Волгоград 
 Россия" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01957">
+      <name>Гентиана Скай 75 см Арт. Рс01957</name>
+      <price>192</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Xg7vmbVBp3St8VIBkCgOcwIkJnU4kPMr</picture>
+      <description>Скай</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01957</param>
+      <consist name="Гентиана
+Скай" unit="шт">10</consist>
     </offer>
     <offer id="Рс01985">
       <name>Георгин Белый 50 см Арт. Рс01985</name>
