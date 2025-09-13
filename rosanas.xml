@@ -891,4 +891,29 @@ Zentoo" unit="шт">10</consist>
       <param name="Артикул">Рс02345</param>
       <consist name="Лизимахия" unit="шт">10</consist>
     </offer>
+    <offer id="Рс02375">
+      <name>Гвоздика 50 см Арт. Рс02375</name>
+      <price>187</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PZarXx5EKab3xxTUEqjxqyhm1TLlAW_P</picture>
+      <description>Грин Трик</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Турция</param>
+      <param name="Артикул">Рс02375</param>
+      <consist name="Гвоздика
+Турция" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс02387">
+      <name>Хризантема 70 см Арт. Рс02387</name>
+      <price>144</price>
+      <qty>5</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IkoF0dhGd4fUA5wkiNQ9KPXJXYu6Hq-4</picture>
+      <description>Алибаба</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02387</param>
+      <consist name="Хризантема" unit="шт">10</consist>
+    </offer>
 </offers>
