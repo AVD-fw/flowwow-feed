@@ -783,15 +783,39 @@ Decorum
       <consist name="Краспедия" unit="шт">10</consist>
     </offer>
     <offer id="Рс02286">
-      <name>Симфорикарпус Белый 60 см Арт. Рс02286</name>
-      <price>29</price>
+      <name>Симфорикарпус 60 см Арт. Рс02286</name>
+      <price>174</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XjmCc9VYVdpmrQT8od27ZzD9R0BEAnjK</picture>
-      <description>Симфорикарпус Белый 60 см Арт. Рс02286</description>
+      <description>Меджикал Брайд</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Рс02286</param>
       <consist name="Симфорикарпус" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс02297">
+      <name>Хризантема 70 см Арт. Рс02297</name>
+      <price>134</price>
+      <qty>40</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zo546PokUYRB3tgaLawuEIIMrVmQC4ax</picture>
+      <description>Балтика Еллоу</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02297</param>
+      <consist name="Хризантема" unit="шт">5</consist>
+    </offer>
+    <offer id="Рс02308">
+      <name>Хризантема 80 см Арт. Рс02308</name>
+      <price>147</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16Z5isVMHAf6OktuH0QKs2C_PkIzEFs8H</picture>
+      <description>Фуего</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02308</param>
+      <consist name="Хризантема" unit="шт">10</consist>
     </offer>
 </offers>
