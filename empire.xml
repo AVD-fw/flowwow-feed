@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
+    <offer id="FL0044">
+      <name>Лимониум Фиолетовый 80 см Арт. Иц00448</name>
+      <price>120</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lnFBSHU0oILRydAUPZASEPlTvTodtcGT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EfUSkSZxS0t1lZykQr-TTUdCWwMRQHjS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1krYL6oQGXoS4fB09v-6rapyuinZsIiO0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZpjpSUBN5tt5PRgMX8kG-ja5qJ-_8HNX</picture>
+      <description>Лимониум Фиолетовый 80 см Арт. Иц00448</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Klaverflowers</param>
+      <param name="Артикул">Иц00448</param>
+      <consist name="Лимониум
+Klaverflowers
+Голландия" unit="шт">25</consist>
+    </offer>
     <offer id="FL0112">
       <name>Астильба Белый 50 см Арт. Иц01125</name>
       <price>101</price>
@@ -11,6 +29,30 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Иц01125</param>
       <consist name="Астильба" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0121">
+      <name>Статица Белый 50 см Арт. Иц01215</name>
+      <price>120</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1V1x_j4cgXNHoX2LgK4IVqlVnZPxrSajc</picture>
+      <description>Статица Белый 50 см Арт. Иц01215</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01215</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0122">
+      <name>Лимониум Белый 50 см Арт. Иц01225</name>
+      <price>120</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fkWQSWJ1teTpKJD07GXUx22fSmYUSZPQ</picture>
+      <description>Лимониум Белый 50 см Арт. Иц01225</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц01225</param>
+      <consist name="Лимониум" unit="шт">25</consist>
     </offer>
     <offer id="FL0160">
       <name>Роза одноголовая Анор 60 см Арт. Иц01606</name>
