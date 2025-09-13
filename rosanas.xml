@@ -710,4 +710,28 @@ Decorum
       <param name="Артикул">Рс02207</param>
       <consist name="Клематис" unit="шт">10</consist>
     </offer>
+    <offer id="Рс02215">
+      <name>Астильба Европа 50 см Арт. Рс02215</name>
+      <price>102</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Kg8w5mh67gb_3CSgsVxN0hAK8w7BgipK</picture>
+      <description>Европа</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02215</param>
+      <consist name="Астильба Европа" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс02227">
+      <name>Гидрангия Розовый 70 см Арт. Рс02227</name>
+      <price>512</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JWR5TXM1ap_CVwXJ1tFVw5fVB9Kk6lXk</picture>
+      <description>Гидрангия Розовый 70 см Арт. Рс02227</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02227</param>
+      <consist name="Гидрангия" unit="шт">5</consist>
+    </offer>
 </offers>
