@@ -770,4 +770,28 @@ Decorum
       <param name="Артикул">Рс02267</param>
       <consist name="Астранция" unit="шт">10</consist>
     </offer>
+    <offer id="Рс02275">
+      <name>Краспедия Желтый 50 см Арт. Рс02275</name>
+      <price>29</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h9h2MRd5OewOJVCObRwRmE9T51hdZrX7</picture>
+      <description>Краспедия Желтый 50 см Арт. Рс02275</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02275</param>
+      <consist name="Краспедия" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс02286">
+      <name>Симфорикарпус Белый 60 см Арт. Рс02286</name>
+      <price>29</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XjmCc9VYVdpmrQT8od27ZzD9R0BEAnjK</picture>
+      <description>Симфорикарпус Белый 60 см Арт. Рс02286</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02286</param>
+      <consist name="Симфорикарпус" unit="шт">10</consist>
+    </offer>
 </offers>
