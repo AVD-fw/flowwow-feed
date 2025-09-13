@@ -685,4 +685,29 @@ Decorum
       <param name="Артикул">Рс02187</param>
       <consist name="Скабиоза" unit="шт">10</consist>
     </offer>
+    <offer id="Рс02197">
+      <name>Хризантема 70 см Арт. Рс02197</name>
+      <price>134</price>
+      <qty>20</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OBkeD_n6DqgEIAgdRSniSYxDm8jwDK49</picture>
+      <description>Перпл стар</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Рс02197</param>
+      <consist name="Хризантема" unit="шт">5</consist>
+    </offer>
+    <offer id="Рс02207">
+      <name>Клематис 70 см Арт. Рс02207</name>
+      <price>96</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10S9cq4iDb2ICKlp5x0kttI7dAAjqVuQ6</picture>
+      <description>Блу Пируэт</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02207</param>
+      <consist name="Клематис" unit="шт">10</consist>
+    </offer>
 </offers>
