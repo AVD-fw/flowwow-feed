@@ -519,11 +519,11 @@ RosaPrima
       <description>Леди Бомбастик</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
+      <param name="Производитель">Удмуртия</param>
       <param name="Артикул">Рс01825</param>
       <consist name="Роза кустовая
 Леди Бомбастик
-Цветополис
+Удмуртия
 Россия" unit="шт">10</consist>
     </offer>
     <offer id="Рс01845">
@@ -535,9 +535,11 @@ RosaPrima
       <description>Ред Кнайт</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
+      <param name="Производитель">Волгоград</param>
       <param name="Артикул">Рс01845</param>
       <consist name="Роза одноголовая
 Ред Кнайт
+Волгоград
 Россия" unit="шт">1</consist>
     </offer>
     <offer id="Рс01896">
