@@ -636,4 +636,29 @@ Decorum
       <param name="Артикул">Рс02145</param>
       <consist name="Пион" unit="шт">10</consist>
     </offer>
+    <offer id="Рс02155">
+      <name>Гвоздика кустовая Фиеро 50 см Арт. Рс02155</name>
+      <price>55</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xrbemGP9BV-_dq0IHkNu2EoDC4Va_bE9</picture>
+      <description>Фиеро</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">GEOFLORA</param>
+      <param name="Артикул">Рс02155</param>
+      <consist name="Гвоздика кустовая Фиеро" unit="шт">25</consist>
+    </offer>
+    <offer id="Рс02167">
+      <name>Целозия 72 см Арт. Рс02167</name>
+      <price>121</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W7TiBPdO6nWAf2Eg1RDYeOLLlgm7ol1T</picture>
+      <description>Джименг</description>
+      <param name="Высота, см">72</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс02167</param>
+      <consist name="Целозия" unit="шт">5</consist>
+    </offer>
 </offers>
