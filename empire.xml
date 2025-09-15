@@ -1,213 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
-    <offer id="FL0042">
-      <name>Ирис Белый 50 см Арт. Иц00425</name>
-      <price>41</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xNVR-C0aEywsRi3B_pVb7C26CTh5p1sR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DhLezn49NsnZS7i-rSMkO7BiPHjIXnEH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CV_CFJ-aldsf1vtbydJ3PniWXcu_pzGS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fpfQZL8G7BE0qw3FMxryFRej6qlHdYv8</picture>
-      <description>Ирис Белый 50 см Арт. Иц00425</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Иц00425</param>
-      <consist name="Ирис
-Decorum
-Голландия" unit="шт">50</consist>
-    </offer>
-    <offer id="FL0044">
-      <name>Лимониум Фиолетовый 80 см Арт. Иц00448</name>
-      <price>120</price>
+    <offer id="FL0053">
+      <name>Гипсофила Радужный 70 см Арт. Иц00537</name>
+      <price>77</price>
       <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1lnFBSHU0oILRydAUPZASEPlTvTodtcGT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EfUSkSZxS0t1lZykQr-TTUdCWwMRQHjS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1krYL6oQGXoS4fB09v-6rapyuinZsIiO0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZpjpSUBN5tt5PRgMX8kG-ja5qJ-_8HNX</picture>
-      <description>Лимониум Фиолетовый 80 см Арт. Иц00448</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Klaverflowers</param>
-      <param name="Артикул">Иц00448</param>
-      <consist name="Лимониум
-Klaverflowers
-Голландия" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0091">
-      <name>Хризантема кустовая Делигрин 60 см Арт. Иц00916</name>
-      <price>80</price>
-      <qty>50</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1h7Jt4Wnd1I6d5baxjXM5hykCbzXR6LPF</picture>
-      <description>Делигрин</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Иц00916</param>
-      <consist name="Хризантема кустовая
-Делигрин
-Zentoo
-Голландия" unit="шт">5</consist>
-    </offer>
-    <offer id="FL0031">
-      <name>Хризантема Сантини Желтый 60 см Арт. Иц00316</name>
-      <price>82</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1tEFPI5HmJc6STqm-duw49EsPEfLuVio2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CKao_UUnIMvlrIECGusVSfsVnjhEjmjo</picture>
-      <picture>https://lh3.googleusercontent.com/d/1v1x0q3Nxi3LdA0ha4_0D8KszWlKnJpQF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vF2gyufRVxzePLII4EcIQw0d7CfDK91R</picture>
-      <description>Хризантема Сантини Желтый 60 см Арт. Иц00316</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Preferred pick</param>
-      <param name="Артикул">Иц00316</param>
-      <consist name="Хризантема Сантини
-Preferred pick
-Голландия" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0098">
-      <name>Хризантема Сантини Пепталк 50 см Арт. Иц00985</name>
-      <price>82</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14eFjjnCkLS55Yopw-6_JSVmQPwPx5ecD</picture>
-      <description>Пепталк</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Иц00985</param>
-      <consist name="Хризантема Сантини
-Пепталк
-Decorum" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0100">
-      <name>Хризантема Сантини Фиолетовый 50 см Арт. Иц01005</name>
-      <price>82</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19RygnhrWv2jycxQMTvPUSo4LcWpdzQ6V</picture>
-      <description>Хризантема Сантини Фиолетовый 50 см Арт. Иц01005</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01005</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0111">
-      <name>Астильба Розовый 50 см Арт. Иц01115</name>
-      <price>101</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kRRfp36XwXGncnheaVlPM1mhDEUKCVOP</picture>
-      <description>Астильба Розовый 50 см Арт. Иц01115</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01115</param>
-      <consist name="Астильба" unit="шт">10</consist>
-    </offer>
-    <offer id="FL0112">
-      <name>Астильба Белый 50 см Арт. Иц01125</name>
-      <price>101</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Xgkteeow-EIqaz0qyuZzfLR_dv02kyph</picture>
-      <description>Астильба Белый 50 см Арт. Иц01125</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01125</param>
-      <consist name="Астильба" unit="шт">10</consist>
-    </offer>
-    <offer id="FL0114">
-      <name>Гвоздика одноголовая Малиновый 60 см Арт. Иц01146</name>
-      <price>42</price>
-      <qty>200</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/11kSlhq1XpL5QmPQRseJRLjYpwzh8gXDU</picture>
-      <description>Гвоздика одноголовая Малиновый 60 см Арт. Иц01146</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01146</param>
-      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0117">
-      <name>Гипсофила Розовая-белая-голубая 50 см Арт. Иц01175</name>
-      <price>77</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/16AeoYQXGrcuHgkr0Bqtb9JYlOvI3BNi_</picture>
-      <description>Розовая-белая-голубая</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01175</param>
-      <consist name="Гипсофила
-Розовая-белая-голубая" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0118">
-      <name>Статица Лиловый 50 см Арт. Иц01185</name>
-      <price>120</price>
-      <qty>100</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1zisBA6v_kLD53VayCYRZvrsz5Hk_QZS7</picture>
-      <description>Статица Лиловый 50 см Арт. Иц01185</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01185</param>
-      <consist name="Статица" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0120">
-      <name>Эрингиум Синий 50 см Арт. Иц01205</name>
-      <price>150</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DtKtoM1MBWB5Bhh6EZb7pT3_n53zxfBx</picture>
-      <description>Эрингиум Синий 50 см Арт. Иц01205</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01205</param>
-      <consist name="Эрингиум" unit="шт">10</consist>
-    </offer>
-    <offer id="FL0121">
-      <name>Статица Белый 50 см Арт. Иц01215</name>
-      <price>120</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1V1x_j4cgXNHoX2LgK4IVqlVnZPxrSajc</picture>
-      <description>Статица Белый 50 см Арт. Иц01215</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01215</param>
-      <consist name="Статица" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0122">
-      <name>Лимониум Белый 50 см Арт. Иц01225</name>
-      <price>120</price>
-      <qty>100</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1fkWQSWJ1teTpKJD07GXUx22fSmYUSZPQ</picture>
-      <description>Лимониум Белый 50 см Арт. Иц01225</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01225</param>
-      <consist name="Лимониум" unit="шт">25</consist>
-    </offer>
-    <offer id="FL0123">
-      <name>Гипсофила Краш. Светло-Розовая 70 см Арт. Иц01237</name>
-      <price>77</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/11YkrS3WdSd8aCLxURMLA2Rm9vH3EX2jT</picture>
-      <description>Краш. Светло-Розовая</description>
+      <picture>https://lh3.googleusercontent.com/d/16l4HDeE2vTgvZtr87wJ0PMDHyYKCvC8p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uEjBqIPlRo2GmAISDtB-VT-99j1eZuxC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oxuUd7WzIzhxkqpscwdBzvKBjW9AOqrK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w4oulXKzVk-YMkLcgo27R59X-2PwmUHj</picture>
+      <description>Гипсофила Радужный 70 см Арт. Иц00537</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Эквадор</param>
       <param name="Производитель">Esmeralda</param>
-      <param name="Артикул">Иц01237</param>
+      <param name="Артикул">Иц00537</param>
       <consist name="Гипсофила
-Краш. Светло-Розовая
 Esmeralda
 Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0054">
+      <name>Гипсофила Белый 70 см Арт. Иц00547</name>
+      <price>69</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kCwWBoitDU2r_FTV1q9oZpfXLdcMf8j8</picture>
+      <picture>https://lh3.googleusercontent.com/d/17yaqu7emMAIbV3JXEt3eYhYlXS0k43Z4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AdaZF0JebD7KPuoyFKJNPS6ORx5narn2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ftz2UVQp-4oZ7TpjhuY_Bgyb8QFG4FER</picture>
+      <description>Гипсофила Белый 70 см Арт. Иц00547</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Иц00547</param>
+      <consist name="Гипсофила
+Esmeralda
+Эквадор" unit="шт">25</consist>
+    </offer>
+    <offer id="FL0163">
+      <name>Роза одноголовая Стар Блю 70 см Арт. Иц01637</name>
+      <price>130</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qPBQB8rCz2qkSNOkZT6lviMUPDYkXQqI</picture>
+      <description>Стар Блю</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эвкадор</param>
+      <param name="Производитель">Star Roses</param>
+      <param name="Артикул">Иц01637</param>
+      <consist name="Роза одноголовая
+Стар Блю
+Star Roses
+Эвкадор" unit="шт">25</consist>
     </offer>
 </offers>
