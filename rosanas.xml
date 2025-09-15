@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
-    <offer id="rosanas_B2B_1">
-      <name>Георгин Ярко розовый 50 см</name>
+    <offer id="Рс00035">
+      <name>Георгин Ярко розовый 50 см Арт. Рс00035</name>
       <price>126</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -9,14 +9,15 @@
       <picture>https://lh3.googleusercontent.com/d/1dkDBSDdnSQvJUMiNtXSOP_5tk-ZWWM0T</picture>
       <picture>https://lh3.googleusercontent.com/d/1Swzvldhoc3tDamv7_42kvxwlzI9vyj5L</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ph8OisTCid3ojJ0Eq0wyoOq7rUn65RJ6</picture>
-      <description>Георгин Ярко розовый 50 см</description>
+      <description>Георгин Ярко розовый 50 см Арт. Рс00035</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
+      <param name="Артикул">Рс00035</param>
       <consist name="Георгин
 Россия" unit="шт">10</consist>
     </offer>
-    <offer id="rosanas_B2B_2">
-      <name>Гвоздика одноголовая Вирджилио 60 см</name>
+    <offer id="Рс00136">
+      <name>Гвоздика одноголовая Вирджилио 60 см Арт. Рс00136</name>
       <price>52</price>
       <qty>10</qty>
       <quantity_in_package>25</quantity_in_package>
@@ -28,13 +29,14 @@
       <param name="Высота, см">60</param>
       <param name="Страна">Колумбия</param>
       <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Рс00136</param>
       <consist name="Гвоздика одноголовая
 Вирджилио
 Geoflora
 Колумбия" unit="шт">25</consist>
     </offer>
-    <offer id="rosanas_B2B_3">
-      <name>Гвоздика одноголовая Зенит 70 см</name>
+    <offer id="Рс00977">
+      <name>Гвоздика одноголовая Зенит 70 см Арт. Рс00977</name>
       <price>67</price>
       <qty>10</qty>
       <quantity_in_package>25</quantity_in_package>
@@ -42,24 +44,65 @@ Geoflora
       <description>Зенит</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
+      <param name="Артикул">Рс00977</param>
       <consist name="Гвоздика одноголовая
 Зенит
 Колумбия" unit="шт">25</consist>
     </offer>
-    <offer id="rosanas_B2B_4">
-      <name>Гвоздика кустовая 50 см</name>
+    <offer id="Рс00995">
+      <name>Гвоздика кустовая 50 см Арт. Рс00995</name>
       <price>37</price>
       <qty>10</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1FwlOKFkygYwvZkxY9MRdRTY_naACG18w</picture>
-      <description>Гвоздика кустовая 50 см</description>
+      <description>Гвоздика кустовая 50 см Арт. Рс00995</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Турция</param>
+      <param name="Артикул">Рс00995</param>
       <consist name="Гвоздика кустовая
 Турция" unit="шт">20</consist>
     </offer>
-    <offer id="rosanas_B2B_5">
-      <name>Гладиолус Ред Баланс 120 см</name>
+    <offer id="Рс01441">
+      <name>Гладиолус Мистик Маджен 120 см Арт. Рс01441</name>
+      <price>192</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-haPJqWl2lsldVE3Sgb5iJOzPAioDnhb</picture>
+      <description>Мистик Маджен</description>
+      <param name="Высота, см">120</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01441</param>
+      <consist name="Гладиолус
+Мистик Маджен" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01497">
+      <name>Альстромерия Аврора 70 см Арт. Рс01497</name>
+      <price>105</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G97rrpgwTwk2qjez1_d2bEAp7dtgu1wp</picture>
+      <description>Аврора</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01497</param>
+      <consist name="Альстромерия
+Аврора" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01588">
+      <name>Крокосмия Бест фаир кинг 85 см Арт. Рс01588</name>
+      <price>86</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sMRbY0VN0qV7lNPVjfw0o8S9tVGSD2qL</picture>
+      <description>Бест фаир кинг</description>
+      <param name="Высота, см">85</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01588</param>
+      <consist name="Крокосмия
+Бест фаир кинг" unit="шт">10</consist>
+    </offer>
+    <offer id="Рс01611">
+      <name>Гладиолус Ред Баланс 120 см Арт. Рс01611</name>
       <price>192</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -67,11 +110,12 @@ Geoflora
       <description>Ред Баланс</description>
       <param name="Высота, см">120</param>
       <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01611</param>
       <consist name="Гладиолус
 Ред Баланс" unit="шт">10</consist>
     </offer>
-    <offer id="rosanas_B2B_6">
-      <name>Гентиана Скай 80 см</name>
+    <offer id="Рс01958">
+      <name>Гентиана Скай 80 см Арт. Рс01958</name>
       <price>192</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -79,6 +123,7 @@ Geoflora
       <description>Скай</description>
       <param name="Высота, см">80</param>
       <param name="Страна">Россия</param>
+      <param name="Артикул">Рс01958</param>
       <consist name="Гентиана
 Скай" unit="шт">10</consist>
     </offer>
