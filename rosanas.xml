@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
     <offer id="rosanas_B2B_1">
+      <name>Георгин Ярко розовый 50 см</name>
+      <price>126</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Mttvk4-DyfO4uQM6BV5SzpvMvjD038zn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dkDBSDdnSQvJUMiNtXSOP_5tk-ZWWM0T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Swzvldhoc3tDamv7_42kvxwlzI9vyj5L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ph8OisTCid3ojJ0Eq0wyoOq7rUn65RJ6</picture>
+      <description>Георгин Ярко розовый 50 см</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <consist name="Георгин
+Россия" unit="шт">10</consist>
+    </offer>
+    <offer id="rosanas_B2B_2">
       <name>Гвоздика одноголовая Вирджилио 60 см</name>
       <price>52</price>
       <qty>10</qty>
@@ -18,7 +33,7 @@
 Geoflora
 Колумбия" unit="шт">25</consist>
     </offer>
-    <offer id="rosanas_B2B_2">
+    <offer id="rosanas_B2B_3">
       <name>Гвоздика одноголовая Зенит 70 см</name>
       <price>67</price>
       <qty>10</qty>
@@ -31,7 +46,19 @@ Geoflora
 Зенит
 Колумбия" unit="шт">25</consist>
     </offer>
-    <offer id="rosanas_B2B_3">
+    <offer id="rosanas_B2B_4">
+      <name>Гвоздика кустовая 50 см</name>
+      <price>37</price>
+      <qty>10</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FwlOKFkygYwvZkxY9MRdRTY_naACG18w</picture>
+      <description>Гвоздика кустовая 50 см</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Турция</param>
+      <consist name="Гвоздика кустовая
+Турция" unit="шт">20</consist>
+    </offer>
+    <offer id="rosanas_B2B_5">
       <name>Гентиана Скай 80 см</name>
       <price>192</price>
       <qty>10</qty>
