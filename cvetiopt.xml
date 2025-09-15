@@ -15,6 +15,18 @@
 FloriusFlowers
 Голландия" unit="шт">20</consist>
     </offer>
+    <offer id="FL0075">
+      <name>Бруния Серый 50 см Арт. Цо00755</name>
+      <price>90</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tLQu00eXmsjpwcSeiwhbJcXWFfrukfCg</picture>
+      <description>Бруния Серый 50 см Арт. Цо00755</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо00755</param>
+      <consist name="Бруния" unit="шт">10</consist>
+    </offer>
     <offer id="FL0076">
       <name>Гиперикум Красный 50 см Арт. Цо00765</name>
       <price>95</price>
@@ -29,5 +41,33 @@ FloriusFlowers
       <consist name="Гиперикум
 FloriusFlowers
 Голландия" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0078">
+      <name>Фрезия Розовый 50 см Арт. Цо00785</name>
+      <price>75</price>
+      <qty>10</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NukhEzQ-zSGk19WvrM0pCSS0FlSsJlAv</picture>
+      <description>Фрезия Розовый 50 см Арт. Цо00785</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Unicum gold</param>
+      <param name="Артикул">Цо00785</param>
+      <consist name="Фрезия
+Unicum gold" unit="шт">50</consist>
+    </offer>
+    <offer id="FL0079">
+      <name>Фрезия Разноцветный 50 см Арт. Цо00795</name>
+      <price>75</price>
+      <qty>10</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HZ9VyjpPJr8zhnJG7Sf_23dKdQhHUzP3</picture>
+      <description>Фрезия Разноцветный 50 см Арт. Цо00795</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Akerboom</param>
+      <param name="Артикул">Цо00795</param>
+      <consist name="Фрезия
+Akerboom" unit="шт">50</consist>
     </offer>
 </offers>
