@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
-    <offer id="Рс00136">
-      <name>Гвоздика одноголовая Вирджилио 60 см Арт. Рс00136</name>
+    <offer id="rosanas_B2B_1">
+      <name>Гвоздика одноголовая Вирджилио 60 см</name>
       <price>52</price>
       <qty>10</qty>
       <quantity_in_package>25</quantity_in_package>
@@ -13,14 +13,13 @@
       <param name="Высота, см">60</param>
       <param name="Страна">Колумбия</param>
       <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Рс00136</param>
       <consist name="Гвоздика одноголовая
 Вирджилио
 Geoflora
 Колумбия" unit="шт">25</consist>
     </offer>
-    <offer id="Рс00977">
-      <name>Гвоздика одноголовая Зенит 70 см Арт. Рс00977</name>
+    <offer id="rosanas_B2B_2">
+      <name>Гвоздика одноголовая Зенит 70 см</name>
       <price>67</price>
       <qty>10</qty>
       <quantity_in_package>25</quantity_in_package>
@@ -28,9 +27,20 @@ Geoflora
       <description>Зенит</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
-      <param name="Артикул">Рс00977</param>
       <consist name="Гвоздика одноголовая
 Зенит
 Колумбия" unit="шт">25</consist>
+    </offer>
+    <offer id="rosanas_B2B_3">
+      <name>Гентиана Скай 80 см</name>
+      <price>192</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/196s6W44DtSb8ObyZQ5eaqa3aIR0-yEhi</picture>
+      <description>Скай</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <consist name="Гентиана
+Скай" unit="шт">10</consist>
     </offer>
 </offers>
