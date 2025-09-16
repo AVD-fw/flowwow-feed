@@ -120,7 +120,7 @@
     <offer id="Рс01599">
       <name>Крокосмия Бес Люцифер 90 см Арт. Рс01599</name>
       <price>67</price>
-      <qty>60</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1i0a4C4QEn5ALEj8EPog2QIEW4-W1G8iz</picture>
       <description>Бес Люцифер</description>
@@ -130,10 +130,36 @@
       <consist name="Крокосмия
 Бес Люцифер" unit="шт">10</consist>
     </offer>
+    <offer id="Рс0254">
+      <name>Куэркас Рубра Клеурбеханделд 50 см Арт. Рс0254</name>
+      <price>1242</price>
+      <qty>80</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Eno9rlk18FKmJzCaEU-JRwO0BJVqqwLq</picture>
+      <description>Рубра Клеурбеханделд</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс0254</param>
+      <consist name="Куэркас
+Рубра Клеурбеханделд" unit="шт">20</consist>
+    </offer>
+    <offer id="Рс0255">
+      <name>Куэркас Рубра Клеурбеханделд 50 см Арт. Рс0255</name>
+      <price>1242</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1spICFB2gVDPvay-6qEOcveg0EOI7NBTb</picture>
+      <description>Рубра Клеурбеханделд</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Рс0255</param>
+      <consist name="Куэркас
+Рубра Клеурбеханделд" unit="шт">20</consist>
+    </offer>
     <offer id="Рс01106">
       <name>Нутан Сакссешн 60 см Арт. Рс01106</name>
       <price>192</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Pym5cmu2BeeIdSLbrmst-IrVMsYIHu7S</picture>
       <description>Сакссешн</description>
@@ -146,7 +172,7 @@
     <offer id="Рс00607">
       <name>Подсолнух Желтый 70 см Арт. Рс00607</name>
       <price>123</price>
-      <qty>500</qty>
+      <qty>400</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xHgvVmieyBnQUksXQJKgdHyw_WLloqoi</picture>
       <picture>https://lh3.googleusercontent.com/d/1NhZ3uDFVqDid36dks8z-koF8tPuqCiCm</picture>
@@ -158,21 +184,6 @@
       <param name="Артикул">Рс00607</param>
       <consist name="Подсолнух
 Россия" unit="шт">10</consist>
-    </offer>
-    <offer id="Рс02317">
-      <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. Рс02317</name>
-      <price>127</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1guYSG8XzyLrmrktcCSRk4YS4Mjm1I7jP</picture>
-      <description>Росс Элизабетт</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Рс02317</param>
-      <consist name="Хризантема одноголовая
-Росс Элизабетт
-Zentoo" unit="шт">10</consist>
     </offer>
     <offer id="Рс02167">
       <name>Целозия Джименг 72 см Арт. Рс02167</name>
