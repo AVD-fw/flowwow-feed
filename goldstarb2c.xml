@@ -11,6 +11,17 @@
       <param name="Артикул">Gs00056</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">1</consist>
     </offer>
+    <offer id="FL0006">
+      <name>Роза одноголовая Софи Лорен 50 см Арт. Gs00065</name>
+      <price>1125</price>
+      <picture>https://lh3.googleusercontent.com/d/1LKWA_G2rVIt5qwTPQQgeAxybgX5GBvrz</picture>
+      <description>Софи Лорен</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Горкунов</param>
+      <param name="Артикул">Gs00065</param>
+      <consist name="Роза одноголовая Софи Лорен" unit="шт">1</consist>
+    </offer>
     <offer id="FL0011">
       <name>Роза одноголовая Пич Аваланж 50 см Арт. Gs00115</name>
       <price>1125</price>
@@ -21,5 +32,16 @@
       <param name="Производитель">Горкунов</param>
       <param name="Артикул">Gs00115</param>
       <consist name="Роза одноголовая Пич Аваланж" unit="шт">1</consist>
+    </offer>
+    <offer id="FL0023">
+      <name>Роза одноголовая Аваланж 50 см Арт. Gs00235</name>
+      <price>1125</price>
+      <picture>https://lh3.googleusercontent.com/d/1g2bZFj5vTcpGpMapGM6DEPUr_lktZyqm</picture>
+      <description>Аваланж</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Горкунов</param>
+      <param name="Артикул">Gs00235</param>
+      <consist name="Роза одноголовая Аваланж" unit="шт">1</consist>
     </offer>
 </offers>
