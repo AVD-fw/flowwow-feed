@@ -79,6 +79,18 @@ FloriusFlowers
       <param name="Артикул">Цо01675</param>
       <consist name="Вибурнум" unit="шт">5</consist>
     </offer>
+    <offer id="FL0189">
+      <name>Гидрангия Розовый 50 см Арт. Цо01895</name>
+      <price>1</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DK_W5JEKury8xK5Jpa4MKvh9mhA_YgEg</picture>
+      <description>Гидрангия Розовый 50 см Арт. Цо01895</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо01895</param>
+      <consist name="Гидрангия" unit="шт">5</consist>
+    </offer>
     <offer id="FL0191">
       <name>Танацетум Белый 50 см Арт. Цо01915</name>
       <price>78</price>
@@ -102,5 +114,48 @@ FloriusFlowers
       <param name="Страна">Россия</param>
       <param name="Артикул">Цо02055</param>
       <consist name="Скиммия" unit="шт">1</consist>
+    </offer>
+    <offer id="FL0209">
+      <name>Астильба Красный 50 см Арт. Цо02095</name>
+      <price>65</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xF5YK-1E7Y5zeIq7d0oeF1ch3wBHRnOg</picture>
+      <description>Астильба Красный 50 см Арт. Цо02095</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо02095</param>
+      <consist name="Астильба" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0239">
+      <name>Роза кустовая Таня 60 см Арт. Цо02396</name>
+      <price>155</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lLke2afLUVajtYpdtSidznK9k-wctMwK</picture>
+      <description>Таня</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия розы</param>
+      <param name="Артикул">Цо02396</param>
+      <consist name="Роза кустовая
+Таня
+Линия розы
+Россия" unit="шт">10</consist>
+    </offer>
+    <offer id="FL0306">
+      <name>Роза кустовая пионовидная Сфилд-Пинк-парк 60 см Арт. Цо03066</name>
+      <price>1000</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q5XH-ciND8mmpK0Ia9azCgfxCBqA6JsO</picture>
+      <description>Сфилд-Пинк-парк</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">VIP Roses</param>
+      <param name="Артикул">Цо03066</param>
+      <consist name="Роза кустовая пионовидная
+Сфилд-Пинк-парк
+VIP Roses" unit="шт">10</consist>
     </offer>
 </offers>
