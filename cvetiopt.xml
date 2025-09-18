@@ -57,7 +57,7 @@ FloriusFlowers
     <offer id="FL0111">
       <name>Роза одноголовая пионовидная Голден Вувузелла 50 см Арт. Цо01115</name>
       <price>135</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YiPLDw-jD10vk9_VCXL1TfglOO8RMG8D</picture>
       <description>Голден Вувузелла</description>
@@ -70,7 +70,7 @@ FloriusFlowers
     <offer id="FL0167">
       <name>Вибурнум Черный 50 см Арт. Цо01675</name>
       <price>235</price>
-      <qty>50</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Lq0_EI14MS3CRnBC05_4rvCHVyof8g8V</picture>
       <description>Вибурнум Черный 50 см Арт. Цо01675</description>
@@ -82,7 +82,7 @@ FloriusFlowers
     <offer id="FL0191">
       <name>Танацетум Белый 50 см Арт. Цо01915</name>
       <price>78</price>
-      <qty>25</qty>
+      <qty>1125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16WuTAh6ETWaHAFlsZxnzj9jhq2hHMUE8</picture>
       <description>Танацетум Белый 50 см Арт. Цо01915</description>
@@ -94,7 +94,7 @@ FloriusFlowers
     <offer id="FL0205">
       <name>Скиммия Зеленый 50 см Арт. Цо02055</name>
       <price>600</price>
-      <qty>10</qty>
+      <qty>15</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yafPxGlBxMTpLRt0wkvFvaX_1SFcsbeF</picture>
       <description>Скиммия Зеленый 50 см Арт. Цо02055</description>
@@ -102,33 +102,5 @@ FloriusFlowers
       <param name="Страна">Россия</param>
       <param name="Артикул">Цо02055</param>
       <consist name="Скиммия" unit="шт">1</consist>
-    </offer>
-    <offer id="FL0209">
-      <name>Астильба Красный 50 см Арт. Цо02095</name>
-      <price>65</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xF5YK-1E7Y5zeIq7d0oeF1ch3wBHRnOg</picture>
-      <description>Астильба Красный 50 см Арт. Цо02095</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Цо02095</param>
-      <consist name="Астильба" unit="шт">10</consist>
-    </offer>
-    <offer id="FL0239">
-      <name>Роза кустовая Таня 60 см Арт. Цо02396</name>
-      <price>155</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1lLke2afLUVajtYpdtSidznK9k-wctMwK</picture>
-      <description>Таня</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Линия розы</param>
-      <param name="Артикул">Цо02396</param>
-      <consist name="Роза кустовая
-Таня
-Линия розы
-Россия" unit="шт">10</consist>
     </offer>
 </offers>
