@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-18T19:38:22.880+03:00">
+<yml_catalog date="2025-09-18T19:43:20.953+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -174,6 +174,24 @@ FloriusFlowers
 Сфилд-Пинк-парк
 VIP Roses
 Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Цо603">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая Б Бабблс 50 см Арт. Цо603</name>
+      <price>60</price>
+      <qty>10</qty>
+      <picture>https://lh3.googleusercontent.com/d/1DIeNlGqvIYPq2q8h3apO-ceHz446Ffnz</picture>
+      <description>Б Бабблс</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Цо603</param>
+      <consist name="Роза кустовая
+Б Бабблс 
+Rose Art
+Цветы" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
