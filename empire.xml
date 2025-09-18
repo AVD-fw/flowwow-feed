@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<offers>
-    <offer id="FL0050">
+<yml_catalog date="2025-09-18T13:52:21.947+03:00">
+  <shop>
+    <name>Империя цветов</name>
+    <company>empire</company>
+    <offers>
+    <offer id="Иц00504">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Гортензия Розовый 40 см Арт. Иц00504</name>
       <price>473</price>
       <qty>10</qty>
@@ -19,7 +26,10 @@ Tessa
 Эквадор
 Цветы" unit="шт">1</consist>
     </offer>
-    <offer id="FL0051">
+    <offer id="Иц00514">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Гортензия Голубой 40 см Арт. Иц00514</name>
       <price>473</price>
       <qty>10</qty>
@@ -38,7 +48,10 @@ Tessa
 Эквадор
 Цветы" unit="шт">1</consist>
     </offer>
-    <offer id="FL0092">
+    <offer id="Иц00926">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема кустовая Селебрейт 60 см Арт. Иц00926</name>
       <price>80</price>
       <qty>50</qty>
@@ -53,7 +66,10 @@ Tessa
 Голландия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="FL0105">
+    <offer id="Иц01055">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема Сантини Белый 50 см Арт. Иц01055</name>
       <price>89</price>
       <qty>50</qty>
@@ -66,7 +82,10 @@ Tessa
       <consist name="Хризантема Сантини
 Цветы" unit="шт">25</consist>
     </offer>
-    <offer id="FL0111">
+    <offer id="Иц01115">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Астильба Розовый 50 см Арт. Иц01115</name>
       <price>80</price>
       <qty>50</qty>
@@ -79,7 +98,10 @@ Tessa
       <consist name="Астильба
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="FL0112">
+    <offer id="Иц01125">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Астильба Белый 50 см Арт. Иц01125</name>
       <price>80</price>
       <qty>50</qty>
@@ -92,7 +114,10 @@ Tessa
       <consist name="Астильба
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="FL0120">
+    <offer id="Иц01205">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Эрингиум Синий 50 см Арт. Иц01205</name>
       <price>176</price>
       <qty>50</qty>
@@ -105,7 +130,10 @@ Tessa
       <consist name="Эрингиум
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="FL0121">
+    <offer id="Иц01215">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Статица Белый 50 см Арт. Иц01215</name>
       <price>120</price>
       <qty>50</qty>
@@ -118,7 +146,10 @@ Tessa
       <consist name="Статица
 Цветы" unit="шт">25</consist>
     </offer>
-    <offer id="FL0125">
+    <offer id="Иц01257">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Лизиантус 70 см Арт. Иц01257</name>
       <price>140</price>
       <qty>50</qty>
@@ -134,4 +165,6 @@ Kwekerij waalzicht
 Голландия
 Цветы" unit="шт">10</consist>
     </offer>
-</offers>
+    </offers>
+  </shop>
+</yml_catalog>
