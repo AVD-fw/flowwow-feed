@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<offers>
+<yml_catalog date="2025-09-18T12:22:03.068+03:00">
+  <shop>
+    <name>ROSANA`S FLOWERS</name>
+    <company>rosanas</company>
+    <offers>
     <offer id="Р00995">
       <categories>
         <category id="37">Цветы</category>
@@ -561,4 +565,6 @@ Decorum
       <param name="Артикул">Р03135</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
-</offers>
+    </offers>
+  </shop>
+</yml_catalog>
