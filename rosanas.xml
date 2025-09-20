@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-20T11:41:59.597+03:00">
+<yml_catalog date="2025-09-20T11:46:59.790+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -10,7 +10,7 @@
       </categories>
       <name>Гвоздика кустовая Фуксия 50 см Арт. Р00995</name>
       <price>37</price>
-      <qty>20</qty>
+      <qty>60</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16x0VprahcXCQ69rOcwrPfMXCV-hhlmDU</picture>
       <picture>https://lh3.googleusercontent.com/d/13Z7W7bQfHUJUwKAVCJRUlW2my6eTgwN5</picture>
@@ -28,7 +28,7 @@
       </categories>
       <name>Георгин 60 см Арт. Р00776</name>
       <price>116</price>
-      <qty>10</qty>
+      <qty>210</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gRbnF3J5bWtz_PH-6QfLA_vWFI-9AdKz</picture>
       <picture>https://lh3.googleusercontent.com/d/1qLTBD-Zh8PGM4NVrqt6ZS1acoi0b3hgD</picture>
@@ -46,7 +46,7 @@
       </categories>
       <name>Георгин Розовый 60 см Арт. Р02416</name>
       <price>116</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1U0NdVNjouxYtPCc6Qjlo99QzbB4eQzb5</picture>
       <picture>https://lh3.googleusercontent.com/d/1kWRBpc16Zff7tmXrP7J1oNJtpnQHvNMu</picture>
@@ -62,32 +62,13 @@
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01395">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Герберамини Бизон 50 см Арт. Р01395</name>
-      <price>61</price>
-      <qty>20</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xkbOOIm6EktWu2S_55I1FwYakAjEBH_l</picture>
-      <picture>https://lh3.googleusercontent.com/d/1M0nKCPacfy7MXIDQ1T1yt69N8CGA9win</picture>
-      <description>Бизон</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Р01395</param>
-      <consist name="Герберамини
-Бизон
-Голландия
-Цветы" unit="шт">20</consist>
-    </offer>
     <offer id="Р01431">
       <categories>
         <category id="37">Цветы</category>
       </categories>
       <name>Гладиолус Нова Зембла 120 см Арт. Р01431</name>
       <price>155</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1s-1ErTXwGjArIauYcXX3keiq1MBy1axJ</picture>
       <picture>https://lh3.googleusercontent.com/d/104PKESDfE5nksqWq71uT5Ztj1YP1acO4</picture>
@@ -105,7 +86,7 @@
       </categories>
       <name>Калла Блашинг Лейди 65 см Арт. Р01096</name>
       <price>216</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LCgvr7CXF4nxZ2K35TgsYwnLBVlusaVM</picture>
       <picture>https://lh3.googleusercontent.com/d/17aeve-wVrltim7qwbSyJjZAS0tkLV47w</picture>
@@ -116,24 +97,6 @@
       <param name="Артикул">Р01096</param>
       <consist name="Калла
 Блашинг Лейди
-Цветы" unit="шт">10</consist>
-    </offer>
-    <offer id="Р01337">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Калла Флорекс Голд 70 см Арт. Р01337</name>
-      <price>192</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1JLvb7GntLHu0DfB6pVJ_lZjxaAnYkkj8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1daZO56gd4VLorfTW015nTEpMV8EkK5Ec</picture>
-      <description>Флорекс Голд</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Р01337</param>
-      <consist name="Калла
-Флорекс Голд
 Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Р01087">
