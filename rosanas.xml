@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-22T10:01:56.781+03:00">
+<yml_catalog date="2025-09-22T10:06:58.381+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -236,51 +236,6 @@ GEOFLORA
 Колумбия
 Цветы" unit="шт">25</consist>
     </offer>
-    <offer id="Р00216">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Гвоздика одноголовая Брют 60 см Арт. Р00216</name>
-      <price>56</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1daq8bmtZGOwNjVKqUh4PSP9rrDHucAHE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PmzeiterQHuIwTAG18EqQjHxo_ScBDiK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LLb6gTEPjlZPGCevE3_UJWPobw1op770</picture>
-      <picture>https://lh3.googleusercontent.com/d/1w6qBJj0ZmxtxveK2SUw0xNUAvEpaMej9</picture>
-      <picture>https://lh3.googleusercontent.com/d/14ns0zHrTUfNDjmZJBcUVSlPkJ1LPhCxp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ISyqMtQ5R4dUHy0MfNQWtPfv-OczwJT_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1BDlwosuov-HpEGLuMoAu6CIROSw18fT5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1AffwZ1epaKhtEwrcfzf1f5omE5fHJnm8</picture>
-      <description>Брют</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Р00216</param>
-      <consist name="Гвоздика одноголовая
-Брют
-Geoflora
-Эквадор
-Цветы" unit="шт">25</consist>
-    </offer>
-    <offer id="Р00935">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Гвоздика одноголовая Барб Киви 50 см Арт. Р00935</name>
-      <price>153</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ltGM3CPb74jgDLu9UdhLhz-X9Tmjp3LF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1e9H_ihntU9WkUl0B5KF9HmEGQfoftmXw</picture>
-      <description>Барб Киви</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Р00935</param>
-      <consist name="Гвоздика одноголовая
-Барб Киви
-Цветы" unit="шт">10</consist>
-    </offer>
     <offer id="Р00977">
       <categories>
         <category id="37">Цветы</category>
@@ -371,7 +326,7 @@ Floriusflowers
       </categories>
       <name>Гипсофила Радужная 80 см Арт. Р00378</name>
       <price>107</price>
-      <qty>25</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fogITWNxVhCc4sq5qeNv2VtonCWZZmwD</picture>
       <picture>https://lh3.googleusercontent.com/d/1ladDIFPvzgKPIc8WArb60O8goCtBxRQI</picture>
@@ -955,6 +910,25 @@ Zentoo
       <param name="Артикул">Р5388</param>
       <consist name="Гидрангия
 Греен
+Цветы" unit="шт">1</consist>
+    </offer>
+    <offer id="Р5446">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Рускус Зеленый 60 см Арт. Р5446</name>
+      <price>350</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZxVJBgzGC7J2J8jYL-qhTknFp_b5jLhm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lj339kANyKQFk9vWI77f8YdBS4nJy9XR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I5uEtjEUO_i-Zcvdq6TpuXZOWVOE2Q_t</picture>
+      <description>Рускус Зеленый 60 см Арт. Р5446</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">турция</param>
+      <param name="Артикул">Р5446</param>
+      <consist name="Рускус
+турция
 Цветы" unit="шт">1</consist>
     </offer>
     </offers>
