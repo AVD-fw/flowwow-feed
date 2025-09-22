@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-22T16:11:26.782+03:00">
+<yml_catalog date="2025-09-22T16:20:35.596+03:00">
   <shop>
     <name>Сангрин</name>
     <company>sungreen</company>
@@ -37,22 +37,6 @@ Sungreen
       <param name="Артикул">Сг00085</param>
       <consist name="Пшеница
 Цветная
-Sungreen
-Россия
-Сухоцвет" unit="шт">1</consist>
-    </offer>
-    <offer id="Сг00114">
-      <name>Ковыль Белый 40 см Арт. Сг00114</name>
-      <price>350</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14hiGkJZr8t9RfA4TUbRwfR_r9Bi8AKCj</picture>
-      <description>Ковыль Белый 40 см Арт. Сг00114</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">Сг00114</param>
-      <consist name="Ковыль
 Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
@@ -124,40 +108,6 @@ Sungreen
       <param name="Артикул">Сг00186</param>
       <consist name="Ворсянка
 Цветная
-Sungreen
-Россия
-Сухоцвет" unit="шт">1</consist>
-    </offer>
-    <offer id="Сг00265">
-      <name>Иглица Осветленная 50 см Арт. Сг00265</name>
-      <price>500</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1SiDuw_gNPIBw9s8WTC3fADvoaIPUizkb</picture>
-      <description>Осветленная</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">Сг00265</param>
-      <consist name="Иглица
-Осветленная
-Sungreen
-Россия
-Сухоцвет" unit="шт">1</consist>
-    </offer>
-    <offer id="Сг00285">
-      <name>Паникум Дикий осветленный 50 см Арт. Сг00285</name>
-      <price>500</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14Rpa4oHfUgpjdd_rUlGZFB3pdgIGlhMu</picture>
-      <description>Дикий осветленный</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">Сг00285</param>
-      <consist name="Паникум
-Дикий осветленный
 Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
@@ -287,29 +237,12 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00414">
-      <name>Пшеница Плоская декоративная 40 см Арт. Сг00414</name>
-      <price>460</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1fXbj0vONMNQ8Rg8RSpS9Nl_c98t224sD</picture>
-      <description>Плоская декоративная</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">Сг00414</param>
-      <consist name="Пшеница
-Плоская декоративная
-Sungreen
-Россия
-Сухоцвет" unit="шт">1</consist>
-    </offer>
     <offer id="Сг00427">
       <categories>
         <category id="37">Цветы</category>
       </categories>
       <name>Подсолнух Декоративный 70 см Арт. Сг00427</name>
-      <price>184</price>
+      <price>206</price>
       <qty>400</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vb58saucTpM9Wo3ZX3Vdpm0TzdG_I9iJ</picture>
@@ -586,6 +519,25 @@ Sungreen
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Сг00645">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Слива кустовая Бордовый 50 см Арт. Сг00645</name>
+      <price>570</price>
+      <qty>200</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1efCwxI_lAr2SjmjdUNSPuI3q5PyUNxZk</picture>
+      <description>Слива кустовая Бордовый 50 см Арт. Сг00645</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Sungreen</param>
+      <param name="Артикул">Сг00645</param>
+      <consist name="Слива кустовая
+Sungreen
+Россия
+Зелень" unit="шт">1</consist>
+    </offer>
     <offer id="Сг00656">
       <name>Овес Цветной 60 см Арт. Сг00656</name>
       <price>690</price>
@@ -602,25 +554,6 @@ Sungreen
 Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
-    </offer>
-    <offer id="Сг00665">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Мох Зеленый 50 см Арт. Сг00665</name>
-      <price>690</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1HWVLfNn3N7CL2eSj6Chjh09EQhNmPZLw</picture>
-      <description>Мох Зеленый 50 см Арт. Сг00665</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">Сг00665</param>
-      <consist name="Мох
-Sungreen
-Россия
-Зелень" unit="шт">1</consist>
     </offer>
     <offer id="Сг00677">
       <name>Пампасская трава (кортодерия) Стандарт 70 см Арт. Сг00677</name>
@@ -685,23 +618,6 @@ Sungreen
       <param name="Артикул">Сг00727</param>
       <consist name="Пампасская трава
 Супер Блонд
-Sungreen
-Россия
-Сухоцвет" unit="шт">1</consist>
-    </offer>
-    <offer id="Сг00754">
-      <name>Пастушья сумка Осветленная 40 см Арт. Сг00754</name>
-      <price>740</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/17GcEJExgTRNo_zI9cFS9knaS9xrRhCWx</picture>
-      <description>Осветленная</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">Сг00754</param>
-      <consist name="Пастушья сумка
-Осветленная 
 Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
@@ -811,7 +727,7 @@ Sungreen
         <category id="38">Зелень</category>
       </categories>
       <name>Хурма Плоды на ветках 60 см Арт. Сг00886</name>
-      <price>150</price>
+      <price>172</price>
       <qty>400</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Sz9zTHKajUvLeTDq0o9n5gYo-1G4gb-_</picture>
