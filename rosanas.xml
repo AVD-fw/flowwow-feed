@@ -1,9 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-23T08:06:59.214+03:00">
+<yml_catalog date="2025-09-23T08:11:58.664+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
     <offers>
+    <offer id="Р01599">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Крокосмия Бес Люцифер 90 см Арт. Р01599</name>
+      <price>77</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19TMi7r1sz3SYeCndZeRCyLFFXYDmlV5M</picture>
+      <picture>https://lh3.googleusercontent.com/d/17pFP7midatGk6lmOgclR089GufpexnKS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UldF9gyMeOLnUqLl_I6B308dvfszlyia</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vUPwOAZqEfU60Nd62KZ-qckM_B28NlP3</picture>
+      <description>Бес Люцифер</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01599</param>
+      <consist name="Крокосмия
+Бес Люцифер
+Зелень" unit="шт">10</consist>
+    </offer>
+    <offer id="Р01106">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Нутан Сакссешн 60 см Арт. Р01106</name>
+      <price>211</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1glF9qHrqiBKpLLLhegqsuaA0sarX0U7k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K2ygZkAPa-iUPRkSU0ak74G2-rEoEOmB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LEJspnLlYZyiwwCbcnbgWElmhPx3Nrot</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e9bkZKv7K2ms13Mv2fYBpvbVkWlqVHGV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DZFlf6GBB_KkP_Nkp-OsmDdHbbAom-a-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rKldWEOnwCinMPSFKO7JwVlM2beaAIw7</picture>
+      <description>Сакссешн</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01106</param>
+      <consist name="Нутан
+Сакссешн
+Цветы" unit="шт">5</consist>
+    </offer>
     <offer id="Р02317">
       <categories>
         <category id="37">Цветы</category>
@@ -28,6 +70,47 @@
 Росс Элизабетт
 Zentoo
 Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р02267">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Астранция Маж Роме 70 см Арт. Р02267</name>
+      <price>76</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DY-V9NAjIIDQ2WHvxnObJYq6L6fUYTOw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ETpt4szqVtSOoJ_9eqiMDuo12K_6gqTu</picture>
+      <picture>https://lh3.googleusercontent.com/d/16O_QsKekMPOWGckRh1emlV5Ayw0W4SA_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OMYQzNZ_f7RDHDfttVgRa90RWY6Bju9F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KnN4BU3Md0lncBcWHl8M807AtLS_5gsJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lxkEhwebkKGigwF_Mcaau9onVgFzy1-G</picture>
+      <description>Маж Роме</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р02267</param>
+      <consist name="Астранция
+Маж Роме
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р0263">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Вибурнум Калина 50 см Арт. Р0263</name>
+      <price>310</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kKuuzir6vD0PVxSJ7LOMsT4RTx38CHfW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZtNdy1D60cH6PFn09Kby3saUVi7ZZgRY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dK4WJaV9Iuhyp__RNKwTzzei4P1_ObV2</picture>
+      <description>Калина</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р0263</param>
+      <consist name="Вибурнум
+Калина
+Зелень" unit="шт">5</consist>
     </offer>
     <offer id="Р00977">
       <categories>
@@ -98,6 +181,24 @@ Esmeralda
 Эквадор
 Цветы" unit="шт">25</consist>
     </offer>
+    <offer id="Р01127">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Крокосмия Люцифер 70 см Арт. Р01127</name>
+      <price>76</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nbG1_rymDD3Rzq0v1rqAi1ogTxo9rW_d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t1LssF31QRVuZyOxsxfM_8lTNGtYcCjY</picture>
+      <description>Люцифер</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01127</param>
+      <consist name="Крокосмия
+Люцифер 
+Зелень" unit="шт">10</consist>
+    </offer>
     <offer id="Р01077">
       <categories>
         <category id="37">Цветы</category>
@@ -115,6 +216,65 @@ Esmeralda
       <consist name="Нерине
 Воу Софи
 Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р01165">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Орнитогалум Турсордес 50 см Арт. Р01165</name>
+      <price>76</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_P_4FyazeF2UWe-y0SFdvuN4CvES0n58</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nj9K5bRyBpTXnnwCOck0jIHZ8IS6s22e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dPLJz___hBZjvyJKLKMt5wjF9n-9T2q_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LR_LgVoP_tH1Y2FwYI7lKsstSQ7FtP_m</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QLX8Jfl0JIReokg04xIOR-w7oAGdWFni</picture>
+      <description>Турсордес</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Р01165</param>
+      <consist name="Орнитогалум
+Турсордес
+Голландия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р01558">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Паникум Зеленый 80 см Арт. Р01558</name>
+      <price>43</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iJCsyoxjIITNS5QFTqge37QoW4lRhURB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T7YOAMXSUfRu9WdZg_coJhOpgx5CIeJr</picture>
+      <description>Паникум Зеленый 80 см Арт. Р01558</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01558</param>
+      <consist name="Паникум
+Зелень" unit="шт">20</consist>
+    </offer>
+    <offer id="Р01607">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Роза Коралло 70 см Арт. Р01607</name>
+      <price>285</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13QRbkXhkcxb-RbaS70cQjG0u_tsxvenX</picture>
+      <picture>https://lh3.googleusercontent.com/d/13dm4dMnyCs1tWTg3hbD8KB86vPiIGK6x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mkCfQyeRhFV70vuFwPa-aJaKehn6Y2Zu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pBWQdz6aSlWkOMyGdC5Dandbi_5Aysp6</picture>
+      <description>Коралло</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01607</param>
+      <consist name="Роза
+Коралло
+Зелень" unit="шт">10</consist>
     </offer>
     <offer id="Р00596">
       <categories>
@@ -140,6 +300,131 @@ Esmeralda
       <consist name="Танацетум
 Голландия
 Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Р0256">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Физокарпус  Оп Диаболо 50 см Арт. Р0256</name>
+      <price>240</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10i4yVdTtwrU5xRNzQ2GpuuAd6r9NDLXH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JftKiaQUi-pZNTqKqNGQEnhvm0Km4NrY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BPTQfFqHAjUdCdtG6ytEZsLGeWzhFtux</picture>
+      <description>Оп Диаболо</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р0256</param>
+      <consist name="Физокарпус 
+Оп Диаболо
+Зелень" unit="шт">10</consist>
+    </offer>
+    <offer id="Р01549">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Хасмантиум Латифолия 90 см Арт. Р01549</name>
+      <price>43</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lYMzS0_02tYr-3-GU7fTpJ87rGfs6NFG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YOnZnBin8z_4DfTJTpzXwozJ1drpBsFN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NNRbH4xgpQBp1DUfjKGf-tcHGLjx3Aob</picture>
+      <description>Латифолия</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01549</param>
+      <consist name="Хасмантиум
+Латифолия
+Зелень" unit="шт">20</consist>
+    </offer>
+    <offer id="Р00847">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Росс Шарлотте 70 см Арт. Р00847</name>
+      <price>190</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1a4Sj0VRp9U_jiTSWGjRuD3MlnUU5fz28</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HA3JU-dnuRU7iNgCXXcaN7_c1iRGZ8Vm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Nykb0V7pFjUA20mYLx83y8o9HvC-hi7z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rusULVw8TgUOwi_IqEbvWwnTKMKoo0XD</picture>
+      <description>Росс Шарлотте</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Р00847</param>
+      <consist name="Хризантема одноголовая
+Росс Шарлотте
+Decorum
+Голландия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р00877">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Алемани 70 см Арт. Р00877</name>
+      <price>191</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N8E1BvoT-Ofe6H02O62oaBMdyv63HJD2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EU8dBl0WoRb9qwyy3DoDgv91N7RqpwqO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gZh-zU2-xyXG--EHL2rdMU8uYERH9Jmt</picture>
+      <description>Алемани</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Р00877</param>
+      <consist name="Хризантема одноголовая
+Алемани
+Zentoo
+Голландия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р01977">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Р01977</name>
+      <price>162</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kY4O4IKgCRHca0o_orZg893ggCJvDmtM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cvjZkzsLikArjLnpaBElusU1knPiUYgD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WacQ4IupfG6WCjvSqodRJMq6iIjmEIHu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-mGKZgreNFgNRTNgSqJXz6WXzUHuEGDw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1imfhDhnpf2dgrEQFf_LP12_2bt5R0r98</picture>
+      <description>Бальтазар Интен</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01977</param>
+      <consist name="Хризантема одноголовая
+Бальтазар Интен
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р02308">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Фуего 80 см Арт. Р02308</name>
+      <price>282</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11cqezG-eTYQ_213P2E3Tu8A-aRdsGuQY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SA3CIHoBA3z3Try7Ax-09thOsV4L6ajl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eocVnsSqRM8sb8ql_NcgSxMOB59N26F8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NeHt2iMrj7Rt-WjEZNiWPA-8rt8-UCrS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OpWAjsdzUt9SoK3u37LfKHfFevj-xhEA</picture>
+      <description>Фуего</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р02308</param>
+      <consist name="Хризантема одноголовая
+Фуего
+Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Р02327">
       <categories>
@@ -179,6 +464,29 @@ Esmeralda
 Роуз Делайт
 Цветы" unit="шт">5</consist>
     </offer>
+    <offer id="Р00295">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Эрингиум Синий 50 см Арт. Р00295</name>
+      <price>178</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1K5ogTktMOXQSJ0uHwNfaG5ILt6ZcXMAh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1q7l4mVN5kXgWmFwxdjqW9tsicxcSy26j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eC8fP92C1CbGGtD4c7R5xDn9fhb4vubs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ulDM-Y8HJvbRR0UZ4ZJnIszIOd_MEpBC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1483jzmI1GQvi5DEsL5BkMqioGyZWl9Lk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fD-Fqu_eziNWdxbCJqWQaQAG_280TYVX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PWOLG43ufC05QOaQlpTHNOBN5ne5bgSm</picture>
+      <description>Эрингиум Синий 50 см Арт. Р00295</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Р00295</param>
+      <consist name="Эрингиум 
+Голландия
+Зелень" unit="шт">10</consist>
+    </offer>
     <offer id="Р03517">
       <categories>
         <category id="37">Цветы</category>
@@ -201,6 +509,49 @@ Esmeralda
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Р03646">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Перчик Зеленый 60 см Арт. Р03646</name>
+      <price>282</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OotklSQgwYKjmszHoxcwiFp8Cf_Qd8es</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
+      <picture>https://lh3.googleusercontent.com/d/19AXbT8w5iNRJ2tiZS8lZkQYs9RSQFtlI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ySBIwk1aDsetkQz28QlEImStMxhXN9c9</picture>
+      <description>Перчик Зеленый 60 см Арт. Р03646</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р03646</param>
+      <consist name="Перчик
+Краснодар
+Россия
+Зелень" unit="шт">5</consist>
+    </offer>
+    <offer id="Р3714">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Бруния левайс 40 см Арт. Р3714</name>
+      <price>150</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15zfcOEVbJn3e4n7D3-jVEvbncOe4cnle</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rmAOBt3MNN7svux19ev8VHJbkcJms2G8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lgKheXFnrv3eFmoFcbxTvzMuDSYI4oaB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yliyr497MSXJwbincA5zYxKg8vlLHM0x</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Jcq7ptX7Vu2ud0RdocrWS8aJsYMv67-</picture>
+      <description>левайс</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р3714</param>
+      <consist name="Бруния
+левайс
+Зелень" unit="шт">10</consist>
+    </offer>
     <offer id="Р04564">
       <categories>
         <category id="37">Цветы</category>
@@ -221,6 +572,86 @@ Esmeralda
       <consist name="Герберамини
 джеменгд
 Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Р5094">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Скиммия рубелла 45 см Арт. Р5094</name>
+      <price>536</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LARNG6d36fR3s-BwryYv0bEzn8liLEUb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XhEToQ0Tht9zsFpEOEsXSVmA8I42EUJE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f_KpHs3TUK6UQjx6_NO8T1RLHjVXqKk-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uk0UdvM_e1h9d-DAlg1HAbS1FUA6AOMH</picture>
+      <description>рубелла</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р5094</param>
+      <consist name="Скиммия
+рубелла
+Цветы" unit="шт">1</consist>
+    </offer>
+    <offer id="Р5186">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Озотамнус кокс Сноу вайт 60 см Арт. Р5186</name>
+      <price>144</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1o54eabnZOaUxOBOkO5lV6V4D7yPKA8NV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LDykMKviisdxJ-pRXBFQTyF2-2P5W88s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c7t08TN12eF5WoMQwKJXZ4GLg1lzEIja</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pGb-x9D7Pkmkinkfb472xUxZ9U9nw6EF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xd5zXYaYGI8_ZYRSYZb_pex7_DVmm-Jn</picture>
+      <description>кокс Сноу вайт</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р5186</param>
+      <consist name="Озотамнус
+кокс Сноу вайт
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р5247">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая пип прети 70 см Арт. Р5247</name>
+      <price>162</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hHPlt7qLgWJfakYI1An3ErC3MmbaNFUG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MLEWnPQVwQU_2PZ-rUPi2BeEngUTeywx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KSWa5yU2h7-KGfxD9Q0BGhcC5ePl5qdr</picture>
+      <description>пип прети</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р5247</param>
+      <consist name="Хризантема одноголовая
+пип прети
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р5446">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Рускус Зеленый 60 см Арт. Р5446</name>
+      <price>378</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JLonZBJWvGD8uUrIvcI7wPbhJUc4ZBVB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lj339kANyKQFk9vWI77f8YdBS4nJy9XR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I5uEtjEUO_i-Zcvdq6TpuXZOWVOE2Q_t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZxVJBgzGC7J2J8jYL-qhTknFp_b5jLhm</picture>
+      <description>Рускус Зеленый 60 см Арт. Р5446</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">турция</param>
+      <param name="Артикул">Р5446</param>
+      <consist name="Рускус
+турция
+Цветы" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
