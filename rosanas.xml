@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T09:16:57.927+03:00">
+<yml_catalog date="2025-09-24T09:21:57.639+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -206,26 +206,6 @@ Zentoo
 Голландия
 Зелень" unit="шт">20</consist>
     </offer>
-    <offer id="Р0263">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Вибурнум Калина 50 см Арт. Р0263</name>
-      <price>355</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1QmW0RkTMpVHL5PHzHbNZgt7XHPY4V9Ii</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZtNdy1D60cH6PFn09Kby3saUVi7ZZgRY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dK4WJaV9Iuhyp__RNKwTzzei4P1_ObV2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kKuuzir6vD0PVxSJ7LOMsT4RTx38CHfW</picture>
-      <description>Калина</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Р0263</param>
-      <consist name="Вибурнум
-Калина
-Зелень" unit="шт">5</consist>
-    </offer>
     <offer id="Р01664">
       <categories>
         <category id="37">Цветы</category>
@@ -280,7 +260,7 @@ Esmeralda
       </categories>
       <name>Кампанула Кам Пеар Пинк 70 см Арт. Р01047</name>
       <price>133</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dfyswigfiiJwqPklQYOtjy_QVwc9JGzt</picture>
       <picture>https://lh3.googleusercontent.com/d/1coAMWvCtfDyQPwdLEqNq0QuizWLhcGRl</picture>
@@ -376,13 +356,37 @@ Esmeralda
       <consist name="Паникум
 Зелень" unit="шт">20</consist>
     </offer>
+    <offer id="Р02025">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Р02025</name>
+      <price>167</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YbU7OGDXYiNgfpPyhGoRzdQ_Nz3LnmdM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x5HW6yQGFXFhMMAmhdZO2WV3T_V-dsbJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GODQJuRb6BRDHoB5RRiNBlMm5VLWh7oc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IQexlqKZLKsrc229VhbBF9PGGArBcDNY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hVbCl5ndkX8MmTk4s5dFASVH5Xos5kV_</picture>
+      <description>Леди Бомбастик</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р02025</param>
+      <consist name="Роза кустовая пионовидная
+Леди Бомбастик
+Мордовия
+Россия
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Р01549">
       <categories>
         <category id="38">Зелень</category>
       </categories>
       <name>Хасмантиум Латифолия 90 см Арт. Р01549</name>
       <price>43</price>
-      <qty>20</qty>
+      <qty>80</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14rJVyn_npb-gr2VsIURHVPkinyyfcmmu</picture>
       <picture>https://lh3.googleusercontent.com/d/1YOnZnBin8z_4DfTJTpzXwozJ1drpBsFN</picture>
@@ -542,6 +546,28 @@ Zentoo
       <consist name="Целозия
 Пинк Делайт
 Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Р02944">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая Фиеста 40 см Арт. Р02944</name>
+      <price>80</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GPLPCDlPkkEXCJYGulOMO3ck_Mw8K_-Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PwOu0pCvoU0XFjCM21gKSMWVLOyYL0Lt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S3gvb5rpcgnZA8Y5UQSpjr8O_gv7Ew1Y</picture>
+      <description>Фиеста</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Р02944</param>
+      <consist name="Роза кустовая
+Фиеста
+Чеховский сад
+Россия
+Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Р03135">
       <categories>
@@ -709,28 +735,6 @@ Zentoo
 хайдж голд
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р3847">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Клематис Лайт Пинк 70 см Арт. Р3847</name>
-      <price>105</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1UkzW3aTLUUmtEmHMn7oznQweIkVRBjAp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1BgZJZXGLbcbmRMcB6VrVYdJS6CanpauA</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bBDVEnGcY1IYTDjFhrv1LeRGLrYI3dzf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mnbcsfIf6eYEYHWbLAbI7aYWD6chZybC</picture>
-      <picture>https://lh3.googleusercontent.com/d/10kRAydLuWoPQyfnat_YvlF-ExXoXNo0_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1T8o4l6viAR4N1HUmSMYrHVQVLG3ySQgR</picture>
-      <description>Лайт Пинк</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Р3847</param>
-      <consist name="Клематис
-Лайт Пинк
-Цветы" unit="шт">10</consist>
-    </offer>
     <offer id="Р3887">
       <categories>
         <category id="37">Цветы</category>
@@ -751,6 +755,51 @@ Zentoo
       <param name="Артикул">Р3887</param>
       <consist name="Кампанула
 Чемпион вайт
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р04415">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Менсфилд парк Пинк 50 см Арт. Р04415</name>
+      <price>116</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tQhG2PmndbWSDyQJP0miefJ5GWa7tQpH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BzXZG6OW5un0_N_BMltQKNt5X81hX-Qm</picture>
+      <description>Менсфилд парк Пинк</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р04415</param>
+      <consist name="Роза кустовая пионовидная
+Менсфилд парк Пинк
+Мордовия
+Россия
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Р04486">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая Жозефина 60 см Арт. Р04486</name>
+      <price>290</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cUeQIqE0T4MNmWo7oMZArWq0BrrTxayH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mI5cmRSBAkZeyab6wbmlP3jrysJc_vKT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CcWK4f5zsGUN7W7JIMWrwBEKMqmN0NEQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/16wYw12qnyqCic3hY0qnkBwk-JYdns3i1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V1Cnn9LW2mi7oYq2KIpIhxGiUnG5ZxPQ</picture>
+      <description>Жозефина</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р04486</param>
+      <consist name="Роза кустовая
+Жозефина
+Мордовия
+Россия
 Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Р4606">
@@ -806,7 +855,7 @@ Zentoo
       </categories>
       <name>Георгин Белый 50 см Арт. Р4635</name>
       <price>123</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vtLRa1Ma0pBcu_2g7lwYZNqmJZR82j7v</picture>
       <picture>https://lh3.googleusercontent.com/d/1bcou-WYJlSxQqxMX1fOq33YVFlsJKJ2P</picture>
