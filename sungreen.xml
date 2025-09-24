@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T09:41:26.198+03:00">
+<yml_catalog date="2025-09-24T09:47:51+03:00">
   <shop>
     <name>Сангрин</name>
     <company>sungreen</company>
+    <url>https://example.com</url>
+    <categories>
+      <category id="37">Цветы</category>
+      <category id="38">Зелень</category>
+      <category id="39">Декор</category>
+    </categories>
     <offers>
-    <offer id="Сг00036">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00036" available="true">
+      <categoryId>38</categoryId>
       <name>Барбарис Зеленый 60 см Арт. Сг00036</name>
-      <price>630</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ZxWIc4h6yOJPR5V6W6n87qq_QarKwNHX</picture>
@@ -24,9 +27,8 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00085">
+    <offer id="Сг00085" available="true">
       <name>Пшеница Цветная 50 см Арт. Сг00085</name>
-      <price>460</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gWPmnvh1XuyFSFeajgAGwDv4JTkfXga2</picture>
@@ -41,9 +43,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00125">
+    <offer id="Сг00125" available="true">
       <name>Гортензия Осветленная 50 см Арт. Сг00125</name>
-      <price>150</price>
       <qty>400</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XamZ9WtBSYpeZIlesWaR1jxA4iKylXcj</picture>
@@ -58,12 +59,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">5</consist>
     </offer>
-    <offer id="Сг00136">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00136" available="true">
+      <categoryId>38</categoryId>
       <name>Барбарис Красный 60 см Арт. Сг00136</name>
-      <price>690</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18qiPP1lWYdEHSXh3gXpScUItVsrLynww</picture>
@@ -78,9 +76,8 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00175">
+    <offer id="Сг00175" available="true">
       <name>Бриза Осветленная 50 см Арт. Сг00175</name>
-      <price>630</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10um9XOAQJjeCA3quGw_s9qfaJ7jXwOMt</picture>
@@ -95,9 +92,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00186">
+    <offer id="Сг00186" available="true">
       <name>Ворсянка Цветная 60 см Арт. Сг00186</name>
-      <price>690</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ilriN-2v8hPtrCLYZlyYxWb9pYC9LC8s</picture>
@@ -112,9 +108,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00294">
+    <offer id="Сг00294" available="true">
       <name>Кермек Осветленная 40 см Арт. Сг00294</name>
-      <price>570</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Yj-3nKFW1dKx-FCnCZkqb7X68XqwR1f4</picture>
@@ -129,12 +124,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00325">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00325" available="true">
+      <categoryId>38</categoryId>
       <name>Кермек Натуральный 50 см Арт. Сг00325</name>
-      <price>350</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JLGwiTjD4iBW-23a8_C-M-lWE0poWk7S</picture>
@@ -149,12 +141,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00334">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00334" available="true">
+      <categoryId>38</categoryId>
       <name>Кермек Цветной 40 см Арт. Сг00334</name>
-      <price>460</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dVnHn5hT6mhWodCEqvnFri4scpVziffz</picture>
@@ -169,9 +158,8 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00365">
+    <offer id="Сг00365" available="true">
       <name>Птичий Горец Осветленный 50 см Арт. Сг00365</name>
-      <price>750</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vug9ef-Ccxbs-UHyyvEO266xN15e7Fkq</picture>
@@ -186,9 +174,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00378">
+    <offer id="Сг00378" available="true">
       <name>Просо Осветленный 80 см Арт. Сг00378</name>
-      <price>630</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1CFi2UBl3x_H2_MptpzNPAX4jfwUY3JH9</picture>
@@ -203,9 +190,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00384">
+    <offer id="Сг00384" available="true">
       <name>Пастушья сумка Цветная стабилизированая 40 см Арт. Сг00384</name>
-      <price>740</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19vQAkBplw6jAGWTo9EXmHvFs-_WiJ-SY</picture>
@@ -220,9 +206,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00395">
+    <offer id="Сг00395" available="true">
       <name>Пшеница Осветленная 50 см Арт. Сг00395</name>
-      <price>570</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kO3M6v1_VVowV3Qs0g0QaVLlj8_Kezp7</picture>
@@ -237,12 +222,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00427">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Сг00427" available="true">
+      <categoryId>37</categoryId>
       <name>Подсолнух Декоративный 70 см Арт. Сг00427</name>
-      <price>206</price>
       <qty>400</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vb58saucTpM9Wo3ZX3Vdpm0TzdG_I9iJ</picture>
@@ -257,9 +239,8 @@ Sungreen
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Сг00435">
+    <offer id="Сг00435" available="true">
       <name>Пшеница Мягкая 50 см Арт. Сг00435</name>
-      <price>350</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Ih4uoHKUz-1zRe6c4isK3b2OAOY9iCif</picture>
@@ -274,12 +255,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00466">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00466" available="true">
+      <categoryId>38</categoryId>
       <name>Рис Цветной 60 см Арт. Сг00466</name>
-      <price>690</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sauojrEm3PeIHJiY7iddr8FSLTACBXiV</picture>
@@ -294,12 +272,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00505">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00505" available="true">
+      <categoryId>38</categoryId>
       <name>Солидаго Желтый 50 см Арт. Сг00505</name>
-      <price>350</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1h85qXm2tXsvVuZF7Z_8Tkqyxy3ourO5C</picture>
@@ -313,9 +288,8 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00515">
+    <offer id="Сг00515" available="true">
       <name>Ракита Цветная 50 см Арт. Сг00515</name>
-      <price>800</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AvE65us_RTH6i8qocvqvnH-Dfamn_Kt0</picture>
@@ -330,12 +304,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00524">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00524" available="true">
+      <categoryId>38</categoryId>
       <name>Смолосемянник Крупнолистный 40 см Арт. Сг00524</name>
-      <price>630</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ogMHlCKUB-7rl-3ON2JiSG8wtiJWPJC2</picture>
@@ -350,12 +321,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00534">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00534" available="true">
+      <categoryId>38</categoryId>
       <name>Смолосемянник Мелколистный 40 см Арт. Сг00534</name>
-      <price>630</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zAY_2Z6dTpNaj8WvoMnj5VoIF1_RvEI0</picture>
@@ -370,12 +338,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00549">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00549" available="true">
+      <categoryId>38</categoryId>
       <name>Шиповник Дикий Оранж гирлянда 90 см Арт. Сг00549</name>
-      <price>750</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wqq9Pg4K9PL7ufnKryYP49xYs5bRd_vQ</picture>
@@ -390,12 +355,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00558">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Сг00558" available="true">
+      <categoryId>37</categoryId>
       <name>Цветок Лотоса Зеленый 80 см Арт. Сг00558</name>
-      <price>103</price>
       <qty>400</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WhK8BfqbWG0TwFf4Rpw1IKDz2RKAf_Kt</picture>
@@ -409,9 +371,8 @@ Sungreen
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Сг00563">
+    <offer id="Сг00563" available="true">
       <name>Лен Желтый 30 см Арт. Сг00563</name>
-      <price>350</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1CbnT3QJl2x7Mo-xLIRZZ2tsoTDPWrMcL</picture>
@@ -425,9 +386,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00596">
+    <offer id="Сг00596" available="true">
       <name>Лунария Белый 60 см Арт. Сг00596</name>
-      <price>860</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-aCaNTtY6NzKk4sLNQTzXnF2zILV7Qi2</picture>
@@ -441,12 +401,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00608">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Сг00608" available="true">
+      <categoryId>37</categoryId>
       <name>Лотос Желтый 80 см Арт. Сг00608</name>
-      <price>92</price>
       <qty>400</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1to8XIUQMCl2EyFkwOjTlpkCECkO3rtz6</picture>
@@ -461,12 +418,9 @@ Sungreen
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Сг00616">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00616" available="true">
+      <categoryId>38</categoryId>
       <name>Локонос Зеленый 60 см Арт. Сг00616</name>
-      <price>510</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uDuvmvCIqATAPLaZKpyy_GKEDGKf825-</picture>
@@ -480,12 +434,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00624">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00624" available="true">
+      <categoryId>38</categoryId>
       <name>Магнолия Зеленый 40 см Арт. Сг00624</name>
-      <price>630</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LJvKWoL-L86Oq8uJAQ32Z-1OscX0WuK8</picture>
@@ -499,12 +450,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00638">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Сг00638" available="true">
+      <categoryId>37</categoryId>
       <name>Лотос Зеленый 80 см Арт. Сг00638</name>
-      <price>92</price>
       <qty>400</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aC0TdjFCuTGJq_fBiGNq6dn8ZealYjBo</picture>
@@ -519,12 +467,9 @@ Sungreen
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Сг00645">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00645" available="true">
+      <categoryId>38</categoryId>
       <name>Слива кустовая Бордовый 50 см Арт. Сг00645</name>
-      <price>570</price>
       <qty>200</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1efCwxI_lAr2SjmjdUNSPuI3q5PyUNxZk</picture>
@@ -538,9 +483,8 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00656">
+    <offer id="Сг00656" available="true">
       <name>Овес Цветной 60 см Арт. Сг00656</name>
-      <price>690</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YFPfv4PhNLjbF1bG1-aKETCvEFIU7SCH</picture>
@@ -555,9 +499,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00677">
+    <offer id="Сг00677" available="true">
       <name>Пампасская трава (кортодерия) Стандарт 70 см Арт. Сг00677</name>
-      <price>170</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zFcAU_a_pFUKtGt87fGdfuCUc9MWfEml</picture>
@@ -572,9 +515,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00686">
+    <offer id="Сг00686" available="true">
       <name>Овес Цветной 60 см Арт. Сг00686</name>
-      <price>690</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Qj-1IrPOYXbdXFfl7C7R9tjG5TnujtPZ</picture>
@@ -589,9 +531,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00706">
+    <offer id="Сг00706" available="true">
       <name>Овес Коричневый 60 см Арт. Сг00706</name>
-      <price>350</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QtO-G7hfgGURKJL_Zex_EElYjUA8DMPm</picture>
@@ -605,9 +546,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00727">
+    <offer id="Сг00727" available="true">
       <name>Пампасская трава Супер Блонд 70 см Арт. Сг00727</name>
-      <price>230</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1l_OE7tyUp2X2sqFMb-0Yl7K1sQpUe-3p</picture>
@@ -622,12 +562,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00784">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00784" available="true">
+      <categoryId>38</categoryId>
       <name>Эвкалипт Обычный 40 см Арт. Сг00784</name>
-      <price>1800</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17vsyHVY-Gp6aR9RDUA9COjNqR716g-Kg</picture>
@@ -642,12 +579,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00795">
-      <categories>
-        <category id="39">Декор</category>
-      </categories>
+    <offer id="Сг00795" available="true">
+      <categoryId>39</categoryId>
       <name>Ящик декоративный Малый 50 см Арт. Сг00795</name>
-      <price>460</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rMFoquxlwUR1rVrFOR2alD1crCyP_-1Y</picture>
@@ -662,12 +596,9 @@ Sungreen
 Россия
 Декор" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00804">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00804" available="true">
+      <categoryId>38</categoryId>
       <name>Шиповник Декоративный зеленый Короткий 40 см Арт. Сг00804</name>
-      <price>630</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1P2HiJbWwW95Fa_nOaWT9zhdMvQzLPcY1</picture>
@@ -682,12 +613,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00816">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00816" available="true">
+      <categoryId>38</categoryId>
       <name>Шиповник Декоративный зеленый Средний 60 см Арт. Сг00816</name>
-      <price>750</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1P2HiJbWwW95Fa_nOaWT9zhdMvQzLPcY1</picture>
@@ -702,12 +630,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00821">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00821" available="true">
+      <categoryId>38</categoryId>
       <name>Шиповник Декоративный зеленый Высокий 110 см Арт. Сг00821</name>
-      <price>860</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1P2HiJbWwW95Fa_nOaWT9zhdMvQzLPcY1</picture>
@@ -722,12 +647,9 @@ Sungreen
 Россия
 Зелень" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00886">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Сг00886" available="true">
+      <categoryId>38</categoryId>
       <name>Хурма Плоды на ветках 60 см Арт. Сг00886</name>
-      <price>172</price>
       <qty>400</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Sz9zTHKajUvLeTDq0o9n5gYo-1G4gb-_</picture>
@@ -742,9 +664,8 @@ Sungreen
 Россия
 Зелень" unit="шт">5</consist>
     </offer>
-    <offer id="Сг00905">
+    <offer id="Сг00905" available="true">
       <name>Тысячелистник Цветной 50 см Арт. Сг00905</name>
-      <price>690</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1h5qcs6rKn-A9sSvgyOfMEdmV63Hk2cm3</picture>
@@ -759,9 +680,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00913">
+    <offer id="Сг00913" available="true">
       <name>Хлопок Цветной 30 см Арт. Сг00913</name>
-      <price>41</price>
       <qty>400</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_SrcYOWjCIznJQ7dRAWqbfE7gsT0q01d</picture>
@@ -776,9 +696,8 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">10</consist>
     </offer>
-    <offer id="Сг00925">
+    <offer id="Сг00925" available="true">
       <name>Ячмень Белый 50 см Арт. Сг00925</name>
-      <price>270</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XovXNobnkgwkOwGsvFvVs_AfqvkaKJER</picture>
@@ -792,12 +711,9 @@ Sungreen
 Россия
 Сухоцвет" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00935">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Сг00935" available="true">
+      <categoryId>37</categoryId>
       <name>Букетная зелень Длинная 50 см Арт. Сг00935</name>
-      <price>460</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uVzgABpZQcCTdn0ifjJm4SIKHnbT5i6t</picture>
@@ -812,12 +728,9 @@ Sungreen
 Россия
 Цветы" unit="шт">1</consist>
     </offer>
-    <offer id="Сг00994">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Сг00994" available="true">
+      <categoryId>37</categoryId>
       <name>Букетная зелень Средняя 40 см Арт. Сг00994</name>
-      <price>410</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rX9Z8V7ucrV0m9J04oumbQTlJ7jbtfQZ</picture>
@@ -832,12 +745,9 @@ Sungreen
 Россия
 Цветы" unit="шт">1</consist>
     </offer>
-    <offer id="Сг01003">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Сг01003" available="true">
+      <categoryId>37</categoryId>
       <name>Букетная зелень Мелкая 30 см Арт. Сг01003</name>
-      <price>320</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1O-gQcWKNeAX5kTYkp_pgwMkrr89z-TPL</picture>
