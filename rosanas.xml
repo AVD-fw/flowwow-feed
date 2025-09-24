@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T07:31:58.217+03:00">
+<yml_catalog date="2025-09-24T07:36:56.934+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -323,7 +323,7 @@ Geoflora
       <price>109</price>
       <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mL-xPlZ2UB0BjHBescCybwiXPpcu-hFK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VOPJBEviO1AGt4L5bYoceI7S_MlxmYgw</picture>
       <picture>https://lh3.googleusercontent.com/d/1ladDIFPvzgKPIc8WArb60O8goCtBxRQI</picture>
       <picture>https://lh3.googleusercontent.com/d/11WWQQqPjCm9WS4Txulto5Hg-XVt4J4ew</picture>
       <picture>https://lh3.googleusercontent.com/d/1ABBpKObIp9xltI5d2M9be2sH9sVZfOJd</picture>
@@ -332,6 +332,7 @@ Geoflora
       <picture>https://lh3.googleusercontent.com/d/1jfF4eUWQIpu3tu9ruguREo-hE5V92ww8</picture>
       <picture>https://lh3.googleusercontent.com/d/1YPRVM1XnGiUn2wOMlH2RLS7Eq9cHMHtT</picture>
       <picture>https://lh3.googleusercontent.com/d/1fogITWNxVhCc4sq5qeNv2VtonCWZZmwD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mL-xPlZ2UB0BjHBescCybwiXPpcu-hFK</picture>
       <description>Радужная</description>
       <param name="Высота, см">80</param>
       <param name="Страна">Эквадор</param>
@@ -663,11 +664,12 @@ Zentoo
       <price>162</price>
       <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kY4O4IKgCRHca0o_orZg893ggCJvDmtM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FSC3-tKIcAIc7G4cSM-bxBSk9yid66GO</picture>
       <picture>https://lh3.googleusercontent.com/d/1cvjZkzsLikArjLnpaBElusU1knPiUYgD</picture>
       <picture>https://lh3.googleusercontent.com/d/1WacQ4IupfG6WCjvSqodRJMq6iIjmEIHu</picture>
       <picture>https://lh3.googleusercontent.com/d/1-mGKZgreNFgNRTNgSqJXz6WXzUHuEGDw</picture>
       <picture>https://lh3.googleusercontent.com/d/1imfhDhnpf2dgrEQFf_LP12_2bt5R0r98</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kY4O4IKgCRHca0o_orZg893ggCJvDmtM</picture>
       <description>Бальтазар Интен</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Россия</param>
@@ -717,6 +719,25 @@ Zentoo
       <param name="Артикул">Р02327</param>
       <consist name="Хризантема одноголовая
 Магнум йеллоу
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р02387">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Алибаба 70 см Арт. Р02387</name>
+      <price>179</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vhjs8vC92aH_JOgrC1IheIiX6IASFUbL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IkoF0dhGd4fUA5wkiNQ9KPXJXYu6Hq-4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wgS2pHfWaAGWdlZEmrk42SgoTvkfU_2c</picture>
+      <description>Алибаба</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р02387</param>
+      <consist name="Хризантема одноголовая
+Алибаба
 Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Р01297">
@@ -912,6 +933,25 @@ Zentoo
       <consist name="Бруния
 левайс
 Зелень" unit="шт">10</consist>
+    </offer>
+    <offer id="Р3728">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Нутан хайдж голд 80 см Арт. Р3728</name>
+      <price>245</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11QCSKbu83vEtaLvBxyxgAl4O5VBBb2Jq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MisAe-m2dqfDrhnHbqakcRG97iPg714E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tZAKS60ooVSf1fOODxWZ_Ma5Qzwe-jcA</picture>
+      <description>хайдж голд</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р3728</param>
+      <consist name="Нутан
+хайдж голд
+Цветы" unit="шт">5</consist>
     </offer>
     <offer id="Р3887">
       <categories>
