@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T10:47:53.422+03:00">
+<yml_catalog date="2025-09-24T10:52:52.112+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -156,24 +156,6 @@ Decorum
       <consist name="Хризантема Сантини
 Цветы" unit="шт">25</consist>
     </offer>
-    <offer id="Иц01025">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Гипсофила Розовый 50 см Арт. Иц01025</name>
-      <price>77</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1NJR4n1LffQs4J_RdZP2ivfEWZYn-KFPf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LEyVQ2zmEzwRsLLEon2KJNSmqt1uKvgf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aaggYiBwHlGOFVFCCZSZgvpps_8u2vqA</picture>
-      <description>Гипсофила Розовый 50 см Арт. Иц01025</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01025</param>
-      <consist name="Гипсофила
-Цветы" unit="шт">25</consist>
-    </offer>
     <offer id="Иц01055">
       <categories>
         <category id="37">Цветы</category>
@@ -198,7 +180,7 @@ Decorum
       </categories>
       <name>Астильба Розовый 50 см Арт. Иц01115</name>
       <price>80</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1o5qWl5fUXx7huGTBbn93ZS8Facb0qGr4</picture>
       <picture>https://lh3.googleusercontent.com/d/1kRRfp36XwXGncnheaVlPM1mhDEUKCVOP</picture>
@@ -215,7 +197,7 @@ Decorum
       </categories>
       <name>Астильба Белый 50 см Арт. Иц01125</name>
       <price>80</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/15XOYDAxaJwVmenwTHoCI2RgOe5PoLy9t</picture>
       <picture>https://lh3.googleusercontent.com/d/1Xgkteeow-EIqaz0qyuZzfLR_dv02kyph</picture>
@@ -233,7 +215,7 @@ Decorum
       </categories>
       <name>Статица Лиловый 50 см Арт. Иц01185</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Y5XeqbbOY3PbGknImY2SF932ZVNIAtnf</picture>
       <picture>https://lh3.googleusercontent.com/d/1zisBA6v_kLD53VayCYRZvrsz5Hk_QZS7</picture>
@@ -250,7 +232,7 @@ Decorum
       </categories>
       <name>Эрингиум Синий 50 см Арт. Иц01205</name>
       <price>176</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OVvga1ix9Hk2oQb8GkVx5rmnpK5Llg5X</picture>
       <picture>https://lh3.googleusercontent.com/d/1tZLIXJRtWxhF0UPW5otm2ilmVesKlBPC</picture>
@@ -262,31 +244,13 @@ Decorum
       <consist name="Эрингиум
 Зелень" unit="шт">10</consist>
     </offer>
-    <offer id="Иц01215">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Статица Белый 50 см Арт. Иц01215</name>
-      <price>120</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1OfH1Xa0_a3v4wFhyhaKmFA6CWbxuiAZ_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1psx-uY64VTgHZGoHYEhoxrcVJISeztRy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dYn8zOZuFSKVUkY_4Ax1SDGlC1acboY1</picture>
-      <description>Статица Белый 50 см Арт. Иц01215</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Иц01215</param>
-      <consist name="Статица
-Зелень" unit="шт">25</consist>
-    </offer>
     <offer id="Иц01225">
       <categories>
         <category id="37">Цветы</category>
       </categories>
       <name>Лимониум Белый 50 см Арт. Иц01225</name>
       <price>107</price>
-      <qty>25</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1013LIE0C2RBEEjjOSYUuyRzcBD5yJ7kY</picture>
       <picture>https://lh3.googleusercontent.com/d/1VEGIPjm1K0ZzXrgmB33bCZu2TM4D6B9r</picture>
@@ -303,7 +267,7 @@ Decorum
       </categories>
       <name>Статица Фиолетовый 60 см Арт. Иц01266</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XxADK9yMAOAUYYbCHfw5DIAPthnenR2-</picture>
       <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
