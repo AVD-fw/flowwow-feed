@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T09:27:13.360+03:00">
+<yml_catalog date="2025-09-24T09:31:48+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
+    <url>https://example.com</url>
     <offers>
-    <offer id="B2C_Р00776">
+    <offer id="B2C_Р00776" available="true">
       <name>Георгин 9 шт Оранжевый 60 см Арт. Р00776</name>
-      <price>1230</price>
       <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
       <picture>https://lh3.googleusercontent.com/d/1qLTBD-Zh8PGM4NVrqt6ZS1acoi0b3hgD</picture>
       <picture>https://lh3.googleusercontent.com/d/1gRbnF3J5bWtz_PH-6QfLA_vWFI-9AdKz</picture>
@@ -19,9 +19,8 @@
       <param name="Артикул">Р00776</param>
       <consist name="Георгин" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р02416">
+    <offer id="B2C_Р02416" available="true">
       <name>Георгин 9 шт Розовый 60 см Арт. Р02416</name>
-      <price>1230</price>
       <picture>https://lh3.googleusercontent.com/d/1F5au877psLwrEM31M1MvvkcgzV9ZlAjh</picture>
       <picture>https://lh3.googleusercontent.com/d/1kWRBpc16Zff7tmXrP7J1oNJtpnQHvNMu</picture>
       <picture>https://lh3.googleusercontent.com/d/1DD7jpKCczBypNSleH59G_XAASZ788kJ1</picture>
@@ -39,9 +38,8 @@
       <param name="Артикул">Р02416</param>
       <consist name="Георгин" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р00607">
+    <offer id="B2C_Р00607" available="true">
       <name>Подсолнух 5 шт Желтый 70 см Арт. Р00607</name>
-      <price>365</price>
       <picture>https://lh3.googleusercontent.com/d/1bQJXudy5A7LhJe8aJeUP9bJ-jdOvNWKE</picture>
       <picture>https://lh3.googleusercontent.com/d/1NhZ3uDFVqDid36dks8z-koF8tPuqCiCm</picture>
       <picture>https://lh3.googleusercontent.com/d/1dCX-QNQ0fFzJ7xX3ypdbhVTR-vEBdO9B</picture>
@@ -54,9 +52,8 @@
       <param name="Артикул">Р00607</param>
       <consist name="Подсолнух" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_Р01664">
+    <offer id="B2C_Р01664" available="true">
       <name>Георгин 9 шт Белый 40 см Арт. Р01664</name>
-      <price>1230</price>
       <picture>https://lh3.googleusercontent.com/d/1caTPqzgqAzQT0uKIwutHwz42oVMh0PJY</picture>
       <picture>https://lh3.googleusercontent.com/d/10G_vbLB2Xyt_kLDnwYHFiWJv82mt7VZ9</picture>
       <picture>https://lh3.googleusercontent.com/d/1ouv5QXPc7OK-J1Px8HN_5tkUWLtFebuT</picture>
@@ -67,9 +64,8 @@
       <param name="Артикул">Р01664</param>
       <consist name="Георгин" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р02025">
+    <offer id="B2C_Р02025" available="true">
       <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 50 см Арт. Р02025</name>
-      <price>1670</price>
       <picture>https://lh3.googleusercontent.com/d/1YbU7OGDXYiNgfpPyhGoRzdQ_Nz3LnmdM</picture>
       <picture>https://lh3.googleusercontent.com/d/1x5HW6yQGFXFhMMAmhdZO2WV3T_V-dsbJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1GODQJuRb6BRDHoB5RRiNBlMm5VLWh7oc</picture>
@@ -83,9 +79,8 @@
       <param name="Артикул">Р02025</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р02944">
+    <offer id="B2C_Р02944" available="true">
       <name>Роза кустовая Фиеста 9 шт 40 см Арт. Р02944</name>
-      <price>800</price>
       <picture>https://lh3.googleusercontent.com/d/1GPLPCDlPkkEXCJYGulOMO3ck_Mw8K_-Q</picture>
       <picture>https://lh3.googleusercontent.com/d/1PwOu0pCvoU0XFjCM21gKSMWVLOyYL0Lt</picture>
       <picture>https://lh3.googleusercontent.com/d/1S3gvb5rpcgnZA8Y5UQSpjr8O_gv7Ew1Y</picture>
@@ -97,9 +92,8 @@
       <param name="Артикул">Р02944</param>
       <consist name="Роза кустовая Фиеста" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р03646">
+    <offer id="B2C_Р03646" available="true">
       <name>Перчик 5 шт Зеленый 60 см Арт. Р03646</name>
-      <price>1410</price>
       <picture>https://lh3.googleusercontent.com/d/1yF_51qh0zPsiRpGEGtybNl077SI6EIij</picture>
       <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
       <picture>https://lh3.googleusercontent.com/d/19AXbT8w5iNRJ2tiZS8lZkQYs9RSQFtlI</picture>
@@ -113,9 +107,8 @@
       <param name="Артикул">Р03646</param>
       <consist name="Перчик" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_Р04415">
+    <offer id="B2C_Р04415" available="true">
       <name>Роза кустовая пионовидная Менсфилд парк Пинк 5 шт 50 см Арт. Р04415</name>
-      <price>580</price>
       <picture>https://lh3.googleusercontent.com/d/1tQhG2PmndbWSDyQJP0miefJ5GWa7tQpH</picture>
       <picture>https://lh3.googleusercontent.com/d/1BzXZG6OW5un0_N_BMltQKNt5X81hX-Qm</picture>
       <description>Менсфилд парк Пинк</description>
@@ -126,9 +119,8 @@
       <param name="Артикул">Р04415</param>
       <consist name="Роза кустовая пионовидная Менсфилд парк Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_Р04486">
+    <offer id="B2C_Р04486" available="true">
       <name>Роза кустовая Жозефина 9 шт 60 см Арт. Р04486</name>
-      <price>2900</price>
       <picture>https://lh3.googleusercontent.com/d/1cUeQIqE0T4MNmWo7oMZArWq0BrrTxayH</picture>
       <picture>https://lh3.googleusercontent.com/d/1mI5cmRSBAkZeyab6wbmlP3jrysJc_vKT</picture>
       <picture>https://lh3.googleusercontent.com/d/1CcWK4f5zsGUN7W7JIMWrwBEKMqmN0NEQ</picture>
@@ -142,9 +134,8 @@
       <param name="Артикул">Р04486</param>
       <consist name="Роза кустовая Жозефина" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р4615">
+    <offer id="B2C_Р4615" available="true">
       <name>Маттиола стокс шампань 9 шт 55 см Арт. Р4615</name>
-      <price>1660</price>
       <picture>https://lh3.googleusercontent.com/d/1ai5QixNEknh5hN5pnMwEaRXM2ALEiYrY</picture>
       <picture>https://lh3.googleusercontent.com/d/13wrkjS6XmexkhXxBdpvk3QiUk1RjkGko</picture>
       <picture>https://lh3.googleusercontent.com/d/1OD8j05IhpRAxQS-BY-uhhKAveAfTfEiA</picture>
