@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T08:33:23.104+03:00">
+<yml_catalog date="2025-09-24T08:38:25.957+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -1644,28 +1644,6 @@ Tessa
       <consist name="Аллиум
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Цо5699">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Роза кустовая Саммер Денс 90 см Арт. Цо5699</name>
-      <price>143</price>
-      <qty>120</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1oLQsVwJHzzEpH4tdBwymgXoiP5W_uWP5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1n5JoUIoHEmqPA3qzOvIldaDDpt4LG9-W</picture>
-      <picture>https://lh3.googleusercontent.com/d/1109AFfPx00T87cpbf7KY452me9ErHJ3B</picture>
-      <description>Саммер Денс</description>
-      <param name="Высота, см">90</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Цо5699</param>
-      <consist name="Роза кустовая
-Саммер Денс
-Rose Art
-Армения
-Цветы" unit="шт">10</consist>
-    </offer>
     <offer id="Цо575">
       <categories>
         <category id="37">Цветы</category>
@@ -1963,6 +1941,66 @@ Rose Art
 Кримеа
 Geoflora 
 Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Цо7837">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Плайя Бланка 70 см Арт. Цо7837</name>
+      <price>182</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JA8iDILob534M8rjC_en2XMLaJUsdUS2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E6tgF15CcevwoNNhIxg5ZShZsJIsNh4O</picture>
+      <description>Плайя Бланка</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose prime</param>
+      <param name="Артикул">Цо7837</param>
+      <consist name="Роза одноголовая
+Плайя Бланка
+Rose prime
+Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Цо7928">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Мондиаль 80 см Арт. Цо7928</name>
+      <price>187</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W-H3Rm1sKMYj2r_D-Fv7ko4-bR2xx3HK</picture>
+      <picture>https://lh3.googleusercontent.com/d/192mE9TtRWhp8VA44EKjOUiAsRp5-swUU</picture>
+      <description>Мондиаль</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Цо7928</param>
+      <consist name="Роза одноголовая
+Мондиаль
+Tessa
+Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Цо9895">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая Б Бабблс 50 см Арт. Цо9895</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gEZ3YwDE-HOY5TZiS6vjKrJd1hqiFIYh</picture>
+      <description>Б Бабблс</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Цо9895</param>
+      <consist name="Роза кустовая
+Б Бабблс 
+Rose Art
+Армения
+Цветы" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
