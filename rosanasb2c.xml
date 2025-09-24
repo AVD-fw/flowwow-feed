@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T10:17:10+03:00">
+<yml_catalog date="2025-09-24T10:21:59+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -93,6 +93,20 @@
       <param name="Артикул">Р02944</param>
       <consist name="Роза кустовая Фиеста" unit="шт">9</consist>
     </offer>
+    <offer id="B2C_Р03065" available="true">
+      <name>Роза одноголовая Пурпур 9 шт 50 см Арт. Р03065</name>
+      <picture>https://lh3.googleusercontent.com/d/1euuetS3OiDMlcslPouY94hPReFun5DJ6</picture>
+      <picture>https://lh3.googleusercontent.com/d/15S4irut2S7LFG2MjnUg4bLg5_wOmTO-R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pkjRfC1TTEEF5q2GuFB7bASahQ_sNrw7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UN2xT1-C_KR6kgT3Nl0KHGSDll80dS71</picture>
+      <description>Пурпур</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Волгоград</param>
+      <param name="Артикул">Р03065</param>
+      <consist name="Роза одноголовая Пурпур" unit="шт">9</consist>
+    </offer>
     <offer id="B2C_Р03646" available="true">
       <name>Перчик 5 шт Зеленый 60 см Арт. Р03646</name>
       <picture>https://lh3.googleusercontent.com/d/1yF_51qh0zPsiRpGEGtybNl077SI6EIij</picture>
@@ -107,6 +121,45 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Р03646</param>
       <consist name="Перчик" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Р393" available="true">
+      <name>Маттиола 9 шт Фиолетовый 50 см Арт. Р393</name>
+      <picture>https://lh3.googleusercontent.com/d/1OLjZ0hAoi_IM9D89TiOfgtdO2Z2_wpzJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O9T6ww_RG4E38tSMDmPMAh26wZ_izqfp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gaPbEE8CYqYLw6ZdgBV2DpV5nhZYUe7q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tf5U02ick-ZKV4Vg3wUYwVaKOVB26f5t</picture>
+      <description>Маттиола 9 шт Фиолетовый 50 см Арт. Р393</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р393</param>
+      <consist name="Маттиола" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р4135" available="true">
+      <name>Роза кустовая пионовидная Мансфилд Парк Пинк 5 шт 50 см Арт. Р4135</name>
+      <picture>https://lh3.googleusercontent.com/d/16GJRBiu-IhIwbUSDa6OfHqwglvX70VM7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K_t9cEsG8Is-atwAF141vSQDriiz_5CK</picture>
+      <description>Мансфилд Парк Пинк</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р4135</param>
+      <consist name="Роза кустовая пионовидная Мансфилд Парк Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Р04265" available="true">
+      <name>Роза кустовая пионовидная Софи 9 шт 50 см Арт. Р04265</name>
+      <picture>https://lh3.googleusercontent.com/d/1Uzo9YBMPDz7BMY1OpRkMomiZKn4oFlq0</picture>
+      <picture>https://lh3.googleusercontent.com/d/17ujViUfYjb7CRdVDWDvCE_QbuBIlS-PN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CFczB6O6Z-25Z1U_3uRhfHB6ydkzVDTM</picture>
+      <description>Софи</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р04265</param>
+      <consist name="Роза кустовая пионовидная Софи" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Р04275" available="true">
       <name>Роза кустовая пионовидная Мадам Бомбастик 9 шт 50 см Арт. Р04275</name>
