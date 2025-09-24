@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T12:16:07.067+03:00">
+<yml_catalog date="2025-09-24T12:17:07.414+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -436,6 +436,540 @@ Kwekerij waalzicht
       <consist name="Хризантема кустовая
 Алтай
 Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц2346">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Розовый 60 см Арт. Иц2346</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dOFj2MGzQ2A4UVQae4OINZq9WA9AIHEI</picture>
+      <description>Хризантема кустовая Розовый 60 см Арт. Иц2346</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Иц2346</param>
+    </offer>
+    <offer id="Иц1749">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лилия Розовый 90 см Арт. Иц1749</name>
+      <price>355</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jxSElgAVQXP7q_F2lAGVDpiJGgfvojm7</picture>
+      <description>Лилия Розовый 90 см Арт. Иц1749</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц1749</param>
+      <consist name="Лилия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц1899">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лилия Розовый 90 см Арт. Иц1899</name>
+      <price>355</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TI3NPCFBY7OCAmwJq4zzyWAd1FYLqGA8</picture>
+      <description>Лилия Розовый 90 см Арт. Иц1899</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Иц1899</param>
+      <consist name="Лилия
+Decorum 
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц1906">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Калла Бордовый 60 см Арт. Иц1906</name>
+      <price>177</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1winbkTJxJ4NM5fha2CBWq7qXdu-jnq6p</picture>
+      <description>Калла Бордовый 60 см Арт. Иц1906</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Иц1906</param>
+      <consist name="Калла
+Decorum 
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц1916">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Калла Желтый 60 см Арт. Иц1916</name>
+      <price>177</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Eu8fgyCqn_mc1tmwGm0W9fdnVpci-Oil</picture>
+      <description>Калла Желтый 60 см Арт. Иц1916</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Иц1916</param>
+      <consist name="Калла
+Decorum 
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц1954">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Тюльпан Белый 40 см Арт. Иц1954</name>
+      <price>101</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xavZ7YQBUlvwGgMPIRYu67uEWSCIMKjp</picture>
+      <description>Тюльпан Белый 40 см Арт. Иц1954</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц1954</param>
+      <consist name="Тюльпан
+Цветы" unit="шт">50</consist>
+    </offer>
+    <offer id="Иц1964">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Тюльпан Желтый 40 см Арт. Иц1964</name>
+      <price>101</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ocUGKu8TIfF5CYmxeiUMB9m5Y0aMUKIk</picture>
+      <description>Тюльпан Желтый 40 см Арт. Иц1964</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц1964</param>
+      <consist name="Тюльпан
+Цветы" unit="шт">50</consist>
+    </offer>
+    <offer id="Иц1976">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лизиантус Розовый 60 см Арт. Иц1976</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XV-CNiB3jAAg_F07ZQDUT_0pdiZblFXA</picture>
+      <description>Лизиантус Розовый 60 см Арт. Иц1976</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Иц1976</param>
+      <consist name="Лизиантус
+Kwekerij Waalzicht 
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2006">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Диантус Оранжево-Розовый 60 см Арт. Иц2006</name>
+      <price>43</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GRzy64kCPmumQnrpk2J2vwDfMX9bjIk3</picture>
+      <description>Диантус Оранжево-Розовый 60 см Арт. Иц2006</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Иц2006</param>
+      <consist name="Диантус 
+Tajik Flowers 
+Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Иц2034">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Вероника кустовая Фиолетовый 40 см Арт. Иц2034</name>
+      <price>76</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1c0poaIlbyMRMhfY-ByyAxCyMy21-9Al8</picture>
+      <description>Вероника кустовая Фиолетовый 40 см Арт. Иц2034</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2034</param>
+      <consist name="Вероника кустовая
+Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Иц2046">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Вероника Розовый 60 см Арт. Иц2046</name>
+      <price>76</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IRblIrZe6M043QiXEHi5s-jEs3077lOk</picture>
+      <description>Вероника Розовый 60 см Арт. Иц2046</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Veronica Florius</param>
+      <param name="Артикул">Иц2046</param>
+      <consist name="Вероника
+Veronica Florius 
+Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Иц2076">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Бело-Желтый 60 см Арт. Иц2076</name>
+      <price>35</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/178FyrShh6gZIk_w_p5IinvHHxFGdQY9w</picture>
+      <description>Альстромерия Бело-Желтый 60 см Арт. Иц2076</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2076</param>
+      <consist name="Альстромерия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2086">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Розово-Сиреневый 60 см Арт. Иц2086</name>
+      <price>35</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gaObSJV0QaKPSxk4u6xFeUXxH2V6i5tT</picture>
+      <description>Альстромерия Розово-Сиреневый 60 см Арт. Иц2086</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2086</param>
+      <consist name="Альстромерия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2096">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Желто-Розовый 60 см Арт. Иц2096</name>
+      <price>35</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kUlGMXs4b6T50t-YNBdoZEL5_lANWNbu</picture>
+      <description>Альстромерия Желто-Розовый 60 см Арт. Иц2096</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2096</param>
+      <consist name="Альстромерия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2106">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Желто-Бордовый 60 см Арт. Иц2106</name>
+      <price>35</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/174tqPlaRBPtrNJXiZTfM1D3Gbp6S_nMG</picture>
+      <description>Альстромерия Желто-Бордовый 60 см Арт. Иц2106</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2106</param>
+      <consist name="Альстромерия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2116">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Бордовый 60 см Арт. Иц2116</name>
+      <price>35</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W2EvImZYBiUfRRNwVPnDwWvLu9PMsZwN</picture>
+      <description>Альстромерия Бордовый 60 см Арт. Иц2116</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2116</param>
+      <consist name="Альстромерия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2136">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Сиреневый 60 см Арт. Иц2136</name>
+      <price>35</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18L-G9cvDn-YELHlg2uZBjPc3fNwbID7g</picture>
+      <description>Альстромерия Сиреневый 60 см Арт. Иц2136</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2136</param>
+      <consist name="Альстромерия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2145">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Сиреневый 50 см Арт. Иц2145</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pFIFFXSHtUTndrs72bbeJP1sQSoCB_yR</picture>
+      <description>Хризантема кустовая Сиреневый 50 см Арт. Иц2145</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Иц2145</param>
+      <consist name="Хризантема кустовая
+Zentoo
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц2217">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Розовый 70 см Арт. Иц2217</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KoWbNVUP--Qp_nfwbn7cop3Lrn849MOL</picture>
+      <description>Хризантема кустовая Розовый 70 см Арт. Иц2217</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Иц2217</param>
+      <consist name="Хризантема кустовая
+Zentoo 
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц2227">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Розовый 70 см Арт. Иц2227</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MsWQBRY6X7x99537ZGKrSDS4srTJ2cYL</picture>
+      <description>Хризантема кустовая Розовый 70 см Арт. Иц2227</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Иц2227</param>
+      <consist name="Хризантема кустовая
+Zentoo 
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц2237">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Желтый 70 см Арт. Иц2237</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qr54t43gTJ94IAzsCoYCExOfq4M7d0sj</picture>
+      <description>Хризантема кустовая Желтый 70 см Арт. Иц2237</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Иц2237</param>
+      <consist name="Хризантема кустовая 
+Zentoo 
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц2247">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Желтый 70 см Арт. Иц2247</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TxuvZLNcR15C47Gzl0XjAAKgT7njLn9b</picture>
+      <description>Хризантема кустовая Желтый 70 см Арт. Иц2247</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Иц2247</param>
+      <consist name="Хризантема кустовая
+Decorum
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц2358">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Подсолнух Жёлтый 80 см Арт. Иц2358</name>
+      <price>144</price>
+      <qty>10</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12AI-4jBFBJUfcP6t80ncWoyZvw4WlzOV</picture>
+      <description>Подсолнух Жёлтый 80 см Арт. Иц2358</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Иц2358</param>
+      <consist name="Подсолнух 
+Цветы" unit="шт">1</consist>
+    </offer>
+    <offer id="Иц2386">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Калла Желтый 60 см Арт. Иц2386</name>
+      <price>177</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q7-HsoZPl7bQfypF4yJ26sesitkm6liK</picture>
+      <description>Калла Желтый 60 см Арт. Иц2386</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Иц2386</param>
+      <consist name="Калла
+Decorum
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2396">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Калла Бело-розовый 60 см Арт. Иц2396</name>
+      <price>177</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hK3uMqahdEvgcKnSwkcdLU9XmVzddtej</picture>
+      <description>Калла Бело-розовый 60 см Арт. Иц2396</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Иц2396</param>
+      <consist name="Калла
+Kallaland
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2406">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Калла Белый 60 см Арт. Иц2406</name>
+      <price>177</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RXolk3mVc_LxLWR01jV9w7Z9QOoF7RnP</picture>
+      <description>Калла Белый 60 см Арт. Иц2406</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Иц2406</param>
+      <consist name="Калла
+Kallaland
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2447">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Антонов Магнум 70 см Арт. Иц2447</name>
+      <price>132</price>
+      <qty>80</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KYGCrf0qL4GfJhClUFKDSlP6nQ-U4Y9D</picture>
+      <description>Антонов Магнум</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Иц2447</param>
+      <consist name="Хризантема одноголовая
+Антонов Магнум
+Vannova 
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2476">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лизиантус Сиреневый 60 см Арт. Иц2476</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
+      <description>Лизиантус Сиреневый 60 см Арт. Иц2476</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Иц2476</param>
+      <consist name="Лизиантус
+Kwekerij Waalzicht
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2486">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лизиантус Бело-розовый 60 см Арт. Иц2486</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1x-ceu8AgRFxLUKMDuN0zZPT-aN1e7btt</picture>
+      <description>Лизиантус Бело-розовый 60 см Арт. Иц2486</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Иц2486</param>
+      <consist name="Лизиантус
+Kwekerij Waalzicht
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2496">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лизиантус Фиолетовый 60 см Арт. Иц2496</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IYG7ioVyrn6Qy1APsg4Mvr4D2yE1ln9T</picture>
+      <description>Лизиантус Фиолетовый 60 см Арт. Иц2496</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Иц2496</param>
+      <consist name="Лизиантус
+Kwekerij Waalzicht
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Иц2506">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лизиантус Разовый 60 см Арт. Иц2506</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rypN2OXPzafDYoVO-pWV7VIc_ugLXmSG</picture>
+      <description>Лизиантус Разовый 60 см Арт. Иц2506</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Иц2506</param>
+      <consist name="Лизиантус
+Kwekerij Waalzicht
+Цветы" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
