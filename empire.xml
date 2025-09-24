@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T11:27:52.746+03:00">
+<yml_catalog date="2025-09-24T11:32:52.259+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
     <offers>
+    <offer id="Иц00257">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лизиантус Белый 70 см Арт. Иц00257</name>
+      <price>140</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KTmkHhoiz3r2IdkOjKSRq9BOwRaRnKKN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nMzqWqE9cOWy1wE7stsDKrALOy8lqNKW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AQaScwFKFbjcFH9jK9fA6HSWcC1gga1Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l01pEVr0U_pPIlBUvsXc4uHkgSbwlvgK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fRU6Inc4Cd1lfeZBpCOW_JKhRspcRF3t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pPjhR1lj7NpIqx3AR6MDaK_8JbZYJtlI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kXIaij2aTKHgGaIEJvJLDgW6aTz8iF8G</picture>
+      <description>Лизиантус Белый 70 см Арт. Иц00257</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Иц00257</param>
+      <consist name="Лизиантус
+Sunrise Holland
+Голландия
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Иц00448">
       <categories>
         <category id="38">Зелень</category>
@@ -50,6 +75,69 @@ Klaverflowers
 Marginpar
 Голландия
 Зелень" unit="шт">25</consist>
+    </offer>
+    <offer id="Иц00766">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Кеннеди 60 см Арт. Иц00766</name>
+      <price>80</price>
+      <qty>105</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hWX4PKIE1h6BlMP72_Cq8pg_QsXjwhWW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fEoT3mRAwpFBs7iijfCbXlGFnD2xkqLY</picture>
+      <description>Кеннеди</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada flowers</param>
+      <param name="Артикул">Иц00766</param>
+      <consist name="Хризантема кустовая
+Кеннеди
+Samada flowers
+Голландия
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц00866">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Реск 60 см Арт. Иц00866</name>
+      <price>80</price>
+      <qty>65</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qjnXanrIFAfXPepHqf5Vh9Ta_RgCtdMD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q9FsDiimf2OS7--kiTPvLqO8xi8gzviM</picture>
+      <description>Реск</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">CornelisJan</param>
+      <param name="Артикул">Иц00866</param>
+      <consist name="Хризантема кустовая
+Реск
+CornelisJan
+Голландия
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Иц00896">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Балтика 60 см Арт. Иц00896</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1awNepH4xNPSjqHQmUQgRaxUwBjiEI333</picture>
+      <picture>https://lh3.googleusercontent.com/d/13rhRUq9Fumb3RP7vl2pC5K3T7mi7262Q</picture>
+      <description>Балтика</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Иц00896</param>
+      <consist name="Хризантема кустовая
+Балтика
+Zentoo
+Голландия
+Цветы" unit="шт">5</consist>
     </offer>
     <offer id="Иц00926">
       <categories>
@@ -122,7 +210,7 @@ Preferred pick
       </categories>
       <name>Хризантема Сантини Розовый 60 см Арт. Иц00326</name>
       <price>89</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/15wye-sZgTss--2lT1ITHNWErEL6YrTy5</picture>
       <picture>https://lh3.googleusercontent.com/d/1lUOWbNnlbTMqCDqGIGbxWn5l7w2UGB9h</picture>
@@ -204,7 +292,7 @@ Decorum
       </categories>
       <name>Хризантема Сантини Белый 50 см Арт. Иц01055</name>
       <price>89</price>
-      <qty>25</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gTTFNiUcIDai0KYM4Kc7dQVtFlV233f5</picture>
       <picture>https://lh3.googleusercontent.com/d/1oAwhFbahjIJfFWkhC4z9b7mM2blfZtib</picture>
@@ -319,6 +407,25 @@ Decorum
       <param name="Артикул">Иц01225</param>
       <consist name="Лимониум
 Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Иц01257">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лизиантус Фиолетовый 70 см Арт. Иц01257</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FCLjkS4MPJAGfD0L9H4XtURJhwpr4Ltq</picture>
+      <description>Лизиантус Фиолетовый 70 см Арт. Иц01257</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Иц01257</param>
+      <consist name="Лизиантус
+Kwekerij waalzicht
+Голландия
+Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Иц01266">
       <categories>
