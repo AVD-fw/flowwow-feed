@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-24T10:26:58+03:00">
+<yml_catalog date="2025-09-24T10:31:57.624+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
-    <url>https://example.com</url>
-    <categories>
-      <category id="37">Цветы</category>
-      <category id="38">Зелень</category>
-      <category id="39">Декор</category>
-    </categories>
     <offers>
-    <offer id="Р00776" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р00776">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Георгин Оранжевый 60 см Арт. Р00776</name>
+      <price>123</price>
       <qty>210</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
@@ -28,9 +25,12 @@
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р02416" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02416">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Георгин Розовый 60 см Арт. Р02416</name>
+      <price>123</price>
       <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F5au877psLwrEM31M1MvvkcgzV9ZlAjh</picture>
@@ -51,9 +51,12 @@
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01337" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01337">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Калла Флорекс Голд 70 см Арт. Р01337</name>
+      <price>192</price>
       <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ux5dNBKCXnJMi9Mh1BL8OpiE6IO5IEDG</picture>
@@ -67,9 +70,12 @@
 Флорекс Голд
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01599" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р01599">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Крокосмия Бес Люцифер 90 см Арт. Р01599</name>
+      <price>77</price>
       <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Fm0jpkA0n6FXXq6xDTCKLWs8_0Yci_Ly</picture>
@@ -85,9 +91,12 @@
 Бес Люцифер
 Зелень" unit="шт">10</consist>
     </offer>
-    <offer id="Р00607" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р00607">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Подсолнух Желтый 70 см Арт. Р00607</name>
+      <price>73</price>
       <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bQJXudy5A7LhJe8aJeUP9bJ-jdOvNWKE</picture>
@@ -103,9 +112,12 @@
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р02317" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02317">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. Р02317</name>
+      <price>127</price>
       <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1idg0KiNVRPZOlVslHOrrsa0_aFJduGyx</picture>
@@ -127,9 +139,12 @@
 Zentoo
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р02267" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02267">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Астранция Маж Роме 70 см Арт. Р02267</name>
+      <price>76</price>
       <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Veyjt7bgbN9xaIfZNOzYPxiI_Du54UOY</picture>
@@ -147,9 +162,12 @@ Zentoo
 Маж Роме
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р02257" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р02257">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Вербена Ов 70 см Арт. Р02257</name>
+      <price>49</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13IpLXF8ffL0DRdMVaS7oGf19IF-MxeOw</picture>
@@ -162,9 +180,12 @@ Zentoo
 Ов
 Зелень" unit="шт">10</consist>
     </offer>
-    <offer id="Р00234" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р00234">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Вероника Смарт Диана 40 см Арт. Р00234</name>
+      <price>59</price>
       <qty>60</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12KMn0zQxYJ21ixggLfkU3LWbOroG_PlS</picture>
@@ -185,9 +206,12 @@ Zentoo
 Голландия
 Зелень" unit="шт">20</consist>
     </offer>
-    <offer id="Р01664" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01664">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Георгин Белый 40 см Арт. Р01664</name>
+      <price>123</price>
       <qty>200</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1caTPqzgqAzQT0uKIwutHwz42oVMh0PJY</picture>
@@ -201,9 +225,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р00378" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р00378">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Гипсофила Радужная 80 см Арт. Р00378</name>
+      <price>109</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VOPJBEviO1AGt4L5bYoceI7S_MlxmYgw</picture>
@@ -227,9 +254,12 @@ Esmeralda
 Эквадор
 Цветы" unit="шт">25</consist>
     </offer>
-    <offer id="Р01047" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01047">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Кампанула Кам Пеар Пинк 70 см Арт. Р01047</name>
+      <price>133</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dfyswigfiiJwqPklQYOtjy_QVwc9JGzt</picture>
@@ -245,9 +275,12 @@ Esmeralda
 Кам Пеар Пинк
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01057" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01057">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Кампанула Чемпион Блу 70 см Арт. Р01057</name>
+      <price>134</price>
       <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Rq0narPhs9DmWJU6NjEpoCW4ysXxuGvD</picture>
@@ -263,9 +296,12 @@ Esmeralda
 Чемпион Блу
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01127" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р01127">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Крокосмия Люцифер 70 см Арт. Р01127</name>
+      <price>76</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uUlTLQAvjv26vnjTT24Wh-PSRcFsns6U</picture>
@@ -279,9 +315,12 @@ Esmeralda
 Люцифер 
 Зелень" unit="шт">10</consist>
     </offer>
-    <offer id="Р01165" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01165">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Орнитогалум Турсордес 50 см Арт. Р01165</name>
+      <price>76</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1m1Fp8M56gerYdvk_l_G7LALyfO3S6nxz</picture>
@@ -299,9 +338,12 @@ Esmeralda
 Голландия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01558" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р01558">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Паникум Зеленый 80 см Арт. Р01558</name>
+      <price>45</price>
       <qty>120</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LKQ0UvG8Yl6g4ko18XXk_hg-6EUyCXTa</picture>
@@ -314,9 +356,12 @@ Esmeralda
       <consist name="Паникум
 Зелень" unit="шт">20</consist>
     </offer>
-    <offer id="Р02025" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02025">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Р02025</name>
+      <price>290</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kg1q055gzX7Dd4MRk2rdIq5V3Ba2wpJT</picture>
@@ -336,9 +381,12 @@ Esmeralda
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01549" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р01549">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Хасмантиум Латифолия 90 см Арт. Р01549</name>
+      <price>43</price>
       <qty>80</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14rJVyn_npb-gr2VsIURHVPkinyyfcmmu</picture>
@@ -353,9 +401,12 @@ Esmeralda
 Латифолия
 Зелень" unit="шт">20</consist>
     </offer>
-    <offer id="Р00877" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р00877">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема одноголовая Алемани 70 см Арт. Р00877</name>
+      <price>191</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1elXV6vcLcg2W_8U0YmloB6KX9-fajIiW</picture>
@@ -373,9 +424,12 @@ Zentoo
 Голландия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01977" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01977">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Р01977</name>
+      <price>162</price>
       <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1FSC3-tKIcAIc7G4cSM-bxBSk9yid66GO</picture>
@@ -392,9 +446,12 @@ Zentoo
 Бальтазар Интен
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р02308" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02308">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема одноголовая Фуего 80 см Арт. Р02308</name>
+      <price>282</price>
       <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_gBVn7Rx8iwKrPgWwsBqRIL9e2Tj1cfI</picture>
@@ -411,9 +468,12 @@ Zentoo
 Фуего
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р02327" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02327">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема одноголовая Магнум йеллоу 70 см Арт. Р02327</name>
+      <price>167</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VK_nvoBgIYA-5doT7D_lxL5-0RLRGLWz</picture>
@@ -429,9 +489,12 @@ Zentoo
 Магнум йеллоу
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р02387" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02387">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Хризантема одноголовая Алибаба 70 см Арт. Р02387</name>
+      <price>179</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vhjs8vC92aH_JOgrC1IheIiX6IASFUbL</picture>
@@ -445,9 +508,12 @@ Zentoo
 Алибаба
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р01297" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01297">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Целозия Роуз Делайт 75 см Арт. Р01297</name>
+      <price>121</price>
       <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vNmpb6oZgU-6OnKcTZWwd0YSGRzxniLM</picture>
@@ -461,9 +527,12 @@ Zentoo
 Роуз Делайт
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р01307" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р01307">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Целозия Пинк Делайт 72 см Арт. Р01307</name>
+      <price>163</price>
       <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ogTEJkOFG106CuFnI1H1eFBLF1QURQgn</picture>
@@ -479,9 +548,12 @@ Zentoo
 Пинк Делайт
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р02944" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02944">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая Фиеста 40 см Арт. Р02944</name>
+      <price>80</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GPLPCDlPkkEXCJYGulOMO3ck_Mw8K_-Q</picture>
@@ -498,9 +570,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р02995" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р02995">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Мансфилд Парк 50 см Арт. Р02995</name>
+      <price>305</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1j8uqFJ-fVGRI6BOyikRZuuo345hJMTGZ</picture>
@@ -518,9 +593,12 @@ Zentoo
 Мордовия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р03005" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р03005">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Роял Парк 50 см Арт. Р03005</name>
+      <price>290</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12USwLQmp1sBRlzTdkzokskU0Nutqqa8P</picture>
@@ -535,9 +613,12 @@ Zentoo
 Мордовия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р03065" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р03065">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза одноголовая Пурпур 50 см Арт. Р03065</name>
+      <price>60</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1euuetS3OiDMlcslPouY94hPReFun5DJ6</picture>
@@ -555,9 +636,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р03135" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р03135">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Георгин Розовый 50 см Арт. Р03135</name>
+      <price>123</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1FeBdMQ-NEUlJRPtt-mrrfZNWdPNg8qY1</picture>
@@ -574,9 +658,12 @@ Zentoo
       <consist name="Георгин
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р03158" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р03158">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Калла Каптаин Промисе 80 см Арт. Р03158</name>
+      <price>200</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14TsEjCZK3v4gKo9oLhx6mvOHV0syHw68</picture>
@@ -590,9 +677,12 @@ Zentoo
 Каптаин Промисе
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р03175" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р03175">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Фрезия Ду Солеил 52 см Арт. Р03175</name>
+      <price>88</price>
       <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Nsm-7RtoYuk8I0z4cHSroBOzRN6-R6co</picture>
@@ -609,9 +699,12 @@ Zentoo
 Ду Солеил
 Цветы" unit="шт">50</consist>
     </offer>
-    <offer id="Р03568" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р03568">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Гидрангия Пимпернель 80 см Арт. Р03568</name>
+      <price>561</price>
       <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OUBKsfbpWOP-wii2ghiNUyRgA0uTawmX</picture>
@@ -624,9 +717,12 @@ Zentoo
 Пимпернель
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р03635" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р03635">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Антирринум Белый 50 см Арт. Р03635</name>
+      <price>152</price>
       <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1h6_euCcgPIDHq6JQMgYJe7ZmnlEdMCZq</picture>
@@ -642,9 +738,12 @@ Zentoo
 Краснодар
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р03646" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р03646">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Перчик Зеленый 60 см Арт. Р03646</name>
+      <price>282</price>
       <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yF_51qh0zPsiRpGEGtybNl077SI6EIij</picture>
@@ -662,9 +761,12 @@ Zentoo
 Россия
 Зелень" unit="шт">5</consist>
     </offer>
-    <offer id="Р3714" available="true">
-      <categoryId>38</categoryId>
+    <offer id="Р3714">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
       <name>Бруния левайс 40 см Арт. Р3714</name>
+      <price>150</price>
       <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TScb71rkAh8Qzm05jIxXR64OamtyGNg3</picture>
@@ -681,9 +783,12 @@ Zentoo
 левайс
 Зелень" unit="шт">10</consist>
     </offer>
-    <offer id="Р3728" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р3728">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Нутан хайдж голд 80 см Арт. Р3728</name>
+      <price>245</price>
       <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11QCSKbu83vEtaLvBxyxgAl4O5VBBb2Jq</picture>
@@ -697,9 +802,12 @@ Zentoo
 хайдж голд
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р3847" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р3847">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Клематис Лайт Пинк 70 см Арт. Р3847</name>
+      <price>105</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UkzW3aTLUUmtEmHMn7oznQweIkVRBjAp</picture>
@@ -716,9 +824,12 @@ Zentoo
 Лайт Пинк
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р3887" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р3887">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Кампанула Чемпион вайт 75 см Арт. Р3887</name>
+      <price>133</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cX-q9RUT6NtH9qnb84MNQLfxwZzdJ4FO</picture>
@@ -735,9 +846,12 @@ Zentoo
 Чемпион вайт
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р393" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р393">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Маттиола Фиолетовый 50 см Арт. Р393</name>
+      <price>150</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OLjZ0hAoi_IM9D89TiOfgtdO2Z2_wpzJ</picture>
@@ -754,9 +868,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р4135" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4135">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Мансфилд Парк Пинк 50 см Арт. Р4135</name>
+      <price>305</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16GJRBiu-IhIwbUSDa6OfHqwglvX70VM7</picture>
@@ -772,9 +889,12 @@ Zentoo
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р04265" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04265">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Софи 50 см Арт. Р04265</name>
+      <price>290</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Uzo9YBMPDz7BMY1OpRkMomiZKn4oFlq0</picture>
@@ -791,9 +911,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р04275" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04275">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Р04275</name>
+      <price>290</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/103yHsuOnizPVQt1b3SKNUR8wiqOMNp6H</picture>
@@ -812,9 +935,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р04335" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04335">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Сильва Пинк 50 см Арт. Р04335</name>
+      <price>305</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QjNVv_UrsTKI75kkwP8p5MkYFp8bnth3</picture>
@@ -834,9 +960,12 @@ Zentoo
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р04345" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04345">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Мансфилд парк Пинк 50 см Арт. Р04345</name>
+      <price>305</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rqU-kqXrMid6OO4805gEEm0bi59f0NP-</picture>
@@ -855,9 +984,12 @@ Zentoo
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р04386" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04386">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Скарлет Дименшион 60 см Арт. Р04386</name>
+      <price>290</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BMrQT_TnVkDy3jh2fouEHL84_NCMHLbE</picture>
@@ -874,9 +1006,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р04415" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04415">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Менсфилд парк Пинк 50 см Арт. Р04415</name>
+      <price>116</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1tQhG2PmndbWSDyQJP0miefJ5GWa7tQpH</picture>
@@ -892,9 +1027,12 @@ Zentoo
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р04466" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04466">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Мадам бомбастик 60 см Арт. Р04466</name>
+      <price>421</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/181xcr68RCe0V_raJt3Yn3NuSh4zackA4</picture>
@@ -911,9 +1049,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р04486" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04486">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая Жозефина 60 см Арт. Р04486</name>
+      <price>290</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cUeQIqE0T4MNmWo7oMZArWq0BrrTxayH</picture>
@@ -932,9 +1073,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р04506" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р04506">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая Софи 60 см Арт. Р04506</name>
+      <price>421</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1S3Xy4YeE5pazNOC2etcWI6tKHJaRSuSX</picture>
@@ -952,9 +1096,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р4606" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4606">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Маттиола стокс вайт 60 см Арт. Р4606</name>
+      <price>166</price>
       <qty>220</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aE0Pz6Zapqnx3avqhCwC1xS5SahmcHXA</picture>
@@ -971,9 +1118,12 @@ Zentoo
 стокс вайт
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р4615" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4615">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Маттиола стокс шампань 55 см Арт. Р4615</name>
+      <price>166</price>
       <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ai5QixNEknh5hN5pnMwEaRXM2ALEiYrY</picture>
@@ -993,9 +1143,12 @@ Zentoo
 Россия
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р4635" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4635">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Георгин Белый 50 см Арт. Р4635</name>
+      <price>123</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vtLRa1Ma0pBcu_2g7lwYZNqmJZR82j7v</picture>
@@ -1011,9 +1164,12 @@ Zentoo
       <consist name="Георгин
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р4665" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4665">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Георгин микс 50 см Арт. Р4665</name>
+      <price>123</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kDxZ5NFhmGxHmsh18QPicXE1p_3pwqDb</picture>
@@ -1026,9 +1182,12 @@ Zentoo
 микс
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р471" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р471">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Подсолнух  мини 50 см Арт. Р471</name>
+      <price>58</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NzEereczStVeMo6pk8ZgpHTTVnZcEJOL</picture>
@@ -1041,9 +1200,12 @@ Zentoo
 мини
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р4861" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4861">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Гладиолус карма 130 см Арт. Р4861</name>
+      <price>155</price>
       <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uBWHVF02U-2gkvuuHi2_CNy8fsqjnqYQ</picture>
@@ -1056,9 +1218,12 @@ Zentoo
 карма
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р4905" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4905">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая Микс 50 см Арт. Р4905</name>
+      <price>290</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/15BffYh-0mQFyZJj-wE-G5De3HReRa5Ne</picture>
@@ -1074,9 +1239,12 @@ Zentoo
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р4925" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р4925">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза кустовая пионовидная Микс Кустовые 50 см Арт. Р4925</name>
+      <price>290</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fn9twRiaeBE16Yq_6f5mTKwChOY8_jms</picture>
@@ -1093,9 +1261,12 @@ Zentoo
 Россия
 Цветы" unit="шт">5</consist>
     </offer>
-    <offer id="Р5094" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р5094">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Скиммия рубелла 45 см Арт. Р5094</name>
+      <price>536</price>
       <qty>16</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UguzhdBRH72mBhibXH7MQluMbOcI8ILu</picture>
@@ -1111,9 +1282,12 @@ Zentoo
 рубелла
 Цветы" unit="шт">1</consist>
     </offer>
-    <offer id="Р534" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р534">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Эустома Гев Алиса Шампэнь 50 см Арт. Р534</name>
+      <price>210</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Dr2TMsb3QwHYzmckzmmmTaU8qrLnKpUU</picture>
@@ -1127,9 +1301,12 @@ Zentoo
 Гев Алиса Шампэнь
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р5388" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р5388">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Гидрангия Вер Кл Грин 80 см Арт. Р5388</name>
+      <price>522</price>
       <qty>6</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ofhFo5K02e7Htxde2J9Fq2P3b8GD5Zc_</picture>
@@ -1143,9 +1320,12 @@ Zentoo
 Вер Кл Грин
 Цветы" unit="шт">1</consist>
     </offer>
-    <offer id="Р5446" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р5446">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Рускус Зеленый 60 см Арт. Р5446</name>
+      <price>35</price>
       <qty>3</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Q2cz0cmyetFI4u6Pv7AtOjlrfaIWx46-</picture>
@@ -1161,9 +1341,12 @@ Zentoo
 турция
 Цветы" unit="шт">20</consist>
     </offer>
-    <offer id="Р6368" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р6368">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Роза Маг Эмэйзинг Фан 80 см Арт. Р6368</name>
+      <price>144</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KI7ATcCt--nKVwJ7kblT1g39KyPJN-Mz</picture>
@@ -1176,9 +1359,12 @@ Zentoo
 Маг Эмэйзинг Фан
 Цветы" unit="шт">10</consist>
     </offer>
-    <offer id="Р6437" available="true">
-      <categoryId>37</categoryId>
+    <offer id="Р6437">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
       <name>Фрезия Версайлес 70 см Арт. Р6437</name>
+      <price>101</price>
       <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1o4xzerFFVkBnrWgYytzo_xz1gA0Wartl</picture>
