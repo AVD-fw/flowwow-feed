@@ -1,9 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T22:31:08.214+03:00">
+<yml_catalog date="2025-09-25T22:35:38.867+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
     <offers>
+    <offer id="B2C_Им00485">
+      <name>Роза одноголовая Эль Торо 15 шт 50 см Арт. Им00485</name>
+      <price>1500</price>
+      <picture>https://lh3.googleusercontent.com/d/1fdLjuMenHa41RGbNFD65nwvc5ex9mrM7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1owxFtH-C0XlYnXWklSIIDB9osToyuW3k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1liuRWHyu31CSohQPJDDKQRGsWfQHK6d8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Si-NWXvnglOU2citcm2IpvkCk8Fd2y1v</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Подосинки</param>
+      <param name="Артикул">Им00485</param>
+      <consist name="Роза одноголовая Эль Торо" unit="шт">15</consist>
+    </offer>
+    <offer id="B2C_Им00465">
+      <name>Роза одноголовая Мисс Пигги 9 шт 40 см Арт. Им00465</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1wwiwmSTya051CqjLcqVsnm4dA6eT6M5G</picture>
+      <picture>https://lh3.googleusercontent.com/d/14Oqf9bEgQoxCetmXInEFLobZwaMwkzak</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hXzCZNHJpuKEOLN-eTIPrkCNufL2P6Bm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t2LvVisNjkJscKiMOlyiAO7maG9w0WMy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Подосинки</param>
+      <param name="Артикул">Им00465</param>
+      <consist name="Роза одноголовая Мисс Пигги" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Им00494">
+      <name>Роза одноголовая Аваланш 9 шт 50 см Арт. Им00494</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1N1TScDwThxwb61f5uu63wnBMnsksd6Jk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ynMVj7fyGmGoV82U_MxQM2tVcoyHf4av</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F-YXlIcDxYsZHo13YkeBPCk3X0IsXw_O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gACG_Bs6pKfFNOtHTbeqLO1iYm094AD2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Подосинки</param>
+      <param name="Артикул">Им00494</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Им01397">
+      <name>Роза одноголовая пионовидная Принцесса Краун 25 шт 60 см Арт. Им01397</name>
+      <price>3250</price>
+      <picture>https://lh3.googleusercontent.com/d/1S9VJnNZCcpRh1ZIftiwOUZ3s4jOL6t9G</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Sofi Farms</param>
+      <param name="Артикул">Им01397</param>
+      <consist name="Роза одноголовая пионовидная Принцесса Краун" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Им01535">
+      <name>Роза кустовая Фемке 9 шт 50 см Арт. Им01535</name>
+      <price>1280</price>
+      <picture>https://lh3.googleusercontent.com/d/1HtY2uM8XF5XNS63OZmYItf8UI2qwA0Td</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Им01535</param>
+      <consist name="Роза кустовая Фемке" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Им01545">
+      <name>Роза кустовая Таня 9 шт 50 см Арт. Им01545</name>
+      <price>1280</price>
+      <picture>https://lh3.googleusercontent.com/d/19btiG3bBF6PPHZCD4eHiVw2dfUpplsD_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Им01545</param>
+      <consist name="Роза кустовая Таня" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Им00274">
+      <name>Роза кустовая Мисс Бомбастик 9 шт 70 см Арт. Им00274</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/17UkBnpYwZs3cLTTNhZpASsfcClicynny</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Им00274</param>
+      <consist name="Роза кустовая Мисс Бомбастик" unit="шт">9</consist>
+    </offer>
     <offer id="B2C_Им00355">
       <name>Роза кустовая пионовидная Фемке 9 шт 50 см Арт. Им00355</name>
       <price>1000</price>
@@ -339,99 +432,6 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Им01576</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Им01535">
-      <name>Роза кустовая Фемке 9 шт 50 см Арт. Им01535</name>
-      <price>1280</price>
-      <picture>https://lh3.googleusercontent.com/d/1HtY2uM8XF5XNS63OZmYItf8UI2qwA0Td</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Им01535</param>
-      <consist name="Роза кустовая Фемке" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Им01545">
-      <name>Роза кустовая Таня 9 шт 50 см Арт. Им01545</name>
-      <price>1280</price>
-      <picture>https://lh3.googleusercontent.com/d/19btiG3bBF6PPHZCD4eHiVw2dfUpplsD_</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Им01545</param>
-      <consist name="Роза кустовая Таня" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Им00274">
-      <name>Роза кустовая Мисс Бомбастик 9 шт 70 см Арт. Им00274</name>
-      <price>1800</price>
-      <picture>https://lh3.googleusercontent.com/d/17UkBnpYwZs3cLTTNhZpASsfcClicynny</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Грант Роз</param>
-      <param name="Артикул">Им00274</param>
-      <consist name="Роза кустовая Мисс Бомбастик" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Им01397">
-      <name>Роза одноголовая пионовидная Принцесса Краун 25 шт 60 см Арт. Им01397</name>
-      <price>3250</price>
-      <picture>https://lh3.googleusercontent.com/d/1S9VJnNZCcpRh1ZIftiwOUZ3s4jOL6t9G</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Sofi Farms</param>
-      <param name="Артикул">Им01397</param>
-      <consist name="Роза одноголовая пионовидная Принцесса Краун" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_Им00485">
-      <name>Роза одноголовая Эль Торо 15 шт 50 см Арт. Им00485</name>
-      <price>1500</price>
-      <picture>https://lh3.googleusercontent.com/d/1fdLjuMenHa41RGbNFD65nwvc5ex9mrM7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1owxFtH-C0XlYnXWklSIIDB9osToyuW3k</picture>
-      <picture>https://lh3.googleusercontent.com/d/1liuRWHyu31CSohQPJDDKQRGsWfQHK6d8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Si-NWXvnglOU2citcm2IpvkCk8Fd2y1v</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Подосинки</param>
-      <param name="Артикул">Им00485</param>
-      <consist name="Роза одноголовая Эль Торо" unit="шт">15</consist>
-    </offer>
-    <offer id="B2C_Им00465">
-      <name>Роза одноголовая Мисс Пигги 9 шт 40 см Арт. Им00465</name>
-      <price>1000</price>
-      <picture>https://lh3.googleusercontent.com/d/1wwiwmSTya051CqjLcqVsnm4dA6eT6M5G</picture>
-      <picture>https://lh3.googleusercontent.com/d/14Oqf9bEgQoxCetmXInEFLobZwaMwkzak</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hXzCZNHJpuKEOLN-eTIPrkCNufL2P6Bm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1t2LvVisNjkJscKiMOlyiAO7maG9w0WMy</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Подосинки</param>
-      <param name="Артикул">Им00465</param>
-      <consist name="Роза одноголовая Мисс Пигги" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Им00494">
-      <name>Роза одноголовая Аваланш 9 шт 50 см Арт. Им00494</name>
-      <price>1000</price>
-      <picture>https://lh3.googleusercontent.com/d/1N1TScDwThxwb61f5uu63wnBMnsksd6Jk</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ynMVj7fyGmGoV82U_MxQM2tVcoyHf4av</picture>
-      <picture>https://lh3.googleusercontent.com/d/1F-YXlIcDxYsZHo13YkeBPCk3X0IsXw_O</picture>
-      <picture>https://lh3.googleusercontent.com/d/1gACG_Bs6pKfFNOtHTbeqLO1iYm094AD2</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Подосинки</param>
-      <param name="Артикул">Им00494</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">9</consist>
     </offer>
     </offers>
   </shop>
