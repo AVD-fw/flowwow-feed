@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T15:13:31.547+03:00">
+<yml_catalog date="2025-09-25T15:14:56.847+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -168,6 +168,43 @@ FloriusFlowers
 Софи Воорн Розес
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Цо00726">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Пион Сара Бернар 60 см Арт. Цо00726</name>
+      <price>330</price>
+      <qty>1</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16gx2ZrYeB_X1Z8EwzBaWsL8WXI_LOQUk</picture>
+      <description>Сара Бернар</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо00726</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.
+Пион
+Сара Бернар
+Цветы" unit="шт">20</consist>
+    </offer>
+    <offer id="Цо00746">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Белый 60 см Арт. Цо00746</name>
+      <price>281</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1V54s2CFar5wHaH2ITdPoGMWVdFY35mVW</picture>
+      <description>Роза кустовая пионовидная Белый 60 см Арт. Цо00746</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Софи Воорн Розес</param>
+      <param name="Артикул">Цо00746</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая пионовидная
+Софи Воорн Розес
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Цо00755">
       <categories>
         <category id="38">Зелень</category>
@@ -188,6 +225,25 @@ FloriusFlowers
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
 Бруния
 Зелень" unit="шт">10</consist>
+    </offer>
+    <offer id="Цо00776">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая Гуд Муд 60 см Арт. Цо00776</name>
+      <price>154</price>
+      <qty>150</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tqvfOzzYLO0sgsChXcrxJe8uMZkHwy9M</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wnwZl2P0nhKt3IBpeaB62HFL7fXVMXR5</picture>
+      <description>Гуд Муд</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо00776</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая
+Гуд Муд
+Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Цо00795">
       <categories>
