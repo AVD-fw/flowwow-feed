@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T21:01:08.003+03:00">
+<yml_catalog date="2025-09-25T21:03:45.571+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
     <offers>
-    <offer id="Им2618">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Роза одноголовая БСВИТ 80 см Арт. Им2618</name>
-      <price>153</price>
-      <qty>100</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jLBNoZHLjJ80pXzyIwV00SzaCtWGGUS-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Yaku Sisa</param>
-      <param name="Артикул">Им2618</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
     <offer id="Им2548">
       <categories>
         <category id="37">Цветы</category>
@@ -31,9 +15,25 @@
       <picture>https://lh3.googleusercontent.com/d/16m0lFXJZ5RoUvZQGDjeFk-6YzQelMe4f</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Sofie Farms</param>
       <param name="Артикул">Им2548</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2618">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая БСВИТ 80 см Арт. Им2618</name>
+      <price>153</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jLBNoZHLjJ80pXzyIwV00SzaCtWGGUS-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Yaku Sisa</param>
+      <param name="Артикул">Им2618</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Им2447">
@@ -47,10 +47,111 @@
       <picture>https://lh3.googleusercontent.com/d/1KYGCrf0qL4GfJhClUFKDSlP6nQ-U4Y9D</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Vannova</param>
       <param name="Артикул">Им2447</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им00926">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Селебрейт 60 см Арт. Им00926</name>
+      <price>80</price>
+      <qty>80</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1u46tbmbygsKGbFZsLciCdjnP2wPKYYG8</picture>
+      <picture>https://lh3.googleusercontent.com/d/14y_cuFIiDC6ZWOTWE6Ik0Jl4Sfgf3xAJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DSdNxBcppzLFq-lD37vdABr9sOmExIGQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Им00926</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Им00866">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Реск 60 см Арт. Им00866</name>
+      <price>80</price>
+      <qty>65</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qjnXanrIFAfXPepHqf5Vh9Ta_RgCtdMD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q9FsDiimf2OS7--kiTPvLqO8xi8gzviM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">CornelisJan</param>
+      <param name="Артикул">Им00866</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Им00766">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Кеннеди 60 см Арт. Им00766</name>
+      <price>80</price>
+      <qty>105</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hWX4PKIE1h6BlMP72_Cq8pg_QsXjwhWW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fEoT3mRAwpFBs7iijfCbXlGFnD2xkqLY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada flowers</param>
+      <param name="Артикул">Им00766</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Им00896">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Балтика 60 см Арт. Им00896</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1awNepH4xNPSjqHQmUQgRaxUwBjiEI333</picture>
+      <picture>https://lh3.googleusercontent.com/d/13rhRUq9Fumb3RP7vl2pC5K3T7mi7262Q</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Им00896</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Им00946">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Бакарди Пинк 60 см Арт. Им00946</name>
+      <price>80</price>
+      <qty>80</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gtzG1nbs7ZBWZAM-Iw5fkkPHyQfK6YgJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsLCnGKE5OkUDtGgQ97NDNNnHbt5jsRl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">GG flowers</param>
+      <param name="Артикул">Им00946</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Им01286">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Алтай 60 см Арт. Им01286</name>
+      <price>101</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RJ7YBipryuwYkZrpNaXljW27x9_m_QmT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g4RyoZi1wqFRFg07Wyj_E3hWyUPM_MNQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01286</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
     <offer id="Им2346">
       <categories>
@@ -79,7 +180,7 @@
       <picture>https://lh3.googleusercontent.com/d/1pFIFFXSHtUTndrs72bbeJP1sQSoCB_yR</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Им2145</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
@@ -95,7 +196,7 @@
       <picture>https://lh3.googleusercontent.com/d/1KoWbNVUP--Qp_nfwbn7cop3Lrn849MOL</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Им2217</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
@@ -111,7 +212,7 @@
       <picture>https://lh3.googleusercontent.com/d/1MsWQBRY6X7x99537ZGKrSDS4srTJ2cYL</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Им2227</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
@@ -127,7 +228,7 @@
       <picture>https://lh3.googleusercontent.com/d/1qr54t43gTJ94IAzsCoYCExOfq4M7d0sj</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Им2237</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
@@ -143,111 +244,28 @@
       <picture>https://lh3.googleusercontent.com/d/1TxuvZLNcR15C47Gzl0XjAAKgT7njLn9b</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Им2247</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Им01286">
+    <offer id="Им00985">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Хризантема кустовая Алтай 60 см Арт. Им01286</name>
-      <price>101</price>
-      <qty>50</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RJ7YBipryuwYkZrpNaXljW27x9_m_QmT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1g4RyoZi1wqFRFg07Wyj_E3hWyUPM_MNQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01286</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
-    </offer>
-    <offer id="Им00946">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Хризантема кустовая Бакарди Пинк 60 см Арт. Им00946</name>
-      <price>80</price>
-      <qty>80</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1gtzG1nbs7ZBWZAM-Iw5fkkPHyQfK6YgJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nsLCnGKE5OkUDtGgQ97NDNNnHbt5jsRl</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">GG flowers</param>
-      <param name="Артикул">Им00946</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
-    </offer>
-    <offer id="Им00896">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Хризантема кустовая Балтика 60 см Арт. Им00896</name>
-      <price>80</price>
-      <qty>50</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1awNepH4xNPSjqHQmUQgRaxUwBjiEI333</picture>
-      <picture>https://lh3.googleusercontent.com/d/13rhRUq9Fumb3RP7vl2pC5K3T7mi7262Q</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Им00896</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
-    </offer>
-    <offer id="Им00766">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Хризантема кустовая Кеннеди 60 см Арт. Им00766</name>
-      <price>80</price>
-      <qty>105</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1hWX4PKIE1h6BlMP72_Cq8pg_QsXjwhWW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fEoT3mRAwpFBs7iijfCbXlGFnD2xkqLY</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Samada flowers</param>
-      <param name="Артикул">Им00766</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
-    </offer>
-    <offer id="Им00866">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Хризантема кустовая Реск 60 см Арт. Им00866</name>
-      <price>80</price>
-      <qty>65</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1qjnXanrIFAfXPepHqf5Vh9Ta_RgCtdMD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q9FsDiimf2OS7--kiTPvLqO8xi8gzviM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">CornelisJan</param>
-      <param name="Артикул">Им00866</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
-    </offer>
-    <offer id="Им00926">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Хризантема кустовая Селебрейт 60 см Арт. Им00926</name>
-      <price>80</price>
-      <qty>80</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1u46tbmbygsKGbFZsLciCdjnP2wPKYYG8</picture>
-      <picture>https://lh3.googleusercontent.com/d/14y_cuFIiDC6ZWOTWE6Ik0Jl4Sfgf3xAJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DSdNxBcppzLFq-lD37vdABr9sOmExIGQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Им00926</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+      <name>Хризантема Сантини Пепталк 50 см Арт. Им00985</name>
+      <price>89</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Y5g4rvON3n5sKSFIOM6RfyNFUcsOXppe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A7-B9NQqf0gshYx7Yqi5jyR7MUlpFQ3b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l13UjdpPQ5v98igdYeYcqYAaG3Y7dHNK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Им00985</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Им00326">
       <categories>
@@ -284,7 +302,7 @@
       <picture>https://lh3.googleusercontent.com/d/1eZDYgBhKC4YssjhKtAruVViZNQELdBO-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Артикул">Им01005</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
@@ -301,262 +319,149 @@
       <picture>https://lh3.googleusercontent.com/d/1piGP0o37E25h6qCJPCUDsjBxD8n6I9nE</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Артикул">Им01055</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им00985">
+    <offer id="Им1964">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Хризантема Сантини Пепталк 50 см Арт. Им00985</name>
-      <price>89</price>
+      <name>Тюльпан Желтый 40 см Арт. Им1964</name>
+      <price>101</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ocUGKu8TIfF5CYmxeiUMB9m5Y0aMUKIk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им1964</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт." unit="шт">50</consist>
+    </offer>
+    <offer id="Им01185">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Статица Лиловый 50 см Арт. Им01185</name>
+      <price>120</price>
       <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Y5g4rvON3n5sKSFIOM6RfyNFUcsOXppe</picture>
-      <picture>https://lh3.googleusercontent.com/d/1A7-B9NQqf0gshYx7Yqi5jyR7MUlpFQ3b</picture>
-      <picture>https://lh3.googleusercontent.com/d/1l13UjdpPQ5v98igdYeYcqYAaG3Y7dHNK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y5XeqbbOY3PbGknImY2SF932ZVNIAtnf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zisBA6v_kLD53VayCYRZvrsz5Hk_QZS7</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Им00985</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01185</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им2076">
+    <offer id="Им01215">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Альстромерия Желтый 60 см Арт. Им2076</name>
-      <price>35</price>
-      <qty>110</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/178FyrShh6gZIk_w_p5IinvHHxFGdQY9w</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2076</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2096">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Альстромерия Розовый 60 см Арт. Им2096</name>
-      <price>35</price>
-      <qty>90</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kUlGMXs4b6T50t-YNBdoZEL5_lANWNbu</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2096</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2116">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Альстромерия Бордовый 60 см Арт. Им2116</name>
-      <price>35</price>
-      <qty>180</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1W2EvImZYBiUfRRNwVPnDwWvLu9PMsZwN</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2116</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2136">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Альстромерия Сиреневый 60 см Арт. Им2136</name>
-      <price>35</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18L-G9cvDn-YELHlg2uZBjPc3fNwbID7g</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2136</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2046">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Вероника Розовый 60 см Арт. Им2046</name>
-      <price>76</price>
-      <qty>125</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1IRblIrZe6M043QiXEHi5s-jEs3077lOk</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Veronica Florius</param>
-      <param name="Артикул">Им2046</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им2034">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Вероника кустовая Фиолетовый 40 см Арт. Им2034</name>
-      <price>76</price>
+      <name>Статица Белый 50 см Арт. Им01215</name>
+      <price>120</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1c0poaIlbyMRMhfY-ByyAxCyMy21-9Al8</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2034</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им2585">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Вероника кустовая Микс 50 см Арт. Им2585</name>
-      <price>76</price>
-      <qty>125</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1TvExLmwt6MgiLGOn11ZAPakO62zz9ufg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OfH1Xa0_a3v4wFhyhaKmFA6CWbxuiAZ_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1psx-uY64VTgHZGoHYEhoxrcVJISeztRy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dYn8zOZuFSKVUkY_4Ax1SDGlC1acboY1</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Veronica Florius</param>
-      <param name="Артикул">Им2585</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01215</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им01146">
+    <offer id="Им01266">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Гвоздика одноголовая Малиновый 60 см Арт. Им01146</name>
-      <price>43</price>
+      <name>Статица Фиолетовый 60 см Арт. Им01266</name>
+      <price>120</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XxADK9yMAOAUYYbCHfw5DIAPthnenR2-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01266</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2465">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Протея Белый 50 см Арт. Им2465</name>
+      <price>560</price>
+      <qty>10</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UuGnpnJMDbOpeVDeBdPl77hb7Y2tupus</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2465</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт." unit="шт">1</consist>
+    </offer>
+    <offer id="Им2515">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Протея Красный 50 см Арт. Им2515</name>
+      <price>1000</price>
+      <qty>10</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qkn-r_OsNYuIaF1Kv-v9joi4cZlLMTIZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2515</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт." unit="шт">1</consist>
+    </offer>
+    <offer id="Им2358">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Подсолнух Жёлтый 80 см Арт. Им2358</name>
+      <price>144</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12AI-4jBFBJUfcP6t80ncWoyZvw4WlzOV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2358</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им01225">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лимониум Белый 50 см Арт. Им01225</name>
+      <price>107</price>
       <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AbO8o_lFodjEzoS_z4HSrEH3o3HTs2gk</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MnOsxzWrURqzWMwOp5ITsFn535KQHjH6</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01146</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им2536">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Гвоздика одноголовая Малиновый 60 см Арт. Им2536</name>
-      <price>43</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mxqQZASXKtPWcHbZ78EfUfXT0bYD0WOs</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Tajik Flowers</param>
-      <param name="Артикул">Им2536</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им01025">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Гипсофила Розовый 50 см Арт. Им01025</name>
-      <price>77</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1NJR4n1LffQs4J_RdZP2ivfEWZYn-KFPf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LEyVQ2zmEzwRsLLEon2KJNSmqt1uKvgf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aaggYiBwHlGOFVFCCZSZgvpps_8u2vqA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1013LIE0C2RBEEjjOSYUuyRzcBD5yJ7kY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VEGIPjm1K0ZzXrgmB33bCZu2TM4D6B9r</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01025</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01225</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им1906">
+    <offer id="Им1899">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Калла Бордовый 60 см Арт. Им1906</name>
-      <price>177</price>
-      <qty>10</qty>
+      <name>Лилия Розовый 90 см Арт. Им1899</name>
+      <price>355</price>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1winbkTJxJ4NM5fha2CBWq7qXdu-jnq6p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TI3NPCFBY7OCAmwJq4zzyWAd1FYLqGA8</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Decorum</param>
-      <param name="Артикул">Им1906</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им1916">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Калла Желтый 60 см Арт. Им1916</name>
-      <price>177</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Eu8fgyCqn_mc1tmwGm0W9fdnVpci-Oil</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Им1916</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2386">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Калла Желтый 60 см Арт. Им2386</name>
-      <price>177</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1q7-HsoZPl7bQfypF4yJ26sesitkm6liK</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Им2386</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2396">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Калла Розовый 60 см Арт. Им2396</name>
-      <price>177</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1hK3uMqahdEvgcKnSwkcdLU9XmVzddtej</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Kallaland</param>
-      <param name="Артикул">Им2396</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2406">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Калла Белый 60 см Арт. Им2406</name>
-      <price>177</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RXolk3mVc_LxLWR01jV9w7Z9QOoF7RnP</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Kallaland</param>
-      <param name="Артикул">Им2406</param>
+      <param name="Артикул">Им1899</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
     <offer id="Им01257">
@@ -586,7 +491,7 @@
       <picture>https://lh3.googleusercontent.com/d/1XV-CNiB3jAAg_F07ZQDUT_0pdiZblFXA</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Им1976</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
@@ -602,7 +507,7 @@
       <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Им2476</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
@@ -618,7 +523,7 @@
       <picture>https://lh3.googleusercontent.com/d/1x-ceu8AgRFxLUKMDuN0zZPT-aN1e7btt</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Им2486</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
@@ -634,7 +539,7 @@
       <picture>https://lh3.googleusercontent.com/d/1IYG7ioVyrn6Qy1APsg4Mvr4D2yE1ln9T</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Им2496</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
@@ -650,184 +555,283 @@
       <picture>https://lh3.googleusercontent.com/d/1rypN2OXPzafDYoVO-pWV7VIc_ugLXmSG</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Им2506</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им1899">
+    <offer id="Им1906">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Лилия Розовый 90 см Арт. Им1899</name>
-      <price>355</price>
-      <qty>70</qty>
+      <name>Калла Бордовый 60 см Арт. Им1906</name>
+      <price>177</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1TI3NPCFBY7OCAmwJq4zzyWAd1FYLqGA8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1winbkTJxJ4NM5fha2CBWq7qXdu-jnq6p</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">90</param>
-      <param name="Страна">уточняется</param>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
       <param name="Производитель">Decorum</param>
-      <param name="Артикул">Им1899</param>
+      <param name="Артикул">Им1906</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им01225">
+    <offer id="Им1916">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Лимониум Белый 50 см Арт. Им01225</name>
-      <price>107</price>
-      <qty>150</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1013LIE0C2RBEEjjOSYUuyRzcBD5yJ7kY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VEGIPjm1K0ZzXrgmB33bCZu2TM4D6B9r</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01225</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им2358">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Подсолнух Жёлтый 80 см Арт. Им2358</name>
-      <price>144</price>
-      <qty>10</qty>
+      <name>Калла Желтый 60 см Арт. Им1916</name>
+      <price>177</price>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12AI-4jBFBJUfcP6t80ncWoyZvw4WlzOV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Eu8fgyCqn_mc1tmwGm0W9fdnVpci-Oil</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2358</param>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Им1916</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им2465">
+    <offer id="Им2386">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Протея Белый 50 см Арт. Им2465</name>
-      <price>560</price>
-      <qty>10</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1UuGnpnJMDbOpeVDeBdPl77hb7Y2tupus</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2465</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт." unit="шт">1</consist>
+      <name>Калла Желтый 60 см Арт. Им2386</name>
+      <price>177</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q7-HsoZPl7bQfypF4yJ26sesitkm6liK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Им2386</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им2515">
+    <offer id="Им2396">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Протея Красный 50 см Арт. Им2515</name>
-      <price>1000</price>
-      <qty>10</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1qkn-r_OsNYuIaF1Kv-v9joi4cZlLMTIZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им2515</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт." unit="шт">1</consist>
+      <name>Калла Розовый 60 см Арт. Им2396</name>
+      <price>177</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hK3uMqahdEvgcKnSwkcdLU9XmVzddtej</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Им2396</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им01185">
+    <offer id="Им2406">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Статица Лиловый 50 см Арт. Им01185</name>
-      <price>120</price>
-      <qty>75</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Y5XeqbbOY3PbGknImY2SF932ZVNIAtnf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zisBA6v_kLD53VayCYRZvrsz5Hk_QZS7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01185</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+      <name>Калла Белый 60 см Арт. Им2406</name>
+      <price>177</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RXolk3mVc_LxLWR01jV9w7Z9QOoF7RnP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Им2406</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им01215">
+    <offer id="Им01025">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Статица Белый 50 см Арт. Им01215</name>
-      <price>120</price>
+      <name>Гипсофила Розовый 50 см Арт. Им01025</name>
+      <price>77</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1OfH1Xa0_a3v4wFhyhaKmFA6CWbxuiAZ_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1psx-uY64VTgHZGoHYEhoxrcVJISeztRy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dYn8zOZuFSKVUkY_4Ax1SDGlC1acboY1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NJR4n1LffQs4J_RdZP2ivfEWZYn-KFPf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LEyVQ2zmEzwRsLLEon2KJNSmqt1uKvgf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aaggYiBwHlGOFVFCCZSZgvpps_8u2vqA</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01215</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01025</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им01266">
+    <offer id="Им01146">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Статица Фиолетовый 60 см Арт. Им01266</name>
-      <price>120</price>
-      <qty>75</qty>
+      <name>Гвоздика одноголовая Малиновый 60 см Арт. Им01146</name>
+      <price>43</price>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XxADK9yMAOAUYYbCHfw5DIAPthnenR2-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AbO8o_lFodjEzoS_z4HSrEH3o3HTs2gk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MnOsxzWrURqzWMwOp5ITsFn535KQHjH6</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01266</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01146</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им1964">
+    <offer id="Им2536">
       <categories>
         <category id="37">Цветы</category>
       </categories>
-      <name>Тюльпан Желтый 40 см Арт. Им1964</name>
-      <price>101</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ocUGKu8TIfF5CYmxeiUMB9m5Y0aMUKIk</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <name>Гвоздика одноголовая Малиновый 60 см Арт. Им2536</name>
+      <price>43</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mxqQZASXKtPWcHbZ78EfUfXT0bYD0WOs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Им2536</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2034">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Вероника кустовая Фиолетовый 40 см Арт. Им2034</name>
+      <price>76</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1c0poaIlbyMRMhfY-ByyAxCyMy21-9Al8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им1964</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт." unit="шт">50</consist>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2034</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им01115">
+    <offer id="Им2585">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Вероника кустовая Микс 50 см Арт. Им2585</name>
+      <price>76</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TvExLmwt6MgiLGOn11ZAPakO62zz9ufg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Veronica Florius</param>
+      <param name="Артикул">Им2585</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2046">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Вероника Розовый 60 см Арт. Им2046</name>
+      <price>76</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IRblIrZe6M043QiXEHi5s-jEs3077lOk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Veronica Florius</param>
+      <param name="Артикул">Им2046</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2076">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Желтый 60 см Арт. Им2076</name>
+      <price>35</price>
+      <qty>110</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/178FyrShh6gZIk_w_p5IinvHHxFGdQY9w</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2076</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им2096">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Розовый 60 см Арт. Им2096</name>
+      <price>35</price>
+      <qty>90</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kUlGMXs4b6T50t-YNBdoZEL5_lANWNbu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2096</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им2116">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Бордовый 60 см Арт. Им2116</name>
+      <price>35</price>
+      <qty>180</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W2EvImZYBiUfRRNwVPnDwWvLu9PMsZwN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2116</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им2136">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Сиреневый 60 см Арт. Им2136</name>
+      <price>35</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18L-G9cvDn-YELHlg2uZBjPc3fNwbID7g</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2136</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им01205">
       <categories>
         <category id="38">Зелень</category>
       </categories>
-      <name>Астильба Розовый 50 см Арт. Им01115</name>
-      <price>80</price>
-      <qty>20</qty>
+      <name>Эрингиум Синий 50 см Арт. Им01205</name>
+      <price>176</price>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1o5qWl5fUXx7huGTBbn93ZS8Facb0qGr4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kRRfp36XwXGncnheaVlPM1mhDEUKCVOP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OVvga1ix9Hk2oQb8GkVx5rmnpK5Llg5X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tZLIXJRtWxhF0UPW5otm2ilmVesKlBPC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dy-Rek8QZkUUgSLQYoxnMXEDLOrZuQx0</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01115</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01205</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им01125">
+    <offer id="Им00458">
       <categories>
         <category id="38">Зелень</category>
       </categories>
-      <name>Астильба Белый 50 см Арт. Им01125</name>
-      <price>80</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15XOYDAxaJwVmenwTHoCI2RgOe5PoLy9t</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Xgkteeow-EIqaz0qyuZzfLR_dv02kyph</picture>
-      <picture>https://lh3.googleusercontent.com/d/1A2OnHM5B_mz5BVeU-4kRiKdFyU9AB2JH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01125</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+      <name>Солидаго Желтый 80 см Арт. Им00458</name>
+      <price>84</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tpVT8DeLKbN-txsjpMmzvk7LvQCbVfMz</picture>
+      <picture>https://lh3.googleusercontent.com/d/14fJPuFzjvGvOTxas0vEGz8Zph2InhOr1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LTA0xqNB5Nb-FzdrKXtMZop5HT4Q5KiS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lDUouKFXb60V4ZFIzEYGr4MMt6WvHnas</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L5HqSBoFq6qF47NTLvh-xRcxeViwdOd9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Им00458</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Им00448">
       <categories>
@@ -850,41 +854,37 @@
       <param name="Артикул">Им00448</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им00458">
+    <offer id="Им01115">
       <categories>
         <category id="38">Зелень</category>
       </categories>
-      <name>Солидаго Желтый 80 см Арт. Им00458</name>
-      <price>84</price>
-      <qty>125</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1tpVT8DeLKbN-txsjpMmzvk7LvQCbVfMz</picture>
-      <picture>https://lh3.googleusercontent.com/d/14fJPuFzjvGvOTxas0vEGz8Zph2InhOr1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LTA0xqNB5Nb-FzdrKXtMZop5HT4Q5KiS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lDUouKFXb60V4ZFIzEYGr4MMt6WvHnas</picture>
-      <picture>https://lh3.googleusercontent.com/d/1L5HqSBoFq6qF47NTLvh-xRcxeViwdOd9</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Им00458</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им01205">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Эрингиум Синий 50 см Арт. Им01205</name>
-      <price>176</price>
-      <qty>50</qty>
+      <name>Астильба Розовый 50 см Арт. Им01115</name>
+      <price>80</price>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1OVvga1ix9Hk2oQb8GkVx5rmnpK5Llg5X</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tZLIXJRtWxhF0UPW5otm2ilmVesKlBPC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dy-Rek8QZkUUgSLQYoxnMXEDLOrZuQx0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o5qWl5fUXx7huGTBbn93ZS8Facb0qGr4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kRRfp36XwXGncnheaVlPM1mhDEUKCVOP</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Им01205</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01115</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им01125">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Астильба Белый 50 см Арт. Им01125</name>
+      <price>80</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15XOYDAxaJwVmenwTHoCI2RgOe5PoLy9t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xgkteeow-EIqaz0qyuZzfLR_dv02kyph</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A2OnHM5B_mz5BVeU-4kRiKdFyU9AB2JH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01125</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
     </offers>
