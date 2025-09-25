@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T10:26:29.553+03:00">
+<yml_catalog date="2025-09-25T10:31:30.790+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -191,7 +191,7 @@ Zentoo
       </categories>
       <name>Вербена Ов 70 см Арт. Р02257</name>
       <price>49</price>
-      <qty>30</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18Ri3nOWbvy5rPezG7PEIM7tVtYNWVGTZ</picture>
       <picture>https://lh3.googleusercontent.com/d/18SVFj_Jj0Vsby6X9rCF9E02FfBhLKWWf</picture>
@@ -455,7 +455,7 @@ Esmeralda
       </categories>
       <name>Орнитогалум Турсордес 50 см Арт. Р01165</name>
       <price>76</price>
-      <qty>30</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LZtwXhuk41nPPKVyMRdBBiBSe0RIZXQi</picture>
       <picture>https://lh3.googleusercontent.com/d/1nj9K5bRyBpTXnnwCOck0jIHZ8IS6s22e</picture>
@@ -533,6 +533,26 @@ Esmeralda
 Маг Руби Фалл
 Зелень" unit="шт">10</consist>
     </offer>
+    <offer id="Р01568">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Солидаго Карзан Глори 80 см Арт. Р01568</name>
+      <price>105</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TcCs5_PmlLssMFYtDXyb6tPcVqb8awmW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JbqEhWVcslZjg-HJ3MvDIg4pNR5tt5EN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wRVFDEaZdKlv53O2BvoQa0P69JoeQ-Xl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WzMVf0GaAMFwl4Py4jbaxVPgkO0X3Rof</picture>
+      <description>Карзан Глори</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01568</param>
+      <consist name="Солидаго
+Карзан Глори
+Зелень" unit="шт">25</consist>
+    </offer>
     <offer id="Р01549">
       <categories>
         <category id="38">Зелень</category>
@@ -553,6 +573,27 @@ Esmeralda
       <consist name="Хасмантиум
 Латифолия
 Зелень" unit="шт">20</consist>
+    </offer>
+    <offer id="Р00837">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Россано Роуз 70 см Арт. Р00837</name>
+      <price>183</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XSw2TDeEReP98AKaVOZRqeFBmlkfk38t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CIXJBhxptjhiRxa9O8yfIsyHNeuscjxm</picture>
+      <description>Россано Роуз</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Р00837</param>
+      <consist name="Хризантема одноголовая
+Россано Роуз
+Decorum
+Голландия
+Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Р00847">
       <categories>
@@ -777,6 +818,28 @@ Zentoo
 Акт Джеменгдж
 Цветы" unit="шт">5</consist>
     </offer>
+    <offer id="Р03527">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема одноголовая Дж Виенна 70 см Арт. Р03527</name>
+      <price>282</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wnb68qVnGSrI8lXjR5k-R2v5QIWUFxi8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EInWSGKwJPMd98IMOPPkxSg8AZBLdqAQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YYpiY_dAKhoNFy-LKn6P96qg-qDZls6o</picture>
+      <description>Дж Виенна</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р03527</param>
+      <consist name="Хризантема одноголовая
+Дж Виенна
+Краснодар
+Россия
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Р03547">
       <categories>
         <category id="37">Цветы</category>
@@ -839,6 +902,30 @@ Zentoo
       <consist name="Антирринум
 Краснодар
 Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р03646">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Перчик Зеленый 60 см Арт. Р03646</name>
+      <price>812</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qD-S3rmf7Z2_qXsLZZmUXpMuQjaYcbD9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
+      <picture>https://lh3.googleusercontent.com/d/19AXbT8w5iNRJ2tiZS8lZkQYs9RSQFtlI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ySBIwk1aDsetkQz28QlEImStMxhXN9c9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OotklSQgwYKjmszHoxcwiFp8Cf_Qd8es</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yF_51qh0zPsiRpGEGtybNl077SI6EIij</picture>
+      <description>Перчик Зеленый 60 см Арт. Р03646</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р03646</param>
+      <consist name="Перчик
+Краснодар
+Россия
+Зелень" unit="шт">1</consist>
     </offer>
     <offer id="Р3714">
       <categories>
@@ -906,6 +993,79 @@ Zentoo
 Чемпион вайт
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Р3936">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Маттиола Фиолетовый 60 см Арт. Р3936</name>
+      <price>150</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15ksJhWaWP-XA3Jqx6kWzhz65Zuy8OOp8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O9T6ww_RG4E38tSMDmPMAh26wZ_izqfp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gaPbEE8CYqYLw6ZdgBV2DpV5nhZYUe7q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tf5U02ick-ZKV4Vg3wUYwVaKOVB26f5t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OLjZ0hAoi_IM9D89TiOfgtdO2Z2_wpzJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OSP1FxrYI1jLUemCYqnI2nVOM2BeUy-i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D0nAxPX0k5eP5HnqMpNBPL_DjGcER1Ef</picture>
+      <description>Маттиола Фиолетовый 60 см Арт. Р3936</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р3936</param>
+      <consist name="Маттиола
+Краснодар
+Россия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р04564">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Герберамини джеменгд 45 см Арт. Р04564</name>
+      <price>58</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SP1hgv86CeUKDWw2xyWBLp4FzB6PT_Gc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qw1dFjRjY40ArfSG0PxPrVAtGEZ0qYWh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lMWUyLF3FD3Cewpx4p1E9epmJAJWugVA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Chd7C55rt05d0WIzd4FLqU31qU59w04d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UtiFYosTsnIZMIN4lFZLSHiHJcewk3fI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sqBIMgNjdgsTVB7Kw4fB1T8ZlbkxTdeh</picture>
+      <description>джеменгд</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р04564</param>
+      <consist name="Герберамини
+джеменгд
+Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Р4615">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Маттиола стокс шампань 55 см Арт. Р4615</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nfHp-2hkPMLcw6mXQFcHvI9CckLPyTuj</picture>
+      <picture>https://lh3.googleusercontent.com/d/13wrkjS6XmexkhXxBdpvk3QiUk1RjkGko</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OD8j05IhpRAxQS-BY-uhhKAveAfTfEiA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TtBbWRCLvseTxilZAqT-J-dL0G8Kqa1T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i2P4H5En47u5mLOiZtoKlEX3ZMuEYVes</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pL6yvXJQ5eQa3hbEIEqJJJbLOmNzcHPT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ai5QixNEknh5hN5pnMwEaRXM2ALEiYrY</picture>
+      <description>стокс шампань</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р4615</param>
+      <consist name="Маттиола
+стокс шампань
+Краснодар
+Россия
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Р482">
       <categories>
         <category id="37">Цветы</category>
@@ -948,6 +1108,29 @@ Zentoo
 карма
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Р4925">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Микс Кустовые 50 см Арт. Р4925</name>
+      <price>290</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15fnCSBbFIMJggL2e820hyeEcbrX3Ifms</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SxMztkCUReSqGCSoWeBiHxPtGvGvDNgw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n_UK1kiaP9vURFXwh5Jq1lXT9DTg__-D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fn9twRiaeBE16Yq_6f5mTKwChOY8_jms</picture>
+      <description>Микс Кустовые</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р4925</param>
+      <consist name="Роза кустовая пионовидная
+Микс Кустовые 
+Мордовия
+Россия
+Цветы" unit="шт">5</consist>
+    </offer>
     <offer id="Р5094">
       <categories>
         <category id="37">Цветы</category>
@@ -968,6 +1151,25 @@ Zentoo
       <param name="Артикул">Р5094</param>
       <consist name="Скиммия
 рубелла
+Цветы" unit="шт">1</consist>
+    </offer>
+    <offer id="Р5134">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Скиммия Фрэнк вайт 45 см Арт. Р5134</name>
+      <price>536</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Km5p8iruQCNLCpfjaY7I8hlRvHke5slJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RUK850kW0NqMKMHash_zgiQg54usNr9l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b5Rg5k2vN7ztQYu6PnUm0E20pFxtbOsM</picture>
+      <description>Фрэнк вайт</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р5134</param>
+      <consist name="Скиммия
+Фрэнк вайт
 Цветы" unit="шт">1</consist>
     </offer>
     <offer id="Р522">
