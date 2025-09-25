@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T21:37:17.215+03:00">
+<yml_catalog date="2025-09-25T21:41:07.048+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -57,22 +57,6 @@
       <param name="Производитель">Подосинки</param>
       <param name="Артикул">Им00494</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им2618">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
-      <name>Роза одноголовая БСВИТ 80 см Арт. Им2618</name>
-      <price>153</price>
-      <qty>100</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jLBNoZHLjJ80pXzyIwV00SzaCtWGGUS-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Yaku Sisa</param>
-      <param name="Артикул">Им2618</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Им00485">
       <categories>
@@ -615,6 +599,70 @@
       <param name="Артикул">Им01266</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
+    <offer id="Им2456">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Статица Фиолетовый 60 см Арт. Им2456</name>
+      <price>101</price>
+      <qty>10</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1scJvsH_XbyLwERIgbhhSgEG812qzUcfI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Tonie Flowers</param>
+      <param name="Артикул">Им2456</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2568">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Мондиаль 80 см Арт. Им2568</name>
+      <price>101</price>
+      <qty>10</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Zmu7_flDfwfle_N8KOBPinNObBZRPDqe</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Tu Roses</param>
+      <param name="Артикул">Им2568</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2597">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Кэндллайт 70 см Арт. Им2597</name>
+      <price>101</price>
+      <qty>10</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rmPNtFQLt3rCsGE79zyCciVrCuEeyCxv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Им2597</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2618">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая БСВИТ 80 см Арт. Им2618</name>
+      <price>153</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jLBNoZHLjJ80pXzyIwV00SzaCtWGGUS-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Yaku Sisa</param>
+      <param name="Артикул">Им2618</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
     <offer id="Им2465">
       <categories>
         <category id="37">Цветы</category>
@@ -890,6 +938,22 @@
       <param name="Артикул">Им2406</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
+    <offer id="Им2378">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Дельфиниум Фиолетовый 80 см Арт. Им2378</name>
+      <price>101</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-RBE0wAzw4xCPxcLcauqNasICRBYA0NY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Нидерланды</param>
+      <param name="Производитель">Noordwijkerhout</param>
+      <param name="Артикул">Им2378</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
     <offer id="Им1941">
       <categories>
         <category id="37">Цветы</category>
@@ -1141,6 +1205,21 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Им00458</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2124">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Рускус Зелёный 40 см Арт. Им2124</name>
+      <price>101</price>
+      <qty>10</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-aU4SnIdnNzTO-jMdCHyAZQcxsR5KKUl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2124</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Им00448">
