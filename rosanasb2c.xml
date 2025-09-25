@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T21:01:40.440+03:00">
+<yml_catalog date="2025-09-25T21:06:34.754+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -215,6 +215,31 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Р522</param>
       <consist name="Хризантема одноголовая Виенна" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р5637">
+      <name>Георгин Микс 9 шт 70 см Арт. Р5637</name>
+      <price>1230</price>
+      <picture>https://lh3.googleusercontent.com/d/1yuKHBndrRwCS1b1JAHTdumMn6SCNGCPv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xkCYqLHfA_sdO9T03Hrgl-QQsvA0iK7N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VSWhJbETiNjX4xDfHKcmpY4yr0x2-wQn</picture>
+      <picture>https://lh3.googleusercontent.com/d/11ajj5VbbzzM9p4PljuC2JrJf4e_9zVj9</picture>
+      <description>Микс</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р5637</param>
+      <consist name="Георгин Микс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р6926">
+      <name>Роза кустовая пионовидная Пиони Баблс 9 шт 60 см Арт. Р6926</name>
+      <price>2900</price>
+      <picture>https://lh3.googleusercontent.com/d/1hs1EyQrpDTxurq7f__h5mgCOPKtu6aFK</picture>
+      <description>Пиони Баблс</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р6926</param>
+      <consist name="Роза кустовая пионовидная Пиони Баблс" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Р6935">
       <name>Роза кустовая пионовидная Роял Блаш 5 шт 50 см Арт. Р6935</name>
