@@ -1,9 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T21:51:09.018+03:00">
+<yml_catalog date="2025-09-25T21:52:40.569+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
     <offers>
+    <offer id="Им01205">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Эрингиум Синий 50 см Арт. Им01205</name>
+      <price>176</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OVvga1ix9Hk2oQb8GkVx5rmnpK5Llg5X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tZLIXJRtWxhF0UPW5otm2ilmVesKlBPC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dy-Rek8QZkUUgSLQYoxnMXEDLOrZuQx0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01205</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им00458">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Солидаго Желтый 80 см Арт. Им00458</name>
+      <price>84</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tpVT8DeLKbN-txsjpMmzvk7LvQCbVfMz</picture>
+      <picture>https://lh3.googleusercontent.com/d/14fJPuFzjvGvOTxas0vEGz8Zph2InhOr1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LTA0xqNB5Nb-FzdrKXtMZop5HT4Q5KiS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lDUouKFXb60V4ZFIzEYGr4MMt6WvHnas</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L5HqSBoFq6qF47NTLvh-xRcxeViwdOd9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Им00458</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им2124">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Рускус Зелёный 40 см Арт. Им2124</name>
+      <price>101</price>
+      <qty>11</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-aU4SnIdnNzTO-jMdCHyAZQcxsR5KKUl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им2124</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им00448">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Лимониум Фиолетовый 80 см Арт. Им00448</name>
+      <price>107</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iP4sSubWzfJUL-Z1IfmpLCEJO3rHE4-q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EfUSkSZxS0t1lZykQr-TTUdCWwMRQHjS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1krYL6oQGXoS4fB09v-6rapyuinZsIiO0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZpjpSUBN5tt5PRgMX8kG-ja5qJ-_8HNX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lnFBSHU0oILRydAUPZASEPlTvTodtcGT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W16zEVs9FKtydjsBjUelMD6_3Tkh8Gjw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Klaverflowers</param>
+      <param name="Артикул">Им00448</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им01115">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Астильба Розовый 50 см Арт. Им01115</name>
+      <price>80</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1o5qWl5fUXx7huGTBbn93ZS8Facb0qGr4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kRRfp36XwXGncnheaVlPM1mhDEUKCVOP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01115</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им01125">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Астильба Белый 50 см Арт. Им01125</name>
+      <price>80</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15XOYDAxaJwVmenwTHoCI2RgOe5PoLy9t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xgkteeow-EIqaz0qyuZzfLR_dv02kyph</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A2OnHM5B_mz5BVeU-4kRiKdFyU9AB2JH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Им01125</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
     <offer id="Им00985">
       <categories>
         <category id="37">Цветы</category>
@@ -2899,112 +3005,6 @@
       <param name="Высота, см">30</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Им1863</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им01205">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Эрингиум Синий 50 см Арт. Им01205</name>
-      <price>176</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1OVvga1ix9Hk2oQb8GkVx5rmnpK5Llg5X</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tZLIXJRtWxhF0UPW5otm2ilmVesKlBPC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dy-Rek8QZkUUgSLQYoxnMXEDLOrZuQx0</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Им01205</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им00458">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Солидаго Желтый 80 см Арт. Им00458</name>
-      <price>84</price>
-      <qty>125</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1tpVT8DeLKbN-txsjpMmzvk7LvQCbVfMz</picture>
-      <picture>https://lh3.googleusercontent.com/d/14fJPuFzjvGvOTxas0vEGz8Zph2InhOr1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LTA0xqNB5Nb-FzdrKXtMZop5HT4Q5KiS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lDUouKFXb60V4ZFIzEYGr4MMt6WvHnas</picture>
-      <picture>https://lh3.googleusercontent.com/d/1L5HqSBoFq6qF47NTLvh-xRcxeViwdOd9</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Им00458</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им2124">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Рускус Зелёный 40 см Арт. Им2124</name>
-      <price>101</price>
-      <qty>11</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1-aU4SnIdnNzTO-jMdCHyAZQcxsR5KKUl</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Им2124</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им00448">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Лимониум Фиолетовый 80 см Арт. Им00448</name>
-      <price>107</price>
-      <qty>75</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1iP4sSubWzfJUL-Z1IfmpLCEJO3rHE4-q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EfUSkSZxS0t1lZykQr-TTUdCWwMRQHjS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1krYL6oQGXoS4fB09v-6rapyuinZsIiO0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZpjpSUBN5tt5PRgMX8kG-ja5qJ-_8HNX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lnFBSHU0oILRydAUPZASEPlTvTodtcGT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1W16zEVs9FKtydjsBjUelMD6_3Tkh8Gjw</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Klaverflowers</param>
-      <param name="Артикул">Им00448</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им01115">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Астильба Розовый 50 см Арт. Им01115</name>
-      <price>80</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1o5qWl5fUXx7huGTBbn93ZS8Facb0qGr4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kRRfp36XwXGncnheaVlPM1mhDEUKCVOP</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Им01115</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
-    <offer id="Им01125">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
-      <name>Астильба Белый 50 см Арт. Им01125</name>
-      <price>80</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15XOYDAxaJwVmenwTHoCI2RgOe5PoLy9t</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Xgkteeow-EIqaz0qyuZzfLR_dv02kyph</picture>
-      <picture>https://lh3.googleusercontent.com/d/1A2OnHM5B_mz5BVeU-4kRiKdFyU9AB2JH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Им01125</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
     </offers>
