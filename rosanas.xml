@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T13:36:38.042+03:00">
+<yml_catalog date="2025-09-25T13:41:42.034+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -521,7 +521,7 @@ Esmeralda
       <price>290</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1eiPX_dCPnAAMNoyjyxWXNt-VAeN29lO1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nN48dsNwqhSx4x7oplic1ebEZjUn-zHf</picture>
       <picture>https://lh3.googleusercontent.com/d/1x5HW6yQGFXFhMMAmhdZO2WV3T_V-dsbJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1GODQJuRb6BRDHoB5RRiNBlMm5VLWh7oc</picture>
       <picture>https://lh3.googleusercontent.com/d/1IQexlqKZLKsrc229VhbBF9PGGArBcDNY</picture>
@@ -529,6 +529,7 @@ Esmeralda
       <picture>https://lh3.googleusercontent.com/d/1YbU7OGDXYiNgfpPyhGoRzdQ_Nz3LnmdM</picture>
       <picture>https://lh3.googleusercontent.com/d/1kg1q055gzX7Dd4MRk2rdIq5V3Ba2wpJT</picture>
       <picture>https://lh3.googleusercontent.com/d/1BMXqa5-N2wrTeU-yZNMDCh_7HsZ6P0nv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eiPX_dCPnAAMNoyjyxWXNt-VAeN29lO1</picture>
       <description>Леди Бомбастик</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
@@ -738,6 +739,27 @@ Zentoo
 Алибаба
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Р02876">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Карина 60 см Арт. Р02876</name>
+      <price>122</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N6zJ-50PDF0mOP20gEA38HIuQm-l0N7c</picture>
+      <picture>https://lh3.googleusercontent.com/d/120-37EiDNr1nmlbVUlD2369p5Kg5QRO6</picture>
+      <description>Карина</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Р02876</param>
+      <consist name="Роза одноголовая
+Карина
+Чеховский сад
+Россия
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Р02995">
       <categories>
         <category id="37">Цветы</category>
@@ -761,6 +783,51 @@ Zentoo
 Мансфилд Парк
 Мордовия
 Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Р03005">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Роял Парк 50 см Арт. Р03005</name>
+      <price>290</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZgzyMJyxgn8S07M_KyZ5qZu6-Jx4ENyt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QvGN_p-i9ViNcnWHPawagO1whXMd5ADO</picture>
+      <picture>https://lh3.googleusercontent.com/d/12USwLQmp1sBRlzTdkzokskU0Nutqqa8P</picture>
+      <description>Роял Парк</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р03005</param>
+      <consist name="Роза кустовая пионовидная
+Роял Парк
+Мордовия
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Р03065">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Пурпур 50 см Арт. Р03065</name>
+      <price>60</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lsmSl353R4VqbrLjzN4mqEP1uEhuS5UI</picture>
+      <picture>https://lh3.googleusercontent.com/d/15S4irut2S7LFG2MjnUg4bLg5_wOmTO-R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pkjRfC1TTEEF5q2GuFB7bASahQ_sNrw7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UN2xT1-C_KR6kgT3Nl0KHGSDll80dS71</picture>
+      <picture>https://lh3.googleusercontent.com/d/1euuetS3OiDMlcslPouY94hPReFun5DJ6</picture>
+      <description>Пурпур</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Волгоград</param>
+      <param name="Артикул">Р03065</param>
+      <consist name="Роза одноголовая
+Пурпур
+Волгоград
+Россия
+Цветы" unit="шт">10</consist>
     </offer>
     <offer id="Р03135">
       <categories>
