@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-25T09:41:32.463+03:00">
+<yml_catalog date="2025-09-25T09:46:44.462+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -142,6 +142,24 @@ Zentoo
       <consist name="Целозия
 Джименг
 Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Р01577">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Асклепиас Инкарната 70 см Арт. Р01577</name>
+      <price>55</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1foyf2VEII33OBRUWKPmxz1QeV5XGSzBn</picture>
+      <picture>https://lh3.googleusercontent.com/d/14_Bew5dn0a3E8gFitvyBnxSH4SCOzHeU</picture>
+      <description>Инкарната</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01577</param>
+      <consist name="Асклепиас
+Инкарната
+Зелень" unit="шт">10</consist>
     </offer>
     <offer id="Р02267">
       <categories>
@@ -820,6 +838,30 @@ Zentoo
 Краснодар
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Р03646">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Перчик Зеленый 60 см Арт. Р03646</name>
+      <price>812</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qD-S3rmf7Z2_qXsLZZmUXpMuQjaYcbD9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
+      <picture>https://lh3.googleusercontent.com/d/19AXbT8w5iNRJ2tiZS8lZkQYs9RSQFtlI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ySBIwk1aDsetkQz28QlEImStMxhXN9c9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OotklSQgwYKjmszHoxcwiFp8Cf_Qd8es</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yF_51qh0zPsiRpGEGtybNl077SI6EIij</picture>
+      <description>Перчик Зеленый 60 см Арт. Р03646</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р03646</param>
+      <consist name="Перчик
+Краснодар
+Россия
+Зелень" unit="шт">1</consist>
+    </offer>
     <offer id="Р3714">
       <categories>
         <category id="38">Зелень</category>
@@ -1010,6 +1052,23 @@ Zentoo
       <consist name="Тласпи
 Грин Белл
 Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Р7017">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Глориоза Рууд Ротхилчайлд 75 см Арт. Р7017</name>
+      <price>370</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BL4krDFvRihefOR1BLPTUAF8Di2RoPlB</picture>
+      <description>Рууд Ротхилчайлд</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р7017</param>
+      <consist name="Глориоза
+Рууд Ротхилчайлд
+Цветы" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
