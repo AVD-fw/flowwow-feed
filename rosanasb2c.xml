@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T07:06:33.825+03:00">
+<yml_catalog date="2025-09-26T07:11:32.642+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -20,6 +20,37 @@
       <param name="Артикул">Р00776</param>
       <consist name="Георгин" unit="шт">9</consist>
     </offer>
+    <offer id="B2C_Р00607">
+      <name>Подсолнух 5 шт Желтый 70 см Арт. Р00607</name>
+      <price>365</price>
+      <picture>https://lh3.googleusercontent.com/d/12Ja_yB-jGK0eDn45hWsTgxt3kanTFcXK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NhZ3uDFVqDid36dks8z-koF8tPuqCiCm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dCX-QNQ0fFzJ7xX3ypdbhVTR-vEBdO9B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CXcE373jpdZoblodk1UUlsc9VMr7wWZ3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xHgvVmieyBnQUksXQJKgdHyw_WLloqoi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bQJXudy5A7LhJe8aJeUP9bJ-jdOvNWKE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D2ntqJGK-Yv5q5z_Azf5N88bqhpohyMH</picture>
+      <description>Подсолнух 5 шт Желтый 70 см Арт. Р00607</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р00607</param>
+      <consist name="Подсолнух" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Р4877">
+      <name>Хризантема одноголовая Зеленая 9 шт 70 см Арт. Р4877</name>
+      <price>1190</price>
+      <picture>https://lh3.googleusercontent.com/d/1rayT8-KoWNN7d2bmfew1Piv-kfna9A4J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1om0KoL7eayPMln35_OZe-g9awJC7lf-Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xeun-eFNwCHDHFbM72wjzMy9FLVNkkfp</picture>
+      <description>Зеленая</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р4877</param>
+      <consist name="Хризантема одноголовая Зеленая" unit="шт">9</consist>
+    </offer>
     <offer id="B2C_Р5227">
       <name>Хризантема одноголовая Виенна 9 шт 70 см Арт. Р5227</name>
       <price>2500</price>
@@ -35,6 +66,32 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Р5227</param>
       <consist name="Хризантема одноголовая Виенна" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р6444">
+      <name>Ирис Синий 25 шт 40 см Арт. Р6444</name>
+      <price>1375</price>
+      <picture>https://lh3.googleusercontent.com/d/1XVl27-wrVTZrjFlH0BchIwv1kpkHtpIX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o0SB_X0YRKmu6MaZXtAZk97aro643kT4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kBQmgtssoOWqjPfbDt8mF-6ddyps9DFQ</picture>
+      <description>Синий</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р6444</param>
+      <consist name="Ирис Синий" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Р6978">
+      <name>Хризантема одноголовая G VIENNA 9 шт 85 см Арт. Р6978</name>
+      <price>2690</price>
+      <picture>https://lh3.googleusercontent.com/d/1qus1-J6w4382l-qyV0iBGtx19XA2siiE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OFdOcbVHOX1qAGTbxuNlpdjc4j6mLz0C</picture>
+      <description>G VIENNA</description>
+      <param name="Высота, см">85</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р6978</param>
+      <consist name="Хризантема одноголовая G VIENNA" unit="шт">9</consist>
     </offer>
     </offers>
   </shop>
