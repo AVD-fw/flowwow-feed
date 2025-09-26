@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T13:06:12.697+03:00">
+<yml_catalog date="2025-09-26T13:11:11.673+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -103,7 +103,7 @@
       </categories>
       <name>Вероника кустовая Фиолетовый 40 см Арт. Em2034</name>
       <price>76</price>
-      <qty>25</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lAbKdGffVWoPmZGjJ8EK6hAo-_CYk4Oq</picture>
       <picture>https://lh3.googleusercontent.com/d/1c0poaIlbyMRMhfY-ByyAxCyMy21-9Al8</picture>
@@ -111,6 +111,22 @@
       <param name="Высота, см">40</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Em2034</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Em1766">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Гвоздика одноголовая Розовый 60 см Арт. Em1766</name>
+      <price>43</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kMSqAKGxzqJi5iD8wpwfXspzL5P9BZEO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em1766</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Em00514">
@@ -199,7 +215,7 @@
       </categories>
       <name>Маттиола Розовый 50 см Арт. Em01605</name>
       <price>120</price>
-      <qty>10</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14mpWYkNUE_L6EThFO2c8hXTnuPhTaUy7</picture>
       <picture>https://lh3.googleusercontent.com/d/1kVZu8tiCqLxz7K0Su5N2k9Yw-juqDBiS</picture>
@@ -216,7 +232,7 @@
       </categories>
       <name>Статица Лиловый 50 см Арт. Em01185</name>
       <price>120</price>
-      <qty>70</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EaCGsPGuxDCGeP3kx1Iy7i65z30KeIY5</picture>
       <picture>https://lh3.googleusercontent.com/d/1zisBA6v_kLD53VayCYRZvrsz5Hk_QZS7</picture>
@@ -233,7 +249,7 @@
       </categories>
       <name>Статица Фиолетовый 60 см Арт. Em01266</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bccV2Z6tmypYBbr4U37lW1vSaOYsFv6N</picture>
       <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
