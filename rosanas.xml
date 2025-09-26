@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T08:16:30.256+03:00">
+<yml_catalog date="2025-09-26T08:21:30.975+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -10,7 +10,7 @@
       </categories>
       <name>Георгин Оранжевый 60 см Арт. Р00776</name>
       <price>123</price>
-      <qty>10</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uvON4ShX_Z240eEb2JBIGyGIDIgjW3ER</picture>
       <picture>https://lh3.googleusercontent.com/d/1qLTBD-Zh8PGM4NVrqt6ZS1acoi0b3hgD</picture>
@@ -33,7 +33,7 @@
       </categories>
       <name>Куэркас Рубра Клеурбеханделд 70 см Арт. Р02557</name>
       <price>48</price>
-      <qty>10</qty>
+      <qty>70</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KtXEB1km6JoSUbVdYaFiOk6XtdCN5WId</picture>
       <picture>https://lh3.googleusercontent.com/d/1-vhAAx4WN_694Clcl7gvWBp57ZzqiVqk</picture>
@@ -52,7 +52,7 @@
       </categories>
       <name>Подсолнух Желтый 70 см Арт. Р00607</name>
       <price>73</price>
-      <qty>5</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12Ja_yB-jGK0eDn45hWsTgxt3kanTFcXK</picture>
       <picture>https://lh3.googleusercontent.com/d/1NhZ3uDFVqDid36dks8z-koF8tPuqCiCm</picture>
@@ -76,7 +76,7 @@
       </categories>
       <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. Р02317</name>
       <price>162</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Wmc_KrL2V5H5VeGVUeCwTuKqvYXsVkJy</picture>
       <picture>https://lh3.googleusercontent.com/d/16cLSAVAHCGC4XjeVR7ZEg3xEXhVN1rm5</picture>
@@ -105,7 +105,7 @@ Zentoo
       </categories>
       <name>Асклепиас Инкарната 70 см Арт. Р01577</name>
       <price>55</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cFGnzfrIQ13aKxFENOZkDSLBezJRLkaN</picture>
       <picture>https://lh3.googleusercontent.com/d/14_Bew5dn0a3E8gFitvyBnxSH4SCOzHeU</picture>
@@ -291,6 +291,36 @@ Esmeralda
 Голландия
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Р02025">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Р02025</name>
+      <price>290</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15zd4TfvsiFp_6yR-QMvOw4WK8dYhYjMt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x5HW6yQGFXFhMMAmhdZO2WV3T_V-dsbJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GODQJuRb6BRDHoB5RRiNBlMm5VLWh7oc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IQexlqKZLKsrc229VhbBF9PGGArBcDNY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hVbCl5ndkX8MmTk4s5dFASVH5Xos5kV_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YbU7OGDXYiNgfpPyhGoRzdQ_Nz3LnmdM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kg1q055gzX7Dd4MRk2rdIq5V3Ba2wpJT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BMXqa5-N2wrTeU-yZNMDCh_7HsZ6P0nv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eiPX_dCPnAAMNoyjyxWXNt-VAeN29lO1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nN48dsNwqhSx4x7oplic1ebEZjUn-zHf</picture>
+      <description>Леди Бомбастик</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р02025</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая пионовидная
+Леди Бомбастик
+Мордовия
+Россия
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Р02606">
       <categories>
         <category id="38">Зелень</category>
@@ -359,6 +389,81 @@ Esmeralda
 Хризантема одноголовая
 Магнум йеллоу
 Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р02834">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Аваланж 40 см Арт. Р02834</name>
+      <price>58</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-oMeZm8PKNKaZVS0_j7X17EmXCxUORQg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dwE7Oc5CqH3YzZvXDB-c4OqI1g0zyqRH</picture>
+      <picture>https://lh3.googleusercontent.com/d/10aq20HDF1loehoVVkjEn_KIscBM2BFIn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Faps2J_5-AfPkuLxlPLGdFl1furG5mfm</picture>
+      <description>Аваланж</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Р02834</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза одноголовая
+Аваланж
+Чеховский сад
+Россия
+Цветы" unit="шт">10</consist>
+    </offer>
+    <offer id="Р02995">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Мансфилд Парк 50 см Арт. Р02995</name>
+      <price>305</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iksbv0UrulhPHu_HT_ACMDF8-9kF9Aq6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b8NNCwTNu3KjaRSV9rbrjsEO_69iXz6h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jpjcR29WkObArF3ynGOGHJSC5KnyHYDr</picture>
+      <picture>https://lh3.googleusercontent.com/d/15ApM39CDaxLF6p_hIb2VxyGq0HDQrgai</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U9tK9EcJkEcwWFCdebgpHD0aU2t58gt4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j8uqFJ-fVGRI6BOyikRZuuo345hJMTGZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h6GFjy6k053svnFuOjmNczxU-b3BA9g1</picture>
+      <description>Мансфилд Парк</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р02995</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Роза кустовая пионовидная
+Мансфилд Парк
+Мордовия
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Р03005">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая пионовидная Роял Парк 50 см Арт. Р03005</name>
+      <price>290</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FPEEDU9hcp-uxnVuvMT1mWg-U8UVYr8I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QvGN_p-i9ViNcnWHPawagO1whXMd5ADO</picture>
+      <picture>https://lh3.googleusercontent.com/d/12USwLQmp1sBRlzTdkzokskU0Nutqqa8P</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZgzyMJyxgn8S07M_KyZ5qZu6-Jx4ENyt</picture>
+      <picture>https://lh3.googleusercontent.com/d/168iuml9s7alwzFY3p1LMPG1mb4F_msOq</picture>
+      <description>Роял Парк</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р03005</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Роза кустовая пионовидная
+Роял Парк
+Мордовия
+Россия
+Цветы" unit="шт">5</consist>
     </offer>
     <offer id="Р03175">
       <categories>
