@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T11:01:28.798+03:00">
+<yml_catalog date="2025-09-26T11:06:28.389+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -1332,15 +1332,16 @@ G VIENNA
       <name>Куэркас Рубра 80 см Арт. Р7608</name>
       <price>48</price>
       <qty>240</qty>
+      <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cS42bvKLu2lITU7DLRymwYUxIxdBZVqW</picture>
       <description>Рубра</description>
       <param name="Высота, см">80</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Р7608</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.
 Куэркас
 Рубра
-Цветы" unit="шт">1</consist>
+Цветы" unit="шт">20</consist>
     </offer>
     </offers>
   </shop>
