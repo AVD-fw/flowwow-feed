@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T07:11:32.642+03:00">
+<yml_catalog date="2025-09-26T07:16:30.722+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -92,6 +92,33 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Р6978</param>
       <consist name="Хризантема одноголовая G VIENNA" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р7277">
+      <name>Антирринум 9 шт Желтый 70 см Арт. Р7277</name>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1r8HghuhRfwEimG1yNtSPE0bwJz6qA-XP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QZbTC0uXI9rrVuXk0Et8LXm3L0ytPF9g</picture>
+      <description>Антирринум 9 шт Желтый 70 см Арт. Р7277</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р7277</param>
+      <consist name="Антирринум" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р7518">
+      <name>Хризантема одноголовая Деко 9 шт 80 см Арт. Р7518</name>
+      <price>1890</price>
+      <picture>https://lh3.googleusercontent.com/d/1BHFiSUpWeiMmV-LapYKrHXKVKSny-toi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mOlQbZlfExP4qvdTE9GG0jBopLKKP9P3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kgcJ_QW4kQqxKIb2Fu63IxDeORZCc9Ld</picture>
+      <description>Деко</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Крым</param>
+      <param name="Артикул">Р7518</param>
+      <consist name="Хризантема одноголовая Деко" unit="шт">9</consist>
     </offer>
     </offers>
   </shop>
