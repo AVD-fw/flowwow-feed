@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T13:26:37.514+03:00">
+<yml_catalog date="2025-09-26T13:28:23.452+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
     <offers>
+    <offer id="B2C_Р7277">
+      <name>Антирринум 9 шт Желтый 70 см Арт. Р7277</name>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1r8HghuhRfwEimG1yNtSPE0bwJz6qA-XP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QZbTC0uXI9rrVuXk0Et8LXm3L0ytPF9g</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Антирринум
+Краснодар
+Россия
+Цветы</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р7277</param>
+      <consist name="Антирринум" unit="шт">9</consist>
+    </offer>
     <offer id="B2C_Р00776">
       <name>Георгин 9 шт Оранжевый 60 см Арт. Р00776</name>
       <price>1230</price>
@@ -13,7 +30,10 @@
       <picture>https://lh3.googleusercontent.com/d/1FQpCW_aNsE0NZNYj1zVQrpbQdw9XfxDs</picture>
       <picture>https://lh3.googleusercontent.com/d/1_i8_JRQgReaL1-CoYoIvnlDWY20XFmSG</picture>
       <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
-      <description>Георгин 9 шт Оранжевый 60 см Арт. Р00776</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Георгин
+Россия
+Цветы</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
@@ -33,12 +53,47 @@
       <picture>https://lh3.googleusercontent.com/d/1ggCZkkzLa9_azsM_nVFwkHrc8nO7EGfU</picture>
       <picture>https://lh3.googleusercontent.com/d/1CEKbPKB5mn2O-6pMUZvtJLekqL_8OVsp</picture>
       <picture>https://lh3.googleusercontent.com/d/1IbCqBKKQ1bbWCUQtuyBVGF8hTkSGguIG</picture>
-      <description>Георгин 9 шт Розовый 60 см Арт. Р02416</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Георгин
+Россия
+Цветы</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Р02416</param>
       <consist name="Георгин" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р01985">
+      <name>Георгин 5 шт Белый 50 см Арт. Р01985</name>
+      <price>615</price>
+      <picture>https://lh3.googleusercontent.com/d/1-thkw3B8XYt8ocNw2NZowb2pfmcRf7rJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VOfK4tqJWP0WF4nUda17pIxzHk_8gWlk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Георгин
+Россия
+Цветы</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р01985</param>
+      <consist name="Георгин" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Р6444">
+      <name>Ирис Синий 25 шт 40 см Арт. Р6444</name>
+      <price>1375</price>
+      <picture>https://lh3.googleusercontent.com/d/1XVl27-wrVTZrjFlH0BchIwv1kpkHtpIX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o0SB_X0YRKmu6MaZXtAZk97aro643kT4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kBQmgtssoOWqjPfbDt8mF-6ddyps9DFQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.
+Ирис
+Синий
+Россия
+Цветы</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Р6444</param>
+      <consist name="Ирис Синий" unit="шт">25</consist>
     </offer>
     <offer id="B2C_Р00607">
       <name>Подсолнух 5 шт Желтый 70 см Арт. Р00607</name>
@@ -50,24 +105,93 @@
       <picture>https://lh3.googleusercontent.com/d/1xHgvVmieyBnQUksXQJKgdHyw_WLloqoi</picture>
       <picture>https://lh3.googleusercontent.com/d/1bQJXudy5A7LhJe8aJeUP9bJ-jdOvNWKE</picture>
       <picture>https://lh3.googleusercontent.com/d/1D2ntqJGK-Yv5q5z_Azf5N88bqhpohyMH</picture>
-      <description>Подсолнух 5 шт Желтый 70 см Арт. Р00607</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Подсолнух
+Россия
+Цветы</description>
       <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Р00607</param>
       <consist name="Подсолнух" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_Р01985">
-      <name>Георгин 5 шт Белый 50 см Арт. Р01985</name>
-      <price>615</price>
-      <picture>https://lh3.googleusercontent.com/d/1-thkw3B8XYt8ocNw2NZowb2pfmcRf7rJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VOfK4tqJWP0WF4nUda17pIxzHk_8gWlk</picture>
-      <description>Георгин 5 шт Белый 50 см Арт. Р01985</description>
+    <offer id="B2C_Р03026">
+      <name>Роза кустовая Барбадос 9 шт 60 см Арт. Р03026</name>
+      <price>1530</price>
+      <picture>https://lh3.googleusercontent.com/d/1XLdMpffUxKeYpUC4ZPnNE4YC8jAMZv3w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H_7xutfjrEOQbF1RG6uEz3V2T3tGt6WG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая
+Барбадос
+Rose Hill
+Россия
+Цветы</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Р03026</param>
+      <consist name="Роза кустовая Барбадос" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р04265">
+      <name>Роза кустовая Софи 9 шт 50 см Арт. Р04265</name>
+      <price>2900</price>
+      <picture>https://lh3.googleusercontent.com/d/1xahg3fyuUO5faUwMZSwB7vI_08Egfjl9</picture>
+      <picture>https://lh3.googleusercontent.com/d/17ujViUfYjb7CRdVDWDvCE_QbuBIlS-PN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CFczB6O6Z-25Z1U_3uRhfHB6ydkzVDTM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Uzo9YBMPDz7BMY1OpRkMomiZKn4oFlq0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая
+Софи
+Мордовия
+Россия
+Цветы</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
-      <param name="Артикул">Р01985</param>
-      <consist name="Георгин" unit="шт">5</consist>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р04265</param>
+      <consist name="Роза кустовая Софи" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р6506">
+      <name>Роза кустовая Таня 9 шт 60 см Арт. Р6506</name>
+      <price>2900</price>
+      <picture>https://lh3.googleusercontent.com/d/13njsO3k4DT8V0KLP5AfjhplTsJ5b1U-z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HdZeZp_6-IUZw9pOVCBXaP9ESN1NyQhA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая
+Таня
+Мордовия
+Россия
+Цветы</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р6506</param>
+      <consist name="Роза кустовая Таня" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р04366">
+      <name>Роза кустовая пионовидная Бомбастик 9 шт 60 см Арт. Р04366</name>
+      <price>4210</price>
+      <picture>https://lh3.googleusercontent.com/d/1Me7lY2P4p7XiCZHHrvnXLbkj0X9mt2E-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xc3oL6XfBflWP1_4RM7IpVm7ibYYutEu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iUFKUP6C3HCLmef-2R-lYL84X-PY885u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RvWaVS5dzWc4IesuLgFO1I8uhC75RrHB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bdcZwr2EXm2YSms4L0XMQdBOMGAA2SH8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oBtBTteqoNzWNJ19BXgqODyd01qu6REq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая пионовидная
+Бомбастик
+Мордовия
+Россия
+Цветы</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р04366</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Р02025">
       <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 50 см Арт. Р02025</name>
@@ -82,7 +206,12 @@
       <picture>https://lh3.googleusercontent.com/d/1BMXqa5-N2wrTeU-yZNMDCh_7HsZ6P0nv</picture>
       <picture>https://lh3.googleusercontent.com/d/1eiPX_dCPnAAMNoyjyxWXNt-VAeN29lO1</picture>
       <picture>https://lh3.googleusercontent.com/d/1nN48dsNwqhSx4x7oplic1ebEZjUn-zHf</picture>
-      <description>Леди Бомбастик</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая пионовидная
+Леди Бомбастик
+Мордовия
+Россия
+Цветы</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
@@ -90,34 +219,65 @@
       <param name="Артикул">Р02025</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р02007">
-      <name>Роза одноголовая пионовидная Присцилла 9 шт 70 см Арт. Р02007</name>
-      <price>2180</price>
-      <picture>https://lh3.googleusercontent.com/d/1_SDrgoNiuWcqCOZ5Rxr5ExBT0Ecd6MCV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xE8gXwkB0h709FtQr1MHE3r49CUDM89Z</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xE8gXwkB0h709FtQr1MHE3r49CUDM89Z</picture>
-      <description>Присцилла</description>
-      <param name="Высота, см">70</param>
+    <offer id="B2C_Р4135">
+      <name>Роза кустовая пионовидная Мансфилд Парк Пинк 5 шт 50 см Арт. Р4135</name>
+      <price>1525</price>
+      <picture>https://lh3.googleusercontent.com/d/1d1mnBMcLzXhWLJz8n1OHAYq4lpMCGaNs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K_t9cEsG8Is-atwAF141vSQDriiz_5CK</picture>
+      <picture>https://lh3.googleusercontent.com/d/16GJRBiu-IhIwbUSDa6OfHqwglvX70VM7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s182exE_ygF3CucB4m23UnitG4pxqjut</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Роза кустовая пионовидная
+Мансфилд Парк Пинк
+Мордовия
+Россия
+Цветы</description>
+      <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р02007</param>
-      <consist name="Роза одноголовая пионовидная Присцилла" unit="шт">9</consist>
+      <param name="Артикул">Р4135</param>
+      <consist name="Роза кустовая пионовидная Мансфилд Парк Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_Р02834">
-      <name>Роза одноголовая Аваланж 9 шт 40 см Арт. Р02834</name>
-      <price>580</price>
-      <picture>https://lh3.googleusercontent.com/d/1-oMeZm8PKNKaZVS0_j7X17EmXCxUORQg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dwE7Oc5CqH3YzZvXDB-c4OqI1g0zyqRH</picture>
-      <picture>https://lh3.googleusercontent.com/d/10aq20HDF1loehoVVkjEn_KIscBM2BFIn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Faps2J_5-AfPkuLxlPLGdFl1furG5mfm</picture>
-      <description>Аваланж</description>
-      <param name="Высота, см">40</param>
+    <offer id="B2C_Р4915">
+      <name>Роза кустовая пионовидная Пиони Бабблс 9 шт 50 см Арт. Р4915</name>
+      <price>2180</price>
+      <picture>https://lh3.googleusercontent.com/d/1J3EDkWVLOMcrPY3BqoHTyw1ZeOJysc6D</picture>
+      <picture>https://lh3.googleusercontent.com/d/19ne8e6Jx9GIHR67HrkzB8ugahoJLeMxH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bDxriZ7iqGtUL2B4GGYWz3OpaEiWaaxB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v3bKtHH0-1lIF31sj37TDEUEUgbQOea2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tnPwSDstiYUhwN3F63CcCNNG2a6od-Le</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XTnYIQw7xD6eC7J_YBV6jhTDo0U26cLR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая пионовидная
+Пиони Бабблс
+Мордовия
+Россия
+Цветы</description>
+      <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Р02834</param>
-      <consist name="Роза одноголовая Аваланж" unit="шт">9</consist>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р4915</param>
+      <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р6935">
+      <name>Роза кустовая пионовидная Роял Блаш 5 шт 50 см Арт. Р6935</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1t_nl6Tcj9KHzuSY8DvksYM_rAukurOjK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t8GQd_hZyYzoAyhS_haYqwaZWUyMV2Am</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Роза кустовая пионовидная
+Роял Блаш
+Мордовия
+Россия
+Цветы</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р6935</param>
+      <consist name="Роза кустовая пионовидная Роял Блаш" unit="шт">5</consist>
     </offer>
     <offer id="B2C_Р03005">
       <name>Роза кустовая пионовидная Роял Парк 5 шт 50 см Арт. Р03005</name>
@@ -127,70 +287,18 @@
       <picture>https://lh3.googleusercontent.com/d/12USwLQmp1sBRlzTdkzokskU0Nutqqa8P</picture>
       <picture>https://lh3.googleusercontent.com/d/1ZgzyMJyxgn8S07M_KyZ5qZu6-Jx4ENyt</picture>
       <picture>https://lh3.googleusercontent.com/d/168iuml9s7alwzFY3p1LMPG1mb4F_msOq</picture>
-      <description>Роял Парк</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Роза кустовая пионовидная
+Роял Парк
+Мордовия
+Россия
+Цветы</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">Р03005</param>
       <consist name="Роза кустовая пионовидная Роял Парк" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_Р03026">
-      <name>Роза кустовая Барбадос 9 шт 60 см Арт. Р03026</name>
-      <price>1530</price>
-      <picture>https://lh3.googleusercontent.com/d/1XLdMpffUxKeYpUC4ZPnNE4YC8jAMZv3w</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H_7xutfjrEOQbF1RG6uEz3V2T3tGt6WG</picture>
-      <description>Барбадос</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Р03026</param>
-      <consist name="Роза кустовая Барбадос" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Р4135">
-      <name>Роза кустовая пионовидная Мансфилд Парк Пинк 5 шт 50 см Арт. Р4135</name>
-      <price>1525</price>
-      <picture>https://lh3.googleusercontent.com/d/1d1mnBMcLzXhWLJz8n1OHAYq4lpMCGaNs</picture>
-      <picture>https://lh3.googleusercontent.com/d/1K_t9cEsG8Is-atwAF141vSQDriiz_5CK</picture>
-      <picture>https://lh3.googleusercontent.com/d/16GJRBiu-IhIwbUSDa6OfHqwglvX70VM7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1s182exE_ygF3CucB4m23UnitG4pxqjut</picture>
-      <description>Мансфилд Парк Пинк</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р4135</param>
-      <consist name="Роза кустовая пионовидная Мансфилд Парк Пинк" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_Р04265">
-      <name>Роза кустовая Софи 9 шт 50 см Арт. Р04265</name>
-      <price>2900</price>
-      <picture>https://lh3.googleusercontent.com/d/1xahg3fyuUO5faUwMZSwB7vI_08Egfjl9</picture>
-      <picture>https://lh3.googleusercontent.com/d/17ujViUfYjb7CRdVDWDvCE_QbuBIlS-PN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CFczB6O6Z-25Z1U_3uRhfHB6ydkzVDTM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Uzo9YBMPDz7BMY1OpRkMomiZKn4oFlq0</picture>
-      <description>Софи</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р04265</param>
-      <consist name="Роза кустовая Софи" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Р04286">
-      <name>Роза одноголовая пионовидная Баблгам 9 шт 60 см Арт. Р04286</name>
-      <price>1160</price>
-      <picture>https://lh3.googleusercontent.com/d/1LmQVOlgtYyw5E53TPccS1MMtXuGSNwcg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JSKr-rjfH6Tz76FMuT7ST6QgkNAz9Idm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MYUjLAaBhBn58pMWPlkoa5JfB6WzbIv8</picture>
-      <description>Баблгам</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р04286</param>
-      <consist name="Роза одноголовая пионовидная Баблгам" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Р04335">
       <name>Роза кустовая пионовидная Сильва Пинк 5 шт 50 см Арт. Р04335</name>
@@ -203,30 +311,18 @@
       <picture>https://lh3.googleusercontent.com/d/1BOsJxI2CzZXkA14mThX6L0c_uH2S9t5-</picture>
       <picture>https://lh3.googleusercontent.com/d/1QjNVv_UrsTKI75kkwP8p5MkYFp8bnth3</picture>
       <picture>https://lh3.googleusercontent.com/d/17VPfGuM04tDfHlG-nqzi059HU78Ssu-v</picture>
-      <description>Сильва Пинк</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Роза кустовая пионовидная
+Сильва Пинк
+Мордовия
+Россия
+Цветы</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">Р04335</param>
       <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_Р04366">
-      <name>Роза кустовая пионовидная Бомбастик 9 шт 60 см Арт. Р04366</name>
-      <price>4210</price>
-      <picture>https://lh3.googleusercontent.com/d/1Me7lY2P4p7XiCZHHrvnXLbkj0X9mt2E-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Xc3oL6XfBflWP1_4RM7IpVm7ibYYutEu</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iUFKUP6C3HCLmef-2R-lYL84X-PY885u</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RvWaVS5dzWc4IesuLgFO1I8uhC75RrHB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bdcZwr2EXm2YSms4L0XMQdBOMGAA2SH8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oBtBTteqoNzWNJ19BXgqODyd01qu6REq</picture>
-      <description>Бомбастик</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р04366</param>
-      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Р04386">
       <name>Роза кустовая пионовидная Скарлет Дименшион 9 шт 60 см Арт. Р04386</name>
@@ -235,7 +331,12 @@
       <picture>https://lh3.googleusercontent.com/d/1V-vT2dwad0Dbil1R7A3HoIKzu_IPCnEF</picture>
       <picture>https://lh3.googleusercontent.com/d/1AVuju16ItqKNhWTLaL-1NYKhBuyUt415</picture>
       <picture>https://lh3.googleusercontent.com/d/1BMrQT_TnVkDy3jh2fouEHL84_NCMHLbE</picture>
-      <description>Скарлет Дименшион</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза кустовая пионовидная
+Скарлет Дименшион 
+Мордовия
+Россия
+Цветы</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
@@ -243,101 +344,63 @@
       <param name="Артикул">Р04386</param>
       <consist name="Роза кустовая пионовидная Скарлет Дименшион" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р4877">
-      <name>Хризантема одноголовая Зеленая 9 шт 70 см Арт. Р4877</name>
-      <price>1190</price>
-      <picture>https://lh3.googleusercontent.com/d/1rayT8-KoWNN7d2bmfew1Piv-kfna9A4J</picture>
-      <picture>https://lh3.googleusercontent.com/d/1om0KoL7eayPMln35_OZe-g9awJC7lf-Q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xeun-eFNwCHDHFbM72wjzMy9FLVNkkfp</picture>
-      <description>Зеленая</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">Р4877</param>
-      <consist name="Хризантема одноголовая Зеленая" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Р4915">
-      <name>Роза кустовая пионовидная Пиони Бабблс 9 шт 50 см Арт. Р4915</name>
-      <price>2180</price>
-      <picture>https://lh3.googleusercontent.com/d/1J3EDkWVLOMcrPY3BqoHTyw1ZeOJysc6D</picture>
-      <picture>https://lh3.googleusercontent.com/d/19ne8e6Jx9GIHR67HrkzB8ugahoJLeMxH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bDxriZ7iqGtUL2B4GGYWz3OpaEiWaaxB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1v3bKtHH0-1lIF31sj37TDEUEUgbQOea2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tnPwSDstiYUhwN3F63CcCNNG2a6od-Le</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XTnYIQw7xD6eC7J_YBV6jhTDo0U26cLR</picture>
-      <description>Пиони Бабблс</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р4915</param>
-      <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Р6444">
-      <name>Ирис Синий 25 шт 40 см Арт. Р6444</name>
-      <price>1375</price>
-      <picture>https://lh3.googleusercontent.com/d/1XVl27-wrVTZrjFlH0BchIwv1kpkHtpIX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1o0SB_X0YRKmu6MaZXtAZk97aro643kT4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kBQmgtssoOWqjPfbDt8mF-6ddyps9DFQ</picture>
-      <description>Синий</description>
+    <offer id="B2C_Р02834">
+      <name>Роза одноголовая Аваланж 9 шт 40 см Арт. Р02834</name>
+      <price>580</price>
+      <picture>https://lh3.googleusercontent.com/d/1-oMeZm8PKNKaZVS0_j7X17EmXCxUORQg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dwE7Oc5CqH3YzZvXDB-c4OqI1g0zyqRH</picture>
+      <picture>https://lh3.googleusercontent.com/d/10aq20HDF1loehoVVkjEn_KIscBM2BFIn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Faps2J_5-AfPkuLxlPLGdFl1furG5mfm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза одноголовая
+Аваланж
+Чеховский сад
+Россия
+Цветы</description>
       <param name="Высота, см">40</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
-      <param name="Артикул">Р6444</param>
-      <consist name="Ирис Синий" unit="шт">25</consist>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Р02834</param>
+      <consist name="Роза одноголовая Аваланж" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р6506">
-      <name>Роза кустовая Таня 9 шт 60 см Арт. Р6506</name>
-      <price>2900</price>
-      <picture>https://lh3.googleusercontent.com/d/13njsO3k4DT8V0KLP5AfjhplTsJ5b1U-z</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HdZeZp_6-IUZw9pOVCBXaP9ESN1NyQhA</picture>
-      <description>Таня</description>
+    <offer id="B2C_Р04286">
+      <name>Роза одноголовая пионовидная Баблгам 9 шт 60 см Арт. Р04286</name>
+      <price>1160</price>
+      <picture>https://lh3.googleusercontent.com/d/1LmQVOlgtYyw5E53TPccS1MMtXuGSNwcg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JSKr-rjfH6Tz76FMuT7ST6QgkNAz9Idm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MYUjLAaBhBn58pMWPlkoa5JfB6WzbIv8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза одноголовая пионовидная
+Баблгам
+Мордовия
+Россия
+Цветы</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р6506</param>
-      <consist name="Роза кустовая Таня" unit="шт">9</consist>
+      <param name="Артикул">Р04286</param>
+      <consist name="Роза одноголовая пионовидная Баблгам" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Р6935">
-      <name>Роза кустовая пионовидная Роял Блаш 5 шт 50 см Арт. Р6935</name>
-      <price>1450</price>
-      <picture>https://lh3.googleusercontent.com/d/1t_nl6Tcj9KHzuSY8DvksYM_rAukurOjK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1t8GQd_hZyYzoAyhS_haYqwaZWUyMV2Am</picture>
-      <description>Роял Блаш</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Р6935</param>
-      <consist name="Роза кустовая пионовидная Роял Блаш" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_Р6978">
-      <name>Хризантема одноголовая G VIENNA 9 шт 85 см Арт. Р6978</name>
-      <price>2690</price>
-      <picture>https://lh3.googleusercontent.com/d/1qus1-J6w4382l-qyV0iBGtx19XA2siiE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OFdOcbVHOX1qAGTbxuNlpdjc4j6mLz0C</picture>
-      <description>G VIENNA</description>
-      <param name="Высота, см">85</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">Р6978</param>
-      <consist name="Хризантема одноголовая G VIENNA" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_Р7277">
-      <name>Антирринум 9 шт Желтый 70 см Арт. Р7277</name>
-      <price>1520</price>
-      <picture>https://lh3.googleusercontent.com/d/1r8HghuhRfwEimG1yNtSPE0bwJz6qA-XP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1QZbTC0uXI9rrVuXk0Et8LXm3L0ytPF9g</picture>
-      <description>Антирринум 9 шт Желтый 70 см Арт. Р7277</description>
+    <offer id="B2C_Р02007">
+      <name>Роза одноголовая пионовидная Присцилла 9 шт 70 см Арт. Р02007</name>
+      <price>2180</price>
+      <picture>https://lh3.googleusercontent.com/d/1_SDrgoNiuWcqCOZ5Rxr5ExBT0Ecd6MCV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xE8gXwkB0h709FtQr1MHE3r49CUDM89Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xE8gXwkB0h709FtQr1MHE3r49CUDM89Z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Роза одноголовая пионовидная
+Присцилла
+Мордовия
+Россия
+Цветы</description>
       <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">Р7277</param>
-      <consist name="Антирринум" unit="шт">9</consist>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Р02007</param>
+      <consist name="Роза одноголовая пионовидная Присцилла" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Р7518">
       <name>Хризантема одноголовая Деко 9 шт 80 см Арт. Р7518</name>
@@ -345,13 +408,55 @@
       <picture>https://lh3.googleusercontent.com/d/1BHFiSUpWeiMmV-LapYKrHXKVKSny-toi</picture>
       <picture>https://lh3.googleusercontent.com/d/1mOlQbZlfExP4qvdTE9GG0jBopLKKP9P3</picture>
       <picture>https://lh3.googleusercontent.com/d/1kgcJ_QW4kQqxKIb2Fu63IxDeORZCc9Ld</picture>
-      <description>Деко</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Хризантема одноголовая
+Деко 
+Крым
+Россия
+Цветы</description>
       <param name="Высота, см">80</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Крым</param>
       <param name="Артикул">Р7518</param>
       <consist name="Хризантема одноголовая Деко" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р4877">
+      <name>Хризантема одноголовая Зеленая 9 шт 70 см Арт. Р4877</name>
+      <price>1190</price>
+      <picture>https://lh3.googleusercontent.com/d/1rayT8-KoWNN7d2bmfew1Piv-kfna9A4J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1om0KoL7eayPMln35_OZe-g9awJC7lf-Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xeun-eFNwCHDHFbM72wjzMy9FLVNkkfp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Хризантема одноголовая
+Зеленая
+Краснодар
+Россия
+Цветы</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р4877</param>
+      <consist name="Хризантема одноголовая Зеленая" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Р6978">
+      <name>Хризантема одноголовая G VIENNA 9 шт 85 см Арт. Р6978</name>
+      <price>2690</price>
+      <picture>https://lh3.googleusercontent.com/d/1qus1-J6w4382l-qyV0iBGtx19XA2siiE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OFdOcbVHOX1qAGTbxuNlpdjc4j6mLz0C</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Хризантема одноголовая
+G VIENNA 
+Краснодар 
+Россия
+Цветы</description>
+      <param name="Высота, см">85</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Р6978</param>
+      <consist name="Хризантема одноголовая G VIENNA" unit="шт">9</consist>
     </offer>
     </offers>
   </shop>
