@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T13:52:43.715+03:00">
+<yml_catalog date="2025-09-26T13:57:29.992+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -962,6 +962,18 @@
       <param name="Страна">россия</param>
       <param name="Артикул">R4705</param>
       <consist name="Георгин микс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_R5575">
+      <name>Георгин Микс 9 шт 50 см Арт. R5575</name>
+      <price>1230</price>
+      <picture>https://lh3.googleusercontent.com/d/1nhqbO4HL3LNzJa46Sc8dPhox3YqQHZ-g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xN8Ai0NuNDxO7TN7Q9Y511nWC43So-aB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">R5575</param>
+      <consist name="Георгин Микс" unit="шт">9</consist>
     </offer>
     <offer id="B2C_R5637">
       <name>Георгин Микс 9 шт 70 см Арт. R5637</name>
