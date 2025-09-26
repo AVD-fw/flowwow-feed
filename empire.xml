@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T11:06:11.450+03:00">
+<yml_catalog date="2025-09-26T11:11:12.855+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -61,6 +61,22 @@
       <param name="Артикул">И01115</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
+    <offer id="И1899">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Лилия Розовый 90 см Арт. И1899</name>
+      <price>355</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TI3NPCFBY7OCAmwJq4zzyWAd1FYLqGA8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">И1899</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
     <offer id="И00257">
       <categories>
         <category id="37">Цветы</category>
@@ -99,6 +115,21 @@
       <param name="Производитель">Tajik Flowers</param>
       <param name="Артикул">И01146</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="И2116">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Альстромерия Бордовый 60 см Арт. И2116</name>
+      <price>35</price>
+      <qty>180</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W2EvImZYBiUfRRNwVPnDwWvLu9PMsZwN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">И2116</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
     <offer id="И00985">
       <categories>
@@ -172,6 +203,22 @@
       <param name="Артикул">И00766</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
+    <offer id="И2177">
+      <categories>
+        <category id="5">Хризантема одноголовая</category>
+      </categories>
+      <name>Хризантема одноголовая Антонов Магнум 70 см Арт. И2177</name>
+      <price>132</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aYLRZuFrjuZPByxZ7bzoeft9i7k9vG0L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">И2177</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
     <offer id="И00395">
       <categories>
         <category id="3">Роза кустовая</category>
@@ -190,6 +237,22 @@
       <param name="Производитель">Подосинки</param>
       <param name="Артикул">И00395</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="И2548">
+      <categories>
+        <category id="1">Роза одноголовая</category>
+      </categories>
+      <name>Роза одноголовая Пинк Мондиаль 80 см Арт. И2548</name>
+      <price>131</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16m0lFXJZ5RoUvZQGDjeFk-6YzQelMe4f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Sofie Farms</param>
+      <param name="Артикул">И2548</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
