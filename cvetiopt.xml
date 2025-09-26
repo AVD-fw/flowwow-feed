@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T08:43:27.688+03:00">
+<yml_catalog date="2025-09-26T08:44:50.881+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -712,7 +712,7 @@ Filius Noordaw
       </categories>
       <name>Оксипеталум Голубой 50 см Арт. Цо0485</name>
       <price>121</price>
-      <qty>300</qty>
+      <qty>15</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1R3QvvVfzcjAMYv8zffBc37M4__zb6qm1</picture>
       <picture>https://lh3.googleusercontent.com/d/1b6ENtTrhjbnbk4xyzcYvzEKUseuu8qDI</picture>
@@ -732,13 +732,56 @@ Neeman
 Израиль 
 Цветы" unit="шт">15</consist>
     </offer>
+    <offer id="Цо0486">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Нутан Желтый 50 см Арт. Цо0486</name>
+      <price>198</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dpBFUHO3DtyP5_u9c45gwX4m0eBt8Fyk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vAbBjupcqKdp0lnhnIlVTPBdVupV58uf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C41m4W_FcNIKQ_ft0jzIjowh3ZPnHQvH</picture>
+      <description>Нутан Желтый 50 см Арт. Цо0486</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Odilia</param>
+      <param name="Артикул">Цо0486</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.
+Нутан
+Odilia
+Цветы" unit="шт">5</consist>
+    </offer>
+    <offer id="Цо0489">
+      <categories>
+        <category id="38">Зелень</category>
+      </categories>
+      <name>Озотамнус Розовый 50 см Арт. Цо0489</name>
+      <price>105</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pzLYEEfbPbqSBuBPBdrYe3PYF8GrtUei</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P8qLe0BdVS73uKg1tzj9dYnBxCOxhLBg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WnwLSPwhMogsEvbsWdBE_nwwSdNAL-7b</picture>
+      <description>Озотамнус Розовый 50 см Арт. Цо0489</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Цо0489</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Озотамнус
+Esmeralda 
+Эквадор
+Зелень" unit="шт">10</consist>
+    </offer>
     <offer id="Цо0490">
       <categories>
         <category id="37">Цветы</category>
       </categories>
       <name>Краспедия Желтый 50 см Арт. Цо0490</name>
       <price>138</price>
-      <qty>500</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1G1AMS2XaMEbWTFycKkqoP6S4eUbtdGJo</picture>
       <picture>https://lh3.googleusercontent.com/d/1hgFiMBJObzsCd1hMYwya-jjiAd-__Kba</picture>
@@ -759,13 +802,35 @@ Beauti Line
 Кения
 Цветы" unit="шт">10</consist>
     </offer>
+    <offer id="Цо04915">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Астранция Белая 50 см Арт. Цо04915</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1czmvBN_HyTtFnu1qmFOmqkQqpbz1MbSi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rlzgmbu8NH-tmzYch636OJSqaI4QK82E</picture>
+      <picture>https://lh3.googleusercontent.com/d/14QqjTsfTY_OEOL39yVdzbdmJ0HXBguSV</picture>
+      <description>Белая</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Цо04915</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.
+Астранция
+Белая
+Marginpar 
+Цветы" unit="шт">25</consist>
+    </offer>
     <offer id="Цо0492">
       <categories>
         <category id="38">Зелень</category>
       </categories>
       <name>Шиповник Оранжевый 50 см Арт. Цо0492</name>
       <price>935</price>
-      <qty>18</qty>
+      <qty>1</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EKjBeljbsZEr5Uk7xXT-OvaYbASD1q5Z</picture>
       <picture>https://lh3.googleusercontent.com/d/1Mxsgt7WHtLae5ucANaqqRXedlNLHpW4F</picture>
@@ -779,13 +844,55 @@ Beauti Line
 Шиповник
 Зелень" unit="шт">1</consist>
     </offer>
+    <offer id="Цо05035">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Вероника Розовый 50 см Арт. Цо05035</name>
+      <price>66</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1emJek6aP9jGzwblME1ncqghSifh_mq6H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R-T5try4Qv0vUYJfkMiZswhnjZacfa1I</picture>
+      <description>Вероника Розовый 50 см Арт. Цо05035</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Цо05035</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.
+Вероника
+Florius Flowers
+Голландия
+Цветы" unit="шт">25</consist>
+    </offer>
+    <offer id="Цо0505">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Астильба Розовый 50 см Арт. Цо0505</name>
+      <price>99</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1l2ALFPSwMx0dbrklDlVM-_eSB45o_aS_</picture>
+      <picture>https://lh3.googleusercontent.com/d/13Nav-RbURa5DrY-qTFJoKQRn6WXvKCsW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X4-mMmIg_fLU2us71hlxWk3ed2YceySD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gam5v4wcZHWV84ZMIeSKymw9DKqissPM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RMXdUh2MPw-VuQ3tLBHlibf2bkLrlDdo</picture>
+      <description>Астильба Розовый 50 см Арт. Цо0505</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо0505</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.
+Астильба
+Цветы" unit="шт">10</consist>
+    </offer>
     <offer id="Цо0507">
       <categories>
         <category id="37">Цветы</category>
       </categories>
       <name>Брассика Фиолетовый 50 см Арт. Цо0507</name>
       <price>116</price>
-      <qty>50</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17V0FCbYwmPrMdaAMW6sKacAlRBEddPTT</picture>
       <picture>https://lh3.googleusercontent.com/d/1BCqPtf4HnG00i6-sVaNiBukvwFuNS3Mf</picture>
@@ -800,13 +907,34 @@ Beauti Line
 Брассика
 Цветы" unit="шт">5</consist>
     </offer>
+    <offer id="Цо585">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Скиммия Красный 50 см Арт. Цо585</name>
+      <price>528</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17WOvYNM1OJtB2En3C5jGaF-DTQz3ELWc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oxkjH34NVjfXg_DvFg-9zafCdgSZK9pv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JsYW_Vur4sly9Bb7pq5g6BCShZeh6pZj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AdvB3_MCo9YzOYP2gXZlNJhRFsvA-zGT</picture>
+      <picture>https://lh3.googleusercontent.com/d/15F7lT8jKYunO-Fyb1Wgy3geJNzwvi8gL</picture>
+      <description>Скиммия Красный 50 см Арт. Цо585</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо585</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.
+Скиммия
+Цветы" unit="шт">1</consist>
+    </offer>
     <offer id="Цо588">
       <categories>
         <category id="37">Цветы</category>
       </categories>
       <name>Гиперикум Белый 50 см Арт. Цо588</name>
       <price>94</price>
-      <qty>300</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UEp5zK8aVR5_vQrNsh7xOe2tNvsuKBDx</picture>
       <picture>https://lh3.googleusercontent.com/d/1-38yIBNDnJzd6LO2MIjj2xY0fX-E9A3Q</picture>
