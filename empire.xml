@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T06:46:45.715+03:00">
+<yml_catalog date="2025-09-26T06:52:01.470+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -469,7 +469,7 @@
       <picture>https://lh3.googleusercontent.com/d/1TI3NPCFBY7OCAmwJq4zzyWAd1FYLqGA8</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">90</param>
-      <param name="Страна">Россия</param>
+      <param name="Страна">Голландия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Им1899</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
@@ -618,7 +618,7 @@
       <picture>https://lh3.googleusercontent.com/d/1winbkTJxJ4NM5fha2CBWq7qXdu-jnq6p</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
+      <param name="Страна">Голландия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Им1906</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
@@ -2355,7 +2355,7 @@
       <picture>https://lh3.googleusercontent.com/d/1gTvRrfqwUWhfFT4pD6ULZDlfRlgt5mP4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
+      <param name="Страна">Армения</param>
       <param name="Артикул">Им1874</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
@@ -2427,6 +2427,19 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Им01535</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Им1834">
+      <categories>
+        <category id="3">Роза кустовая</category>
+      </categories>
+      <qty>11</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12zly3TfcrU0f3HCHEznKEZnomQieqR-l</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Им1834</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
     <offer id="Им00335">
@@ -2572,19 +2585,6 @@
       <param name="Артикул">Им00395</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Им1834">
-      <categories>
-        <category id="3">Роза кустовая</category>
-      </categories>
-      <qty>11</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12zly3TfcrU0f3HCHEznKEZnomQieqR-l</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Им1834</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
-    </offer>
     <offer id="Им01386">
       <categories>
         <category id="2">Роза одноголовая пионовидная</category>
@@ -2701,6 +2701,19 @@
       <param name="Производитель">Star Roses</param>
       <param name="Артикул">Им01637</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Им1885">
+      <categories>
+        <category id="1">Роза одноголовая</category>
+      </categories>
+      <qty>11</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15z6ubNeZl7WBO566Hi-gXh8QfVsUA44i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Им1885</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт." unit="шт">15</consist>
     </offer>
     <offer id="Им01328">
       <categories>
@@ -2843,19 +2856,18 @@
       <param name="Артикул">Им01336</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Им2618">
+    <offer id="Им1845">
       <categories>
         <category id="1">Роза одноголовая</category>
       </categories>
-      <qty>100</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jLBNoZHLjJ80pXzyIwV00SzaCtWGGUS-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Yaku Sisa</param>
-      <param name="Артикул">Им2618</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+      <qty>11</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-CoRQbkYtu4Pd0MwD2EwsBLFRGGQqony</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Им1845</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт." unit="шт">15</consist>
     </offer>
     <offer id="Им01307">
       <categories>
@@ -2900,32 +2912,6 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Им1756</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
-    </offer>
-    <offer id="Им1845">
-      <categories>
-        <category id="1">Роза одноголовая</category>
-      </categories>
-      <qty>11</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1-CoRQbkYtu4Pd0MwD2EwsBLFRGGQqony</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Им1845</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт." unit="шт">15</consist>
-    </offer>
-    <offer id="Им1885">
-      <categories>
-        <category id="1">Роза одноголовая</category>
-      </categories>
-      <qty>11</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15z6ubNeZl7WBO566Hi-gXh8QfVsUA44i</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Им1885</param>
-      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт." unit="шт">15</consist>
     </offer>
     </offers>
   </shop>
