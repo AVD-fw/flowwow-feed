@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T15:16:58.404+03:00">
+<yml_catalog date="2025-09-26T15:19:28.417+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
+    <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <offers>
-    <offer id="Rf02834">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02834" available="true">
+      <categoryId>37</categoryId>
       <name>Роза одноголовая Аваланж 40 см Арт. Rf02834</name>
       <price>58</price>
       <qty>60</qty>
@@ -23,10 +22,8 @@
       <param name="Артикул">Rf02834</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf04286">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf04286" available="true">
+      <categoryId>37</categoryId>
       <name>Роза одноголовая пионовидная Баблгам 60 см Арт. Rf04286</name>
       <price>116</price>
       <qty>80</qty>
@@ -41,10 +38,8 @@
       <param name="Артикул">Rf04286</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02007">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02007" available="true">
+      <categoryId>37</categoryId>
       <name>Роза одноголовая пионовидная Присцилла 70 см Арт. Rf02007</name>
       <price>218</price>
       <qty>10</qty>
@@ -59,10 +54,8 @@
       <param name="Артикул">Rf02007</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf03026">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf03026" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая Барбадос 60 см Арт. Rf03026</name>
       <price>153</price>
       <qty>30</qty>
@@ -76,10 +69,8 @@
       <param name="Артикул">Rf03026</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf04265">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf04265" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая Софи 50 см Арт. Rf04265</name>
       <price>290</price>
       <qty>20</qty>
@@ -95,10 +86,8 @@
       <param name="Артикул">Rf04265</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf6506">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf6506" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая Таня 60 см Арт. Rf6506</name>
       <price>290</price>
       <qty>100</qty>
@@ -112,10 +101,8 @@
       <param name="Артикул">Rf6506</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf04366">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf04366" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Бомбастик 60 см Арт. Rf04366</name>
       <price>421</price>
       <qty>30</qty>
@@ -133,10 +120,8 @@
       <param name="Артикул">Rf04366</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02025">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02025" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Rf02025</name>
       <price>290</price>
       <qty>240</qty>
@@ -158,10 +143,8 @@
       <param name="Артикул">Rf02025</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02995">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02995" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Мансфилд Парк 50 см Арт. Rf02995</name>
       <price>305</price>
       <qty>95</qty>
@@ -180,10 +163,8 @@
       <param name="Артикул">Rf02995</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf4135">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf4135" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Мансфилд Парк Пинк 50 см Арт. Rf4135</name>
       <price>305</price>
       <qty>30</qty>
@@ -199,10 +180,8 @@
       <param name="Артикул">Rf4135</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf4915">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf4915" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Пиони Бабблс 50 см Арт. Rf4915</name>
       <price>218</price>
       <qty>70</qty>
@@ -220,10 +199,8 @@
       <param name="Артикул">Rf4915</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf6935">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf6935" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Роял Блаш 50 см Арт. Rf6935</name>
       <price>290</price>
       <qty>30</qty>
@@ -237,10 +214,8 @@
       <param name="Артикул">Rf6935</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf03005">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf03005" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Роял Парк 50 см Арт. Rf03005</name>
       <price>290</price>
       <qty>35</qty>
@@ -257,10 +232,8 @@
       <param name="Артикул">Rf03005</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf04335">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf04335" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Сильва Пинк 50 см Арт. Rf04335</name>
       <price>305</price>
       <qty>20</qty>
@@ -280,10 +253,8 @@
       <param name="Артикул">Rf04335</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf04386">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf04386" available="true">
+      <categoryId>37</categoryId>
       <name>Роза кустовая пионовидная Скарлет Дименшион 60 см Арт. Rf04386</name>
       <price>290</price>
       <qty>20</qty>
@@ -299,10 +270,8 @@
       <param name="Артикул">Rf04386</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf01977">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf01977" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Rf01977</name>
       <price>200</price>
       <qty>30</qty>
@@ -323,10 +292,8 @@
       <param name="Артикул">Rf01977</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf7518">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7518" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Деко 80 см Арт. Rf7518</name>
       <price>189</price>
       <qty>300</qty>
@@ -341,10 +308,8 @@
       <param name="Артикул">Rf7518</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf7377">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7377" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Джи Момоко 70 см Арт. Rf7377</name>
       <price>183</price>
       <qty>60</qty>
@@ -357,10 +322,8 @@
       <param name="Артикул">Rf7377</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf4877">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf4877" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Зеленая 70 см Арт. Rf4877</name>
       <price>119</price>
       <qty>40</qty>
@@ -375,10 +338,8 @@
       <param name="Артикул">Rf4877</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02327">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02327" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Магнум йеллоу 70 см Арт. Rf02327</name>
       <price>167</price>
       <qty>140</qty>
@@ -396,10 +357,8 @@
       <param name="Артикул">Rf02327</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf00847">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf00847" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Росс Шарлотте 70 см Арт. Rf00847</name>
       <price>190</price>
       <qty>50</qty>
@@ -417,10 +376,8 @@
       <param name="Артикул">Rf00847</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02317">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02317" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. Rf02317</name>
       <price>162</price>
       <qty>50</qty>
@@ -442,10 +399,8 @@
       <param name="Артикул">Rf02317</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02308">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02308" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая Фуего 80 см Арт. Rf02308</name>
       <price>282</price>
       <qty>50</qty>
@@ -464,10 +419,8 @@
       <param name="Артикул">Rf02308</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf6978">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf6978" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема одноголовая G VIENNA 85 см Арт. Rf6978</name>
       <price>269</price>
       <qty>80</qty>
@@ -481,10 +434,8 @@
       <param name="Артикул">Rf6978</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf7336">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7336" available="true">
+      <categoryId>37</categoryId>
       <name>Хризантема кустовая Руби Стар 60 см Арт. Rf7336</name>
       <price>116</price>
       <qty>30</qty>
@@ -497,10 +448,8 @@
       <param name="Артикул">Rf7336</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf5117">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf5117" available="true">
+      <categoryId>37</categoryId>
       <name>Амми виснага 70 см Арт. Rf5117</name>
       <price>124</price>
       <qty>20</qty>
@@ -514,10 +463,8 @@
       <param name="Артикул">Rf5117</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf03557">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf03557" available="true">
+      <categoryId>37</categoryId>
       <name>Антирринум Фиолетовый 70 см Арт. Rf03557</name>
       <price>152</price>
       <qty>30</qty>
@@ -533,10 +480,8 @@
       <param name="Артикул">Rf03557</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf7277">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7277" available="true">
+      <categoryId>37</categoryId>
       <name>Антирринум Желтый 70 см Арт. Rf7277</name>
       <price>152</price>
       <qty>100</qty>
@@ -550,10 +495,8 @@
       <param name="Артикул">Rf7277</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02267">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02267" available="true">
+      <categoryId>37</categoryId>
       <name>Астранция Маж Роме 70 см Арт. Rf02267</name>
       <price>76</price>
       <qty>100</qty>
@@ -573,10 +516,8 @@
       <param name="Артикул">Rf02267</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf5685">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf5685" available="true">
+      <categoryId>37</categoryId>
       <name>Брассика Вайт Крейн 50 см Арт. Rf5685</name>
       <price>124</price>
       <qty>10</qty>
@@ -590,10 +531,8 @@
       <param name="Артикул">Rf5685</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf01196">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf01196" available="true">
+      <categoryId>37</categoryId>
       <name>Брассика Крейн Квин 60 см Арт. Rf01196</name>
       <price>118</price>
       <qty>10</qty>
@@ -607,10 +546,8 @@
       <param name="Артикул">Rf01196</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf02125">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02125" available="true">
+      <categoryId>37</categoryId>
       <name>Гвоздика кустовая Хот Пинк 50 см Арт. Rf02125</name>
       <price>55</price>
       <qty>75</qty>
@@ -626,10 +563,8 @@
       <param name="Артикул">Rf02125</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Rf00776">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf00776" available="true">
+      <categoryId>37</categoryId>
       <name>Георгин Оранжевый 60 см Арт. Rf00776</name>
       <price>123</price>
       <qty>150</qty>
@@ -646,10 +581,8 @@
       <param name="Артикул">Rf00776</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02416">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf02416" available="true">
+      <categoryId>37</categoryId>
       <name>Георгин Розовый 60 см Арт. Rf02416</name>
       <price>123</price>
       <qty>30</qty>
@@ -670,10 +603,8 @@
       <param name="Артикул">Rf02416</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf01985">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf01985" available="true">
+      <categoryId>37</categoryId>
       <name>Георгин Белый 50 см Арт. Rf01985</name>
       <price>123</price>
       <qty>80</qty>
@@ -686,10 +617,8 @@
       <param name="Артикул">Rf01985</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf03135">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf03135" available="true">
+      <categoryId>37</categoryId>
       <name>Георгин Розовый 50 см Арт. Rf03135</name>
       <price>123</price>
       <qty>190</qty>
@@ -710,10 +639,8 @@
       <param name="Артикул">Rf03135</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf4745">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf4745" available="true">
+      <categoryId>37</categoryId>
       <name>Георгин Сиреневый 50 см Арт. Rf4745</name>
       <price>123</price>
       <qty>250</qty>
@@ -726,10 +653,8 @@
       <param name="Артикул">Rf4745</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf04564">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf04564" available="true">
+      <categoryId>37</categoryId>
       <name>Герберамини джеменгд 45 см Арт. Rf04564</name>
       <price>58</price>
       <qty>25</qty>
@@ -747,10 +672,8 @@
       <param name="Артикул">Rf04564</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Rf5388">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf5388" available="true">
+      <categoryId>37</categoryId>
       <name>Гидрангия Вер Кл Грин 80 см Арт. Rf5388</name>
       <price>522</price>
       <qty>3</qty>
@@ -766,10 +689,8 @@
       <param name="Артикул">Rf5388</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт." unit="шт">1</consist>
     </offer>
-    <offer id="Rf00378">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf00378" available="true">
+      <categoryId>37</categoryId>
       <name>Гипсофила Радужная 80 см Арт. Rf00378</name>
       <price>109</price>
       <qty>50</qty>
@@ -791,10 +712,8 @@
       <param name="Артикул">Rf00378</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Rf7017">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7017" available="true">
+      <categoryId>37</categoryId>
       <name>Глориоза Рууд Ротхилчайлд 75 см Арт. Rf7017</name>
       <price>370</price>
       <qty>60</qty>
@@ -807,10 +726,8 @@
       <param name="Артикул">Rf7017</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf01927">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf01927" available="true">
+      <categoryId>37</categoryId>
       <name>Дельфиниум Бе Волкерфриелд 70 см Арт. Rf01927</name>
       <price>164</price>
       <qty>180</qty>
@@ -826,10 +743,8 @@
       <param name="Артикул">Rf01927</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт." unit="шт">20</consist>
     </offer>
-    <offer id="Rf6444">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf6444" available="true">
+      <categoryId>37</categoryId>
       <name>Ирис Синий 40 см Арт. Rf6444</name>
       <price>55</price>
       <qty>75</qty>
@@ -843,10 +758,8 @@
       <param name="Артикул">Rf6444</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Rf7316">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7316" available="true">
+      <categoryId>37</categoryId>
       <name>Калла Голд Медал 60 см Арт. Rf7316</name>
       <price>132</price>
       <qty>60</qty>
@@ -859,10 +772,8 @@
       <param name="Артикул">Rf7316</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf01057">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf01057" available="true">
+      <categoryId>37</categoryId>
       <name>Кампанула Чемпион Блу 70 см Арт. Rf01057</name>
       <price>134</price>
       <qty>90</qty>
@@ -880,10 +791,8 @@
       <param name="Артикул">Rf01057</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf7608">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7608" available="true">
+      <categoryId>37</categoryId>
       <name>Куэркас Рубра 80 см Арт. Rf7608</name>
       <price>48</price>
       <qty>240</qty>
@@ -895,10 +804,8 @@
       <param name="Артикул">Rf7608</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт." unit="шт">20</consist>
     </offer>
-    <offer id="Rf3738">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf3738" available="true">
+      <categoryId>37</categoryId>
       <name>Нутан Мэн Зест 80 см Арт. Rf3738</name>
       <price>205</price>
       <qty>14</qty>
@@ -916,10 +823,8 @@
       <param name="Артикул">Rf3738</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf01165">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf01165" available="true">
+      <categoryId>37</categoryId>
       <name>Орнитогалум Турсордес 50 см Арт. Rf01165</name>
       <price>76</price>
       <qty>90</qty>
@@ -938,10 +843,8 @@
       <param name="Артикул">Rf01165</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf00607">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf00607" available="true">
+      <categoryId>37</categoryId>
       <name>Подсолнух Желтый 70 см Арт. Rf00607</name>
       <price>73</price>
       <qty>50</qty>
@@ -959,10 +862,8 @@
       <param name="Артикул">Rf00607</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
     </offer>
-    <offer id="Rf5446">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf5446" available="true">
+      <categoryId>37</categoryId>
       <name>Рускус Ruskus 60 см Арт. Rf5446</name>
       <price>35</price>
       <qty>60</qty>
@@ -979,10 +880,8 @@
       <param name="Артикул">Rf5446</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт." unit="шт">20</consist>
     </offer>
-    <offer id="Rf5094">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf5094" available="true">
+      <categoryId>37</categoryId>
       <name>Скиммия рубелла 45 см Арт. Rf5094</name>
       <price>536</price>
       <qty>10</qty>
@@ -1000,10 +899,8 @@
       <param name="Артикул">Rf5094</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт." unit="шт">1</consist>
     </offer>
-    <offer id="Rf6348">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf6348" available="true">
+      <categoryId>37</categoryId>
       <name>Тласпи Грин Белл 80 см Арт. Rf6348</name>
       <price>159</price>
       <qty>75</qty>
@@ -1017,10 +914,8 @@
       <param name="Артикул">Rf6348</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
-    <offer id="Rf03175">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf03175" available="true">
+      <categoryId>37</categoryId>
       <name>Фрезия Ду Солеил 52 см Арт. Rf03175</name>
       <price>88</price>
       <qty>100</qty>
@@ -1039,10 +934,8 @@
       <param name="Артикул">Rf03175</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт." unit="шт">50</consist>
     </offer>
-    <offer id="Rf7226">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf7226" available="true">
+      <categoryId>37</categoryId>
       <name>Эустома Гев Алиса Вайт 60 см Арт. Rf7226</name>
       <price>200</price>
       <qty>20</qty>
@@ -1055,10 +948,8 @@
       <param name="Артикул">Rf7226</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf5346">
-      <categories>
-        <category id="37">Цветы</category>
-      </categories>
+    <offer id="Rf5346" available="true">
+      <categoryId>37</categoryId>
       <name>Эустома Микс 60 см Арт. Rf5346</name>
       <price>210</price>
       <qty>300</qty>
@@ -1074,10 +965,8 @@
       <param name="Артикул">Rf5346</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf01577">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Rf01577" available="true">
+      <categoryId>38</categoryId>
       <name>Асклепиас Инкарната 70 см Арт. Rf01577</name>
       <price>55</price>
       <qty>50</qty>
@@ -1091,10 +980,8 @@
       <param name="Артикул">Rf01577</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
-    <offer id="Rf02557">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Rf02557" available="true">
+      <categoryId>38</categoryId>
       <name>Куэркас Рубра Клеурбеханделд 70 см Арт. Rf02557</name>
       <price>48</price>
       <qty>70</qty>
@@ -1107,10 +994,8 @@
       <param name="Артикул">Rf02557</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт." unit="шт">20</consist>
     </offer>
-    <offer id="Rf02606">
-      <categories>
-        <category id="38">Зелень</category>
-      </categories>
+    <offer id="Rf02606" available="true">
+      <categoryId>38</categoryId>
       <name>Симфорикарпус Маг Вхи Дреам 60 см Арт. Rf02606</name>
       <price>174</price>
       <qty>130</qty>
