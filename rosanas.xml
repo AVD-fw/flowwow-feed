@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T15:02:49.864+03:00">
+<yml_catalog date="2025-09-27T15:06:23.414+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -2531,20 +2531,6 @@
       <param name="Артикул">Rs03096</param>
       <consist name="Роза кустовая пионовидная Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
-    <offer id="Rs3747" available="false">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Розовый 70 см Арт. Rs3747</name>
-      <price>997</price>
-      <qty>0</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1aJN_hnSoKivUGezM-6nnYiTGsmxDMdcO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Jk2kG4MSU_hXswepsqDk09RE9Yr4uZ0m</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs3747</param>
-      <consist name="Хризантема одноголовая" unit="шт">10</consist>
-    </offer>
     <offer id="Rs3817" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Коричневый 70 см Арт. Rs3817</name>
@@ -2570,6 +2556,20 @@
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5667</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs3747" available="false">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Розовый 70 см Арт. Rs3747</name>
+      <price>997</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aJN_hnSoKivUGezM-6nnYiTGsmxDMdcO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jk2kG4MSU_hXswepsqDk09RE9Yr4uZ0m</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs3747</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
     <offer id="Rs00877" available="true">
@@ -3364,6 +3364,20 @@
       <param name="Артикул">Rs00187</param>
       <consist name="Альстромерия" unit="шт">10</consist>
     </offer>
+    <offer id="Rs6677" available="false">
+      <categoryId>37</categoryId>
+      <name>Альстромерия Белый 75 см Арт. Rs6677</name>
+      <price>997</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h5tq7PIzxpyN2ZKGUR6bLJz76kHVt5RJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1anFQ2UQtLdd8jtou-ij4CdRPXIrOgL4R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs6677</param>
+      <consist name="Альстромерия" unit="шт">10</consist>
+    </offer>
     <offer id="Rs3667" available="false">
       <categoryId>37</categoryId>
       <name>Альстромерия Розовый 70 см Арт. Rs3667</name>
@@ -3482,20 +3496,6 @@
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5586</param>
-      <consist name="Альстромерия" unit="шт">10</consist>
-    </offer>
-    <offer id="Rs6677" available="false">
-      <categoryId>37</categoryId>
-      <name>Альстромерия Белый 75 см Арт. Rs6677</name>
-      <price>997</price>
-      <qty>0</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1h5tq7PIzxpyN2ZKGUR6bLJz76kHVt5RJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1anFQ2UQtLdd8jtou-ij4CdRPXIrOgL4R</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">75</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs6677</param>
       <consist name="Альстромерия" unit="шт">10</consist>
     </offer>
     <offer id="Rs00197" available="false">
@@ -5440,20 +5440,6 @@
       <param name="Артикул">Rs03599</param>
       <consist name="Глориоза Экзот Орандж" unit="шт">5</consist>
     </offer>
-    <offer id="Rs5369" available="false">
-      <categoryId>37</categoryId>
-      <name>Гортензия Зеленый 99 см Арт. Rs5369</name>
-      <price>997</price>
-      <qty>0</qty>
-      <quantity_in_package>99</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1VpDN790zVcV-8y8WXE-GcUgCy0AmxGt9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1S6Q1ZVLBtAIm-1ffeDDKiLpLbHHUGWVG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
-      <param name="Высота, см">99</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs5369</param>
-      <consist name="Гортензия" unit="шт">99</consist>
-    </offer>
     <offer id="Rs5969" available="false">
       <categoryId>37</categoryId>
       <name>Гортензия Белый 99 см Арт. Rs5969</name>
@@ -5466,6 +5452,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5969</param>
       <consist name="Гортензия" unit="шт">99</consist>
+    </offer>
+    <offer id="Rs5369" available="false">
+      <categoryId>37</categoryId>
+      <name>Гортензия Верена Роден 99 см Арт. Rs5369</name>
+      <price>997</price>
+      <qty>0</qty>
+      <quantity_in_package>99</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VpDN790zVcV-8y8WXE-GcUgCy0AmxGt9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S6Q1ZVLBtAIm-1ffeDDKiLpLbHHUGWVG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
+      <param name="Высота, см">99</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs5369</param>
+      <consist name="Гортензия Верена Роден" unit="шт">99</consist>
     </offer>
     <offer id="Rs02075" available="false">
       <categoryId>37</categoryId>
@@ -7227,20 +7227,6 @@
       <param name="Артикул">Rs5279</param>
       <consist name="Эустома" unit="шт">99</consist>
     </offer>
-    <offer id="Rs6046" available="false">
-      <categoryId>37</categoryId>
-      <name>Эустома Фиолетовый 60 см Арт. Rs6046</name>
-      <price>997</price>
-      <qty>0</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1hMa9eLa-h__nZROH9TQocns2jFtDaaCS</picture>
-      <picture>https://lh3.googleusercontent.com/d/15yw5h3v4FsbKM3cG7QWljGW03y5H36kO</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs6046</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
     <offer id="Rs6056" available="false">
       <categoryId>37</categoryId>
       <name>Эустома Белый 60 см Арт. Rs6056</name>
@@ -7403,6 +7389,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5266</param>
       <consist name="Эустома Джи Джулиос Грапе" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs6046" available="false">
+      <categoryId>37</categoryId>
+      <name>Эустома Краснодар 60 см Арт. Rs6046</name>
+      <price>997</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hMa9eLa-h__nZROH9TQocns2jFtDaaCS</picture>
+      <picture>https://lh3.googleusercontent.com/d/15yw5h3v4FsbKM3cG7QWljGW03y5H36kO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs6046</param>
+      <consist name="Эустома Краснодар" unit="шт">10</consist>
     </offer>
     <offer id="Rs6246" available="false">
       <categoryId>37</categoryId>
