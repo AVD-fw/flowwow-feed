@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T10:50:08.059+03:00">
+<yml_catalog date="2025-09-27T10:51:42.975+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
     <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <categories>
+      <category id="1">Роза одноголовая</category>
+      <category id="2">Роза одноголовая пионовидная</category>
+      <category id="3">Роза кустовая</category>
+      <category id="4">Роза кустовая пионовидная</category>
+      <category id="5">Хризантема одноголовая</category>
+      <category id="6">Хризантема кустовая</category>
       <category id="37">Цветы</category>
       <category id="38">Зелень</category>
     </categories>
     <offers>
     <offer id="Rf02834" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланж 40 см Арт. Rf02834</name>
       <price>58</price>
       <qty>0</qty>
@@ -27,7 +33,7 @@
       <consist name="Роза одноголовая Аваланж" unit="шт">10</consist>
     </offer>
     <offer id="Rf02016" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Баблгам 60 см Арт. Rf02016</name>
       <price>116</price>
       <qty>0</qty>
@@ -42,7 +48,7 @@
       <consist name="Роза одноголовая Баблгам" unit="шт">10</consist>
     </offer>
     <offer id="Rf00104" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Вайт Найт 40 см Арт. Rf00104</name>
       <price>45</price>
       <qty>0</qty>
@@ -59,7 +65,7 @@
       <consist name="Роза одноголовая Вайт Найт" unit="шт">10</consist>
     </offer>
     <offer id="Rf02814" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Ивана 40 см Арт. Rf02814</name>
       <price>58</price>
       <qty>0</qty>
@@ -73,7 +79,7 @@
       <consist name="Роза одноголовая Ивана" unit="шт">10</consist>
     </offer>
     <offer id="Rf02876" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Карина 60 см Арт. Rf02876</name>
       <price>122</price>
       <qty>0</qty>
@@ -88,7 +94,7 @@
       <consist name="Роза одноголовая Карина" unit="шт">10</consist>
     </offer>
     <offer id="Rf7717" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Кендал Лайт 70 см Арт. Rf7717</name>
       <price>145</price>
       <qty>0</qty>
@@ -102,7 +108,7 @@
       <consist name="Роза одноголовая Кендал Лайт" unit="шт">10</consist>
     </offer>
     <offer id="Rf7615" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Манд-Алла 50 см Арт. Rf7615</name>
       <price>131</price>
       <qty>0</qty>
@@ -116,7 +122,7 @@
       <consist name="Роза одноголовая Манд-Алла" unit="шт">15</consist>
     </offer>
     <offer id="Rf03114" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Пенни Лейн 40 см Арт. Rf03114</name>
       <price>64</price>
       <qty>0</qty>
@@ -130,7 +136,7 @@
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
     </offer>
     <offer id="Rf00795" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Пич Аваланж 50 см Арт. Rf00795</name>
       <price>53</price>
       <qty>0</qty>
@@ -144,7 +150,7 @@
       <consist name="Роза одноголовая Пич Аваланж" unit="шт">10</consist>
     </offer>
     <offer id="Rf01686" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Пич Аваланж 60 см Арт. Rf01686</name>
       <price>66</price>
       <qty>0</qty>
@@ -158,7 +164,7 @@
       <consist name="Роза одноголовая Пич Аваланж" unit="шт">10</consist>
     </offer>
     <offer id="Rf03065" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Пурпур 50 см Арт. Rf03065</name>
       <price>60</price>
       <qty>0</qty>
@@ -176,7 +182,7 @@
       <consist name="Роза одноголовая Пурпур" unit="шт">10</consist>
     </offer>
     <offer id="Rf5478" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Свиитнес 80 см Арт. Rf5478</name>
       <price>135</price>
       <qty>25</qty>
@@ -192,7 +198,7 @@
       <consist name="Роза одноголовая Свиитнес" unit="шт">25</consist>
     </offer>
     <offer id="Rf01757" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>1</categoryId>
       <name>Роза одноголовая Шиммер 70 см Арт. Rf01757</name>
       <price>148</price>
       <qty>0</qty>
@@ -206,7 +212,7 @@
       <consist name="Роза одноголовая Шиммер" unit="шт">25</consist>
     </offer>
     <offer id="Rf04286" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Баблгам 60 см Арт. Rf04286</name>
       <price>116</price>
       <qty>0</qty>
@@ -222,7 +228,7 @@
       <consist name="Роза одноголовая пионовидная Баблгам" unit="шт">10</consist>
     </offer>
     <offer id="Rf02007" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Присцилла 70 см Арт. Rf02007</name>
       <price>218</price>
       <qty>0</qty>
@@ -238,7 +244,7 @@
       <consist name="Роза одноголовая пионовидная Присцилла" unit="шт">10</consist>
     </offer>
     <offer id="Rf4226" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Редженст Парк 60 см Арт. Rf4226</name>
       <price>218</price>
       <qty>0</qty>
@@ -253,7 +259,7 @@
       <consist name="Роза одноголовая пионовидная Редженст Парк" unit="шт">10</consist>
     </offer>
     <offer id="Rf7655" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Шифон 50 см Арт. Rf7655</name>
       <price>189</price>
       <qty>0</qty>
@@ -267,7 +273,7 @@
       <consist name="Роза одноголовая пионовидная Шифон" unit="шт">10</consist>
     </offer>
     <offer id="Rf03026" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Барбадос 60 см Арт. Rf03026</name>
       <price>153</price>
       <qty>0</qty>
@@ -282,7 +288,7 @@
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
     </offer>
     <offer id="Rf4905" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Микс 50 см Арт. Rf4905</name>
       <price>290</price>
       <qty>0</qty>
@@ -297,7 +303,7 @@
       <consist name="Роза кустовая Микс" unit="шт">5</consist>
     </offer>
     <offer id="Rf4098" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Йо Йо 80 см Арт. Rf4098</name>
       <price>149</price>
       <qty>0</qty>
@@ -311,7 +317,7 @@
       <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
     </offer>
     <offer id="Rf04265" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Софи 50 см Арт. Rf04265</name>
       <price>290</price>
       <qty>0</qty>
@@ -328,7 +334,7 @@
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="Rf04506" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Софи 60 см Арт. Rf04506</name>
       <price>421</price>
       <qty>0</qty>
@@ -346,7 +352,7 @@
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="Rf7675" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Софи 50 см Арт. Rf7675</name>
       <price>421</price>
       <qty>0</qty>
@@ -360,7 +366,7 @@
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="Rf6506" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Таня 60 см Арт. Rf6506</name>
       <price>290</price>
       <qty>20</qty>
@@ -377,7 +383,7 @@
       <consist name="Роза кустовая Таня" unit="шт">10</consist>
     </offer>
     <offer id="Rf02944" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>3</categoryId>
       <name>Роза кустовая Фиеста 40 см Арт. Rf02944</name>
       <price>80</price>
       <qty>0</qty>
@@ -393,7 +399,7 @@
       <consist name="Роза кустовая Фиеста" unit="шт">10</consist>
     </offer>
     <offer id="Rf04366" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Бомбастик 60 см Арт. Rf04366</name>
       <price>421</price>
       <qty>0</qty>
@@ -412,7 +418,7 @@
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Rf04436" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Лавандер Бабблс 60 см Арт. Rf04436</name>
       <price>421</price>
       <qty>0</qty>
@@ -430,7 +436,7 @@
       <consist name="Роза кустовая пионовидная Лавандер Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Rf01825" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Rf01825</name>
       <price>290</price>
       <qty>80</qty>
@@ -445,7 +451,7 @@
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Rf02025" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Rf02025</name>
       <price>290</price>
       <qty>150</qty>
@@ -468,7 +474,7 @@
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Rf04275" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rf04275</name>
       <price>290</price>
       <qty>40</qty>
@@ -487,7 +493,7 @@
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Rf04466" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 60 см Арт. Rf04466</name>
       <price>421</price>
       <qty>0</qty>
@@ -503,7 +509,7 @@
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Rf7584" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 40 см Арт. Rf7584</name>
       <price>421</price>
       <qty>100</qty>
@@ -518,7 +524,7 @@
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">20</consist>
     </offer>
     <offer id="Rf02995" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мансфилд Парк 50 см Арт. Rf02995</name>
       <price>305</price>
       <qty>55</qty>
@@ -539,7 +545,7 @@
       <consist name="Роза кустовая пионовидная Мансфилд Парк" unit="шт">5</consist>
     </offer>
     <offer id="Rf4135" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мансфилд Парк Пинк 50 см Арт. Rf4135</name>
       <price>305</price>
       <qty>25</qty>
@@ -558,7 +564,7 @@
       <consist name="Роза кустовая пионовидная Мансфилд Парк Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Rf02904" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мелодия 40 см Арт. Rf02904</name>
       <price>80</price>
       <qty>0</qty>
@@ -573,7 +579,7 @@
       <consist name="Роза кустовая пионовидная Мелодия" unit="шт">10</consist>
     </offer>
     <offer id="Rf4925" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Микс Кустовые 50 см Арт. Rf4925</name>
       <price>290</price>
       <qty>0</qty>
@@ -590,7 +596,7 @@
       <consist name="Роза кустовая пионовидная Микс Кустовые" unit="шт">5</consist>
     </offer>
     <offer id="Rf00635" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мисс Пиони 50 см Арт. Rf00635</name>
       <price>248</price>
       <qty>0</qty>
@@ -607,7 +613,7 @@
       <consist name="Роза кустовая пионовидная Мисс Пиони" unit="шт">10</consist>
     </offer>
     <offer id="Rf7695" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мисти Баблс 50 см Арт. Rf7695</name>
       <price>407</price>
       <qty>0</qty>
@@ -621,7 +627,7 @@
       <consist name="Роза кустовая пионовидная Мисти Баблс" unit="шт">10</consist>
     </offer>
     <offer id="Rf01725" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Пинк Дедикейшн 50 см Арт. Rf01725</name>
       <price>202</price>
       <qty>0</qty>
@@ -635,7 +641,7 @@
       <consist name="Роза кустовая пионовидная Пинк Дедикейшн" unit="шт">10</consist>
     </offer>
     <offer id="Rf4915" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Пиони Бабблс 50 см Арт. Rf4915</name>
       <price>218</price>
       <qty>50</qty>
@@ -655,7 +661,7 @@
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Rf6926" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Пиони Бабблс 60 см Арт. Rf6926</name>
       <price>290</price>
       <qty>0</qty>
@@ -669,7 +675,7 @@
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Rf6935" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Роял Блаш 50 см Арт. Rf6935</name>
       <price>290</price>
       <qty>30</qty>
@@ -685,7 +691,7 @@
       <consist name="Роза кустовая пионовидная Роял Блаш" unit="шт">5</consist>
     </offer>
     <offer id="Rf03005" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Роял Парк 50 см Арт. Rf03005</name>
       <price>290</price>
       <qty>75</qty>
@@ -705,7 +711,7 @@
       <consist name="Роза кустовая пионовидная Роял Парк" unit="шт">5</consist>
     </offer>
     <offer id="Rf04335" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Сильва Пинк 50 см Арт. Rf04335</name>
       <price>305</price>
       <qty>40</qty>
@@ -727,7 +733,7 @@
       <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Rf04386" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Скарлет Дименшион 60 см Арт. Rf04386</name>
       <price>290</price>
       <qty>0</qty>
@@ -744,7 +750,7 @@
       <consist name="Роза кустовая пионовидная Скарлет Дименшион" unit="шт">10</consist>
     </offer>
     <offer id="Rf00877" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Алемани 70 см Арт. Rf00877</name>
       <price>191</price>
       <qty>60</qty>
@@ -763,7 +769,7 @@
       <consist name="Хризантема одноголовая Алемани" unit="шт">10</consist>
     </offer>
     <offer id="Rf02387" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Алибаба 70 см Арт. Rf02387</name>
       <price>179</price>
       <qty>0</qty>
@@ -779,7 +785,7 @@
       <consist name="Хризантема одноголовая Алибаба" unit="шт">10</consist>
     </offer>
     <offer id="Rf01977" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Rf01977</name>
       <price>200</price>
       <qty>20</qty>
@@ -802,7 +808,7 @@
       <consist name="Хризантема одноголовая Бальтазар Интен" unit="шт">10</consist>
     </offer>
     <offer id="Rf5087" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бигуди Пурпур 75 см Арт. Rf5087</name>
       <price>282</price>
       <qty>0</qty>
@@ -816,7 +822,7 @@
       <consist name="Хризантема одноголовая Бигуди Пурпур" unit="шт">10</consist>
     </offer>
     <offer id="Rf6997" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Вайт Ребонет 75 см Арт. Rf6997</name>
       <price>189</price>
       <qty>150</qty>
@@ -831,7 +837,7 @@
       <consist name="Хризантема одноголовая Вайт Ребонет" unit="шт">10</consist>
     </offer>
     <offer id="Rf5227" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Виенна 70 см Арт. Rf5227</name>
       <price>250</price>
       <qty>0</qty>
@@ -849,7 +855,7 @@
       <consist name="Хризантема одноголовая Виенна" unit="шт">10</consist>
     </offer>
     <offer id="Rf7518" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Деко 80 см Арт. Rf7518</name>
       <price>189</price>
       <qty>0</qty>
@@ -865,7 +871,7 @@
       <consist name="Хризантема одноголовая Деко" unit="шт">10</consist>
     </offer>
     <offer id="Rf03498" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Дж Виенна 85 см Арт. Rf03498</name>
       <price>269</price>
       <qty>0</qty>
@@ -880,7 +886,7 @@
       <consist name="Хризантема одноголовая Дж Виенна" unit="шт">10</consist>
     </offer>
     <offer id="Rf03527" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Дж Виенна 70 см Арт. Rf03527</name>
       <price>282</price>
       <qty>0</qty>
@@ -896,7 +902,7 @@
       <consist name="Хризантема одноголовая Дж Виенна" unit="шт">10</consist>
     </offer>
     <offer id="Rf7367" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи Бальтазар 70 см Арт. Rf7367</name>
       <price>162</price>
       <qty>40</qty>
@@ -911,7 +917,7 @@
       <consist name="Хризантема одноголовая Джи Бальтазар" unit="шт">10</consist>
     </offer>
     <offer id="Rf7377" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи Момоко 70 см Арт. Rf7377</name>
       <price>183</price>
       <qty>0</qty>
@@ -925,7 +931,7 @@
       <consist name="Хризантема одноголовая Джи Момоко" unit="шт">10</consist>
     </offer>
     <offer id="Rf6467" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи Роксо 70 см Арт. Rf6467</name>
       <price>200</price>
       <qty>0</qty>
@@ -941,7 +947,7 @@
       <consist name="Хризантема одноголовая Джи Роксо" unit="шт">10</consist>
     </offer>
     <offer id="Rf5077" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи Супер Боул 70 см Арт. Rf5077</name>
       <price>195</price>
       <qty>0</qty>
@@ -955,7 +961,7 @@
       <consist name="Хризантема одноголовая Джи Супер Боул" unit="шт">10</consist>
     </offer>
     <offer id="Rf4877" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Зеленая 70 см Арт. Rf4877</name>
       <price>119</price>
       <qty>40</qty>
@@ -972,7 +978,7 @@
       <consist name="Хризантема одноголовая Зеленая" unit="шт">10</consist>
     </offer>
     <offer id="Rf3857" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Ламира 70 см Арт. Rf3857</name>
       <price>195</price>
       <qty>0</qty>
@@ -985,7 +991,7 @@
       <consist name="Хризантема одноголовая Ламира" unit="шт">10</consist>
     </offer>
     <offer id="Rf02337" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Rf02337</name>
       <price>167</price>
       <qty>0</qty>
@@ -999,7 +1005,7 @@
       <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
     </offer>
     <offer id="Rf02327" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум йеллоу 70 см Арт. Rf02327</name>
       <price>167</price>
       <qty>130</qty>
@@ -1019,7 +1025,7 @@
       <consist name="Хризантема одноголовая Магнум йеллоу" unit="шт">10</consist>
     </offer>
     <offer id="Rf00887" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Пип 70 см Арт. Rf00887</name>
       <price>183</price>
       <qty>0</qty>
@@ -1034,7 +1040,7 @@
       <consist name="Хризантема одноголовая Пип" unit="шт">10</consist>
     </offer>
     <offer id="Rf03517" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Ражая 70 см Арт. Rf03517</name>
       <price>282</price>
       <qty>0</qty>
@@ -1050,7 +1056,7 @@
       <consist name="Хризантема одноголовая Ражая" unit="шт">10</consist>
     </offer>
     <offer id="Rf00847" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Шарлотте 70 см Арт. Rf00847</name>
       <price>190</price>
       <qty>70</qty>
@@ -1070,7 +1076,7 @@
       <consist name="Хризантема одноголовая Росс Шарлотте" unit="шт">10</consist>
     </offer>
     <offer id="Rf02317" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. Rf02317</name>
       <price>162</price>
       <qty>160</qty>
@@ -1093,7 +1099,7 @@
       <consist name="Хризантема одноголовая Росс Элизабетт" unit="шт">10</consist>
     </offer>
     <offer id="Rf00837" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Россано Роуз 70 см Арт. Rf00837</name>
       <price>183</price>
       <qty>0</qty>
@@ -1108,7 +1114,7 @@
       <consist name="Хризантема одноголовая Россано Роуз" unit="шт">10</consist>
     </offer>
     <offer id="Rf04527" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Рыжая 70 см Арт. Rf04527</name>
       <price>282</price>
       <qty>0</qty>
@@ -1122,7 +1128,7 @@
       <consist name="Хризантема одноголовая Рыжая" unit="шт">10</consist>
     </offer>
     <offer id="Rf01527" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Тропикана 70 см Арт. Rf01527</name>
       <price>127</price>
       <qty>0</qty>
@@ -1137,7 +1143,7 @@
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
     </offer>
     <offer id="Rf02308" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая Фуего 80 см Арт. Rf02308</name>
       <price>282</price>
       <qty>30</qty>
@@ -1158,7 +1164,7 @@
       <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
     </offer>
     <offer id="Rf6978" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>5</categoryId>
       <name>Хризантема одноголовая G VIENNA 85 см Арт. Rf6978</name>
       <price>269</price>
       <qty>10</qty>
@@ -1174,7 +1180,7 @@
       <consist name="Хризантема одноголовая G VIENNA" unit="шт">10</consist>
     </offer>
     <offer id="Rf02197" available="false">
-      <categoryId>37</categoryId>
+      <categoryId>6</categoryId>
       <name>Хризантема кустовая Перпл стар 70 см Арт. Rf02197</name>
       <price>134</price>
       <qty>0</qty>
@@ -1190,7 +1196,7 @@
       <consist name="Хризантема кустовая Перпл стар" unit="шт">5</consist>
     </offer>
     <offer id="Rf7336" available="true">
-      <categoryId>37</categoryId>
+      <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 60 см Арт. Rf7336</name>
       <price>116</price>
       <qty>5</qty>
