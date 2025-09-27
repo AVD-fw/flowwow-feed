@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T12:05:59.950+03:00">
+<yml_catalog date="2025-09-27T12:09:02.636+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -420,7 +420,7 @@
       <param name="Артикул">Rs02876</param>
       <consist name="Роза одноголовая Карина" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7717" available="true">
+    <offer id="Rs7717" available="false">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Кендал Лайт 70 см Арт. Rs7717</name>
       <price>145</price>
@@ -492,7 +492,7 @@
       <param name="Артикул">Rs4974</param>
       <consist name="Роза одноголовая Лондон Ай" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7615" available="true">
+    <offer id="Rs7615" available="false">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Манд-Алла 50 см Арт. Rs7615</name>
       <price>131</price>
@@ -506,7 +506,7 @@
       <param name="Артикул">Rs7615</param>
       <consist name="Роза одноголовая Манд-Алла" unit="шт">15</consist>
     </offer>
-    <offer id="Rs7685" available="true">
+    <offer id="Rs7685" available="false">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Манд-Алла 50 см Арт. Rs7685</name>
       <price>997</price>
@@ -831,7 +831,7 @@
       <param name="Артикул">Rs00586</param>
       <consist name="Роза одноголовая Радужная" unit="шт">25</consist>
     </offer>
-    <offer id="Rs7615" available="true">
+    <offer id="Rs7615" available="false">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ревайвал 50 см Арт. Rs7615</name>
       <price>997</price>
@@ -1157,7 +1157,7 @@
       <param name="Артикул">Rs6946</param>
       <consist name="Роза одноголовая пионовидная Лондон Ай" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6905" available="true">
+    <offer id="Rs6905" available="false">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Микс Садовые 50 см Арт. Rs6905</name>
       <price>997</price>
@@ -1171,7 +1171,7 @@
       <param name="Артикул">Rs6905</param>
       <consist name="Роза одноголовая пионовидная Микс Садовые" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6956" available="true">
+    <offer id="Rs6956" available="false">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Микс Садовые 60 см Арт. Rs6956</name>
       <price>997</price>
@@ -1199,7 +1199,7 @@
       <param name="Артикул">Rs4046</param>
       <consist name="Роза одноголовая пионовидная Монммарт" unit="шт">10</consist>
     </offer>
-    <offer id="Rs02007" available="true">
+    <offer id="Rs02007" available="false">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Присцилла 70 см Арт. Rs02007</name>
       <price>218</price>
@@ -1215,7 +1215,7 @@
       <param name="Артикул">Rs02007</param>
       <consist name="Роза одноголовая пионовидная Присцилла" unit="шт">10</consist>
     </offer>
-    <offer id="Rs04417" available="true">
+    <offer id="Rs04417" available="false">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Присцилла 70 см Арт. Rs04417</name>
       <price>997</price>
@@ -1640,7 +1640,7 @@
       <param name="Артикул">Rs00685</param>
       <consist name="Роза кустовая Цунами" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7155" available="true">
+    <offer id="Rs7155" available="false">
       <categoryId>3</categoryId>
       <name>Роза кустовая Яна 50 см Арт. Rs7155</name>
       <price>997</price>
@@ -1654,7 +1654,7 @@
       <param name="Артикул">Rs7155</param>
       <consist name="Роза кустовая Яна" unit="шт">99</consist>
     </offer>
-    <offer id="Rs7554" available="true">
+    <offer id="Rs7554" available="false">
       <categoryId>3</categoryId>
       <name>Роза кустовая Яна 40 см Арт. Rs7554</name>
       <price>997</price>
@@ -2177,7 +2177,7 @@
       <param name="Артикул">Rs5505</param>
       <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">99</consist>
     </offer>
-    <offer id="Rs7695" available="true">
+    <offer id="Rs7695" available="false">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мисти Баблс 50 см Арт. Rs7695</name>
       <price>407</price>
@@ -2267,7 +2267,7 @@
       <param name="Артикул">Rs6926</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7564" available="true">
+    <offer id="Rs7564" available="false">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Прованс 40 см Арт. Rs7564</name>
       <price>997</price>
@@ -2297,7 +2297,7 @@
       <param name="Артикул">Rs4154</param>
       <consist name="Роза кустовая пионовидная Ракета" unit="шт">5</consist>
     </offer>
-    <offer id="Rs6896" available="true">
+    <offer id="Rs6896" available="false">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Роял Блаш 60 см Арт. Rs6896</name>
       <price>997</price>
@@ -2677,7 +2677,7 @@
       <param name="Артикул">Rs5227</param>
       <consist name="Хризантема одноголовая Виенна" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7508" available="true">
+    <offer id="Rs7508" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Деко 80 см Арт. Rs7508</name>
       <price>997</price>
@@ -2691,7 +2691,7 @@
       <param name="Артикул">Rs7508</param>
       <consist name="Хризантема одноголовая Деко" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7518" available="true">
+    <offer id="Rs7518" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Деко 80 см Арт. Rs7518</name>
       <price>189</price>
@@ -2753,7 +2753,7 @@
       <param name="Артикул">Rs7367</param>
       <consist name="Хризантема одноголовая Джи Бальтазар" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7377" available="true">
+    <offer id="Rs7377" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи Момоко 70 см Арт. Rs7377</name>
       <price>183</price>
@@ -2767,7 +2767,7 @@
       <param name="Артикул">Rs7377</param>
       <consist name="Хризантема одноголовая Джи Момоко" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6467" available="true">
+    <offer id="Rs6467" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи Роксо 70 см Арт. Rs6467</name>
       <price>200</price>
@@ -2783,7 +2783,7 @@
       <param name="Артикул">Rs6467</param>
       <consist name="Хризантема одноголовая Джи Роксо" unit="шт">10</consist>
     </offer>
-    <offer id="Rs5077" available="true">
+    <offer id="Rs5077" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи Супер Боул 70 см Арт. Rs5077</name>
       <price>195</price>
@@ -2797,7 +2797,7 @@
       <param name="Артикул">Rs5077</param>
       <consist name="Хризантема одноголовая Джи Супер Боул" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7347" available="true">
+    <offer id="Rs7347" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Джи фуего 72 см Арт. Rs7347</name>
       <price>997</price>
@@ -3020,7 +3020,7 @@
       <param name="Артикул">Rs04547</param>
       <consist name="Хризантема одноголовая Рыжая" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6607" available="true">
+    <offer id="Rs6607" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Супер Боул 70 см Арт. Rs6607</name>
       <price>997</price>
@@ -3033,7 +3033,7 @@
       <param name="Артикул">Rs6607</param>
       <consist name="Хризантема одноголовая Супер Боул" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7357" available="true">
+    <offer id="Rs7357" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Т Катинка 70 см Арт. Rs7357</name>
       <price>997</price>
@@ -3276,7 +3276,7 @@
       <param name="Артикул">Rs5405</param>
       <consist name="Хризантема Сантини Яин Янг" unit="шт">25</consist>
     </offer>
-    <offer id="Rs6399" available="true">
+    <offer id="Rs6399" available="false">
       <categoryId>37</categoryId>
       <name>мини краснодар 99 см Арт. Rs6399</name>
       <price>997</price>
@@ -3655,7 +3655,7 @@
       <param name="Артикул">Rs01517</param>
       <consist name="Альстромерия Элеганс" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6635" available="true">
+    <offer id="Rs6635" available="false">
       <categoryId>37</categoryId>
       <name>Альхемилла Робустика 55 см Арт. Rs6635</name>
       <price>997</price>
@@ -3681,7 +3681,7 @@
       <param name="Артикул">Rs6626</param>
       <consist name="Амарантус" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6647" available="true">
+    <offer id="Rs6647" available="false">
       <categoryId>37</categoryId>
       <name>Амарантус Кауд Мира 75 см Арт. Rs6647</name>
       <price>997</price>
@@ -3708,7 +3708,7 @@
       <param name="Артикул">Rs7407</param>
       <consist name="Амарантус Каудмира" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6317" available="true">
+    <offer id="Rs6317" available="false">
       <categoryId>37</categoryId>
       <name>Амарантус Ред Спайдер 75 см Арт. Rs6317</name>
       <price>997</price>
@@ -3721,7 +3721,7 @@
       <param name="Артикул">Rs6317</param>
       <consist name="Амарантус Ред Спайдер" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7044" available="true">
+    <offer id="Rs7044" available="false">
       <categoryId>37</categoryId>
       <name>Амарантус Gem 45 см Арт. Rs7044</name>
       <price>52</price>
@@ -5211,7 +5211,7 @@
       <param name="Артикул">Rs6988</param>
       <consist name="Гидрангия Мак Верена" unit="шт">5</consist>
     </offer>
-    <offer id="Rs7458" available="true">
+    <offer id="Rs7458" available="false">
       <categoryId>37</categoryId>
       <name>Гидрангия Мак Родео 80 см Арт. Rs7458</name>
       <price>997</price>
@@ -5399,7 +5399,7 @@
       <param name="Артикул">Rs01611</param>
       <consist name="Гладиолус Ред Баланс" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7469" available="true">
+    <offer id="Rs7469" available="false">
       <categoryId>37</categoryId>
       <name>Глориоза Род Ротшилд 90 см Арт. Rs7469</name>
       <price>997</price>
@@ -5539,7 +5539,7 @@
       <param name="Артикул">Rs6198</param>
       <consist name="Дельфиниум Ду Дев Плор" unit="шт">5</consist>
     </offer>
-    <offer id="Rs7256" available="true">
+    <offer id="Rs7256" available="false">
       <categoryId>37</categoryId>
       <name>Дельфиниум Ду Маг Ф Лаван 60 см Арт. Rs7256</name>
       <price>997</price>
@@ -5566,7 +5566,7 @@
       <param name="Артикул">Rs7269</param>
       <consist name="Дельфиниум Ел Маг Фскб ВБ" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6169" available="true">
+    <offer id="Rs6169" available="false">
       <categoryId>37</categoryId>
       <name>Дельфиниум Эль маг фаун ла 90 см Арт. Rs6169</name>
       <price>997</price>
@@ -5683,7 +5683,7 @@
       <param name="Артикул">Rs3908</param>
       <consist name="Калла Гем ин фертс" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7316" available="true">
+    <offer id="Rs7316" available="false">
       <categoryId>37</categoryId>
       <name>Калла Голд Медал 60 см Арт. Rs7316</name>
       <price>132</price>
@@ -5711,7 +5711,7 @@
       <param name="Артикул">Rs01004</param>
       <consist name="Калла Денвер" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6586" available="true">
+    <offer id="Rs6586" available="false">
       <categoryId>37</categoryId>
       <name>Калла Кантор 60 см Арт. Rs6586</name>
       <price>997</price>
@@ -5724,7 +5724,7 @@
       <param name="Артикул">Rs6586</param>
       <consist name="Калла Кантор" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6568" available="true">
+    <offer id="Rs6568" available="false">
       <categoryId>37</categoryId>
       <name>Калла Капитан Розетте 80 см Арт. Rs6568</name>
       <price>997</price>
@@ -5960,7 +5960,7 @@
       <param name="Артикул">Rs3847</param>
       <consist name="Клематис Лайт Пинк" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7608" available="true">
+    <offer id="Rs7608" available="false">
       <categoryId>37</categoryId>
       <name>Куэркас Рубра 80 см Арт. Rs7608</name>
       <price>48</price>
@@ -6001,7 +6001,7 @@
       <param name="Артикул">Rs6718</param>
       <consist name="Леукадендрон Саф Сансет" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6708" available="true">
+    <offer id="Rs6708" available="false">
       <categoryId>37</categoryId>
       <name>Лилия Ла Бриндиси 85 см Арт. Rs6708</name>
       <price>997</price>
@@ -6014,7 +6014,7 @@
       <param name="Артикул">Rs6708</param>
       <consist name="Лилия Ла Бриндиси" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6699" available="true">
+    <offer id="Rs6699" available="false">
       <categoryId>37</categoryId>
       <name>Лилия Ла Литоувен 95 см Арт. Rs6699</name>
       <price>997</price>
@@ -6168,7 +6168,7 @@
       <param name="Артикул">Rs4606</param>
       <consist name="Маттиола Стокс вайт" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7736" available="true">
+    <offer id="Rs7736" available="false">
       <categoryId>37</categoryId>
       <name>Маттиола Стокс Дип Роус 60 см Арт. Rs7736</name>
       <price>997</price>
@@ -6181,7 +6181,7 @@
       <param name="Артикул">Rs7736</param>
       <consist name="Маттиола Стокс Дип Роус" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7745" available="true">
+    <offer id="Rs7745" available="false">
       <categoryId>37</categoryId>
       <name>Маттиола Стокс Сильвер 55 см Арт. Rs7745</name>
       <price>997</price>
@@ -6563,7 +6563,7 @@
       <param name="Артикул">Rs01896</param>
       <consist name="Протея Сунароидес" unit="шт">1</consist>
     </offer>
-    <offer id="Rs7436" available="true">
+    <offer id="Rs7436" available="false">
       <categoryId>37</categoryId>
       <name>Роза Маг Рэд Каскаде 60 см Арт. Rs7436</name>
       <price>997</price>
@@ -6576,7 +6576,7 @@
       <param name="Артикул">Rs7436</param>
       <consist name="Роза Маг Рэд Каскаде" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6366" available="true">
+    <offer id="Rs6366" available="false">
       <categoryId>37</categoryId>
       <name>Роза Маг Эмэйзинг Фан 60 см Арт. Rs6366</name>
       <price>144</price>
@@ -7308,7 +7308,7 @@
       <param name="Артикул">Rs3897</param>
       <consist name="Эустома Алиса Грин" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6227" available="true">
+    <offer id="Rs6227" available="false">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Елоу 70 см Арт. Rs6227</name>
       <price>997</price>
@@ -7334,7 +7334,7 @@
       <param name="Артикул">Rs00947</param>
       <consist name="Эустома Алиса Лайт" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6237" available="true">
+    <offer id="Rs6237" available="false">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Роуз Пинк 70 см Арт. Rs6237</name>
       <price>997</price>
@@ -7360,7 +7360,7 @@
       <param name="Артикул">Rs5177</param>
       <consist name="Эустома Алиса Чампаг" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7226" available="true">
+    <offer id="Rs7226" available="false">
       <categoryId>37</categoryId>
       <name>Эустома Гев Алиса Вайт 60 см Арт. Rs7226</name>
       <price>200</price>
@@ -7374,7 +7374,7 @@
       <param name="Артикул">Rs7226</param>
       <consist name="Эустома Гев Алиса Вайт" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7237" available="true">
+    <offer id="Rs7237" available="false">
       <categoryId>37</categoryId>
       <name>Эустома Гев Алиса Чампагне 70 см Арт. Rs7237</name>
       <price>997</price>
@@ -7388,7 +7388,7 @@
       <param name="Артикул">Rs7237</param>
       <consist name="Эустома Гев Алиса Чампагне" unit="шт">10</consist>
     </offer>
-    <offer id="Rs5266" available="true">
+    <offer id="Rs5266" available="false">
       <categoryId>37</categoryId>
       <name>Эустома Джи Джулиос Грапе 60 см Арт. Rs5266</name>
       <price>211</price>
@@ -7462,7 +7462,7 @@
       <param name="Артикул">Rs5346</param>
       <consist name="Эустома Микс" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7597" available="true">
+    <offer id="Rs7597" available="false">
       <categoryId>37</categoryId>
       <name>Эустома Росан д Браун 70 см Арт. Rs7597</name>
       <price>997</price>
