@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T10:49:51.120+03:00">
+<yml_catalog date="2025-09-27T10:53:20.994+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -45,6 +45,23 @@
       <param name="Артикул">Цо00755</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
+    <offer id="Цо00776">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая Гуд Муд 60 см Арт. Цо00776</name>
+      <price>154</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OhUL-b9sHoFIzlvMcAFGyg--jL0UsHMH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wnwZl2P0nhKt3IBpeaB62HFL7fXVMXR5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tqvfOzzYLO0sgsChXcrxJe8uMZkHwy9M</picture>
+      <description>Гуд Муд</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо00776</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
     <offer id="Цо00795">
       <categories>
         <category id="37">Цветы</category>
@@ -85,6 +102,104 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Цо00816</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Цо00856">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Белый 60 см Арт. Цо00856</name>
+      <price>108</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wVE_tBsLQ06I0lQQYtD3HYOz9bTd7u4F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YHCfkkEhxRzDfY1XKMBkrCKr3I9udzkf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k1jsMmT5bnK_1Ki6VIqAIU4baTftacZH</picture>
+      <picture>https://lh3.googleusercontent.com/d/19DTnBTm-aIDxmqbVN6Hqk5Ps_qFzuXgM</picture>
+      <picture>https://lh3.googleusercontent.com/d/19yQdcDdiElihTpd-WcWIR1qid0QekY6h</picture>
+      <description>Хризантема кустовая Белый 60 см Арт. Цо00856</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Цо00856</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Цо00926">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Корона 60 см Арт. Цо00926</name>
+      <price>108</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pBrs32nEqjA3Y24lMT7vjnTiYtkIa_SL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WfCmCbExqGragSIvKK1tDyJs7CevQqnV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XZWdRdzgGrw5EBeCSivzLD1SCSmK16Nv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C-e1OrjlTgsxgh6u8FjFEWo2hHMKJvQY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MvveWEyutC5X96x_p7OqnSPn4DOf0TiK</picture>
+      <description>Корона</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Цо00926</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Цо00976">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема кустовая Зеленый 60 см Арт. Цо00976</name>
+      <price>90</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QTYQZ-OOi8vzIjXglvGopP86kA-U_Ilv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XY2EUhIQ01R3-RbsoD1rDkqlmztbjQnR</picture>
+      <description>Хризантема кустовая Зеленый 60 см Арт. Цо00976</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Цо00976</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт." unit="шт">5</consist>
+    </offer>
+    <offer id="Цо01075">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема Сантини Фиолетовый 50 см Арт. Цо01075</name>
+      <price>79</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ekAZd5utQpprxLusAAyw1iKeQHHAoi-E</picture>
+      <picture>https://lh3.googleusercontent.com/d/12YXzo4gNvd5atE6Ni8PvxRHzb-JBHSzw</picture>
+      <picture>https://lh3.googleusercontent.com/d/13ownJQYFFXcETF6XnyDAdQ7368G6pCio</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r_Tc21zF_A1LcL1bvASdKJwy0iboj5i2</picture>
+      <description>Хризантема Сантини Фиолетовый 50 см Арт. Цо01075</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо01075</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Цо01085">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема Сантини Розовый 50 см Арт. Цо01085</name>
+      <price>79</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CdDJKilZkjNiU_8O5I9F8u0ACuEkXb5I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XnUC3LA5OwBlr65rFH8H4rTS_b3E1TNm</picture>
+      <picture>https://lh3.googleusercontent.com/d/15o6n2Iv-nODhu3_NaWEghzxVtqMu8qPB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eowPhLOTTGZr3f572ja52T_JEeQHa_1J</picture>
+      <picture>https://lh3.googleusercontent.com/d/187j9_QpUvIiOL-Z5PIT6UhSh3SQ9Zf1b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MLhV0F4Y0suSykYZ54LLsCjMMUE4AJsO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1td3SQicaeurWHxrybk5nFqmf5iGLjjNP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bMe8Yx9D1WqNBwSSqIJRbCgG7N-oIAfP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ci402mfdhIXeeA5KRb5Lr7EGxBkLrV-Q</picture>
+      <description>Хризантема Сантини Розовый 50 см Арт. Цо01085</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Цо01085</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Цо01267">
       <categories>
@@ -236,6 +351,23 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Цо01505</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Цо01565">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Аваланш 50 см Арт. Цо01565</name>
+      <price>77</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nTAZLPcHptI6_EBAXZY_oom55U5FC-dh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X7XFnfqgo7jeHU8WW-XoWJe9Yw9oDDtb</picture>
+      <description>Аваланш</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия розы</param>
+      <param name="Артикул">Цо01565</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
     <offer id="Цо01597">
@@ -572,6 +704,23 @@
       <param name="Артикул">Цо02335</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
+    <offer id="Цо02507">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Ревайвл 70 см Арт. Цо02507</name>
+      <price>99</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BMZzppNt6r_Wc5rtP7TSQf33wYCQIzb0</picture>
+      <picture>https://lh3.googleusercontent.com/d/19Ni_yXElitNY0sDb4uR6Pe9skyagNNXf</picture>
+      <description>Ревайвл</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия розы</param>
+      <param name="Артикул">Цо02507</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
     <offer id="Цо02536">
       <categories>
         <category id="37">Цветы</category>
@@ -589,6 +738,40 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Линия розы</param>
       <param name="Артикул">Цо02536</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
+    </offer>
+    <offer id="Цо02577">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Вау 70 см Арт. Цо02577</name>
+      <price>99</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1o1KZzExw593Y6ONLqEYuSmNkBUaYQ5wu</picture>
+      <picture>https://lh3.googleusercontent.com/d/10hOXbQHVNtardsVLdngOPL8JmVh8PQFg</picture>
+      <description>Вау</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Цо02577</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт." unit="шт">15</consist>
+    </offer>
+    <offer id="Цо02975">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза кустовая Мадам Бомбастик 50 см Арт. Цо02975</name>
+      <price>171</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1u1GAQ0AXLwmrV9s8mKCuSAIU7CqdtBPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XRstkZlMnpENrbrwLMNzPN7OAWvjitGh</picture>
+      <description>Мадам Бомбастик</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Цо02975</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт." unit="шт">10</consist>
     </offer>
     <offer id="Цо0310">
@@ -690,6 +873,70 @@
       <param name="Производитель">Florigene</param>
       <param name="Артикул">Цо03167</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт." unit="шт">20</consist>
+    </offer>
+    <offer id="Цо0342">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема Сантини Ромашка 50 см Арт. Цо0342</name>
+      <price>77</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hTZoPyyvvaEnuapK4LFu6TivLvchfdCV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TNW4peEFhKMgdspm_6jzd7m9YX-Nvwdz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LbRSsK3e_paA8EPHwWS3yDCSHTe32A7h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lzUzk23Q6NQlSVTYz9JE720tHRcSD7tU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SZQS-EQ2vYbCLHe8jZxi-KLPJRrRvfOR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u-1o8Ob0aUGTjdLsxMcUrPdXV8WGyXza</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t1t1BL-N6f7BoBWMxBlAkbZ6JMUQyYe-</picture>
+      <description>Ромашка</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">de Landsheiding</param>
+      <param name="Артикул">Цо0342</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Цо0343">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема Сантини белый 50 см Арт. Цо0343</name>
+      <price>72</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZEOSwXQuHpy95pgsmumXXLxMl_BfNBjy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pl6Tj_2nEPPw_9ev17dMNg5YdN0tLh1r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z5TB_loihgBoH1uiP--0MPEKpmvVME5k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DEC4wDzY2zZQxPhBtutX_HtC5y4DJim-</picture>
+      <picture>https://lh3.googleusercontent.com/d/17C_jyN0pc-aZbh8NaxIlgSNzNc3ddCSz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LRsQFyXHK9otQ8eg2vdJVekK6qLYJAPB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KM-Ow26smQ1DEIC2w4rz85EJJGwERj2i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xMz-1oRQTCk_12GeN6jOG_94RUDJCons</picture>
+      <description>Хризантема Сантини белый 50 см Арт. Цо0343</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Цо0343</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Цо0344">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Хризантема Сантини Желтый 50 см Арт. Цо0344</name>
+      <price>72</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15iCZtQD7c3PwCq32BHszzehlrDsZAvtb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QBdflvJWk2NpZemyiJIyBuBMiZw184vG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hvTlb2N5LPUeb91wRGAYywRXX16ByxBG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C93XabYUhxcSAsC1k8s6Vos4nYe6MwhY</picture>
+      <description>Хризантема Сантини Желтый 50 см Арт. Цо0344</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Цо0344</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Цо03587">
       <categories>
@@ -1253,6 +1500,25 @@
       <param name="Страна">Колумбия</param>
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Цо6947</param>
+      <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
+    </offer>
+    <offer id="Цо7837">
+      <categories>
+        <category id="37">Цветы</category>
+      </categories>
+      <name>Роза одноголовая Плайя Бланка 70 см Арт. Цо7837</name>
+      <price>193</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1c_LoiSCHygj_iQbDeZYkG7exG3V8-qpv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E6tgF15CcevwoNNhIxg5ZShZsJIsNh4O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JA8iDILob534M8rjC_en2XMLaJUsdUS2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WxC_t5I0w1lNV7xdD_lvCPvmQ_4rcP2K</picture>
+      <description>Плайя Бланка</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose prime</param>
+      <param name="Артикул">Цо7837</param>
       <consist name="ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт." unit="шт">25</consist>
     </offer>
     <offer id="Цо9685">
