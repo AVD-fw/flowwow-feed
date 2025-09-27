@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T14:51:20.262+03:00">
+<yml_catalog date="2025-09-27T14:58:55.800+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -4832,7 +4832,7 @@
       <consist name="Дельфиниум Эль маг фаун ла" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Rs5819" available="false">
-      <name>Дуб Краснодар 99 шт 99 см Арт. Rs5819</name>
+      <name>Дуб 99 шт Коричневый 99 см Арт. Rs5819</name>
       <price>98705</price>
       <picture>https://lh3.googleusercontent.com/d/11MgmRp34_ThTsnW2NvGHjD8IUjNOHB_Y</picture>
       <picture>https://lh3.googleusercontent.com/d/1prbNtB1Esx0TGtjd4qVltF-3pIN1imwS</picture>
@@ -4841,9 +4841,10 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">99</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rs5819</param>
-      <consist name="Дуб Краснодар" unit="шт">99</consist>
+      <consist name="Дуб" unit="шт">99</consist>
     </offer>
     <offer id="B2C_Rs01935" available="false">
       <name>Ирис Блю Мэджик 49 шт 50 см Арт. Rs01935</name>
