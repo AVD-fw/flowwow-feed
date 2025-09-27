@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T11:11:25.967+03:00">
+<yml_catalog date="2025-09-27T11:16:34.063+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -22,12 +22,13 @@
       <name>Роза одноголовая Белый 50 см Арт. Rs548</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NaC50gUBtM1J6dWVvoN3QF52dB94EHY5</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs548</param>
-      <consist name="Роза одноголовая" unit="шт">1</consist>
+      <consist name="Роза одноголовая" unit="шт">99</consist>
     </offer>
     <offer id="Rs5498" available="true">
       <categoryId>1</categoryId>
@@ -352,13 +353,14 @@
       <name>Роза одноголовая Илиос 60 см Арт. Rs4006</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18PGPRMvbzGGMbVWX1AuBigWGNtFANj2j</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Ступино</param>
       <param name="Артикул">Rs4006</param>
-      <consist name="Роза одноголовая Илиос" unit="шт">1</consist>
+      <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
     </offer>
     <offer id="Rs02866" available="true">
       <categoryId>1</categoryId>
@@ -1643,13 +1645,14 @@
       <name>Роза кустовая Яна 50 см Арт. Rs7155</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1N3ptkGc7drdrbXrvMPfPSt8Ce13kktsd</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Rs7155</param>
-      <consist name="Роза кустовая Яна" unit="шт">1</consist>
+      <consist name="Роза кустовая Яна" unit="шт">99</consist>
     </offer>
     <offer id="Rs7554" available="true">
       <categoryId>3</categoryId>
@@ -1787,14 +1790,15 @@
       <name>Роза кустовая пионовидная Леденец 40 см Арт. Rs5054</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1B2OUk_SPF7uDXjTCAepDWlHr0--yLnop</picture>
       <picture>https://lh3.googleusercontent.com/d/1AYN90VMG-ThZP8GloVzvH5x7IiL8iJVS</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Rs5054</param>
-      <consist name="Роза кустовая пионовидная Леденец" unit="шт">1</consist>
+      <consist name="Роза кустовая пионовидная Леденец" unit="шт">99</consist>
     </offer>
     <offer id="Rs01825" available="true">
       <categoryId>4</categoryId>
@@ -1902,13 +1906,14 @@
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rs5005</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/144GNGGl_LYfMg1ou2QwST8G6MKPaAxin</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Rs5005</param>
-      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">1</consist>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">99</consist>
     </offer>
     <offer id="Rs7584" available="true">
       <categoryId>4</categoryId>
@@ -1970,27 +1975,29 @@
       <name>Роза кустовая пионовидная Марвелоу Баблз 60 см Арт. Rs4146</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wu3vyIgPxLXS8__QfrwpKL2uYy_byzep</picture>
       <picture>https://lh3.googleusercontent.com/d/13LeYgGCHp10VkyhvAEEUbs5lI8P1ksIg</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Rs4146</param>
-      <consist name="Роза кустовая пионовидная Марвелоу Баблз" unit="шт">1</consist>
+      <consist name="Роза кустовая пионовидная Марвелоу Баблз" unit="шт">10</consist>
     </offer>
     <offer id="Rs416" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Марвелоу Баблз 50 см Арт. Rs416</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/122F1HcvmE4y5P7PBuTAL8PKT-DuSx8GK</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Rs416</param>
-      <consist name="Роза кустовая пионовидная Марвелоу Баблз" unit="шт">1</consist>
+      <consist name="Роза кустовая пионовидная Марвелоу Баблз" unit="шт">10</consist>
     </offer>
     <offer id="Rs00437" available="true">
       <categoryId>4</categoryId>
@@ -2162,12 +2169,13 @@
       <name>Роза кустовая пионовидная Мисти Бабблс 50 см Арт. Rs5505</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NKmPLngu8a-GyFNmt6SMqQU6YiyIaeBf</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5505</param>
-      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">1</consist>
+      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">99</consist>
     </offer>
     <offer id="Rs7695" available="true">
       <categoryId>4</categoryId>
@@ -2528,13 +2536,14 @@
       <name>Хризантема одноголовая Розовый 70 см Арт. Rs3747</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aJN_hnSoKivUGezM-6nnYiTGsmxDMdcO</picture>
       <picture>https://lh3.googleusercontent.com/d/1Jk2kG4MSU_hXswepsqDk09RE9Yr4uZ0m</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs3747</param>
-      <consist name="Хризантема одноголовая" unit="шт">1</consist>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
     <offer id="Rs3817" available="true">
       <categoryId>5</categoryId>
@@ -3271,12 +3280,13 @@
       <name>мини краснодар 50 см Арт. Rs639</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/175IRAvj4DIJQZng884rB7k6Fiva3CIBU</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs639</param>
-      <consist name="мини краснодар" unit="шт">1</consist>
+      <consist name="мини краснодар" unit="шт">99</consist>
     </offer>
     <offer id="Rs5126" available="true">
       <categoryId>37</categoryId>
@@ -4053,14 +4063,15 @@
       <name>Гвоздика кустовая Умбра 60 см Арт. Rs5916</name>
       <price>55</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Jm3Rt-zfFjplQuaKU2ZgmLh_AP0SrhNB</picture>
       <picture>https://lh3.googleusercontent.com/d/1cYqI5xIBrCxLSzxlurZyfsTOHd3cohir</picture>
       <picture>https://lh3.googleusercontent.com/d/13OUrFMhIV3Pf969YPFgzFgkLIKZYX8qq</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5916</param>
-      <consist name="Гвоздика кустовая Умбра" unit="шт">1</consist>
+      <consist name="Гвоздика кустовая Умбра" unit="шт">99</consist>
     </offer>
     <offer id="Rs02155" available="true">
       <categoryId>37</categoryId>
@@ -4307,15 +4318,16 @@
       <name>Гвоздика одноголовая Микс 60 см Арт. Rs5906</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ePPRObnL_ekWd3NAemSTPZ_ElIxaSZeI</picture>
       <picture>https://lh3.googleusercontent.com/d/1DxF7OOXZWjZMm-THsXiadNqNcF1IN7Gw</picture>
       <picture>https://lh3.googleusercontent.com/d/1jfY1za7jufdjnZ89xu1nWXBpx-bp2gct</picture>
       <picture>https://lh3.googleusercontent.com/d/1-35oS-TIrGTr_JfkAFoXMh2VI-7wOKIL</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Колумбия</param>
       <param name="Артикул">Rs5906</param>
-      <consist name="Гвоздика одноголовая Микс" unit="шт">1</consist>
+      <consist name="Гвоздика одноголовая Микс" unit="шт">99</consist>
     </offer>
     <offer id="Rs00146" available="true">
       <categoryId>37</categoryId>
@@ -4965,12 +4977,13 @@
       <name>Гербера Красный 50 см Арт. Rs3785</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1oGma3OTkhTc4h2qa85sbnvTPTx_UzPti</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs3785</param>
-      <consist name="Гербера" unit="шт">1</consist>
+      <consist name="Гербера" unit="шт">10</consist>
     </offer>
     <offer id="Rs7295" available="true">
       <categoryId>37</categoryId>
@@ -5285,12 +5298,13 @@
       <name>Гипсофила Белый 50 см Арт. Rs523</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1600zpjpq5LD9nH2E4ssahuyClyHpEZGP</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs523</param>
-      <consist name="Гипсофила" unit="шт">1</consist>
+      <consist name="Гипсофила" unit="шт">99</consist>
     </offer>
     <offer id="Rs00378" available="true">
       <categoryId>37</categoryId>
@@ -5430,25 +5444,27 @@
       <name>Гортензия Зеленый 50 см Арт. Rs536</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VpDN790zVcV-8y8WXE-GcUgCy0AmxGt9</picture>
       <picture>https://lh3.googleusercontent.com/d/1S6Q1ZVLBtAIm-1ffeDDKiLpLbHHUGWVG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs536</param>
-      <consist name="Гортензия" unit="шт">1</consist>
+      <consist name="Гортензия" unit="шт">99</consist>
     </offer>
     <offer id="Rs596" available="true">
       <categoryId>37</categoryId>
       <name>Гортензия Белый 50 см Арт. Rs596</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GCwiDsm-_n6poqaEkzA2-uuAnOAyb6sH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs596</param>
-      <consist name="Гортензия" unit="шт">1</consist>
+      <consist name="Гортензия" unit="шт">99</consist>
     </offer>
     <offer id="Rs02075" available="true">
       <categoryId>37</categoryId>
@@ -5567,15 +5583,16 @@
       <name>Дуб Краснодар 50 см Арт. Rs581</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11MgmRp34_ThTsnW2NvGHjD8IUjNOHB_Y</picture>
       <picture>https://lh3.googleusercontent.com/d/1prbNtB1Esx0TGtjd4qVltF-3pIN1imwS</picture>
       <picture>https://lh3.googleusercontent.com/d/1lDdW7PbPTgDKkRL2WXNZ6IHYX8dlYQCP</picture>
       <picture>https://lh3.googleusercontent.com/d/1KvKSasQD6wQVJJuj_NDPOdqlYrIE1QpE</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs581</param>
-      <consist name="Дуб Краснодар" unit="шт">1</consist>
+      <consist name="Дуб Краснодар" unit="шт">99</consist>
     </offer>
     <offer id="Rs01935" available="true">
       <categoryId>37</categoryId>
@@ -6311,13 +6328,14 @@
       <name>Озотамнус Кукс Шоу Ви 50 см Арт. Rs577</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JU2FmSd1V5OhXIYgrafon71jWW15UTI9</picture>
       <picture>https://lh3.googleusercontent.com/d/1X0c342eabJnwgWl_gbqx9uNEC9PsgQ0e</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs577</param>
-      <consist name="Озотамнус Кукс Шоу Ви" unit="шт">1</consist>
+      <consist name="Озотамнус Кукс Шоу Ви" unit="шт">99</consist>
     </offer>
     <offer id="Rs02356" available="true">
       <categoryId>37</categoryId>
@@ -6467,12 +6485,13 @@
       <name>Подсолнух Желтый 50 см Арт. Rs687</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hvgwk-IzS4mGYfqLSysZEnbUwCyqzovp</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs687</param>
-      <consist name="Подсолнух" unit="шт">1</consist>
+      <consist name="Подсолнух" unit="шт">99</consist>
     </offer>
     <offer id="Rs4718" available="true">
       <categoryId>37</categoryId>
@@ -6575,12 +6594,13 @@
       <name>Роза Смирал гр шоу 50 см Арт. Rs583</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nK7EsKXWMBrg6St3RO94OsYGxqlUc76K</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs583</param>
-      <consist name="Роза Смирал гр шоу" unit="шт">1</consist>
+      <consist name="Роза Смирал гр шоу" unit="шт">99</consist>
     </offer>
     <offer id="Rs5446" available="true">
       <categoryId>37</categoryId>
@@ -7158,18 +7178,19 @@
       <name>Эустома Белый 60 см Арт. Rs03486</name>
       <price>1792</price>
       <qty>11</qty>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1boSius16f9TasLdwgzdIgSgPUwIwLzk9</picture>
       <picture>https://lh3.googleusercontent.com/d/1yHAw00NfHhiOnD3k6DOhHUG1oPCsqAyB</picture>
       <picture>https://lh3.googleusercontent.com/d/1fHipvQlW2-YgYiSPqOUAHRiSE4Ty9qG4</picture>
       <picture>https://lh3.googleusercontent.com/d/1Duwj5ts2EQ7wuX5P7FKmnXZNf4xTBdpE</picture>
       <picture>https://lh3.googleusercontent.com/d/1F2UeexaTuoquo-YwEp-v1wOocnbvEdhv</picture>
       <picture>https://lh3.googleusercontent.com/d/1-UAhmydq05KSELY7jgeLvqdZuEDZ_1Fu</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по пуч  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rs03486</param>
-      <consist name="Эустома" unit="шт">1</consist>
+      <consist name="Эустома" unit="шт">10</consist>
     </offer>
     <offer id="Rs3926" available="true">
       <categoryId>37</categoryId>
@@ -7195,13 +7216,14 @@
       <name>Эустома Белый 50 см Арт. Rs527</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>99</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1FeMuS-Trb16dMcWlLVCOi8O7Qr9lq3sD</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по пуч шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rs527</param>
-      <consist name="Эустома" unit="шт">1</consist>
+      <consist name="Эустома" unit="шт">99</consist>
     </offer>
     <offer id="Rs6046" available="true">
       <categoryId>37</categoryId>
@@ -7864,12 +7886,13 @@
       <name>Лимониум Фиолетовый 50 см Арт. Rs340</name>
       <price>997</price>
       <qty>11</qty>
+      <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EY5xOEYcPcKvnckaSzbuqmvMo5f0sc-B</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs340</param>
-      <consist name="Лимониум" unit="шт">1</consist>
+      <consist name="Лимониум" unit="шт">25</consist>
     </offer>
     <offer id="Rs01138" available="true">
       <categoryId>38</categoryId>
