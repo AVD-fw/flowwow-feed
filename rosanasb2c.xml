@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T15:02:56.935+03:00">
+<yml_catalog date="2025-09-27T15:06:30.401+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -2195,18 +2195,6 @@
       <param name="Артикул">Rs03096</param>
       <consist name="Роза кустовая пионовидная Флиртинг Бабблс" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Rs3747" available="false">
-      <name>Хризантема одноголовая 9 шт Розовый 70 см Арт. Rs3747</name>
-      <price>9970</price>
-      <picture>https://lh3.googleusercontent.com/d/1aJN_hnSoKivUGezM-6nnYiTGsmxDMdcO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Jk2kG4MSU_hXswepsqDk09RE9Yr4uZ0m</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs3747</param>
-      <consist name="Хризантема одноголовая" unit="шт">9</consist>
-    </offer>
     <offer id="B2C_Rs3817" available="false">
       <name>Хризантема одноголовая 9 шт Коричневый 70 см Арт. Rs3817</name>
       <price>9970</price>
@@ -2228,6 +2216,18 @@
       <param name="Ширина, см">15</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5667</param>
+      <consist name="Хризантема одноголовая" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Rs3747" available="false">
+      <name>Хризантема одноголовая 9 шт Розовый 70 см Арт. Rs3747</name>
+      <price>9970</price>
+      <picture>https://lh3.googleusercontent.com/d/1aJN_hnSoKivUGezM-6nnYiTGsmxDMdcO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jk2kG4MSU_hXswepsqDk09RE9Yr4uZ0m</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs3747</param>
       <consist name="Хризантема одноголовая" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Rs00877" available="false">
@@ -3022,18 +3022,6 @@
       <param name="Артикул">Rs5586</param>
       <consist name="Альстромерия" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Rs6677" available="false">
-      <name>Альстромерия 9 шт Белый 75 см Арт. Rs6677</name>
-      <price>9970</price>
-      <picture>https://lh3.googleusercontent.com/d/1h5tq7PIzxpyN2ZKGUR6bLJz76kHVt5RJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1anFQ2UQtLdd8jtou-ij4CdRPXIrOgL4R</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">75</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs6677</param>
-      <consist name="Альстромерия" unit="шт">9</consist>
-    </offer>
     <offer id="B2C_Rs00197" available="false">
       <name>Альстромерия  Аврора 9 шт 70 см Арт. Rs00197</name>
       <price>1050</price>
@@ -3089,7 +3077,7 @@
       <param name="Артикул">Rs01497</param>
       <consist name="Альстромерия Аврора" unit="шт">9</consist>
     </offer>
-    <offer id="rosanas_B2C_231" available="false">
+    <offer id="rosanas_B2C_230" available="false">
       <name>Альстромерия Вирджиния 9 шт 70 см</name>
       <price>1160</price>
       <picture>https://lh3.googleusercontent.com/d/1FjwSs7-GaYPPrcahqitDUBkMlfKnxADt</picture>
@@ -3097,6 +3085,18 @@
       <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Голландия</param>
+      <consist name="Альстромерия Вирджиния" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Rs6677" available="false">
+      <name>Альстромерия Вирджиния 9 шт 75 см Арт. Rs6677</name>
+      <price>9970</price>
+      <picture>https://lh3.googleusercontent.com/d/1h5tq7PIzxpyN2ZKGUR6bLJz76kHVt5RJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1anFQ2UQtLdd8jtou-ij4CdRPXIrOgL4R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs6677</param>
       <consist name="Альстромерия Вирджиния" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Rs01507" available="false">
@@ -4724,16 +4724,16 @@
       <consist name="Гортензия" unit="шт">99</consist>
     </offer>
     <offer id="B2C_Rs5369" available="false">
-      <name>Гортензия Верена Роден 99 шт 99 см Арт. Rs5369</name>
-      <price>98705</price>
+      <name>Гортензия Верена Роден 5 шт 99 см Арт. Rs5369</name>
+      <price>4985</price>
       <picture>https://lh3.googleusercontent.com/d/1VpDN790zVcV-8y8WXE-GcUgCy0AmxGt9</picture>
       <picture>https://lh3.googleusercontent.com/d/1S6Q1ZVLBtAIm-1ffeDDKiLpLbHHUGWVG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">99</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5369</param>
-      <consist name="Гортензия Верена Роден" unit="шт">99</consist>
+      <consist name="Гортензия Верена Роден" unit="шт">5</consist>
     </offer>
     <offer id="B2C_Rs02075" available="false">
       <name>Гортензия Премиум Блю 1 шт 50 см Арт. Rs02075</name>
@@ -6261,18 +6261,6 @@
       <param name="Артикул">Rs5279</param>
       <consist name="Эустома" unit="шт">99</consist>
     </offer>
-    <offer id="B2C_Rs6046" available="false">
-      <name>Эустома 9 шт Фиолетовый 60 см Арт. Rs6046</name>
-      <price>9970</price>
-      <picture>https://lh3.googleusercontent.com/d/1hMa9eLa-h__nZROH9TQocns2jFtDaaCS</picture>
-      <picture>https://lh3.googleusercontent.com/d/15yw5h3v4FsbKM3cG7QWljGW03y5H36kO</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs6046</param>
-      <consist name="Эустома" unit="шт">9</consist>
-    </offer>
     <offer id="B2C_Rs6056" available="false">
       <name>Эустома 9 шт Белый 60 см Арт. Rs6056</name>
       <price>9970</price>
@@ -6411,6 +6399,19 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5266</param>
       <consist name="Эустома Джи Джулиос Грапе" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Rs6046" available="false">
+      <name>Эустома Краснодар 9 шт 60 см Арт. Rs6046</name>
+      <price>9970</price>
+      <picture>https://lh3.googleusercontent.com/d/1hMa9eLa-h__nZROH9TQocns2jFtDaaCS</picture>
+      <picture>https://lh3.googleusercontent.com/d/15yw5h3v4FsbKM3cG7QWljGW03y5H36kO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Rs6046</param>
+      <consist name="Эустома Краснодар" unit="шт">9</consist>
     </offer>
     <offer id="B2C_Rs6246" available="false">
       <name>Эустома Краснодар 9 шт 60 см Арт. Rs6246</name>
