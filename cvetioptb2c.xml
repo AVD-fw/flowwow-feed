@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T10:49:55.905+03:00">
+<yml_catalog date="2025-09-27T10:53:23.479+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
     <offers>
+    <offer id="B2C_Цо01565">
+      <name>Роза одноголовая Аваланш 9 шт 50 см Арт. Цо01565</name>
+      <price>770</price>
+      <picture>https://lh3.googleusercontent.com/d/1nTAZLPcHptI6_EBAXZY_oom55U5FC-dh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X7XFnfqgo7jeHU8WW-XoWJe9Yw9oDDtb</picture>
+      <description>Аваланш</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия розы</param>
+      <param name="Артикул">Цо01565</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Цо02507">
+      <name>Роза одноголовая Ревайвл 9 шт 70 см Арт. Цо02507</name>
+      <price>990</price>
+      <picture>https://lh3.googleusercontent.com/d/1BMZzppNt6r_Wc5rtP7TSQf33wYCQIzb0</picture>
+      <picture>https://lh3.googleusercontent.com/d/19Ni_yXElitNY0sDb4uR6Pe9skyagNNXf</picture>
+      <description>Ревайвл</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия розы</param>
+      <param name="Артикул">Цо02507</param>
+      <consist name="Роза одноголовая Ревайвл" unit="шт">9</consist>
+    </offer>
     <offer id="B2C_Цо02536">
       <name>Роза одноголовая Маритим 9 шт 60 см Арт. Цо02536</name>
       <price>880</price>
@@ -18,6 +44,32 @@
       <param name="Производитель">Линия розы</param>
       <param name="Артикул">Цо02536</param>
       <consist name="Роза одноголовая Маритим" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Цо02577">
+      <name>Роза одноголовая Вау 15 шт 70 см Арт. Цо02577</name>
+      <price>1485</price>
+      <picture>https://lh3.googleusercontent.com/d/1o1KZzExw593Y6ONLqEYuSmNkBUaYQ5wu</picture>
+      <picture>https://lh3.googleusercontent.com/d/10hOXbQHVNtardsVLdngOPL8JmVh8PQFg</picture>
+      <description>Вау</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Цо02577</param>
+      <consist name="Роза одноголовая Вау" unit="шт">15</consist>
+    </offer>
+    <offer id="B2C_Цо02975">
+      <name>Роза кустовая Мадам Бомбастик 9 шт 50 см Арт. Цо02975</name>
+      <price>1705</price>
+      <picture>https://lh3.googleusercontent.com/d/1u1GAQ0AXLwmrV9s8mKCuSAIU7CqdtBPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XRstkZlMnpENrbrwLMNzPN7OAWvjitGh</picture>
+      <description>Мадам Бомбастик</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Цо02975</param>
+      <consist name="Роза кустовая Мадам Бомбастик" unit="шт">9</consist>
     </offer>
     </offers>
   </shop>
