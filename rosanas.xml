@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T15:06:23.414+03:00">
+<yml_catalog date="2025-09-27T15:11:50.214+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -3364,20 +3364,6 @@
       <param name="Артикул">Rs00187</param>
       <consist name="Альстромерия" unit="шт">10</consist>
     </offer>
-    <offer id="Rs6677" available="false">
-      <categoryId>37</categoryId>
-      <name>Альстромерия Белый 75 см Арт. Rs6677</name>
-      <price>997</price>
-      <qty>0</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1h5tq7PIzxpyN2ZKGUR6bLJz76kHVt5RJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1anFQ2UQtLdd8jtou-ij4CdRPXIrOgL4R</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">75</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs6677</param>
-      <consist name="Альстромерия" unit="шт">10</consist>
-    </offer>
     <offer id="Rs3667" available="false">
       <categoryId>37</categoryId>
       <name>Альстромерия Розовый 70 см Арт. Rs3667</name>
@@ -3561,7 +3547,7 @@
       <param name="Артикул">Rs01497</param>
       <consist name="Альстромерия Аврора" unit="шт">10</consist>
     </offer>
-    <offer id="rosanas_B2B_231" available="false">
+    <offer id="rosanas_B2B_230" available="false">
       <categoryId>37</categoryId>
       <name>Альстромерия Вирджиния 70 см</name>
       <price>116</price>
@@ -3571,6 +3557,20 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
+      <consist name="Альстромерия Вирджиния" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs6677" available="false">
+      <categoryId>37</categoryId>
+      <name>Альстромерия Вирджиния 75 см Арт. Rs6677</name>
+      <price>997</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h5tq7PIzxpyN2ZKGUR6bLJz76kHVt5RJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1anFQ2UQtLdd8jtou-ij4CdRPXIrOgL4R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs6677</param>
       <consist name="Альстромерия Вирджиния" unit="шт">10</consist>
     </offer>
     <offer id="Rs01507" available="false">
@@ -5458,14 +5458,14 @@
       <name>Гортензия Верена Роден 99 см Арт. Rs5369</name>
       <price>997</price>
       <qty>0</qty>
-      <quantity_in_package>99</quantity_in_package>
+      <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VpDN790zVcV-8y8WXE-GcUgCy0AmxGt9</picture>
       <picture>https://lh3.googleusercontent.com/d/1S6Q1ZVLBtAIm-1ffeDDKiLpLbHHUGWVG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">99</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5369</param>
-      <consist name="Гортензия Верена Роден" unit="шт">99</consist>
+      <consist name="Гортензия Верена Роден" unit="шт">5</consist>
     </offer>
     <offer id="Rs02075" available="false">
       <categoryId>37</categoryId>
@@ -6448,21 +6448,6 @@
       <param name="Артикул">Rs02145</param>
       <consist name="Пион Сара Бернар" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7448" available="true">
-      <categoryId>37</categoryId>
-      <name>Пироканта Оранежевый 80 см Арт. Rs7448</name>
-      <price>1040</price>
-      <qty>8</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1-sX1XnetffvcmF_HbSUZwG7FxOjvuWeX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Wk9lTBa5VoI6hcc0CQ0rEAlw2X4mbXMN</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">Rs7448</param>
-      <consist name="Пироканта" unit="шт">1</consist>
-    </offer>
     <offer id="Rs00607" available="false">
       <categoryId>37</categoryId>
       <name>Подсолнух Желтый 70 см Арт. Rs00607</name>
@@ -6508,20 +6493,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs4718</param>
       <consist name="Подсолнух  Мини" unit="шт">10</consist>
-    </offer>
-    <offer id="Rs7417" available="true">
-      <categoryId>37</categoryId>
-      <name>Полиантес Зеленый 70 см Арт. Rs7417</name>
-      <price>181</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mLIeFyU37UOtqaODmc6-0XF7oxai6ZCS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vDu0TrgBK-Z8V-xaKveeEv0ePX-FMRIg</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs7417</param>
-      <consist name="Полиантес" unit="шт">10</consist>
     </offer>
     <offer id="Rs01225" available="false">
       <categoryId>37</categoryId>
@@ -6604,25 +6575,6 @@
       <param name="Артикул">Rs5839</param>
       <consist name="Роза Смирал гр шоу" unit="шт">99</consist>
     </offer>
-    <offer id="Rs5446" available="true">
-      <categoryId>37</categoryId>
-      <name>Рускус Ruskus 60 см Арт. Rs5446</name>
-      <price>35</price>
-      <qty>11</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1w6qkZe51AYuP0n4AeLPfkdYKDfBmLWWo</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lj339kANyKQFk9vWI77f8YdBS4nJy9XR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1I5uEtjEUO_i-Zcvdq6TpuXZOWVOE2Q_t</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZxVJBgzGC7J2J8jYL-qhTknFp_b5jLhm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JLonZBJWvGD8uUrIvcI7wPbhJUc4ZBVB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q2cz0cmyetFI4u6Pv7AtOjlrfaIWx46-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1z8TZ5bZMOLtUP9Qfp9iT58UQeOGE2KDa</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">турция</param>
-      <param name="Артикул">Rs5446</param>
-      <consist name="Рускус Ruskus" unit="шт">20</consist>
-    </offer>
     <offer id="Rs7004" available="false">
       <categoryId>37</categoryId>
       <name>Рябина Оранжевый 45 см Арт. Rs7004</name>
@@ -6650,20 +6602,6 @@
       <param name="Артикул">Rs3356</param>
       <consist name="Серрурия Блашинг Брайд" unit="шт">10</consist>
     </offer>
-    <offer id="Rs7487" available="true">
-      <categoryId>37</categoryId>
-      <name>Симфорикарпус Меджикал Чарминг Фентаси 70 см Арт. Rs7487</name>
-      <price>132</price>
-      <qty>100</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1QvtCxUVcOcoLDjMcGFnCbbuCafZXsOQ1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Vsc4KweJitayKQ4SeEYSPRsYdzj2c5Ae</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs7487</param>
-      <consist name="Симфорикарпус Меджикал Чарминг Фентаси" unit="шт">10</consist>
-    </offer>
     <offer id="Rs02187" available="false">
       <categoryId>37</categoryId>
       <name>Скабиоза Саура Лила 70 см Арт. Rs02187</name>
@@ -6690,42 +6628,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5704</param>
       <consist name="Скиммия Дж Франк Вайт" unit="шт">1</consist>
-    </offer>
-    <offer id="Rs5094" available="true">
-      <categoryId>37</categoryId>
-      <name>Скиммия рубелла 45 см Арт. Rs5094</name>
-      <price>536</price>
-      <qty>8</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1bwXJpIWLRRcTjwHbmd75a-KZx5M2w5yH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XhEToQ0Tht9zsFpEOEsXSVmA8I42EUJE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1f_KpHs3TUK6UQjx6_NO8T1RLHjVXqKk-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uk0UdvM_e1h9d-DAlg1HAbS1FUA6AOMH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LARNG6d36fR3s-BwryYv0bEzn8liLEUb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UguzhdBRH72mBhibXH7MQluMbOcI8ILu</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZtoRSp1NAG8FEYQ83jiRmNx_vr3bxW_E</picture>
-      <picture>https://lh3.googleusercontent.com/d/1cVBLUhFiEGb9F-oU-hpvWeJdXsmH60uX</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">45</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs5094</param>
-      <consist name="Скиммия рубелла" unit="шт">1</consist>
-    </offer>
-    <offer id="Rs5134" available="true">
-      <categoryId>37</categoryId>
-      <name>Скиммия Фрэнк вайт 45 см Арт. Rs5134</name>
-      <price>536</price>
-      <qty>31</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Yy0AvCE4036H2DJNZPBurEF7bADvP3KL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RUK850kW0NqMKMHash_zgiQg54usNr9l</picture>
-      <picture>https://lh3.googleusercontent.com/d/1b5Rg5k2vN7ztQYu6PnUm0E20pFxtbOsM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Km5p8iruQCNLCpfjaY7I8hlRvHke5slJ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">45</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs5134</param>
-      <consist name="Скиммия Фрэнк вайт" unit="шт">1</consist>
     </offer>
     <offer id="Rs01216" available="false">
       <categoryId>37</categoryId>
@@ -6773,36 +6675,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Rs00596</param>
       <consist name="Танацетум" unit="шт">25</consist>
-    </offer>
-    <offer id="Rs6348" available="true">
-      <categoryId>37</categoryId>
-      <name>Тласпи Грин Белл 80 см Арт. Rs6348</name>
-      <price>159</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1nzGGr1nZDIvvNBarscyfjZ4hJ66Q3aCY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1AOjE9wT2f-tL1X1HH_T2dqVkqP7du95s</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rDQp1zYn9Rv_Kzw3jqYU0xNi-ptrFyJ0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1G8ZJ88XIMX62_8Q7RlMTsF5rCjXX5x7z</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs6348</param>
-      <consist name="Тласпи Грин Белл" unit="шт">25</consist>
-    </offer>
-    <offer id="Rs6657" available="true">
-      <categoryId>37</categoryId>
-      <name>Физалис Стук 70 см Арт. Rs6657</name>
-      <price>192</price>
-      <qty>80</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12dfR6f6km4ngasQl2Yxz-6xI9bRtmWmF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dKPdL28V-SKs4DLjTA6mZeHeUaodgP16</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs6657</param>
-      <consist name="Физалис Стук" unit="шт">10</consist>
     </offer>
     <offer id="Rs4886" available="false">
       <categoryId>37</categoryId>
@@ -7132,35 +7004,6 @@
       <param name="Артикул">Rs4828</param>
       <consist name="Шиповник" unit="шт">1</consist>
     </offer>
-    <offer id="Rs5727" available="true">
-      <categoryId>37</categoryId>
-      <name>Шиповник Corallo 70 см Арт. Rs5727</name>
-      <price>1045</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jr_qiHgXaLg-xzZKgy0CczthNM1JoKqV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1coj0oSZa0Z4hUk_R_c6kbsvmr_feUQjU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1690JIhVPBCm7vSGWGbZ2rfR77StaqILa</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs5727</param>
-      <consist name="Шиповник Corallo" unit="шт">10</consist>
-    </offer>
-    <offer id="Rs7471" available="true">
-      <categoryId>37</categoryId>
-      <name>Эремурус Yell impact 100 см Арт. Rs7471</name>
-      <price>355</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/162y27off8cgjf_RBCDbfAvRRWXMa2Qdr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SBdNx4dA-a7e0x_Dtajyn6Qbms5YIxvt</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">100</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs7471</param>
-      <consist name="Эремурус Yell impact" unit="шт">10</consist>
-    </offer>
     <offer id="Rs5106" available="false">
       <categoryId>37</categoryId>
       <name>Эрингиум Маг Вайт 60 см Арт. Rs5106</name>
@@ -7400,7 +7243,8 @@
       <picture>https://lh3.googleusercontent.com/d/15yw5h3v4FsbKM3cG7QWljGW03y5H36kO</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rs6046</param>
       <consist name="Эустома Краснодар" unit="шт">10</consist>
     </offer>
@@ -7975,6 +7819,35 @@
       <param name="Артикул">Rs03479</param>
       <consist name="Пироканта" unit="шт">1</consist>
     </offer>
+    <offer id="Rs7448" available="true">
+      <categoryId>38</categoryId>
+      <name>Пироканта Оранежевый 80 см Арт. Rs7448</name>
+      <price>1040</price>
+      <qty>8</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-sX1XnetffvcmF_HbSUZwG7FxOjvuWeX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Wk9lTBa5VoI6hcc0CQ0rEAlw2X4mbXMN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Rs7448</param>
+      <consist name="Пироканта" unit="шт">1</consist>
+    </offer>
+    <offer id="Rs7417" available="true">
+      <categoryId>38</categoryId>
+      <name>Полиантес Зеленый 70 см Арт. Rs7417</name>
+      <price>181</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mLIeFyU37UOtqaODmc6-0XF7oxai6ZCS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vDu0TrgBK-Z8V-xaKveeEv0ePX-FMRIg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs7417</param>
+      <consist name="Полиантес" unit="шт">10</consist>
+    </offer>
     <offer id="Rs01607" available="false">
       <categoryId>38</categoryId>
       <name>Роза Коралло 70 см Арт. Rs01607</name>
@@ -8004,6 +7877,25 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs01256</param>
       <consist name="Рубус Честер" unit="шт">1</consist>
+    </offer>
+    <offer id="Rs5446" available="true">
+      <categoryId>38</categoryId>
+      <name>Рускус Ruskus 60 см Арт. Rs5446</name>
+      <price>35</price>
+      <qty>11</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1w6qkZe51AYuP0n4AeLPfkdYKDfBmLWWo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lj339kANyKQFk9vWI77f8YdBS4nJy9XR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I5uEtjEUO_i-Zcvdq6TpuXZOWVOE2Q_t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZxVJBgzGC7J2J8jYL-qhTknFp_b5jLhm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JLonZBJWvGD8uUrIvcI7wPbhJUc4ZBVB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q2cz0cmyetFI4u6Pv7AtOjlrfaIWx46-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z8TZ5bZMOLtUP9Qfp9iT58UQeOGE2KDa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">турция</param>
+      <param name="Артикул">Rs5446</param>
+      <consist name="Рускус Ruskus" unit="шт">20</consist>
     </offer>
     <offer id="Rs01206" available="false">
       <categoryId>38</categoryId>
@@ -8089,6 +7981,56 @@
       <param name="Артикул">Rs02286</param>
       <consist name="Симфорикарпус Меджикал Брайд" unit="шт">10</consist>
     </offer>
+    <offer id="Rs7487" available="true">
+      <categoryId>38</categoryId>
+      <name>Симфорикарпус Меджикал Чарминг Фентаси 70 см Арт. Rs7487</name>
+      <price>132</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QvtCxUVcOcoLDjMcGFnCbbuCafZXsOQ1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Vsc4KweJitayKQ4SeEYSPRsYdzj2c5Ae</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs7487</param>
+      <consist name="Симфорикарпус Меджикал Чарминг Фентаси" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs5094" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия рубелла 45 см Арт. Rs5094</name>
+      <price>536</price>
+      <qty>8</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bwXJpIWLRRcTjwHbmd75a-KZx5M2w5yH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XhEToQ0Tht9zsFpEOEsXSVmA8I42EUJE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f_KpHs3TUK6UQjx6_NO8T1RLHjVXqKk-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uk0UdvM_e1h9d-DAlg1HAbS1FUA6AOMH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LARNG6d36fR3s-BwryYv0bEzn8liLEUb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UguzhdBRH72mBhibXH7MQluMbOcI8ILu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZtoRSp1NAG8FEYQ83jiRmNx_vr3bxW_E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cVBLUhFiEGb9F-oU-hpvWeJdXsmH60uX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs5094</param>
+      <consist name="Скиммия рубелла" unit="шт">1</consist>
+    </offer>
+    <offer id="Rs5134" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Фрэнк вайт 45 см Арт. Rs5134</name>
+      <price>536</price>
+      <qty>31</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Yy0AvCE4036H2DJNZPBurEF7bADvP3KL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RUK850kW0NqMKMHash_zgiQg54usNr9l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b5Rg5k2vN7ztQYu6PnUm0E20pFxtbOsM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Km5p8iruQCNLCpfjaY7I8hlRvHke5slJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs5134</param>
+      <consist name="Скиммия Фрэнк вайт" unit="шт">1</consist>
+    </offer>
     <offer id="Rs01568" available="false">
       <categoryId>38</categoryId>
       <name>Солидаго Карзан Глори 80 см Арт. Rs01568</name>
@@ -8121,6 +8063,36 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Rs00447</param>
       <consist name="Статица Кристал Дарк Блю" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs6348" available="true">
+      <categoryId>38</categoryId>
+      <name>Тласпи Грин Белл 80 см Арт. Rs6348</name>
+      <price>159</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nzGGr1nZDIvvNBarscyfjZ4hJ66Q3aCY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AOjE9wT2f-tL1X1HH_T2dqVkqP7du95s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rDQp1zYn9Rv_Kzw3jqYU0xNi-ptrFyJ0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G8ZJ88XIMX62_8Q7RlMTsF5rCjXX5x7z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs6348</param>
+      <consist name="Тласпи Грин Белл" unit="шт">25</consist>
+    </offer>
+    <offer id="Rs6657" available="true">
+      <categoryId>38</categoryId>
+      <name>Физалис Стук 70 см Арт. Rs6657</name>
+      <price>192</price>
+      <qty>80</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12dfR6f6km4ngasQl2Yxz-6xI9bRtmWmF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dKPdL28V-SKs4DLjTA6mZeHeUaodgP16</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs6657</param>
+      <consist name="Физалис Стук" unit="шт">10</consist>
     </offer>
     <offer id="Rs02567" available="false">
       <categoryId>38</categoryId>
@@ -8155,6 +8127,21 @@
       <param name="Артикул">Rs01549</param>
       <consist name="Хасмантиум Латифолия" unit="шт">20</consist>
     </offer>
+    <offer id="Rs5727" available="true">
+      <categoryId>38</categoryId>
+      <name>Шиповник Corallo 70 см Арт. Rs5727</name>
+      <price>1045</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jr_qiHgXaLg-xzZKgy0CczthNM1JoKqV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1coj0oSZa0Z4hUk_R_c6kbsvmr_feUQjU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1690JIhVPBCm7vSGWGbZ2rfR77StaqILa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs5727</param>
+      <consist name="Шиповник Corallo" unit="шт">10</consist>
+    </offer>
     <offer id="Rs03219" available="false">
       <categoryId>38</categoryId>
       <name>Эремурус Емми Ро 90 см Арт. Rs03219</name>
@@ -8181,6 +8168,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs01451</param>
       <consist name="Эремурус Эмми Ро" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs7471" available="true">
+      <categoryId>38</categoryId>
+      <name>Эремурус Yell impact 100 см Арт. Rs7471</name>
+      <price>355</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/162y27off8cgjf_RBCDbfAvRRWXMa2Qdr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SBdNx4dA-a7e0x_Dtajyn6Qbms5YIxvt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">100</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs7471</param>
+      <consist name="Эремурус Yell impact" unit="шт">10</consist>
     </offer>
     <offer id="Rs00295" available="false">
       <categoryId>38</categoryId>
