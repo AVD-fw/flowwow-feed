@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T14:58:55.800+03:00">
+<yml_catalog date="2025-09-27T15:02:56.935+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -4712,18 +4712,6 @@
       <param name="Артикул">Rs03599</param>
       <consist name="Глориоза Экзот Орандж" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_Rs5369" available="false">
-      <name>Гортензия 99 шт Зеленый 99 см Арт. Rs5369</name>
-      <price>98705</price>
-      <picture>https://lh3.googleusercontent.com/d/1VpDN790zVcV-8y8WXE-GcUgCy0AmxGt9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1S6Q1ZVLBtAIm-1ffeDDKiLpLbHHUGWVG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
-      <param name="Высота, см">99</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs5369</param>
-      <consist name="Гортензия" unit="шт">99</consist>
-    </offer>
     <offer id="B2C_Rs5969" available="false">
       <name>Гортензия 99 шт Белый 99 см Арт. Rs5969</name>
       <price>98705</price>
@@ -4734,6 +4722,18 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5969</param>
       <consist name="Гортензия" unit="шт">99</consist>
+    </offer>
+    <offer id="B2C_Rs5369" available="false">
+      <name>Гортензия Верена Роден 99 шт 99 см Арт. Rs5369</name>
+      <price>98705</price>
+      <picture>https://lh3.googleusercontent.com/d/1VpDN790zVcV-8y8WXE-GcUgCy0AmxGt9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S6Q1ZVLBtAIm-1ffeDDKiLpLbHHUGWVG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
+      <param name="Высота, см">99</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs5369</param>
+      <consist name="Гортензия Верена Роден" unit="шт">99</consist>
     </offer>
     <offer id="B2C_Rs02075" available="false">
       <name>Гортензия Премиум Блю 1 шт 50 см Арт. Rs02075</name>
