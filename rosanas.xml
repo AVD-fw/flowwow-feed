@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-27T07:54:20.428+03:00">
+<yml_catalog date="2025-09-27T07:59:32.095+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -9,6 +9,25 @@
       <category id="38">Зелень</category>
     </categories>
     <offers>
+    <offer id="Rf00877" available="true">
+      <categoryId>37</categoryId>
+      <name>Хризантема одноголовая Алемани 70 см Арт. Rf00877</name>
+      <price>191</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UbCMXS3NxGns_zDMgH7uJIJtFmJKHgRJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EU8dBl0WoRb9qwyy3DoDgv91N7RqpwqO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gZh-zU2-xyXG--EHL2rdMU8uYERH9Jmt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N8E1BvoT-Ofe6H02O62oaBMdyv63HJD2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1elXV6vcLcg2W_8U0YmloB6KX9-fajIiW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1COqpMs_Sd9uyW9Y4CMQpC4UIZ9v3zbxT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rf00877</param>
+      <consist name="Хризантема одноголовая Алемани" unit="шт">10</consist>
+    </offer>
     <offer id="Rf01977" available="true">
       <categoryId>37</categoryId>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Rf01977</name>
@@ -116,6 +135,21 @@
       <param name="Артикул">Rf02308</param>
       <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
     </offer>
+    <offer id="Rf7336" available="true">
+      <categoryId>37</categoryId>
+      <name>Хризантема кустовая Руби Стар 60 см Арт. Rf7336</name>
+      <price>116</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19gfcuYxj6L4ZcF3HcIn26wlYjOrFPf3l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_xKn5yhgTCDlx9CVnOpixqEkShI0lXJF</picture>
+      <picture>https://lh3.googleusercontent.com/d/17mWB8N47ZdpFo_-W1-oS48py4M4GLoNZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rf7336</param>
+      <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
+    </offer>
     <offer id="Rf03547" available="true">
       <categoryId>37</categoryId>
       <name>Антирринум Розовый 70 см Арт. Rf03547</name>
@@ -140,7 +174,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Белый 50 см Арт. Rf03635</name>
       <price>152</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KE1WzsiVqmKK-Cz6x5YzeFPhKqeZed4E</picture>
       <picture>https://lh3.googleusercontent.com/d/1S22_Fqk6-hu43Hxma0RVd_7qPciLU4xi</picture>
@@ -197,7 +231,7 @@
       <categoryId>37</categoryId>
       <name>Брассика Вайт Крейн 50 см Арт. Rf5685</name>
       <price>124</price>
-      <qty>5</qty>
+      <qty>70</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wwbCrYII9ibUM21TBFEdOykBxMkxUoYI</picture>
       <picture>https://lh3.googleusercontent.com/d/1nCYo7ewE2kwdONGkQ8fdRgXiGzJMUYQg</picture>
@@ -341,7 +375,7 @@
       <categoryId>37</categoryId>
       <name>Гидрангия Мак Верена 80 см Арт. Rf6988</name>
       <price>476</price>
-      <qty>5</qty>
+      <qty>140</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iaqAGtxEEu8OD9-MzrGjlJDudUha6_yM</picture>
       <picture>https://lh3.googleusercontent.com/d/1HlRHxavoqVq-lE7VdoLVtUqijXIkuwst</picture>
@@ -389,6 +423,21 @@
       <param name="Артикул">Rf00378</param>
       <consist name="Гипсофила Радужная" unit="шт">25</consist>
     </offer>
+    <offer id="Rf7017" available="true">
+      <categoryId>37</categoryId>
+      <name>Глориоза Рууд Ротхилчайлд 75 см Арт. Rf7017</name>
+      <price>370</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N7HguwKS2RR_gzGBQGPzUimN4jPOtIkW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BL4krDFvRihefOR1BLPTUAF8Di2RoPlB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i0Bio-M814xh2KxTLWvr4lwG_EsyQWPR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rf7017</param>
+      <consist name="Глориоза Рууд Ротхилчайлд" unit="шт">10</consist>
+    </offer>
     <offer id="Rf01927" available="true">
       <categoryId>37</categoryId>
       <name>Дельфиниум Бе Волкерфриелд 70 см Арт. Rf01927</name>
@@ -411,7 +460,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Синий 40 см Арт. Rf6444</name>
       <price>55</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PcKz4wBJwVKhxTPXh6iRZVFVLrxFRvhK</picture>
       <picture>https://lh3.googleusercontent.com/d/1o0SB_X0YRKmu6MaZXtAZk97aro643kT4</picture>
@@ -443,7 +492,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Кам Пеар Пинк 70 см Арт. Rf01047</name>
       <price>133</price>
-      <qty>0</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F8oM11LaFQ0SpLOANMILU_K4BOIW7e3p</picture>
       <picture>https://lh3.googleusercontent.com/d/1coAMWvCtfDyQPwdLEqNq0QuizWLhcGRl</picture>
@@ -502,7 +551,7 @@
       <categoryId>37</categoryId>
       <name>Маттиола Фиолетовый 60 см Арт. Rf3936</name>
       <price>150</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Ji5p42wVo4MGaMZeiuT-11bEbl589_Kx</picture>
       <picture>https://lh3.googleusercontent.com/d/1O9T6ww_RG4E38tSMDmPMAh26wZ_izqfp</picture>
@@ -540,11 +589,30 @@
       <param name="Артикул">Rf01165</param>
       <consist name="Орнитогалум Турсордес" unit="шт">10</consist>
     </offer>
+    <offer id="Rf5446" available="true">
+      <categoryId>37</categoryId>
+      <name>Рускус Ruskus 60 см Арт. Rf5446</name>
+      <price>35</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1w6qkZe51AYuP0n4AeLPfkdYKDfBmLWWo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lj339kANyKQFk9vWI77f8YdBS4nJy9XR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I5uEtjEUO_i-Zcvdq6TpuXZOWVOE2Q_t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZxVJBgzGC7J2J8jYL-qhTknFp_b5jLhm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JLonZBJWvGD8uUrIvcI7wPbhJUc4ZBVB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q2cz0cmyetFI4u6Pv7AtOjlrfaIWx46-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z8TZ5bZMOLtUP9Qfp9iT58UQeOGE2KDa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">турция</param>
+      <param name="Артикул">Rf5446</param>
+      <consist name="Рускус Ruskus" unit="шт">20</consist>
+    </offer>
     <offer id="Rf5094" available="true">
       <categoryId>37</categoryId>
       <name>Скиммия рубелла 45 см Арт. Rf5094</name>
       <price>536</price>
-      <qty>10</qty>
+      <qty>8</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bwXJpIWLRRcTjwHbmd75a-KZx5M2w5yH</picture>
       <picture>https://lh3.googleusercontent.com/d/1XhEToQ0Tht9zsFpEOEsXSVmA8I42EUJE</picture>
@@ -564,7 +632,7 @@
       <categoryId>37</categoryId>
       <name>Скиммия Фрэнк вайт 45 см Арт. Rf5134</name>
       <price>536</price>
-      <qty>10</qty>
+      <qty>31</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Yy0AvCE4036H2DJNZPBurEF7bADvP3KL</picture>
       <picture>https://lh3.googleusercontent.com/d/1RUK850kW0NqMKMHash_zgiQg54usNr9l</picture>
@@ -580,7 +648,7 @@
       <categoryId>37</categoryId>
       <name>Тласпи Грин Белл 80 см Арт. Rf6348</name>
       <price>159</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nzGGr1nZDIvvNBarscyfjZ4hJ66Q3aCY</picture>
       <picture>https://lh3.googleusercontent.com/d/1AOjE9wT2f-tL1X1HH_T2dqVkqP7du95s</picture>
@@ -596,7 +664,7 @@
       <categoryId>37</categoryId>
       <name>Фрезия Версайлес 70 см Арт. Rf6437</name>
       <price>101</price>
-      <qty>5</qty>
+      <qty>150</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lEA4gSoxxWREOCR2jQEomR0UB80ROzZx</picture>
       <picture>https://lh3.googleusercontent.com/d/1UljmDJ2oRvULy62jawojqpJtcmfqH2OP</picture>
@@ -651,7 +719,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Кри Акт Джемендж 72 см Арт. Rf6577</name>
       <price>147</price>
-      <qty>5</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ORpIKHpNw6ynOEoR07Forq-clBdIbjDl</picture>
       <picture>https://lh3.googleusercontent.com/d/1lxydvBJ6YleYOjADWjif2ZuuKXxgsK6M</picture>
@@ -665,7 +733,7 @@
       <categoryId>37</categoryId>
       <name>Шиповник Corallo 70 см Арт. Rf5727</name>
       <price>1045</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jr_qiHgXaLg-xzZKgy0CczthNM1JoKqV</picture>
       <picture>https://lh3.googleusercontent.com/d/1coj0oSZa0Z4hUk_R_c6kbsvmr_feUQjU</picture>
@@ -696,7 +764,7 @@
       <categoryId>38</categoryId>
       <name>Бруния левайс 40 см Арт. Rf3714</name>
       <price>150</price>
-      <qty>10</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1D5SWJNdmyDlF2NAKDIkENgKbdUpDYErn</picture>
       <picture>https://lh3.googleusercontent.com/d/1rmAOBt3MNN7svux19ev8VHJbkcJms2G8</picture>
@@ -750,7 +818,7 @@
       <categoryId>38</categoryId>
       <name>Калина Красный 80 см Арт. Rf03608</name>
       <price>895</price>
-      <qty>10</qty>
+      <qty>4</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JZQNwy_hP7osN0Ay3F4XwZIJ74D7urZH</picture>
       <picture>https://lh3.googleusercontent.com/d/1Uc1AZHUjQuaMCq9GIA2Shaa1KY2_QTJi</picture>
@@ -831,7 +899,7 @@
       <categoryId>38</categoryId>
       <name>Перчик Зеленый 60 см Арт. Rf03646</name>
       <price>812</price>
-      <qty>10</qty>
+      <qty>2</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1HDb1IBbi3Qr282-HqpDkVepRNiR1FSi9</picture>
       <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
