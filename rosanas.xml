@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T12:18:19.938+03:00">
+<yml_catalog date="2025-09-29T12:21:30.418+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -2621,6 +2621,22 @@
       <param name="Артикул">Rs02387</param>
       <consist name="Хризантема одноголовая Алибаба" unit="шт">10</consist>
     </offer>
+    <offer id="Rs7367" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бальтазар 70 см Арт. Rs7367</name>
+      <price>162</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SOmJWsD9GH_ROpvRZFEdMygUNV46tZ3T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_psMjIhlOMLiMqz5go3T2pQpSjg3LLeT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k3rX0D_vHzI8doYTepntdFCmJSaAQdLZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rs7367</param>
+      <consist name="Хризантема одноголовая Бальтазар" unit="шт">10</consist>
+    </offer>
     <offer id="Rs01977" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Rs01977</name>
@@ -2669,7 +2685,7 @@
       <picture>https://lh3.googleusercontent.com/d/1lU2ler7TTKLc681QaOqz_FZG_MwsUpk5</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">75</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Эквадор</param>
       <param name="Производитель">Over Time</param>
       <param name="Артикул">Rs6997</param>
       <consist name="Хризантема одноголовая Вайт Ребонет" unit="шт">10</consist>
@@ -2691,6 +2707,23 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rs5227</param>
+      <consist name="Хризантема одноголовая Виенна" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs6978" available="false">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Виенна 85 см Арт. Rs6978</name>
+      <price>269</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AjW69krESkq8DRZ95194ADyOp-CdzW6Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OFdOcbVHOX1qAGTbxuNlpdjc4j6mLz0C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qus1-J6w4382l-qyV0iBGtx19XA2siiE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HqqbW63PLu8MJF7561ECYjjuJ6C_BYNQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">85</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Rs6978</param>
       <consist name="Хризантема одноголовая Виенна" unit="шт">10</consist>
     </offer>
     <offer id="Rs7508" available="false">
@@ -2753,22 +2786,6 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rs03527</param>
       <consist name="Хризантема одноголовая Дж Виенна" unit="шт">10</consist>
-    </offer>
-    <offer id="Rs7367" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Джи Бальтазар 70 см Арт. Rs7367</name>
-      <price>162</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1SOmJWsD9GH_ROpvRZFEdMygUNV46tZ3T</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_psMjIhlOMLiMqz5go3T2pQpSjg3LLeT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1k3rX0D_vHzI8doYTepntdFCmJSaAQdLZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Rs7367</param>
-      <consist name="Хризантема одноголовая Джи Бальтазар" unit="шт">10</consist>
     </offer>
     <offer id="Rs7377" available="false">
       <categoryId>5</categoryId>
@@ -3088,23 +3105,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rs00857</param>
       <consist name="Хризантема одноголовая Этруско" unit="шт">10</consist>
-    </offer>
-    <offer id="Rs6978" available="false">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая G VIENNA 85 см Арт. Rs6978</name>
-      <price>269</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AjW69krESkq8DRZ95194ADyOp-CdzW6Y</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OFdOcbVHOX1qAGTbxuNlpdjc4j6mLz0C</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qus1-J6w4382l-qyV0iBGtx19XA2siiE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HqqbW63PLu8MJF7561ECYjjuJ6C_BYNQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">85</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">Rs6978</param>
-      <consist name="Хризантема одноголовая G VIENNA" unit="шт">10</consist>
     </offer>
     <offer id="Rs6006" available="false">
       <categoryId>6</categoryId>
