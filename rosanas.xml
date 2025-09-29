@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T08:31:19.545+03:00">
+<yml_catalog date="2025-09-29T08:37:04.058+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -2205,6 +2205,20 @@
       <param name="Артикул">Rs02884</param>
       <consist name="Роза кустовая пионовидная Новатор" unit="шт">10</consist>
     </offer>
+    <offer id="Rs7177" available="false">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Новая белая 70 см Арт. Rs7177</name>
+      <price>997</price>
+      <qty>0</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G_iCqPujxwzoVKxSyrXket_X0kLLz0kp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Rs7177</param>
+      <consist name="Роза кустовая пионовидная Новая белая" unit="шт">5</consist>
+    </offer>
     <offer id="Rs02985" available="false">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Ольга 50 см Арт. Rs02985</name>
@@ -2578,7 +2592,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Алемани 70 см Арт. Rs00877</name>
       <price>191</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xuNh6wYGRIQahyny_upkByiBM7yTslpo</picture>
       <picture>https://lh3.googleusercontent.com/d/1EU8dBl0WoRb9qwyy3DoDgv91N7RqpwqO</picture>
@@ -2614,7 +2628,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Rs01977</name>
       <price>200</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1x2U_0j6J5gkXGXie7kDUPJJZoj8vGhNJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1cvjZkzsLikArjLnpaBElusU1knPiUYgD</picture>
@@ -2878,7 +2892,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум йеллоу 70 см Арт. Rs02327</name>
       <price>167</price>
-      <qty>10</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aLydyzg0Q9sYedjleAouGidcVZE8NHkP</picture>
       <picture>https://lh3.googleusercontent.com/d/1uypxo3SWE2-c5CvhzEO4mrhFQ6L4J8XM</picture>
@@ -2945,7 +2959,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Шарлотте 70 см Арт. Rs00847</name>
       <price>190</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fPckorA644HXUi64tOkVcMOy-NgNAPs7</picture>
       <picture>https://lh3.googleusercontent.com/d/1HA3JU-dnuRU7iNgCXXcaN7_c1iRGZ8Vm</picture>
@@ -3005,7 +3019,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Рыжая 70 см Арт. Rs04527</name>
       <price>282</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Mzov5uePYDGRM0VIDG1UefFpi0dsV6Nh</picture>
       <picture>https://lh3.googleusercontent.com/d/122P8VZNQINk2bjZFWg0uyuyU8Femmlu8</picture>
@@ -3075,7 +3089,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Фуего 80 см Арт. Rs02308</name>
       <price>282</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wGyFHZ4dIc9-NdLKxSVqZIZ79zSu8J4j</picture>
       <picture>https://lh3.googleusercontent.com/d/1SA3CIHoBA3z3Try7Ax-09thOsV4L6ajl</picture>
@@ -3558,7 +3572,7 @@
       <param name="Артикул">Rs01497</param>
       <consist name="Альстромерия Аврора" unit="шт">10</consist>
     </offer>
-    <offer id="rosanas_B2B_230" available="false">
+    <offer id="rosanas_B2B_231" available="false">
       <categoryId>37</categoryId>
       <name>Альстромерия Вирджиния 70 см</name>
       <price>116</price>
@@ -3617,8 +3631,9 @@
       <price>137</price>
       <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/17uplj1P5gbSzsJbMWvs2ujLsGwoj5c01</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ts97CJ_CUzD6Y0AFA5ZvziM9Nby8Ebye</picture>
       <picture>https://lh3.googleusercontent.com/d/1gmN3LfrRZavkDKUuOHDI9W3UnNzI9-kz</picture>
+      <picture>https://lh3.googleusercontent.com/d/17uplj1P5gbSzsJbMWvs2ujLsGwoj5c01</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
@@ -5830,11 +5845,11 @@
       <param name="Артикул">Rs01337</param>
       <consist name="Калла Флорекс Голд" unit="шт">10</consist>
     </offer>
-    <offer id="Rs5167" available="true">
+    <offer id="Rs5167" available="false">
       <categoryId>37</categoryId>
       <name>Калла Чемпион Вайт 75 см Арт. Rs5167</name>
       <price>997</price>
-      <qty>10</qty>
+      <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hG4ehDve0dzzobnmaH6qYP_sBbQ59K81</picture>
       <picture>https://lh3.googleusercontent.com/d/129RjqHV0DzQ4oX2UoIoWiTBLUbm_LxZa</picture>
@@ -5997,7 +6012,7 @@
       <categoryId>37</categoryId>
       <name>Лавровишня Бордовый 70 см Арт. Rs4797</name>
       <price>885</price>
-      <qty>10</qty>
+      <qty>3</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ifNn9ijtUy57TdFwW_eBOrEWSgEgvZoI</picture>
       <picture>https://lh3.googleusercontent.com/d/1_GlC63YCKHV_-KHLRRxCV6OI90iAe7TK</picture>
@@ -6104,6 +6119,18 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs03619</param>
       <consist name="Лилия Охт Табледенс" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs7969" available="false">
+      <categoryId>37</categoryId>
+      <name>Магнолия Грандифлора 90 см Арт. Rs7969</name>
+      <price>997</price>
+      <qty>0</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Lr6PE3xhSu-lLocYmBIlwQ49_MkAskhu</picture>
+      <description>Грандифлора</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs7969</param>
     </offer>
     <offer id="Rs3936" available="false">
       <categoryId>37</categoryId>
@@ -6366,7 +6393,7 @@
       <price>76</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RjvBh8op653HS7mls2o-HMBR4dbQoa58</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YiQqV74X-BDMDqWf-jGKktj_mbc513nW</picture>
       <picture>https://lh3.googleusercontent.com/d/1nj9K5bRyBpTXnnwCOck0jIHZ8IS6s22e</picture>
       <picture>https://lh3.googleusercontent.com/d/1dPLJz___hBZjvyJKLKMt5wjF9n-9T2q_</picture>
       <picture>https://lh3.googleusercontent.com/d/1LR_LgVoP_tH1Y2FwYI7lKsstSQ7FtP_m</picture>
@@ -6523,6 +6550,7 @@
       <price>997</price>
       <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qWMbF-EhgRUlworMBcvcmjLB7MUS2sDu</picture>
       <picture>https://lh3.googleusercontent.com/d/1C7WxPCTaaPD_ZtNGOdduTV-96R7cCRve</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
@@ -6602,7 +6630,7 @@
       <categoryId>37</categoryId>
       <name>Скиммия Дж Франк Вайт 45 см Арт. Rs5704</name>
       <price>536</price>
-      <qty>10</qty>
+      <qty>16</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1T-1MoMghgit0ZAYDumA9VJ0sFfktPkaI</picture>
       <picture>https://lh3.googleusercontent.com/d/1odhYyJjjwwXQcjhMws7DcLzFMy6PRKBJ</picture>
@@ -6721,11 +6749,11 @@
       <param name="Артикул">Rs6437</param>
       <consist name="Фрезия Версайлес" unit="шт">50</consist>
     </offer>
-    <offer id="Rs03175" available="true">
+    <offer id="Rs03175" available="false">
       <categoryId>37</categoryId>
       <name>Фрезия Ду Солеил 52 см Арт. Rs03175</name>
       <price>88</price>
-      <qty>50</qty>
+      <qty>0</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19tJzVgWZBbJfJYpf_YFkBKAADLDTirhe</picture>
       <picture>https://lh3.googleusercontent.com/d/1cx-Klgs49XpmQzLQWjpIakVB4GeKy9Ik</picture>
@@ -6762,8 +6790,9 @@
       <price>997</price>
       <qty>0</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EJKSRGCjG3_wUb_4XaoUBARTC9ghmgjQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/13PGtiWcTO_LsIO75VcT4_OAkrgMfe2J6</picture>
       <picture>https://lh3.googleusercontent.com/d/1qe8gyqUe8OftaB28bt2iR_EUadm0reJY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EJKSRGCjG3_wUb_4XaoUBARTC9ghmgjQ</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">80</param>
       <param name="Страна">уточняется</param>
@@ -7328,7 +7357,7 @@
       <categoryId>38</categoryId>
       <name>Бруния левайс 40 см Арт. Rs3714</name>
       <price>150</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/125E0KVHF7lt5KLc1kseraLiHzFUYzGoX</picture>
       <picture>https://lh3.googleusercontent.com/d/1rmAOBt3MNN7svux19ev8VHJbkcJms2G8</picture>
@@ -7351,10 +7380,11 @@
       <price>49</price>
       <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kvp5SU4XfK4C34T-3D_mXwnYrmsdp_PC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HPSvJ-eWubTtukfKdggTMQzFxmEKkqTn</picture>
       <picture>https://lh3.googleusercontent.com/d/18SVFj_Jj0Vsby6X9rCF9E02FfBhLKWWf</picture>
       <picture>https://lh3.googleusercontent.com/d/13IpLXF8ffL0DRdMVaS7oGf19IF-MxeOw</picture>
       <picture>https://lh3.googleusercontent.com/d/18Ri3nOWbvy5rPezG7PEIM7tVtYNWVGTZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kvp5SU4XfK4C34T-3D_mXwnYrmsdp_PC</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
@@ -7420,12 +7450,13 @@
       <price>355</price>
       <qty>0</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1k0pknAKlX_1yygAT8K7wzOWPTD43MHbq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ruI3XuLcRVZdXHIKeOdENMYIAMrtIZPB</picture>
       <picture>https://lh3.googleusercontent.com/d/1ZtNdy1D60cH6PFn09Kby3saUVi7ZZgRY</picture>
       <picture>https://lh3.googleusercontent.com/d/1dK4WJaV9Iuhyp__RNKwTzzei4P1_ObV2</picture>
       <picture>https://lh3.googleusercontent.com/d/1kKuuzir6vD0PVxSJ7LOMsT4RTx38CHfW</picture>
       <picture>https://lh3.googleusercontent.com/d/1QmW0RkTMpVHL5PHzHbNZgt7XHPY4V9Ii</picture>
       <picture>https://lh3.googleusercontent.com/d/13cDwRY98lmVt3Uv7-wgViCh38B6Ox12T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k0pknAKlX_1yygAT8K7wzOWPTD43MHbq</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">уточняется</param>
@@ -7753,10 +7784,11 @@
       <price>45</price>
       <qty>0</qty>
       <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1MUvMVZ289HOUFKDdedZh_kJwj7Ig2UoF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F_yOdCmLKNr1jRAV4BsR-AUqA5mlwdMQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1T7YOAMXSUfRu9WdZg_coJhOpgx5CIeJr</picture>
       <picture>https://lh3.googleusercontent.com/d/1iJCsyoxjIITNS5QFTqge37QoW4lRhURB</picture>
       <picture>https://lh3.googleusercontent.com/d/1LKQ0UvG8Yl6g4ko18XXk_hg-6EUyCXTa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MUvMVZ289HOUFKDdedZh_kJwj7Ig2UoF</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
       <param name="Высота, см">80</param>
       <param name="Страна">уточняется</param>
@@ -7780,7 +7812,7 @@
       <categoryId>38</categoryId>
       <name>Перчик Зеленый 60 см Арт. Rs03646</name>
       <price>812</price>
-      <qty>10</qty>
+      <qty>2</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10OW2YX4ywLReQF3dDiqgqrPocKyo1m4h</picture>
       <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
@@ -7833,8 +7865,9 @@
       <price>181</price>
       <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mLIeFyU37UOtqaODmc6-0XF7oxai6ZCS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ajeEL1tR3kNSZYheTphn7PlOx9OCWhnV</picture>
       <picture>https://lh3.googleusercontent.com/d/1vDu0TrgBK-Z8V-xaKveeEv0ePX-FMRIg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mLIeFyU37UOtqaODmc6-0XF7oxai6ZCS</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
@@ -7847,12 +7880,13 @@
       <price>285</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DftLgeNmTPN4i7I18OEhq0VFvTf1d_iq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VaUlcG-PxW2XmgrLlL7nFWSJLqSGYLSK</picture>
       <picture>https://lh3.googleusercontent.com/d/13dm4dMnyCs1tWTg3hbD8KB86vPiIGK6x</picture>
       <picture>https://lh3.googleusercontent.com/d/1mkCfQyeRhFV70vuFwPa-aJaKehn6Y2Zu</picture>
       <picture>https://lh3.googleusercontent.com/d/1pBWQdz6aSlWkOMyGdC5Dandbi_5Aysp6</picture>
       <picture>https://lh3.googleusercontent.com/d/13QRbkXhkcxb-RbaS70cQjG0u_tsxvenX</picture>
       <picture>https://lh3.googleusercontent.com/d/1tWC7Hzx1s2E_swHgzAPRQ3esunHnGdRf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DftLgeNmTPN4i7I18OEhq0VFvTf1d_iq</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
@@ -7895,7 +7929,7 @@
       <categoryId>38</categoryId>
       <name>Седум Спектибайл 60 см Арт. Rs01206</name>
       <price>66</price>
-      <qty>5</qty>
+      <qty>125</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hdBziXneoS2AUn-o_jlrlo4s8sB7Kplj</picture>
       <picture>https://lh3.googleusercontent.com/d/1vFBi3NwG5GeOqJiWmD-1x11DCEbSI7Zo</picture>
@@ -8083,8 +8117,9 @@
       <price>192</price>
       <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12dfR6f6km4ngasQl2Yxz-6xI9bRtmWmF</picture>
+      <picture>https://lh3.googleusercontent.com/d/19TgWadyt6ORDiQ_CIH26onbaN-5Iu0u4</picture>
       <picture>https://lh3.googleusercontent.com/d/1dKPdL28V-SKs4DLjTA6mZeHeUaodgP16</picture>
+      <picture>https://lh3.googleusercontent.com/d/12dfR6f6km4ngasQl2Yxz-6xI9bRtmWmF</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
@@ -8110,7 +8145,7 @@
       <categoryId>38</categoryId>
       <name>Хасмантиум Латифолия 90 см Арт. Rs01549</name>
       <price>43</price>
-      <qty>20</qty>
+      <qty>100</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1D241k3KMnTHlxb9dSKPKcNg7Reqdmhk-</picture>
       <picture>https://lh3.googleusercontent.com/d/1YOnZnBin8z_4DfTJTpzXwozJ1drpBsFN</picture>
@@ -8131,9 +8166,10 @@
       <price>1045</price>
       <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jr_qiHgXaLg-xzZKgy0CczthNM1JoKqV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsqR2biBDW3ASa8JB52gx-U3rN0ZbCMP</picture>
       <picture>https://lh3.googleusercontent.com/d/1coj0oSZa0Z4hUk_R_c6kbsvmr_feUQjU</picture>
       <picture>https://lh3.googleusercontent.com/d/1690JIhVPBCm7vSGWGbZ2rfR77StaqILa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jr_qiHgXaLg-xzZKgy0CczthNM1JoKqV</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
