@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T10:31:54.358+03:00">
+<yml_catalog date="2025-09-29T10:36:37.541+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -1941,21 +1941,21 @@
       <param name="Артикул">Rs04436</param>
       <consist name="Роза кустовая пионовидная Лавандер Бабблс" unit="шт">10</consist>
     </offer>
-    <offer id="Rs5054" available="false">
+    <offer id="Rs5054" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леденец 40 см Арт. Rs5054</name>
       <price>80</price>
-      <qty>0</qty>
-      <quantity_in_package>99</quantity_in_package>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eKpyv7Oo_OQF4f87JchZ--IVGYSo8Ikz</picture>
       <picture>https://lh3.googleusercontent.com/d/1AYN90VMG-ThZP8GloVzvH5x7IiL8iJVS</picture>
       <picture>https://lh3.googleusercontent.com/d/1B2OUk_SPF7uDXjTCAepDWlHr0--yLnop</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Rs5054</param>
-      <consist name="Роза кустовая пионовидная Леденец" unit="шт">99</consist>
+      <consist name="Роза кустовая пионовидная Леденец" unit="шт">10</consist>
     </offer>
     <offer id="Rs01825" available="false">
       <categoryId>4</categoryId>
