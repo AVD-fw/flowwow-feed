@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T11:51:39.131+03:00">
+<yml_catalog date="2025-09-29T11:57:16.795+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -5256,6 +5256,21 @@
       <param name="Артикул">Rs7458</param>
       <consist name="Гидрангия Мак Родео" unit="шт">5</consist>
     </offer>
+    <offer id="Rs00807" available="false">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Меджикал Эмеральд 70 см Арт. Rs00807</name>
+      <price>561</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1E2wZHFmvoccE0rVv1kxU-YJknGw0peWw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bubUa6VFaMQ8teAH1MjR9k_KJjlDpVhX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KWtjr-YsISAVtMDOmx3A-dFhmAI404ui</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Артикул">Rs00807</param>
+      <consist name="Гидрангия Меджикал Эмеральд" unit="шт">5</consist>
+    </offer>
     <offer id="Rs03568" available="false">
       <categoryId>37</categoryId>
       <name>Гидрангия Пимпернель 80 см Арт. Rs03568</name>
@@ -5775,24 +5790,6 @@
       <param name="Артикул">Rs6568</param>
       <consist name="Калла Капитан Розетте" unit="шт">10</consist>
     </offer>
-    <offer id="Rs03158" available="true">
-      <categoryId>37</categoryId>
-      <name>Калла Каптаин Промисе 80 см Арт. Rs03158</name>
-      <price>158</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1tKfjHnOHqBA1_4Sdo8p48K50EbMYmVKA</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yXsMKd7BuNIeSgGziZ8gNLe1lRSbTEZL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rDaUeBiyDMStB_YwNbHmv63EpFK0503y</picture>
-      <picture>https://lh3.googleusercontent.com/d/14TsEjCZK3v4gKo9oLhx6mvOHV0syHw68</picture>
-      <picture>https://lh3.googleusercontent.com/d/1eeDO3zndxSt8ypss4VlCCGMPyWpiBKCZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1myZFVjIoCBzfzM8sg8hn5vuliaaLOG8R</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rs03158</param>
-      <consist name="Калла Каптаин Промисе" unit="шт">10</consist>
-    </offer>
     <offer id="Rs01386" available="false">
       <categoryId>37</categoryId>
       <name>Калла Одесса 60 см Арт. Rs01386</name>
@@ -5809,6 +5806,23 @@
       <param name="Артикул">Rs01386</param>
       <consist name="Калла Одесса" unit="шт">10</consist>
     </offer>
+    <offer id="Rs03186" available="false">
+      <categoryId>37</categoryId>
+      <name>Калла Солеро Арт 60 см Арт. Rs03186</name>
+      <price>190</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Er3DT0HgwsauGJrgpLCGDC0KafkOEsFn</picture>
+      <picture>https://lh3.googleusercontent.com/d/15hiQFRxAzT_OZuacCsyKbkgA14rOrX2I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hqxW7LEiCvC6VlTL9yR70TlODrlfD7An</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H0jkZEOUtMEnz3bs2Vp3O2xgzudBPXE1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Cr_amjKY_bRnutqCL0bQhHk47aFX5mbc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs03186</param>
+      <consist name="Калла Солеро Арт" unit="шт">10</consist>
+    </offer>
     <offer id="Rs01337" available="false">
       <categoryId>37</categoryId>
       <name>Калла Флорекс Голд 70 см Арт. Rs01337</name>
@@ -5824,6 +5838,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs01337</param>
       <consist name="Калла Флорекс Голд" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs5167" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Чемпион Вайт 75 см Арт. Rs5167</name>
+      <price>158</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hG4ehDve0dzzobnmaH6qYP_sBbQ59K81</picture>
+      <picture>https://lh3.googleusercontent.com/d/129RjqHV0DzQ4oX2UoIoWiTBLUbm_LxZa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cMAzvCIj-lnN6TlKWcEHikLZw1Jb3cOH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pu2KXvCF7zbGfvp_EXzoGikrzHRZT3Qj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs5167</param>
+      <consist name="Калла Чемпион Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Rs01047" available="true">
       <categoryId>37</categoryId>
