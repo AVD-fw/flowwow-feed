@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T15:51:31.452+03:00">
+<yml_catalog date="2025-09-29T15:55:07.387+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -437,6 +437,18 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fo06186</param>
       <consist name="Роза одноголовая Эспания" unit="шт">15</consist>
+    </offer>
+    <offer id="Fo774" available="false">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Кремовый 50 см Арт. Fo774</name>
+      <price>105</price>
+      <qty>0</qty>
+      <picture>https://lh3.googleusercontent.com/d/1MBp8VQjDJTIQQ28gU4vsNUwU8b4RUgAj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo774</param>
+      <consist name="Роза одноголовая пионовидная" unit="шт">1</consist>
     </offer>
     <offer id="Fo01127" available="false">
       <categoryId>2</categoryId>
@@ -1254,6 +1266,19 @@
       <param name="Артикул">Fo04937</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
+    <offer id="Fo8847" available="false">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая 70 см Арт. Fo8847</name>
+      <price>53</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18ZiXs5j4MiwRtRzMj1NdKZ9Y83uDsHCo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo8847</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Fo01317" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Алемани 70 см Арт. Fo01317</name>
@@ -1592,6 +1617,20 @@
       <param name="Артикул">Fo03445</param>
       <consist name="Хризантема Сантини" unit="шт">25</consist>
     </offer>
+    <offer id="Fo9155" available="false">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини 55 см Арт. Fo9155</name>
+      <price>53</price>
+      <qty>0</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VUoLfRz_RkF_G75F3LGg6mtx59p8hUQO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fo9155</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
     <offer id="Fo01055" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Байкал 55 см Арт. Fo01055</name>
@@ -1630,6 +1669,20 @@
       <param name="Производитель">Vanno Va</param>
       <param name="Артикул">Fo03435</param>
       <consist name="Хризантема Сантини Боуви" unit="шт">25</consist>
+    </offer>
+    <offer id="Fo9515" available="false">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Мекс 55 см Арт. Fo9515</name>
+      <price>81</price>
+      <qty>0</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14he_g_ysA26xjMXq-HzziHNq2XjOAXpx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fo9515</param>
+      <consist name="Хризантема Сантини Мекс" unit="шт">25</consist>
     </offer>
     <offer id="Fo01065" available="true">
       <categoryId>7</categoryId>
@@ -1713,9 +1766,9 @@
       <param name="Артикул">Fo03425</param>
       <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
     </offer>
-    <offer id="Fo04215" available="true">
+    <offer id="Fo04216" available="true">
       <categoryId>37</categoryId>
-      <name>Агапантус Белый 50 см Арт. Fo04215</name>
+      <name>Агапантус Белый 60 см Арт. Fo04216</name>
       <price>193</price>
       <qty>130</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -1726,25 +1779,25 @@
       <picture>https://lh3.googleusercontent.com/d/1peH-nM-IAoIufNM5tgdgK4xq5cQpGzIk</picture>
       <picture>https://lh3.googleusercontent.com/d/1kn7qYDiNIbYHQTQ7kRPzjLG5V98KXlsg</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">60</param>
       <param name="Страна">Нидерланды</param>
       <param name="Производитель">Eyfori</param>
-      <param name="Артикул">Fo04215</param>
+      <param name="Артикул">Fo04216</param>
       <consist name="Агапантус Белый" unit="шт">10</consist>
     </offer>
-    <offer id="Fo6385" available="false">
+    <offer id="Fo6386" available="false">
       <categoryId>37</categoryId>
-      <name>Агапантус Синий 50 см Арт. Fo6385</name>
+      <name>Агапантус Синий 60 см Арт. Fo6386</name>
       <price>165</price>
       <qty>0</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uJ7-Qg73AmzkbpnnjWlm6R8_LqM8wAwO</picture>
       <picture>https://lh3.googleusercontent.com/d/1_eVLJ4zOzGcBrbX8KR3Uq8GThwcY9IcS</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">60</param>
       <param name="Страна">Нидерланды</param>
-      <param name="Производитель">Eyco</param>
-      <param name="Артикул">Fo6385</param>
+      <param name="Производитель">Eyfori</param>
+      <param name="Артикул">Fo6386</param>
       <consist name="Агапантус Синий" unit="шт">10</consist>
     </offer>
     <offer id="Fo0515" available="false">
@@ -1760,6 +1813,19 @@
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fo0515</param>
+      <consist name="Аллиум" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo9637" available="false">
+      <categoryId>37</categoryId>
+      <name>Аллиум Бордовый 70 см Арт. Fo9637</name>
+      <price>281</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mm-vfaSlUXVcSjikQgpM7xC08VPpA62O</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo9637</param>
       <consist name="Аллиум" unit="шт">10</consist>
     </offer>
     <offer id="Fo0357" available="false">
@@ -1914,6 +1980,19 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fo0467</param>
       <consist name="Амарант" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo9467" available="false">
+      <categoryId>37</categoryId>
+      <name>Амарант Ползучий 70 см Арт. Fo9467</name>
+      <price>160</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jSuFCXRleWjEXdFcXfn4qJLe0qGjSE-Z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo9467</param>
+      <consist name="Амарант Ползучий" unit="шт">10</consist>
     </offer>
     <offer id="Fo05096" available="false">
       <categoryId>37</categoryId>
@@ -2249,6 +2328,20 @@
       <param name="Артикул">Fo01627</param>
       <consist name="Гвоздика кустовая Тайрона" unit="шт">25</consist>
     </offer>
+    <offer id="Fo9665" available="false">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Хорус 50 см Арт. Fo9665</name>
+      <price>53</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1weZz_nMelpGNmZq_Gifk86NyjbFiHZtk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fo9665</param>
+      <consist name="Гвоздика кустовая Хорус" unit="шт">10</consist>
+    </offer>
     <offer id="Fo0310" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Gianna 50 см Арт. Fo0310</name>
@@ -2481,6 +2574,20 @@
       <param name="Артикул">Fo01597</param>
       <consist name="Гвоздика одноголовая Марте" unit="шт">25</consist>
     </offer>
+    <offer id="Fo9596" available="false">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Мерлето Кримсон 60 см Арт. Fo9596</name>
+      <price>53</price>
+      <qty>0</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ys5UE5kUxI3Gi3KowtDueCEgXQSU2Bxa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fo9596</param>
+      <consist name="Гвоздика одноголовая Мерлето Кримсон" unit="шт">25</consist>
+    </offer>
     <offer id="Fo03167" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мунаква 70 см Арт. Fo03167</name>
@@ -2499,6 +2606,20 @@
       <param name="Производитель">Florigene</param>
       <param name="Артикул">Fo03167</param>
       <consist name="Гвоздика одноголовая Мунаква" unit="шт">20</consist>
+    </offer>
+    <offer id="Fo9576" available="false">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Ноббио Бургунди 60 см Арт. Fo9576</name>
+      <price>53</price>
+      <qty>0</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_nulOZ10dulXB6ZnJVPkP4yZUiKrhXzu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fo9576</param>
+      <consist name="Гвоздика одноголовая Ноббио Бургунди" unit="шт">25</consist>
     </offer>
     <offer id="Fo01277" available="false">
       <categoryId>37</categoryId>
@@ -2551,6 +2672,20 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fo9727</param>
       <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
+    </offer>
+    <offer id="Fo9586" available="false">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Хрома Трилл 60 см Арт. Fo9586</name>
+      <price>53</price>
+      <qty>0</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CYW6cGgAN-G_ooUOMgpPFY4r3IkZmVWw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fo9586</param>
+      <consist name="Гвоздика одноголовая Хрома Трилл" unit="шт">25</consist>
     </offer>
     <offer id="Fo01665" available="true">
       <categoryId>37</categoryId>
@@ -3602,6 +3737,34 @@
       <param name="Артикул">Fo04397</param>
       <consist name="Гортензия" unit="шт">5</consist>
     </offer>
+    <offer id="Fo9528" available="false">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Фиолетовый 80 см Арт. Fo9528</name>
+      <price>259</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1J2Ssl48QHo4kOYA3Ej8L4miWWkmYu2QL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kisima</param>
+      <param name="Артикул">Fo9528</param>
+      <consist name="Дельфиниум" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo9537" available="false">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Белый 70 см Арт. Fo9537</name>
+      <price>237</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XTds7YiM8ZfO8sgc1fzTNl3Ke3NZvCXq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kisima</param>
+      <param name="Артикул">Fo9537</param>
+      <consist name="Дельфиниум" unit="шт">10</consist>
+    </offer>
     <offer id="Fo02446" available="false">
       <categoryId>37</categoryId>
       <name>Дельфиниум Синий 60 см Арт. Fo02446</name>
@@ -3647,6 +3810,25 @@
       <param name="Артикул">Fo02025</param>
       <consist name="Ирис" unit="шт">50</consist>
     </offer>
+    <offer id="Fo543" available="false">
+      <categoryId>37</categoryId>
+      <name>Ирис Белый 50 см Арт. Fo543</name>
+      <price>57</price>
+      <qty>0</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TO2RLw_75S1Vatn58EtjjXeCjmLM4HmS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BPqV0aMs1ORtffUxCxZ1DuRdYEWjO5aa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1apVZOs0RAkPh4ksCGdUAUrqWYr2RzURK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PKSpf3oO5AG3fCnWA0JjUrZPK5caYjRi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bw21P3owHiiUo5ze3uO6PskK6F7MfsRb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YFjaRpHJVroj00L2nBufOof-ie_w74fW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fo543</param>
+      <consist name="Ирис" unit="шт">50</consist>
+    </offer>
     <offer id="Fo0451" available="true">
       <categoryId>37</categoryId>
       <name>Калла Белый 50 см Арт. Fo0451</name>
@@ -3685,6 +3867,34 @@
       <param name="Страна">уточняется</param>
       <param name="Производитель">Kallaland</param>
       <param name="Артикул">Fo0453</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo9545" available="false">
+      <categoryId>37</categoryId>
+      <name>Калла Бордовый 50 см Арт. Fo9545</name>
+      <price>165</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1et73HNtQ0jbc9YSQEeRkSf73UMoDfgfG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Fo9545</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo9565" available="false">
+      <categoryId>37</categoryId>
+      <name>Калла Красный 50 см Арт. Fo9565</name>
+      <price>198</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1eHXnT_me8XCREAEQjLTJPyBVL5xoD0JV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Fo9565</param>
       <consist name="Калла" unit="шт">10</consist>
     </offer>
     <offer id="Fo01457" available="false">
@@ -3858,6 +4068,20 @@
       <param name="Артикул">Fo573</param>
       <consist name="Лизиантус" unit="шт">10</consist>
     </offer>
+    <offer id="Fo9476" available="false">
+      <categoryId>37</categoryId>
+      <name>Лизиантус Белый 60 см Арт. Fo9476</name>
+      <price>231</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PpHzLL95Fm4o-gCVJTuiWUeJ-TLQUN3g</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Fo9476</param>
+      <consist name="Лизиантус" unit="шт">10</consist>
+    </offer>
     <offer id="Fo01365" available="true">
       <categoryId>37</categoryId>
       <name>Лилия Розовый 50 см Арт. Fo01365</name>
@@ -3961,6 +4185,21 @@
       <param name="Артикул">Fo0375</param>
       <consist name="Маттиола" unit="шт">5</consist>
     </offer>
+    <offer id="Fo909" available="false">
+      <categoryId>37</categoryId>
+      <name>Маттиола 50 см Арт. Fo909</name>
+      <price>187</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17zynerU9ISbW5fMg5ldTmSZl-W_ORLQ-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V-tUqduGUNWlvvGzqSv-Fw3Rgcy26SXW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K-xtITvZgFey9gYNa4XBxInn-VcVuRGo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo909</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
     <offer id="Fo6845" available="true">
       <categoryId>37</categoryId>
       <name>Маттиола Розовый 50 см Арт. Fo6845</name>
@@ -4036,6 +4275,20 @@
       <param name="Артикул">Fo0486</param>
       <consist name="Нутан" unit="шт">5</consist>
     </offer>
+    <offer id="Fo9396" available="false">
+      <categoryId>37</categoryId>
+      <name>Озотамнус Белый 60 см Арт. Fo9396</name>
+      <price>105</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17PnxFdaKtu5r4pXAuYhz6038icx5Q-bj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fo9396</param>
+      <consist name="Озотамнус" unit="шт">10</consist>
+    </offer>
     <offer id="Fo0485" available="true">
       <categoryId>37</categoryId>
       <name>Оксипеталум Голубой 50 см Арт. Fo0485</name>
@@ -4057,6 +4310,20 @@
       <param name="Производитель">Neeman</param>
       <param name="Артикул">Fo0485</param>
       <consist name="Оксипеталум" unit="шт">15</consist>
+    </offer>
+    <offer id="Fo9405" available="false">
+      <categoryId>37</categoryId>
+      <name>Оксипеталум Белый 50 см Арт. Fo9405</name>
+      <price>121</price>
+      <qty>0</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LFtOh8FcydUHeo1DkwQyyGl2YtDtssnO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Neeman</param>
+      <param name="Артикул">Fo9405</param>
+      <consist name="Оксипеталум" unit="шт">25</consist>
     </offer>
     <offer id="Fo0367" available="true">
       <categoryId>37</categoryId>
@@ -4213,6 +4480,18 @@
       <param name="Артикул">Fo585</param>
       <consist name="Скиммия" unit="шт">1</consist>
     </offer>
+    <offer id="Fo713" available="false">
+      <categoryId>37</categoryId>
+      <name>Скиммия Красный 50 см Арт. Fo713</name>
+      <price>53</price>
+      <qty>0</qty>
+      <picture>https://lh3.googleusercontent.com/d/1aw440O2AIgpx_671f3n8b3e7agOAiKHX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по  шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo713</param>
+      <consist name="Скиммия" unit="шт">1</consist>
+    </offer>
     <offer id="Fo01915" available="true">
       <categoryId>37</categoryId>
       <name>Танацетум Белый 50 см Арт. Fo01915</name>
@@ -4305,6 +4584,19 @@
       <param name="Артикул">Fo04794</param>
       <consist name="Тюльпан Династий" unit="шт">50</consist>
     </offer>
+    <offer id="Fo9624" available="false">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Дубль прайс 40 см Арт. Fo9624</name>
+      <price>90</price>
+      <qty>0</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gcd_HlwYLSWsSQleoeT4aglERXOh3yxC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo9624</param>
+      <consist name="Тюльпан Дубль прайс" unit="шт">50</consist>
+    </offer>
     <offer id="Fo04784" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Колумбус 40 см Арт. Fo04784</name>
@@ -4323,6 +4615,19 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fo04784</param>
       <consist name="Тюльпан Колумбус" unit="шт">50</consist>
+    </offer>
+    <offer id="Fo9614" available="false">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Фёст класс 40 см Арт. Fo9614</name>
+      <price>90</price>
+      <qty>0</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wVzE09rZB5PVT4nY91fKwgmbbt90KE_L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo9614</param>
+      <consist name="Тюльпан Фёст класс" unit="шт">50</consist>
     </offer>
     <offer id="Fo0480" available="false">
       <categoryId>37</categoryId>
@@ -4535,6 +4840,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fo652</param>
       <consist name="Эустома" unit="шт">1</consist>
+    </offer>
+    <offer id="Fo7776" available="false">
+      <categoryId>37</categoryId>
+      <name>Эуфорбия Оранжевый 60 см Арт. Fo7776</name>
+      <price>121</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jnOuM0pziTdA88cTLFI5Rfx0ZQnrUcpj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1czRVBQeK70DhJjGOC2zIPndr8piKhyxk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo7776</param>
+      <consist name="Эуфорбия" unit="шт">10</consist>
     </offer>
     <offer id="Fo0402" available="false">
       <categoryId>38</categoryId>
