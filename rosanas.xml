@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T11:35:58.652+03:00">
+<yml_catalog date="2025-09-29T11:42:25.661+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -557,7 +557,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Меритим 40 см Арт. Rs01854</name>
       <price>46</price>
-      <qty>0</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11ydBqj0Stb2XS98pNEEjvWrHx10pqnKb</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -1303,6 +1303,20 @@
       <param name="Артикул">Rs02934</param>
       <consist name="Роза кустовая Ангелина" unit="шт">10</consist>
     </offer>
+    <offer id="Rs8115" available="false">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Ангелина 50 см Арт. Rs8115</name>
+      <price>152</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HDhTQ4DqJqQ0fYw7UwjTD32DSN5ykZgW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Rs8115</param>
+      <consist name="Роза кустовая Ангелина" unit="шт">10</consist>
+    </offer>
     <offer id="Rs03026" available="false">
       <categoryId>3</categoryId>
       <name>Роза кустовая Барбадос 60 см Арт. Rs03026</name>
@@ -1331,6 +1345,20 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Rs03105</param>
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs8215" available="false">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Беларусь 50 см Арт. Rs8215</name>
+      <price>134</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mhyLgvIQHhbNH1L400d1zoYql9IwseHv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Удмуртия</param>
+      <param name="Артикул">Rs8215</param>
+      <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
     </offer>
     <offer id="Rs8094" available="false">
       <categoryId>3</categoryId>
@@ -1758,6 +1786,20 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Удмуртия</param>
       <param name="Артикул">Rs00465</param>
+      <consist name="Роза кустовая пионовидная Корал Йо Йо" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs8226" available="false">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Корал Йо Йо 60 см Арт. Rs8226</name>
+      <price>171</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UvzAiXs9B2VAJMd_pUnyEw3-vgzgBN_r</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Удмуртия</param>
+      <param name="Артикул">Rs8226</param>
       <consist name="Роза кустовая пионовидная Корал Йо Йо" unit="шт">10</consist>
     </offer>
     <offer id="Rs04436" available="false">
@@ -3509,7 +3551,7 @@
       <param name="Артикул">Rs01497</param>
       <consist name="Альстромерия Аврора" unit="шт">10</consist>
     </offer>
-    <offer id="rosanas_B2B_228" available="false">
+    <offer id="rosanas_B2B_231" available="false">
       <categoryId>37</categoryId>
       <name>Альстромерия Вирджиния 70 см</name>
       <price>116</price>
@@ -5410,7 +5452,7 @@
       <categoryId>37</categoryId>
       <name>Глориоза Экзот Орандж 90 см Арт. Rs03599</name>
       <price>317</price>
-      <qty>0</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qA80byE9BqsHQ9zhqpyRjnx-tAPHVs52</picture>
       <picture>https://lh3.googleusercontent.com/d/1_MKScJEcMzmA8l-lrxa_N4_UNOSA_0Ge</picture>
@@ -6051,7 +6093,7 @@
       <categoryId>37</categoryId>
       <name>Магнолия Грандифлора 90 см Арт. Rs7969</name>
       <price>332</price>
-      <qty>0</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Lr6PE3xhSu-lLocYmBIlwQ49_MkAskhu</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -6277,6 +6319,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs5186</param>
       <consist name="Озотамнус Кокс Сноу Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Rs5779" available="false">
+      <categoryId>37</categoryId>
+      <name>Озотамнус Кукс Шоу Ви 99 см Арт. Rs5779</name>
+      <price>169</price>
+      <qty>0</qty>
+      <quantity_in_package>99</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JS4VCctUqC-kQlEYWYgRuIrAVLoMJg4p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X0c342eabJnwgWl_gbqx9uNEC9PsgQ0e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JU2FmSd1V5OhXIYgrafon71jWW15UTI9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 99 шт.</description>
+      <param name="Высота, см">99</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs5779</param>
+      <consist name="Озотамнус Кукс Шоу Ви" unit="шт">99</consist>
     </offer>
     <offer id="Rs02356" available="false">
       <categoryId>37</categoryId>
@@ -7671,7 +7728,7 @@
       <categoryId>38</categoryId>
       <name>Лимониум Фиолетовый 99 см Арт. Rs3409</name>
       <price>79</price>
-      <qty>0</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14yLqPoVRHOG9QBGB1XzlT91h7vQlczFa</picture>
       <picture>https://lh3.googleusercontent.com/d/1EY5xOEYcPcKvnckaSzbuqmvMo5f0sc-B</picture>
