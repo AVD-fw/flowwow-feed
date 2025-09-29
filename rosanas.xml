@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T12:12:18.895+03:00">
+<yml_catalog date="2025-09-29T12:18:19.938+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -2639,7 +2639,7 @@
       <picture>https://lh3.googleusercontent.com/d/18kJDHEbyQDnPbdJizavsDAZFhFn3Q57k</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Rs01977</param>
       <consist name="Хризантема одноголовая Бальтазар Интен" unit="шт">10</consist>
@@ -2797,7 +2797,7 @@
       <picture>https://lh3.googleusercontent.com/d/19mxj-vMhO1IVSveysF7jLh4x-XNObx6A</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Голландия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rs6467</param>
       <consist name="Хризантема одноголовая Джи Роксо" unit="шт">10</consist>
@@ -2963,7 +2963,7 @@
       <picture>https://lh3.googleusercontent.com/d/1idg0KiNVRPZOlVslHOrrsa0_aFJduGyx</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Rs02317</param>
       <consist name="Хризантема одноголовая Росс Элизабетт" unit="шт">10</consist>
@@ -5134,6 +5134,17 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rs7775</param>
       <consist name="Герберамини Эспрессо" unit="шт">20</consist>
+    </offer>
+    <offer id="Rs865" available="false">
+      <categoryId>37</categoryId>
+      <name>Гидрангия 50 см Арт. Rs865</name>
+      <price>132</price>
+      <qty>0</qty>
+      <picture>https://lh3.googleusercontent.com/d/1e3R2UbsKN_QzAr4fn3I_X_nsW3-o11QS</picture>
+      <description>Гидрангия 50 см Арт. Rs865</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs865</param>
     </offer>
     <offer id="Rs7918" available="false">
       <categoryId>37</categoryId>
