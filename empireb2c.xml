@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-26T13:57:07.794+03:00">
+<yml_catalog date="2025-09-29T06:42:07.413+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
+    <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <offers>
-    <offer id="B2C_Em00485">
+    <offer id="B2C_Em1756" available="false">
+      <name>Роза одноголовая 25 шт Красный 60 см Арт. Em1756</name>
+      <price>2500</price>
+      <picture>https://lh3.googleusercontent.com/d/1g3CzuH8EaNR5Q-SXNT6a_nt85CSupQO9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Em1756</param>
+      <consist name="Роза одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00485" available="false">
       <name>Роза одноголовая Аваланш 9 шт 50 см Арт. Em00485</name>
       <price>1000</price>
       <picture>https://lh3.googleusercontent.com/d/1N1TScDwThxwb61f5uu63wnBMnsksd6Jk</picture>
@@ -19,7 +31,77 @@
       <param name="Артикул">Em00485</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00494">
+    <offer id="B2C_Em01307" available="false">
+      <name>Роза одноголовая Би Свит 25 шт 70 см Арт. Em01307</name>
+      <price>3050</price>
+      <picture>https://lh3.googleusercontent.com/d/1tuf_VOOuebJvOjU8JbOuaykFnSwXlC5W</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">OK Roses</param>
+      <param name="Артикул">Em01307</param>
+      <consist name="Роза одноголовая Би Свит" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1845" available="false">
+      <name>Роза одноголовая Джумилия 15 шт 50 см Арт. Em1845</name>
+      <price>1500</price>
+      <picture>https://lh3.googleusercontent.com/d/1-CoRQbkYtu4Pd0MwD2EwsBLFRGGQqony</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em1845</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
+    <offer id="B2C_Em01336" available="false">
+      <name>Роза одноголовая Креам Экспрешн 25 шт 60 см Арт. Em01336</name>
+      <price>3050</price>
+      <picture>https://lh3.googleusercontent.com/d/1oATmEzUW_kJ5AnrcHPXxPhFuBEtyfA9l</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Roses</param>
+      <param name="Артикул">Em01336</param>
+      <consist name="Роза одноголовая Креам Экспрешн" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2597" available="false">
+      <name>Роза одноголовая Кэндллайт 25 шт 70 см Арт. Em2597</name>
+      <price>2525</price>
+      <picture>https://lh3.googleusercontent.com/d/1rmPNtFQLt3rCsGE79zyCciVrCuEeyCxv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Em2597</param>
+      <consist name="Роза одноголовая Кэндллайт" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01347" available="false">
+      <name>Роза одноголовая Мандала 25 шт 70 см Арт. Em01347</name>
+      <price>3175</price>
+      <picture>https://lh3.googleusercontent.com/d/1yyJPexd39zDljUlAB11ga1novfUt6TN3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Em01347</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2558" available="false">
+      <name>Роза одноголовая Мандала 25 шт 80 см Арт. Em2558</name>
+      <price>4225</price>
+      <picture>https://lh3.googleusercontent.com/d/1lxh5DLEpEbl8MUbUBmr0waIRU_mmrUsZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Sofie Farms</param>
+      <param name="Артикул">Em2558</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00494" available="false">
       <name>Роза одноголовая Мисс Пигги 9 шт 40 см Арт. Em00494</name>
       <price>1000</price>
       <picture>https://lh3.googleusercontent.com/d/1wwiwmSTya051CqjLcqVsnm4dA6eT6M5G</picture>
@@ -34,7 +116,112 @@
       <param name="Артикул">Em00494</param>
       <consist name="Роза одноголовая Мисс Пигги" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00475">
+    <offer id="B2C_Em01297" available="false">
+      <name>Роза одноголовая Мондиаль 25 шт 70 см Арт. Em01297</name>
+      <price>3050</price>
+      <picture>https://lh3.googleusercontent.com/d/1XcExpTH1HfvJtaCJGfuSKghufdAc1DB_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Valems Flowers</param>
+      <param name="Артикул">Em01297</param>
+      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2568" available="false">
+      <name>Роза одноголовая Мондиаль 25 шт 80 см Арт. Em2568</name>
+      <price>2525</price>
+      <picture>https://lh3.googleusercontent.com/d/1Zmu7_flDfwfle_N8KOBPinNObBZRPDqe</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tu Roses</param>
+      <param name="Артикул">Em2568</param>
+      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01356" available="false">
+      <name>Роза одноголовая Нина 25 шт 60 см Арт. Em01356</name>
+      <price>2725</price>
+      <picture>https://lh3.googleusercontent.com/d/1bki-0FjepdLmDI-8K7shtrYQ6yP1w-A1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Em01356</param>
+      <consist name="Роза одноголовая Нина" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2548" available="false">
+      <name>Роза одноголовая Пинк Мондиаль 25 шт 80 см Арт. Em2548</name>
+      <price>3275</price>
+      <picture>https://lh3.googleusercontent.com/d/16m0lFXJZ5RoUvZQGDjeFk-6YzQelMe4f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Sofie Farms</param>
+      <param name="Артикул">Em2548</param>
+      <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01328" available="false">
+      <name>Роза одноголовая Проуд 25 шт 80 см Арт. Em01328</name>
+      <price>3575</price>
+      <picture>https://lh3.googleusercontent.com/d/1CAdn9mqpEJ3aRRUuvn4EYG5rWk3ZPOzs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Star Roses</param>
+      <param name="Артикул">Em01328</param>
+      <consist name="Роза одноголовая Проуд" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1885" available="false">
+      <name>Роза одноголовая Ред Наоми 15 шт 50 см Арт. Em1885</name>
+      <price>1500</price>
+      <picture>https://lh3.googleusercontent.com/d/15z6ubNeZl7WBO566Hi-gXh8QfVsUA44i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em1885</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
+    </offer>
+    <offer id="B2C_Em01637" available="false">
+      <name>Роза одноголовая Стар Блю 25 шт 70 см Арт. Em01637</name>
+      <price>3250</price>
+      <picture>https://lh3.googleusercontent.com/d/1LN4OX44CTWllccBJBtF4WmCFk99tXP9V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Star Roses</param>
+      <param name="Артикул">Em01637</param>
+      <consist name="Роза одноголовая Стар Блю" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01628" available="false">
+      <name>Роза одноголовая Хот Спот 25 шт 80 см Арт. Em01628</name>
+      <price>3050</price>
+      <picture>https://lh3.googleusercontent.com/d/1bu1wVQARCxniNHcz1y9AuFgKUjQNl6mM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Ecoflor</param>
+      <param name="Артикул">Em01628</param>
+      <consist name="Роза одноголовая Хот Спот" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01367" available="false">
+      <name>Роза одноголовая Эксплорер 25 шт 70 см Арт. Em01367</name>
+      <price>3050</price>
+      <picture>https://lh3.googleusercontent.com/d/1NjAZBV8iAQtf7aY8EnB55ltPnropFgou</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Em01367</param>
+      <consist name="Роза одноголовая Эксплорер" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00475" available="false">
       <name>Роза одноголовая Эль Торо 15 шт 50 см Арт. Em00475</name>
       <price>1500</price>
       <picture>https://lh3.googleusercontent.com/d/1fdLjuMenHa41RGbNFD65nwvc5ex9mrM7</picture>
@@ -49,7 +236,46 @@
       <param name="Артикул">Em00475</param>
       <consist name="Роза одноголовая Эль Торо" unit="шт">15</consist>
     </offer>
-    <offer id="B2C_Em01386">
+    <offer id="B2C_Em01377" available="false">
+      <name>Роза одноголовая Эсперансе 25 шт 70 см Арт. Em01377</name>
+      <price>3250</price>
+      <picture>https://lh3.googleusercontent.com/d/1m5hGEJTSm1VTHcrUIcumQLQ_EnKy3I3x</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Star Roses</param>
+      <param name="Артикул">Em01377</param>
+      <consist name="Роза одноголовая Эсперансе" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01316" available="false">
+      <name>Роза одноголовая пионовидная Кантри Блюз 25 шт 60 см Арт. Em01316</name>
+      <price>2725</price>
+      <picture>https://lh3.googleusercontent.com/d/1LtvImNn5lTc0ngPRyDkSazYTyqMDa4AZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tu Roses</param>
+      <param name="Артикул">Em01316</param>
+      <consist name="Роза одноголовая пионовидная Кантри Блюз" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00465" available="false">
+      <name>Роза одноголовая пионовидная Леди Априкот 9 шт 50 см Арт. Em00465</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1HGtss2X1On2f5N0ulgLaYhZodVne0mK_</picture>
+      <picture>https://lh3.googleusercontent.com/d/10PW0OCQ2O5BS61SjuXlb9KXGn-82_X6S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z6VumJYIlNEsCr77AiH1vblc3dEpE-8V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ko-qhbNGCwYkUSSeHuSUaAguPy0SRhaA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Подосинки</param>
+      <param name="Артикул">Em00465</param>
+      <consist name="Роза одноголовая пионовидная Леди Априкот" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01386" available="false">
       <name>Роза одноголовая пионовидная Принцесса Краун 25 шт 60 см Арт. Em01386</name>
       <price>3250</price>
       <picture>https://lh3.googleusercontent.com/d/1S9VJnNZCcpRh1ZIftiwOUZ3s4jOL6t9G</picture>
@@ -61,7 +287,46 @@
       <param name="Артикул">Em01386</param>
       <consist name="Роза одноголовая пионовидная Принцесса Краун" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_Em00797">
+    <offer id="B2C_Em00395" available="false">
+      <name>Роза кустовая Лидия 9 шт 50 см Арт. Em00395</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1YWyjefzeaRW--thpbJa6tQLGgD8mk_TG</picture>
+      <picture>https://lh3.googleusercontent.com/d/12HeJpCHMCjRk8cBGd4ijww0SjRu3rCv7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TEErNa-fI4Mty3nq69YHx4uVW5VR9FeZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D43B15IXppwNULtuKOISBdMSKNZH5BUl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Подосинки</param>
+      <param name="Артикул">Em00395</param>
+      <consist name="Роза кустовая Лидия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00775" available="false">
+      <name>Роза кустовая Мисс Бомбастик 9 шт 50 см Арт. Em00775</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/17UkBnpYwZs3cLTTNhZpASsfcClicynny</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00775</param>
+      <consist name="Роза кустовая Мисс Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00786" available="false">
+      <name>Роза кустовая Мисс Бомбастик 9 шт 60 см Арт. Em00786</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/17UkBnpYwZs3cLTTNhZpASsfcClicynny</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00786</param>
+      <consist name="Роза кустовая Мисс Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00797" available="false">
       <name>Роза кустовая Мисс Бомбастик 9 шт 70 см Арт. Em00797</name>
       <price>1800</price>
       <picture>https://lh3.googleusercontent.com/d/17UkBnpYwZs3cLTTNhZpASsfcClicynny</picture>
@@ -73,7 +338,115 @@
       <param name="Артикул">Em00797</param>
       <consist name="Роза кустовая Мисс Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01535">
+    <offer id="B2C_Em00705" available="false">
+      <name>Роза кустовая Пинк Дайменшн 9 шт 50 см Арт. Em00705</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1xRwD2lx9P1BSi5m5oJJQXiBY1LScjFQD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00705</param>
+      <consist name="Роза кустовая Пинк Дайменшн" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00716" available="false">
+      <name>Роза кустовая Пинк Дайменшн 9 шт 60 см Арт. Em00716</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/1xRwD2lx9P1BSi5m5oJJQXiBY1LScjFQD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00716</param>
+      <consist name="Роза кустовая Пинк Дайменшн" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00727" available="false">
+      <name>Роза кустовая Пинк Дайменшн 9 шт 70 см Арт. Em00727</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/1xRwD2lx9P1BSi5m5oJJQXiBY1LScjFQD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00727</param>
+      <consist name="Роза кустовая Пинк Дайменшн" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00335" available="false">
+      <name>Роза кустовая Саммер Денс 9 шт 50 см Арт. Em00335</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1n3jPJlcw752HPjMBtZLxuB1tEpLShTWB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Em00335</param>
+      <consist name="Роза кустовая Саммер Денс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00346" available="false">
+      <name>Роза кустовая Саммер Денс 9 шт 60 см Арт. Em00346</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/1n3jPJlcw752HPjMBtZLxuB1tEpLShTWB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Em00346</param>
+      <consist name="Роза кустовая Саммер Денс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00357" available="false">
+      <name>Роза кустовая Саммер Денс 9 шт 70 см Арт. Em00357</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/1n3jPJlcw752HPjMBtZLxuB1tEpLShTWB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Em00357</param>
+      <consist name="Роза кустовая Саммер Денс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00675" available="false">
+      <name>Роза кустовая Таня 9 шт 50 см Арт. Em00675</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/11oNjn4k9_zfrp8Ynb0EZUQOooK0MCWtR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00675</param>
+      <consist name="Роза кустовая Таня" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00686" available="false">
+      <name>Роза кустовая Таня 9 шт 60 см Арт. Em00686</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/11oNjn4k9_zfrp8Ynb0EZUQOooK0MCWtR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00686</param>
+      <consist name="Роза кустовая Таня" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00697" available="false">
+      <name>Роза кустовая Таня 9 шт 70 см Арт. Em00697</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/11oNjn4k9_zfrp8Ynb0EZUQOooK0MCWtR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00697</param>
+      <consist name="Роза кустовая Таня" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01535" available="false">
       <name>Роза кустовая Таня 9 шт 50 см Арт. Em01535</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/19btiG3bBF6PPHZCD4eHiVw2dfUpplsD_</picture>
@@ -85,7 +458,18 @@
       <param name="Артикул">Em01535</param>
       <consist name="Роза кустовая Таня" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01525">
+    <offer id="B2C_Em1834" available="false">
+      <name>Роза кустовая Таня 9 шт 40 см Арт. Em1834</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/12zly3TfcrU0f3HCHEznKEZnomQieqR-l</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em1834</param>
+      <consist name="Роза кустовая Таня" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01525" available="false">
       <name>Роза кустовая Фемке 9 шт 50 см Арт. Em01525</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/1HtY2uM8XF5XNS63OZmYItf8UI2qwA0Td</picture>
@@ -97,7 +481,18 @@
       <param name="Артикул">Em01525</param>
       <consist name="Роза кустовая Фемке" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00274">
+    <offer id="B2C_Em1874" available="false">
+      <name>Роза кустовая пионовидная 9 шт Розовый 40 см Арт. Em1874</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1gTvRrfqwUWhfFT4pD6ULZDlfRlgt5mP4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em1874</param>
+      <consist name="Роза кустовая пионовидная" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00274" available="false">
       <name>Роза кустовая пионовидная Бомбастик 9 шт 40 см Арт. Em00274</name>
       <price>750</price>
       <picture>https://lh3.googleusercontent.com/d/1P9RuNaijCywBq9UKA_9Kc6EW1IZvdE69</picture>
@@ -112,7 +507,43 @@
       <param name="Артикул">Em00274</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01407">
+    <offer id="B2C_Em00615" available="false">
+      <name>Роза кустовая пионовидная Бомбастик 9 шт 50 см Арт. Em00615</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/11vrEYovZXm8nSa6UYWE8Je7boZK6sN-Y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00615</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00626" available="false">
+      <name>Роза кустовая пионовидная Бомбастик 9 шт 60 см Арт. Em00626</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/11vrEYovZXm8nSa6UYWE8Je7boZK6sN-Y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00626</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00637" available="false">
+      <name>Роза кустовая пионовидная Бомбастик 9 шт 70 см Арт. Em00637</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/11vrEYovZXm8nSa6UYWE8Je7boZK6sN-Y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00637</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01407" available="false">
       <name>Роза кустовая пионовидная Бомбастик 9 шт 70 см Арт. Em01407</name>
       <price>1900</price>
       <picture>https://lh3.googleusercontent.com/d/1p_N4w2rx3PyqQ7nGFM15nFS3NrSzPilg</picture>
@@ -124,7 +555,7 @@
       <param name="Артикул">Em01407</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01566">
+    <offer id="B2C_Em01566" available="false">
       <name>Роза кустовая пионовидная Бомбастик 9 шт 60 см Арт. Em01566</name>
       <price>1680</price>
       <picture>https://lh3.googleusercontent.com/d/1Wl4oQHW5SPr3Vqpt7babKoTR6NfCn5x1</picture>
@@ -136,7 +567,7 @@
       <param name="Артикул">Em01566</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00294">
+    <offer id="B2C_Em00294" available="false">
       <name>Роза кустовая пионовидная Голландец 9 шт 40 см Арт. Em00294</name>
       <price>1000</price>
       <picture>https://lh3.googleusercontent.com/d/1tUg6heyYLySQdSeEHN69p9fREoBsyTp5</picture>
@@ -151,7 +582,7 @@
       <param name="Артикул">Em00294</param>
       <consist name="Роза кустовая пионовидная Голландец" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01505">
+    <offer id="B2C_Em01505" available="false">
       <name>Роза кустовая пионовидная Гранмас Кети 9 шт 50 см Арт. Em01505</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/1QEutwqNXycAN4mRQUUrySL-PeZcO4ZL-</picture>
@@ -163,7 +594,7 @@
       <param name="Артикул">Em01505</param>
       <consist name="Роза кустовая пионовидная Гранмас Кети" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00415">
+    <offer id="B2C_Em00415" available="false">
       <name>Роза кустовая пионовидная Корал Йо Йо 5 шт 50 см Арт. Em00415</name>
       <price>500</price>
       <picture>https://lh3.googleusercontent.com/d/1y3M5zXTnFIDh_cj5VKDe4tImYZfr_ZVH</picture>
@@ -178,7 +609,43 @@
       <param name="Артикул">Em00415</param>
       <consist name="Роза кустовая пионовидная Корал Йо Йо" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_Em00355">
+    <offer id="B2C_Em00805" available="false">
+      <name>Роза кустовая пионовидная Лаванда 9 шт 50 см Арт. Em00805</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1OESqS-OCmU7J5maCi-0LCGbJXUs0Vl0i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00805</param>
+      <consist name="Роза кустовая пионовидная Лаванда" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00816" available="false">
+      <name>Роза кустовая пионовидная Лаванда 9 шт 60 см Арт. Em00816</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/1OESqS-OCmU7J5maCi-0LCGbJXUs0Vl0i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00816</param>
+      <consist name="Роза кустовая пионовидная Лаванда" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00827" available="false">
+      <name>Роза кустовая пионовидная Лаванда 9 шт 70 см Арт. Em00827</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/1OESqS-OCmU7J5maCi-0LCGbJXUs0Vl0i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00827</param>
+      <consist name="Роза кустовая пионовидная Лаванда" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00355" available="false">
       <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 50 см Арт. Em00355</name>
       <price>1000</price>
       <picture>https://lh3.googleusercontent.com/d/1n7OObHaDsLU1Xt2iJmU4cOqH6YFAp_Yw</picture>
@@ -193,7 +660,43 @@
       <param name="Артикул">Em00355</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01397">
+    <offer id="B2C_Em00555" available="false">
+      <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 50 см Арт. Em00555</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1W1fuuSQLlKALKmZXKdiG7P3Ph7fNpYY2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00555</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00566" available="false">
+      <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 60 см Арт. Em00566</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/1W1fuuSQLlKALKmZXKdiG7P3Ph7fNpYY2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00566</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00577" available="false">
+      <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 70 см Арт. Em00577</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/1W1fuuSQLlKALKmZXKdiG7P3Ph7fNpYY2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00577</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01397" available="false">
       <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 70 см Арт. Em01397</name>
       <price>1900</price>
       <picture>https://lh3.googleusercontent.com/d/1oTu5YRN8RmXZE2MH49qSKlO50eiaE7sK</picture>
@@ -205,7 +708,7 @@
       <param name="Артикул">Em01397</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01427">
+    <offer id="B2C_Em01427" available="false">
       <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 70 см Арт. Em01427</name>
       <price>1900</price>
       <picture>https://lh3.googleusercontent.com/d/1AsfZoduxkPNYSqZgzpJeR_Kj9V-anl5f</picture>
@@ -217,7 +720,7 @@
       <param name="Артикул">Em01427</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01485">
+    <offer id="B2C_Em01485" available="false">
       <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 50 см Арт. Em01485</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/1hHVXMAjS1p3yf_XSbNRLE4UDB3KAPQAN</picture>
@@ -229,7 +732,7 @@
       <param name="Артикул">Em01485</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01576">
+    <offer id="B2C_Em01576" available="false">
       <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 60 см Арт. Em01576</name>
       <price>1680</price>
       <picture>https://lh3.googleusercontent.com/d/1vT7IKDqabB8nEWwNYArk6-73oyNiEbOq</picture>
@@ -241,7 +744,7 @@
       <param name="Артикул">Em01576</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00335">
+    <offer id="B2C_Em00335" available="false">
       <name>Роза кустовая пионовидная Луна Трендсеттер 9 шт 50 см Арт. Em00335</name>
       <price>1000</price>
       <picture>https://lh3.googleusercontent.com/d/1GdQqbAZZ8dlHWD9upkuvMHGgcKehgk1c</picture>
@@ -256,7 +759,43 @@
       <param name="Артикул">Em00335</param>
       <consist name="Роза кустовая пионовидная Луна Трендсеттер" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01417">
+    <offer id="B2C_Em00645" available="false">
+      <name>Роза кустовая пионовидная Мадам Бомбастик 9 шт 50 см Арт. Em00645</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1QNrdwTnmFmik9MC9LY4fYhvmOj4Neb53</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00645</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00656" available="false">
+      <name>Роза кустовая пионовидная Мадам Бомбастик 9 шт 60 см Арт. Em00656</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/1QNrdwTnmFmik9MC9LY4fYhvmOj4Neb53</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00656</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00667" available="false">
+      <name>Роза кустовая пионовидная Мадам Бомбастик 9 шт 70 см Арт. Em00667</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/1QNrdwTnmFmik9MC9LY4fYhvmOj4Neb53</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00667</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01417" available="false">
       <name>Роза кустовая пионовидная Мадам Бомбастик 9 шт 70 см Арт. Em01417</name>
       <price>1900</price>
       <picture>https://lh3.googleusercontent.com/d/1WF5cN9zTJJpKW1AuxGUHy4VW0w7tn8-Z</picture>
@@ -268,7 +807,7 @@
       <param name="Артикул">Em01417</param>
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01556">
+    <offer id="B2C_Em01556" available="false">
       <name>Роза кустовая пионовидная Мадам Бомбастик 9 шт 60 см Арт. Em01556</name>
       <price>1680</price>
       <picture>https://lh3.googleusercontent.com/d/15Oi8Ji2VxjE6tExNVKFqxPBi98BbwoM0</picture>
@@ -280,7 +819,43 @@
       <param name="Артикул">Em01556</param>
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01437">
+    <offer id="B2C_Em00735" available="false">
+      <name>Роза кустовая пионовидная Марвел 9 шт 50 см Арт. Em00735</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1RtaG42HiMHH-M9SYCEzEnG5bwT3bzSIt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00735</param>
+      <consist name="Роза кустовая пионовидная Марвел" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00746" available="false">
+      <name>Роза кустовая пионовидная Марвел 9 шт 60 см Арт. Em00746</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/1RtaG42HiMHH-M9SYCEzEnG5bwT3bzSIt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00746</param>
+      <consist name="Роза кустовая пионовидная Марвел" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00757" available="false">
+      <name>Роза кустовая пионовидная Марвел 9 шт 70 см Арт. Em00757</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/1RtaG42HiMHH-M9SYCEzEnG5bwT3bzSIt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00757</param>
+      <consist name="Роза кустовая пионовидная Марвел" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01437" available="false">
       <name>Роза кустовая пионовидная Мисс Бомбастик 9 шт 70 см Арт. Em01437</name>
       <price>1900</price>
       <picture>https://lh3.googleusercontent.com/d/14UGFOE3pvJkx4gu7QJ9OLsJy5itzs-R2</picture>
@@ -292,7 +867,43 @@
       <param name="Артикул">Em01437</param>
       <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00857">
+    <offer id="B2C_Em01586" available="false">
+      <name>Роза кустовая пионовидная Мисс Бомбастик 9 шт 60 см Арт. Em01586</name>
+      <price>1680</price>
+      <picture>https://lh3.googleusercontent.com/d/1wii0mdf6qE_fZ4zw_whciErOSJivz7OU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Em01586</param>
+      <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00835" available="false">
+      <name>Роза кустовая пионовидная Мисти Бабблс 9 шт 50 см Арт. Em00835</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/199W2bfxuh7yH7eBdThianwGyqvNtSFq7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00835</param>
+      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00846" available="false">
+      <name>Роза кустовая пионовидная Мисти Бабблс 9 шт 60 см Арт. Em00846</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/199W2bfxuh7yH7eBdThianwGyqvNtSFq7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00846</param>
+      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00857" available="false">
       <name>Роза кустовая пионовидная Мисти Бабблс 9 шт 70 см Арт. Em00857</name>
       <price>1800</price>
       <picture>https://lh3.googleusercontent.com/d/199W2bfxuh7yH7eBdThianwGyqvNtSFq7</picture>
@@ -304,7 +915,7 @@
       <param name="Артикул">Em00857</param>
       <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01466">
+    <offer id="B2C_Em01466" available="false">
       <name>Роза кустовая пионовидная Мисти Бабблс 9 шт 60 см Арт. Em01466</name>
       <price>1680</price>
       <picture>https://lh3.googleusercontent.com/d/1T3aLQOraER_77co-liiBmP_S-8XgEvES</picture>
@@ -316,7 +927,7 @@
       <param name="Артикул">Em01466</param>
       <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01495">
+    <offer id="B2C_Em01495" available="false">
       <name>Роза кустовая пионовидная Мисти Бабблс 9 шт 50 см Арт. Em01495</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/1Ss0UDJOBbnUMIIkvbs45Vl3NHEjTCEp5</picture>
@@ -328,7 +939,7 @@
       <param name="Артикул">Em01495</param>
       <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01475">
+    <offer id="B2C_Em01475" available="false">
       <name>Роза кустовая пионовидная Прованс 9 шт 50 см Арт. Em01475</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/10tkUkmgFqQ8dAhkNUePRxSmwx03l-kJd</picture>
@@ -340,7 +951,7 @@
       <param name="Артикул">Em01475</param>
       <consist name="Роза кустовая пионовидная Прованс" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01515">
+    <offer id="B2C_Em01515" available="false">
       <name>Роза кустовая пионовидная Прованс 9 шт 50 см Арт. Em01515</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/1LN6qQRgi2sRItboVF_RbMHKLSwTQ1DKK</picture>
@@ -352,7 +963,7 @@
       <param name="Артикул">Em01515</param>
       <consist name="Роза кустовая пионовидная Прованс" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00284">
+    <offer id="B2C_Em00284" available="false">
       <name>Роза кустовая пионовидная Ракета 9 шт 40 см Арт. Em00284</name>
       <price>750</price>
       <picture>https://lh3.googleusercontent.com/d/11oKqg2Aikl1WXM4pLD-oNkh-jMdl6OJ4</picture>
@@ -367,7 +978,7 @@
       <param name="Артикул">Em00284</param>
       <consist name="Роза кустовая пионовидная Ракета" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00405">
+    <offer id="B2C_Em00405" available="false">
       <name>Роза кустовая пионовидная Ред Бабблс 9 шт 50 см Арт. Em00405</name>
       <price>1000</price>
       <picture>https://lh3.googleusercontent.com/d/17ejnw_cp46eJL2i93C8wBZ6b0BtnDkEF</picture>
@@ -382,7 +993,7 @@
       <param name="Артикул">Em00405</param>
       <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01447">
+    <offer id="B2C_Em01447" available="false">
       <name>Роза кустовая пионовидная Ред Баблз 9 шт 70 см Арт. Em01447</name>
       <price>1900</price>
       <picture>https://lh3.googleusercontent.com/d/1XogMsufMLPCLWwAR5phVEMz48Z6MTcMm</picture>
@@ -394,7 +1005,7 @@
       <param name="Артикул">Em01447</param>
       <consist name="Роза кустовая пионовидная Ред Баблз" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01456">
+    <offer id="B2C_Em01456" available="false">
       <name>Роза кустовая пионовидная Ред Баблз 9 шт 60 см Арт. Em01456</name>
       <price>1680</price>
       <picture>https://lh3.googleusercontent.com/d/1ZOo3V7uonHQrkjT1fpP6rxaePtrhEzTt</picture>
@@ -406,7 +1017,7 @@
       <param name="Артикул">Em01456</param>
       <consist name="Роза кустовая пионовидная Ред Баблз" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em01545">
+    <offer id="B2C_Em01545" available="false">
       <name>Роза кустовая пионовидная Ред Баблз 9 шт 50 см Арт. Em01545</name>
       <price>1280</price>
       <picture>https://lh3.googleusercontent.com/d/1EUEDvR9T9STy6Vl9jexurGZmQXDdTCQX</picture>
@@ -418,7 +1029,43 @@
       <param name="Артикул">Em01545</param>
       <consist name="Роза кустовая пионовидная Ред Баблз" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_Em00345">
+    <offer id="B2C_Em00585" available="false">
+      <name>Роза кустовая пионовидная Ред Пиано 9 шт 50 см Арт. Em00585</name>
+      <price>1450</price>
+      <picture>https://lh3.googleusercontent.com/d/1jyapeW2p3RCuMl3kXmTK-NGZqGnx8k8_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00585</param>
+      <consist name="Роза кустовая пионовидная Ред Пиано" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00596" available="false">
+      <name>Роза кустовая пионовидная Ред Пиано 9 шт 60 см Арт. Em00596</name>
+      <price>1650</price>
+      <picture>https://lh3.googleusercontent.com/d/1jyapeW2p3RCuMl3kXmTK-NGZqGnx8k8_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00596</param>
+      <consist name="Роза кустовая пионовидная Ред Пиано" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00607" available="false">
+      <name>Роза кустовая пионовидная Ред Пиано 9 шт 70 см Арт. Em00607</name>
+      <price>1800</price>
+      <picture>https://lh3.googleusercontent.com/d/1jyapeW2p3RCuMl3kXmTK-NGZqGnx8k8_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Грант Роз</param>
+      <param name="Артикул">Em00607</param>
+      <consist name="Роза кустовая пионовидная Ред Пиано" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00345" available="false">
       <name>Роза кустовая пионовидная Фемке 9 шт 50 см Арт. Em00345</name>
       <price>1000</price>
       <picture>https://lh3.googleusercontent.com/d/1leX_X8XjOnsKXbUUIVGHPkK7sRRB-MtL</picture>
@@ -432,6 +1079,1470 @@
       <param name="Производитель">Подосинки</param>
       <param name="Артикул">Em00345</param>
       <consist name="Роза кустовая пионовидная Фемке" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00435" available="false">
+      <name>Роза кустовая пионовидная Фест Дейт 5 шт 50 см Арт. Em00435</name>
+      <price>500</price>
+      <picture>https://lh3.googleusercontent.com/d/1MQuOyfAGOPZWKrarsfDTKZojaS_qNE_S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kV9v1jRhZDwpE00DhYQlLYvndGW9JjaE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qXh1cZz79Np9PAaQoMf07X4gsZoBLXCi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Nd2kz9tVsZoIRLyX8yDQZHOQiUpqfSAW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Подосинки</param>
+      <param name="Артикул">Em00435</param>
+      <consist name="Роза кустовая пионовидная Фест Дейт" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em2167" available="false">
+      <name>Хризантема одноголовая Антонов Магнум 9 шт 70 см Арт. Em2167</name>
+      <price>1320</price>
+      <picture>https://lh3.googleusercontent.com/d/1KUcEou4Z9W6Mb-lhcsLKu5fTjawWKuDl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em2167</param>
+      <consist name="Хризантема одноголовая Антонов Магнум" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2177" available="false">
+      <name>Хризантема одноголовая Антонов Магнум 9 шт 70 см Арт. Em2177</name>
+      <price>1320</price>
+      <picture>https://lh3.googleusercontent.com/d/1aYLRZuFrjuZPByxZ7bzoeft9i7k9vG0L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em2177</param>
+      <consist name="Хризантема одноголовая Антонов Магнум" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2447" available="false">
+      <name>Хризантема одноголовая Антонов Магнум 9 шт 70 см Арт. Em2447</name>
+      <price>1320</price>
+      <picture>https://lh3.googleusercontent.com/d/1KYGCrf0qL4GfJhClUFKDSlP6nQ-U4Y9D</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Em2447</param>
+      <consist name="Хризантема одноголовая Антонов Магнум" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2207" available="false">
+      <name>Хризантема одноголовая Антонов Магнум крашеная 9 шт 70 см Арт. Em2207</name>
+      <price>1320</price>
+      <picture>https://lh3.googleusercontent.com/d/1erEf8EgTZtif9s_oXzJGdhV_xF5mZZkC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Em2207</param>
+      <consist name="Хризантема одноголовая Антонов Магнум крашеная" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2346" available="false">
+      <name>Хризантема кустовая 5 шт Розовый 60 см Арт. Em2346</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1dOFj2MGzQ2A4UVQae4OINZq9WA9AIHEI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Em2346</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em2145" available="false">
+      <name>Хризантема кустовая 5 шт Сиреневый 50 см Арт. Em2145</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1pFIFFXSHtUTndrs72bbeJP1sQSoCB_yR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em2145</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em2217" available="false">
+      <name>Хризантема кустовая 5 шт Розовый 70 см Арт. Em2217</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1KoWbNVUP--Qp_nfwbn7cop3Lrn849MOL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em2217</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em2227" available="false">
+      <name>Хризантема кустовая 5 шт Розовый 70 см Арт. Em2227</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1MsWQBRY6X7x99537ZGKrSDS4srTJ2cYL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em2227</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em2237" available="false">
+      <name>Хризантема кустовая 5 шт Желтый 70 см Арт. Em2237</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1qr54t43gTJ94IAzsCoYCExOfq4M7d0sj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em2237</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em2247" available="false">
+      <name>Хризантема кустовая 5 шт Желтый 70 см Арт. Em2247</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1TxuvZLNcR15C47Gzl0XjAAKgT7njLn9b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em2247</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em01286" available="false">
+      <name>Хризантема кустовая Алтай 5 шт 60 см Арт. Em01286</name>
+      <price>505</price>
+      <picture>https://lh3.googleusercontent.com/d/1RJ7YBipryuwYkZrpNaXljW27x9_m_QmT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g4RyoZi1wqFRFg07Wyj_E3hWyUPM_MNQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01286</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00876" available="false">
+      <name>Хризантема кустовая Бакарди 5 шт 60 см Арт. Em00876</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/19yMkIMCJNGROWSVFy0rCNe1TrI8WfWgD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em00876</param>
+      <consist name="Хризантема кустовая Бакарди" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00946" available="false">
+      <name>Хризантема кустовая Бакарди Пинк 5 шт 60 см Арт. Em00946</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1gtzG1nbs7ZBWZAM-Iw5fkkPHyQfK6YgJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsLCnGKE5OkUDtGgQ97NDNNnHbt5jsRl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">GG flowers</param>
+      <param name="Артикул">Em00946</param>
+      <consist name="Хризантема кустовая Бакарди Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00956" available="false">
+      <name>Хризантема кустовая Бакарди Ред 5 шт 60 см Арт. Em00956</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1odlAxr1boSpn9l3pZy23G2_M5SvqsiXQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em00956</param>
+      <consist name="Хризантема кустовая Бакарди Ред" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00366" available="false">
+      <name>Хризантема кустовая Балтика 5 шт 60 см Арт. Em00366</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1rFIg9hAMnkdR8UXZnnr97kT3tJQI61wK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZzS4N2baAGJQd1J8LNdPTxkcRc-JKfDk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L8klcWgYxlusq3QLqxJvV0BMH48T7sD_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LarVqFsuF9gelAdbdxZitP8JoGG799Yj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Petine</param>
+      <param name="Артикул">Em00366</param>
+      <consist name="Хризантема кустовая Балтика" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00896" available="false">
+      <name>Хризантема кустовая Балтика 5 шт 60 см Арт. Em00896</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1awNepH4xNPSjqHQmUQgRaxUwBjiEI333</picture>
+      <picture>https://lh3.googleusercontent.com/d/13rhRUq9Fumb3RP7vl2pC5K3T7mi7262Q</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em00896</param>
+      <consist name="Хризантема кустовая Балтика" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00906" available="false">
+      <name>Хризантема кустовая Балтика Пинк 5 шт 60 см Арт. Em00906</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1m32oAZEcwcUeB1YcC4NAP_-9AeolfULW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Em00906</param>
+      <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00916" available="false">
+      <name>Хризантема кустовая Делигрин 5 шт 60 см Арт. Em00916</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1h7Jt4Wnd1I6d5baxjXM5hykCbzXR6LPF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em00916</param>
+      <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00766" available="false">
+      <name>Хризантема кустовая Кеннеди 5 шт 60 см Арт. Em00766</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1hWX4PKIE1h6BlMP72_Cq8pg_QsXjwhWW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fEoT3mRAwpFBs7iijfCbXlGFnD2xkqLY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada flowers</param>
+      <param name="Артикул">Em00766</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00936" available="false">
+      <name>Хризантема кустовая Кеннеди 5 шт 60 см Арт. Em00936</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/13fdLM8x_Tw_ZUQ0EhRy3_SK-F-TydY9u</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada flowers</param>
+      <param name="Артикул">Em00936</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00886" available="false">
+      <name>Хризантема кустовая Ньютон 5 шт 60 см Арт. Em00886</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1uEaWEwYuLJICAGIyD1qmJo6MTOAY3URC</picture>
+      <picture>https://lh3.googleusercontent.com/d/13hHNAnbR94-7Y6IMX0zxLwfOzmcZSg3M</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em00886</param>
+      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00866" available="false">
+      <name>Хризантема кустовая Реск 5 шт 60 см Арт. Em00866</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1qjnXanrIFAfXPepHqf5Vh9Ta_RgCtdMD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q9FsDiimf2OS7--kiTPvLqO8xi8gzviM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">CornelisJan</param>
+      <param name="Артикул">Em00866</param>
+      <consist name="Хризантема кустовая Реск" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00926" available="false">
+      <name>Хризантема кустовая Селебрейт 5 шт 60 см Арт. Em00926</name>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1u46tbmbygsKGbFZsLciCdjnP2wPKYYG8</picture>
+      <picture>https://lh3.googleusercontent.com/d/14y_cuFIiDC6ZWOTWE6Ik0Jl4Sfgf3xAJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DSdNxBcppzLFq-lD37vdABr9sOmExIGQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em00926</param>
+      <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em00316" available="false">
+      <name>Хризантема Сантини 25 шт Желтый 60 см Арт. Em00316</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1GZtrMZmGUS6-5ng79OmSkdlcm5eT_oF8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CKao_UUnIMvlrIECGusVSfsVnjhEjmjo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v1x0q3Nxi3LdA0ha4_0D8KszWlKnJpQF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vF2gyufRVxzePLII4EcIQw0d7CfDK91R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tEFPI5HmJc6STqm-duw49EsPEfLuVio2</picture>
+      <picture>https://lh3.googleusercontent.com/d/167wpLPFg_wyD0ep2NALyPVcvoD1Fji89</picture>
+      <picture>https://lh3.googleusercontent.com/d/11_fDnmI5JRP1oqplRNXEcrz-cElycV-7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Preferred pick</param>
+      <param name="Артикул">Em00316</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00326" available="false">
+      <name>Хризантема Сантини 25 шт Розовый 60 см Арт. Em00326</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/14J7OGj5udw733p6PkW6bUGACyU5lEDY1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lUOWbNnlbTMqCDqGIGbxWn5l7w2UGB9h</picture>
+      <picture>https://lh3.googleusercontent.com/d/19lk8_9smbY3ve4aJE4ya4N4LOjILfRiD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PObFK3faudxTrPrFnxjKCgnD5HrhMBQF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1um7YgJWY6owCWK2ww5oG9vWgSj81V-QB</picture>
+      <picture>https://lh3.googleusercontent.com/d/15wye-sZgTss--2lT1ITHNWErEL6YrTy5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Preferred pick</param>
+      <param name="Артикул">Em00326</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01005" available="false">
+      <name>Хризантема Сантини 25 шт Фиолетовый 50 см Арт. Em01005</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1i05nBHV2BrQOvuyLop-E484Slb1D-b6Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/146o3AOe3Vd8f_ilGtyfuq9snaVIDXm8g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E9sznmhqSe21FW2bzsE2GzUAgJsIR4EK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Gz7ej8N4PI8y8D2sHEr7Tla9QiLb2yXT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eZDYgBhKC4YssjhKtAruVViZNQELdBO-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em01005</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01055" available="false">
+      <name>Хризантема Сантини 25 шт Белый 50 см Арт. Em01055</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1gTTFNiUcIDai0KYM4Kc7dQVtFlV233f5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oAwhFbahjIJfFWkhC4z9b7mM2blfZtib</picture>
+      <picture>https://lh3.googleusercontent.com/d/1piGP0o37E25h6qCJPCUDsjBxD8n6I9nE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em01055</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1705" available="false">
+      <name>Хризантема Сантини 25 шт Лимонный 50 см Арт. Em1705</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1BNAq-rd_gRdFKXTFYeWtN_YUfGXkbzve</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em1705</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1715" available="false">
+      <name>Хризантема Сантини 25 шт Фиолетовый 50 см Арт. Em1715</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1NKj1OdAX9U8AVrOkzfqXQYO6oKVNISXG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em1715</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1725" available="false">
+      <name>Хризантема Сантини 25 шт Белый 50 см Арт. Em1725</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1miTREDeXu3HfS8g9HJ43F8sPTyajvNvk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Em1725</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1735" available="false">
+      <name>Хризантема Сантини 25 шт Розовый 50 см Арт. Em1735</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1s5Bh7paOh9fIwOKBukp8ffzQ7NN1PHnu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">de Landsheiding</param>
+      <param name="Артикул">Em1735</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2606" available="false">
+      <name>Хризантема Сантини 25 шт Белый 60 см Арт. Em2606</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1zAygKUjixDJoU1ckkE-N8o3SFj53tdve</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Em2606</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00985" available="false">
+      <name>Хризантема Сантини Пепталк 25 шт 50 см Арт. Em00985</name>
+      <price>2225</price>
+      <picture>https://lh3.googleusercontent.com/d/1Y5g4rvON3n5sKSFIOM6RfyNFUcsOXppe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A7-B9NQqf0gshYx7Yqi5jyR7MUlpFQ3b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l13UjdpPQ5v98igdYeYcqYAaG3Y7dHNK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em00985</param>
+      <consist name="Хризантема Сантини Пепталк" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1853" available="false">
+      <name>Агапантус 9 шт Фиолетовый 30 см Арт. Em1853</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1nVgrPm_5FAVaSCTmMesTYMzuS62towRR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">30</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em1853</param>
+      <consist name="Агапантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1863" available="false">
+      <name>Агапантус 9 шт Белый 30 см Арт. Em1863</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1bGccrL6-bZzGS3w7H1AYfZXIBRC1-doX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">30</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em1863</param>
+      <consist name="Агапантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2076" available="false">
+      <name>Альстромерия 9 шт Желтый 60 см Арт. Em2076</name>
+      <price>350</price>
+      <picture>https://lh3.googleusercontent.com/d/178FyrShh6gZIk_w_p5IinvHHxFGdQY9w</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em2076</param>
+      <consist name="Альстромерия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2086" available="false">
+      <name>Альстромерия 9 шт Сиреневый 60 см Арт. Em2086</name>
+      <price>350</price>
+      <picture>https://lh3.googleusercontent.com/d/1gaObSJV0QaKPSxk4u6xFeUXxH2V6i5tT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em2086</param>
+      <consist name="Альстромерия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2096" available="false">
+      <name>Альстромерия 9 шт Розовый 60 см Арт. Em2096</name>
+      <price>350</price>
+      <picture>https://lh3.googleusercontent.com/d/1kUlGMXs4b6T50t-YNBdoZEL5_lANWNbu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em2096</param>
+      <consist name="Альстромерия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2106" available="false">
+      <name>Альстромерия 9 шт Бордовый 60 см Арт. Em2106</name>
+      <price>350</price>
+      <picture>https://lh3.googleusercontent.com/d/174tqPlaRBPtrNJXiZTfM1D3Gbp6S_nMG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em2106</param>
+      <consist name="Альстромерия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2116" available="false">
+      <name>Альстромерия 9 шт Бордовый 60 см Арт. Em2116</name>
+      <price>350</price>
+      <picture>https://lh3.googleusercontent.com/d/1W2EvImZYBiUfRRNwVPnDwWvLu9PMsZwN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em2116</param>
+      <consist name="Альстромерия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2136" available="false">
+      <name>Альстромерия 9 шт Сиреневый 60 см Арт. Em2136</name>
+      <price>350</price>
+      <picture>https://lh3.googleusercontent.com/d/18L-G9cvDn-YELHlg2uZBjPc3fNwbID7g</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Армения</param>
+      <param name="Артикул">Em2136</param>
+      <consist name="Альстромерия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2034" available="false">
+      <name>Вероника кустовая 25 шт Фиолетовый 40 см Арт. Em2034</name>
+      <price>1900</price>
+      <picture>https://lh3.googleusercontent.com/d/1lAbKdGffVWoPmZGjJ8EK6hAo-_CYk4Oq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c0poaIlbyMRMhfY-ByyAxCyMy21-9Al8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em2034</param>
+      <consist name="Вероника кустовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2585" available="false">
+      <name>Вероника кустовая 25 шт Микс 50 см Арт. Em2585</name>
+      <price>1900</price>
+      <picture>https://lh3.googleusercontent.com/d/1TvExLmwt6MgiLGOn11ZAPakO62zz9ufg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Veronica Florius</param>
+      <param name="Артикул">Em2585</param>
+      <consist name="Вероника кустовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01146" available="false">
+      <name>Гвоздика одноголовая 25 шт Малиновый 60 см Арт. Em01146</name>
+      <price>1075</price>
+      <picture>https://lh3.googleusercontent.com/d/1AbO8o_lFodjEzoS_z4HSrEH3o3HTs2gk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MnOsxzWrURqzWMwOp5ITsFn535KQHjH6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em01146</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1766" available="false">
+      <name>Гвоздика одноголовая 25 шт Розовый 60 см Арт. Em1766</name>
+      <price>1075</price>
+      <picture>https://lh3.googleusercontent.com/d/1kMSqAKGxzqJi5iD8wpwfXspzL5P9BZEO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em1766</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1816" available="false">
+      <name>Гвоздика одноголовая 25 шт Кремовый 60 см Арт. Em1816</name>
+      <price>1075</price>
+      <picture>https://lh3.googleusercontent.com/d/1ieg0pGVsgW2es1xQINPzAVkwrf1nKyLn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em1816</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2536" available="false">
+      <name>Гвоздика одноголовая 25 шт Малиновый 60 см Арт. Em2536</name>
+      <price>1075</price>
+      <picture>https://lh3.googleusercontent.com/d/1mxqQZASXKtPWcHbZ78EfUfXT0bYD0WOs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em2536</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2616" available="false">
+      <name>Гвоздика одноголовая 25 шт Фуксия 60 см Арт. Em2616</name>
+      <price>1075</price>
+      <picture>https://lh3.googleusercontent.com/d/14shofkWSXWKpZ_4nW7tqo7Wr4bIm5dKa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em2616</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2626" available="false">
+      <name>Гвоздика одноголовая 25 шт Розовый 60 см Арт. Em2626</name>
+      <price>1075</price>
+      <picture>https://lh3.googleusercontent.com/d/1zWapkBl41KAYbd6fP9CGnaVZ_asBFGHq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em2626</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01035" available="false">
+      <name>Георгин 9 шт Розовый 50 см Арт. Em01035</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1rxniasGMwIY7Xi-YipnC0IWUSexVGvsu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01035</param>
+      <consist name="Георгин" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01155" available="false">
+      <name>Георгин 9 шт Желтый 50 см Арт. Em01155</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/10vn1C_imoH1Yk-LUL8q-K-9wYonZTDLs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01155</param>
+      <consist name="Георгин" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01165" available="false">
+      <name>Георгин 9 шт Фуксия 50 см Арт. Em01165</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1OByya1V-bptzY136X206ffikHDphdm3H</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01165</param>
+      <consist name="Георгин" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00537" available="false">
+      <name>Гипсофила 25 шт Радужный 70 см Арт. Em00537</name>
+      <price>1925</price>
+      <picture>https://lh3.googleusercontent.com/d/16l4HDeE2vTgvZtr87wJ0PMDHyYKCvC8p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uEjBqIPlRo2GmAISDtB-VT-99j1eZuxC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oxuUd7WzIzhxkqpscwdBzvKBjW9AOqrK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w4oulXKzVk-YMkLcgo27R59X-2PwmUHj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Em00537</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00547" available="false">
+      <name>Гипсофила 25 шт Белый 70 см Арт. Em00547</name>
+      <price>1725</price>
+      <picture>https://lh3.googleusercontent.com/d/1kCwWBoitDU2r_FTV1q9oZpfXLdcMf8j8</picture>
+      <picture>https://lh3.googleusercontent.com/d/17yaqu7emMAIbV3JXEt3eYhYlXS0k43Z4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AdaZF0JebD7KPuoyFKJNPS6ORx5narn2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ftz2UVQp-4oZ7TpjhuY_Bgyb8QFG4FER</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Em00547</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01025" available="false">
+      <name>Гипсофила 25 шт Розовый 50 см Арт. Em01025</name>
+      <price>1925</price>
+      <picture>https://lh3.googleusercontent.com/d/1NJR4n1LffQs4J_RdZP2ivfEWZYn-KFPf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LEyVQ2zmEzwRsLLEon2KJNSmqt1uKvgf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aaggYiBwHlGOFVFCCZSZgvpps_8u2vqA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01025</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01237" available="false">
+      <name>Гипсофила Краш. Светло-Розовая 25 шт 70 см Арт. Em01237</name>
+      <price>1925</price>
+      <picture>https://lh3.googleusercontent.com/d/11YkrS3WdSd8aCLxURMLA2Rm9vH3EX2jT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Em01237</param>
+      <consist name="Гипсофила Краш. Светло-Розовая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01175" available="false">
+      <name>Гипсофила Розовая-белая-голубая 25 шт 50 см Арт. Em01175</name>
+      <price>1925</price>
+      <picture>https://lh3.googleusercontent.com/d/1NyEd8nDNhjbBqlyPTtCoi0A8dOuhKLIQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/16AeoYQXGrcuHgkr0Bqtb9JYlOvI3BNi_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01175</param>
+      <consist name="Гипсофила Розовая-белая-голубая" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01075" available="false">
+      <name>Гладиолус 9 шт Фиолетовый 50 см Арт. Em01075</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1Qi7pHAuDgMutDLeC9OwOxcLAtQVU-Pk0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01075</param>
+      <consist name="Гладиолус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1941" available="false">
+      <name>Гладиолус 9 шт Розовый 110 см Арт. Em1941</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1_SVdhumvWuT8WUeKr0meMkGRhFlYUY5n</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">110</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em1941</param>
+      <consist name="Гладиолус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00504" available="false">
+      <name>Гортензия 1 шт Розовый 40 см Арт. Em00504</name>
+      <price>475</price>
+      <picture>https://lh3.googleusercontent.com/d/1h-9Pc_V-tvpzCohA8lKl59gDeZ7AVu2S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KeBRlnX1DheWoQeOd-11Go5cdf-jtUoG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T2nu4iLYTIPBHdR4lJvEn2FZiIEGtao_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VEJbbmC-EmomSFbrqNl_KslBrBHa31BK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Em00504</param>
+      <consist name="Гортензия" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_Em00514" available="false">
+      <name>Гортензия 1 шт Голубой 40 см Арт. Em00514</name>
+      <price>475</price>
+      <picture>https://lh3.googleusercontent.com/d/1nybTGnntNhTfb7Wm-7AhINtPYQQtad9d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i8-qllQVAOK0h-p952ORa_kpawp20owm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fZ2fSIU0ZurgYg3PWSJc6dga2hRsIXIO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xfuEZKEVAuaEqCopOY-Q7X6T9V7x4lZT</picture>
+      <picture>https://lh3.googleusercontent.com/d/12E_IQU-ed2xbxQtib5CZpof-xXcDJPtH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jpMyzfpPlmaAHs0KPVm96Vz__RDa9rU-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Em00514</param>
+      <consist name="Гортензия" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_Em00524" available="false">
+      <name>Гортензия 1 шт Белый 40 см Арт. Em00524</name>
+      <price>475</price>
+      <picture>https://lh3.googleusercontent.com/d/1W41FMjEUP-NV5BBvM0An5IZBmvhnTDa0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NSyzxcXfVzYA-F_dBaJOVXzWPPwvWoDe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z6uk2_hE714q_zrCcprEppVSlzMis83R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Oxoxyj1hGc_DnrTW8hJ7Vm8w3_9AXBSV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Em00524</param>
+      <consist name="Гортензия" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_Em1796" available="false">
+      <name>Гортензия 1 шт Голубой 60 см Арт. Em1796</name>
+      <price>475</price>
+      <picture>https://lh3.googleusercontent.com/d/1uXUc-FQMzgGw9kNTm-aIVkuifR1s1MnU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em1796</param>
+      <consist name="Гортензия" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_Em1806" available="false">
+      <name>Гортензия 1 шт Белый 60 см Арт. Em1806</name>
+      <price>475</price>
+      <picture>https://lh3.googleusercontent.com/d/1nbhaWtecwt-EfxwLZVfuR2LVCVUs8sOU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em1806</param>
+      <consist name="Гортензия" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_Em2378" available="false">
+      <name>Дельфиниум 9 шт Фиолетовый 80 см Арт. Em2378</name>
+      <price>1010</price>
+      <picture>https://lh3.googleusercontent.com/d/1-RBE0wAzw4xCPxcLcauqNasICRBYA0NY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Нидерланды</param>
+      <param name="Производитель">Noordwijkerhout</param>
+      <param name="Артикул">Em2378</param>
+      <consist name="Дельфиниум" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2006" available="false">
+      <name>Диантус 25 шт Розовый 60 см Арт. Em2006</name>
+      <price>1075</price>
+      <picture>https://lh3.googleusercontent.com/d/1GRzy64kCPmumQnrpk2J2vwDfMX9bjIk3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Em2006</param>
+      <consist name="Диантус" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00425" available="false">
+      <name>Ирис 49 шт Белый 50 см Арт. Em00425</name>
+      <price>2800</price>
+      <picture>https://lh3.googleusercontent.com/d/1xNVR-C0aEywsRi3B_pVb7C26CTh5p1sR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DhLezn49NsnZS7i-rSMkO7BiPHjIXnEH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CV_CFJ-aldsf1vtbydJ3PniWXcu_pzGS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fpfQZL8G7BE0qw3FMxryFRej6qlHdYv8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em00425</param>
+      <consist name="Ирис" unit="шт">49</consist>
+    </offer>
+    <offer id="B2C_Em00385" available="false">
+      <name>Ирис Блю Меджик 49 шт 50 см Арт. Em00385</name>
+      <price>2100</price>
+      <picture>https://lh3.googleusercontent.com/d/1G9HrXNJvfcT3-2DlvdUnSbYHoQwfIUKh</picture>
+      <picture>https://lh3.googleusercontent.com/d/11tJDAlNjgGIp70osXmfVd3xnCvt7pvLd</picture>
+      <picture>https://lh3.googleusercontent.com/d/13QJ0Aj9yWVbqy48JCkAY1rdxZL4GjYM5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RhBWLiNDRqNWc2HJnHPuslLLMM4jQzKV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zdgdHjAmGneWNgk3QyXY0WgZGEl1b-i4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WDSro4Sn0ZwAfcmmRynk1acz36FTYlFP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TMSH4Sm8IGjtk6e-Jd1YdsXriCtZXkm0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em00385</param>
+      <consist name="Ирис Блю Меджик" unit="шт">49</consist>
+    </offer>
+    <offer id="B2C_Em1906" available="false">
+      <name>Калла 9 шт Бордовый 60 см Арт. Em1906</name>
+      <price>1770</price>
+      <picture>https://lh3.googleusercontent.com/d/1winbkTJxJ4NM5fha2CBWq7qXdu-jnq6p</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em1906</param>
+      <consist name="Калла" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1916" available="false">
+      <name>Калла 9 шт Желтый 60 см Арт. Em1916</name>
+      <price>1770</price>
+      <picture>https://lh3.googleusercontent.com/d/1Eu8fgyCqn_mc1tmwGm0W9fdnVpci-Oil</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em1916</param>
+      <consist name="Калла" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2386" available="false">
+      <name>Калла 9 шт Желтый 60 см Арт. Em2386</name>
+      <price>1770</price>
+      <picture>https://lh3.googleusercontent.com/d/1q7-HsoZPl7bQfypF4yJ26sesitkm6liK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em2386</param>
+      <consist name="Калла" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2396" available="false">
+      <name>Калла 9 шт Розовый 60 см Арт. Em2396</name>
+      <price>1770</price>
+      <picture>https://lh3.googleusercontent.com/d/1hK3uMqahdEvgcKnSwkcdLU9XmVzddtej</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Em2396</param>
+      <consist name="Калла" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2406" available="false">
+      <name>Калла 9 шт Белый 60 см Арт. Em2406</name>
+      <price>1770</price>
+      <picture>https://lh3.googleusercontent.com/d/1RXolk3mVc_LxLWR01jV9w7Z9QOoF7RnP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Em2406</param>
+      <consist name="Калла" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00257" available="false">
+      <name>Лизиантус 9 шт Белый 70 см Арт. Em00257</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1KTmkHhoiz3r2IdkOjKSRq9BOwRaRnKKN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nMzqWqE9cOWy1wE7stsDKrALOy8lqNKW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AQaScwFKFbjcFH9jK9fA6HSWcC1gga1Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l01pEVr0U_pPIlBUvsXc4uHkgSbwlvgK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fRU6Inc4Cd1lfeZBpCOW_JKhRspcRF3t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pPjhR1lj7NpIqx3AR6MDaK_8JbZYJtlI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kXIaij2aTKHgGaIEJvJLDgW6aTz8iF8G</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Em00257</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00267" available="false">
+      <name>Лизиантус 9 шт Фиолетовый 70 см Арт. Em00267</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1M0Uec0__tLBt4m6O38syXqma34pZuBwG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z-zFyxNZfYpznI78A04_rzip0cKCF6jX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pPUhhDJq8Iskdhge05hcdqqIxbrFmScB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aEOW5VikoEY1wSmx8_VgBVCzQQOkvLMt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JgUor1cXqt4olgsKoqRKGehfRsCW0nkZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Em00267</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01257" available="false">
+      <name>Лизиантус 9 шт Фиолетовый 70 см Арт. Em01257</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1FCLjkS4MPJAGfD0L9H4XtURJhwpr4Ltq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Em01257</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1785" available="false">
+      <name>Лизиантус 9 шт Фиолетовый 50 см Арт. Em1785</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1Ph1KRwxluJkz7YrojUS6c0BF4tBKfZ5z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Em1785</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1976" available="false">
+      <name>Лизиантус 9 шт Розовый 60 см Арт. Em1976</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1XV-CNiB3jAAg_F07ZQDUT_0pdiZblFXA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Em1976</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2476" available="false">
+      <name>Лизиантус 9 шт Сиреневый 60 см Арт. Em2476</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Em2476</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2486" available="false">
+      <name>Лизиантус 9 шт Розовый 60 см Арт. Em2486</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1x-ceu8AgRFxLUKMDuN0zZPT-aN1e7btt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Em2486</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2496" available="false">
+      <name>Лизиантус 9 шт Фиолетовый 60 см Арт. Em2496</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1IYG7ioVyrn6Qy1APsg4Mvr4D2yE1ln9T</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Em2496</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2506" available="false">
+      <name>Лизиантус 9 шт Разовый 60 см Арт. Em2506</name>
+      <price>1400</price>
+      <picture>https://lh3.googleusercontent.com/d/1rypN2OXPzafDYoVO-pWV7VIc_ugLXmSG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Em2506</param>
+      <consist name="Лизиантус" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01095" available="false">
+      <name>Лилия 9 шт Белый 50 см Арт. Em01095</name>
+      <price>3550</price>
+      <picture>https://lh3.googleusercontent.com/d/1X_XIKPjrOG9RH4YwruETEHNhWrfxrhn9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q45oH6fPueXAhf7t-f1_iNXhweoGp8wP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ox5SurLUyNhrq_CEHjTucfWheMj2MQBE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em01095</param>
+      <consist name="Лилия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01105" available="false">
+      <name>Лилия 9 шт Белый 50 см Арт. Em01105</name>
+      <price>3550</price>
+      <picture>https://lh3.googleusercontent.com/d/1owsNZPHrAZjkcY39dXNOW1b7komjED0L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em01105</param>
+      <consist name="Лилия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1749" available="false">
+      <name>Лилия 9 шт Розовый 90 см Арт. Em1749</name>
+      <price>3550</price>
+      <picture>https://lh3.googleusercontent.com/d/1jxSElgAVQXP7q_F2lAGVDpiJGgfvojm7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em1749</param>
+      <consist name="Лилия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1899" available="false">
+      <name>Лилия 9 шт Розовый 90 см Арт. Em1899</name>
+      <price>3550</price>
+      <picture>https://lh3.googleusercontent.com/d/1TI3NPCFBY7OCAmwJq4zzyWAd1FYLqGA8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em1899</param>
+      <consist name="Лилия" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01225" available="false">
+      <name>Лимониум 25 шт Белый 50 см Арт. Em01225</name>
+      <price>2675</price>
+      <picture>https://lh3.googleusercontent.com/d/1OffR8eIFzepjUi5V7zBtORse9ZgklJys</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VEGIPjm1K0ZzXrgmB33bCZu2TM4D6B9r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1013LIE0C2RBEEjjOSYUuyRzcBD5yJ7kY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01225</param>
+      <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01135" available="false">
+      <name>Маттиола 9 шт Лиловый 50 см Арт. Em01135</name>
+      <price>1200</price>
+      <picture>https://lh3.googleusercontent.com/d/1Q9Qef-tgjUJgpHtE8q1YasfymPqKQGXZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em01135</param>
+      <consist name="Маттиола" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01595" available="false">
+      <name>Маттиола 9 шт Белый 50 см Арт. Em01595</name>
+      <price>1200</price>
+      <picture>https://lh3.googleusercontent.com/d/1eJ5PZnC-3pUO34G5ROOQdPnEqMXusaCY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cJ6saJyla9jBD4uQQY-qVsqVpjNfC43z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CbrGiEeOlfkoihnFMD4QR3llCUZymdgI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01595</param>
+      <consist name="Маттиола" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01605" available="false">
+      <name>Маттиола 9 шт Розовый 50 см Арт. Em01605</name>
+      <price>1200</price>
+      <picture>https://lh3.googleusercontent.com/d/14mpWYkNUE_L6EThFO2c8hXTnuPhTaUy7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kVZu8tiCqLxz7K0Su5N2k9Yw-juqDBiS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tEfY5eb-izUMwz6NEea2F4dlsEL91XqL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01605</param>
+      <consist name="Маттиола" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em1645" available="false">
+      <name>Маттиола 9 шт Сиреневый 50 см Арт. Em1645</name>
+      <price>1200</price>
+      <picture>https://lh3.googleusercontent.com/d/13-WtoTRwP-NSVuhwq9DjLcQuCL9SkxzV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em1645</param>
+      <consist name="Маттиола" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01045" available="false">
+      <name>Оксипеталум 25 шт Голубой 50 см Арт. Em01045</name>
+      <price>4475</price>
+      <picture>https://lh3.googleusercontent.com/d/1CfVvIGDOc3r4iTpfZ3SWyuVKJmGk8KHw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fWb8WmQbD8TU_aPQdlWO310Er77Aepil</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01045</param>
+      <consist name="Оксипеталум" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01275" available="false">
+      <name>Оксипеталум 25 шт Белый 50 см Арт. Em01275</name>
+      <price>4475</price>
+      <picture>https://lh3.googleusercontent.com/d/1oZpB1eDaUQCwBuj-p05b3wBanJuh8aZH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HqW812sou6zDdyHKVVd3VfAmyO0xDPR7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01275</param>
+      <consist name="Оксипеталум" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2358" available="false">
+      <name>Подсолнух 9 шт Жёлтый 80 см Арт. Em2358</name>
+      <price>1440</price>
+      <picture>https://lh3.googleusercontent.com/d/1PpOZ_hFqE-8ysZ_OTa1bntSBEBA3YTCF</picture>
+      <picture>https://lh3.googleusercontent.com/d/12AI-4jBFBJUfcP6t80ncWoyZvw4WlzOV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KFPW8YUnL63CmoxDkc6Y7ie-mygagxgP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em2358</param>
+      <consist name="Подсолнух" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em2465" available="false">
+      <name>Протея 1 шт Белый 50 см Арт. Em2465</name>
+      <price>560</price>
+      <picture>https://lh3.googleusercontent.com/d/1UuGnpnJMDbOpeVDeBdPl77hb7Y2tupus</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em2465</param>
+      <consist name="Протея" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_Em2515" available="false">
+      <name>Протея 1 шт Красный 50 см Арт. Em2515</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1qkn-r_OsNYuIaF1Kv-v9joi4cZlLMTIZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em2515</param>
+      <consist name="Протея" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_Em00378" available="false">
+      <name>Статица 25 шт Фиолетовый 80 см Арт. Em00378</name>
+      <price>3000</price>
+      <picture>https://lh3.googleusercontent.com/d/1PszK4LJLAflwjc8g7YD9cks6tTzI-XWe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HJC6z3f0l3xZmOsWwAncKhZrk8Yvmxlv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AiU4Cb8eYYbTcRcw538sqAfKheveSkNd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bf2L14T-SVvQ_dwJsEkuhjdPHfYdR1Kc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Tonie flowers</param>
+      <param name="Артикул">Em00378</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01185" available="false">
+      <name>Статица 25 шт Лиловый 50 см Арт. Em01185</name>
+      <price>3000</price>
+      <picture>https://lh3.googleusercontent.com/d/1EaCGsPGuxDCGeP3kx1Iy7i65z30KeIY5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zisBA6v_kLD53VayCYRZvrsz5Hk_QZS7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y5XeqbbOY3PbGknImY2SF932ZVNIAtnf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01185</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01215" available="false">
+      <name>Статица 25 шт Белый 50 см Арт. Em01215</name>
+      <price>3000</price>
+      <picture>https://lh3.googleusercontent.com/d/1OfH1Xa0_a3v4wFhyhaKmFA6CWbxuiAZ_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1psx-uY64VTgHZGoHYEhoxrcVJISeztRy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dYn8zOZuFSKVUkY_4Ax1SDGlC1acboY1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01215</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01266" available="false">
+      <name>Статица 25 шт Фиолетовый 60 см Арт. Em01266</name>
+      <price>3000</price>
+      <picture>https://lh3.googleusercontent.com/d/1bccV2Z6tmypYBbr4U37lW1vSaOYsFv6N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XxADK9yMAOAUYYbCHfw5DIAPthnenR2-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01266</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em1937" available="false">
+      <name>Статица 25 шт Сиреневый 70 см Арт. Em1937</name>
+      <price>3000</price>
+      <picture>https://lh3.googleusercontent.com/d/1mLxoX4F00_5vDDfIxag2Hp914zyD1pXT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Tonie Flowers</param>
+      <param name="Артикул">Em1937</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2456" available="false">
+      <name>Статица 25 шт Фиолетовый 60 см Арт. Em2456</name>
+      <price>2525</price>
+      <picture>https://lh3.googleusercontent.com/d/1scJvsH_XbyLwERIgbhhSgEG812qzUcfI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Tonie Flowers</param>
+      <param name="Артикул">Em2456</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00306" available="false">
+      <name>Танацетум 49 шт Белый 60 см Арт. Em00306</name>
+      <price>3600</price>
+      <picture>https://lh3.googleusercontent.com/d/1Na2q6Exja1ngxgblZTuiZFiwlQo_8idE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jAiJC4vPzaUCrRQdkEr3D6DSBUWn8qLU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m1Ju5RrrpGpsW6fgRWl1YN2zVc3lio50</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TWLDve8JgQjjb5RtJ1tO57ye9litxjKz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qLXAidB6Z1H_XT3y9L-DL-THn8YGVZl7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eu0dEfOpf1KVKHQvsE_BDDX7JDfJClDP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-yV8-snHzb-2LjlzHerCVPqw__1XsOCZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Verkoop</param>
+      <param name="Артикул">Em00306</param>
+      <consist name="Танацетум" unit="шт">49</consist>
+    </offer>
+    <offer id="B2C_Em1954" available="false">
+      <name>Тюльпан 49 шт Белый 40 см Арт. Em1954</name>
+      <price>5050</price>
+      <picture>https://lh3.googleusercontent.com/d/1xavZ7YQBUlvwGgMPIRYu67uEWSCIMKjp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em1954</param>
+      <consist name="Тюльпан" unit="шт">49</consist>
+    </offer>
+    <offer id="B2C_Em1964" available="false">
+      <name>Тюльпан 49 шт Желтый 40 см Арт. Em1964</name>
+      <price>5050</price>
+      <picture>https://lh3.googleusercontent.com/d/1ocUGKu8TIfF5CYmxeiUMB9m5Y0aMUKIk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em1964</param>
+      <consist name="Тюльпан" unit="шт">49</consist>
+    </offer>
+    <offer id="B2C_Em01245" available="false">
+      <name>Фрезия 49 шт Белый 50 см Арт. Em01245</name>
+      <price>4000</price>
+      <picture>https://lh3.googleusercontent.com/d/1xzc48Hu2O_F3h6CF8NyT0NBbCSmz_cN0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01245</param>
+      <consist name="Фрезия" unit="шт">49</consist>
+    </offer>
+    <offer id="B2C_Em1677" available="false">
+      <name>Целозия 5 шт Красный 70 см Арт. Em1677</name>
+      <price>630</price>
+      <picture>https://lh3.googleusercontent.com/d/10V69CsD4gY8qHB-UhQbmOznXsVxvlXqV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em1677</param>
+      <consist name="Целозия" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em1687" available="false">
+      <name>Целозия 5 шт оранжевый 70 см Арт. Em1687</name>
+      <price>630</price>
+      <picture>https://lh3.googleusercontent.com/d/17TVASbcqnEsze5IdNT-DBtkD8w1iCbin</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em1687</param>
+      <consist name="Целозия" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em1697" available="false">
+      <name>Целозия 5 шт Сиреневый 70 см Арт. Em1697</name>
+      <price>630</price>
+      <picture>https://lh3.googleusercontent.com/d/1z0m8OmAud-tTm6prlpTF_-WobSZKEXK3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Em1697</param>
+      <consist name="Целозия" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_Em01115" available="false">
+      <name>Астильба 9 шт Розовый 50 см Арт. Em01115</name>
+      <price>800</price>
+      <picture>https://lh3.googleusercontent.com/d/1o5qWl5fUXx7huGTBbn93ZS8Facb0qGr4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kRRfp36XwXGncnheaVlPM1mhDEUKCVOP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em01115</param>
+      <consist name="Астильба" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em01125" available="false">
+      <name>Астильба 9 шт Белый 50 см Арт. Em01125</name>
+      <price>800</price>
+      <picture>https://lh3.googleusercontent.com/d/15XOYDAxaJwVmenwTHoCI2RgOe5PoLy9t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xgkteeow-EIqaz0qyuZzfLR_dv02kyph</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A2OnHM5B_mz5BVeU-4kRiKdFyU9AB2JH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Em01125</param>
+      <consist name="Астильба" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_Em00448" available="false">
+      <name>Лимониум 25 шт Фиолетовый 80 см Арт. Em00448</name>
+      <price>2675</price>
+      <picture>https://lh3.googleusercontent.com/d/1hDZXEeDc5ADuMI15IFQoe6TGJLtWhFt8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EfUSkSZxS0t1lZykQr-TTUdCWwMRQHjS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1krYL6oQGXoS4fB09v-6rapyuinZsIiO0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZpjpSUBN5tt5PRgMX8kG-ja5qJ-_8HNX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lnFBSHU0oILRydAUPZASEPlTvTodtcGT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W16zEVs9FKtydjsBjUelMD6_3Tkh8Gjw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iP4sSubWzfJUL-Z1IfmpLCEJO3rHE4-q</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Klaverflowers</param>
+      <param name="Артикул">Em00448</param>
+      <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em2124" available="false">
+      <name>Рускус 25 шт Зелёный 40 см Арт. Em2124</name>
+      <price>2525</price>
+      <picture>https://lh3.googleusercontent.com/d/1-aU4SnIdnNzTO-jMdCHyAZQcxsR5KKUl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em2124</param>
+      <consist name="Рускус" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em00458" available="false">
+      <name>Солидаго 25 шт Желтый 80 см Арт. Em00458</name>
+      <price>2100</price>
+      <picture>https://lh3.googleusercontent.com/d/1xjKL7kCKWKY8Gz5DRsAsQQ8brzS6Df4T</picture>
+      <picture>https://lh3.googleusercontent.com/d/14fJPuFzjvGvOTxas0vEGz8Zph2InhOr1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LTA0xqNB5Nb-FzdrKXtMZop5HT4Q5KiS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lDUouKFXb60V4ZFIzEYGr4MMt6WvHnas</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L5HqSBoFq6qF47NTLvh-xRcxeViwdOd9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tpVT8DeLKbN-txsjpMmzvk7LvQCbVfMz</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Em00458</param>
+      <consist name="Солидаго" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_Em01205" available="false">
+      <name>Эрингиум 9 шт Синий 50 см Арт. Em01205</name>
+      <price>1760</price>
+      <picture>https://lh3.googleusercontent.com/d/113t5dg8u1KhqF46gDa810ZFVNKKSl46X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tZLIXJRtWxhF0UPW5otm2ilmVesKlBPC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dy-Rek8QZkUUgSLQYoxnMXEDLOrZuQx0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OVvga1ix9Hk2oQb8GkVx5rmnpK5Llg5X</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Em01205</param>
+      <consist name="Эрингиум" unit="шт">9</consist>
     </offer>
     </offers>
   </shop>
