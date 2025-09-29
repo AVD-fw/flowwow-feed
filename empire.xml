@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T12:57:16.853+03:00">
+<yml_catalog date="2025-09-29T13:04:28.898+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -145,11 +145,11 @@
       <param name="Артикул">Er00494</param>
       <consist name="Роза одноголовая Мисс Пигги" unit="шт">10</consist>
     </offer>
-    <offer id="Er01297" available="false">
+    <offer id="Er01297" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Мондиаль 70 см Арт. Er01297</name>
       <price>122</price>
-      <qty>0</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DbQ2MiLG0KU3KtqYLwhVflgCcs4wTz9C</picture>
       <picture>https://lh3.googleusercontent.com/d/1XcExpTH1HfvJtaCJGfuSKghufdAc1DB_</picture>
@@ -1925,11 +1925,11 @@
       <param name="Артикул">Er01146</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
-    <offer id="Er1766" available="false">
+    <offer id="Er1766" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Розовый 60 см Арт. Er1766</name>
       <price>43</price>
-      <qty>0</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OVFTJe5a8tIFpUgOpNyYSd4cKIa6i76X</picture>
       <picture>https://lh3.googleusercontent.com/d/1kMSqAKGxzqJi5iD8wpwfXspzL5P9BZEO</picture>
@@ -2172,18 +2172,19 @@
       <param name="Артикул">Er00504</param>
       <consist name="Гортензия" unit="шт">1</consist>
     </offer>
-    <offer id="Er00514" available="false">
+    <offer id="Er00514" available="true">
       <categoryId>37</categoryId>
       <name>Гортензия Голубой 40 см Арт. Er00514</name>
       <price>473</price>
-      <qty>0</qty>
+      <qty>1</qty>
       <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1nybTGnntNhTfb7Wm-7AhINtPYQQtad9d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-AzZ2gASgwNEAQLXqZA3ufYtn3aruOXX</picture>
       <picture>https://lh3.googleusercontent.com/d/1i8-qllQVAOK0h-p952ORa_kpawp20owm</picture>
       <picture>https://lh3.googleusercontent.com/d/1fZ2fSIU0ZurgYg3PWSJc6dga2hRsIXIO</picture>
       <picture>https://lh3.googleusercontent.com/d/1xfuEZKEVAuaEqCopOY-Q7X6T9V7x4lZT</picture>
       <picture>https://lh3.googleusercontent.com/d/12E_IQU-ed2xbxQtib5CZpof-xXcDJPtH</picture>
       <picture>https://lh3.googleusercontent.com/d/1jpMyzfpPlmaAHs0KPVm96Vz__RDa9rU-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nybTGnntNhTfb7Wm-7AhINtPYQQtad9d</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">Эквадор</param>
@@ -2389,11 +2390,11 @@
       <param name="Артикул">Er00257</param>
       <consist name="Лизиантус" unit="шт">10</consist>
     </offer>
-    <offer id="Er00267" available="false">
+    <offer id="Er00267" available="true">
       <categoryId>37</categoryId>
       <name>Лизиантус Фиолетовый 70 см Арт. Er00267</name>
       <price>140</price>
-      <qty>0</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17vECGxqb6528ej_xDzyWtK4mUd1jurBv</picture>
       <picture>https://lh3.googleusercontent.com/d/1z-zFyxNZfYpznI78A04_rzip0cKCF6jX</picture>
@@ -2451,11 +2452,11 @@
       <param name="Артикул">Er1976</param>
       <consist name="Лизиантус" unit="шт">10</consist>
     </offer>
-    <offer id="Er2476" available="false">
+    <offer id="Er2476" available="true">
       <categoryId>37</categoryId>
       <name>Лизиантус Сиреневый 60 см Арт. Er2476</name>
       <price>140</price>
-      <qty>0</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kMoqhRoDiA8Gn1g4iXNZVnqUXr_bsLtX</picture>
       <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
@@ -2550,11 +2551,11 @@
       <param name="Артикул">Er1749</param>
       <consist name="Лилия" unit="шт">10</consist>
     </offer>
-    <offer id="Er1899" available="false">
+    <offer id="Er1899" available="true">
       <categoryId>37</categoryId>
       <name>Лилия Розовый 90 см Арт. Er1899</name>
       <price>355</price>
-      <qty>0</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KzUzer2Vv74W0nMjsE1l_MhiDvh_J6jd</picture>
       <picture>https://lh3.googleusercontent.com/d/1TI3NPCFBY7OCAmwJq4zzyWAd1FYLqGA8</picture>
@@ -2565,11 +2566,11 @@
       <param name="Артикул">Er1899</param>
       <consist name="Лилия" unit="шт">10</consist>
     </offer>
-    <offer id="Er01225" available="false">
+    <offer id="Er01225" available="true">
       <categoryId>37</categoryId>
       <name>Лимониум Белый 50 см Арт. Er01225</name>
       <price>107</price>
-      <qty>0</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nU7j4NtS1dz13Sg3UN6hLQDswxbHSKOI</picture>
       <picture>https://lh3.googleusercontent.com/d/1VEGIPjm1K0ZzXrgmB33bCZu2TM4D6B9r</picture>
@@ -2610,11 +2611,11 @@
       <param name="Артикул">Er01595</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
-    <offer id="Er01605" available="false">
+    <offer id="Er01605" available="true">
       <categoryId>37</categoryId>
       <name>Маттиола Розовый 50 см Арт. Er01605</name>
       <price>120</price>
-      <qty>0</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rqozR-1-_2w3gF4bRibGHGCCf5QYQQB3</picture>
       <picture>https://lh3.googleusercontent.com/d/1kVZu8tiCqLxz7K0Su5N2k9Yw-juqDBiS</picture>
@@ -2741,11 +2742,11 @@
       <param name="Артикул">Er01185</param>
       <consist name="Статица" unit="шт">25</consist>
     </offer>
-    <offer id="Er01215" available="false">
+    <offer id="Er01215" available="true">
       <categoryId>37</categoryId>
       <name>Статица Белый 50 см Арт. Er01215</name>
       <price>120</price>
-      <qty>0</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iDlUuQyiSqseTfM_ew0dVXPFbAbkPzoa</picture>
       <picture>https://lh3.googleusercontent.com/d/1psx-uY64VTgHZGoHYEhoxrcVJISeztRy</picture>
@@ -2757,11 +2758,11 @@
       <param name="Артикул">Er01215</param>
       <consist name="Статица" unit="шт">25</consist>
     </offer>
-    <offer id="Er01266" available="false">
+    <offer id="Er01266" available="true">
       <categoryId>37</categoryId>
       <name>Статица Фиолетовый 60 см Арт. Er01266</name>
       <price>120</price>
-      <qty>0</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xpfP-_H6KsFWWTcJ8kT5PaA4ftAWoPep</picture>
       <picture>https://lh3.googleusercontent.com/d/1sdnEvTWDpYihiuQF1kO9IzIjzeeCSYWg</picture>
@@ -2970,11 +2971,11 @@
       <param name="Артикул">Er2124</param>
       <consist name="Рускус" unit="шт">25</consist>
     </offer>
-    <offer id="Er00458" available="false">
+    <offer id="Er00458" available="true">
       <categoryId>38</categoryId>
       <name>Солидаго Желтый 80 см Арт. Er00458</name>
       <price>84</price>
-      <qty>0</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14GW_xuGEqGtFjOfSsHdKQCiXewjCgr6s</picture>
       <picture>https://lh3.googleusercontent.com/d/14fJPuFzjvGvOTxas0vEGz8Zph2InhOr1</picture>
@@ -2990,11 +2991,11 @@
       <param name="Артикул">Er00458</param>
       <consist name="Солидаго" unit="шт">25</consist>
     </offer>
-    <offer id="Er01205" available="false">
+    <offer id="Er01205" available="true">
       <categoryId>38</categoryId>
       <name>Эрингиум Синий 50 см Арт. Er01205</name>
       <price>176</price>
-      <qty>0</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/199Q5PEpPmRW03wJuYlGDHwKa5lX3RHUb</picture>
       <picture>https://lh3.googleusercontent.com/d/1tZLIXJRtWxhF0UPW5otm2ilmVesKlBPC</picture>
