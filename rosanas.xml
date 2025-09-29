@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T11:57:16.795+03:00">
+<yml_catalog date="2025-09-29T12:02:28.204+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -2542,6 +2542,22 @@
       <param name="Артикул">Rs03096</param>
       <consist name="Роза кустовая пионовидная Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Rs3817" available="false">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Коричневый 70 см Арт. Rs3817</name>
+      <price>249</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pdx_k4gIluLx5G973IOLSGkeCBt2k6gS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GL-vB4RubmuAE2IgTHX7wGvscw0U8gHD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FZCmjr9ZTJRTPaSn4VIpcss2Za6CAYHj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IYYM1CUV8-M6euLNBOZfeV9_9ApP6gm9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rs3817</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Rs5667" available="false">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Сиреневый 70 см Арт. Rs5667</name>
@@ -3551,7 +3567,7 @@
       <param name="Артикул">Rs01497</param>
       <consist name="Альстромерия Аврора" unit="шт">10</consist>
     </offer>
-    <offer id="rosanas_B2B_231" available="false">
+    <offer id="rosanas_B2B_232" available="false">
       <categoryId>37</categoryId>
       <name>Альстромерия Вирджиния 70 см</name>
       <price>116</price>
