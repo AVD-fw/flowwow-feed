@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T16:07:50.963+03:00">
+<yml_catalog date="2025-09-29T16:09:41.882+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -2039,9 +2039,49 @@
       <param name="Артикул">Fo0447</param>
       <consist name="Ананас Мини" unit="шт">1</consist>
     </offer>
+    <offer id="Fo5726" available="false">
+      <categoryId>37</categoryId>
+      <name>Антирринум Белый 60 см Арт. Fo5726</name>
+      <price>132</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ik5n1vnmGjvsREIemr6vDwoV0Eun1tb6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IRPzDJfQWww-za69SzinWhfYtl8nE75u</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo5726</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo11326" available="false">
+      <categoryId>37</categoryId>
+      <name>Антирринум Желтый 60 см Арт. Fo11326</name>
+      <price>132</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1K9QJaf2_1Ucj8vRyOREXVAq1nkbacBbl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo11326</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo11336" available="false">
+      <categoryId>37</categoryId>
+      <name>Антирринум Розовый 60 см Арт. Fo11336</name>
+      <price>132</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1eiSClwL1xdUCmTK_tmHgwZG-ezj-jpbo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo11336</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
     <offer id="Fo0450" available="false">
       <categoryId>37</categoryId>
-      <name>Артишок Полевой Фиолетовый 50 см Арт. Fo0450</name>
+      <name>Артишок Фиолетовый 50 см Арт. Fo0450</name>
       <price>440</price>
       <qty>0</qty>
       <quantity_in_package>1</quantity_in_package>
@@ -2050,7 +2090,20 @@
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fo0450</param>
-      <consist name="Артишок Полевой" unit="шт">1</consist>
+      <consist name="Артишок" unit="шт">1</consist>
+    </offer>
+    <offer id="Fo1011" available="false">
+      <categoryId>37</categoryId>
+      <name>Артишок Зеленый 50 см Арт. Fo1011</name>
+      <price>440</price>
+      <qty>0</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1eWXwWzsMdctD-giSOsJ-2QgxpUSZbLMn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fo1011</param>
+      <consist name="Артишок" unit="шт">1</consist>
     </offer>
     <offer id="Fo6535" available="false">
       <categoryId>37</categoryId>
