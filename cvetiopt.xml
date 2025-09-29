@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T15:44:57.819+03:00">
+<yml_catalog date="2025-09-29T15:46:40.992+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -3686,6 +3686,57 @@
       <param name="Производитель">Kallaland</param>
       <param name="Артикул">Fo0453</param>
       <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo01455" available="false">
+      <categoryId>37</categoryId>
+      <name>Кампанула Розовый 50 см Арт. Fo01455</name>
+      <price>99</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nlSgtFF7u2epnOJ_pK-WQYgQiKUVK78z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CAVvXNQjw6aWvRiHJZ30TIrugH7gZ5Bf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WnoejJ7S0aq98yaEOUj9EFp9a0Scv8o1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FECkzPbkwnHuZJUY-boVmVkm_kFJ-QtL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i2IN_66pzXNditNaDpkivWxaBrE9tQpW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fYr_LDUWammmgsjM2cXAyXciArMB-sIu</picture>
+      <picture>https://lh3.googleusercontent.com/d/12oWeODqITqU8EZHqPrtj-RJoUUo8OvLw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-W-eRCBtzG5c6iuatDjKimuTyp9arm15</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-DzKnpmRnBtPOO1GDfd1V22c6oTXVlZQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FNqvzBY71sEaiU-L-ET1y53Su78QhIxa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fo01455</param>
+      <consist name="Кампанула" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo0514" available="false">
+      <categoryId>37</categoryId>
+      <name>Кампанула Белый 50 см Арт. Fo0514</name>
+      <price>99</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KWGFqIBANqD2G_RSl9gGRLBLE8ht7z-i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fo0514</param>
+      <consist name="Кампанула" unit="шт">10</consist>
+    </offer>
+    <offer id="Fo9367" available="false">
+      <categoryId>37</categoryId>
+      <name>Кампанула Фиолетовый 70 см Арт. Fo9367</name>
+      <price>99</price>
+      <qty>0</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZJ_9vmkB2nj4UtFzDR7ESox1m439xK4H</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fo9367</param>
+      <consist name="Кампанула" unit="шт">10</consist>
     </offer>
     <offer id="Fo559" available="true">
       <categoryId>37</categoryId>
