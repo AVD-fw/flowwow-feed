@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-29T16:01:23.718+03:00">
+<yml_catalog date="2025-09-29T16:06:25.770+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,20 +17,33 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="E01297" available="true">
+    <offer id="E2558" available="true">
       <categoryId>1</categoryId>
-      <name>Роза одноголовая Мондиаль 70 см Арт. E01297</name>
-      <price>122</price>
-      <qty>75</qty>
+      <name>Роза одноголовая Мандала 80 см Арт. E2558</name>
+      <price>169</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DbQ2MiLG0KU3KtqYLwhVflgCcs4wTz9C</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XcExpTH1HfvJtaCJGfuSKghufdAc1DB_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lxh5DLEpEbl8MUbUBmr0waIRU_mmrUsZ</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
+      <param name="Высота, см">80</param>
       <param name="Страна">Эквадор</param>
-      <param name="Производитель">Valems Flowers</param>
-      <param name="Артикул">E01297</param>
-      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
+      <param name="Производитель">Sofie Farms</param>
+      <param name="Артикул">E2558</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">25</consist>
+    </offer>
+    <offer id="E2548" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пинк Мондиаль 80 см Арт. E2548</name>
+      <price>131</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16m0lFXJZ5RoUvZQGDjeFk-6YzQelMe4f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Sofie Farms</param>
+      <param name="Артикул">E2548</param>
+      <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
     </offer>
     <offer id="E01005" available="true">
       <categoryId>7</categoryId>
