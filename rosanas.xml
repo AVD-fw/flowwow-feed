@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-30T08:31:04.623+03:00">
+<yml_catalog date="2025-09-30T08:41:02.438+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -175,6 +175,20 @@
       <param name="Артикул">S01527</param>
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
     </offer>
+    <offer id="S8915" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Элисон Свит э 55 см Арт. S8915</name>
+      <price>105</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uwxvN08EIAtwV_OHTwIIAwKJ7TwC6zeb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">S8915</param>
+      <consist name="Хризантема Сантини Элисон Свит э" unit="шт">25</consist>
+    </offer>
     <offer id="S00907" available="true">
       <categoryId>37</categoryId>
       <name>Альстромерия Роме 70 см Арт. S00907</name>
@@ -224,6 +238,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S02267</param>
       <consist name="Астранция Маж Роме" unit="шт">10</consist>
+    </offer>
+    <offer id="S01431" available="true">
+      <categoryId>37</categoryId>
+      <name>Гладиолус Нова Зембла 120 см Арт. S01431</name>
+      <price>129</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vFZK5aU2keE-GNLy1sof8YyGIFzmoBpp</picture>
+      <picture>https://lh3.googleusercontent.com/d/104PKESDfE5nksqWq71uT5Ztj1YP1acO4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s-1ErTXwGjArIauYcXX3keiq1MBy1axJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/184rGS0QoGgE-qZhxvxA3Orea7o18w8yM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">120</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01431</param>
+      <consist name="Гладиолус Нова Зембла" unit="шт">10</consist>
     </offer>
     <offer id="S7469" available="true">
       <categoryId>37</categoryId>
@@ -514,6 +544,23 @@
       <param name="Производитель">five star quality</param>
       <param name="Артикул">S7226</param>
       <consist name="Эустома Гев Алиса Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="S3714" available="true">
+      <categoryId>38</categoryId>
+      <name>Бруния левайс 40 см Арт. S3714</name>
+      <price>129</price>
+      <qty>5</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1H22oE2mv6UlZAF0Euh50kLhpaVrLti2k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VhZjDKg-4HdAA-19dyFeYInvUvFj20e2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D5SWJNdmyDlF2NAKDIkENgKbdUpDYErn</picture>
+      <picture>https://lh3.googleusercontent.com/d/125E0KVHF7lt5KLc1kseraLiHzFUYzGoX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-C1wq46pxnjllq_1vdTrDeCpWzZFl5VV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S3714</param>
+      <consist name="Бруния левайс" unit="шт">10</consist>
     </offer>
     <offer id="S02257" available="true">
       <categoryId>38</categoryId>
