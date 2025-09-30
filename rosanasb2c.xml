@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-30T07:51:20.093+03:00">
+<yml_catalog date="2025-09-30T08:01:10.039+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -19,6 +19,39 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">S4797</param>
       <consist name="Лавровишня" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_S7004" available="true">
+      <name>Рябина 1 шт Оранжевый 45 см Арт. S7004</name>
+      <price>930</price>
+      <picture>https://lh3.googleusercontent.com/d/1ZhFppo3NEiZmCKiRXOCPytR1DezU_I2p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1um2x45TF-jLuiAnRmmNE36RAa3vjBlpJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">45</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S7004</param>
+      <consist name="Рябина" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_S03646" available="true">
+      <name>Перчик 1 шт Зеленый 60 см Арт. S03646</name>
+      <price>850</price>
+      <picture>https://lh3.googleusercontent.com/d/1pljTdSidLAwmhR6VeTwxqPMGfEtDCb99</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
+      <picture>https://lh3.googleusercontent.com/d/19AXbT8w5iNRJ2tiZS8lZkQYs9RSQFtlI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ySBIwk1aDsetkQz28QlEImStMxhXN9c9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OotklSQgwYKjmszHoxcwiFp8Cf_Qd8es</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yF_51qh0zPsiRpGEGtybNl077SI6EIij</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qD-S3rmf7Z2_qXsLZZmUXpMuQjaYcbD9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HDb1IBbi3Qr282-HqpDkVepRNiR1FSi9</picture>
+      <picture>https://lh3.googleusercontent.com/d/10OW2YX4ywLReQF3dDiqgqrPocKyo1m4h</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S03646</param>
+      <consist name="Перчик" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
