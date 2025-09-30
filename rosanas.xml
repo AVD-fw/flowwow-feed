@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-30T11:31:10.578+03:00">
+<yml_catalog date="2025-09-30T11:41:03.712+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -793,6 +793,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S7417</param>
       <consist name="Полиантес" unit="шт">10</consist>
+    </offer>
+    <offer id="S01607" available="true">
+      <categoryId>38</categoryId>
+      <name>Роза Коралло 70 см Арт. S01607</name>
+      <price>269</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1w4C0d9tUfuqM2awnKvjvIeRRgQEh2vPK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tWC7Hzx1s2E_swHgzAPRQ3esunHnGdRf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DftLgeNmTPN4i7I18OEhq0VFvTf1d_iq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VaUlcG-PxW2XmgrLlL7nFWSJLqSGYLSK</picture>
+      <picture>https://lh3.googleusercontent.com/d/11JB2B-39oK2dZ-2Y_S-OfcJXQOxvI26E</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01607</param>
+      <consist name="Роза Коралло" unit="шт">10</consist>
     </offer>
     <offer id="S01206" available="true">
       <categoryId>38</categoryId>
