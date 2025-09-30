@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-30T11:51:19.328+03:00">
+<yml_catalog date="2025-09-30T12:01:24.149+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -32,11 +32,27 @@
       <param name="Артикул">S7717</param>
       <consist name="Роза одноголовая Кендал Лайт" unit="шт">10</consist>
     </offer>
+    <offer id="S01695" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кларенс 50 см Арт. S01695</name>
+      <price>69</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/175pElk2BEHys9M72lDsBEXA0Uivh8jvB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J2syZT6QSiABTdpRxXswIYlF_fxWtnfL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A7-hDmwU4fUKhIdqK5Ib6d8qLsfYLqCj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S01695</param>
+      <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
+    </offer>
     <offer id="S04326" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Монмартр 60 см Арт. S04326</name>
       <price>997</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UugeRH9gzYPy0tpgjJI65JQiWmxXMISm</picture>
       <picture>https://lh3.googleusercontent.com/d/1qhRtjuNGicHJ15SCVhuF5gXLlNGvqzQQ</picture>
@@ -46,6 +62,21 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S04326</param>
       <consist name="Роза одноголовая Монмартр" unit="шт">10</consist>
+    </offer>
+    <offer id="S7615" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревайвал 50 см Арт. S7615</name>
+      <price>69</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jt8077QQfIPk0v2mqvhNoOWLzTH94249</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KdzCvNZVztQ7KMXstimp4y-HRaPxHloJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S7615</param>
+      <consist name="Роза одноголовая Ревайвал" unit="шт">20</consist>
     </offer>
     <offer id="S7616" available="true">
       <categoryId>1</categoryId>
@@ -66,7 +97,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Эспания 60 см Арт. S01996</name>
       <price>82</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gdgpxsF9LqhVmVxlZwEgWBgdEiiWM5aj</picture>
       <picture>https://lh3.googleusercontent.com/d/188p-IBOa4mVQPDWTb7vwGeOu8-trsC7V</picture>
@@ -78,6 +109,38 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S01996</param>
       <consist name="Роза одноголовая Эспания" unit="шт">20</consist>
+    </offer>
+    <offer id="S04286" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Баблгам 60 см Арт. S04286</name>
+      <price>110</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Fgww5U9P-Ejqnvpcx9nRhsH6JxSmXSjy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JSKr-rjfH6Tz76FMuT7ST6QgkNAz9Idm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MYUjLAaBhBn58pMWPlkoa5JfB6WzbIv8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LmQVOlgtYyw5E53TPccS1MMtXuGSNwcg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S04286</param>
+      <consist name="Роза одноголовая пионовидная Баблгам" unit="шт">10</consist>
+    </offer>
+    <offer id="S04306" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Баттеркап 60 см Арт. S04306</name>
+      <price>123</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1n71Il54P6YGP4v710bVfxSfYJBeAjK2_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qj4HtdfKAffh-WlL_QFABvIs6gZGKZUj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S04306</param>
+      <consist name="Роза одноголовая пионовидная Баттеркап" unit="шт">10</consist>
     </offer>
     <offer id="S8115" available="true">
       <categoryId>3</categoryId>
@@ -94,11 +157,26 @@
       <param name="Артикул">S8115</param>
       <consist name="Роза кустовая Ангелина" unit="шт">10</consist>
     </offer>
+    <offer id="S8094" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Бомбастик 40 см Арт. S8094</name>
+      <price>75</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-iHzDpuk_CqP1HJIY0IjmfAIdbUGPoFT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1daNhQs3n203_NOSfqQFUp-jsu_3MKeDZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">S8094</param>
+      <consist name="Роза кустовая Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="S04486" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Жозефина 60 см Арт. S04486</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NZlE4KUMS6BzYZUbUUuRmgzaq-1c7f4q</picture>
       <picture>https://lh3.googleusercontent.com/d/1CcWK4f5zsGUN7W7JIMWrwBEKMqmN0NEQ</picture>
@@ -111,6 +189,40 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S04486</param>
       <consist name="Роза кустовая Жозефина" unit="шт">10</consist>
+    </offer>
+    <offer id="S04265" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 50 см Арт. S04265</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1p5TsU1R3bq8NcW2buMbTGEqb2KyZzumC</picture>
+      <picture>https://lh3.googleusercontent.com/d/17ujViUfYjb7CRdVDWDvCE_QbuBIlS-PN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CFczB6O6Z-25Z1U_3uRhfHB6ydkzVDTM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Uzo9YBMPDz7BMY1OpRkMomiZKn4oFlq0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xahg3fyuUO5faUwMZSwB7vI_08Egfjl9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S04265</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
+    </offer>
+    <offer id="S01745" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Таня 50 см Арт. S01745</name>
+      <price>206</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HHvNk0qsaByplO6gAgLRgGCY2WCIWfqt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hyJmcLBfF_cfL2c2W3loPT01N6b6xa7T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WfbB5VCyccztTHRPh8bVaTuCYcJrQmV8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S01745</param>
+      <consist name="Роза кустовая Таня" unit="шт">10</consist>
     </offer>
     <offer id="S6506" available="true">
       <categoryId>3</categoryId>
@@ -134,7 +246,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Лавандер Бабблс 60 см Арт. S04436</name>
       <price>397</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1t1PgdKlZJkImE_bX4g5jB9E16Jh0mh9C</picture>
       <picture>https://lh3.googleusercontent.com/d/1fl_aBtSLOnh26zoqMoQE54ddw_o0FKRr</picture>
@@ -181,11 +293,29 @@
       <param name="Артикул">S01806</param>
       <consist name="Роза кустовая пионовидная Луна Трендсеттер" unit="шт">10</consist>
     </offer>
+    <offer id="S04275" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. S04275</name>
+      <price>398</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13BWZ6MrATlTKp8VLwB9nkZxgBr2UYNwF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GWwgPLWowNPpmTes2L41G07R3K_y3zGk</picture>
+      <picture>https://lh3.googleusercontent.com/d/103yHsuOnizPVQt1b3SKNUR8wiqOMNp6H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q64E8fpIh7dBRLpVNMNsPydpT2id2LFs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S1-o-mcZfyeUPO-qV86HWg7yskTOTE7O</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S04275</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="S02995" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мансфилд Парк 50 см Арт. S02995</name>
       <price>263</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YWp2XLDuKaC2CPqWUGSS3z9TddZnlMLP</picture>
       <picture>https://lh3.googleusercontent.com/d/1j8uqFJ-fVGRI6BOyikRZuuo345hJMTGZ</picture>
@@ -203,7 +333,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мансфилд Парк Пинк 50 см Арт. S4135</name>
       <price>288</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qfEaSBoZg6O4Y6JaSt2JvMq7M2wz_JzD</picture>
       <picture>https://lh3.googleusercontent.com/d/1s182exE_ygF3CucB4m23UnitG4pxqjut</picture>
@@ -221,7 +351,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Микс Кустовые 50 см Арт. S4925</name>
       <price>274</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Jb7Srn81g7bdmgpjjGrUzk8N-bhG0Tlv</picture>
       <picture>https://lh3.googleusercontent.com/d/1n_UK1kiaP9vURFXwh5Jq1lXT9DTg__-D</picture>
@@ -239,7 +369,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Пиони Бабблс 50 см Арт. S4915</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OpFIRGJIIYiSGn3onJkwCSllmBt3lsMd</picture>
       <picture>https://lh3.googleusercontent.com/d/1tnPwSDstiYUhwN3F63CcCNNG2a6od-Le</picture>
@@ -253,11 +383,28 @@
       <param name="Артикул">S4915</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="S6935" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Роял Блаш 50 см Арт. S6935</name>
+      <price>274</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1p_-LRY3AQg8HzioA_nT9AlALtzXY7dCI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t8GQd_hZyYzoAyhS_haYqwaZWUyMV2Am</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t_nl6Tcj9KHzuSY8DvksYM_rAukurOjK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TFnOENqv7HkkoMrj58X-PQSv1jai-A3L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S6935</param>
+      <consist name="Роза кустовая пионовидная Роял Блаш" unit="шт">5</consist>
+    </offer>
     <offer id="S03005" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Роял Парк 50 см Арт. S03005</name>
       <price>274</price>
-      <qty>5</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eG51rBUL5RMdWRHz-B-dncT18pulTM3a</picture>
       <picture>https://lh3.googleusercontent.com/d/1FPEEDU9hcp-uxnVuvMT1mWg-U8UVYr8I</picture>
@@ -275,13 +422,13 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Сильва Пинк 50 см Арт. S04335</name>
       <price>288</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1N2U13_wdG6cbGi47H-k7mCB9XEl1jx8n</picture>
-      <picture>https://lh3.googleusercontent.com/d/17VPfGuM04tDfHlG-nqzi059HU78Ssu-v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pr4yGKuHQw50ZziWl14XHpblPoKreb7x</picture>
       <picture>https://lh3.googleusercontent.com/d/1WpbO3_LJK6gqWqPWAUa4Ex4NSWhLQcwN</picture>
       <picture>https://lh3.googleusercontent.com/d/1fLFsqhQGVhI3qSp6ryn9JrXvLwdeygdS</picture>
       <picture>https://lh3.googleusercontent.com/d/1OqWrrqVcsDCeuTNs3Moq6hvTibbcORRr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N2U13_wdG6cbGi47H-k7mCB9XEl1jx8n</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
@@ -293,7 +440,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Скарлет Дименшион 60 см Арт. S04386</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ccx4hvxkhxGp2WWdIpmRs5iMHTcSNGhz</picture>
       <picture>https://lh3.googleusercontent.com/d/1V-vT2dwad0Dbil1R7A3HoIKzu_IPCnEF</picture>
