@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-30T15:21:23.266+03:00">
+<yml_catalog date="2025-09-30T15:31:02.507+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -293,24 +293,6 @@
       <param name="Артикул">S04275</param>
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
-    <offer id="S4135" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Мансфилд Парк Пинк 50 см Арт. S4135</name>
-      <price>288</price>
-      <qty>15</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1qfEaSBoZg6O4Y6JaSt2JvMq7M2wz_JzD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1s182exE_ygF3CucB4m23UnitG4pxqjut</picture>
-      <picture>https://lh3.googleusercontent.com/d/1d1mnBMcLzXhWLJz8n1OHAYq4lpMCGaNs</picture>
-      <picture>https://lh3.googleusercontent.com/d/1A4Eyk-tJt4Ci2YNIGlBob5GUBSTv60Tu</picture>
-      <picture>https://lh3.googleusercontent.com/d/1d1mnBMcLzXhWLJz8n1OHAYq4lpMCGaNs</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">S4135</param>
-      <consist name="Роза кустовая пионовидная Мансфилд Парк Пинк" unit="шт">5</consist>
-    </offer>
     <offer id="S02995" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Менсфилд Парк 50 см Арт. S02995</name>
@@ -328,6 +310,24 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S02995</param>
       <consist name="Роза кустовая пионовидная Менсфилд Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="S4135" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Менсфилд Парк Пинк 50 см Арт. S4135</name>
+      <price>288</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qfEaSBoZg6O4Y6JaSt2JvMq7M2wz_JzD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s182exE_ygF3CucB4m23UnitG4pxqjut</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d1mnBMcLzXhWLJz8n1OHAYq4lpMCGaNs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A4Eyk-tJt4Ci2YNIGlBob5GUBSTv60Tu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d1mnBMcLzXhWLJz8n1OHAYq4lpMCGaNs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S4135</param>
+      <consist name="Роза кустовая пионовидная Менсфилд Парк Пинк" unit="шт">5</consist>
     </offer>
     <offer id="S4925" available="true">
       <categoryId>4</categoryId>
@@ -420,7 +420,7 @@
     </offer>
     <offer id="S04386" available="true">
       <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Скарлет Дименшион 60 см Арт. S04386</name>
+      <name>Роза кустовая пионовидная Скарлет Дименшен 60 см Арт. S04386</name>
       <price>274</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -434,7 +434,7 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S04386</param>
-      <consist name="Роза кустовая пионовидная Скарлет Дименшион" unit="шт">10</consist>
+      <consist name="Роза кустовая пионовидная Скарлет Дименшен" unit="шт">10</consist>
     </offer>
     <offer id="S3817" available="true">
       <categoryId>5</categoryId>
