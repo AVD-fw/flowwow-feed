@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-30T15:12:51.697+03:00">
+<yml_catalog date="2025-09-30T15:21:12.189+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -268,24 +268,6 @@
       <param name="Артикул">Cp06236</param>
       <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
     </offer>
-    <offer id="Cp01487" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Желтый 70 см Арт. Cp01487</name>
-      <price>160</price>
-      <qty>150</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Mf2W0YH2yILJj2rmdQY4PMIpUg0YKQFf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HafaQRBjMMUkF_SXAZ2onPcHLpXMUa9e</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_rcDmStSU-m7NDSL9KPxBTA0yPxHbBH3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VY3lln7QfSzXagQ5MBAmfr_Okn8Vj4fE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EF5upkOuIjbD6Edh8J1_IVbTDEM5WlnD</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Cp01487</param>
-      <consist name="Хризантема одноголовая" unit="шт">10</consist>
-    </offer>
     <offer id="Cp01497" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Коричневый 70 см Арт. Cp01497</name>
@@ -369,6 +351,24 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Cp01317</param>
       <consist name="Хризантема одноголовая Алемани" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp01487" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бразильяна 70 см Арт. Cp01487</name>
+      <price>160</price>
+      <qty>150</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Mf2W0YH2yILJj2rmdQY4PMIpUg0YKQFf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HafaQRBjMMUkF_SXAZ2onPcHLpXMUa9e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_rcDmStSU-m7NDSL9KPxBTA0yPxHbBH3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VY3lln7QfSzXagQ5MBAmfr_Okn8Vj4fE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EF5upkOuIjbD6Edh8J1_IVbTDEM5WlnD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp01487</param>
+      <consist name="Хризантема одноголовая Бразильяна" unit="шт">10</consist>
     </offer>
     <offer id="Cp01307" available="true">
       <categoryId>5</categoryId>
@@ -1173,9 +1173,9 @@
       <param name="Артикул">Cp9537</param>
       <consist name="Дельфиниум" unit="шт">10</consist>
     </offer>
-    <offer id="Cp02025" available="true">
+    <offer id="Cp02026" available="true">
       <categoryId>37</categoryId>
-      <name>Ирис Фиолетовый 50 см Арт. Cp02025</name>
+      <name>Ирис Фиолетовый 60 см Арт. Cp02026</name>
       <price>41</price>
       <qty>750</qty>
       <quantity_in_package>50</quantity_in_package>
@@ -1185,9 +1185,10 @@
       <picture>https://lh3.googleusercontent.com/d/1gvE9IW0zAtBWxEoXAHLJ-qs5m8eu6nq9</picture>
       <picture>https://lh3.googleusercontent.com/d/14imjgZyFmPs7xLZPoj4RuNPO4Njgv4DE</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
-      <param name="Артикул">Cp02025</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp02026</param>
       <consist name="Ирис" unit="шт">50</consist>
     </offer>
     <offer id="Cp0453" available="true">
@@ -1471,6 +1472,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Голландия</param>
+      <param name="Производитель">Zara Flora</param>
       <param name="Артикул">Cp01915</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
@@ -1875,6 +1877,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
       <param name="Артикул">Cp01975</param>
       <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
