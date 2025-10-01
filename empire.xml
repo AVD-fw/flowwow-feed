@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-01T10:25:27.974+03:00">
+<yml_catalog date="2025-10-01T10:35:32.893+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -34,7 +34,7 @@
     <offer id="E2548" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пинк Мондиаль 80 см Арт. E2548</name>
-      <price>131</price>
+      <price>154</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EZbNWXSmHgpmCN7Egmc8lXOHkhsQihbX</picture>
@@ -45,6 +45,37 @@
       <param name="Производитель">Sofie Farms</param>
       <param name="Артикул">E2548</param>
       <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="E2167" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Антонов 70 см Арт. E2167</name>
+      <price>135</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MDVSh0-LuDyuC5WvaEx28HqC-RGIVObh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KUcEou4Z9W6Mb-lhcsLKu5fTjawWKuDl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">E2167</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+    </offer>
+    <offer id="E2177" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Антонов Магнум 70 см Арт. E2177</name>
+      <price>147</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HCkyq4x_Lm-fEUnptMbW154uKLLefRtn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aYLRZuFrjuZPByxZ7bzoeft9i7k9vG0L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ek41gvlqc0UEX66QeFBZvfn90pHtOoYj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">E2177</param>
+      <consist name="Хризантема одноголовая Антонов Магнум" unit="шт">10</consist>
     </offer>
     <offer id="E01286" available="true">
       <categoryId>6</categoryId>
@@ -126,6 +157,21 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">E1715</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="E2606" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Белый 60 см Арт. E2606</name>
+      <price>75</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1T3R4WTZFGZVzfe7GitT0VCXbkN3uKs5_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zAygKUjixDJoU1ckkE-N8o3SFj53tdve</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">E2606</param>
       <consist name="Хризантема Сантини" unit="шт">25</consist>
     </offer>
     <offer id="E00985" available="true">
@@ -339,6 +385,21 @@
       <param name="Артикул">E2476</param>
       <consist name="Лизиантус" unit="шт">10</consist>
     </offer>
+    <offer id="E2506" available="true">
+      <categoryId>37</categoryId>
+      <name>Лизиантус Разовый 60 см Арт. E2506</name>
+      <price>150</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N0kCahNvAkTGzUaojA8_8qgvnOdVruIR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rypN2OXPzafDYoVO-pWV7VIc_ugLXmSG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">E2506</param>
+      <consist name="Лизиантус" unit="шт">10</consist>
+    </offer>
     <offer id="E01095" available="true">
       <categoryId>37</categoryId>
       <name>Лилия Белый 50 см Арт. E01095</name>
@@ -419,6 +480,22 @@
       <param name="Артикул">E01275</param>
       <consist name="Оксипеталум" unit="шт">25</consist>
     </offer>
+    <offer id="E2358" available="true">
+      <categoryId>37</categoryId>
+      <name>Подсолнух Жёлтый 80 см Арт. E2358</name>
+      <price>145</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1L1U6BRnu38oE31w7Sqsho4U953uJ1LE_</picture>
+      <picture>https://lh3.googleusercontent.com/d/12AI-4jBFBJUfcP6t80ncWoyZvw4WlzOV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KFPW8YUnL63CmoxDkc6Y7ie-mygagxgP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PpOZ_hFqE-8ysZ_OTa1bntSBEBA3YTCF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">E2358</param>
+      <consist name="Подсолнух" unit="шт">10</consist>
+    </offer>
     <offer id="E2465" available="true">
       <categoryId>37</categoryId>
       <name>Протея Белый 50 см Арт. E2465</name>
@@ -486,7 +563,7 @@
     <offer id="E2456" available="true">
       <categoryId>37</categoryId>
       <name>Статица Фиолетовый 60 см Арт. E2456</name>
-      <price>101</price>
+      <price>120</price>
       <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PMSb6jx_dDcG7JOKFKTngr4cRU-qwUwY</picture>
