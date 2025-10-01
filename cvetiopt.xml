@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-01T06:11:26.219+03:00">
+<yml_catalog date="2025-10-01T06:21:06.834+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -217,6 +217,40 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Cp06287</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp06247" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мисс Бомбастик 70 см Арт. Cp06247</name>
+      <price>215</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1f7ab-2oGCiy9IFlg62Kdh-R5e_YyLTms</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-bgbXeyMvNKoybvaeoU21EIBO2wWeme6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A8VpnJK4D3fswuEfpFk5C04lsGnuP4RW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LP14o4Z8q7KebScapZe4ryRx5AGloXdE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jBBDkHsqG3rZZMRHMBWailw6Fenq-Und</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Cp06247</param>
+      <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp6005" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мисти Бабблс 50 см Арт. Cp6005</name>
+      <price>193</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gwUPu1fVKqeNvS812_8Ds6lMj4JlbFrF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UOgk7NVEpTIwFs4Jl4AX56VC_M4lUqIX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AZKoCBQKaGkG6H7Ethy1TCUNYJYSyLC1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Cp6005</param>
+      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Cp06236" available="true">
       <categoryId>4</categoryId>
