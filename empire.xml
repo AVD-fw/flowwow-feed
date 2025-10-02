@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-02T10:25:34.786+03:00">
+<yml_catalog date="2025-10-02T10:35:44.657+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -65,28 +65,11 @@
       <param name="Артикул">E2167</param>
       <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
     </offer>
-    <offer id="E2177" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Антонов Магнум 70 см Арт. E2177</name>
-      <price>147</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1awH5wuYv9yNfNt7kbkIbzupoPIvtSAbP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aYLRZuFrjuZPByxZ7bzoeft9i7k9vG0L</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ek41gvlqc0UEX66QeFBZvfn90pHtOoYj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HCkyq4x_Lm-fEUnptMbW154uKLLefRtn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E2177</param>
-      <consist name="Хризантема одноголовая Антонов Магнум" unit="шт">10</consist>
-    </offer>
     <offer id="E2447" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов Магнум 70 см Арт. E2447</name>
       <price>132</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DVPiZAHm8fLr8a4Y445qwEumlOA8VQkS</picture>
       <picture>https://lh3.googleusercontent.com/d/1KYGCrf0qL4GfJhClUFKDSlP6nQ-U4Y9D</picture>
@@ -378,7 +361,7 @@
       <categoryId>37</categoryId>
       <name>Калла Бордовый 60 см Арт. E1906</name>
       <price>180</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-jkTNnOe_6rpPaKIa6A-bLbQvHAQvhVo</picture>
       <picture>https://lh3.googleusercontent.com/d/1winbkTJxJ4NM5fha2CBWq7qXdu-jnq6p</picture>
@@ -429,7 +412,7 @@
       <categoryId>37</categoryId>
       <name>Лизиантус Сиреневый 60 см Арт. E2476</name>
       <price>140</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mQI5cWqXEUJQIz22wAdDmBshgrRC_5YE</picture>
       <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
@@ -440,23 +423,6 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">E2476</param>
       <consist name="Лизиантус" unit="шт">10</consist>
-    </offer>
-    <offer id="E01095" available="true">
-      <categoryId>37</categoryId>
-      <name>Лилия Белый 50 см Арт. E01095</name>
-      <price>355</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1-cESSn_NQa-8rytdHbDrLCg_4qg_0ixO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q45oH6fPueXAhf7t-f1_iNXhweoGp8wP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Ox5SurLUyNhrq_CEHjTucfWheMj2MQBE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1X_XIKPjrOG9RH4YwruETEHNhWrfxrhn9</picture>
-      <picture>https://lh3.googleusercontent.com/d/131bCfG1DVwHUxYSvm8P2iR4Q2yi7_6Ya</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">E01095</param>
-      <consist name="Лилия" unit="шт">10</consist>
     </offer>
     <offer id="E1899" available="true">
       <categoryId>37</categoryId>
@@ -530,7 +496,7 @@
       <categoryId>37</categoryId>
       <name>Протея Белый 50 см Арт. E2465</name>
       <price>560</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cdvREgh3V6p4j0hCdM6qjYvHPx2QJ9e9</picture>
       <picture>https://lh3.googleusercontent.com/d/1UuGnpnJMDbOpeVDeBdPl77hb7Y2tupus</picture>
@@ -545,7 +511,7 @@
       <categoryId>37</categoryId>
       <name>Статица Лиловый 50 см Арт. E01185</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DhzVN6fArwMYbxtDUoBGWawIij4P1mGI</picture>
       <picture>https://lh3.googleusercontent.com/d/1zisBA6v_kLD53VayCYRZvrsz5Hk_QZS7</picture>
@@ -562,7 +528,7 @@
       <categoryId>37</categoryId>
       <name>Статица Белый 50 см Арт. E01215</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GDyeQvllj0eIzs1azg0ChnOcReak2RvD</picture>
       <picture>https://lh3.googleusercontent.com/d/1iDlUuQyiSqseTfM_ew0dVXPFbAbkPzoa</picture>
@@ -579,7 +545,7 @@
       <categoryId>37</categoryId>
       <name>Статица Фиолетовый 60 см Арт. E2456</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BGOp7xra6n3zO65dEsh9UFoCKzvuHyL7</picture>
       <picture>https://lh3.googleusercontent.com/d/1scJvsH_XbyLwERIgbhhSgEG812qzUcfI</picture>
@@ -680,7 +646,7 @@
       <categoryId>38</categoryId>
       <name>Эрингиум Синий 50 см Арт. E01205</name>
       <price>156</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vqte7iVZX0-eIigrPcIOvIcHoyvPJO1t</picture>
       <picture>https://lh3.googleusercontent.com/d/1OVvga1ix9Hk2oQb8GkVx5rmnpK5Llg5X</picture>
