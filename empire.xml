@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-02T20:05:28.738+03:00">
+<yml_catalog date="2025-10-02T20:15:29.331+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -82,21 +82,6 @@
       <param name="Артикул">E2447</param>
       <consist name="Хризантема одноголовая Антонов Магнум" unit="шт">10</consist>
     </offer>
-    <offer id="E2227" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Розовый 70 см Арт. E2227</name>
-      <price>80</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kvUFpwtLQw9sj54DRix1oE5Bz-WRRgVi</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MsWQBRY6X7x99537ZGKrSDS4srTJ2cYL</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E2227</param>
-      <consist name="Хризантема кустовая" unit="шт">5</consist>
-    </offer>
     <offer id="E2247" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Желтый 70 см Арт. E2247</name>
@@ -130,6 +115,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">E01286</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="E2227" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер Пинк 70 см Арт. E2227</name>
+      <price>80</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kvUFpwtLQw9sj54DRix1oE5Bz-WRRgVi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MsWQBRY6X7x99537ZGKrSDS4srTJ2cYL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">E2227</param>
+      <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
     </offer>
     <offer id="E00316" available="true">
       <categoryId>7</categoryId>
