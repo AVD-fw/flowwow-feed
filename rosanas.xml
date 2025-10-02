@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-02T12:11:06.679+03:00">
+<yml_catalog date="2025-10-02T12:21:04.846+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -38,7 +38,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Кендал Лайт 70 см Арт. S7717</name>
       <price>137</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Pt7W_jp6B6p0q2w7eqEugG2TawJX7NAf</picture>
       <picture>https://lh3.googleusercontent.com/d/1rUVGFG-8GuRHWxjcGVSlr2agVlibA3_A</picture>
@@ -68,6 +68,22 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S01695</param>
       <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
+    </offer>
+    <offer id="S7615" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревайвал 50 см Арт. S7615</name>
+      <price>69</price>
+      <qty>40</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_3O7I_FlwAEbd4i7afqu3cd5J0aZJ1nD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KdzCvNZVztQ7KMXstimp4y-HRaPxHloJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jt8077QQfIPk0v2mqvhNoOWLzTH94249</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S7615</param>
+      <consist name="Роза одноголовая Ревайвал" unit="шт">20</consist>
     </offer>
     <offer id="S7616" available="true">
       <categoryId>1</categoryId>
@@ -123,7 +139,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. S04275</name>
       <price>398</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ScuVbU_h-o0K9ccdASM994PgWwSwVheD</picture>
       <picture>https://lh3.googleusercontent.com/d/1S1-o-mcZfyeUPO-qV86HWg7yskTOTE7O</picture>
@@ -141,7 +157,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Роял Парк 50 см Арт. S03005</name>
       <price>274</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aSmNz4BpwEDgjhTk1j69s1lgXFPeizPO</picture>
       <picture>https://lh3.googleusercontent.com/d/1ghGbUiltc332wNNVXCJ4ZEMySqWLGp5M</picture>
@@ -177,7 +193,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Вайт Ребонет 75 см Арт. S6997</name>
       <price>158</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bVZ-PjadXHgGkNBM3_g5ZGlVeNPxRsiX</picture>
       <picture>https://lh3.googleusercontent.com/d/1wnSLD1MO5WlsW_919uDaA2YGfR2UdcDk</picture>
@@ -425,7 +441,7 @@
       <categoryId>37</categoryId>
       <name>Глориоза Ротшильд 90 см Арт. S7469</name>
       <price>359</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DBa_1cxpjhvEIm8LVEfyO2rpcntV9qPz</picture>
       <picture>https://lh3.googleusercontent.com/d/1b33KAdeAB1JHgzEuyKUgtcFSYm-74RON</picture>
@@ -441,7 +457,7 @@
       <categoryId>37</categoryId>
       <name>Дельфиниум Ду Дев Плор 80 см Арт. S6198</name>
       <price>397</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UQLzIj9-6usuu_8ttKA0iTB5IXanSicu</picture>
       <picture>https://lh3.googleusercontent.com/d/1l7ZyNnRkO8vP0QhMl7o65wf5uuRxuHNq</picture>
@@ -556,7 +572,7 @@
       <categoryId>37</categoryId>
       <name>Нутан Хайдж Голд 80 см Арт. S3728</name>
       <price>199</price>
-      <qty>5</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Pfzg1UUXv8Lp5m8sTu5bV8YzQR4Bd1Ge</picture>
       <picture>https://lh3.googleusercontent.com/d/11QCSKbu83vEtaLvBxyxgAl4O5VBBb2Jq</picture>
@@ -573,7 +589,7 @@
       <categoryId>37</categoryId>
       <name>Орнитогалум Турсордес 50 см Арт. S01165</name>
       <price>85</price>
-      <qty>10</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Y9-NdNnoWIAoxbX8X1N_wPe86MtEScuT</picture>
       <picture>https://lh3.googleusercontent.com/d/1YiQqV74X-BDMDqWf-jGKktj_mbc513nW</picture>
@@ -590,7 +606,7 @@
       <categoryId>37</categoryId>
       <name>Подсолнух  Мини 85 см Арт. S4718</name>
       <price>121</price>
-      <qty>10</qty>
+      <qty>190</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1IKeOnnMuRj80pyCWFsrQrOxsCqU-NFLw</picture>
       <picture>https://lh3.googleusercontent.com/d/1v4KOmBlYQVtXUiB7N2oLfRvPBUoWFzqQ</picture>
@@ -605,7 +621,7 @@
       <categoryId>37</categoryId>
       <name>Роза Маг Рэд Каскаде 60 см Арт. S7436</name>
       <price>159</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18psxPCHL1eLUh5OeT2t0k1irU3TTVTGS</picture>
       <picture>https://lh3.googleusercontent.com/d/1C7WxPCTaaPD_ZtNGOdduTV-96R7cCRve</picture>
@@ -670,7 +686,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Пинк Делайт 72 см Арт. S01307</name>
       <price>169</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cSDHuaxXk7UWvlVUz3RuZTXgjFP1-UUF</picture>
       <picture>https://lh3.googleusercontent.com/d/1HcTqDTKVS3pthpKorDgzXRyye5v7dson</picture>
@@ -687,7 +703,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Роуз Делайт 75 см Арт. S01297</name>
       <price>132</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AMkLU-aUr90v1Xcfk1uAGwAewCbA78w9</picture>
       <picture>https://lh3.googleusercontent.com/d/18DDzla_AhcbikK8W-JDDOKV3H4em7lhW</picture>
@@ -754,7 +770,7 @@
       <categoryId>38</categoryId>
       <name>Бруния Левис 40 см Арт. S3714</name>
       <price>129</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TIM3iZUksyVYiyfo5M46j-EhnnF6JwQy</picture>
       <picture>https://lh3.googleusercontent.com/d/125E0KVHF7lt5KLc1kseraLiHzFUYzGoX</picture>
@@ -857,7 +873,7 @@
       <categoryId>38</categoryId>
       <name>Симфорикарпус Маг Вхи Дреам 60 см Арт. S02606</name>
       <price>150</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WonBLlBWy-q_rm5hwPH8eM_iEhg-QJdA</picture>
       <picture>https://lh3.googleusercontent.com/d/1Gm6227jKTpsWpaVsW9UmFCvzQulK915k</picture>
@@ -874,7 +890,7 @@
       <categoryId>38</categoryId>
       <name>Тласпи Грин Белл 80 см Арт. S6348</name>
       <price>123</price>
-      <qty>25</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RJcaJBCWQ4Tl_oACib1eYbuqZVK7O-15</picture>
       <picture>https://lh3.googleusercontent.com/d/1AOjE9wT2f-tL1X1HH_T2dqVkqP7du95s</picture>
@@ -891,7 +907,7 @@
       <categoryId>38</categoryId>
       <name>Хасмантиум Латифолия 90 см Арт. S01549</name>
       <price>47</price>
-      <qty>20</qty>
+      <qty>80</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-303WkEodKUHiGYgzwAOop_uzecvq4cm</picture>
       <picture>https://lh3.googleusercontent.com/d/14rJVyn_npb-gr2VsIURHVPkinyyfcmmu</picture>
