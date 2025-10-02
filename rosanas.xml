@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-02T21:20:49.602+03:00">
+<yml_catalog date="2025-10-02T21:30:48.983+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S7717" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кендал Лайт 70 см Арт. S7717</name>
+      <price>137</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MAjjg3Wglo6HdRs1PoT48Z-qlT8PIFwR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LMroVTqyG4TTZfIx522HwUDENyrP51bF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S7717</param>
+      <consist name="Роза одноголовая Кендал Лайт" unit="шт">10</consist>
+    </offer>
     <offer id="S00847" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Шарлотте 70 см Арт. S00847</name>
