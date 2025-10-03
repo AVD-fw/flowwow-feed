@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T13:05:24.925+03:00">
+<yml_catalog date="2025-10-03T13:11:02.644+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -375,10 +375,11 @@
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kxhxN0yGEtt-oRXKdObNsOiw37PaM__U</picture>
       <picture>https://lh3.googleusercontent.com/d/1hH0czP1FDEFOCJvrLQ9F1Qy2sKH6xkXr</picture>
-      <description>Калла 99 см Арт. S7849</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">99</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">S7849</param>
+      <consist name="Калла" unit="шт">10</consist>
     </offer>
     <offer id="S6277" available="true">
       <categoryId>37</categoryId>
@@ -538,8 +539,8 @@
       <picture>https://lh3.googleusercontent.com/d/1whxBM1p29H_GtndeQZkD8alhcGrNEYE9</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">five star quality</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">S8297</param>
       <consist name="Эустома Алиса Блу" unit="шт">10</consist>
     </offer>
@@ -555,8 +556,8 @@
       <picture>https://lh3.googleusercontent.com/d/1ek-5K48tkJhPBblEIxMisyR51uK6_cVK</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">five star quality</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">S8267</param>
       <consist name="Эустома Алиса Лайт Пинк" unit="шт">10</consist>
     </offer>
@@ -571,8 +572,8 @@
       <picture>https://lh3.googleusercontent.com/d/1Uwb8vbvVICS0mUgY7Bnyaw_fEuSV0zLQ</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">five star quality</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">S8277</param>
       <consist name="Эустома Ароса Ред" unit="шт">10</consist>
     </offer>
