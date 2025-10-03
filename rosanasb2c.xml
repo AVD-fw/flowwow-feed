@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T12:51:21.791+03:00">
+<yml_catalog date="2025-10-03T13:06:22.152+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -43,11 +43,12 @@
       <price>1400</price>
       <picture>https://lh3.googleusercontent.com/d/1kxhxN0yGEtt-oRXKdObNsOiw37PaM__U</picture>
       <picture>https://lh3.googleusercontent.com/d/1hH0czP1FDEFOCJvrLQ9F1Qy2sKH6xkXr</picture>
-      <description>Калла 9 шт 99 см Арт. S7849</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">99</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">S7849</param>
+      <consist name="Калла" unit="шт">9</consist>
     </offer>
     <offer id="B2C_S6277" available="true">
       <name>Калла 9 шт Красный 70 см Арт. S6277</name>
