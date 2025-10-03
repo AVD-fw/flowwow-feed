@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T09:30:57.154+03:00">
+<yml_catalog date="2025-10-03T09:41:00.229+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,19 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S9357" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревивал 70 см Арт. S9357</name>
+      <price>83</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13ikym_uduWj5CkCINs7-w5y8pdvh-VZr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9357</param>
+      <consist name="Роза одноголовая Ревивал" unit="шт">20</consist>
+    </offer>
     <offer id="S3817" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Коричневый 70 см Арт. S3817</name>
@@ -304,6 +317,21 @@
       <param name="Артикул">S7825</param>
       <consist name="Гербера Спайдер Нола" unit="шт">10</consist>
     </offer>
+    <offer id="S9641" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Верена 100 см Арт. S9641</name>
+      <price>599</price>
+      <qty>20</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jPGf9liuUAIeqOCNQ_VN3LnBMhm6CRmK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YuXmT1QUzTCmaIis_Rep6Mh1h8DkXZGQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/19XyKTzu0MGMpDtpwrHd6RHdu5SDHxAqa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">100</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9641</param>
+      <consist name="Гидрангия Верена" unit="шт">5</consist>
+    </offer>
     <offer id="S7469" available="true">
       <categoryId>37</categoryId>
       <name>Глориоза Ротшильд 90 см Арт. S7469</name>
@@ -449,6 +477,23 @@
       <param name="Артикул">S9636</param>
       <consist name="Клематис Эмэйзинг Роум" unit="шт">10</consist>
     </offer>
+    <offer id="S7608" available="true">
+      <categoryId>37</categoryId>
+      <name>Куэркас Рубра 80 см Арт. S7608</name>
+      <price>987</price>
+      <qty>200</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1r_5nl0PzT_Pny581JFvdGvUQWOUwv-7L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DJbQY6-G3QVbrDHptx7tp3q0TweWgpmH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ryctAmiU92Lce9Q-PA-tTTY-QaJHYpj5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tn8tIyD22YU5SpSbEVzUZ17talGOTD1t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VaeFG7FuKd4AY0s79liMBGiucAjNYNLi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7608</param>
+      <consist name="Куэркас Рубра" unit="шт">20</consist>
+    </offer>
     <offer id="S7858" available="true">
       <categoryId>37</categoryId>
       <name>Куэркас Рубра Клеурбеханделд 80 см Арт. S7858</name>
@@ -464,6 +509,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S7858</param>
       <consist name="Куэркас Рубра Клеурбеханделд" unit="шт">20</consist>
+    </offer>
+    <offer id="S7983" available="true">
+      <categoryId>37</categoryId>
+      <name>Облепиха 30 см Арт. S7983</name>
+      <price>1079</price>
+      <qty>2</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/163TkRw9jTeezdA9J5xVgeOUrmySuJ_Xm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_tTvP_OoVZr1Kdup7YWw0WL61UsA96gh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H6u_fjc-LPRlxEXtYBbuRg6W_lRRRO76</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">30</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S7983</param>
+      <consist name="Облепиха" unit="шт">1</consist>
     </offer>
     <offer id="S4718" available="true">
       <categoryId>37</categoryId>
@@ -658,6 +719,39 @@
       <param name="Артикул">S8257</param>
       <consist name="Эустома g corelli coral" unit="шт">10</consist>
     </offer>
+    <offer id="S3714" available="true">
+      <categoryId>38</categoryId>
+      <name>Бруния Левис 40 см Арт. S3714</name>
+      <price>129</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18vZ5UZUBn8-fS6FKNVThyfoCa6fxeRKa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-C1wq46pxnjllq_1vdTrDeCpWzZFl5VV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H22oE2mv6UlZAF0Euh50kLhpaVrLti2k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cLjLKERaRwt4T3KtJ2fK_X_2xp20R8I0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TIM3iZUksyVYiyfo5M46j-EhnnF6JwQy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S3714</param>
+      <consist name="Бруния Левис" unit="шт">10</consist>
+    </offer>
+    <offer id="S01328" available="true">
+      <categoryId>38</categoryId>
+      <name>Картамус Занзибар 80 см Арт. S01328</name>
+      <price>79</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1V_lxM8IN-gYF5_CX_z3_VVaVQH1LEjR8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VyupFUhwlwV1ShTth2plW_kimpO3tk02</picture>
+      <picture>https://lh3.googleusercontent.com/d/1291TcT5KBq3BfY2G8Xmlvqy0SDchme0i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qiTOe0Rhg0uOtgei2hoK6yqBK_0JsMZy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01328</param>
+      <consist name="Картамус Занзибар" unit="шт">10</consist>
+    </offer>
     <offer id="S3409" available="true">
       <categoryId>38</categoryId>
       <name>Лимониум Фиолетовый 99 см Арт. S3409</name>
@@ -726,6 +820,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S01206</param>
       <consist name="Седум Спектибайл" unit="шт">5</consist>
+    </offer>
+    <offer id="S5134" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Фрэнк вайт 45 см Арт. S5134</name>
+      <price>480</price>
+      <qty>13</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18sxb_1UmNmeZsOh-9DwxOswd6g6oO98x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Km5p8iruQCNLCpfjaY7I8hlRvHke5slJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Yy0AvCE4036H2DJNZPBurEF7bADvP3KL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NooWiugiQrTaSq8V6RrrvjVZzH23vd1X</picture>
+      <picture>https://lh3.googleusercontent.com/d/17_RMEQhsoDFBsU7pccGRkjTJP16VFaek</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S5134</param>
+      <consist name="Скиммия Фрэнк вайт" unit="шт">1</consist>
     </offer>
     <offer id="S6657" available="true">
       <categoryId>38</categoryId>
