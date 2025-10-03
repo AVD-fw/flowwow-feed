@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T13:35:28.054+03:00">
+<yml_catalog date="2025-10-03T13:45:38.152+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -431,6 +431,67 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">E01225</param>
       <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
+    <offer id="E01135" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Лиловый 50 см Арт. E01135</name>
+      <price>130</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ag-4SgD7k978u70ds8ZGdhTVYT1xOng4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q9Qef-tgjUJgpHtE8q1YasfymPqKQGXZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zKJIQYoIFaFlVesIcmoNyqP6A3GNjZkz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-KkDob23CLIo8Q25oCSPYthmHEOWHrzk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">E01135</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="E01595" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Белый 50 см Арт. E01595</name>
+      <price>130</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1w4X1efRjWvvjF3vxSqOQjGX8h6G3KuPD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cJ6saJyla9jBD4uQQY-qVsqVpjNfC43z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CbrGiEeOlfkoihnFMD4QR3llCUZymdgI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eJ5PZnC-3pUO34G5ROOQdPnEqMXusaCY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">E01595</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="E01605" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Розовый 50 см Арт. E01605</name>
+      <price>130</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rqozR-1-_2w3gF4bRibGHGCCf5QYQQB3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kVZu8tiCqLxz7K0Su5N2k9Yw-juqDBiS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tEfY5eb-izUMwz6NEea2F4dlsEL91XqL</picture>
+      <picture>https://lh3.googleusercontent.com/d/14mpWYkNUE_L6EThFO2c8hXTnuPhTaUy7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">E01605</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="E3505" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Фиолетовый 50 см Арт. E3505</name>
+      <price>130</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ldoXXHgBUnw3DYdVCc-D4_6Qz5Uaau7a</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">E3505</param>
+      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="E01045" available="true">
       <categoryId>37</categoryId>
