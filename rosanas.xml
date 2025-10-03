@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T15:31:09.996+03:00">
+<yml_catalog date="2025-10-03T15:41:11.717+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -34,6 +34,21 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S02016</param>
       <consist name="Роза одноголовая Баблгам" unit="шт">10</consist>
+    </offer>
+    <offer id="S9496" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Зайна 60 см Арт. S9496</name>
+      <price>110</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aTB-N8uMA88TVmCslnvi2eFYL8dDC0Jq</picture>
+      <picture>https://lh3.googleusercontent.com/d/15lNOK0OFBvWKKi-9VyAIfEXQE_9gv8H9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S9496</param>
+      <consist name="Роза одноголовая Зайна" unit="шт">10</consist>
     </offer>
     <offer id="S7717" available="true">
       <categoryId>1</categoryId>
@@ -277,6 +292,21 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S02995</param>
       <consist name="Роза кустовая пионовидная Менсфилд Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="S4135" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Менсфилд Парк Пинк 50 см Арт. S4135</name>
+      <price>288</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hs1mj93L-GZbfcRX58DxnVo_4JTnShCy</picture>
+      <picture>https://lh3.googleusercontent.com/d/11HL2i18-OZ_qf4G3AGVvPmuaDisjocfM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S4135</param>
+      <consist name="Роза кустовая пионовидная Менсфилд Парк Пинк" unit="шт">5</consist>
     </offer>
     <offer id="S7695" available="true">
       <categoryId>4</categoryId>
