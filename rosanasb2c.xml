@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T14:52:08.177+03:00">
+<yml_catalog date="2025-10-03T15:01:27.010+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
     <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <offers>
+    <offer id="B2C_S02016" available="true">
+      <name>Роза одноголовая Баблгам 9 шт 60 см Арт. S02016</name>
+      <price>1030</price>
+      <picture>https://lh3.googleusercontent.com/d/1qLbHrNlT9UvEN5RaOkwLZlfefnCSBh52</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AZ-s9lKWmRlqajcMW-HQispPPPvMSohx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S02016</param>
+      <consist name="Роза одноголовая Баблгам" unit="шт">9</consist>
+    </offer>
     <offer id="B2C_S7717" available="true">
       <name>Роза одноголовая Кендал Лайт 9 шт 70 см Арт. S7717</name>
       <price>1370</price>
@@ -20,6 +33,19 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S7717</param>
       <consist name="Роза одноголовая Кендал Лайт" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_S01695" available="true">
+      <name>Роза одноголовая Кларенс 19 шт 50 см Арт. S01695</name>
+      <price>1370</price>
+      <picture>https://lh3.googleusercontent.com/d/1TTaZbxaCFECvbMF2be-8vi3b_ATIf5ks</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TivxJ3QsibXvO-mNpKrpRPpZ6h6TaJ7s</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S01695</param>
+      <consist name="Роза одноголовая Кларенс" unit="шт">19</consist>
     </offer>
     <offer id="B2C_S01996" available="true">
       <name>Роза одноголовая Эспания 19 шт 60 см Арт. S01996</name>
@@ -94,6 +120,31 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S04366</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_S02025" available="true">
+      <name>Роза кустовая пионовидная Леди Бомбастик 9 шт 50 см Арт. S02025</name>
+      <price>2740</price>
+      <picture>https://lh3.googleusercontent.com/d/1Tj9rnBXLMpwv2pB18n1yBfSGhLAO7xYX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S02025</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_S01806" available="true">
+      <name>Роза кустовая пионовидная Луна Трендсеттер 9 шт 60 см Арт. S01806</name>
+      <price>2740</price>
+      <picture>https://lh3.googleusercontent.com/d/1EK13d4iGIuiOhZKM0tECUEr2FkyB7bm_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CDSbrfd28fDtEaF3JIYSLldc8gTf8rXh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S01806</param>
+      <consist name="Роза кустовая пионовидная Луна Трендсеттер" unit="шт">9</consist>
     </offer>
     <offer id="B2C_S4915" available="true">
       <name>Роза кустовая пионовидная Пиони Бабблс 9 шт 50 см Арт. S4915</name>
