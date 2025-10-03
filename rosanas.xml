@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T12:41:10.555+03:00">
+<yml_catalog date="2025-10-03T12:51:10.744+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -185,22 +185,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">S02308</param>
       <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
-    </offer>
-    <offer id="S6647" available="true">
-      <categoryId>37</categoryId>
-      <name>Амарантус Кауд Мира 75 см Арт. S6647</name>
-      <price>189</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AiOER8M_OhNS5SZBF6fN6Rs9D6wmHpQ5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FSorkMQZamNUPQ28VfN3eeVgposlMw5t</picture>
-      <picture>https://lh3.googleusercontent.com/d/12qFFjFOxcZogAIdoRF4dgQiBR8DTOC33</picture>
-      <picture>https://lh3.googleusercontent.com/d/1sVnqmsuVshEOvyuTRZ6p6KHf6wHsId4h</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">75</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S6647</param>
-      <consist name="Амарантус Кауд Мира" unit="шт">10</consist>
     </offer>
     <offer id="S03547" available="true">
       <categoryId>37</categoryId>
@@ -477,55 +461,6 @@
       <param name="Артикул">S9636</param>
       <consist name="Клематис Эмэйзинг Роум" unit="шт">10</consist>
     </offer>
-    <offer id="S7608" available="true">
-      <categoryId>37</categoryId>
-      <name>Куэркас Рубра 80 см Арт. S7608</name>
-      <price>987</price>
-      <qty>200</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1r_5nl0PzT_Pny581JFvdGvUQWOUwv-7L</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DJbQY6-G3QVbrDHptx7tp3q0TweWgpmH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ryctAmiU92Lce9Q-PA-tTTY-QaJHYpj5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tn8tIyD22YU5SpSbEVzUZ17talGOTD1t</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VaeFG7FuKd4AY0s79liMBGiucAjNYNLi</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S7608</param>
-      <consist name="Куэркас Рубра" unit="шт">20</consist>
-    </offer>
-    <offer id="S7858" available="true">
-      <categoryId>37</categoryId>
-      <name>Куэркас Рубра Клеурбеханделд 80 см Арт. S7858</name>
-      <price>48</price>
-      <qty>40</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1wja_u0J-WETE2EPq4jv9qbodUS2rB94c</picture>
-      <picture>https://lh3.googleusercontent.com/d/10hsX1En_76JYlvBT3SK1L9gdyvu63Utw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aboerdwDfCcyc_FfmpxX7JomthKpr8b7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ScrOjyFE-oCjD8UjQR-dt8X5v7-VWgvM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S7858</param>
-      <consist name="Куэркас Рубра Клеурбеханделд" unit="шт">20</consist>
-    </offer>
-    <offer id="S7983" available="true">
-      <categoryId>37</categoryId>
-      <name>Облепиха 30 см Арт. S7983</name>
-      <price>1079</price>
-      <qty>2</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/163TkRw9jTeezdA9J5xVgeOUrmySuJ_Xm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_tTvP_OoVZr1Kdup7YWw0WL61UsA96gh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H6u_fjc-LPRlxEXtYBbuRg6W_lRRRO76</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">30</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">S7983</param>
-      <consist name="Облепиха" unit="шт">1</consist>
-    </offer>
     <offer id="S4718" available="true">
       <categoryId>37</categoryId>
       <name>Подсолнух Мини 85 см Арт. S4718</name>
@@ -541,20 +476,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S4718</param>
       <consist name="Подсолнух Мини" unit="шт">10</consist>
-    </offer>
-    <offer id="S7946" available="true">
-      <categoryId>37</categoryId>
-      <name>Роза Маг Ред Каскад 60 см Арт. S7946</name>
-      <price>159</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19YVf_bq1OASIy5p0IIlkZkkpwqjACcBB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1gG9CGJmWlb2_xvsxFKUbmEKxJEY2TXUB</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S7946</param>
-      <consist name="Роза Маг Ред Каскад" unit="шт">10</consist>
     </offer>
     <offer id="S3356" available="true">
       <categoryId>37</categoryId>
@@ -572,36 +493,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S3356</param>
       <consist name="Серрурия Блашинг Брайд" unit="шт">10</consist>
-    </offer>
-    <offer id="S9288" available="true">
-      <categoryId>37</categoryId>
-      <name>Сетария ITAL VOLLE MELK 80 см Арт. S9288</name>
-      <price>59</price>
-      <qty>70</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Qo1faXVvon5pgDvxo9Qc69gyWlEK1uc4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GHiDgNmqdzdHfFYXxPy5rS2qOd6oczU3</picture>
-      <picture>https://lh3.googleusercontent.com/d/185YNhatWA9dZo_BqQmJVX5Zuz0LlFbKV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S9288</param>
-      <consist name="Сетария ITAL VOLLE MELK" unit="шт">10</consist>
-    </offer>
-    <offer id="S9567" available="true">
-      <categoryId>37</categoryId>
-      <name>Симфорикарпус Меджикал Чарминг Фентези 70 см Арт. S9567</name>
-      <price>95</price>
-      <qty>120</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1pWq7L_SDIifdpPVRZk9dJ2X85SzWUHT8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1h2WNi7P7WJCD0xCffaw2GRQ4AZyRAS85</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XczNLFBiY6GliefbMQyB6CSHZ0S4dB05</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S9567</param>
-      <consist name="Симфорикарпус Меджикал Чарминг Фентези" unit="шт">10</consist>
     </offer>
     <offer id="S7136" available="true">
       <categoryId>37</categoryId>
@@ -719,6 +610,22 @@
       <param name="Артикул">S8257</param>
       <consist name="Эустома g corelli coral" unit="шт">10</consist>
     </offer>
+    <offer id="S6647" available="true">
+      <categoryId>38</categoryId>
+      <name>Амарантус Кауд Мира 75 см Арт. S6647</name>
+      <price>189</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AiOER8M_OhNS5SZBF6fN6Rs9D6wmHpQ5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FSorkMQZamNUPQ28VfN3eeVgposlMw5t</picture>
+      <picture>https://lh3.googleusercontent.com/d/12qFFjFOxcZogAIdoRF4dgQiBR8DTOC33</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sVnqmsuVshEOvyuTRZ6p6KHf6wHsId4h</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S6647</param>
+      <consist name="Амарантус Кауд Мира" unit="шт">10</consist>
+    </offer>
     <offer id="S3714" available="true">
       <categoryId>38</categoryId>
       <name>Бруния Левис 40 см Арт. S3714</name>
@@ -752,6 +659,39 @@
       <param name="Артикул">S01328</param>
       <consist name="Картамус Занзибар" unit="шт">10</consist>
     </offer>
+    <offer id="S7608" available="true">
+      <categoryId>38</categoryId>
+      <name>Куэркас Рубра 80 см Арт. S7608</name>
+      <price>987</price>
+      <qty>200</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1r_5nl0PzT_Pny581JFvdGvUQWOUwv-7L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DJbQY6-G3QVbrDHptx7tp3q0TweWgpmH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ryctAmiU92Lce9Q-PA-tTTY-QaJHYpj5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tn8tIyD22YU5SpSbEVzUZ17talGOTD1t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VaeFG7FuKd4AY0s79liMBGiucAjNYNLi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7608</param>
+      <consist name="Куэркас Рубра" unit="шт">20</consist>
+    </offer>
+    <offer id="S7858" available="true">
+      <categoryId>38</categoryId>
+      <name>Куэркас Рубра Клеурбеханделд 80 см Арт. S7858</name>
+      <price>48</price>
+      <qty>40</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wja_u0J-WETE2EPq4jv9qbodUS2rB94c</picture>
+      <picture>https://lh3.googleusercontent.com/d/10hsX1En_76JYlvBT3SK1L9gdyvu63Utw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aboerdwDfCcyc_FfmpxX7JomthKpr8b7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ScrOjyFE-oCjD8UjQR-dt8X5v7-VWgvM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7858</param>
+      <consist name="Куэркас Рубра Клеурбеханделд" unit="шт">20</consist>
+    </offer>
     <offer id="S3409" available="true">
       <categoryId>38</categoryId>
       <name>Лимониум Фиолетовый 99 см Арт. S3409</name>
@@ -768,6 +708,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S3409</param>
       <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
+    <offer id="S7983" available="true">
+      <categoryId>38</categoryId>
+      <name>Облепиха 30 см Арт. S7983</name>
+      <price>1079</price>
+      <qty>2</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/163TkRw9jTeezdA9J5xVgeOUrmySuJ_Xm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_tTvP_OoVZr1Kdup7YWw0WL61UsA96gh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H6u_fjc-LPRlxEXtYBbuRg6W_lRRRO76</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">30</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S7983</param>
+      <consist name="Облепиха" unit="шт">1</consist>
     </offer>
     <offer id="S03646" available="true">
       <categoryId>38</categoryId>
@@ -804,6 +760,20 @@
       <param name="Артикул">S03479</param>
       <consist name="Пироканта" unit="шт">1</consist>
     </offer>
+    <offer id="S7946" available="true">
+      <categoryId>38</categoryId>
+      <name>Роза Маг Ред Каскад 60 см Арт. S7946</name>
+      <price>159</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19YVf_bq1OASIy5p0IIlkZkkpwqjACcBB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gG9CGJmWlb2_xvsxFKUbmEKxJEY2TXUB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7946</param>
+      <consist name="Роза Маг Ред Каскад" unit="шт">10</consist>
+    </offer>
     <offer id="S01206" available="true">
       <categoryId>38</categoryId>
       <name>Седум Спектибайл 60 см Арт. S01206</name>
@@ -820,6 +790,36 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S01206</param>
       <consist name="Седум Спектибайл" unit="шт">5</consist>
+    </offer>
+    <offer id="S9288" available="true">
+      <categoryId>38</categoryId>
+      <name>Сетария ITAL VOLLE MELK 80 см Арт. S9288</name>
+      <price>59</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Qo1faXVvon5pgDvxo9Qc69gyWlEK1uc4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GHiDgNmqdzdHfFYXxPy5rS2qOd6oczU3</picture>
+      <picture>https://lh3.googleusercontent.com/d/185YNhatWA9dZo_BqQmJVX5Zuz0LlFbKV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9288</param>
+      <consist name="Сетария ITAL VOLLE MELK" unit="шт">10</consist>
+    </offer>
+    <offer id="S9567" available="true">
+      <categoryId>38</categoryId>
+      <name>Симфорикарпус Меджикал Чарминг Фентези 70 см Арт. S9567</name>
+      <price>95</price>
+      <qty>120</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pWq7L_SDIifdpPVRZk9dJ2X85SzWUHT8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h2WNi7P7WJCD0xCffaw2GRQ4AZyRAS85</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XczNLFBiY6GliefbMQyB6CSHZ0S4dB05</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9567</param>
+      <consist name="Симфорикарпус Меджикал Чарминг Фентези" unit="шт">10</consist>
     </offer>
     <offer id="S5134" available="true">
       <categoryId>38</categoryId>
