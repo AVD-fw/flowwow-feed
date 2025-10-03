@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T09:05:36.520+03:00">
+<yml_catalog date="2025-10-03T09:15:32.157+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -383,72 +383,6 @@
       <param name="Артикул">E2406</param>
       <consist name="Калла" unit="шт">10</consist>
     </offer>
-    <offer id="E00257" available="true">
-      <categoryId>37</categoryId>
-      <name>Лизиантус Белый 70 см Арт. E00257</name>
-      <price>100</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18LobsAsl3lprjNTLAPhvfuvhV2bWKYVd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pPjhR1lj7NpIqx3AR6MDaK_8JbZYJtlI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kXIaij2aTKHgGaIEJvJLDgW6aTz8iF8G</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KTmkHhoiz3r2IdkOjKSRq9BOwRaRnKKN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SunSyoRO2ZbmcjUwqI8MRPEJyr3Q8Jb5</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">E00257</param>
-      <consist name="Лизиантус" unit="шт">10</consist>
-    </offer>
-    <offer id="E2476" available="true">
-      <categoryId>37</categoryId>
-      <name>Лизиантус Сиреневый 60 см Арт. E2476</name>
-      <price>140</price>
-      <qty>60</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18JOjBAbZqm0LKJAHaewUK0oOgVTakxqm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kMoqhRoDiA8Gn1g4iXNZVnqUXr_bsLtX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mQI5cWqXEUJQIz22wAdDmBshgrRC_5YE</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E2476</param>
-      <consist name="Лизиантус" unit="шт">10</consist>
-    </offer>
-    <offer id="E2486" available="true">
-      <categoryId>37</categoryId>
-      <name>Лизиантус Розовый 60 см Арт. E2486</name>
-      <price>140</price>
-      <qty>180</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1MWn2o1yfeC4RFXvMOAM66IhrLSwhwQ9O</picture>
-      <picture>https://lh3.googleusercontent.com/d/1x-ceu8AgRFxLUKMDuN0zZPT-aN1e7btt</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E2486</param>
-      <consist name="Лизиантус" unit="шт">10</consist>
-    </offer>
-    <offer id="E2506" available="true">
-      <categoryId>37</categoryId>
-      <name>Лизиантус Разовый 60 см Арт. E2506</name>
-      <price>150</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EfFgGOqVuFacc0SgkLbzh7E7CPbpBYlp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rypN2OXPzafDYoVO-pWV7VIc_ugLXmSG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1N0kCahNvAkTGzUaojA8_8qgvnOdVruIR</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E2506</param>
-      <consist name="Лизиантус" unit="шт">10</consist>
-    </offer>
     <offer id="E1899" available="true">
       <categoryId>37</categoryId>
       <name>Лилия Розовый 90 см Арт. E1899</name>
@@ -634,6 +568,72 @@
       <param name="Производитель">Ton Vreugdenhil Fresia</param>
       <param name="Артикул">E2955</param>
       <consist name="Фрезия" unit="шт">50</consist>
+    </offer>
+    <offer id="E00257" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Белый 70 см Арт. E00257</name>
+      <price>100</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18LobsAsl3lprjNTLAPhvfuvhV2bWKYVd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pPjhR1lj7NpIqx3AR6MDaK_8JbZYJtlI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kXIaij2aTKHgGaIEJvJLDgW6aTz8iF8G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KTmkHhoiz3r2IdkOjKSRq9BOwRaRnKKN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SunSyoRO2ZbmcjUwqI8MRPEJyr3Q8Jb5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">E00257</param>
+      <consist name="Эустома" unit="шт">10</consist>
+    </offer>
+    <offer id="E2476" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Сиреневый 60 см Арт. E2476</name>
+      <price>140</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18JOjBAbZqm0LKJAHaewUK0oOgVTakxqm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kMoqhRoDiA8Gn1g4iXNZVnqUXr_bsLtX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mQI5cWqXEUJQIz22wAdDmBshgrRC_5YE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">E2476</param>
+      <consist name="Эустома" unit="шт">10</consist>
+    </offer>
+    <offer id="E2486" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Розовый 60 см Арт. E2486</name>
+      <price>140</price>
+      <qty>180</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MWn2o1yfeC4RFXvMOAM66IhrLSwhwQ9O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x-ceu8AgRFxLUKMDuN0zZPT-aN1e7btt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">E2486</param>
+      <consist name="Эустома" unit="шт">10</consist>
+    </offer>
+    <offer id="E2506" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Разовый 60 см Арт. E2506</name>
+      <price>150</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EfFgGOqVuFacc0SgkLbzh7E7CPbpBYlp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rypN2OXPzafDYoVO-pWV7VIc_ugLXmSG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N0kCahNvAkTGzUaojA8_8qgvnOdVruIR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">E2506</param>
+      <consist name="Эустома" unit="шт">10</consist>
     </offer>
     <offer id="E01115" available="true">
       <categoryId>38</categoryId>
