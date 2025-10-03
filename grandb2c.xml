@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
+    <offer id="FL0017">
+      <name>Подсолнух 9 шт Желтый 120 см Арт. Гп001711</name>
+      <price>1000</price>
+      <picture>https://lh3.googleusercontent.com/d/1zMGtk4tOICCkJENgkC63FCP7PbbgE2rX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c9qaRcIz3nHCwue8RiTMqA6Pt0GTKosC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cZsdb4Ka2KhmydVTtI8Wbqeja2EgWE7X</picture>
+      <description>Подсолнух 9 шт Желтый 120 см Арт. Гп001711</description>
+      <param name="Высота, см">120</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Гранд Прованс</param>
+      <param name="Артикул">Гп001711</param>
+      <consist name="Подсолнух" unit="шт">9</consist>
+    </offer>
     <offer id="FL0018">
-      <name>Ирис Блю Меджик 60 см Арт. Гп001862</name>
+      <name>Ирис 25 шт 60 см Арт. Гп001862</name>
       <price>1075</price>
       <picture>https://lh3.googleusercontent.com/d/1YPEt_0XGWvF0aY-aPlzdojDFiALt8ptC</picture>
       <picture>https://lh3.googleusercontent.com/d/1vNUpk2JN9oYxiY-oAFSBbqzGRhPPIQvf</picture>
@@ -18,6 +31,6 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Гранд Прованс</param>
       <param name="Артикул">Гп001862</param>
-      <consist name="Ирис Блю Меджик" unit="шт">1</consist>
+      <consist name="Ирис" unit="шт">25</consist>
     </offer>
 </offers>
