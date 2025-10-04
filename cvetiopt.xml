@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-04T18:31:00.908+03:00">
+<yml_catalog date="2025-10-04T18:40:55.660+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -106,42 +106,6 @@
       <param name="Артикул">Cp03256</param>
       <consist name="Роза одноголовая пионовидная Фатима Гарденс" unit="шт">25</consist>
     </offer>
-    <offer id="Cp6036" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Б Бабблс 60 см Арт. Cp6036</name>
-      <price>176</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1D36uAZ7vL0-TMgM7pWNwsZCchprl1xcN</picture>
-      <picture>https://lh3.googleusercontent.com/d/15F18KMUzRCXvJejJagPYjOOIxFfc_RqJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uSGmroqEi78cyXIW5V1IBc5Vl3UuJsUx</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XyJddsIHvfklsiwkaw9Toz-3hxMGmKmt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1R0KjhCKYBSFUPAtQQagvJohGbyRk84CF</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Cp6036</param>
-      <consist name="Роза кустовая Б Бабблс" unit="шт">15</consist>
-    </offer>
-    <offer id="Cp06267" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Ред Бабблс 70 см Арт. Cp06267</name>
-      <price>187</price>
-      <qty>100</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1gT2ca-zP1K9jQXwhsDkTRjeEvZsFRRPO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mQeaP9G0KUjmuH4HNbd7RyGY8IwdTrTn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YQmOl2KvN3VA_KzUxHAalrc4CZe44UJp</picture>
-      <picture>https://lh3.googleusercontent.com/d/15d8T_bvV4LGk61H-49UpHl9-GkCKLv5R</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kg0n6zFCnt-3q3dBAoPr6PkeT1c04tnw</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Cp06267</param>
-      <consist name="Роза кустовая Ред Бабблс" unit="шт">10</consist>
-    </offer>
     <offer id="Cp5699" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Саммер Денс 90 см Арт. Cp5699</name>
@@ -195,6 +159,24 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Cp11927</param>
       <consist name="Роза кустовая Саммер Денс" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp6036" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Б Бабблс 60 см Арт. Cp6036</name>
+      <price>176</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1D36uAZ7vL0-TMgM7pWNwsZCchprl1xcN</picture>
+      <picture>https://lh3.googleusercontent.com/d/15F18KMUzRCXvJejJagPYjOOIxFfc_RqJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uSGmroqEi78cyXIW5V1IBc5Vl3UuJsUx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XyJddsIHvfklsiwkaw9Toz-3hxMGmKmt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R0KjhCKYBSFUPAtQQagvJohGbyRk84CF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Cp6036</param>
+      <consist name="Роза кустовая пионовидная Б Бабблс" unit="шт">15</consist>
     </offer>
     <offer id="Cp06228" available="true">
       <categoryId>4</categoryId>
@@ -302,6 +284,24 @@
       <param name="Страна">Армения</param>
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Cp06236</param>
+      <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp06267" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Ред Бабблс 70 см Арт. Cp06267</name>
+      <price>187</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gT2ca-zP1K9jQXwhsDkTRjeEvZsFRRPO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mQeaP9G0KUjmuH4HNbd7RyGY8IwdTrTn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YQmOl2KvN3VA_KzUxHAalrc4CZe44UJp</picture>
+      <picture>https://lh3.googleusercontent.com/d/15d8T_bvV4LGk61H-49UpHl9-GkCKLv5R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kg0n6zFCnt-3q3dBAoPr6PkeT1c04tnw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Cp06267</param>
       <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Cp8847" available="true">
