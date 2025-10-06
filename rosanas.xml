@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-06T10:11:22.387+03:00">
+<yml_catalog date="2025-10-06T10:21:08.619+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S8835" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Вику Гарденс 50 см Арт. S8835</name>
+      <price>185</price>
+      <qty>12</qty>
+      <quantity_in_package>12</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BH15WtBSm9q0uWQJlgiTeBfgt6zVas3z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CCorskTT5NgJloaEn537B0io13HgdpJS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 12 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Rosas del Corazon</param>
+      <param name="Артикул">S8835</param>
+      <consist name="Роза одноголовая Вику Гарденс" unit="шт">12</consist>
+    </offer>
     <offer id="S9496" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Зайна 60 см Арт. S9496</name>
@@ -51,6 +66,22 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S01695</param>
       <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
+    </offer>
+    <offer id="S01736" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пинк Флойд 60 см Арт. S01736</name>
+      <price>997</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oT3ZO2FVU0ms6XyHA7p-X-SpJq4ckFp2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tpLfFZ4jduLTNP0RrX4kj0RXp6_aTz9f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OFvey_oiXRmQrsUBwWQR0rU0v3YOygvn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">S01736</param>
+      <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
     </offer>
     <offer id="S7616" available="true">
       <categoryId>1</categoryId>
