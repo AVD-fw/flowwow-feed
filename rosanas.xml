@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-06T10:01:23.853+03:00">
+<yml_catalog date="2025-10-06T10:11:22.387+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -51,22 +51,6 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S01695</param>
       <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
-    </offer>
-    <offer id="S01736" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Пинк Флойд 60 см Арт. S01736</name>
-      <price>997</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1oT3ZO2FVU0ms6XyHA7p-X-SpJq4ckFp2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tpLfFZ4jduLTNP0RrX4kj0RXp6_aTz9f</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OFvey_oiXRmQrsUBwWQR0rU0v3YOygvn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">RosaPrima</param>
-      <param name="Артикул">S01736</param>
-      <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
     </offer>
     <offer id="S7616" available="true">
       <categoryId>1</categoryId>
@@ -159,7 +143,7 @@
     <offer id="S01817" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Йо Йо 70 см Арт. S01817</name>
-      <price>997</price>
+      <price>127</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1b60uDol7HwZy_B0m1OoFaTR6wwSwCZY4</picture>
@@ -302,7 +286,7 @@
     <offer id="S00474" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Спейшл Дайменшн 40 см Арт. S00474</name>
-      <price>997</price>
+      <price>85</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-tDDCge5-aGWimuvAIkx6lO3xLnNrYpv</picture>
@@ -316,6 +300,19 @@
       <param name="Производитель">Удмуртия</param>
       <param name="Артикул">S00474</param>
       <consist name="Роза кустовая пионовидная Спейшл Дайменшн" unit="шт">10</consist>
+    </offer>
+    <offer id="S02297" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Желтый 70 см Арт. S02297</name>
+      <price>997</price>
+      <qty>80</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rSTni0RrQzXqDEXrxf_ZXZbeSBck3jqv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S02297</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
     <offer id="S7367" available="true">
       <categoryId>5</categoryId>
@@ -402,20 +399,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">S01527</param>
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
-    </offer>
-    <offer id="S02297" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Балтика Еллоу 70 см Арт. S02297</name>
-      <price>997</price>
-      <qty>80</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1rSTni0RrQzXqDEXrxf_ZXZbeSBck3jqv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zo546PokUYRB3tgaLawuEIIMrVmQC4ax</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S02297</param>
-      <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
     </offer>
     <offer id="S02267" available="true">
       <categoryId>37</categoryId>
@@ -632,20 +615,6 @@
       <param name="Артикул">S01047</param>
       <consist name="Кампанула Кам Пеар Пинк" unit="шт">10</consist>
     </offer>
-    <offer id="S02207" available="true">
-      <categoryId>37</categoryId>
-      <name>Клематис Блу Пируэт 70 см Арт. S02207</name>
-      <price>997</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1lH94BwA9cLr19PKdDfNhf8wUUubQwjvV</picture>
-      <picture>https://lh3.googleusercontent.com/d/10S9cq4iDb2ICKlp5x0kttI7dAAjqVuQ6</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S02207</param>
-      <consist name="Клематис Блу Пируэт" unit="шт">10</consist>
-    </offer>
     <offer id="S6699" available="true">
       <categoryId>37</categoryId>
       <name>Лилия Ла Литоувен 95 см Арт. S6699</name>
@@ -812,7 +781,7 @@
     <offer id="S7807" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Росан Терракот 70 см Арт. S7807</name>
-      <price>997</price>
+      <price>199</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NChoVHCCxfvV-6wa_DJrWwh1SGZpHFlE</picture>
@@ -926,7 +895,7 @@
     <offer id="S02785" available="true">
       <categoryId>38</categoryId>
       <name>Краспедия Голубой 50 см Арт. S02785</name>
-      <price>997</price>
+      <price>569</price>
       <qty>180</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fJ3kpTRbxE-gLBpvN_29JkgGwaXuiolJ</picture>
