@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-06T07:30:52.169+03:00">
+<yml_catalog date="2025-10-06T07:41:00.194+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,39 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Cp10997" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 70 см Арт. Cp10997</name>
+      <price>127</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kCPpvC1krCcShLhtJvIwR-fxzoySswzb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tZPhVpyXLZw3VKcJU81BcYVUcMwU3ViO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Cp10997</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp6149" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 90 см Арт. Cp6149</name>
+      <price>110</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pd6mBZCNIajRDcqlOu-OazogLysaKDrU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TwMLXuxgqhYtTpgRjQ9jr40wQ1TiNvFt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v7Jc98_3WESTGhrysA5FSJS2oVG3ZksF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DRUC4JxPaKAhG7nk6ZO20igLpejsu2pr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OiSK5zYOU6cO2T6mVcvSRU_JEIs_qr-g</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Cp6149</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
+    </offer>
     <offer id="Cp04347" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Оранжевый 70 см Арт. Cp04347</name>
@@ -32,6 +65,21 @@
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp04347</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp8847" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая 70 см Арт. Cp8847</name>
+      <price>160</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cDQ_gETFYrkAoxCJx0uPUj1k14QPQcGQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/18ZiXs5j4MiwRtRzMj1NdKZ9Y83uDsHCo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ikLmgDMGmYeuMvdo31tezJ9GJmll3jrF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp8847</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
     <offer id="Cp01317" available="true">
@@ -153,6 +201,76 @@
       <param name="Артикул">Cp02035</param>
       <consist name="Астранция Розовая" unit="шт">25</consist>
     </offer>
+    <offer id="Cp0507" available="true">
+      <categoryId>37</categoryId>
+      <name>Брассика Фиолетовый 50 см Арт. Cp0507</name>
+      <price>121</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1z270nq1YKj-ikd8x3m8WX3dyFrEfnUVV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vhYKKH4Diz82epZa4nlFOxSzTntxIv3_</picture>
+      <picture>https://lh3.googleusercontent.com/d/17V0FCbYwmPrMdaAMW6sKacAlRBEddPTT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OcOunJej-S-Acgcag2idN-1YzmGeNWAc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uKBvhO0e9ppi4GwkjnB29UJwS3f-Opjd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp0507</param>
+      <consist name="Брассика" unit="шт">5</consist>
+    </offer>
+    <offer id="Cp5755" available="true">
+      <categoryId>37</categoryId>
+      <name>Вероника кустовая Сиреневый 50 см Арт. Cp5755</name>
+      <price>66</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_a8aOQnj87QhTrsn1E0Gil1kdhpzE7Uc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S2fRjsba8f9pFRnL72o6SKvCvd6t9Rrw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ONmnyUjy-rDq2OVEMw2ktIUBcVFXK9r8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yJtFbZIBpFwtb9RkJLT2TEoUqP9H8D8K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kz72rGBJWHtsmxgGepD3dScYOISoXDCO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Cp5755</param>
+      <consist name="Вероника кустовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Cp10504" available="true">
+      <categoryId>37</categoryId>
+      <name>Вероника кустовая 40 см Арт. Cp10504</name>
+      <price>66</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kpKSG6bDhYvfk8Uy_eeHF7MXKwFuZPBP</picture>
+      <picture>https://lh3.googleusercontent.com/d/187BBHU6klHhIX6VbPlNV3WFkCqI4kfcm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eu5gglfbOuy6NRu2cOWLZHDDC3aXDXd7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qSQCTzJdOIVmSRGzWWryVftep3XrW-Zz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Fs7RpC1SHhHVZ3xpxzxYy0Jma9-ZiFts</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp10504</param>
+      <consist name="Вероника кустовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Cp03147" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Брют 70 см Арт. Cp03147</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CY0-bdrYhvcT3yKWGCc7XlHTa7DWa099</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ECKP_mRZy43c9PRxodaC56vlDVRR_ABh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Og1ss5H1PYI7L9q8K_kKP6F2SmfHbLOt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fCUg8EjZe8EHyI-lL4ICy23P-YfnOPXE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FzwIDPfgezapYwy62Q6BwJvNoGY2F7tg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp03147</param>
+      <consist name="Гвоздика одноголовая Брют" unit="шт">25</consist>
+    </offer>
     <offer id="Cp03787" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Грин Трик 70 см Арт. Cp03787</name>
@@ -170,6 +288,58 @@
       <param name="Производитель">Kiwi-Flower</param>
       <param name="Артикул">Cp03787</param>
       <consist name="Гвоздика одноголовая Грин Трик" unit="шт">30</consist>
+    </offer>
+    <offer id="Cp01257" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Джангл 70 см Арт. Cp01257</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HxXhoJABV4161NYXjcBQjr5PNN9kcsiG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LgL_5_KOz9jYLVKLZeaOUFcF8fn3b1q4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1umTdqngJsOARQXxmo6ltixzHoJSRt3He</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp01257</param>
+      <consist name="Гвоздика одноголовая Джангл" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp01277" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Пастел Кремия 70 см Арт. Cp01277</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19iYQ0YpyzPW61x_OtHOreq2pO54QlCJS</picture>
+      <picture>https://lh3.googleusercontent.com/d/13dSczfeer9qCsVHt54asL10XzAGIKEwI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fgS-mNpDTSYjYEiEXsoGamC8BlOS4F7g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J3pIfnhSTIDzQRIhoW2k0ErW9hj4Q6QC</picture>
+      <picture>https://lh3.googleusercontent.com/d/15cRpWpJYqm0WWibIGg14rI3IGbYApv6a</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp01277</param>
+      <consist name="Гвоздика одноголовая Пастел Кремия" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp9727" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Харизма 70 см Арт. Cp9727</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iZgoplGcedRJBG9pZap139z_qVCtJvb0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f8jFb0c1PUE9io_w2nlqgJcsdHwy0_18</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HGkqypquQSvSm0E3qu2CkS8VHjmucNj4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gEtigdhUYXMPnVsmNaW84cImYpJCQpOb</picture>
+      <picture>https://lh3.googleusercontent.com/d/16Gr7IWW3z98JKJ-4G_BNEXI5-sSeP7MD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp9727</param>
+      <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
     </offer>
     <offer id="Cp01665" available="true">
       <categoryId>37</categoryId>
@@ -294,6 +464,41 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp04997</param>
       <consist name="Гортензия" unit="шт">5</consist>
+    </offer>
+    <offer id="Cp0451" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Белый 50 см Арт. Cp0451</name>
+      <price>182</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yHtUDo1YfO38e1HKZf_jDvtkkum-r-xQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-ekHaUIfcI9xZDNR0JEp-uaATQSfmrwt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HoENTQRs5Auo88xO2JNSd6O0Cxygplg6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KtBQQENv-LxhjjyNHIWKi3xkeXnFDGYw</picture>
+      <picture>https://lh3.googleusercontent.com/d/17PdX2w7pnAf981VeaDzPLgo1uD9ROOiG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp0451</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp9545" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Бордовый 50 см Арт. Cp9545</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gQW38VisPV-7xDue-08tVkIfNDNz_15R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1et73HNtQ0jbc9YSQEeRkSf73UMoDfgfG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YWMo2HBsuU-Bqlopv9EP7BP9xHmGSPzN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XGEaULVmlbIII8RRwfTVc9xoffX9oYgT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WJ26kUPM9alzPZvpf_4N8Fz9go427xXL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Cp9545</param>
+      <consist name="Калла" unit="шт">10</consist>
     </offer>
     <offer id="Cp01457" available="true">
       <categoryId>37</categoryId>
@@ -468,6 +673,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp04625</param>
       <consist name="Хамелациум" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp05086" available="true">
+      <categoryId>37</categoryId>
+      <name>Эукомис Зеленый 60 см Арт. Cp05086</name>
+      <price>275</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15G--TEDZkGIukgNypiZNhkauAiTs2WoB</picture>
+      <picture>https://lh3.googleusercontent.com/d/15UaOigr4vb3mZ_TQNFSOe3UrUmo2jRtP</picture>
+      <picture>https://lh3.googleusercontent.com/d/14xf8PSwo-qwCnGaowzA8oqvJdK9AeE4L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BLS-j4C7h4qpCrGPe_T8-0-BfCsDYTLN</picture>
+      <picture>https://lh3.googleusercontent.com/d/19KkANEpbtX9WECfGYRHXCXA2LflRAhvI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp05086</param>
+      <consist name="Эукомис" unit="шт">5</consist>
     </offer>
     <offer id="Cp02095" available="true">
       <categoryId>38</categoryId>
