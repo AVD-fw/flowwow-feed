@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-06T07:20:58.435+03:00">
+<yml_catalog date="2025-10-06T07:30:57.620+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,92 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S7367" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бальтазар 70 см Арт. S7367</name>
+      <price>199</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19hUUjOAIkdfGgFlZIcoFOaDTnf8v2KWm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SSJ582g9fU0HkNE5-oU94yhAwriC-wJP</picture>
+      <picture>https://lh3.googleusercontent.com/d/18iKDuTwHJbfgwAM7AEv8QW_8fXfJBLa8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wOHDLiV3Ue2EeFpiqY9g-FZ6mL_DnmyS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lYGtm4-Cdpy3oo7Wz28pXLRw1R5RoTP-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">S7367</param>
+      <consist name="Хризантема одноголовая Бальтазар" unit="шт">10</consist>
+    </offer>
+    <offer id="S9027" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бразилиана 70 см Арт. S9027</name>
+      <price>199</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EW80AYypHRD6WcV-PGJmlKLL9MDGRs5y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FLMG_yPshSJhwZNbrpszJ1n6vnti7FNP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">S9027</param>
+      <consist name="Хризантема одноголовая Бразилиана" unit="шт">10</consist>
+    </offer>
+    <offer id="S02337" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. S02337</name>
+      <price>153</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1f4u9iBlYXTD5qqK5-BiShiaQTk-pBZ7g</picture>
+      <picture>https://lh3.googleusercontent.com/d/14hNtUsANiIPPVVEHWg2u2Mxp5aFa2TiE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xAqeplaXntleb24mnmrC7tpk7YTY6A7g</picture>
+      <picture>https://lh3.googleusercontent.com/d/19v4n-RSGySbQeiDHNeCif4588INWoxKB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A25Sb7WqJputIDXYBz4Mi5rVaUJG7j9V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S02337</param>
+      <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
+    </offer>
+    <offer id="S02317" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. S02317</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KxM1xKkm4MWwfqHrVXgOUVpGK0R3rQk8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AEJKNfRRwbZdrln3bWsvwvDdhksAqXVO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HnvMtvuafdiwJ6zc9jgN0-xtXfcEG_5f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RHFfHRmOtc2QZBncqqulUYanjf7V-RUT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1egi11zFiOsPiLlkR6N3JBbNSpFXrw-j5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">S02317</param>
+      <consist name="Хризантема одноголовая Росс Элизабетт" unit="шт">10</consist>
+    </offer>
+    <offer id="S01527" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Тропикана 70 см Арт. S01527</name>
+      <price>189</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dIOECC7ly5DM2JKIGxzfOeAQntPXq5d0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ToRECni0mc4hmYfnzzWsxLDBjo9oQwX5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JhB-3H1ZKxfhIoRiG2AynjjCUsn-S2B2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zMvGqQGqWUNORCmciw89GMpRw4UAlMnO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dKQ8S1jIBBTcC4ifKEu3gomADGJVUIpt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">S01527</param>
+      <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
+    </offer>
     <offer id="S02416" available="true">
       <categoryId>37</categoryId>
       <name>Георгин Розовый 60 см Арт. S02416</name>
@@ -258,6 +344,21 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">S00596</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="S01038" available="true">
+      <categoryId>37</categoryId>
+      <name>Хамелациум Алуана 80 см Арт. S01038</name>
+      <price>159</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-QxNPFMMaIoBTqf0OprBStXzJK8lD817</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AYV0wwFnRJiPJpGSPhy8UBP2u3LEHW6u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1252L3hynIp5ZZ4VIrfwRgHhd4Kiwou0s</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01038</param>
+      <consist name="Хамелациум Алуана" unit="шт">25</consist>
     </offer>
     <offer id="S7797" available="true">
       <categoryId>37</categoryId>
