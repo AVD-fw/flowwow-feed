@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-06T09:11:09.145+03:00">
+<yml_catalog date="2025-10-06T09:21:16.750+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -207,6 +207,24 @@
       <param name="Артикул">S04486</param>
       <consist name="Роза кустовая Жозефина" unit="шт">10</consist>
     </offer>
+    <offer id="S04265" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 50 см Арт. S04265</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tA4vATGEFdXFGFp1RXEsn-jQnPyXTL6D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DP3llFckuPjKEPfTAtO8XiInWAJCAbjF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aD2rYoDb7P77mDJ6cj8MuLqNZGWuVenX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UcJ4JtF5sa_8ZeFOwtHZOMerLSwBt_aG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UlFNYh5rwB51SOLQkAS07yP1BIN1UqjN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S04265</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
+    </offer>
     <offer id="S04366" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Бомбастик 60 см Арт. S04366</name>
@@ -224,6 +242,24 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">S04366</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="S04275" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. S04275</name>
+      <price>397</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cUUU7n5bcEMF5g0lvjDp9c7fLszzNxU6</picture>
+      <picture>https://lh3.googleusercontent.com/d/12s7MthR1qRtOkVHSlaSJibK4yTeEND8N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iXlA2Niy3qddwVB-vXMQqSTfQteX0lCe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uxOKeNMwGoIucM7tk5zh46xmMMUeTrLR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nAzM6da6bOsD6BKWGlxTT7W9W-K1PDaN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S04275</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="S00437" available="true">
       <categoryId>4</categoryId>
@@ -249,11 +285,11 @@
       <price>274</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1e36rusMuysoVXtLRnMjeo4_exXk-wHxF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OpFIRGJIIYiSGn3onJkwCSllmBt3lsMd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lbSXln-8r_JMiDpexygL6QyAmp3mvBIx</picture>
       <picture>https://lh3.googleusercontent.com/d/1bNkJaNCfeMZ9CXy9J1bT1tCm35jXqgKA</picture>
       <picture>https://lh3.googleusercontent.com/d/1SvVZeh_X9elHlfEZi0FVEmeC6uDfxgCo</picture>
       <picture>https://lh3.googleusercontent.com/d/1n2iN5dOOQS7a2aNoY5MsQFoX-L2GQkau</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e36rusMuysoVXtLRnMjeo4_exXk-wHxF</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
@@ -383,7 +419,7 @@
       <categoryId>37</categoryId>
       <name>Астранция Роме 70 см Арт. S02267</name>
       <price>115</price>
-      <qty>10</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1brP88BUZCKjtIfvg7BVD2CH4aq6kOznt</picture>
       <picture>https://lh3.googleusercontent.com/d/1i6W3IJ5Z6_bqWLh4dwxSl3yaEL08uDdO</picture>
@@ -395,23 +431,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S02267</param>
       <consist name="Астранция Роме" unit="шт">10</consist>
-    </offer>
-    <offer id="S01196" available="true">
-      <categoryId>37</categoryId>
-      <name>Брассика Крейн Квин 60 см Арт. S01196</name>
-      <price>139</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1F8ot1mFcU9irUIWXynEN6VEn9dzr_An6</picture>
-      <picture>https://lh3.googleusercontent.com/d/1QQuNl7ikFpeJkSRlaa2Twy_-7_0e9XfK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wC1Pn17YytdRjp2tj_xvttvTwiF9CUti</picture>
-      <picture>https://lh3.googleusercontent.com/d/1meGHYMtcRpyiUoPB9bFeUsVbOa8aWK-x</picture>
-      <picture>https://lh3.googleusercontent.com/d/1AN0PT6M9EBoojaHOy6pXDdb8d2BKvZmY</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S01196</param>
-      <consist name="Брассика Крейн Квин" unit="шт">5</consist>
     </offer>
     <offer id="S02416" available="true">
       <categoryId>37</categoryId>
@@ -615,7 +634,7 @@
       <categoryId>37</categoryId>
       <name>Клематис Блу Пируэт 70 см Арт. S02207</name>
       <price>997</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lH94BwA9cLr19PKdDfNhf8wUUubQwjvV</picture>
       <picture>https://lh3.googleusercontent.com/d/10S9cq4iDb2ICKlp5x0kttI7dAAjqVuQ6</picture>
@@ -710,7 +729,7 @@
       <categoryId>37</categoryId>
       <name>Орнитогалум Турсордес 50 см Арт. S01165</name>
       <price>85</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1r5DQ_Y1Et5_hMQTmFxbmLItje_nryIT4</picture>
       <picture>https://lh3.googleusercontent.com/d/1GtbXTMw8vpybHb3HTlCoLLRQP9vEJzpy</picture>
@@ -891,7 +910,7 @@
       <categoryId>38</categoryId>
       <name>Вербена Ов 70 см Арт. S02257</name>
       <price>59</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-6WFvw_dxLqk7NfBge4PLgHhlGOGKZ7z</picture>
       <picture>https://lh3.googleusercontent.com/d/1S1IpEOGKehxuoCuTn4wDSN-b1uxeQgQc</picture>
@@ -925,7 +944,7 @@
       <categoryId>38</categoryId>
       <name>Краспедия Голубой 50 см Арт. S02785</name>
       <price>997</price>
-      <qty>20</qty>
+      <qty>180</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fJ3kpTRbxE-gLBpvN_29JkgGwaXuiolJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1hoHylixZd3JJRJySiP5GDDdAzALXeyl_</picture>
@@ -951,23 +970,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S7608</param>
       <consist name="Куэркас Рубра" unit="шт">20</consist>
-    </offer>
-    <offer id="S02547" available="true">
-      <categoryId>38</categoryId>
-      <name>Куэркас Рубра Клеурбеханделд 70 см Арт. S02547</name>
-      <price>987</price>
-      <qty>20</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1K4_s62qMcj7O0ssX1-zNYycl3kkjzD1Q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FmHF-Ns6NWgeDrPYe6UyZ62jHbGpbCBZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Lqt0i-HHJXoVa-agkGOE8_iUGA4FjIQV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DrsZe7XSIzEgsUN3XffKmemPAcJSs4gg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1K9S9iFU1knjLuz8G3IO466wuA0sHwsj7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S02547</param>
-      <consist name="Куэркас Рубра Клеурбеханделд" unit="шт">20</consist>
     </offer>
     <offer id="S7858" available="true">
       <categoryId>38</categoryId>
@@ -1024,7 +1026,7 @@
       <categoryId>38</categoryId>
       <name>Паникум Зеленый 80 см Арт. S01558</name>
       <price>49</price>
-      <qty>20</qty>
+      <qty>80</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12CLrKXTZUrSpU0YrLgfDfARcx-R_OTHW</picture>
       <picture>https://lh3.googleusercontent.com/d/1MUvMVZ289HOUFKDdedZh_kJwj7Ig2UoF</picture>
@@ -1193,7 +1195,7 @@
       <categoryId>39</categoryId>
       <name>Лагурус Голубой 50 см Арт. S02775</name>
       <price>238</price>
-      <qty>1</qty>
+      <qty>17</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zqGN2LfFppEuLihF0d9XCzuPXUHNQPy0</picture>
       <picture>https://lh3.googleusercontent.com/d/17438oXTh6S3YbC43MlvMJPri6r3ZIgwI</picture>
