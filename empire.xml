@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-06T13:05:36.161+03:00">
+<yml_catalog date="2025-10-06T13:15:29.014+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,11 +17,29 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="E2447" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум 70 см Арт. E2447</name>
+      <price>147</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fVgnx765PhwHWt2o6OIcqQwO36n7mE9Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KYGCrf0qL4GfJhClUFKDSlP6nQ-U4Y9D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_fHKTyV3N8MvBOtGKuKD9LWv56phZ0Pk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cHj7JIDjDbzQ1zPR1og1otlAOc_P-OOV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DVPiZAHm8fLr8a4Y445qwEumlOA8VQkS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">E2447</param>
+      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
+    </offer>
     <offer id="E1715" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Фиолетовый 50 см Арт. E1715</name>
       <price>75</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Dn8Q3LNx09RmcljgLh8HTcQEeiw1A2gR</picture>
       <picture>https://lh3.googleusercontent.com/d/1CsFARRgmIoM0ey73_W2kJUB8vXIg92z4</picture>
@@ -72,7 +90,7 @@
       <categoryId>37</categoryId>
       <name>Вероника кустовая Фиолетовый 40 см Арт. E2034</name>
       <price>76</price>
-      <qty>25</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NoWv6aIYDIyTyMlVuRmHq25SaN3289O5</picture>
       <picture>https://lh3.googleusercontent.com/d/1Fk14TP_UkkhRN29pUAypQ81pD0k3BHiT</picture>
@@ -125,7 +143,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 70 см Арт. E3377</name>
       <price>43</price>
-      <qty>25</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ltLUTzEEUjWf7GHmDZH4qkEwDuC0RSxd</picture>
       <picture>https://lh3.googleusercontent.com/d/1f-hkGP9vpGE8rUhS8zFCypgrOfNj9w08</picture>
@@ -141,7 +159,7 @@
       <categoryId>37</categoryId>
       <name>Георгин Розовый 50 см Арт. E01035</name>
       <price>145</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1J1Qe_yPzxlKXPNWC83dqfEre8G-aw7KI</picture>
       <picture>https://lh3.googleusercontent.com/d/1ulZ2-fGU5AXXZtvjjc15oFcZA4x2yanZ</picture>
@@ -188,7 +206,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Радужный 70 см Арт. E00537</name>
       <price>77</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cfyGWleJ13V5k7eqXVrmaRn_SNWGB2K8</picture>
       <picture>https://lh3.googleusercontent.com/d/1gX3Vs3cjJTtnwnViiPEEdhGTJJQgRzHj</picture>
@@ -224,7 +242,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Ярко розовая 70 см Арт. E3397</name>
       <price>78</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16cguSr0wfvd1pbpJVPORKJNXeyHjkW6W</picture>
       <picture>https://lh3.googleusercontent.com/d/1YgveQWLeTDeS4wgdQT5Gg5LL53wf4WDx</picture>
@@ -239,7 +257,7 @@
       <categoryId>37</categoryId>
       <name>Гортензия Розовый 40 см Арт. E00504</name>
       <price>473</price>
-      <qty>1</qty>
+      <qty>5</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LlCD-378iSN7JDB9TsCBbaGizkzKY1Qs</picture>
       <picture>https://lh3.googleusercontent.com/d/1T2nu4iLYTIPBHdR4lJvEn2FZiIEGtao_</picture>
@@ -275,7 +293,7 @@
       <categoryId>37</categoryId>
       <name>Дельфиниум Фиолетовый 80 см Арт. E2378</name>
       <price>101</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17UBtSgnqpe_ehb1JuXJSmh8b0i9u-KGx</picture>
       <picture>https://lh3.googleusercontent.com/d/1-RBE0wAzw4xCPxcLcauqNasICRBYA0NY</picture>
@@ -325,7 +343,7 @@
       <categoryId>37</categoryId>
       <name>Лимониум Белый 50 см Арт. E01225</name>
       <price>107</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1saYye5MIoQvJSXsf9ftCVjyhct_d0-Kj</picture>
       <picture>https://lh3.googleusercontent.com/d/1o8lYTc-l6_nLm6b_Bs_dNkV1-ztqqgCi</picture>
@@ -342,7 +360,7 @@
       <categoryId>37</categoryId>
       <name>Маттиола Лиловый 50 см Арт. E01135</name>
       <price>130</price>
-      <qty>10</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-YGWhx84vsmXGQF86GUxvDA4MCtaaDs9</picture>
       <picture>https://lh3.googleusercontent.com/d/1Q9Qef-tgjUJgpHtE8q1YasfymPqKQGXZ</picture>
@@ -359,7 +377,7 @@
       <categoryId>37</categoryId>
       <name>Маттиола Розовый 50 см Арт. E01605</name>
       <price>130</price>
-      <qty>10</qty>
+      <qty>210</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19a7ocyFEL7LJ_afx9OPYIwKrOOolncLh</picture>
       <picture>https://lh3.googleusercontent.com/d/1kVZu8tiCqLxz7K0Su5N2k9Yw-juqDBiS</picture>
@@ -376,7 +394,7 @@
       <categoryId>37</categoryId>
       <name>Протея Белый 50 см Арт. E2465</name>
       <price>560</price>
-      <qty>1</qty>
+      <qty>3</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17VwfDMRZ_QVa6fQssNpNFaHGNLOKWZib</picture>
       <picture>https://lh3.googleusercontent.com/d/1UuGnpnJMDbOpeVDeBdPl77hb7Y2tupus</picture>
@@ -392,7 +410,7 @@
       <categoryId>37</categoryId>
       <name>Статица Лиловый 50 см Арт. E01185</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>175</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ftU5J_MKj_f6dgKHmk1hpbSU2V_sutgn</picture>
       <picture>https://lh3.googleusercontent.com/d/1EaCGsPGuxDCGeP3kx1Iy7i65z30KeIY5</picture>
@@ -409,7 +427,7 @@
       <categoryId>37</categoryId>
       <name>Статица Фиолетовый 60 см Арт. E2456</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DTyL96SMB4uxwv7XPKZCWCYzacLx_mO9</picture>
       <picture>https://lh3.googleusercontent.com/d/1u1fFf7i2E0FeKvyxgJoIoV7Tt_kSsFMm</picture>
@@ -427,7 +445,7 @@
       <categoryId>37</categoryId>
       <name>Танацетум Белый 60 см Арт. E00306</name>
       <price>72</price>
-      <qty>50</qty>
+      <qty>150</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YvR4qDO6sA29Pe7ekqsHS8ddfgjLC2za</picture>
       <picture>https://lh3.googleusercontent.com/d/1Uo-zcBBDeRqgG8Q7D4Mdai_IC0avKHST</picture>
@@ -445,7 +463,7 @@
       <categoryId>37</categoryId>
       <name>Фрезия 50 см Арт. E2955</name>
       <price>70</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vrsk1CWmnnFTKsxhEdM3HrcXdBkKLZC1</picture>
       <picture>https://lh3.googleusercontent.com/d/1pEeKIXBkg4MPWDL0X5V9YfYmVHT8ScsI</picture>
@@ -461,7 +479,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Фиолетовый 70 см Арт. E00267</name>
       <price>140</price>
-      <qty>10</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1oCGMOzlSB1LiO-ZpPRMaW2a4UZjKPMtt</picture>
       <picture>https://lh3.googleusercontent.com/d/1M0Uec0__tLBt4m6O38syXqma34pZuBwG</picture>
@@ -479,7 +497,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Сиреневый 60 см Арт. E2476</name>
       <price>140</price>
-      <qty>10</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RCuWs-4Yczf4HyXGx_567ilX4wvG5JFm</picture>
       <picture>https://lh3.googleusercontent.com/d/1ApmiRvOany-KgS6Bx3ionjTVgvRLB-UQ</picture>
@@ -497,7 +515,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Розовый 60 см Арт. E2486</name>
       <price>140</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18Gu_uGhK3IGdiTlGILXG4VMyyECJpNd5</picture>
       <picture>https://lh3.googleusercontent.com/d/1x-ceu8AgRFxLUKMDuN0zZPT-aN1e7btt</picture>
@@ -513,7 +531,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Фиолетовый 60 см Арт. E2496</name>
       <price>140</price>
-      <qty>10</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kIWdWhTLc280Xw24Ok3XvUmM8bLuIl1I</picture>
       <picture>https://lh3.googleusercontent.com/d/1IYG7ioVyrn6Qy1APsg4Mvr4D2yE1ln9T</picture>
@@ -528,7 +546,7 @@
       <categoryId>38</categoryId>
       <name>Лимониум Фиолетовый 80 см Арт. E00448</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fwD48ybqCNgdalxeYEbaP7dPXsdHiKhM</picture>
       <picture>https://lh3.googleusercontent.com/d/1ee7-g5-9JPeMbwG0fCbc-Ae-X7bkHmh8</picture>
