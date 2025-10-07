@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T13:35:33.303+03:00">
+<yml_catalog date="2025-10-07T13:45:43.803+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -216,42 +216,6 @@
       <param name="Артикул">E3076</param>
       <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="E00316" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Желтый 60 см Арт. E00316</name>
-      <price>89</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14U0NxbpfNh6UY3GsaOtqAm5zv1VlYc-r</picture>
-      <picture>https://lh3.googleusercontent.com/d/11_fDnmI5JRP1oqplRNXEcrz-cElycV-7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GZtrMZmGUS6-5ng79OmSkdlcm5eT_oF8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uRsBo4MT2QWIVat_cQSG1EudGJgJg5Uw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1sMrWuVP87HnQQ5DuanpRsMj3kMiJU3dx</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">LS Santini</param>
-      <param name="Артикул">E00316</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
-    <offer id="E00326" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Розовый 60 см Арт. E00326</name>
-      <price>89</price>
-      <qty>150</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1naCNHhXFtr30eYbPFmMaGESaJQJuBGBm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PObFK3faudxTrPrFnxjKCgnD5HrhMBQF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1um7YgJWY6owCWK2ww5oG9vWgSj81V-QB</picture>
-      <picture>https://lh3.googleusercontent.com/d/15wye-sZgTss--2lT1ITHNWErEL6YrTy5</picture>
-      <picture>https://lh3.googleusercontent.com/d/14J7OGj5udw733p6PkW6bUGACyU5lEDY1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">LS Santini</param>
-      <param name="Артикул">E00326</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
     <offer id="E01005" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Фиолетовый 50 см Арт. E01005</name>
@@ -338,6 +302,42 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">E00985</param>
       <consist name="Хризантема Сантини Пеп Талк" unit="шт">25</consist>
+    </offer>
+    <offer id="E00316" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крем 60 см Арт. E00316</name>
+      <price>89</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14U0NxbpfNh6UY3GsaOtqAm5zv1VlYc-r</picture>
+      <picture>https://lh3.googleusercontent.com/d/11_fDnmI5JRP1oqplRNXEcrz-cElycV-7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GZtrMZmGUS6-5ng79OmSkdlcm5eT_oF8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uRsBo4MT2QWIVat_cQSG1EudGJgJg5Uw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sMrWuVP87HnQQ5DuanpRsMj3kMiJU3dx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">E00316</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
+    </offer>
+    <offer id="E00326" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Пинк 60 см Арт. E00326</name>
+      <price>89</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1naCNHhXFtr30eYbPFmMaGESaJQJuBGBm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PObFK3faudxTrPrFnxjKCgnD5HrhMBQF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1um7YgJWY6owCWK2ww5oG9vWgSj81V-QB</picture>
+      <picture>https://lh3.googleusercontent.com/d/15wye-sZgTss--2lT1ITHNWErEL6YrTy5</picture>
+      <picture>https://lh3.googleusercontent.com/d/14J7OGj5udw733p6PkW6bUGACyU5lEDY1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">E00326</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
     <offer id="E2034" available="true">
       <categoryId>37</categoryId>
@@ -744,7 +744,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Голландия</param>
-      <param name="Производитель">Verkoop</param>
+      <param name="Производитель">Matricaria by W. Grootscholten</param>
       <param name="Артикул">E00306</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
