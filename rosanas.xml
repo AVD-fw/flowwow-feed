@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T13:11:07.492+03:00">
+<yml_catalog date="2025-10-07T13:21:10.256+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -76,6 +76,48 @@
       <param name="Артикул">S8215</param>
       <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
     </offer>
+    <offer id="S11866" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Микс 60 см Арт. S11866</name>
+      <price>397</price>
+      <qty>35</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nJXQF-kObDluWYd45IIWOr8xB83DQGMK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S11866</param>
+      <consist name="Роза кустовая Микс" unit="шт">5</consist>
+    </offer>
+    <offer id="S11924" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Корал Йо Йо 40 см Арт. S11924</name>
+      <price>95</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UwkJEbEVaSeaqylEUFsXl82IKValiwl7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S11924</param>
+      <consist name="Роза кустовая пионовидная Корал Йо Йо" unit="шт">10</consist>
+    </offer>
+    <offer id="S11907" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Супер Сенсейшн 70 см Арт. S11907</name>
+      <price>376</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sO2GtUJjpeHKY9hIEvX1bQI5LFiqXOVa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S11907</param>
+      <consist name="Роза кустовая пионовидная Супер Сенсейшн" unit="шт">10</consist>
+    </offer>
     <offer id="S9027" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бразилиана 70 см Арт. S9027</name>
@@ -109,6 +151,20 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">S01527</param>
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
+    </offer>
+    <offer id="S11465" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сан Ауринко 55 см Арт. S11465</name>
+      <price>99</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1l1i5WwLQqn-PyoVtNJ-RjTDPUur6TOwi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">S11465</param>
+      <consist name="Хризантема Сантини Сан Ауринко" unit="шт">25</consist>
     </offer>
     <offer id="S11077" available="true">
       <categoryId>37</categoryId>
@@ -183,6 +239,20 @@
       <param name="Страна">Колумбия</param>
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">S11047</param>
+      <consist name="Гвоздика одноголовая Марафон" unit="шт">25</consist>
+    </offer>
+    <offer id="S11136" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Марафон 60 см Арт. S11136</name>
+      <price>120</price>
+      <qty>225</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13MZVV-34mTM8KaZpMpziZFMBLSjVhPQj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">S11136</param>
       <consist name="Гвоздика одноголовая Марафон" unit="шт">25</consist>
     </offer>
     <offer id="S02416" available="true">
@@ -378,6 +448,21 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">S00596</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="S03377" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Цри Акт Джеменгд 72 см Арт. S03377</name>
+      <price>169</price>
+      <qty>20</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CIFP-p0IZ_7Drsy0v2HRav8EaL6RA5Ea</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pmcBMJWBT2c1LFcwXskJ45LNbvE7ibUr</picture>
+      <picture>https://lh3.googleusercontent.com/d/12RkacocnZbRcU1r-H5iIo4hdmuJPgTsO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">72</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S03377</param>
+      <consist name="Целозия Цри Акт Джеменгд" unit="шт">5</consist>
     </offer>
     <offer id="S11631" available="true">
       <categoryId>37</categoryId>
