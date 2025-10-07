@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T07:20:56.431+03:00">
+<yml_catalog date="2025-10-07T07:31:00.344+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -261,6 +261,40 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S9916</param>
       <consist name="Аллиум Форелок" unit="шт">10</consist>
+    </offer>
+    <offer id="S3409" available="true">
+      <categoryId>38</categoryId>
+      <name>Лимониум Фиолетовый 99 см Арт. S3409</name>
+      <price>79</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1P4gUBV-957l9jsqMq-uTYp-GCmA_7hUm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G5sT9bU7hjVl4BacqLFaTVkFHWWrNJy3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j2LKYbM2y1eiZoIf4Xrsa4TbvuIe6K9n</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mm8P6iLqnf1I3Vv6t-O3h0z9FyBc2-2Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Lm31J3IvPb6mPkxbc1NNyc9fkX5366f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">99</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S3409</param>
+      <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
+    <offer id="S01206" available="true">
+      <categoryId>38</categoryId>
+      <name>Седум Спектибайл 60 см Арт. S01206</name>
+      <price>69</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LMSD_vzB884QuaQ9Eh3Ma0iE_qBJ-w4i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c-AuOqmc-MpSXvFPfhfqousYsIyt2tvQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-8iZdDWkDaZvLHZytUiiLzpmu6PikgWK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n6l5jHHdwNySMphjZDRgZwXhgD8leDvD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vnFdmIBPN5ieOI0-fho5ku0YDrhNQDuC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01206</param>
+      <consist name="Седум Спектибайл" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
