@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T07:06:39.611+03:00">
+<yml_catalog date="2025-10-07T07:15:33.687+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -156,6 +156,41 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">E2034</param>
       <consist name="Вероника кустовая" unit="шт">25</consist>
+    </offer>
+    <offer id="E332" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая 50 см Арт. E332</name>
+      <price>43</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CckgvjJc1k0sMfI6GkOaJh6agaB45jBD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nnq1pPqqqmnns7K7i15ampjsE-GlCReG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v1wuGy8VlqLLgXEfSb2y20-t3kQ2Wum9</picture>
+      <picture>https://lh3.googleusercontent.com/d/15MqyZbk7l9H4FHr274cw25rsyoKlfupy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZbOYNoyH2agYjE0NgFClj5TPPfYSa1et</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">E332</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="E3377" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 70 см Арт. E3377</name>
+      <price>43</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XkPeRUB_4THUcWTKRzk4NxBAA6GQRI9C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f-hkGP9vpGE8rUhS8zFCypgrOfNj9w08</picture>
+      <picture>https://lh3.googleusercontent.com/d/10tlgUwFuVjXngPfxdbRrf2uexDr8aEmp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ltLUTzEEUjWf7GHmDZH4qkEwDuC0RSxd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">E3377</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="E01035" available="true">
       <categoryId>37</categoryId>
