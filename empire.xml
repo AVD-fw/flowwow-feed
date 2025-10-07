@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T08:15:26.703+03:00">
+<yml_catalog date="2025-10-07T08:25:27.648+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="E01297" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мондиаль 70 см Арт. E01297</name>
+      <price>122</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Wpg9qbbFWWE2Bf6LRY3cIJVgUG9d1aKz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DbQ2MiLG0KU3KtqYLwhVflgCcs4wTz9C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j30MreCNHW1CZvxLcfXMMeBWssxWVzPa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tus89Gxww0MAIHZuZOU_YXLbZ877mCjC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TFQ-bkdBzdSjlXIQ-LXuxjNxf7wPOhmY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Valems Flowers</param>
+      <param name="Артикул">E01297</param>
+      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
+    </offer>
     <offer id="E2177" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. E2177</name>
@@ -57,7 +75,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 60 см Арт. E01286</name>
       <price>101</price>
-      <qty>5</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1oTLTEaEdkmkCCh9d7t_c4fizWjizSLCp</picture>
       <picture>https://lh3.googleusercontent.com/d/13jGGl_uG-deUeaTy05kVZ2Ccvs5Z51ki</picture>
@@ -74,7 +92,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Ред 60 см Арт. E00956</name>
       <price>80</price>
-      <qty>5</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Ec0O0t_b-YrUZmuUWufQz6tnaZlLlvRC</picture>
       <picture>https://lh3.googleusercontent.com/d/1odlAxr1boSpn9l3pZy23G2_M5SvqsiXQ</picture>
@@ -88,7 +106,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Балтика 60 см Арт. E00896</name>
       <price>80</price>
-      <qty>5</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LzEZgAmvHWh5g-5sfFyFw85UwSYn6O77</picture>
       <picture>https://lh3.googleusercontent.com/d/13rhRUq9Fumb3RP7vl2pC5K3T7mi7262Q</picture>
@@ -104,7 +122,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Балтика Пинк 60 см Арт. E00906</name>
       <price>75</price>
-      <qty>5</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ZNlHQQeb0q175vBj75NhPDnFOytREZhF</picture>
       <picture>https://lh3.googleusercontent.com/d/1m32oAZEcwcUeB1YcC4NAP_-9AeolfULW</picture>
@@ -533,7 +551,7 @@
       <categoryId>37</categoryId>
       <name>Лилия Розовый 90 см Арт. E1749</name>
       <price>355</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1H3KmI4ucsCBm9qV0lPonJCbjyeHgeNSR</picture>
       <picture>https://lh3.googleusercontent.com/d/1jxSElgAVQXP7q_F2lAGVDpiJGgfvojm7</picture>
@@ -547,7 +565,7 @@
       <categoryId>37</categoryId>
       <name>Лимониум Белый 50 см Арт. E01225</name>
       <price>107</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17k_HZUCtGJUzzRA6vyYPFOQRivp5CJsl</picture>
       <picture>https://lh3.googleusercontent.com/d/10rxkcxqISC02RZe8ZwLM-ccXZEWdERZe</picture>
@@ -597,7 +615,7 @@
       <categoryId>37</categoryId>
       <name>Подсолнух Жёлтый 80 см Арт. E2358</name>
       <price>145</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EgwQ3wu2tzSj3vyhhsagQKzPuTy8fOSE</picture>
       <picture>https://lh3.googleusercontent.com/d/1PpOZ_hFqE-8ysZ_OTa1bntSBEBA3YTCF</picture>
@@ -819,7 +837,7 @@
       <categoryId>38</categoryId>
       <name>Лимониум Фиолетовый 80 см Арт. E00448</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_g9zH3iQm2SiVf_rWVOfJUD5W1Kmb22H</picture>
       <picture>https://lh3.googleusercontent.com/d/12_1q-0uUem_18_rFL5dGGoWHvDKGKRpx</picture>
