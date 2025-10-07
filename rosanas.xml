@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T13:30:52.803+03:00">
+<yml_catalog date="2025-10-07T13:41:03.210+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -287,6 +287,22 @@
       <param name="Артикул">S02416</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
+    <offer id="S8658" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия 80 см Арт. S8658</name>
+      <price>599</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zLywdDhPFTAh8xhwP_sV9KMK2I3MXlEN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e3R2UbsKN_QzAr4fn3I_X_nsW3-o11QS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bKYn9vUpRxbN91seTJTBzvczDnGXQPs9</picture>
+      <picture>https://lh3.googleusercontent.com/d/10kSebVXjLWo9fv_SiRzKkGb9CLSjDift</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S8658</param>
+      <consist name="Гидрангия" unit="шт">5</consist>
+    </offer>
     <offer id="S9641" available="true">
       <categoryId>37</categoryId>
       <name>Гидрангия Верена 100 см Арт. S9641</name>
@@ -318,6 +334,22 @@
       <param name="Высота, см">100</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">S9801</param>
+      <consist name="Гидрангия Верена" unit="шт">5</consist>
+    </offer>
+    <offer id="S9868" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Верена 80 см Арт. S9868</name>
+      <price>474</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NTw8yIVWs93GmhUVrUasVRR_f-ltJTdv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qj9GVn8Ad7WIcd5IxjuKD8dGAqTJZNiI</picture>
+      <picture>https://lh3.googleusercontent.com/d/16ofQS1mkFK2e85mxeScWawT3EPtwff7r</picture>
+      <picture>https://lh3.googleusercontent.com/d/10b3gX2ealCgEvOjkStYyJQaBUSgfcEfK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9868</param>
       <consist name="Гидрангия Верена" unit="шт">5</consist>
     </offer>
     <offer id="S01628" available="true">
