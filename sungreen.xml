@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T12:36:38.113+03:00">
+<yml_catalog date="2025-10-07T12:46:29.270+03:00">
   <shop>
     <name>Сангрин</name>
     <company>sungreen</company>
@@ -19,7 +19,7 @@
     <offers>
     <offer id="G00175" available="true">
       <name>Бриза Осветленная 50 см Арт. G00175</name>
-      <price>630</price>
+      <price>645</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10um9XOAQJjeCA3quGw_s9qfaJ7jXwOMt</picture>
@@ -34,28 +34,10 @@ Sungreen
       <param name="Артикул">G00175</param>
       <consist name="Бриза Осветленная" unit="шт">1</consist>
     </offer>
-    <offer id="G00935" available="true">
-      <categoryId>37</categoryId>
-      <name>Букетная зелень Длинная 50 см Арт. G00935</name>
-      <price>460</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1uVzgABpZQcCTdn0ifjJm4SIKHnbT5i6t</picture>
-      <description>Букетная зелень
-Длинная
-Sungreen
-Россия
-Цветы</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00935</param>
-      <consist name="Букетная зелень Длинная" unit="шт">1</consist>
-    </offer>
     <offer id="G01003" available="true">
       <categoryId>37</categoryId>
       <name>Букетная зелень Мелкая 30 см Арт. G01003</name>
-      <price>320</price>
+      <price>330</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1O-gQcWKNeAX5kTYkp_pgwMkrr89z-TPL</picture>
@@ -73,7 +55,7 @@ Sungreen
     <offer id="G00994" available="true">
       <categoryId>37</categoryId>
       <name>Букетная зелень Средняя 40 см Арт. G00994</name>
-      <price>410</price>
+      <price>420</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rX9Z8V7ucrV0m9J04oumbQTlJ7jbtfQZ</picture>
@@ -90,7 +72,7 @@ Sungreen
     </offer>
     <offer id="G00186" available="true">
       <name>Ворсянка Цветная 60 см Арт. G00186</name>
-      <price>690</price>
+      <price>700</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ilriN-2v8hPtrCLYZlyYxWb9pYC9LC8s</picture>
@@ -107,7 +89,7 @@ Sungreen
     </offer>
     <offer id="G00125" available="true">
       <name>Гортензия Осветленная 50 см Арт. G00125</name>
-      <price>150</price>
+      <price>152</price>
       <qty>400</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XamZ9WtBSYpeZIlesWaR1jxA4iKylXcj</picture>
@@ -124,7 +106,7 @@ Sungreen
     </offer>
     <offer id="G00294" available="true">
       <name>Кермек Осветленная 40 см Арт. G00294</name>
-      <price>570</price>
+      <price>858</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Yj-3nKFW1dKx-FCnCZkqb7X68XqwR1f4</picture>
@@ -155,45 +137,9 @@ Sungreen
       <param name="Артикул">G00563</param>
       <consist name="Лен" unit="шт">1</consist>
     </offer>
-    <offer id="G00608" available="true">
-      <categoryId>37</categoryId>
-      <name>Лотос Желтый 80 см Арт. G00608</name>
-      <price>92</price>
-      <qty>400</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1to8XIUQMCl2EyFkwOjTlpkCECkO3rtz6</picture>
-      <description>Лотос
-Желтый
-Sungreen
-Россия
-Цветы</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00608</param>
-      <consist name="Лотос Желтый" unit="шт">10</consist>
-    </offer>
-    <offer id="G00638" available="true">
-      <categoryId>37</categoryId>
-      <name>Лотос Зеленый 80 см Арт. G00638</name>
-      <price>92</price>
-      <qty>400</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1aC0TdjFCuTGJq_fBiGNq6dn8ZealYjBo</picture>
-      <description>Лотос
-Зеленый
-Sungreen
-Россия
-Цветы</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00638</param>
-      <consist name="Лотос Зеленый" unit="шт">10</consist>
-    </offer>
     <offer id="G00596" available="true">
       <name>Лунария Белый 60 см Арт. G00596</name>
-      <price>860</price>
+      <price>880</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-aCaNTtY6NzKk4sLNQTzXnF2zILV7Qi2</picture>
@@ -225,7 +171,7 @@ Sungreen
     </offer>
     <offer id="G00656" available="true">
       <name>Овес Цветной 60 см Арт. G00656</name>
-      <price>690</price>
+      <price>700</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YFPfv4PhNLjbF1bG1-aKETCvEFIU7SCH</picture>
@@ -242,7 +188,7 @@ Sungreen
     </offer>
     <offer id="G00686" available="true">
       <name>Овес Цветной 60 см Арт. G00686</name>
-      <price>690</price>
+      <price>700</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Qj-1IrPOYXbdXFfl7C7R9tjG5TnujtPZ</picture>
@@ -259,7 +205,7 @@ Sungreen
     </offer>
     <offer id="G00727" available="true">
       <name>Пампасская трава Супер Блонд 70 см Арт. G00727</name>
-      <price>230</price>
+      <price>240</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1l_OE7tyUp2X2sqFMb-0Yl7K1sQpUe-3p</picture>
@@ -293,7 +239,7 @@ Sungreen
     </offer>
     <offer id="G00384" available="true">
       <name>Пастушья сумка Цветная стабилизированая 40 см Арт. G00384</name>
-      <price>740</price>
+      <price>760</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19vQAkBplw6jAGWTo9EXmHvFs-_WiJ-SY</picture>
@@ -311,7 +257,7 @@ Sungreen
     <offer id="G00427" available="true">
       <categoryId>37</categoryId>
       <name>Подсолнух Декоративный 70 см Арт. G00427</name>
-      <price>206</price>
+      <price>210</price>
       <qty>400</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vb58saucTpM9Wo3ZX3Vdpm0TzdG_I9iJ</picture>
@@ -328,7 +274,7 @@ Sungreen
     </offer>
     <offer id="G00378" available="true">
       <name>Просо Осветленный 80 см Арт. G00378</name>
-      <price>630</price>
+      <price>645</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1CFi2UBl3x_H2_MptpzNPAX4jfwUY3JH9</picture>
@@ -345,7 +291,7 @@ Sungreen
     </offer>
     <offer id="G00365" available="true">
       <name>Птичий Горец Осветленный 50 см Арт. G00365</name>
-      <price>750</price>
+      <price>585</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vug9ef-Ccxbs-UHyyvEO266xN15e7Fkq</picture>
@@ -379,7 +325,7 @@ Sungreen
     </offer>
     <offer id="G00395" available="true">
       <name>Пшеница Осветленная 50 см Арт. G00395</name>
-      <price>570</price>
+      <price>585</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kO3M6v1_VVowV3Qs0g0QaVLlj8_Kezp7</picture>
@@ -396,7 +342,7 @@ Sungreen
     </offer>
     <offer id="G00085" available="true">
       <name>Пшеница Цветная 50 см Арт. G00085</name>
-      <price>460</price>
+      <price>470</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gWPmnvh1XuyFSFeajgAGwDv4JTkfXga2</picture>
@@ -413,7 +359,7 @@ Sungreen
     </offer>
     <offer id="G00515" available="true">
       <name>Ракита Цветная 50 см Арт. G00515</name>
-      <price>800</price>
+      <price>820</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AvE65us_RTH6i8qocvqvnH-Dfamn_Kt0</picture>
@@ -430,7 +376,7 @@ Sungreen
     </offer>
     <offer id="G00905" available="true">
       <name>Тысячелистник Цветной 50 см Арт. G00905</name>
-      <price>690</price>
+      <price>700</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1h5qcs6rKn-A9sSvgyOfMEdmV63Hk2cm3</picture>
@@ -462,23 +408,6 @@ Sungreen
       <param name="Артикул">G00913</param>
       <consist name="Хлопок Цветной" unit="шт">10</consist>
     </offer>
-    <offer id="G00558" available="true">
-      <categoryId>37</categoryId>
-      <name>Цветок Лотоса Зеленый 80 см Арт. G00558</name>
-      <price>103</price>
-      <qty>400</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1WhK8BfqbWG0TwFf4Rpw1IKDz2RKAf_Kt</picture>
-      <description>Цветок Лотоса
-Sungreen
-Россия
-Цветы</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00558</param>
-      <consist name="Цветок Лотоса" unit="шт">10</consist>
-    </offer>
     <offer id="G00925" available="true">
       <name>Ячмень Белый 50 см Арт. G00925</name>
       <price>270</price>
@@ -498,7 +427,7 @@ Sungreen
     <offer id="G00036" available="true">
       <categoryId>38</categoryId>
       <name>Барбарис Зеленый 60 см Арт. G00036</name>
-      <price>630</price>
+      <price>640</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ZxWIc4h6yOJPR5V6W6n87qq_QarKwNHX</picture>
@@ -516,7 +445,7 @@ Sungreen
     <offer id="G00136" available="true">
       <categoryId>38</categoryId>
       <name>Барбарис Красный 60 см Арт. G00136</name>
-      <price>690</price>
+      <price>700</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18qiPP1lWYdEHSXh3gXpScUItVsrLynww</picture>
@@ -552,7 +481,7 @@ Sungreen
     <offer id="G00334" available="true">
       <categoryId>38</categoryId>
       <name>Кермек Цветной 40 см Арт. G00334</name>
-      <price>460</price>
+      <price>470</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dVnHn5hT6mhWodCEqvnFri4scpVziffz</picture>
@@ -567,44 +496,10 @@ Sungreen
       <param name="Артикул">G00334</param>
       <consist name="Кермек Цветной" unit="шт">1</consist>
     </offer>
-    <offer id="G00616" available="true">
-      <categoryId>38</categoryId>
-      <name>Локонос Зеленый 60 см Арт. G00616</name>
-      <price>510</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1uDuvmvCIqATAPLaZKpyy_GKEDGKf825-</picture>
-      <description>Локонос
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00616</param>
-      <consist name="Локонос" unit="шт">1</consist>
-    </offer>
-    <offer id="G00624" available="true">
-      <categoryId>38</categoryId>
-      <name>Магнолия Зеленый 40 см Арт. G00624</name>
-      <price>630</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1LJvKWoL-L86Oq8uJAQ32Z-1OscX0WuK8</picture>
-      <description>Магнолия
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00624</param>
-      <consist name="Магнолия" unit="шт">1</consist>
-    </offer>
     <offer id="G00466" available="true">
       <categoryId>38</categoryId>
       <name>Рис Цветной 60 см Арт. G00466</name>
-      <price>690</price>
+      <price>700</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sauojrEm3PeIHJiY7iddr8FSLTACBXiV</picture>
@@ -622,7 +517,7 @@ Sungreen
     <offer id="G00645" available="true">
       <categoryId>38</categoryId>
       <name>Слива кустовая Бордовый 50 см Арт. G00645</name>
-      <price>570</price>
+      <price>585</price>
       <qty>200</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1efCwxI_lAr2SjmjdUNSPuI3q5PyUNxZk</picture>
@@ -639,7 +534,7 @@ Sungreen
     <offer id="G00524" available="true">
       <categoryId>38</categoryId>
       <name>Смолосемянник Крупнолистный 40 см Арт. G00524</name>
-      <price>630</price>
+      <price>645</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ogMHlCKUB-7rl-3ON2JiSG8wtiJWPJC2</picture>
@@ -657,7 +552,7 @@ Sungreen
     <offer id="G00534" available="true">
       <categoryId>38</categoryId>
       <name>Смолосемянник Мелколистный 40 см Арт. G00534</name>
-      <price>630</price>
+      <price>645</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zAY_2Z6dTpNaj8WvoMnj5VoIF1_RvEI0</picture>
@@ -672,99 +567,10 @@ Sungreen
       <param name="Артикул">G00534</param>
       <consist name="Смолосемянник Мелколистный" unit="шт">1</consist>
     </offer>
-    <offer id="G00505" available="true">
-      <categoryId>38</categoryId>
-      <name>Солидаго Желтый 50 см Арт. G00505</name>
-      <price>350</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1h85qXm2tXsvVuZF7Z_8Tkqyxy3ourO5C</picture>
-      <description>Солидаго 
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00505</param>
-      <consist name="Солидаго" unit="шт">1</consist>
-    </offer>
-    <offer id="G00886" available="true">
-      <categoryId>38</categoryId>
-      <name>Хурма Плоды на ветках 60 см Арт. G00886</name>
-      <price>172</price>
-      <qty>400</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Sz9zTHKajUvLeTDq0o9n5gYo-1G4gb-_</picture>
-      <description>Хурма
-Плоды на ветках
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00886</param>
-      <consist name="Хурма Плоды на ветках" unit="шт">5</consist>
-    </offer>
-    <offer id="G00821" available="true">
-      <categoryId>38</categoryId>
-      <name>Шиповник Декоративный зеленый Высокий 110 см Арт. G00821</name>
-      <price>860</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1P2HiJbWwW95Fa_nOaWT9zhdMvQzLPcY1</picture>
-      <description>Шиповник
-Декоративный зеленый Высокий
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">110</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00821</param>
-      <consist name="Шиповник Декоративный зеленый Высокий" unit="шт">1</consist>
-    </offer>
-    <offer id="G00804" available="true">
-      <categoryId>38</categoryId>
-      <name>Шиповник Декоративный зеленый Короткий 40 см Арт. G00804</name>
-      <price>630</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1P2HiJbWwW95Fa_nOaWT9zhdMvQzLPcY1</picture>
-      <description>Шиповник
-Декоративный зеленый Короткий
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00804</param>
-      <consist name="Шиповник Декоративный зеленый Короткий" unit="шт">1</consist>
-    </offer>
-    <offer id="G00816" available="true">
-      <categoryId>38</categoryId>
-      <name>Шиповник Декоративный зеленый Средний 60 см Арт. G00816</name>
-      <price>750</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1P2HiJbWwW95Fa_nOaWT9zhdMvQzLPcY1</picture>
-      <description>Шиповник
-Декоративный зеленый Средний
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00816</param>
-      <consist name="Шиповник Декоративный зеленый Средний" unit="шт">1</consist>
-    </offer>
     <offer id="G00549" available="true">
       <categoryId>38</categoryId>
       <name>Шиповник Дикий Оранж гирлянда 90 см Арт. G00549</name>
-      <price>750</price>
+      <price>760</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wqq9Pg4K9PL7ufnKryYP49xYs5bRd_vQ</picture>
@@ -779,28 +585,10 @@ Sungreen
       <param name="Артикул">G00549</param>
       <consist name="Шиповник Дикий Оранж гирлянда" unit="шт">1</consist>
     </offer>
-    <offer id="G00784" available="true">
-      <categoryId>38</categoryId>
-      <name>Эвкалипт Обычный 40 см Арт. G00784</name>
-      <price>1800</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/17vsyHVY-Gp6aR9RDUA9COjNqR716g-Kg</picture>
-      <description>Эвкалипт
-Обычный
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00784</param>
-      <consist name="Эвкалипт Обычный" unit="шт">1</consist>
-    </offer>
     <offer id="G00795" available="true">
       <categoryId>39</categoryId>
       <name>Ящик декоративный Малый 50 см Арт. G00795</name>
-      <price>460</price>
+      <price>470</price>
       <qty>400</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rMFoquxlwUR1rVrFOR2alD1crCyP_-1Y</picture>
