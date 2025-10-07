@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T19:21:00.552+03:00">
+<yml_catalog date="2025-10-07T19:31:07.029+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -105,6 +105,20 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S11866</param>
       <consist name="Роза кустовая Микс" unit="шт">5</consist>
+    </offer>
+    <offer id="S11714" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Эксклюзив Сенсейшн 40 см Арт. S11714</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JxkE9EOSEC0ijTZIE4zPb2nK-c3Mg_su</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Удмуртия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S11714</param>
+      <consist name="Роза кустовая Эксклюзив Сенсейшн" unit="шт">10</consist>
     </offer>
     <offer id="S11924" available="true">
       <categoryId>4</categoryId>
