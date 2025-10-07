@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T12:30:53.352+03:00">
+<yml_catalog date="2025-10-07T12:40:59.459+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -171,6 +171,20 @@
       <param name="Артикул">S11027</param>
       <consist name="Гвоздика одноголовая Йеллоустоун" unit="шт">25</consist>
     </offer>
+    <offer id="S11047" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Марафон 70 см Арт. S11047</name>
+      <price>120</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tYpVKSLbB94pQiWCaZWi4aK9AYYhnQEO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">S11047</param>
+      <consist name="Гвоздика одноголовая Марафон" unit="шт">25</consist>
+    </offer>
     <offer id="S02416" available="true">
       <categoryId>37</categoryId>
       <name>Георгин Розовый 60 см Арт. S02416</name>
@@ -234,6 +248,19 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S01628</param>
       <consist name="Гидрангия Верена Блау" unit="шт">5</consist>
+    </offer>
+    <offer id="S11448" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Родео Классик 80 см Арт. S11448</name>
+      <price>599</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1V2Mubu-EIkaZn_ygrQkxcMOF16L0SN7Z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S11448</param>
+      <consist name="Гидрангия Родео Классик" unit="шт">5</consist>
     </offer>
     <offer id="S01927" available="true">
       <categoryId>37</categoryId>
