@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T15:21:10.259+03:00">
+<yml_catalog date="2025-10-07T15:31:10.483+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -75,6 +75,22 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S8215</param>
       <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
+    </offer>
+    <offer id="S8094" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Бомбастик 40 см Арт. S8094</name>
+      <price>75</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ba3ClEiW3hkS8k7gn9bbPHuteWtTyEfF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1daNhQs3n203_NOSfqQFUp-jsu_3MKeDZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-iHzDpuk_CqP1HJIY0IjmfAIdbUGPoFT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">S8094</param>
+      <consist name="Роза кустовая Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="S11866" available="true">
       <categoryId>3</categoryId>
