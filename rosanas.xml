@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-07T19:31:07.029+03:00">
+<yml_catalog date="2025-10-07T19:41:05.539+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -91,6 +91,20 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">S8094</param>
       <consist name="Роза кустовая Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="S8104" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лавли Лидия 40 см Арт. S8104</name>
+      <price>997</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wphA3T1oWNJfLLep19bIggN6vQz5Er6d</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">S8104</param>
+      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
     </offer>
     <offer id="S11866" available="true">
       <categoryId>3</categoryId>
