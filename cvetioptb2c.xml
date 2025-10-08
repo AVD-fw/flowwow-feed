@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-03T08:01:24.228+03:00">
+<yml_catalog date="2025-10-08T15:29:34.223+03:00">
   <shop>
-    <name>Цветы оптом</name>
+    <name>Цветы оптом B2C</name>
     <company>cvetiopt</company>
     <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <offers>
-    <offer id="B2C_Cp02365" available="true">
-      <name>Роза кустовая пионовидная Бомбастик 9 шт 50 см Арт. Cp02365</name>
-      <price>1540</price>
-      <picture>https://lh3.googleusercontent.com/d/1izMm7eW2adxeQgnqzQOs2WagTcYEkUD6</picture>
-      <picture>https://lh3.googleusercontent.com/d/10HBq0tSaNiF20RPWHxFhBLbxpLaBFwLi</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MkzxcJxcr6C0ZztzEQjGO9gbXaXbsd2k</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ryxfxCk4BmuMQbOhDICsrHkqBVeY_2kH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1IlsGY0M5lVzJRI5vBPFmG_kirSWRW1uf</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Линия розы</param>
-      <param name="Артикул">Cp02365</param>
-      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">9</consist>
+    <offer id="B2C_S00014" available="false">
+      <name>Анемон Фиолетовый 40 см Арт. S00014</name>
+      <price>10</price>
+      <picture>https://lh3.googleusercontent.com/d/1TTaZbxaCFECvbMF2be-8vi3b_ATIf5ks</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TivxJ3QsibXvO-mNpKrpRPpZ6h6TaJ7s</picture>
+      <description>Анемон
+Terra Nostra
+Эквадор
+Цветы</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">Нет</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Terra Nostra</param>
+      <param name="Артикул">S00014</param>
+      <consist name="Анемон" unit="шт">1</consist>
+    </offer>
+    <offer id="B2C_S00036" available="false">
+      <name>Антуриум Желтый 60 см Арт. S00036</name>
+      <price>1</price>
+      <picture>https://lh3.googleusercontent.com/d/1EK13d4iGIuiOhZKM0tECUEr2FkyB7bm_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CDSbrfd28fDtEaF3JIYSLldc8gTf8rXh</picture>
+      <description>Антуриум
+Эквадор
+Цветы</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">Нет</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">S00036</param>
+      <consist name="Антуриум" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
