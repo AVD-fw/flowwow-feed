@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T09:41:34.927+03:00">
+<yml_catalog date="2025-10-08T09:51:16.929+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -31,25 +31,11 @@
       <param name="Артикул">S11818</param>
       <consist name="Роза одноголовая Бабалу" unit="шт">25</consist>
     </offer>
-    <offer id="S11776" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Своуве 60 см Арт. S11776</name>
-      <price>165</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1BoOC8vg1ZSlAKvm8PuWie1XQQ7SOM82j</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Rosas Del Corazon</param>
-      <param name="Артикул">S11776</param>
-      <consist name="Роза одноголовая Своуве" unit="шт">25</consist>
-    </offer>
     <offer id="S11846" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Сило 60 см Арт. S11846</name>
       <price>125</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jb-4kLPSxKmje8Mc1Uknt8NMz-TZDpuI</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
@@ -58,20 +44,6 @@
       <param name="Производитель">Rosas Del Corazon</param>
       <param name="Артикул">S11846</param>
       <consist name="Роза одноголовая Сило" unit="шт">25</consist>
-    </offer>
-    <offer id="S10107" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Шангри Ла 70 см Арт. S10107</name>
-      <price>164</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1GazbCJRkEUA1t5vhSNkpoFJrqLO0uL0R</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мир Цветов</param>
-      <param name="Артикул">S10107</param>
-      <consist name="Роза одноголовая Шангри Ла" unit="шт">15</consist>
     </offer>
     <offer id="S8215" available="true">
       <categoryId>3</categoryId>
@@ -188,7 +160,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Корал Йо Йо 40 см Арт. S11924</name>
       <price>171</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UwkJEbEVaSeaqylEUFsXl82IKValiwl7</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -269,20 +241,6 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S04386</param>
       <consist name="Роза кустовая пионовидная Скарлет Дименшен" unit="шт">10</consist>
-    </offer>
-    <offer id="S11907" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Супер Сенсейшн 70 см Арт. S11907</name>
-      <price>376</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1sO2GtUJjpeHKY9hIEvX1bQI5LFiqXOVa</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">S11907</param>
-      <consist name="Роза кустовая пионовидная Супер Сенсейшн" unit="шт">10</consist>
     </offer>
     <offer id="S02297" available="true">
       <categoryId>5</categoryId>
