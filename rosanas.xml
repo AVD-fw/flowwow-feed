@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T09:31:29.070+03:00">
+<yml_catalog date="2025-10-08T09:41:34.927+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -133,6 +133,24 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S11866</param>
       <consist name="Роза кустовая Микс" unit="шт">5</consist>
+    </offer>
+    <offer id="S04265" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 50 см Арт. S04265</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Yiu-IYwOh_I2QotV6dpD_FnAJkbmRcPj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aD2rYoDb7P77mDJ6cj8MuLqNZGWuVenX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UcJ4JtF5sa_8ZeFOwtHZOMerLSwBt_aG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UlFNYh5rwB51SOLQkAS07yP1BIN1UqjN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tA4vATGEFdXFGFp1RXEsn-jQnPyXTL6D</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04265</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="S11714" available="true">
       <categoryId>3</categoryId>
