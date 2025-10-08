@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T06:55:24.222+03:00">
+<yml_catalog date="2025-10-08T07:05:25.940+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -137,6 +137,39 @@
       <param name="Производитель">Veronica Florius</param>
       <param name="Артикул">E2585</param>
       <consist name="Вероника кустовая" unit="шт">25</consist>
+    </offer>
+    <offer id="E2536" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Малиновый 60 см Арт. E2536</name>
+      <price>43</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Au6HfceFjoADLWpbvRn4r-bbXrDJFF60</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mxqQZASXKtPWcHbZ78EfUfXT0bYD0WOs</picture>
+      <picture>https://lh3.googleusercontent.com/d/18jsWHVCtrxNgkGqJu-5Fnptr2RGN8zrJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">E2536</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="E3376" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 60 см Арт. E3376</name>
+      <price>43</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XkPeRUB_4THUcWTKRzk4NxBAA6GQRI9C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f-hkGP9vpGE8rUhS8zFCypgrOfNj9w08</picture>
+      <picture>https://lh3.googleusercontent.com/d/10tlgUwFuVjXngPfxdbRrf2uexDr8aEmp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ltLUTzEEUjWf7GHmDZH4qkEwDuC0RSxd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">E3376</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="E01035" available="true">
       <categoryId>37</categoryId>
