@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T08:15:21.967+03:00">
+<yml_catalog date="2025-10-08T08:25:23.151+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -317,24 +317,6 @@
       <param name="Артикул">E3516</param>
       <consist name="Дельфиниум" unit="шт">10</consist>
     </offer>
-    <offer id="E00425" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Белый 50 см Арт. E00425</name>
-      <price>56</price>
-      <qty>250</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Y66cvF2EHlRDfUavX_QDSkrvGzcOxcxd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DhLezn49NsnZS7i-rSMkO7BiPHjIXnEH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CV_CFJ-aldsf1vtbydJ3PniWXcu_pzGS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fpfQZL8G7BE0qw3FMxryFRej6qlHdYv8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xNVR-C0aEywsRi3B_pVb7C26CTh5p1sR</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">E00425</param>
-      <consist name="Ирис" unit="шт">50</consist>
-    </offer>
     <offer id="E00385" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 50 см Арт. E00385</name>
@@ -352,6 +334,24 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">E00385</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="E00425" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Касабланка 50 см Арт. E00425</name>
+      <price>64</price>
+      <qty>250</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Y66cvF2EHlRDfUavX_QDSkrvGzcOxcxd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DhLezn49NsnZS7i-rSMkO7BiPHjIXnEH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CV_CFJ-aldsf1vtbydJ3PniWXcu_pzGS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fpfQZL8G7BE0qw3FMxryFRej6qlHdYv8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xNVR-C0aEywsRi3B_pVb7C26CTh5p1sR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">E00425</param>
+      <consist name="Ирис Касабланка" unit="шт">50</consist>
     </offer>
     <offer id="E2396" available="true">
       <categoryId>37</categoryId>
