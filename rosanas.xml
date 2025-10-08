@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T09:51:16.929+03:00">
+<yml_catalog date="2025-10-08T10:01:46.362+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -123,6 +123,24 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S04265</param>
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
+    </offer>
+    <offer id="S6506" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Таня 60 см Арт. S6506</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vf1AsnPmV7BJbY0WR1biG9hLIfu90D2u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ut42-NlmmXvsPSoTzg3NTfOh17CgNvq1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xbe44Vs13wFIF0Vs4X6SnZw40cL1GoRO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LUaxis5PR-v560HL-mNsH6UIgxpOl4Jc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HJC_G8Dyj4_5PwZHH5b4l2sBFAzH-FGk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S6506</param>
+      <consist name="Роза кустовая Таня" unit="шт">10</consist>
     </offer>
     <offer id="S11714" available="true">
       <categoryId>3</categoryId>
