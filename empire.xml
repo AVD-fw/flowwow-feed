@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T10:15:24.621+03:00">
+<yml_catalog date="2025-10-08T10:25:33.269+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -86,6 +86,57 @@
       <param name="Производитель">Vannova</param>
       <param name="Артикул">E2447</param>
       <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
+    </offer>
+    <offer id="E2247" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Желтый 70 см Арт. E2247</name>
+      <price>80</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1f0-N-gBOvMtD2y2EoKCpw7ncoPOMUfAg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ptuTAipK6Mx1MGpQcCalLwviybOx5EYP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QdsFYW6EVbhwI0VRwPdIFgLk7GHhCbtZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/17D5yi15MiZWf7-QeEarKprErwSe5Nvq4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G60MRV1ZJDnCXbspKmypwV1wOn_axO75</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">E2247</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="E01286" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 60 см Арт. E01286</name>
+      <price>101</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Bs24eiONArU1gSIxfWKBuY2FTHGkqLY3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mY_NaxgTqvlxm_Vkpvq-MdJ9AmXVDegi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PxxXDgRMZFG4V_PefklkkjSaoxT-vTC7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xB4SSUTE0gHiDcAoYWt0RlcYju0_snrL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oTLTEaEdkmkCCh9d7t_c4fizWjizSLCp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">E01286</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="E2866" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 60 см Арт. E2866</name>
+      <price>101</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1azuW3BMqGmvNXkD1c9x1fzSw2t7bzQ4A</picture>
+      <picture>https://lh3.googleusercontent.com/d/16fuuxrrAax6fOkB4rT_DqR1GILFU-5yb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_8bSzSPmcBzN-Yjov3sdmE6wox22ktlW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">E2866</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
     <offer id="E00956" available="true">
       <categoryId>6</categoryId>
