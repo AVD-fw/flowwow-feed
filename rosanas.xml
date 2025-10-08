@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T08:51:20.013+03:00">
+<yml_catalog date="2025-10-08T09:01:06.494+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -58,6 +58,20 @@
       <param name="Производитель">Rosas Del Corazon</param>
       <param name="Артикул">S11846</param>
       <consist name="Роза одноголовая Сило" unit="шт">25</consist>
+    </offer>
+    <offer id="S10107" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Шангри Ла 70 см Арт. S10107</name>
+      <price>164</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GazbCJRkEUA1t5vhSNkpoFJrqLO0uL0R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S10107</param>
+      <consist name="Роза одноголовая Шангри Ла" unit="шт">15</consist>
     </offer>
     <offer id="S8215" available="true">
       <categoryId>3</categoryId>
