@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T07:51:16.198+03:00">
+<yml_catalog date="2025-10-08T08:01:10.361+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -63,7 +63,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Беларусь 50 см Арт. S8215</name>
       <price>253</price>
-      <qty>60</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vyC0SJnBndGEut-rYVF8_6ab46c4MT0R</picture>
       <picture>https://lh3.googleusercontent.com/d/1mhyLgvIQHhbNH1L400d1zoYql9IwseHv</picture>
@@ -76,27 +76,11 @@
       <param name="Артикул">S8215</param>
       <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
     </offer>
-    <offer id="S8094" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Бомбастик 40 см Арт. S8094</name>
-      <price>75</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ba3ClEiW3hkS8k7gn9bbPHuteWtTyEfF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1daNhQs3n203_NOSfqQFUp-jsu_3MKeDZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-iHzDpuk_CqP1HJIY0IjmfAIdbUGPoFT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">S8094</param>
-      <consist name="Роза кустовая Бомбастик" unit="шт">10</consist>
-    </offer>
     <offer id="S8104" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Лавли Лидия 40 см Арт. S8104</name>
       <price>997</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wphA3T1oWNJfLLep19bIggN6vQz5Er6d</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -180,7 +164,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар 70 см Арт. S7367</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19hUUjOAIkdfGgFlZIcoFOaDTnf8v2KWm</picture>
       <picture>https://lh3.googleusercontent.com/d/1SSJ582g9fU0HkNE5-oU94yhAwriC-wJP</picture>
@@ -214,7 +198,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бразилиана 70 см Арт. S9027</name>
       <price>178</price>
-      <qty>30</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yWyPPA5yQcfiZlXTbpD7oMF1SwcwsBNK</picture>
       <picture>https://lh3.googleusercontent.com/d/1FLMG_yPshSJhwZNbrpszJ1n6vnti7FNP</picture>
@@ -230,7 +214,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Деко 80 см Арт. S7518</name>
       <price>163</price>
-      <qty>10</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11MoIR_1B8z7PthHr9fUklhob2ZePRokr</picture>
       <picture>https://lh3.googleusercontent.com/d/1mOlQbZlfExP4qvdTE9GG0jBopLKKP9P3</picture>
@@ -279,9 +263,24 @@
       <param name="Артикул">S02308</param>
       <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
     </offer>
+    <offer id="S11307" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Катинка Сальмон 70 см Арт. S11307</name>
+      <price>105</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SVBvJMt2Jhv4iJlUyJCpOEYwMbG2LOBR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gNGVDdO7McCsWu41X_ThNxE2sZLGCiRq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">S11307</param>
+      <consist name="Хризантема кустовая Катинка Сальмон" unit="шт">5</consist>
+    </offer>
     <offer id="S00245" available="true">
       <categoryId>7</categoryId>
-      <name>Хризантема Сантини Разноцветный 55 см Арт. S00245</name>
+      <name>Хризантема Сантини Росси микс 55 см Арт. S00245</name>
       <price>997</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
@@ -295,7 +294,7 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">S00245</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
+      <consist name="Хризантема Сантини Росси микс" unit="шт">25</consist>
     </offer>
     <offer id="S11077" available="true">
       <categoryId>37</categoryId>
@@ -393,6 +392,20 @@
       <param name="Артикул">S11027</param>
       <consist name="Гвоздика одноголовая Йеллоустоун" unit="шт">25</consist>
     </offer>
+    <offer id="S11146" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Лейдж Марон 60 см Арт. S11146</name>
+      <price>76</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YlYhLnKXjJLPAIgQSKHMbhqwmCHtSgGQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">S11146</param>
+      <consist name="Гвоздика одноголовая Лейдж Марон" unit="шт">25</consist>
+    </offer>
     <offer id="S11136" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Марафон 60 см Арт. S11136</name>
@@ -461,7 +474,7 @@
       <categoryId>37</categoryId>
       <name>Гидрангия Верена 100 см Арт. S9801</name>
       <price>599</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mpuDZgByFWRU5cq4MLaizeN8TO4n3BIv</picture>
       <picture>https://lh3.googleusercontent.com/d/1Fomzdk3Ycf3BdkMDX5qyCJRffxZQpOoi</picture>
@@ -478,7 +491,7 @@
       <categoryId>37</categoryId>
       <name>Гидрангия Верена 80 см Арт. S9868</name>
       <price>474</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NTw8yIVWs93GmhUVrUasVRR_f-ltJTdv</picture>
       <picture>https://lh3.googleusercontent.com/d/1qj9GVn8Ad7WIcd5IxjuKD8dGAqTJZNiI</picture>
@@ -604,7 +617,7 @@
       <categoryId>37</categoryId>
       <name>Дельфиниум Кендл Вайт Шадес 90 см Арт. S9669</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PgT_XhJgIUHQ41l0WxKp0Nnmd6t8nZgQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1-H320Sx3xhrwEmME2_6iSCg5wjY4H8KA</picture>
@@ -664,6 +677,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S11957</param>
       <consist name="Клематис Эмейзин Осло" unit="шт">10</consist>
+    </offer>
+    <offer id="S11318" available="true">
+      <categoryId>37</categoryId>
+      <name>Куэркас 80 см Арт. S11318</name>
+      <price>89</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/134gSgNdwm76qchrPVqcFhNVsq4OKV_5S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cUMH_WRUTqa1itWUZE0VpEMs6-eA652t</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S11318</param>
+      <consist name="Куэркас" unit="шт">20</consist>
     </offer>
     <offer id="S01469" available="true">
       <categoryId>37</categoryId>
@@ -830,7 +857,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Лайт Пинк 70 см Арт. S8267</name>
       <price>189</price>
-      <qty>90</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1V3AAGDV_soTSIi6Gd6hdvk9zkaBVwXNb</picture>
       <picture>https://lh3.googleusercontent.com/d/1aDMnBRaJ7yMSWiA4khb1s9e8CZbYHWHr</picture>
@@ -864,7 +891,7 @@
       <categoryId>37</categoryId>
       <name>Эустома g Alissa ligh pi 70 см Арт. S8287</name>
       <price>189</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18JPnWLNHEx2azmynXrf9aOMAFDhquKxH</picture>
       <picture>https://lh3.googleusercontent.com/d/1-mIaCn0j3p2FskDfcU7BfUCeGTNXumL4</picture>
@@ -881,7 +908,7 @@
       <categoryId>38</categoryId>
       <name>Аллиум Форелок 65 см Арт. S9916</name>
       <price>139</price>
-      <qty>50</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WqZBYu4G0r362yqAQTPNkAWLLx0GnhVP</picture>
       <picture>https://lh3.googleusercontent.com/d/1FZjTW8rnlkeOyxRzx-_xaNUTVvFdgn2A</picture>
@@ -961,7 +988,7 @@
       <categoryId>38</categoryId>
       <name>Куэркас Рубра 80 см Арт. S7608</name>
       <price>987</price>
-      <qty>20</qty>
+      <qty>200</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WMzgLb5sQv6vc7G0fd5cv7BU_wCU7_Ey</picture>
       <picture>https://lh3.googleusercontent.com/d/1VaeFG7FuKd4AY0s79liMBGiucAjNYNLi</picture>
