@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T15:31:05.116+03:00">
+<yml_catalog date="2025-10-08T16:01:54.567+03:00">
   <shop>
     <name>Цветы оптом B2C</name>
     <company>cvetiopt</company>
     <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <offers>
-    <offer id="B2C_S00014" available="false">
-      <name>Анемон Фиолетовый 40 см Арт. S00014</name>
-      <price>10</price>
+    <offer id="B2C_S00014" available="true">
+      <name>Анемон 10 шт Фиолетовый 40 см Арт. S00014</name>
+      <price>1800</price>
       <picture>https://lh3.googleusercontent.com/d/1TTaZbxaCFECvbMF2be-8vi3b_ATIf5ks</picture>
       <picture>https://lh3.googleusercontent.com/d/1TivxJ3QsibXvO-mNpKrpRPpZ6h6TaJ7s</picture>
       <description>Анемон
@@ -15,22 +15,22 @@ Terra Nostra
 Россия
 Цветы</description>
       <param name="Высота, см">40</param>
-      <param name="Ширина, см">Да</param>
+      <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Terra Nostra</param>
       <param name="Артикул">S00014</param>
-      <consist name="Анемон" unit="шт">1</consist>
+      <consist name="Анемон" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00036" available="false">
-      <name>Антуриум Желтый 60 см Арт. S00036</name>
-      <price>1</price>
+    <offer id="B2C_S00036" available="true">
+      <name>Антуриум 1 шт Желтый 60 см Арт. S00036</name>
+      <price>430</price>
       <picture>https://lh3.googleusercontent.com/d/1EK13d4iGIuiOhZKM0tECUEr2FkyB7bm_</picture>
       <picture>https://lh3.googleusercontent.com/d/1CDSbrfd28fDtEaF3JIYSLldc8gTf8rXh</picture>
       <description>Антуриум
 Россия
 Цветы</description>
       <param name="Высота, см">60</param>
-      <param name="Ширина, см">Да</param>
+      <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">S00036</param>
       <consist name="Антуриум" unit="шт">1</consist>
