@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T15:51:21.515+03:00">
+<yml_catalog date="2025-10-08T16:01:08.659+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -1686,6 +1686,23 @@
       <param name="Производитель">Zara Flora</param>
       <param name="Артикул">Cp01915</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp04794" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Династий 40 см Арт. Cp04794</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16qUx9KI-sp6p10VjYZcgSyBErnhA5ts5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1foReHt_UYzphg--S8vsbuc5wtH3vmumr</picture>
+      <picture>https://lh3.googleusercontent.com/d/13kye1RINS8c491-y1jga9aDYZdMI-fg_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vOWvHX88aGTvFY-8iIQA1UOnwwRYutRV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1071pDEfIQfag3K7cEiiZJm-3_QKN8sPG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp04794</param>
+      <consist name="Тюльпан Династий" unit="шт">50</consist>
     </offer>
     <offer id="Cp9624" available="true">
       <categoryId>37</categoryId>
