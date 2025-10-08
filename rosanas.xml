@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-08T06:41:08.401+03:00">
+<yml_catalog date="2025-10-08T06:50:57.700+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -477,6 +477,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S7316</param>
       <consist name="Калла Голд Медал" unit="шт">10</consist>
+    </offer>
+    <offer id="S01047" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Перл Пинк 70 см Арт. S01047</name>
+      <price>109</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FKbK8QRKSMx-FvJRpmk8xkMBZmHZqvar</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NsZIP8bxlGZEg_AaSEnqEjZ3MVUN5Pu7</picture>
+      <picture>https://lh3.googleusercontent.com/d/17qloaB4DvoBQUNaTfagJr-886fKpjILT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EjFjzrYWGDpsYEVDNFQsW7_o_cSqLO6A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l2y4qtmUil7Zyp2EPTwkkGGborwMd1J2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01047</param>
+      <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
     </offer>
     <offer id="S3728" available="true">
       <categoryId>37</categoryId>
