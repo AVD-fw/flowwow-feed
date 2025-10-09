@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T07:59:39.898+03:00">
+<yml_catalog date="2025-10-09T08:02:28.734+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>rosanas</company>
@@ -8,6 +8,21 @@
       <category id="1">Монобукеты</category>
     </categories>
     <offers>
+    <offer id="B2C_S11307" available="true">
+      <name>Хризантема кустовая Катинка Сальмон 5 шт 70 см Арт. S11307</name>
+      <categoryId>1</categoryId>
+      <price>525</price>
+      <picture>https://lh3.googleusercontent.com/d/1L7Q7yhOIkWm53E1ipzVmdD9IjY3oXctg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BD1rfl5kPPtPR55pAP0x0ID8MMfMeLN1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pdPXDPlwZqf_uMuNyXYBob_r1QCueKYO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">S11307</param>
+      <consist name="Хризантема кустовая Катинка Сальмон" unit="шт">5</consist>
+    </offer>
     <offer id="B2C_S03547" available="true">
       <name>Антирринум 9 шт Розовый 70 см Арт. S03547</name>
       <categoryId>1</categoryId>
@@ -23,69 +38,65 @@
       <param name="Артикул">S03547</param>
       <consist name="Антирринум" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_S7277" available="true">
-      <name>Антирринум 9 шт Желтый 70 см Арт. S7277</name>
+    <offer id="B2C_S11027" available="true">
+      <name>Гвоздика одноголовая Йеллоустоун 25 шт 70 см Арт. S11027</name>
       <categoryId>1</categoryId>
-      <price>1355</price>
-      <picture>https://lh3.googleusercontent.com/d/1kLEyUMwAD2MsE0o1IMsy9Rw8FZJSNgir</picture>
+      <price>2985</price>
+      <picture>https://lh3.googleusercontent.com/d/1UZWG33YzqjtSlpdbI0cmICR9ce0ojPnl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UrABXo9v9JTK3DqEEQ4tc5V-XlHtKojh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Kk7N6LovVMcodibVZKOflRthCdlzS5Jj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">S11027</param>
+      <consist name="Гвоздика одноголовая Йеллоустоун" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_S11136" available="true">
+      <name>Гвоздика одноголовая Марафон 25 шт 60 см Арт. S11136</name>
+      <categoryId>1</categoryId>
+      <price>3000</price>
+      <picture>https://lh3.googleusercontent.com/d/1E058yInTFQG-Vj1rXtKGrpn6w0Ycx_-D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kR8z9VOTOaz2H4ui1kJ4x3IuGE4m2Lps</picture>
+      <picture>https://lh3.googleusercontent.com/d/12W6syW00qhubBpJM4FPxpRttqASn1-qM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">S11136</param>
+      <consist name="Гвоздика одноголовая Марафон" unit="шт">25</consist>
+    </offer>
+    <offer id="B2C_S01047" available="true">
+      <name>Кампанула Перл Пинк 9 шт 70 см Арт. S01047</name>
+      <categoryId>1</categoryId>
+      <price>1090</price>
+      <picture>https://lh3.googleusercontent.com/d/1uNYI1U2MwCkHwCWhbznAnCVyPb4JE5lG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w4KKUHXN8xSc0dq__Xbu8T1P0gqzm5Jw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JFA5RWFPDn-iZnCfxmFGwfbWPC1yoxYR</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">S7277</param>
-      <consist name="Антирринум" unit="шт">9</consist>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie B.V.</param>
+      <param name="Артикул">S01047</param>
+      <consist name="Кампанула Перл Пинк" unit="шт">9</consist>
     </offer>
-    <offer id="B2C_S02416" available="true">
-      <name>Георгин 9 шт Розовый 60 см Арт. S02416</name>
+    <offer id="B2C_S8267" available="true">
+      <name>Эустома Алиса Лайт Пинк 9 шт 70 см Арт. S8267</name>
       <categoryId>1</categoryId>
-      <price>1100</price>
-      <picture>https://lh3.googleusercontent.com/d/1W8o9qBbVtnu4jfGDEtsFZCB6AyC4u7rz</picture>
+      <price>1895</price>
+      <picture>https://lh3.googleusercontent.com/d/1Jhwji4euoXkscS2db93cnF4Cz_PkKmZ7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-S4bLYE0YYhQcTEFJHOiHgRaPqCHsdEQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1872gPWh-mhljQWJCphx7d-_t9AmtHHWY</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
+      <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">S02416</param>
-      <consist name="Георгин" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_S03486" available="true">
-      <name>Эустома 9 шт Белый 60 см Арт. S03486</name>
-      <categoryId>1</categoryId>
-      <price>19990</price>
-      <picture>https://lh3.googleusercontent.com/d/1mPro5UBDovDwyxyQeJtOB-PmMNSLnaJ_</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">S03486</param>
-      <consist name="Эустома" unit="шт">9</consist>
-    </offer>
-    <offer id="B2C_S03646" available="true">
-      <name>Перчик 1 шт Зеленый 60 см Арт. S03646</name>
-      <categoryId>1</categoryId>
-      <price>850</price>
-      <picture>https://lh3.googleusercontent.com/d/1A_otlYFJhGXhg3qxzR8py9XOiHrC5UfG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">S03646</param>
-      <consist name="Перчик" unit="шт">1</consist>
-    </offer>
-    <offer id="B2C_S03479" available="true">
-      <name>Пироканта 1 шт Оранжевый 99 см Арт. S03479</name>
-      <categoryId>1</categoryId>
-      <price>1080</price>
-      <picture>https://lh3.googleusercontent.com/d/1Lb_jxTGYs4eJ4NvrTKSRduVv8QDWkWja</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">99</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Краснодар</param>
-      <param name="Артикул">S03479</param>
-      <consist name="Пироканта" unit="шт">1</consist>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">S8267</param>
+      <consist name="Эустома Алиса Лайт Пинк" unit="шт">9</consist>
     </offer>
     </offers>
   </shop>
