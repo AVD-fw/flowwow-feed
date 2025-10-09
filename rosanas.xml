@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T10:08:25.327+03:00">
+<yml_catalog date="2025-10-09T10:18:50.745+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -168,7 +168,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Беларусь 50 см Арт. S8215</name>
       <price>253</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VPwQdQuDB81h5LdMbbTq0J3PJ-gkVqM7</picture>
       <picture>https://lh3.googleusercontent.com/d/1mhyLgvIQHhbNH1L400d1zoYql9IwseHv</picture>
@@ -186,7 +186,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Лавли Лидия 40 см Арт. S11724</name>
       <price>143</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Y4MRRIcyls9ZqxJQmI0oRDbVeNX-27Af</picture>
       <picture>https://lh3.googleusercontent.com/d/1sF_4JNHW4-Bf7iaBnAG07XontueHqFes</picture>
@@ -219,7 +219,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Эксклюзив Сенсейшн 40 см Арт. S11714</name>
       <price>143</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-DkZHMF5orEBhtwVJVpixniPDN-_N9Op</picture>
       <picture>https://lh3.googleusercontent.com/d/1JxkE9EOSEC0ijTZIE4zPb2nK-c3Mg_su</picture>
@@ -296,6 +296,23 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S02025</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="S6556" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Микс Кремовые 60 см Арт. S6556</name>
+      <price>274</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ct08SHZ5QXKyHJek6182HqE4U0B7beiV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qhveuOvzAE5gkQs6HND-rrt3evk0sz5R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mvLvcTOLSKQG8NASkGMlBykfqFccawEh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EzkH4kPTmZtzZF9ag5mZ8y2mg4ihnrhJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S6556</param>
+      <consist name="Роза кустовая пионовидная Микс Кремовые" unit="шт">5</consist>
     </offer>
     <offer id="S4915" available="true">
       <categoryId>4</categoryId>
