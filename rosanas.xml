@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T08:23:36.297+03:00">
+<yml_catalog date="2025-10-09T08:27:19.107+03:00">
   <shop>
-    <name>ROSANA`S FLOWERS</name>
+    <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
     <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <categories>
@@ -650,6 +650,19 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">S12144</param>
       <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="S12124" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный 40 см Арт. S12124</name>
+      <price>115</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ubKsXiYkz63jEDyMCBPC5v5z7ilLYY1h</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">S12124</param>
+      <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
     <offer id="S03377" available="true">
       <categoryId>37</categoryId>
