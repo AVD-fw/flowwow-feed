@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T09:59:49.303+03:00">
+<yml_catalog date="2025-10-09T10:19:47.663+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -38,6 +38,21 @@
       <param name="Артикул">S01695</param>
       <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
     </offer>
+    <offer id="B2C_S12287" available="true">
+      <name>Роза одноголовая Пич Авалаш 15 шт 70 см Арт. S12287</name>
+      <categoryId>1</categoryId>
+      <price>2465</price>
+      <picture>https://lh3.googleusercontent.com/d/1kl7mo__WOAwkIB2aHxZrO44IMADInh37</picture>
+      <picture>https://lh3.googleusercontent.com/d/14eDwHQ7oFQ5copJ3C5bSTJYlqVENOy67</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zvMRzA-mQESIBUNfD52f_EOIJdE_gK7B</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12287</param>
+      <consist name="Роза одноголовая Пич Авалаш" unit="шт">15</consist>
+    </offer>
     <offer id="B2C_S7616" available="true">
       <name>Роза одноголовая Ред Наоми 20 шт 60 см Арт. S7616</name>
       <categoryId>1</categoryId>
@@ -52,6 +67,21 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S7616</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">20</consist>
+    </offer>
+    <offer id="B2C_S12187" available="true">
+      <name>Роза одноголовая Саида 15 шт 70 см Арт. S12187</name>
+      <categoryId>1</categoryId>
+      <price>1645</price>
+      <picture>https://lh3.googleusercontent.com/d/1sa5tGINqTyF8S0gsHhEJWdEkZjuSTAu_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p1OCwBtwtP-a7xqM7umncy31BwxOb_9n</picture>
+      <picture>https://lh3.googleusercontent.com/d/10YhBwfL9xaXgjSU_dhMpQRQKRheTn6Ao</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12187</param>
+      <consist name="Роза одноголовая Саида" unit="шт">15</consist>
     </offer>
     <offer id="B2C_S9787" available="true">
       <name>Роза одноголовая Свит Аваланж 15 шт 70 см Арт. S9787</name>
