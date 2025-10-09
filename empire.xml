@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T20:03:53.555+03:00">
+<yml_catalog date="2025-10-09T20:14:05.524+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. E2167</name>
       <price>150</price>
-      <qty>50</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XC8Dafv7LNunAbMvSbUOSY02g3FyxY5-</picture>
       <picture>https://lh3.googleusercontent.com/d/1KUcEou4Z9W6Mb-lhcsLKu5fTjawWKuDl</picture>
@@ -38,7 +38,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. E2177</name>
       <price>150</price>
-      <qty>90</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11kpx4lvw30XNDjweIMFkn70fir0OwlUw</picture>
       <picture>https://lh3.googleusercontent.com/d/1aYLRZuFrjuZPByxZ7bzoeft9i7k9vG0L</picture>
@@ -56,7 +56,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. E2447</name>
       <price>150</price>
-      <qty>70</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1tvfT5AyJBNQuaA9JRKqyPgyfIT5DLoqa</picture>
       <picture>https://lh3.googleusercontent.com/d/1_fHKTyV3N8MvBOtGKuKD9LWv56phZ0Pk</picture>
@@ -74,7 +74,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Момоко 70 см Арт. E3807</name>
       <price>150</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17p6LbWUznXxSktmO_Hy_IFYaqFGUjwki</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -88,7 +88,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 60 см Арт. E01286</name>
       <price>101</price>
-      <qty>50</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Bs24eiONArU1gSIxfWKBuY2FTHGkqLY3</picture>
       <picture>https://lh3.googleusercontent.com/d/1mY_NaxgTqvlxm_Vkpvq-MdJ9AmXVDegi</picture>
@@ -106,7 +106,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. E2866</name>
       <price>101</price>
-      <qty>60</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1azuW3BMqGmvNXkD1c9x1fzSw2t7bzQ4A</picture>
       <picture>https://lh3.googleusercontent.com/d/16fuuxrrAax6fOkB4rT_DqR1GILFU-5yb</picture>
@@ -122,7 +122,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Еллоу 70 см Арт. E2247</name>
       <price>80</price>
-      <qty>50</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1f0-N-gBOvMtD2y2EoKCpw7ncoPOMUfAg</picture>
       <picture>https://lh3.googleusercontent.com/d/1ptuTAipK6Mx1MGpQcCalLwviybOx5EYP</picture>
@@ -140,7 +140,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Пинк 60 см Арт. E00946</name>
       <price>80</price>
-      <qty>30</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gtzG1nbs7ZBWZAM-Iw5fkkPHyQfK6YgJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1nsLCnGKE5OkUDtGgQ97NDNNnHbt5jsRl</picture>
@@ -155,7 +155,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Пинк 60 см Арт. E2996</name>
       <price>75</price>
-      <qty>70</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TDY3CB2QGLlZfNbiWddAQIYc93ycfsS7</picture>
       <picture>https://lh3.googleusercontent.com/d/188qfV_UIm7RIr30Axl1qLi_fRK9eTXrq</picture>
@@ -166,26 +166,11 @@
       <param name="Артикул">E2996</param>
       <consist name="Хризантема кустовая Бакарди Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="E00956" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Бакарди Ред 60 см Арт. E00956</name>
-      <price>80</price>
-      <qty>60</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Ec0O0t_b-YrUZmuUWufQz6tnaZlLlvRC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1odlAxr1boSpn9l3pZy23G2_M5SvqsiXQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sen Zaro</param>
-      <param name="Артикул">E00956</param>
-      <consist name="Хризантема кустовая Бакарди Ред" unit="шт">5</consist>
-    </offer>
     <offer id="E2227" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. E2227</name>
       <price>85</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18tpU4zo3v-UIEINce61BzCJXjpikJi7a</picture>
       <picture>https://lh3.googleusercontent.com/d/1MsWQBRY6X7x99537ZGKrSDS4srTJ2cYL</picture>
@@ -201,7 +186,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Ньютон 60 см Арт. E00886</name>
       <price>80</price>
-      <qty>25</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uEaWEwYuLJICAGIyD1qmJo6MTOAY3URC</picture>
       <picture>https://lh3.googleusercontent.com/d/13hHNAnbR94-7Y6IMX0zxLwfOzmcZSg3M</picture>
@@ -212,11 +197,26 @@
       <param name="Артикул">E00886</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
+    <offer id="E00956" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Руби Стар 60 см Арт. E00956</name>
+      <price>80</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ec0O0t_b-YrUZmuUWufQz6tnaZlLlvRC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1odlAxr1boSpn9l3pZy23G2_M5SvqsiXQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sen Zaro</param>
+      <param name="Артикул">E00956</param>
+      <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
+    </offer>
     <offer id="E01005" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Фиолетовый 50 см Арт. E01005</name>
       <price>75</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sj5pC0B9sGq-zI24IFMH3pf6ZxLpuYFY</picture>
       <picture>https://lh3.googleusercontent.com/d/1jb5ThubOzQQu7jyJ2kuvlvmpHRY9rsP8</picture>
@@ -234,7 +234,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Пеп Талк 50 см Арт. E00985</name>
       <price>75</price>
-      <qty>75</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-oQeclhPhGLfwXFpLlLDoNGaYxT7w2Od</picture>
       <picture>https://lh3.googleusercontent.com/d/1uFlc0N-PMEeo377heZgK2BaIW4Zxfa6i</picture>
@@ -252,7 +252,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Пинк 60 см Арт. E00326</name>
       <price>75</price>
-      <qty>100</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BRwqNFBAg8Z8ZMfLVvNfILVS2KRdP9c2</picture>
       <picture>https://lh3.googleusercontent.com/d/1um7YgJWY6owCWK2ww5oG9vWgSj81V-QB</picture>
@@ -270,7 +270,7 @@
       <categoryId>37</categoryId>
       <name>Вероника Розовый 50 см Арт. E298</name>
       <price>76</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kTBNNCgCUPXZ4PO4btvHUlsn5ZZftT9n</picture>
       <picture>https://lh3.googleusercontent.com/d/1dDNOifh-EVhql-qDSOtDs4mRqD10DBuK</picture>
@@ -286,7 +286,7 @@
       <categoryId>37</categoryId>
       <name>Вероника Микс 50 см Арт. E268</name>
       <price>76</price>
-      <qty>75</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1FK_djuS6kgDQWEwh8S2mlxjGjmNO3VeL</picture>
       <picture>https://lh3.googleusercontent.com/d/11CwysMYboW0WeIf_yNOdgs0q1Of0LI9O</picture>
@@ -303,7 +303,7 @@
       <categoryId>37</categoryId>
       <name>Вероника кустовая Фиолетовый 40 см Арт. E2034</name>
       <price>76</price>
-      <qty>125</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xCmR0_StZ2kIFGEXTec8bOQ7gksfJHJH</picture>
       <picture>https://lh3.googleusercontent.com/d/1pBFqkAlUoM3gaHqlMm8ZSJzQD4ecHRYl</picture>
@@ -320,7 +320,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Радужный 70 см Арт. E00537</name>
       <price>78</price>
-      <qty>75</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dd8AK6ZKCHKTjWztlWCxDVTaZlM0-4QM</picture>
       <picture>https://lh3.googleusercontent.com/d/1T1Vvki_GEJvCCZsTLZef-nklKNhBOpJW</picture>
@@ -338,7 +338,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Краш. Светло-Розовая 70 см Арт. E01237</name>
       <price>78</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11YkrS3WdSd8aCLxURMLA2Rm9vH3EX2jT</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
@@ -352,7 +352,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Ярко розовая 70 см Арт. E3397</name>
       <price>78</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zVv0WcyShiJDlO5WoKhQQZZnfq5a1t76</picture>
       <picture>https://lh3.googleusercontent.com/d/1YgveQWLeTDeS4wgdQT5Gg5LL53wf4WDx</picture>
@@ -368,7 +368,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Касабланка 50 см Арт. E00425</name>
       <price>64</price>
-      <qty>200</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1tWPEvizGAQM9a_UVmW2BODf4EY2FlsxC</picture>
       <picture>https://lh3.googleusercontent.com/d/1CV_CFJ-aldsf1vtbydJ3PniWXcu_pzGS</picture>
@@ -386,7 +386,7 @@
       <categoryId>37</categoryId>
       <name>Калла Розовый 60 см Арт. E2396</name>
       <price>200</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10NFtHqR_ceWokr-Ggh0Vp6MgXz9dt5FI</picture>
       <picture>https://lh3.googleusercontent.com/d/1hK3uMqahdEvgcKnSwkcdLU9XmVzddtej</picture>
@@ -402,7 +402,7 @@
       <categoryId>37</categoryId>
       <name>Леукоспермум Оранжевый 40 см Арт. E3704</name>
       <price>120</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Bi8R1gpB1Tp3HwLA2yGO2eVi4o4BEmhn</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -416,7 +416,7 @@
       <categoryId>37</categoryId>
       <name>Протея Белый 50 см Арт. E2465</name>
       <price>560</price>
-      <qty>3</qty>
+      <qty>1</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zQ9DLz1azzIW2N1c_L5WNsOCGikRExTJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1g6rzvIwyPfhdUaEjvbFkqLdzbIXxZgX3</picture>
@@ -433,7 +433,7 @@
       <categoryId>37</categoryId>
       <name>Статица Лиловый 50 см Арт. E01185</name>
       <price>120</price>
-      <qty>150</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UBx8s8PlLn18eDZJL3ImU5_U4kXU-c0q</picture>
       <picture>https://lh3.googleusercontent.com/d/1c0qEFhCxySnWbMjCar1YovZi4ZGGEWuF</picture>
@@ -450,7 +450,7 @@
       <categoryId>37</categoryId>
       <name>Танацетум Белый 60 см Арт. E00306</name>
       <price>72</price>
-      <qty>375</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NTyUBV4kF6iYPNztd17rM4LZtJCMCifm</picture>
       <picture>https://lh3.googleusercontent.com/d/1-ZeejNbgtTNKhJABc1rVAdfx-jmnEEs-</picture>
@@ -468,7 +468,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Вайт 60 см Арт. E3416</name>
       <price>155</price>
-      <qty>50</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1B-t-pUF22EssZEcba9eO3CuD2psNQLj3</picture>
       <picture>https://lh3.googleusercontent.com/d/1kbRpMqskIfrGQ6CUVqimCO_G51XvwEpH</picture>
@@ -484,7 +484,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. E2506</name>
       <price>155</price>
-      <qty>110</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
       <picture>https://lh3.googleusercontent.com/d/1rypN2OXPzafDYoVO-pWV7VIc_ugLXmSG</picture>
@@ -502,7 +502,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. E3526</name>
       <price>155</price>
-      <qty>40</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vvviJ3sIQ3xZuWqybSCmuNtqM9XyWK6-</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ipl47kVj07IqPQLbBN5nE3G9nOtzsDqD</picture>
@@ -518,7 +518,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Корелли Лавандер 60 см Арт. E2496</name>
       <price>155</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/15rQXn2AXpfpiv5K-78P2KzocAdWef1CD</picture>
       <picture>https://lh3.googleusercontent.com/d/1IYG7ioVyrn6Qy1APsg4Mvr4D2yE1ln9T</picture>
@@ -534,7 +534,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Блу Пикот 70 см Арт. E00267</name>
       <price>155</price>
-      <qty>50</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19D0LDDR2q8BEThhXIFtO2WJ6mYYm81bP</picture>
       <picture>https://lh3.googleusercontent.com/d/17vECGxqb6528ej_xDzyWtK4mUd1jurBv</picture>
@@ -548,25 +548,11 @@
       <param name="Артикул">E00267</param>
       <consist name="Эустома Росита Блу Пикот" unit="шт">10</consist>
     </offer>
-    <offer id="E3926" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Росита Вайт 60 см Арт. E3926</name>
-      <price>155</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1PNYzKV8aabkiii_oz9fN32ER32fzYVkG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">E3926</param>
-      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
-    </offer>
     <offer id="E01205" available="true">
       <categoryId>38</categoryId>
       <name>Эрингиум Синий 50 см Арт. E01205</name>
       <price>155</price>
-      <qty>30</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1SdaxWk0pVvfZi1KfKV1UDDKhbAd0a5pB</picture>
       <picture>https://lh3.googleusercontent.com/d/1vqte7iVZX0-eIigrPcIOvIcHoyvPJO1t</picture>
