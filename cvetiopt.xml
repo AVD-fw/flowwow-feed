@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T08:30:56.752+03:00">
+<yml_catalog date="2025-10-09T08:40:52.050+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -260,6 +260,22 @@
       <param name="Артикул">Cp7345</param>
       <consist name="Хризантема Сантини Ферри" unit="шт">25</consist>
     </offer>
+    <offer id="Cp04475" available="true">
+      <categoryId>37</categoryId>
+      <name>Ананас Мини Бордовый 50 см Арт. Cp04475</name>
+      <price>303</price>
+      <qty>8</qty>
+      <quantity_in_package>8</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1I627cjhqOl2-YxwI5Zc2z4E0tM8j7vEQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ld-kA7FlxlOQhRn7KfI1WHmyqlJoJDPw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SV2gp6dJbHBbbBbyQnRK9S-eOOhSiFyk</picture>
+      <picture>https://lh3.googleusercontent.com/d/198mbR3oPt8-0h4raEKI83xAybhKkyc0o</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 8 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp04475</param>
+      <consist name="Ананас Мини" unit="шт">8</consist>
+    </offer>
     <offer id="Cp11326" available="true">
       <categoryId>37</categoryId>
       <name>Антирринум Желтый 60 см Арт. Cp11326</name>
@@ -294,6 +310,24 @@
       <param name="Артикул">Cp11336</param>
       <consist name="Антирринум" unit="шт">10</consist>
     </offer>
+    <offer id="Cp9685" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Глория Местизо 50 см Арт. Cp9685</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1m4La1ohPSeGz86VNqEt-EEZW4X6S6jHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ACkP72rP-n362L-qW5m6F_CUp7ru8KGO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_IP5bgk7M9uXjr9ytym153gD3s-l6-nN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uuBZs9ceOgBwIYo1COwlbgbIHyXubQcr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t69d16-D8R7i4xMSqeg3_VH_Y2VHJEwG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp9685</param>
+      <consist name="Гвоздика кустовая Глория Местизо" unit="шт">10</consist>
+    </offer>
     <offer id="Cp03105" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Джианна 50 см Арт. Cp03105</name>
@@ -311,6 +345,24 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Cp03105</param>
       <consist name="Гвоздика кустовая Джианна" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp01635" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Нимбус 50 см Арт. Cp01635</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RkFjJUErr58be0yW9f8R2mOFjgG9yvTD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W7N0Wi_3wi8u3qkywXvXh6D2BtksIYzg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E04bp0Q4D37HLEe50eXmEItuqgAP0h54</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P6sM9R8r_ZK4R49pAIsXb2mkO7dm5H1j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nlvvdXh_k91Fi-wVW6NRAJcmKUuzgiD2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp01635</param>
+      <consist name="Гвоздика кустовая Нимбус" unit="шт">10</consist>
     </offer>
     <offer id="Cp9665" available="true">
       <categoryId>37</categoryId>
@@ -401,6 +453,24 @@
       <param name="Производитель">Geeflora</param>
       <param name="Артикул">Cp11017</param>
       <consist name="Гвоздика одноголовая Каори" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp03137" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Клеар Вотер 70 см Арт. Cp03137</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jMelHHXcLOBiIAGs-Ize9C68YeuVSqjV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DsIiFw-ZfHLUumRwyOCXQcxt80fBYD75</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qKlOXxZLNkQyN7bpi5UDNXqx-1WV9_eM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mu6kV5xXn9GhDmNF7nVCBcYPtz2gQ6kT</picture>
+      <picture>https://lh3.googleusercontent.com/d/13mYdiO_fYQ2tiULah-s7awxBNO1pn_Zg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp03137</param>
+      <consist name="Гвоздика одноголовая Клеар Вотер" unit="шт">25</consist>
     </offer>
     <offer id="Cp9737" available="true">
       <categoryId>37</categoryId>
@@ -564,6 +634,58 @@
       <param name="Артикул">Cp9537</param>
       <consist name="Дельфиниум" unit="шт">10</consist>
     </offer>
+    <offer id="Cp0451" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Белый 50 см Арт. Cp0451</name>
+      <price>182</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18APboqvoE1pL2cTRq1NBpZ7FlsWlVZa2</picture>
+      <picture>https://lh3.googleusercontent.com/d/17PdX2w7pnAf981VeaDzPLgo1uD9ROOiG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yHtUDo1YfO38e1HKZf_jDvtkkum-r-xQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/11pf08ioEqtH30pJff3fb5lvdT2sgo9rc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j0E_m7b5AKAQKQY909gm07qCYp_AZD6y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp0451</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp0453" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Желтый 50 см Арт. Cp0453</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ghyx5QmZbZ8x-slvzsbxVIXLYt3tK7I-</picture>
+      <picture>https://lh3.googleusercontent.com/d/10a9392bWmX3ezgj4e8yLyQQmuZkDjtwA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vIvNwnjOpqlMnPEVGkP15mSJWV1ho1mB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lpjrz4awTA62kWftMH_76LI78ao_W_wa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uj8pp7kqVpG0lqSc-nkVsx9LzZa9Qaqy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Cp0453</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp1007" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла 50 см Арт. Cp1007</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nSZjLmMoFPhLShNfyhuwt7soyU1W4vbY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CIc8HJ6rWgUM-7Rmxmd-lf_jxtJA1cpm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XI1AWt8-NWq7QFIaPzfL94IlbH6cS9ME</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k14pCpgcfr0roRg_L_J7iNrVybDE_lML</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uA2UbYpuPxFDkOc-sX26dfjHeP1sTzpW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp1007</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
     <offer id="Cp00726" available="true">
       <categoryId>37</categoryId>
       <name>Пион Сара Бернар 60 см Арт. Cp00726</name>
@@ -580,6 +702,57 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp00726</param>
       <consist name="Пион Сара Бернар" unit="шт">20</consist>
+    </offer>
+    <offer id="Cp9624" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Дубль прайс 40 см Арт. Cp9624</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Z1tnfYYZG7gj1TCQvSX9oabrLQ4Veh8u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UdtqS4S3msnTfM7t39C8bNGF1q0HNZP4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YIdo7s8lRbQBR3zBNwKyK-4WRKEtpSdR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bavZLoR6XiW77rCG5d9OrjrADiv16DkU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d0W7UM2WUYdXQ8rya-x5mP3VptgzdqaO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp9624</param>
+      <consist name="Тюльпан Дубль прайс" unit="шт">50</consist>
+    </offer>
+    <offer id="Cp04784" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Колумбус 40 см Арт. Cp04784</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sYzOehOnkTjpPk1cROuWDhOQyKe-6OAf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N83YJQsBPmQfho4p82lG3kN4oZG9RZRZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rYyFqYDfAm-1auNxC2w5e6N6KWqt0SI1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LDf5_cMk7bcQG1UsrLqZ2kC0lZ90MBb1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fhywUWKQwEdP6qRavT6Rc0K9vC2bbVOf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp04784</param>
+      <consist name="Тюльпан Колумбус" unit="шт">50</consist>
+    </offer>
+    <offer id="Cp9614" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Фёст класс 40 см Арт. Cp9614</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hjDFqMa8g6FqL-WVkD3XYdZWMIbZjCEA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wRMHcTNv4EIbz2th8V6juJ59nctJTp2F</picture>
+      <picture>https://lh3.googleusercontent.com/d/17w9ClAJant6-3mZ4QoAOqTkUozEAGmLr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-8c2hXyrpC-zb6qZDc8sNlpa2YJZJ78G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XDOZbUX5uDeq2yigSKhQl_3PhxggRcOR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp9614</param>
+      <consist name="Тюльпан Фёст класс" unit="шт">50</consist>
     </offer>
     <offer id="Cp5736" available="true">
       <categoryId>37</categoryId>
