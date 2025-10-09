@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T07:02:30.801+03:00">
+<yml_catalog date="2025-10-09T07:05:31.382+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -69,6 +69,20 @@
       <param name="Производитель">Vannova</param>
       <param name="Артикул">E2447</param>
       <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
+    </offer>
+    <offer id="E3807" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Момоко 70 см Арт. E3807</name>
+      <price>150</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17p6LbWUznXxSktmO_Hy_IFYaqFGUjwki</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">E3807</param>
+      <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
     </offer>
     <offer id="E2996" available="true">
       <categoryId>6</categoryId>
@@ -399,6 +413,20 @@
       <param name="Производитель">Kallaland</param>
       <param name="Артикул">E2396</param>
       <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="E3704" available="true">
+      <categoryId>37</categoryId>
+      <name>Леукоспермум Оранжевый 40 см Арт. E3704</name>
+      <price>120</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Bi8R1gpB1Tp3HwLA2yGO2eVi4o4BEmhn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">African Wildflowers</param>
+      <param name="Артикул">E3704</param>
+      <consist name="Леукоспермум" unit="шт">5</consist>
     </offer>
     <offer id="E2465" available="true">
       <categoryId>37</categoryId>
