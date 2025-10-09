@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T09:48:47.275+03:00">
+<yml_catalog date="2025-10-09T09:58:27.867+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,20 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S12247" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аква 70 см Арт. S12247</name>
+      <price>96</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W2mvzYMzKMcVbb40R_vjptF4cuht5Yca</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12247</param>
+      <consist name="Роза одноголовая Аква" unit="шт">20</consist>
+    </offer>
     <offer id="S9496" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Зайна 60 см Арт. S9496</name>
@@ -159,7 +173,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Йо Йо 70 см Арт. S01817</name>
       <price>126</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11VYAkyLrnuBCW9vKOG1BRuFw-F37jyNZ</picture>
       <picture>https://lh3.googleusercontent.com/d/1C8S61z04N_Jlqg8Sc8RQDklNwXP8wbSz</picture>
@@ -192,7 +206,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Яна 40 см Арт. S7554</name>
       <price>178</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19KPcsI-s43bQ7IKRZcpgL_fUJLMB8Ea7</picture>
       <picture>https://lh3.googleusercontent.com/d/1x98JKepPOYk82MRg7Mht10EgC3QgqFf6</picture>
@@ -223,7 +237,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Корал Йо Йо 50 см Арт. S00465</name>
       <price>126</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1FJWMn3Z9cahYu2Zco1irNCTG5wxNEupm</picture>
       <picture>https://lh3.googleusercontent.com/d/1EE4tkGAaqy57Vs4ZBmrK5IAU1KiSQDnd</picture>
@@ -241,7 +255,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. S02025</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1G6orxDX849mnlwk6hT7dfoi8BEiba_mT</picture>
       <picture>https://lh3.googleusercontent.com/d/1dVCjFfnb8sZkv4U3JhpYBMB-qg_xoy7B</picture>
@@ -585,7 +599,7 @@
       <categoryId>37</categoryId>
       <name>Гидрангия Верена Блу 80 см Арт. S01628</name>
       <price>866</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Bc0QBRJHH9JGuDs0dAKJBJEAwunGYOHd</picture>
       <picture>https://lh3.googleusercontent.com/d/1wU8G-LxqPGn-NzGEhIFnz_4PnfJlBG2v</picture>
