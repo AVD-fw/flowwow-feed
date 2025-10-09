@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T05:37:22.178+03:00">
+<yml_catalog date="2025-10-09T05:45:31.828+03:00">
   <shop>
     <name>Рай цветов B2C</name>
     <company>raycvetov</company>
@@ -25,7 +25,7 @@ Ecuaroscanada
       <param name="Артикул">S00296</param>
       <consist name="Роза одноголовая Блю Blue" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01525" available="true">
+    <offer id="B2C_S01525" available="false">
       <name>Роза одноголовая Джумилия 15 шт 50 см Арт. S01525</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -42,7 +42,7 @@ Rose Art
       <param name="Артикул">S01525</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
     </offer>
-    <offer id="B2C_S01556" available="true">
+    <offer id="B2C_S01556" available="false">
       <name>Роза одноголовая Джумилия 15 шт 60 см Арт. S01556</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -59,7 +59,7 @@ Rose Art
       <param name="Артикул">S01556</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
     </offer>
-    <offer id="B2C_S00256" available="true">
+    <offer id="B2C_S00256" available="false">
       <name>Роза одноголовая Лучиано Luciano 25 шт 60 см Арт. S00256</name>
       <categoryId>1</categoryId>
       <price>3000</price>
@@ -76,7 +76,7 @@ Ecuaroscanada
       <param name="Артикул">S00256</param>
       <consist name="Роза одноголовая Лучиано Luciano" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00267" available="true">
+    <offer id="B2C_S00267" available="false">
       <name>Роза одноголовая Мандала Mandala 25 шт 70 см Арт. S00267</name>
       <categoryId>1</categoryId>
       <price>3250</price>
@@ -93,7 +93,7 @@ Ecuaroscanada
       <param name="Артикул">S00267</param>
       <consist name="Роза одноголовая Мандала Mandala" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01548" available="true">
+    <offer id="B2C_S01548" available="false">
       <name>Роза одноголовая Наелли Naeli 15 шт 80 см Арт. S01548</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -110,7 +110,7 @@ Rose Art
       <param name="Артикул">S01548</param>
       <consist name="Роза одноголовая Наелли Naeli" unit="шт">15</consist>
     </offer>
-    <offer id="B2C_S01515" available="true">
+    <offer id="B2C_S01515" available="false">
       <name>Роза одноголовая Нарине 15 шт 50 см Арт. S01515</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -127,7 +127,7 @@ Rose Art
       <param name="Артикул">S01515</param>
       <consist name="Роза одноголовая Нарине" unit="шт">15</consist>
     </offer>
-    <offer id="B2C_S00246" available="true">
+    <offer id="B2C_S00246" available="false">
       <name>Роза одноголовая Палома Paloma 25 шт 60 см Арт. S00246</name>
       <categoryId>1</categoryId>
       <price>3000</price>
@@ -144,7 +144,7 @@ Terra Nostra
       <param name="Артикул">S00246</param>
       <consist name="Роза одноголовая Палома Paloma" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01567" available="true">
+    <offer id="B2C_S01567" available="false">
       <name>Роза одноголовая Ред Наоми Red Naomi 15 шт 70 см Арт. S01567</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -161,7 +161,7 @@ Rose Art
       <param name="Артикул">S01567</param>
       <consist name="Роза одноголовая Ред Наоми Red Naomi" unit="шт">15</consist>
     </offer>
-    <offer id="B2C_S00276" available="true">
+    <offer id="B2C_S00276" available="false">
       <name>Роза одноголовая Шиммер Shimmer 25 шт 60 см Арт. S00276</name>
       <categoryId>1</categoryId>
       <price>3000</price>
@@ -178,7 +178,7 @@ Ecuaroscanada
       <param name="Артикул">S00276</param>
       <consist name="Роза одноголовая Шиммер Shimmer" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00286" available="true">
+    <offer id="B2C_S00286" available="false">
       <name>Роза одноголовая Эксплорер Explorer 25 шт 60 см Арт. S00286</name>
       <categoryId>1</categoryId>
       <price>3000</price>
@@ -195,7 +195,7 @@ Ecuaroscanada
       <param name="Артикул">S00286</param>
       <consist name="Роза одноголовая Эксплорер Explorer" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00306" available="true">
+    <offer id="B2C_S00306" available="false">
       <name>Роза одноголовая пионовидная Кантри Хоум 25 шт 60 см Арт. S00306</name>
       <categoryId>1</categoryId>
       <price>3000</price>
@@ -212,7 +212,7 @@ Kamyla Flowers
       <param name="Артикул">S00306</param>
       <consist name="Роза одноголовая пионовидная Кантри Хоум" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00317" available="true">
+    <offer id="B2C_S00317" available="false">
       <name>Роза одноголовая пионовидная Кахала 25 шт 70 см Арт. S00317</name>
       <categoryId>1</categoryId>
       <price>3250</price>
@@ -229,7 +229,7 @@ Ecuaroscanada
       <param name="Артикул">S00317</param>
       <consist name="Роза одноголовая пионовидная Кахала" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00336" available="true">
+    <offer id="B2C_S00336" available="false">
       <name>Роза одноголовая пионовидная Лемонаде Lemonade 25 шт 60 см Арт. S00336</name>
       <categoryId>1</categoryId>
       <price>3000</price>
@@ -246,7 +246,7 @@ Ecuaroscanada
       <param name="Артикул">S00336</param>
       <consist name="Роза одноголовая пионовидная Лемонаде Lemonade" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00326" available="true">
+    <offer id="B2C_S00326" available="false">
       <name>Роза одноголовая пионовидная Принцесс Princess 25 шт 60 см Арт. S00326</name>
       <categoryId>1</categoryId>
       <price>3750</price>
@@ -263,7 +263,7 @@ Terra Nostra
       <param name="Артикул">S00326</param>
       <consist name="Роза одноголовая пионовидная Принцесс Princess" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01579" available="true">
+    <offer id="B2C_S01579" available="false">
       <name>Роза кустовая Саммер Денс Summer Dance 10 шт 90 см Арт. S01579</name>
       <categoryId>1</categoryId>
       <price>1400</price>
@@ -280,7 +280,7 @@ Rose Art
       <param name="Артикул">S01579</param>
       <consist name="Роза кустовая Саммер Денс Summer Dance" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00687" available="true">
+    <offer id="B2C_S00687" available="false">
       <name>Хризантема одноголовая 10 шт Желтый 70 см Арт. S00687</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -296,7 +296,7 @@ VannoVa
       <param name="Артикул">S00687</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00697" available="true">
+    <offer id="B2C_S00697" available="false">
       <name>Хризантема одноголовая 10 шт Белый 70 см Арт. S00697</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -312,7 +312,7 @@ Decorum
       <param name="Артикул">S00697</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00707" available="true">
+    <offer id="B2C_S00707" available="false">
       <name>Хризантема одноголовая 10 шт Фуксия 70 см Арт. S00707</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -328,7 +328,7 @@ Decorum
       <param name="Артикул">S00707</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00717" available="true">
+    <offer id="B2C_S00717" available="false">
       <name>Хризантема одноголовая 10 шт Белый 70 см Арт. S00717</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -344,7 +344,7 @@ Decorum
       <param name="Артикул">S00717</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00727" available="true">
+    <offer id="B2C_S00727" available="false">
       <name>Хризантема одноголовая 10 шт Розовый 70 см Арт. S00727</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -360,7 +360,7 @@ Decorum
       <param name="Артикул">S00727</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00867" available="true">
+    <offer id="B2C_S00867" available="false">
       <name>Хризантема одноголовая 10 шт Фиолетовый 70 см Арт. S00867</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -376,7 +376,7 @@ Decorum
       <param name="Артикул">S00867</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00877" available="true">
+    <offer id="B2C_S00877" available="false">
       <name>Хризантема одноголовая 10 шт Розовый 70 см Арт. S00877</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -389,7 +389,7 @@ Decorum
       <param name="Артикул">S00877</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00887" available="true">
+    <offer id="B2C_S00887" available="false">
       <name>Хризантема одноголовая 10 шт Коричневый 70 см Арт. S00887</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -402,7 +402,7 @@ Decorum
       <param name="Артикул">S00887</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00907" available="true">
+    <offer id="B2C_S00907" available="false">
       <name>Хризантема одноголовая 10 шт Розовый 70 см Арт. S00907</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -415,7 +415,7 @@ Decorum
       <param name="Артикул">S00907</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00917" available="true">
+    <offer id="B2C_S00917" available="false">
       <name>Хризантема одноголовая 10 шт Розовый 70 см Арт. S00917</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -428,7 +428,7 @@ Decorum
       <param name="Артикул">S00917</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00927" available="true">
+    <offer id="B2C_S00927" available="false">
       <name>Хризантема одноголовая 10 шт Розовый 70 см Арт. S00927</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -444,7 +444,7 @@ Decorum
       <param name="Артикул">S00927</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00897" available="true">
+    <offer id="B2C_S00897" available="false">
       <name>Хризантема одноголовая Плейтайм Playtime 10 шт 70 см Арт. S00897</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -461,7 +461,7 @@ Zentoo
       <param name="Артикул">S00897</param>
       <consist name="Хризантема одноголовая Плейтайм Playtime" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00596" available="true">
+    <offer id="B2C_S00596" available="false">
       <name>Хризантема кустовая 5 шт Розовый 60 см Арт. S00596</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -477,7 +477,7 @@ Zentoo
       <param name="Артикул">S00596</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00626" available="true">
+    <offer id="B2C_S00626" available="false">
       <name>Хризантема кустовая 5 шт Сиреневый 60 см Арт. S00626</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -493,7 +493,7 @@ Decorum
       <param name="Артикул">S00626</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00666" available="true">
+    <offer id="B2C_S00666" available="false">
       <name>Хризантема кустовая 5 шт Розовый 60 см Арт. S00666</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -509,7 +509,7 @@ Decorum
       <param name="Артикул">S00666</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00776" available="true">
+    <offer id="B2C_S00776" available="false">
       <name>Хризантема кустовая 5 шт Розовый 60 см Арт. S00776</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -525,7 +525,7 @@ VannoVa
       <param name="Артикул">S00776</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00786" available="true">
+    <offer id="B2C_S00786" available="false">
       <name>Хризантема кустовая 5 шт Розовый 60 см Арт. S00786</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -541,7 +541,7 @@ VannoVa
       <param name="Артикул">S00786</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00826" available="true">
+    <offer id="B2C_S00826" available="false">
       <name>Хризантема кустовая 10 шт Сиреневый 60 см Арт. S00826</name>
       <categoryId>1</categoryId>
       <price>1100</price>
@@ -557,7 +557,7 @@ Decorum
       <param name="Артикул">S00826</param>
       <consist name="Хризантема кустовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00506" available="true">
+    <offer id="B2C_S00506" available="false">
       <name>Хризантема кустовая Бакарди Пинк 5 шт 60 см Арт. S00506</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -574,7 +574,7 @@ Decorum
       <param name="Артикул">S00506</param>
       <consist name="Хризантема кустовая Бакарди Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00616" available="true">
+    <offer id="B2C_S00616" available="false">
       <name>Хризантема кустовая Балтика 5 шт 60 см Арт. S00616</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -591,7 +591,7 @@ VannoVa
       <param name="Артикул">S00616</param>
       <consist name="Хризантема кустовая Балтика" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00466" available="true">
+    <offer id="B2C_S00466" available="false">
       <name>Хризантема кустовая Балтика жёлтая 5 шт 60 см Арт. S00466</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -608,7 +608,7 @@ Zentoo
       <param name="Артикул">S00466</param>
       <consist name="Хризантема кустовая Балтика жёлтая" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00646" available="true">
+    <offer id="B2C_S00646" available="false">
       <name>Хризантема кустовая Балтика Жёлтая Baltica Yellow 5 шт 60 см Арт. S00646</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -625,7 +625,7 @@ VannoVa
       <param name="Артикул">S00646</param>
       <consist name="Хризантема кустовая Балтика Жёлтая Baltica Yellow" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00546" available="true">
+    <offer id="B2C_S00546" available="false">
       <name>Хризантема кустовая Балтика Крем Baltica crem 5 шт 60 см Арт. S00546</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -642,7 +642,7 @@ Zentoo
       <param name="Артикул">S00546</param>
       <consist name="Хризантема кустовая Балтика Крем Baltica crem" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00496" available="true">
+    <offer id="B2C_S00496" available="false">
       <name>Хризантема кустовая Балтика Пинк 5 шт 60 см Арт. S00496</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -657,7 +657,7 @@ Zentoo
       <param name="Артикул">S00496</param>
       <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00656" available="true">
+    <offer id="B2C_S00656" available="false">
       <name>Хризантема кустовая Делигрин Deligreen 5 шт 60 см Арт. S00656</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -674,7 +674,7 @@ Zentoo
       <param name="Артикул">S00656</param>
       <consist name="Хризантема кустовая Делигрин Deligreen" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00636" available="true">
+    <offer id="B2C_S00636" available="false">
       <name>Хризантема кустовая Катинка Салмон Katinka Salmon 5 шт 60 см Арт. S00636</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -691,7 +691,7 @@ Zentoo
       <param name="Артикул">S00636</param>
       <consist name="Хризантема кустовая Катинка Салмон Katinka Salmon" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00436" available="true">
+    <offer id="B2C_S00436" available="false">
       <name>Хризантема кустовая Кеннеди 5 шт 60 см Арт. S00436</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -708,7 +708,7 @@ Samada flowers
       <param name="Артикул">S00436</param>
       <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00486" available="true">
+    <offer id="B2C_S00486" available="false">
       <name>Хризантема кустовая Кеннеди 5 шт 60 см Арт. S00486</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -725,7 +725,7 @@ VannoVa
       <param name="Артикул">S00486</param>
       <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00476" available="true">
+    <offer id="B2C_S00476" available="false">
       <name>Хризантема кустовая Корона 5 шт 60 см Арт. S00476</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -742,7 +742,7 @@ Zentoo
       <param name="Артикул">S00476</param>
       <consist name="Хризантема кустовая Корона" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00576" available="true">
+    <offer id="B2C_S00576" available="false">
       <name>Хризантема кустовая Летсго Пинк Letsgo Pink 5 шт 60 см Арт. S00576</name>
       <categoryId>1</categoryId>
       <price>650</price>
@@ -759,7 +759,7 @@ Zentoo
       <param name="Артикул">S00576</param>
       <consist name="Хризантема кустовая Летсго Пинк Letsgo Pink" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00606" available="true">
+    <offer id="B2C_S00606" available="false">
       <name>Хризантема кустовая Ньютон 5 шт 60 см Арт. S00606</name>
       <categoryId>1</categoryId>
       <price>650</price>
@@ -776,7 +776,7 @@ Zentoo
       <param name="Артикул">S00606</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00556" available="true">
+    <offer id="B2C_S00556" available="false">
       <name>Хризантема кустовая Пастела Пинк Pastela Pink 5 шт 60 см Арт. S00556</name>
       <categoryId>1</categoryId>
       <price>600</price>
@@ -793,7 +793,7 @@ Zentoo
       <param name="Артикул">S00556</param>
       <consist name="Хризантема кустовая Пастела Пинк Pastela Pink" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00456" available="true">
+    <offer id="B2C_S00456" available="false">
       <name>Хризантема кустовая Пастелла Роуз 5 шт 60 см Арт. S00456</name>
       <categoryId>1</categoryId>
       <price>600</price>
@@ -810,7 +810,7 @@ Zentoo
       <param name="Артикул">S00456</param>
       <consist name="Хризантема кустовая Пастелла Роуз" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00516" available="true">
+    <offer id="B2C_S00516" available="false">
       <name>Хризантема кустовая Перпл стар purple star 5 шт 60 см Арт. S00516</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -827,7 +827,7 @@ Zentoo
       <param name="Артикул">S00516</param>
       <consist name="Хризантема кустовая Перпл стар purple star" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00526" available="true">
+    <offer id="B2C_S00526" available="false">
       <name>Хризантема кустовая Рианна Rihanna 5 шт 60 см Арт. S00526</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -844,7 +844,7 @@ VannoVa
       <param name="Артикул">S00526</param>
       <consist name="Хризантема кустовая Рианна Rihanna" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00536" available="true">
+    <offer id="B2C_S00536" available="false">
       <name>Хризантема кустовая Руби стар Ruby star 5 шт 60 см Арт. S00536</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -861,7 +861,7 @@ Zentoo
       <param name="Артикул">S00536</param>
       <consist name="Хризантема кустовая Руби стар Ruby star" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00566" available="true">
+    <offer id="B2C_S00566" available="false">
       <name>Хризантема кустовая Селебрейт 5 шт 60 см Арт. S00566</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -878,7 +878,7 @@ Zentoo
       <param name="Артикул">S00566</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00446" available="true">
+    <offer id="B2C_S00446" available="false">
       <name>Хризантема кустовая Фабиенне 5 шт 60 см Арт. S00446</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -895,7 +895,7 @@ Zentoo
       <param name="Артикул">S00446</param>
       <consist name="Хризантема кустовая Фабиенне" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00676" available="true">
+    <offer id="B2C_S00676" available="false">
       <name>Хризантема кустовая Фабиенне Fabienne 5 шт 60 см Арт. S00676</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -912,7 +912,7 @@ Zentoo
       <param name="Артикул">S00676</param>
       <consist name="Хризантема кустовая Фабиенне Fabienne" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S00586" available="true">
+    <offer id="B2C_S00586" available="false">
       <name>Хризантема кустовая Чик  Chic 5 шт 60 см Арт. S00586</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -929,7 +929,7 @@ VannoVa
       <param name="Артикул">S00586</param>
       <consist name="Хризантема кустовая Чик  Chic" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S01005" available="true">
+    <offer id="B2C_S01005" available="false">
       <name>Хризантема Сантини Ауринко Aurinko 25 шт 50 см Арт. S01005</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -946,7 +946,7 @@ VannoVa
       <param name="Артикул">S01005</param>
       <consist name="Хризантема Сантини Ауринко Aurinko" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00965" available="true">
+    <offer id="B2C_S00965" available="false">
       <name>Хризантема Сантини Бабетте Babette 25 шт 50 см Арт. S00965</name>
       <categoryId>1</categoryId>
       <price>1625</price>
@@ -963,7 +963,7 @@ Zentoo
       <param name="Артикул">S00965</param>
       <consist name="Хризантема Сантини Бабетте Babette" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00945" available="true">
+    <offer id="B2C_S00945" available="false">
       <name>Хризантема Сантини Линди Вайт Lindi White 25 шт 50 см Арт. S00945</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -980,7 +980,7 @@ Madiba
       <param name="Артикул">S00945</param>
       <consist name="Хризантема Сантини Линди Вайт Lindi White" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00835" available="true">
+    <offer id="B2C_S00835" available="false">
       <name>Хризантема Сантини Микс 25 шт 50 см Арт. S00835</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -997,7 +997,7 @@ Zentoo
       <param name="Артикул">S00835</param>
       <consist name="Хризантема Сантини Микс" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00845" available="true">
+    <offer id="B2C_S00845" available="false">
       <name>Хризантема Сантини Микс 25 шт 50 см Арт. S00845</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1014,7 +1014,7 @@ Zentoo
       <param name="Артикул">S00845</param>
       <consist name="Хризантема Сантини Микс" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00855" available="true">
+    <offer id="B2C_S00855" available="false">
       <name>Хризантема Сантини Микс 25 шт 50 см Арт. S00855</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1031,7 +1031,7 @@ Zentoo
       <param name="Артикул">S00855</param>
       <consist name="Хризантема Сантини Микс" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00935" available="true">
+    <offer id="B2C_S00935" available="false">
       <name>Хризантема Сантини Пизарро Pizarro 25 шт 50 см Арт. S00935</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1048,7 +1048,7 @@ Zentoo
       <param name="Артикул">S00935</param>
       <consist name="Хризантема Сантини Пизарро Pizarro" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00995" available="true">
+    <offer id="B2C_S00995" available="false">
       <name>Хризантема Сантини Россини Вайт Rossi White 25 шт 50 см Арт. S00995</name>
       <categoryId>1</categoryId>
       <price>2000</price>
@@ -1065,7 +1065,7 @@ Zentoo
       <param name="Артикул">S00995</param>
       <consist name="Хризантема Сантини Россини Вайт Rossi White" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00985" available="true">
+    <offer id="B2C_S00985" available="false">
       <name>Хризантема Сантини Россини Пинк Rossi Pink 25 шт 50 см Арт. S00985</name>
       <categoryId>1</categoryId>
       <price>1750</price>
@@ -1082,7 +1082,7 @@ VannoVa
       <param name="Артикул">S00985</param>
       <consist name="Хризантема Сантини Россини Пинк Rossi Pink" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01025" available="true">
+    <offer id="B2C_S01025" available="false">
       <name>Хризантема Сантини Россини Салмон Rossi Salmon 25 шт 50 см Арт. S01025</name>
       <categoryId>1</categoryId>
       <price>1625</price>
@@ -1099,7 +1099,7 @@ VannoVa
       <param name="Артикул">S01025</param>
       <consist name="Хризантема Сантини Россини Салмон Rossi Salmon" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00975" available="true">
+    <offer id="B2C_S00975" available="false">
       <name>Хризантема Сантини Россини Сплендид Rossi Splendid 25 шт 50 см Арт. S00975</name>
       <categoryId>1</categoryId>
       <price>1750</price>
@@ -1116,7 +1116,7 @@ VannoVa
       <param name="Артикул">S00975</param>
       <consist name="Хризантема Сантини Россини Сплендид Rossi Splendid" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00736" available="true">
+    <offer id="B2C_S00736" available="false">
       <name>Хризантема Сантини Сан Ап 5 шт 60 см Арт. S00736</name>
       <categoryId>1</categoryId>
       <price>500</price>
@@ -1131,7 +1131,7 @@ VannoVa
       <param name="Артикул">S00736</param>
       <consist name="Хризантема Сантини Сан Ап" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S01015" available="true">
+    <offer id="B2C_S01015" available="false">
       <name>Хризантема Сантини Сантини Морадона Santini Maradona 25 шт 50 см Арт. S01015</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1148,7 +1148,7 @@ Funny Santini
       <param name="Артикул">S01015</param>
       <consist name="Хризантема Сантини Сантини Морадона Santini Maradona" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01035" available="true">
+    <offer id="B2C_S01035" available="false">
       <name>Хризантема Сантини Элисон Свит Ellison Sweet 25 шт 50 см Арт. S01035</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1165,7 +1165,7 @@ VannoVa
       <param name="Артикул">S01035</param>
       <consist name="Хризантема Сантини Элисон Свит Ellison Sweet" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00955" available="true">
+    <offer id="B2C_S00955" available="false">
       <name>Хризантема Сантини Sun Up 25 шт 50 см Арт. S00955</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1182,7 +1182,7 @@ Zentoo
       <param name="Артикул">S00955</param>
       <consist name="Хризантема Сантини Sun Up" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01495" available="true">
+    <offer id="B2C_S01495" available="false">
       <name>Амарант 1 шт Коричневый 50 см Арт. S01495</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -1213,7 +1213,7 @@ Terra Nostra
       <param name="Артикул">S00014</param>
       <consist name="Анемон" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00024" available="true">
+    <offer id="B2C_S00024" available="false">
       <name>Анемон 10 шт Красный 40 см Арт. S00024</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -1229,7 +1229,7 @@ Terra Nostra
       <param name="Артикул">S00024</param>
       <consist name="Анемон" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01485" available="true">
+    <offer id="B2C_S01485" available="false">
       <name>Антирринум 10 шт Белый 50 см Арт. S01485</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -1258,7 +1258,7 @@ Terra Nostra
       <param name="Артикул">S00036</param>
       <consist name="Антуриум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00046" available="true">
+    <offer id="B2C_S00046" available="false">
       <name>Антуриум 1 шт Бело-розовый 60 см Арт. S00046</name>
       <categoryId>1</categoryId>
       <price>430</price>
@@ -1272,7 +1272,7 @@ Terra Nostra
       <param name="Артикул">S00046</param>
       <consist name="Антуриум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00056" available="true">
+    <offer id="B2C_S00056" available="false">
       <name>Антуриум 1 шт Оранжевый 60 см Арт. S00056</name>
       <categoryId>1</categoryId>
       <price>430</price>
@@ -1286,7 +1286,7 @@ Terra Nostra
       <param name="Артикул">S00056</param>
       <consist name="Антуриум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00066" available="true">
+    <offer id="B2C_S00066" available="false">
       <name>Антуриум 1 шт Зелёный 60 см Арт. S00066</name>
       <categoryId>1</categoryId>
       <price>430</price>
@@ -1300,7 +1300,7 @@ Terra Nostra
       <param name="Артикул">S00066</param>
       <consist name="Антуриум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00076" available="true">
+    <offer id="B2C_S00076" available="false">
       <name>Антуриум 1 шт Розовый 60 см Арт. S00076</name>
       <categoryId>1</categoryId>
       <price>430</price>
@@ -1314,7 +1314,7 @@ Terra Nostra
       <param name="Артикул">S00076</param>
       <consist name="Антуриум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00086" available="true">
+    <offer id="B2C_S00086" available="false">
       <name>Антуриум 1 шт Нежно-розовый 60 см Арт. S00086</name>
       <categoryId>1</categoryId>
       <price>430</price>
@@ -1328,7 +1328,7 @@ Terra Nostra
       <param name="Артикул">S00086</param>
       <consist name="Антуриум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00094" available="true">
+    <offer id="B2C_S00094" available="false">
       <name>Астра 10 шт Белый 40 см Арт. S00094</name>
       <categoryId>1</categoryId>
       <price>800</price>
@@ -1342,7 +1342,7 @@ Terra Nostra
       <param name="Артикул">S00094</param>
       <consist name="Астра" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00104" available="true">
+    <offer id="B2C_S00104" available="false">
       <name>Астра 10 шт Фиолетовый 40 см Арт. S00104</name>
       <categoryId>1</categoryId>
       <price>800</price>
@@ -1356,7 +1356,7 @@ Terra Nostra
       <param name="Артикул">S00104</param>
       <consist name="Астра" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01315" available="true">
+    <offer id="B2C_S01315" available="false">
       <name>Бруния 10 шт Серый 50 см Арт. S01315</name>
       <categoryId>1</categoryId>
       <price>1300</price>
@@ -1370,7 +1370,7 @@ Terra Nostra
       <param name="Артикул">S01315</param>
       <consist name="Бруния" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00116" available="true">
+    <offer id="B2C_S00116" available="false">
       <name>Гвоздика кустовая 10 шт Розовый 60 см Арт. S00116</name>
       <categoryId>1</categoryId>
       <price>540</price>
@@ -1384,7 +1384,7 @@ Terra Nostra
       <param name="Артикул">S00116</param>
       <consist name="Гвоздика кустовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00125" available="true">
+    <offer id="B2C_S00125" available="false">
       <name>Гвоздика кустовая 10 шт Фиолетовый 50 см Арт. S00125</name>
       <categoryId>1</categoryId>
       <price>600</price>
@@ -1400,7 +1400,7 @@ Florigeni Suntory
       <param name="Артикул">S00125</param>
       <consist name="Гвоздика кустовая" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00135" available="true">
+    <offer id="B2C_S00135" available="false">
       <name>Гвоздика одноголовая 20 шт Зеленый 50 см Арт. S00135</name>
       <categoryId>1</categoryId>
       <price>900</price>
@@ -1414,7 +1414,7 @@ Florigeni Suntory
       <param name="Артикул">S00135</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00145" available="true">
+    <offer id="B2C_S00145" available="false">
       <name>Гвоздика одноголовая 20 шт Розовый 50 см Арт. S00145</name>
       <categoryId>1</categoryId>
       <price>900</price>
@@ -1428,7 +1428,7 @@ Florigeni Suntory
       <param name="Артикул">S00145</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00155" available="true">
+    <offer id="B2C_S00155" available="false">
       <name>Гвоздика одноголовая 20 шт Розовый 50 см Арт. S00155</name>
       <categoryId>1</categoryId>
       <price>900</price>
@@ -1442,7 +1442,7 @@ Florigeni Suntory
       <param name="Артикул">S00155</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00165" available="true">
+    <offer id="B2C_S00165" available="false">
       <name>Гвоздика одноголовая 20 шт Кремовый 50 см Арт. S00165</name>
       <categoryId>1</categoryId>
       <price>900</price>
@@ -1456,7 +1456,7 @@ Florigeni Suntory
       <param name="Артикул">S00165</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00176" available="true">
+    <offer id="B2C_S00176" available="false">
       <name>Гвоздика одноголовая Мунлайт 25 шт 60 см Арт. S00176</name>
       <categoryId>1</categoryId>
       <price>1575</price>
@@ -1473,7 +1473,7 @@ Florigeni Suntory
       <param name="Артикул">S00176</param>
       <consist name="Гвоздика одноголовая Мунлайт" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00185" available="true">
+    <offer id="B2C_S00185" available="false">
       <name>Георгин 10 шт Красный 50 см Арт. S00185</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -1487,7 +1487,7 @@ Florigeni Suntory
       <param name="Артикул">S00185</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00195" available="true">
+    <offer id="B2C_S00195" available="false">
       <name>Георгин 10 шт Лиловый 50 см Арт. S00195</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -1501,7 +1501,7 @@ Florigeni Suntory
       <param name="Артикул">S00195</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00205" available="true">
+    <offer id="B2C_S00205" available="false">
       <name>Георгин 10 шт Разноцветный 50 см Арт. S00205</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -1515,7 +1515,7 @@ Florigeni Suntory
       <param name="Артикул">S00205</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00215" available="true">
+    <offer id="B2C_S00215" available="false">
       <name>Георгин 10 шт Оранжевый 50 см Арт. S00215</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -1529,7 +1529,7 @@ Florigeni Suntory
       <param name="Артикул">S00215</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00225" available="true">
+    <offer id="B2C_S00225" available="false">
       <name>Георгин 10 шт Бело-лиловый 50 см Арт. S00225</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -1543,7 +1543,7 @@ Florigeni Suntory
       <param name="Артикул">S00225</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00365" available="true">
+    <offer id="B2C_S00365" available="false">
       <name>Герберамини 20 шт Красный 50 см Арт. S00365</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1559,7 +1559,7 @@ Summit Gerbera
       <param name="Артикул">S00365</param>
       <consist name="Герберамини" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00375" available="true">
+    <offer id="B2C_S00375" available="false">
       <name>Герберамини 20 шт Малиновый 50 см Арт. S00375</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1575,7 +1575,7 @@ Summit Gerbera
       <param name="Артикул">S00375</param>
       <consist name="Герберамини" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00385" available="true">
+    <offer id="B2C_S00385" available="false">
       <name>Герберамини 20 шт Оранжевый 50 см Арт. S00385</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1591,7 +1591,7 @@ Summit Gerbera
       <param name="Артикул">S00385</param>
       <consist name="Герберамини" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00395" available="true">
+    <offer id="B2C_S00395" available="false">
       <name>Герберамини 20 шт Фуксия 50 см Арт. S00395</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1607,7 +1607,7 @@ Summit Gerbera
       <param name="Артикул">S00395</param>
       <consist name="Герберамини" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00405" available="true">
+    <offer id="B2C_S00405" available="false">
       <name>Герберамини 20 шт Оранжевый 50 см Арт. S00405</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1623,7 +1623,7 @@ Summit Gerbera
       <param name="Артикул">S00405</param>
       <consist name="Герберамини" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00415" available="true">
+    <offer id="B2C_S00415" available="false">
       <name>Герберамини 20 шт Розовый 50 см Арт. S00415</name>
       <categoryId>1</categoryId>
       <price>1900</price>
@@ -1639,7 +1639,7 @@ Summit Gerbera
       <param name="Артикул">S00415</param>
       <consist name="Герберамини" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00425" available="true">
+    <offer id="B2C_S00425" available="false">
       <name>Герберамини 20 шт Розовый 50 см Арт. S00425</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1655,7 +1655,7 @@ Summit Gerbera
       <param name="Артикул">S00425</param>
       <consist name="Герберамини" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S01406" available="true">
+    <offer id="B2C_S01406" available="false">
       <name>Гиперикум  Коко Дьябло Coco Diablo 10 шт 60 см Арт. S01406</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1672,7 +1672,7 @@ Floriusflowers
       <param name="Артикул">S01406</param>
       <consist name="Гиперикум  Коко Дьябло Coco Diablo" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01416" available="true">
+    <offer id="B2C_S01416" available="false">
       <name>Гиперикум  Коко Уно Coco Uno 10 шт 60 см Арт. S01416</name>
       <categoryId>1</categoryId>
       <price>1300</price>
@@ -1689,7 +1689,7 @@ Floriusflowers
       <param name="Артикул">S01416</param>
       <consist name="Гиперикум  Коко Уно Coco Uno" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00807" available="true">
+    <offer id="B2C_S00807" available="false">
       <name>Гипсофила 25 шт Белый 70 см Арт. S00807</name>
       <categoryId>1</categoryId>
       <price>2500</price>
@@ -1705,7 +1705,7 @@ Esmeralda
       <param name="Артикул">S00807</param>
       <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00817" available="true">
+    <offer id="B2C_S00817" available="false">
       <name>Гипсофила 25 шт Микс 70 см Арт. S00817</name>
       <categoryId>1</categoryId>
       <price>2750</price>
@@ -1721,7 +1721,7 @@ Esmeralda
       <param name="Артикул">S00817</param>
       <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S00796" available="true">
+    <offer id="B2C_S00796" available="false">
       <name>Камилла 25 шт Белый 60 см Арт. S00796</name>
       <categoryId>1</categoryId>
       <price>2750</price>
@@ -1735,7 +1735,7 @@ Esmeralda
       <param name="Артикул">S00796</param>
       <consist name="Камилла" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_S01475" available="true">
+    <offer id="B2C_S01475" available="false">
       <name>Краспедия 10 шт Желтый 50 см Арт. S01475</name>
       <categoryId>1</categoryId>
       <price>1100</price>
@@ -1748,7 +1748,7 @@ Esmeralda
       <param name="Артикул">S01475</param>
       <consist name="Краспедия" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01305" available="true">
+    <offer id="B2C_S01305" available="false">
       <name>Леукоспермум 5 шт Оранжевый 50 см Арт. S01305</name>
       <categoryId>1</categoryId>
       <price>1000</price>
@@ -1762,7 +1762,7 @@ Esmeralda
       <param name="Артикул">S01305</param>
       <consist name="Леукоспермум" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S01505" available="true">
+    <offer id="B2C_S01505" available="false">
       <name>Лотос 10 шт Зеленый 50 см Арт. S01505</name>
       <categoryId>1</categoryId>
       <price>1100</price>
@@ -1775,7 +1775,7 @@ Esmeralda
       <param name="Артикул">S01505</param>
       <consist name="Лотос" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01265" available="true">
+    <offer id="B2C_S01265" available="false">
       <name>Маттиола 10 шт Белый 50 см Арт. S01265</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1789,7 +1789,7 @@ Esmeralda
       <param name="Артикул">S01265</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01275" available="true">
+    <offer id="B2C_S01275" available="false">
       <name>Маттиола 10 шт Сиреневый 50 см Арт. S01275</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -1803,7 +1803,7 @@ Esmeralda
       <param name="Артикул">S01275</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01115" available="true">
+    <offer id="B2C_S01115" available="false">
       <name>Орхидеи Дендробиум 10 шт Сиреневый 50 см Арт. S01115</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -1817,7 +1817,7 @@ Esmeralda
       <param name="Артикул">S01115</param>
       <consist name="Орхидеи Дендробиум" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01125" available="true">
+    <offer id="B2C_S01125" available="false">
       <name>Орхидеи Дендробиум 10 шт Розовый 50 см Арт. S01125</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -1831,7 +1831,7 @@ Esmeralda
       <param name="Артикул">S01125</param>
       <consist name="Орхидеи Дендробиум" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01135" available="true">
+    <offer id="B2C_S01135" available="false">
       <name>Орхидеи Дендробиум 10 шт Фиолетовый 50 см Арт. S01135</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -1845,7 +1845,7 @@ Esmeralda
       <param name="Артикул">S01135</param>
       <consist name="Орхидеи Дендробиум" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01145" available="true">
+    <offer id="B2C_S01145" available="false">
       <name>Орхидеи Дендробиум 10 шт Синий 50 см Арт. S01145</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -1859,7 +1859,7 @@ Esmeralda
       <param name="Артикул">S01145</param>
       <consist name="Орхидеи Дендробиум" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01105" available="true">
+    <offer id="B2C_S01105" available="false">
       <name>Подсолнух 10 шт Желтый 50 см Арт. S01105</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1873,7 +1873,7 @@ Esmeralda
       <param name="Артикул">S01105</param>
       <consist name="Подсолнух" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01155" available="true">
+    <offer id="B2C_S01155" available="false">
       <name>Тюльпан Пионовидный 50 шт Красный 50 см Арт. S01155</name>
       <categoryId>1</categoryId>
       <price>7000</price>
@@ -1887,7 +1887,7 @@ Esmeralda
       <param name="Артикул">S01155</param>
       <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
-    <offer id="B2C_S01165" available="true">
+    <offer id="B2C_S01165" available="false">
       <name>Тюльпан Пионовидный 50 шт Сиреневый 50 см Арт. S01165</name>
       <categoryId>1</categoryId>
       <price>7000</price>
@@ -1901,7 +1901,7 @@ Esmeralda
       <param name="Артикул">S01165</param>
       <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
-    <offer id="B2C_S01175" available="true">
+    <offer id="B2C_S01175" available="false">
       <name>Тюльпан Стандартный 50 шт Желтый 50 см Арт. S01175</name>
       <categoryId>1</categoryId>
       <price>7000</price>
@@ -1915,7 +1915,7 @@ Esmeralda
       <param name="Артикул">S01175</param>
       <consist name="Тюльпан Стандартный" unit="шт">50</consist>
     </offer>
-    <offer id="B2C_S01185" available="true">
+    <offer id="B2C_S01185" available="false">
       <name>Тюльпан Стандартный 50 шт Белый 50 см Арт. S01185</name>
       <categoryId>1</categoryId>
       <price>5500</price>
@@ -1929,7 +1929,7 @@ Esmeralda
       <param name="Артикул">S01185</param>
       <consist name="Тюльпан Стандартный" unit="шт">50</consist>
     </offer>
-    <offer id="B2C_S01195" available="true">
+    <offer id="B2C_S01195" available="false">
       <name>Тюльпан Стандартный Дример 50 шт 50 см Арт. S01195</name>
       <categoryId>1</categoryId>
       <price>7000</price>
@@ -1944,7 +1944,7 @@ Esmeralda
       <param name="Артикул">S01195</param>
       <consist name="Тюльпан Стандартный Дример" unit="шт">50</consist>
     </offer>
-    <offer id="B2C_S01435" available="true">
+    <offer id="B2C_S01435" available="false">
       <name>Целозия 5 шт Оранжевый 50 см Арт. S01435</name>
       <categoryId>1</categoryId>
       <price>800</price>
@@ -1960,7 +1960,7 @@ Decorum
       <param name="Артикул">S01435</param>
       <consist name="Целозия" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_S01286" available="true">
+    <offer id="B2C_S01286" available="false">
       <name>Эустома 10 шт Сиреневый 60 см Арт. S01286</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1974,7 +1974,7 @@ Decorum
       <param name="Артикул">S01286</param>
       <consist name="Эустома" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01296" available="true">
+    <offer id="B2C_S01296" available="false">
       <name>Эустома 10 шт Белый 60 см Арт. S01296</name>
       <categoryId>1</categoryId>
       <price>1700</price>
@@ -1988,7 +1988,7 @@ Decorum
       <param name="Артикул">S01296</param>
       <consist name="Эустома" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01226" available="true">
+    <offer id="B2C_S01226" available="false">
       <name>Эустома Корелли Лавандер Corelli Lavander 10 шт 60 см Арт. S01226</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -2005,7 +2005,7 @@ Kwekerij Waalzicht
       <param name="Артикул">S01226</param>
       <consist name="Эустома Корелли Лавандер Corelli Lavander" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01256" available="true">
+    <offer id="B2C_S01256" available="false">
       <name>Эустома Росита Брайт Пинк Rosita Bright Pink 10 шт 60 см Арт. S01256</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -2022,7 +2022,7 @@ Kwekerij Waalzicht
       <param name="Артикул">S01256</param>
       <consist name="Эустома Росита Брайт Пинк Rosita Bright Pink" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01206" available="true">
+    <offer id="B2C_S01206" available="false">
       <name>Эустома Росита Вайт Rosita white 10 шт 60 см Арт. S01206</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -2039,7 +2039,7 @@ Sunrise holland
       <param name="Артикул">S01206</param>
       <consist name="Эустома Росита Вайт Rosita white" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01236" available="true">
+    <offer id="B2C_S01236" available="false">
       <name>Эустома Росита Грин Rosita Green 10 шт 60 см Арт. S01236</name>
       <categoryId>1</categoryId>
       <price>1800</price>
@@ -2056,7 +2056,7 @@ Kwekerij Waalzicht
       <param name="Артикул">S01236</param>
       <consist name="Эустома Росита Грин Rosita Green" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01216" available="true">
+    <offer id="B2C_S01216" available="false">
       <name>Эустома Росита Пинк Rosita Pink 10 шт 60 см Арт. S01216</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -2073,7 +2073,7 @@ Kwekerij Waalzicht
       <param name="Артикул">S01216</param>
       <consist name="Эустома Росита Пинк Rosita Pink" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01246" available="true">
+    <offer id="B2C_S01246" available="false">
       <name>Эустома Росита Пинк Rosita Pink 10 шт 60 см Арт. S01246</name>
       <categoryId>1</categoryId>
       <price>2100</price>
@@ -2090,7 +2090,7 @@ Sunrise holland
       <param name="Артикул">S01246</param>
       <consist name="Эустома Росита Пинк Rosita Pink" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01365" available="true">
+    <offer id="B2C_S01365" available="false">
       <name>Астранция  Стар оф лове Star of love 10 шт 50 см Арт. S01365</name>
       <categoryId>1</categoryId>
       <price>1300</price>
@@ -2107,7 +2107,7 @@ Marginpar
       <param name="Артикул">S01365</param>
       <consist name="Астранция  Стар оф лове Star of love" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01075" available="true">
+    <offer id="B2C_S01075" available="false">
       <name>Берграсс 1 шт Зеленый 50 см Арт. S01075</name>
       <categoryId>1</categoryId>
       <price>400</price>
@@ -2120,7 +2120,7 @@ Marginpar
       <param name="Артикул">S01075</param>
       <consist name="Берграсс" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01375" available="true">
+    <offer id="B2C_S01375" available="false">
       <name>Вероника  Смарт Изель Smart Iselle 10 шт 50 см Арт. S01375</name>
       <categoryId>1</categoryId>
       <price>1000</price>
@@ -2137,7 +2137,7 @@ Floriusflowers
       <param name="Артикул">S01375</param>
       <consist name="Вероника  Смарт Изель Smart Iselle" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01355" available="true">
+    <offer id="B2C_S01355" available="false">
       <name>Вероника Смарт вейв 10 шт 50 см Арт. S01355</name>
       <categoryId>1</categoryId>
       <price>1000</price>
@@ -2154,7 +2154,7 @@ Floriusflowers
       <param name="Артикул">S01355</param>
       <consist name="Вероника Смарт вейв" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01455" available="true">
+    <offer id="B2C_S01455" available="false">
       <name>Лимониум 1 шт Сиреневый 50 см Арт. S01455</name>
       <categoryId>1</categoryId>
       <price>100</price>
@@ -2167,7 +2167,7 @@ Floriusflowers
       <param name="Артикул">S01455</param>
       <consist name="Лимониум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00237" available="true">
+    <offer id="B2C_S00237" available="false">
       <name>Малина 1 шт Зелёный 70 см Арт. S00237</name>
       <categoryId>1</categoryId>
       <price>600</price>
@@ -2181,7 +2181,7 @@ Floriusflowers
       <param name="Артикул">S00237</param>
       <consist name="Малина" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01335" available="true">
+    <offer id="B2C_S01335" available="false">
       <name>Озотамнус 1 шт Белый 50 см Арт. S01335</name>
       <categoryId>1</categoryId>
       <price>140</price>
@@ -2197,7 +2197,7 @@ Esmeralda
       <param name="Артикул">S01335</param>
       <consist name="Озотамнус" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01055" available="true">
+    <offer id="B2C_S01055" available="false">
       <name>Папоротник 1 шт Зеленый 50 см Арт. S01055</name>
       <categoryId>1</categoryId>
       <price>600</price>
@@ -2211,7 +2211,7 @@ Esmeralda
       <param name="Артикул">S01055</param>
       <consist name="Папоротник" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01325" available="true">
+    <offer id="B2C_S01325" available="false">
       <name>Питтоспорум Нигра 1 шт 50 см Арт. S01325</name>
       <categoryId>1</categoryId>
       <price>550</price>
@@ -2226,7 +2226,7 @@ Esmeralda
       <param name="Артикул">S01325</param>
       <consist name="Питтоспорум Нигра" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01095" available="true">
+    <offer id="B2C_S01095" available="false">
       <name>Робеллини 1 шт Зеленый 50 см Арт. S01095</name>
       <categoryId>1</categoryId>
       <price>500</price>
@@ -2239,7 +2239,7 @@ Esmeralda
       <param name="Артикул">S01095</param>
       <consist name="Робеллини" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00346" available="true">
+    <offer id="B2C_S00346" available="false">
       <name>Рускус 50 шт Зелёный 60 см Арт. S00346</name>
       <categoryId>1</categoryId>
       <price>2500</price>
@@ -2253,7 +2253,7 @@ Esmeralda
       <param name="Артикул">S00346</param>
       <consist name="Рускус" unit="шт">50</consist>
     </offer>
-    <offer id="B2C_S00355" available="true">
+    <offer id="B2C_S00355" available="false">
       <name>Рускус 1 шт Зелёный 50 см Арт. S00355</name>
       <categoryId>1</categoryId>
       <price>700</price>
@@ -2267,7 +2267,7 @@ Esmeralda
       <param name="Артикул">S00355</param>
       <consist name="Рускус" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01045" available="true">
+    <offer id="B2C_S01045" available="false">
       <name>Салал  Экстра 1 шт 50 см Арт. S01045</name>
       <categoryId>1</categoryId>
       <price>700</price>
@@ -2282,7 +2282,7 @@ Esmeralda
       <param name="Артикул">S01045</param>
       <consist name="Салал  Экстра" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01395" available="true">
+    <offer id="B2C_S01395" available="false">
       <name>Скабиоза 10 шт Коричневый 50 см Арт. S01395</name>
       <categoryId>1</categoryId>
       <price>900</price>
@@ -2296,7 +2296,7 @@ Esmeralda
       <param name="Артикул">S01395</param>
       <consist name="Скабиоза" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01445" available="true">
+    <offer id="B2C_S01445" available="false">
       <name>Тласпи 10 шт Зеленый 50 см Арт. S01445</name>
       <categoryId>1</categoryId>
       <price>1200</price>
@@ -2311,7 +2311,7 @@ Mordehai
       <param name="Артикул">S01445</param>
       <consist name="Тласпи" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01065" available="true">
+    <offer id="B2C_S01065" available="false">
       <name>Фатсия 10 шт Зеленый 50 см Арт. S01065</name>
       <categoryId>1</categoryId>
       <price>1500</price>
@@ -2324,7 +2324,7 @@ Mordehai
       <param name="Артикул">S01065</param>
       <consist name="Фатсия" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S00764" available="true">
+    <offer id="B2C_S00764" available="false">
       <name>Фисташка 1 шт Зелёный 40 см Арт. S00764</name>
       <categoryId>1</categoryId>
       <price>300</price>
@@ -2338,7 +2338,7 @@ Mordehai
       <param name="Артикул">S00764</param>
       <consist name="Фисташка" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S01465" available="true">
+    <offer id="B2C_S01465" available="false">
       <name>Хамелациум 1 шт Розовый 50 см Арт. S01465</name>
       <categoryId>1</categoryId>
       <price>180</price>
@@ -2351,7 +2351,7 @@ Mordehai
       <param name="Артикул">S01465</param>
       <consist name="Хамелациум" unit="шт">1</consist>
     </offer>
-    <offer id="B2C_S00747" available="true">
+    <offer id="B2C_S00747" available="false">
       <name>Эвкалипт  Парвифолия 20 шт 70 см Арт. S00747</name>
       <categoryId>1</categoryId>
       <price>3000</price>
@@ -2366,7 +2366,7 @@ Mordehai
       <param name="Артикул">S00747</param>
       <consist name="Эвкалипт  Парвифолия" unit="шт">20</consist>
     </offer>
-    <offer id="B2C_S00757" available="true">
+    <offer id="B2C_S00757" available="false">
       <name>Эвкалипт  Цинерея 10 шт 70 см Арт. S00757</name>
       <categoryId>1</categoryId>
       <price>2700</price>
@@ -2381,7 +2381,7 @@ Mordehai
       <param name="Артикул">S00757</param>
       <consist name="Эвкалипт  Цинерея" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_S01345" available="true">
+    <offer id="B2C_S01345" available="false">
       <name>Эрингиум  Магнетар Квистар Magnetar Questar 10 шт 50 см Арт. S01345</name>
       <categoryId>1</categoryId>
       <price>2000</price>
