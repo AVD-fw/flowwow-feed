@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T17:31:19.080+03:00">
+<yml_catalog date="2025-10-09T17:33:38.864+03:00">
   <shop>
     <name>Рай цветов</name>
     <company>raycvetov</company>
@@ -17,6 +17,25 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S00945" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Линди Вайт Lindi White 50 см Арт. S00945</name>
+      <price>60</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GkdmIQdZCTW7nLKmROleqWTqxL3T4tiJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/12xxEdRgi6FdLSE3HEmfrbEtVzsqCoNwV</picture>
+      <description>Хризантема Сантини
+Линди Вайт Lindi White
+Madiba
+Голландия
+Цветы</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Madiba</param>
+      <param name="Артикул">S00945</param>
+      <consist name="Хризантема Сантини Линди Вайт Lindi White" unit="шт">25</consist>
+    </offer>
     <offer id="S00014" available="true">
       <categoryId>37</categoryId>
       <name>Анемон Фиолетовый 40 см Арт. S00014</name>
@@ -65,6 +84,22 @@ Terra Nostra
       <param name="Страна">Россия</param>
       <param name="Артикул">S00036</param>
       <consist name="Антуриум" unit="шт">1</consist>
+    </offer>
+    <offer id="S01175" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Желтый 50 см Арт. S01175</name>
+      <price>140</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1g1OrJaKYVuWLLGryKZLPG_xeCBOREPim</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T1VcIHs6kxncx-qWOLYquQCxYXcA1iNN</picture>
+      <description>Тюльпан
+Голландия
+Цветы</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">S01175</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
     <offer id="S01226" available="true">
       <categoryId>37</categoryId>
