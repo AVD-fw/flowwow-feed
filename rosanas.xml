@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T08:22:25.261+03:00">
+<yml_catalog date="2025-10-09T08:23:36.297+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -816,6 +816,21 @@
       <param name="Артикул">S01328</param>
       <consist name="Картамус Занзибар" unit="шт">10</consist>
     </offer>
+    <offer id="S02785" available="true">
+      <categoryId>38</categoryId>
+      <name>Краспедия Голубой 50 см Арт. S02785</name>
+      <price>569</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/173vUlaZtu7qhHWBicyXyeYA7rH05oCzI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hoHylixZd3JJRJySiP5GDDdAzALXeyl_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fJ3kpTRbxE-gLBpvN_29JkgGwaXuiolJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S02785</param>
+      <consist name="Краспедия" unit="шт">20</consist>
+    </offer>
     <offer id="S7608" available="true">
       <categoryId>38</categoryId>
       <name>Куэркас Рубра 80 см Арт. S7608</name>
@@ -951,6 +966,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S7867</param>
       <consist name="Эукомис" unit="шт">4</consist>
+    </offer>
+    <offer id="S02775" available="true">
+      <categoryId>39</categoryId>
+      <name>Лагурус Голубой 50 см Арт. S02775</name>
+      <price>238</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RoldDjX5QsWix70ut01Et8zKQkVjMrJR</picture>
+      <picture>https://lh3.googleusercontent.com/d/17438oXTh6S3YbC43MlvMJPri6r3ZIgwI</picture>
+      <picture>https://lh3.googleusercontent.com/d/175OHxV4ljgGPrSr03pZ5PfIC9fiAcY8L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kuLC10a1qzPUkBhZe7wy1HOlFKRvThtC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zqGN2LfFppEuLihF0d9XCzuPXUHNQPy0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S02775</param>
+      <consist name="Лагурус" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
