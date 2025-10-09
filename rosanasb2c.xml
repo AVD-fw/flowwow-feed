@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T09:29:51.221+03:00">
+<yml_catalog date="2025-10-09T09:39:48.306+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -97,6 +97,21 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S11724</param>
       <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
+    </offer>
+    <offer id="B2C_S01817" available="true">
+      <name>Роза кустовая Пинк Йо Йо 10 шт 70 см Арт. S01817</name>
+      <categoryId>1</categoryId>
+      <price>1265</price>
+      <picture>https://lh3.googleusercontent.com/d/1PN6uVbeqUFld8DyEcanNNkClxVXEiCYV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xq2dgziVUXKtjPI1SOMJsjPnJ9ZiPs9R</picture>
+      <picture>https://lh3.googleusercontent.com/d/11VYAkyLrnuBCW9vKOG1BRuFw-F37jyNZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S01817</param>
+      <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
     </offer>
     <offer id="B2C_S11714" available="true">
       <name>Роза кустовая Эксклюзив Сенсейшн 10 шт 40 см Арт. S11714</name>
