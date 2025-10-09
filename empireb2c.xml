@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T20:09:02.656+03:00">
+<yml_catalog date="2025-10-09T20:15:51.333+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -64,20 +64,6 @@
       <param name="Артикул">E2247</param>
       <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_E00956" available="true">
-      <name>Пачка (5 шт.) Хризантема кустовая Бакарди Ред 60 см Арт. E00956</name>
-      <categoryId>1</categoryId>
-      <price>400</price>
-      <picture>https://lh3.googleusercontent.com/d/1EIq9E9hM19x74K1ySyrhV1U4ZqmNNM-x</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Sf1IOdn6STQZxRvAUBxQ9sUhwOr8VZ_g</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Ec0O0t_b-YrUZmuUWufQz6tnaZlLlvRC</picture>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sen Zaro</param>
-      <param name="Артикул">E00956</param>
-      <consist name="Хризантема кустовая Бакарди Ред" unit="шт">5</consist>
-    </offer>
     <offer id="B2C_E2227" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Командер Пинк 70 см Арт. E2227</name>
       <categoryId>1</categoryId>
@@ -91,6 +77,20 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">E2227</param>
       <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="B2C_E00956" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Руби Стар 60 см Арт. E00956</name>
+      <categoryId>1</categoryId>
+      <price>400</price>
+      <picture>https://lh3.googleusercontent.com/d/1EIq9E9hM19x74K1ySyrhV1U4ZqmNNM-x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Sf1IOdn6STQZxRvAUBxQ9sUhwOr8VZ_g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ec0O0t_b-YrUZmuUWufQz6tnaZlLlvRC</picture>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sen Zaro</param>
+      <param name="Артикул">E00956</param>
+      <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
     </offer>
     <offer id="B2C_E00985" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Пеп Талк 50 см Арт. E00985</name>
