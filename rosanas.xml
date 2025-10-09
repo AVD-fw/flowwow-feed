@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T14:29:17.123+03:00">
+<yml_catalog date="2025-10-09T14:38:57.236+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -809,20 +809,6 @@
       <param name="Артикул">S02317</param>
       <consist name="Хризантема одноголовая Росс Элизабетт" unit="шт">10</consist>
     </offer>
-    <offer id="S9317" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая G COUTURE BRONZE 75 см Арт. S9317</name>
-      <price>189</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1UDKG6BiNSzYsdLlsyyL-B6ux6cmKIA-E</picture>
-      <picture>https://lh3.googleusercontent.com/d/11z-JOSwYdTTT9MJldi3LateH8M2TjLjT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">75</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S9317</param>
-      <consist name="Хризантема одноголовая G COUTURE BRONZE" unit="шт">10</consist>
-    </offer>
     <offer id="S11307" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Катинка Сальмон 70 см Арт. S11307</name>
@@ -1300,7 +1286,7 @@
     </offer>
     <offer id="S5704" available="true">
       <categoryId>37</categoryId>
-      <name>Скиммия Дж Франк Вайт 45 см Арт. S5704</name>
+      <name>Скиммия Франк Вайт 45 см Арт. S5704</name>
       <price>480</price>
       <qty>7</qty>
       <quantity_in_package>1</quantity_in_package>
@@ -1313,7 +1299,7 @@
       <param name="Высота, см">45</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">S5704</param>
-      <consist name="Скиммия Дж Франк Вайт" unit="шт">1</consist>
+      <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
     </offer>
     <offer id="S00596" available="true">
       <categoryId>37</categoryId>
