@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T07:00:47.407+03:00">
+<yml_catalog date="2025-10-09T07:10:54.375+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -152,6 +152,23 @@
       <param name="Артикул">S7316</param>
       <consist name="Калла Голд Медал" unit="шт">10</consist>
     </offer>
+    <offer id="S01386" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Одесса 60 см Арт. S01386</name>
+      <price>221</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13iY07GJtx33jlEruqGSEXQNJRR9w5Nj2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bMv5IamAm4CpU1Tfn5rS93bLNkC61NxW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VhGDPDCCNEmxy6Oz6RjzVHB2Ht1ulVjp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KDXz37SyfwP7ga1dpEi6jDlcuG3a1Fgu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">S01386</param>
+      <consist name="Калла Одесса" unit="шт">10</consist>
+    </offer>
     <offer id="S01047" available="true">
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. S01047</name>
@@ -220,6 +237,23 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">S00596</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="S01288" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Флешинг 80 см Арт. S01288</name>
+      <price>134</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/159QCRvHnWccMmPdzwfcTzgrIANJBcl8p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1doBOoTw5PR3WJEQQU8NdLEIkuCgqJI-m</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zRbk0Emfi3cnrjfrg6Kq-9A4pBuWRaXd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ividz9iO-6mBmgCWjD1In_R0Y9oNIbhH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JsVaiNfkOx1AF7gvZw38z1uBoO8kX9Rm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01288</param>
+      <consist name="Целозия Флешинг" unit="шт">5</consist>
     </offer>
     <offer id="S03486" available="true">
       <categoryId>37</categoryId>
