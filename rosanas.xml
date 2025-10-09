@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T09:38:27.206+03:00">
+<yml_catalog date="2025-10-09T09:48:47.275+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -52,6 +52,21 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S01695</param>
       <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
+    </offer>
+    <offer id="S9437" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пич Аваланж 70 см Арт. S9437</name>
+      <price>164</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17StJFx-4lm5FPT00Q9vcBcqnr60gTvBI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qzotxLxeD_-jzjx3R0wjRJKc91OE0s-m</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S9437</param>
+      <consist name="Роза одноголовая Пич Аваланж" unit="шт">15</consist>
     </offer>
     <offer id="S7616" available="true">
       <categoryId>1</categoryId>
@@ -357,6 +372,20 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">S02317</param>
       <consist name="Хризантема одноголовая Росс Элизабетт" unit="шт">10</consist>
+    </offer>
+    <offer id="S9317" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая G COUTURE BRONZE 75 см Арт. S9317</name>
+      <price>189</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UDKG6BiNSzYsdLlsyyL-B6ux6cmKIA-E</picture>
+      <picture>https://lh3.googleusercontent.com/d/11z-JOSwYdTTT9MJldi3LateH8M2TjLjT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9317</param>
+      <consist name="Хризантема одноголовая G COUTURE BRONZE" unit="шт">10</consist>
     </offer>
     <offer id="S11307" available="true">
       <categoryId>6</categoryId>
