@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T10:19:47.663+03:00">
+<yml_catalog date="2025-10-09T10:29:49.946+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -128,6 +128,21 @@
       <param name="Артикул">S11724</param>
       <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
     </offer>
+    <offer id="B2C_S4905" available="true">
+      <name>Роза кустовая Микс Розовые 5 шт 50 см Арт. S4905</name>
+      <categoryId>1</categoryId>
+      <price>1370</price>
+      <picture>https://lh3.googleusercontent.com/d/1uOarr3JR5pLROSfpZZ9X11slHJgo04EY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pLG2anWGergRhfFKseOn7ML_ImWBWnE3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A_dgowU-fQWG1ns1TQgQPxF6RWxk9DQc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S4905</param>
+      <consist name="Роза кустовая Микс Розовые" unit="шт">5</consist>
+    </offer>
     <offer id="B2C_S01817" available="true">
       <name>Роза кустовая Пинк Йо Йо 10 шт 70 см Арт. S01817</name>
       <categoryId>1</categoryId>
@@ -142,6 +157,21 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S01817</param>
       <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
+    </offer>
+    <offer id="B2C_S04265" available="true">
+      <name>Роза кустовая Софи 10 шт 50 см Арт. S04265</name>
+      <categoryId>1</categoryId>
+      <price>2740</price>
+      <picture>https://lh3.googleusercontent.com/d/1gPocxx26yq0msOI1sMFQUVL1RalHHRh2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WKbArc3OuWH98bjeGi0nOEValiUGzgdi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U8paV7GAIWU4HTYFV4UaK_CEGsVnV7Rh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04265</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="B2C_S11714" available="true">
       <name>Роза кустовая Эксклюзив Сенсейшн 10 шт 40 см Арт. S11714</name>
@@ -158,12 +188,27 @@
       <param name="Артикул">S11714</param>
       <consist name="Роза кустовая Эксклюзив Сенсейшн" unit="шт">10</consist>
     </offer>
+    <offer id="B2C_S04366" available="true">
+      <name>Роза кустовая пионовидная Бомбастик 10 шт 60 см Арт. S04366</name>
+      <categoryId>1</categoryId>
+      <price>3975</price>
+      <picture>https://lh3.googleusercontent.com/d/1jKU5NRpB-UQguyyHMb2Q5AjXM2PFetbd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DuwLUconmKFIFEvxjgs3VhYx9DSDzPT_</picture>
+      <picture>https://lh3.googleusercontent.com/d/19CB7ODVYTC7mPbxQjxy70txI9RaRdvWJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04366</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="B2C_S02025" available="true">
       <name>Роза кустовая пионовидная Леди Бомбастик 10 шт 50 см Арт. S02025</name>
       <categoryId>1</categoryId>
       <price>2740</price>
       <picture>https://lh3.googleusercontent.com/d/1Tj9rnBXLMpwv2pB18n1yBfSGhLAO7xYX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1G6orxDX849mnlwk6hT7dfoi8BEiba_mT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JC8NhEw0Zh9FrsgGbUX6dh-9bHo3miSl</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
@@ -171,6 +216,36 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S02025</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="B2C_S01806" available="true">
+      <name>Роза кустовая пионовидная Луна Трендсеттер 10 шт 60 см Арт. S01806</name>
+      <categoryId>1</categoryId>
+      <price>2740</price>
+      <picture>https://lh3.googleusercontent.com/d/1EK13d4iGIuiOhZKM0tECUEr2FkyB7bm_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CDSbrfd28fDtEaF3JIYSLldc8gTf8rXh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l82OYl5SGITIt6IwAm-K-xnnuNa3_4nR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S01806</param>
+      <consist name="Роза кустовая пионовидная Луна Трендсеттер" unit="шт">10</consist>
+    </offer>
+    <offer id="B2C_S04275" available="true">
+      <name>Роза кустовая пионовидная Мадам Бомбастик 10 шт 50 см Арт. S04275</name>
+      <categoryId>1</categoryId>
+      <price>3975</price>
+      <picture>https://lh3.googleusercontent.com/d/1V68F4ob6FcyvkUmxIG7UeHpMdQpVNOim</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aFLwEUiacHYb72V0N5d0nKcZvZorD9W0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eFnuVEDE4qR3mjGbkhZXFgTxfpGj1oYA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04275</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="B2C_S4915" available="true">
       <name>Роза кустовая пионовидная Пиони Бабблс 10 шт 50 см Арт. S4915</name>
