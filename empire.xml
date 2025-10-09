@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T06:31:29.484+03:00">
+<yml_catalog date="2025-10-09T06:35:19.418+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -41,17 +41,33 @@
       <price>64</price>
       <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Y66cvF2EHlRDfUavX_QDSkrvGzcOxcxd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DhLezn49NsnZS7i-rSMkO7BiPHjIXnEH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tWPEvizGAQM9a_UVmW2BODf4EY2FlsxC</picture>
       <picture>https://lh3.googleusercontent.com/d/1CV_CFJ-aldsf1vtbydJ3PniWXcu_pzGS</picture>
       <picture>https://lh3.googleusercontent.com/d/1fpfQZL8G7BE0qw3FMxryFRej6qlHdYv8</picture>
       <picture>https://lh3.googleusercontent.com/d/1xNVR-C0aEywsRi3B_pVb7C26CTh5p1sR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y66cvF2EHlRDfUavX_QDSkrvGzcOxcxd</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">E00425</param>
       <consist name="Ирис Касабланка" unit="шт">50</consist>
+    </offer>
+    <offer id="E2396" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Розовый 60 см Арт. E2396</name>
+      <price>200</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10NFtHqR_ceWokr-Ggh0Vp6MgXz9dt5FI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hK3uMqahdEvgcKnSwkcdLU9XmVzddtej</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BP002yw7lHk5CKZZ-fjZTgSBXRQEQleh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">E2396</param>
+      <consist name="Калла" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
