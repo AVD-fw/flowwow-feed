@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T07:40:44.575+03:00">
+<yml_catalog date="2025-10-09T07:50:43.474+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -117,6 +117,24 @@
       <param name="Артикул">Cp01045</param>
       <consist name="Хризантема Сантини" unit="шт">25</consist>
     </offer>
+    <offer id="Cp03445" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Желтый 55 см Арт. Cp03445</name>
+      <price>74</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q1jAqSY24d0cFY2EVxQgy2ryCxuPw9s0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QBdflvJWk2NpZemyiJIyBuBMiZw184vG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hvTlb2N5LPUeb91wRGAYywRXX16ByxBG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C93XabYUhxcSAsC1k8s6Vos4nYe6MwhY</picture>
+      <picture>https://lh3.googleusercontent.com/d/15iCZtQD7c3PwCq32BHszzehlrDsZAvtb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp03445</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
     <offer id="Cp01055" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Байкал 55 см Арт. Cp01055</name>
@@ -207,6 +225,23 @@
       <param name="Артикул">Cp6435</param>
       <consist name="Хризантема Сантини Росси Крашенный" unit="шт">25</consist>
     </offer>
+    <offer id="Cp03455" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Пинк 55 см Арт. Cp03455</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-cLohsNZuyQ0i_Byk5KrNLVO87gQBrMZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/18FMMRHdT0Eq9NyD1aFO3mlNYanfypkag</picture>
+      <picture>https://lh3.googleusercontent.com/d/19ZMXbR5IwJNi-jlFktU63FagbsKpncSg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_u-E-nVUFfPb8qdUFdyAK40jVmoRxXXU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Cp03455</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
+    </offer>
     <offer id="Cp7345" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Ферри 55 см Арт. Cp7345</name>
@@ -258,6 +293,132 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp11336</param>
       <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp03105" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Джианна 50 см Арт. Cp03105</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rTe5o2du1aiu2dJBPZpbawEP76cARQeo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wsq45a6D9UuT_apYLtBnc3BWmCUFnsZe</picture>
+      <picture>https://lh3.googleusercontent.com/d/12hPnY6OhgHKe8jF9srdqwcSDn4qyfDce</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IgVDMG43jYAMjkWmtPpMH-Lcs76P0P5y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FXPx9maPs-XA7KL_1Yf_cttrmL_YQMSF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp03105</param>
+      <consist name="Гвоздика кустовая Джианна" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp9665" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Хорус 50 см Арт. Cp9665</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hoGTYuGG4KZfDpYHHQ4yDNZfsr6njP0f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xanzgaNuIcH0RM3pi9ScAP6sj7ivumAF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CEgsC5sDk2IQNJ0NjTo1RM2DkwfnRJsR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dmoNjItcBafGDvptANTc1hxQA30p4PA_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-KVANRFt-saJBeWwRYWrXztmMWkRuDoW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp9665</param>
+      <consist name="Гвоздика кустовая Хорус" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp01267" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Веддинг 70 см Арт. Cp01267</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yj2H0yDQLYRSl9LhKgjwhKNzQY-OsrEY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_fqJWL3wOA3GZNH629ezpom3_hCC8Rxn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EEQJcetydZOBWmdIoMQLcWhFTm6CIGr4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UBUC5jkHrn3Hja2mxxg1gfdUy2ON69UH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W0dYYknmMudnhEWu8CuT_viUUGYWTqjA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp01267</param>
+      <consist name="Гвоздика одноголовая Веддинг" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp9697" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Велюрс 70 см Арт. Cp9697</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TrntfFqlrgiByPdXw916OsDxi8ujWznE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BPVoucWw1b1-GUDtRMHdNAX24pdDqQ-j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KAdjChdSV-ellJZXIwzFLSKUJ6D_cLzt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sbh-9tWvAHnDny5VzTXvOV63GctbWWpZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f3gdZ4oMpcvABXib2_C80UPkMZrlOHAA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp9697</param>
+      <consist name="Гвоздика одноголовая Велюрс" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp01597" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Марте 70 см Арт. Cp01597</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rCPyhy-lG1o0k0PzLKuNOn2zOY9gwWjr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m3To8cCauPlc7l4DoHeBOS6ze6HBAQqQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b6RNNAgtLogrLQwn7aAjvXPB-dcQnB3k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EDFybo9Tx-HusFNGwjjl0jGLoBOxWjwf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MAMYHBqEXwtJFBb5XxfHDsCim77RejlZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp01597</param>
+      <consist name="Гвоздика одноголовая Марте" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp10987" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Мерлето Кримсон 70 см Арт. Cp10987</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1w12iTAq185u9DzN0LiUpouQOJAOtUgeM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ins2JKjQN6AFp2hhukLuGtvomedOgn-X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hUGz9do5yeUlaeX-lRDH7WF_l6ZHZaNG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-guDAxcxGW3mH0FjAEsaWv5gd2ik7nFI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lQmTvPom9UP20eUhPBsVY4U2tVdw8Qe_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geeflora</param>
+      <param name="Артикул">Cp10987</param>
+      <consist name="Гвоздика одноголовая Мерлето Кримсон" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp9577" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Ноббио Бургунди 70 см Арт. Cp9577</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jZNAya8t-RU8TkIKcsWmjS6fMu0DYxhZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/15AoZDS6xFdnfFN2TE47XaZlEBgSJpXUC</picture>
+      <picture>https://lh3.googleusercontent.com/d/16ELDepmq6KjUm1W-IsfAUutXODXplgTH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g5ZH_9C6x8Gz7nCGtxA1VYwdO5RUSidh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YEgpm0D29ZLPIg1OKo-Zremyd5eddp8r</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp9577</param>
+      <consist name="Гвоздика одноголовая Ноббио Бургунди" unit="шт">25</consist>
     </offer>
     <offer id="Cp03894" available="true">
       <categoryId>37</categoryId>
