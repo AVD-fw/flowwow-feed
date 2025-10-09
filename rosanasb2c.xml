@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T09:19:47.179+03:00">
+<yml_catalog date="2025-10-09T09:29:51.221+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -38,6 +38,21 @@
       <param name="Артикул">S01695</param>
       <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
     </offer>
+    <offer id="B2C_S7616" available="true">
+      <name>Роза одноголовая Ред Наоми 20 шт 60 см Арт. S7616</name>
+      <categoryId>1</categoryId>
+      <price>1645</price>
+      <picture>https://lh3.googleusercontent.com/d/1-eB6CehO-vultrCLBwvgbP8SCwrcYZ7_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pDnMEn0QWVwmA0DGch0ZyNmMXJq8Ru0Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z5KCVirh97o2u6wL_OHMVBqt2xquwrw7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S7616</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">20</consist>
+    </offer>
     <offer id="B2C_S9787" available="true">
       <name>Роза одноголовая Свит Аваланж 15 шт 70 см Арт. S9787</name>
       <categoryId>1</categoryId>
@@ -67,6 +82,36 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S01996</param>
       <consist name="Роза одноголовая Эспания" unit="шт">20</consist>
+    </offer>
+    <offer id="B2C_S11724" available="true">
+      <name>Роза кустовая Лавли Лидия 10 шт 40 см Арт. S11724</name>
+      <categoryId>1</categoryId>
+      <price>1430</price>
+      <picture>https://lh3.googleusercontent.com/d/1H9si7V6BuObYyPBKAlVUqVpEC3WI56uj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kX62sRoN9oXtK1vp2rnJLybW_GMX7i08</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y4MRRIcyls9ZqxJQmI0oRDbVeNX-27Af</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S11724</param>
+      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
+    </offer>
+    <offer id="B2C_S11714" available="true">
+      <name>Роза кустовая Эксклюзив Сенсейшн 10 шт 40 см Арт. S11714</name>
+      <categoryId>1</categoryId>
+      <price>1435</price>
+      <picture>https://lh3.googleusercontent.com/d/1WiGnhbrprigAnVmOEyfl3vHX23hQnKj5</picture>
+      <picture>https://lh3.googleusercontent.com/d/17tFQ48LP2POrvl5TkwYNdwyQbCqsH0WF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-DkZHMF5orEBhtwVJVpixniPDN-_N9Op</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Удмуртия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S11714</param>
+      <consist name="Роза кустовая Эксклюзив Сенсейшн" unit="шт">10</consist>
     </offer>
     <offer id="B2C_S02025" available="true">
       <name>Роза кустовая пионовидная Леди Бомбастик 10 шт 50 см Арт. S02025</name>
