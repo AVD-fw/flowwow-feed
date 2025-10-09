@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T07:31:36.002+03:00">
+<yml_catalog date="2025-10-09T07:40:57.732+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -423,6 +423,23 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">S03646</param>
       <consist name="Перчик" unit="шт">1</consist>
+    </offer>
+    <offer id="S01549" available="true">
+      <categoryId>38</categoryId>
+      <name>Хасмантиум Латифолия 90 см Арт. S01549</name>
+      <price>47</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HnvwhmmtZpyTseAWWYoURSteRViHqnI0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P39dB4slwTLGRwMWOPH6Ft08XSF0KDf_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BP-BBMMWqTFMOz4Xaw3W-a_U3XI7oLKm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1owy1v6QWkgvv3ZZhcyDfrHH-L10W9MnU</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Wcc5J_6Ds1Ia9eu7VqnqAMuvMs0bAwf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01549</param>
+      <consist name="Хасмантиум Латифолия" unit="шт">20</consist>
     </offer>
     <offer id="S7867" available="true">
       <categoryId>38</categoryId>
