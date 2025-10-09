@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T08:06:28.221+03:00">
+<yml_catalog date="2025-10-09T08:14:16.348+03:00">
   <shop>
     <name>ROSANA`S FLOWERS</name>
     <company>rosanas</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар 70 см Арт. S7367</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ToDGbcUp9yLG1rVs5ANMDIfXn6LjFcQw</picture>
       <picture>https://lh3.googleusercontent.com/d/18iKDuTwHJbfgwAM7AEv8QW_8fXfJBLa8</picture>
@@ -56,7 +56,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. S02337</name>
       <price>153</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jTQQLZQsQE42AWxge0sb_ZxM6oia1sLR</picture>
       <picture>https://lh3.googleusercontent.com/d/1xAqeplaXntleb24mnmrC7tpk7YTY6A7g</picture>
@@ -73,7 +73,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. S02317</name>
       <price>145</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Iwy6ycxFkHMOSCLmfVIf-WBUvUxYCgVy</picture>
       <picture>https://lh3.googleusercontent.com/d/1HnvMtvuafdiwJ6zc9jgN0-xtXfcEG_5f</picture>
@@ -91,7 +91,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Катинка Сальмон 70 см Арт. S11307</name>
       <price>105</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pdPXDPlwZqf_uMuNyXYBob_r1QCueKYO</picture>
       <picture>https://lh3.googleusercontent.com/d/1gNGVDdO7McCsWu41X_ThNxE2sZLGCiRq</picture>
@@ -203,11 +203,45 @@
       <param name="Артикул">S02416</param>
       <consist name="Георгин" unit="шт">10</consist>
     </offer>
+    <offer id="S8658" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия 80 см Арт. S8658</name>
+      <price>599</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15Jqtxa7_jmd2jybITUp7smSb0XarhPuU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e3R2UbsKN_QzAr4fn3I_X_nsW3-o11QS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bKYn9vUpRxbN91seTJTBzvczDnGXQPs9</picture>
+      <picture>https://lh3.googleusercontent.com/d/10kSebVXjLWo9fv_SiRzKkGb9CLSjDift</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zLywdDhPFTAh8xhwP_sV9KMK2I3MXlEN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S8658</param>
+      <consist name="Гидрангия" unit="шт">5</consist>
+    </offer>
+    <offer id="S9641" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Верена 100 см Арт. S9641</name>
+      <price>599</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10hbINqfIyd9HsnTiTnG-oUTLDk1_-4Uj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TG7MINpyFgPfgBrsVwqEBs0Z_Z-MFZrj</picture>
+      <picture>https://lh3.googleusercontent.com/d/11gx-_Ksgpj-BPK5y6v9RUZVvUFZLp-hF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UiifjrNxegsDDNQrbeiMa8816Je8VawO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1utlDI7nkOknz96qfdKsS5qUBfrwM03Ce</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">100</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9641</param>
+      <consist name="Гидрангия Верена" unit="шт">5</consist>
+    </offer>
     <offer id="S7469" available="true">
       <categoryId>37</categoryId>
       <name>Глориоза Ротшильд 90 см Арт. S7469</name>
       <price>359</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18vz68aYnOkRB4RCKaQZmW23eTQkYljgr</picture>
       <picture>https://lh3.googleusercontent.com/d/1DBa_1cxpjhvEIm8LVEfyO2rpcntV9qPz</picture>
@@ -241,7 +275,7 @@
       <categoryId>37</categoryId>
       <name>Дельфиниум Кендл Вайт Шадес 90 см Арт. S9669</name>
       <price>199</price>
-      <qty>120</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XpvjseUZ86-Xzb2SucmFWTRgmeHBC_Ow</picture>
       <picture>https://lh3.googleusercontent.com/d/1kaGL22gdQBmfgzJJmZvpyG2fPvUR0hed</picture>
@@ -293,7 +327,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. S01047</name>
       <price>109</price>
-      <qty>130</qty>
+      <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JFA5RWFPDn-iZnCfxmFGwfbWPC1yoxYR</picture>
       <picture>https://lh3.googleusercontent.com/d/17qloaB4DvoBQUNaTfagJr-886fKpjILT</picture>
@@ -311,7 +345,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Чемпион Блу 70 см Арт. S01057</name>
       <price>139</price>
-      <qty>50</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1R3m_1u25fvvtganRSLeNdK_Sf2wy_N0j</picture>
       <picture>https://lh3.googleusercontent.com/d/1TY_9IxESVXr57KjPPaX8H4SW9rkY64rl</picture>
@@ -358,7 +392,7 @@
       <categoryId>37</categoryId>
       <name>Нутан Хайдж Голд 80 см Арт. S3728</name>
       <price>199</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11W1bBUs8CzeikZOjBzzSl_Z68rBXEeJ5</picture>
       <picture>https://lh3.googleusercontent.com/d/1NeXbXlPYYdqu9H6V_oZ0NdGevTLIpckj</picture>
@@ -392,7 +426,7 @@
       <categoryId>37</categoryId>
       <name>Орнитогалум Турсордес 50 см Арт. S01165</name>
       <price>85</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kpgsCQ32e2UmFPslR35bX3x_DUssstAQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1Y9-NdNnoWIAoxbX8X1N_wPe86MtEScuT</picture>
@@ -409,7 +443,7 @@
       <categoryId>37</categoryId>
       <name>Роза Смеральда 90 см Арт. S11579</name>
       <price>169</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11CXlc1PGDptFI6S68hKd_O9wAVrcV2eP</picture>
       <picture>https://lh3.googleusercontent.com/d/1XQTQifPxpD-KalW1xD80h2u92KWF7lFN</picture>
@@ -591,7 +625,7 @@
       <categoryId>38</categoryId>
       <name>Картамус Занзибар 80 см Арт. S01328</name>
       <price>79</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rVoSJ8s7Atrm4JrHWOAoWty0U4kaCO8q</picture>
       <picture>https://lh3.googleusercontent.com/d/1r8U1DuADxOhsRXZhk1pRAeEEj29jAqoz</picture>
@@ -625,7 +659,7 @@
       <categoryId>38</categoryId>
       <name>Перчик Зеленый 60 см Арт. S03646</name>
       <price>849</price>
-      <qty>7</qty>
+      <qty>6</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1A_otlYFJhGXhg3qxzR8py9XOiHrC5UfG</picture>
       <picture>https://lh3.googleusercontent.com/d/1Tj1lN2d_Swl6zH8vb3RrKW8JVn8Tfv__</picture>
@@ -710,7 +744,7 @@
       <categoryId>38</categoryId>
       <name>Хасмантиум Латифолия 90 см Арт. S01549</name>
       <price>47</price>
-      <qty>20</qty>
+      <qty>120</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1HnvwhmmtZpyTseAWWYoURSteRViHqnI0</picture>
       <picture>https://lh3.googleusercontent.com/d/1P39dB4slwTLGRwMWOPH6Ft08XSF0KDf_</picture>
