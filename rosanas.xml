@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T21:08:41.270+03:00">
+<yml_catalog date="2025-10-09T21:18:49.246+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -27,7 +27,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
+      <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S12276</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">20</consist>
     </offer>
@@ -236,7 +236,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
+      <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S12287</param>
       <consist name="Роза одноголовая Пич Авалаш" unit="шт">15</consist>
     </offer>
@@ -282,7 +282,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
+      <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S12187</param>
       <consist name="Роза одноголовая Саида" unit="шт">15</consist>
     </offer>
@@ -481,22 +481,6 @@
       <param name="Артикул">S11714</param>
       <consist name="Роза кустовая Эксклюзив Сенсейшн" unit="шт">10</consist>
     </offer>
-    <offer id="S7554" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Яна 40 см Арт. S7554</name>
-      <price>178</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19KPcsI-s43bQ7IKRZcpgL_fUJLMB8Ea7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1x98JKepPOYk82MRg7Mht10EgC3QgqFf6</picture>
-      <picture>https://lh3.googleusercontent.com/d/1D_ysGnJA8paHtod9lfMP2m68yN_JGtk2</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">S7554</param>
-      <consist name="Роза кустовая Яна" unit="шт">10</consist>
-    </offer>
     <offer id="S13284" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Яна 40 см Арт. S13284</name>
@@ -644,7 +628,7 @@
     <offer id="S04275" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. S04275</name>
-      <price>397</price>
+      <price>274</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eFnuVEDE4qR3mjGbkhZXFgTxfpGj1oYA</picture>
