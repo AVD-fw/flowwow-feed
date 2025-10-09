@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T07:10:40.590+03:00">
+<yml_catalog date="2025-10-09T07:20:37.773+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,39 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Cp00857" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Cp00857</name>
+      <price>138</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G0BaE-UJB8quOCm0ku7jg1YpW0k1izRM</picture>
+      <picture>https://lh3.googleusercontent.com/d/19yQdcDdiElihTpd-WcWIR1qid0QekY6h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wVE_tBsLQ06I0lQQYtD3HYOz9bTd7u4F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LKjiuKtvlM-LtneEXn_gTUdbhrq_FYgQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SvdWipCzCkpP6kjPI-8Vz7vsHBbdlit1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp00857</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Cp13707" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бакарди Еллоу 70 см Арт. Cp13707</name>
+      <price>105</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TZxbcrL8p_fNtijYP1M8g5_b9UwAkIkl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mNIgqL72uQikYnImhMixPkXZvFpEDoUX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp13707</param>
+      <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
+    </offer>
     <offer id="Cp00615" available="true">
       <categoryId>38</categoryId>
       <name>Вероника кустовая Фиолетовый 50 см Арт. Cp00615</name>
