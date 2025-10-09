@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T08:48:32.799+03:00">
+<yml_catalog date="2025-10-09T08:58:46.118+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S4915" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Пиони Бабблс 50 см Арт. S4915</name>
+      <price>206</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BuPlpSa5-IrdNfLHmQUlQmrtMGslFl7_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n2iN5dOOQS7a2aNoY5MsQFoX-L2GQkau</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e36rusMuysoVXtLRnMjeo4_exXk-wHxF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lbSXln-8r_JMiDpexygL6QyAmp3mvBIx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-jlXlM3XhN6Al0tXeOIY9mNOTFx7O2gA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S4915</param>
+      <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
+    </offer>
     <offer id="S7367" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар 70 см Арт. S7367</name>
@@ -55,7 +73,7 @@
     <offer id="S02297" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Деко 70 см Арт. S02297</name>
-      <price>997</price>
+      <price>134</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1w9VnsQDhWCsmxSTOFFjnv2ep2ykNylq5</picture>
@@ -146,24 +164,6 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">S12635</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
-    </offer>
-    <offer id="S00245" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси микс 55 см Арт. S00245</name>
-      <price>997</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ppfhInxtydy29anSrljVkVE0QFHuOkfW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mjiX6dJnfBZSeclDjvld9fpLS_sBO2VX</picture>
-      <picture>https://lh3.googleusercontent.com/d/187LgzL0U_7fBtXb7EY2Fm08Zn1n6pPI7</picture>
-      <picture>https://lh3.googleusercontent.com/d/18pNMiIY4BnEM8dt6eEiCh5VwTZ_MTT-X</picture>
-      <picture>https://lh3.googleusercontent.com/d/1BQF-TXFOueC6SErrGi2ov9Z2YhgKouqW</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">S00245</param>
-      <consist name="Хризантема Сантини Росси микс" unit="шт">25</consist>
     </offer>
     <offer id="S9335" available="true">
       <categoryId>7</categoryId>
@@ -716,18 +716,18 @@
       <name>Эустома Белый 60 см Арт. S03486</name>
       <price>1999</price>
       <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
+      <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mPro5UBDovDwyxyQeJtOB-PmMNSLnaJ_</picture>
       <picture>https://lh3.googleusercontent.com/d/1Duwj5ts2EQ7wuX5P7FKmnXZNf4xTBdpE</picture>
       <picture>https://lh3.googleusercontent.com/d/1F2UeexaTuoquo-YwEp-v1wOocnbvEdhv</picture>
       <picture>https://lh3.googleusercontent.com/d/1boSius16f9TasLdwgzdIgSgPUwIwLzk9</picture>
       <picture>https://lh3.googleusercontent.com/d/1rBIffVHi-3MhxEdnBYmxeg5VSFts4IS-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">S03486</param>
-      <consist name="Эустома" unit="шт">10</consist>
+      <consist name="Эустома" unit="шт">1</consist>
     </offer>
     <offer id="S7797" available="true">
       <categoryId>37</categoryId>
@@ -745,20 +745,6 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">S7797</param>
       <consist name="Эустома Алиса Блю" unit="шт">10</consist>
-    </offer>
-    <offer id="S6227" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Елоу 70 см Арт. S6227</name>
-      <price>997</price>
-      <qty>80</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mb_vhFe6FQVT_QlbtfdcHRwhIAZuPe-5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1eGQjuBLDgMKcC9BeonOBORl7YV_gl7nG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">S6227</param>
-      <consist name="Эустома Алиса Елоу" unit="шт">10</consist>
     </offer>
     <offer id="S8267" available="true">
       <categoryId>37</categoryId>
@@ -781,7 +767,7 @@
     <offer id="S01245" available="true">
       <categoryId>38</categoryId>
       <name>Гиперикум Коко Диабло 50 см Арт. S01245</name>
-      <price>997</price>
+      <price>149</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1olhYmr8IlTGdCT0sphkMl2pYIIYPzkHK</picture>
@@ -798,7 +784,7 @@
     <offer id="S01235" available="true">
       <categoryId>38</categoryId>
       <name>Гиперикум Коко Казино 50 см Арт. S01235</name>
-      <price>997</price>
+      <price>149</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JrpOcjr3SyOZ_uXvtmPNPeTYEAbmqVty</picture>
