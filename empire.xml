@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T13:04:04.147+03:00">
+<yml_catalog date="2025-10-09T13:13:56.143+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -447,24 +447,6 @@
       <param name="Артикул">E00306</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
-    <offer id="E00267" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Фиолетовый 70 см Арт. E00267</name>
-      <price>155</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19D0LDDR2q8BEThhXIFtO2WJ6mYYm81bP</picture>
-      <picture>https://lh3.googleusercontent.com/d/17vECGxqb6528ej_xDzyWtK4mUd1jurBv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1K58fF86bXhzwbJapKJIzbErBqc1dNxOc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oCGMOzlSB1LiO-ZpPRMaW2a4UZjKPMtt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ru97FUzGFma-FowMS80Mm7wifNzig8iw</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij waalzicht</param>
-      <param name="Артикул">E00267</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
     <offer id="E1785" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Фиолетовый 50 см Арт. E1785</name>
@@ -545,6 +527,24 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">E3526</param>
       <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="E00267" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Блу Пикот 70 см Арт. E00267</name>
+      <price>155</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19D0LDDR2q8BEThhXIFtO2WJ6mYYm81bP</picture>
+      <picture>https://lh3.googleusercontent.com/d/17vECGxqb6528ej_xDzyWtK4mUd1jurBv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K58fF86bXhzwbJapKJIzbErBqc1dNxOc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oCGMOzlSB1LiO-ZpPRMaW2a4UZjKPMtt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ru97FUzGFma-FowMS80Mm7wifNzig8iw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">E00267</param>
+      <consist name="Эустома Росита Блу Пикот" unit="шт">10</consist>
     </offer>
     <offer id="E01205" available="true">
       <categoryId>38</categoryId>
