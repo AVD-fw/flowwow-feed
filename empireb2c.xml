@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T13:35:54.043+03:00">
+<yml_catalog date="2025-10-09T13:45:51.846+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -33,7 +33,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
+      <param name="Страна">Голландия</param>
       <param name="Производитель">Lewis Flowers</param>
       <param name="Артикул">E01286</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
@@ -218,36 +218,6 @@
       <param name="Артикул">E00306</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_E2496" available="true">
-      <name>Эустома 10 шт Фиолетовый 60 см Арт. E2496</name>
-      <categoryId>1</categoryId>
-      <price>1550</price>
-      <picture>https://lh3.googleusercontent.com/d/1Pn-2JVuDpXXyFDi1lgdqlOUQnQGDev1N</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UPxIAd9embMyJy9LdDzRAxNni7Cjxig4</picture>
-      <picture>https://lh3.googleusercontent.com/d/15rQXn2AXpfpiv5K-78P2KzocAdWef1CD</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E2496</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E2506" available="true">
-      <name>Эустома 10 шт Разовый 60 см Арт. E2506</name>
-      <categoryId>1</categoryId>
-      <price>1550</price>
-      <picture>https://lh3.googleusercontent.com/d/1Jp6rhjBa5Ip84j1cLznpX30cvvsvVbX5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1cHKzN3HBPrOvHwXOK-mOfMtpBwTEbVEp</picture>
-      <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E2506</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
     <offer id="B2C_E3416" available="true">
       <name>Эустома Алиса Вайт 10 шт 60 см Арт. E3416</name>
       <categoryId>1</categoryId>
@@ -262,6 +232,36 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">E3416</param>
       <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="B2C_E2506" available="true">
+      <name>Эустома Алиса Пинк 10 шт 60 см Арт. E2506</name>
+      <categoryId>1</categoryId>
+      <price>1550</price>
+      <picture>https://lh3.googleusercontent.com/d/1Jp6rhjBa5Ip84j1cLznpX30cvvsvVbX5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cHKzN3HBPrOvHwXOK-mOfMtpBwTEbVEp</picture>
+      <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">E2506</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="B2C_E2496" available="true">
+      <name>Эустома Корелли Лавандер 10 шт 60 см Арт. E2496</name>
+      <categoryId>1</categoryId>
+      <price>1550</price>
+      <picture>https://lh3.googleusercontent.com/d/1Pn-2JVuDpXXyFDi1lgdqlOUQnQGDev1N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UPxIAd9embMyJy9LdDzRAxNni7Cjxig4</picture>
+      <picture>https://lh3.googleusercontent.com/d/15rQXn2AXpfpiv5K-78P2KzocAdWef1CD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">E2496</param>
+      <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
     </offer>
     <offer id="B2C_E00267" available="true">
       <name>Эустома Росита Блу Пикот 10 шт 70 см Арт. E00267</name>
