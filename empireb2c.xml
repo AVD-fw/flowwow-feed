@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T07:40:00.625+03:00">
+<yml_catalog date="2025-10-09T07:45:17.912+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -8,45 +8,6 @@
       <category id="1">Монобукеты</category>
     </categories>
     <offers>
-    <offer id="B2C_E2167" available="true">
-      <name>Хризантема одноголовая Антонов 10 шт 70 см Арт. E2167</name>
-      <categoryId>1</categoryId>
-      <price>1500</price>
-      <picture>https://lh3.googleusercontent.com/d/1XC8Dafv7LNunAbMvSbUOSY02g3FyxY5-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E2167</param>
-      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E2177" available="true">
-      <name>Хризантема одноголовая Магнум 10 шт 70 см Арт. E2177</name>
-      <categoryId>1</categoryId>
-      <price>1500</price>
-      <picture>https://lh3.googleusercontent.com/d/11kpx4lvw30XNDjweIMFkn70fir0OwlUw</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E2177</param>
-      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E2447" available="true">
-      <name>Хризантема одноголовая Магнум 10 шт 70 см Арт. E2447</name>
-      <categoryId>1</categoryId>
-      <price>1500</price>
-      <picture>https://lh3.googleusercontent.com/d/1tvfT5AyJBNQuaA9JRKqyPgyfIT5DLoqa</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Vannova</param>
-      <param name="Артикул">E2447</param>
-      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
-    </offer>
     <offer id="B2C_E3807" available="true">
       <name>Хризантема одноголовая Момоко 10 шт 70 см Арт. E3807</name>
       <categoryId>1</categoryId>
@@ -61,19 +22,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">E3807</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E2996" available="true">
-      <name>Хризантема кустовая 5 шт 60 см Арт. E2996</name>
-      <categoryId>1</categoryId>
-      <price>375</price>
-      <picture>https://lh3.googleusercontent.com/d/1TDY3CB2QGLlZfNbiWddAQIYc93ycfsS7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">E2996</param>
-      <consist name="Хризантема кустовая" unit="шт">5</consist>
     </offer>
     <offer id="B2C_E01286" available="true">
       <name>Хризантема кустовая Алтай 5 шт 60 см Арт. E01286</name>
@@ -120,19 +68,6 @@
       <param name="Артикул">E2247</param>
       <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_E00946" available="true">
-      <name>Хризантема кустовая Бакарди Пинк 5 шт 60 см Арт. E00946</name>
-      <categoryId>1</categoryId>
-      <price>400</price>
-      <picture>https://lh3.googleusercontent.com/d/1gtzG1nbs7ZBWZAM-Iw5fkkPHyQfK6YgJ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">GG flowers</param>
-      <param name="Артикул">E00946</param>
-      <consist name="Хризантема кустовая Бакарди Пинк" unit="шт">5</consist>
-    </offer>
     <offer id="B2C_E00956" available="true">
       <name>Хризантема кустовая Бакарди Ред 5 шт 60 см Арт. E00956</name>
       <categoryId>1</categoryId>
@@ -146,51 +81,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">E00956</param>
       <consist name="Хризантема кустовая Бакарди Ред" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_E00896" available="true">
-      <name>Хризантема кустовая Балтика 5 шт 60 см Арт. E00896</name>
-      <categoryId>1</categoryId>
-      <price>400</price>
-      <picture>https://lh3.googleusercontent.com/d/1gxLPpuNNR-z5nh0KH33Cxb6IgoFZdI6Q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TEUF8cpdgXXKboM2PV-HfRWk4gwVCVUf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LzEZgAmvHWh5g-5sfFyFw85UwSYn6O77</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E00896</param>
-      <consist name="Хризантема кустовая Балтика" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_E00906" available="true">
-      <name>Хризантема кустовая Балтика Пинк 5 шт 60 см Арт. E00906</name>
-      <categoryId>1</categoryId>
-      <price>375</price>
-      <picture>https://lh3.googleusercontent.com/d/1-VZfYIMXdWbfADRlfCoj5jQyuyFHAWly</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ufLTct1adFK-6cMotKc6NUhqhYYwuL7A</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZNlHQQeb0q175vBj75NhPDnFOytREZhF</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">E00906</param>
-      <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_E2836" available="true">
-      <name>Хризантема кустовая Командер 5 шт 60 см Арт. E2836</name>
-      <categoryId>1</categoryId>
-      <price>425</price>
-      <picture>https://lh3.googleusercontent.com/d/1mtboh847ByZJxZQ6NZIA6ysyGCDgLXIb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1QPPE7go59yqUjN7mOJKhPmv9_dsNG4zc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TgqpirxDssoDzvOeEos1wDzHYDa2O9kS</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">E2836</param>
-      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
     </offer>
     <offer id="B2C_E2227" available="true">
       <name>Хризантема кустовая Командер Пинк 5 шт 70 см Арт. E2227</name>
@@ -207,92 +97,6 @@
       <param name="Артикул">E2227</param>
       <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="B2C_E00886" available="true">
-      <name>Хризантема кустовая Ньютон 5 шт 60 см Арт. E00886</name>
-      <categoryId>1</categoryId>
-      <price>400</price>
-      <picture>https://lh3.googleusercontent.com/d/1uEaWEwYuLJICAGIyD1qmJo6MTOAY3URC</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E00886</param>
-      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_E3777" available="true">
-      <name>Хризантема кустовая Рианна 5 шт 70 см Арт. E3777</name>
-      <categoryId>1</categoryId>
-      <price>425</price>
-      <picture>https://lh3.googleusercontent.com/d/1yrAxhr_9Q2IN759TgLzZQJJC4YQqQ7Ma</picture>
-      <picture>https://lh3.googleusercontent.com/d/17aEX2yblJ7ONB-YoXRH39ipjXQ2tw5nz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uA9e7JVlHh0xwU7QYE4jBqDfMu8Y_988</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Vannova</param>
-      <param name="Артикул">E3777</param>
-      <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_E01005" available="true">
-      <name>Хризантема Сантини 25 шт Фиолетовый 50 см Арт. E01005</name>
-      <categoryId>1</categoryId>
-      <price>2225</price>
-      <picture>https://lh3.googleusercontent.com/d/1sj5pC0B9sGq-zI24IFMH3pf6ZxLpuYFY</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">E01005</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E1705" available="true">
-      <name>Хризантема Сантини 25 шт Лимонный 50 см Арт. E1705</name>
-      <categoryId>1</categoryId>
-      <price>1875</price>
-      <picture>https://lh3.googleusercontent.com/d/1p7xQprBbdC-8xY4Nl8jD3J1fbgvu6YEo</picture>
-      <picture>https://lh3.googleusercontent.com/d/1IvJ77P3M2OMtYsx-EJA3YUF1RTu19Q1z</picture>
-      <picture>https://lh3.googleusercontent.com/d/14ejdnevRf32x9jlOp6cnMs3WFnQMGlh5</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E1705</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E1715" available="true">
-      <name>Хризантема Сантини 25 шт Фиолетовый 50 см Арт. E1715</name>
-      <categoryId>1</categoryId>
-      <price>1875</price>
-      <picture>https://lh3.googleusercontent.com/d/1Z02ruUcBDxlLTNWnbZcOikgBIl2xab0X</picture>
-      <picture>https://lh3.googleusercontent.com/d/104EBYC24PIV1zpAxHCs95L21EUEFB_yE</picture>
-      <picture>https://lh3.googleusercontent.com/d/17b3Vly2exu1ISsG_bRDY0sDIisYKng8f</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E1715</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E2606" available="true">
-      <name>Хризантема Сантини Байкал 25 шт 60 см Арт. E2606</name>
-      <categoryId>1</categoryId>
-      <price>1875</price>
-      <picture>https://lh3.googleusercontent.com/d/1N3l091W608JeYR7HLeG70M59wwicwy33</picture>
-      <picture>https://lh3.googleusercontent.com/d/1y7x2Su4kEFLlwNETLPpvNzSf1P-bg79k</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HRYTyJTSjMoE06ASithaF1jXjLOMmExS</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">E2606</param>
-      <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
-    </offer>
     <offer id="B2C_E00985" available="true">
       <name>Хризантема Сантини Пеп Талк 25 шт 50 см Арт. E00985</name>
       <categoryId>1</categoryId>
@@ -307,21 +111,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">E00985</param>
       <consist name="Хризантема Сантини Пеп Талк" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E00316" available="true">
-      <name>Хризантема Сантини Росси Крем 25 шт 60 см Арт. E00316</name>
-      <categoryId>1</categoryId>
-      <price>2225</price>
-      <picture>https://lh3.googleusercontent.com/d/1pHB0e4L_bsZct5cX8-n0iLMiTjirJlwE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1R3n-i_LDCZfU8fa2SFAEZT5wHHCGQujt</picture>
-      <picture>https://lh3.googleusercontent.com/d/14U0NxbpfNh6UY3GsaOtqAm5zv1VlYc-r</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">LS Santini</param>
-      <param name="Артикул">E00316</param>
-      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
     <offer id="B2C_E00326" available="true">
       <name>Хризантема Сантини Росси Пинк 25 шт 60 см Арт. E00326</name>
@@ -338,89 +127,6 @@
       <param name="Артикул">E00326</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_E268" available="true">
-      <name>Вероника Микс 25 шт 50 см Арт. E268</name>
-      <categoryId>1</categoryId>
-      <price>1900</price>
-      <picture>https://lh3.googleusercontent.com/d/1FK_djuS6kgDQWEwh8S2mlxjGjmNO3VeL</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Veronica Florius</param>
-      <param name="Артикул">E268</param>
-      <consist name="Вероника Микс" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E2034" available="true">
-      <name>Вероника кустовая 25 шт Фиолетовый 40 см Арт. E2034</name>
-      <categoryId>1</categoryId>
-      <price>1900</price>
-      <picture>https://lh3.googleusercontent.com/d/1xCmR0_StZ2kIFGEXTec8bOQ7gksfJHJH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">E2034</param>
-      <consist name="Вероника кустовая" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E01146" available="true">
-      <name>Гвоздика одноголовая 25 шт Малиновый 60 см Арт. E01146</name>
-      <categoryId>1</categoryId>
-      <price>1075</price>
-      <picture>https://lh3.googleusercontent.com/d/1d8fe2vL2mOPo_SWX9ZAWkVm0dOdIFulT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Dc8NGV_9c2HSWum9wO9l2pGusN5Wcv-r</picture>
-      <picture>https://lh3.googleusercontent.com/d/1WwX96ShnzWsp_jRtloP4mSp_CqV4RlvV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik Flowers</param>
-      <param name="Артикул">E01146</param>
-      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E2616" available="true">
-      <name>Гвоздика одноголовая 25 шт Фуксия 60 см Арт. E2616</name>
-      <categoryId>1</categoryId>
-      <price>1075</price>
-      <picture>https://lh3.googleusercontent.com/d/12-CFGP4ghNz58XnWsmzoGBsoJfKSEJSY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VKd0oaOt0QOcLRxfNyb8ZQkhuyBu5tYf</picture>
-      <picture>https://lh3.googleusercontent.com/d/18p_MsX0y1hAPdf4F65cRUtnG2ujxXhvc</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik Flowers</param>
-      <param name="Артикул">E2616</param>
-      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E3376" available="true">
-      <name>Гвоздика одноголовая 25 шт Красный 60 см Арт. E3376</name>
-      <categoryId>1</categoryId>
-      <price>1075</price>
-      <picture>https://lh3.googleusercontent.com/d/1p33iEsDlAalknuvk8RvnEHFybjhZeO0C</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dwl90FRRuNV1-x-lJJtyeQgyPNWCq94h</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XkPeRUB_4THUcWTKRzk4NxBAA6GQRI9C</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik flowers</param>
-      <param name="Артикул">E3376</param>
-      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E3756" available="true">
-      <name>Гвоздика Одноголовая 25 шт Малиновый 60 см Арт. E3756</name>
-      <categoryId>1</categoryId>
-      <price>1075</price>
-      <picture>https://lh3.googleusercontent.com/d/1YDNBv4btyXNVwoErbu9AaxJbLtfSN4vr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZDFFOFiaJ2sSZ5Eig-36YYTWLK0_ZQq0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1W9W86987RlfdEp6_euUsVk71T4izUql7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik Flowers</param>
-      <param name="Артикул">E3756</param>
-      <consist name="Гвоздика Одноголовая" unit="шт">25</consist>
-    </offer>
     <offer id="B2C_E00537" available="true">
       <name>Гипсофила 25 шт Радужный 70 см Арт. E00537</name>
       <categoryId>1</categoryId>
@@ -436,19 +142,6 @@
       <param name="Артикул">E00537</param>
       <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_E01237" available="true">
-      <name>Гипсофила Краш. Светло-Розовая 25 шт 70 см Арт. E01237</name>
-      <categoryId>1</categoryId>
-      <price>1950</price>
-      <picture>https://lh3.googleusercontent.com/d/11YkrS3WdSd8aCLxURMLA2Rm9vH3EX2jT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Esmeralda</param>
-      <param name="Артикул">E01237</param>
-      <consist name="Гипсофила Краш. Светло-Розовая" unit="шт">25</consist>
-    </offer>
     <offer id="B2C_E3397" available="true">
       <name>Гипсофила Ярко розовая 25 шт 70 см Арт. E3397</name>
       <categoryId>1</categoryId>
@@ -463,50 +156,6 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">E3397</param>
       <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
-    </offer>
-    <offer id="B2C_E3516" available="true">
-      <name>Дельфиниум 10 шт Белый 60 см Арт. E3516</name>
-      <categoryId>1</categoryId>
-      <price>2550</price>
-      <picture>https://lh3.googleusercontent.com/d/1pwt80Z4TfFTBdo2es7BtWCcsmZ7HFDum</picture>
-      <picture>https://lh3.googleusercontent.com/d/1j6KS7TjacIQ7dZ4bQvhlC88klvB-f8XE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1IndcjDEWja0UDdGVqituT8cAqLgm-2u6</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kisma</param>
-      <param name="Артикул">E3516</param>
-      <consist name="Дельфиниум" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E3646" available="true">
-      <name>Дельфиниум 10 шт Голубой 60 см Арт. E3646</name>
-      <categoryId>1</categoryId>
-      <price>2600</price>
-      <picture>https://lh3.googleusercontent.com/d/1NhLoKFup34x2u_K6IcLDwBP971jOaJkB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XWET6Xh0o4hzyWfpvcCs9mIfFR470AG_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EaozUrTE3A_Xi2AGdEu9lWoUzv6feIRL</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">E3646</param>
-      <consist name="Дельфиниум" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E3656" available="true">
-      <name>Дельфиниум 10 шт Синий 60 см Арт. E3656</name>
-      <categoryId>1</categoryId>
-      <price>2600</price>
-      <picture>https://lh3.googleusercontent.com/d/1BoIKL5O32WhUjx1IhuOD-27EX-badsqc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nl-P-iUvILaGxvrB8L2eWFvUhSvQuljx</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ObIqK-vRIufTI-vij-6G1fPL1BJmHglF</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Delfinium</param>
-      <param name="Артикул">E3656</param>
-      <consist name="Дельфиниум" unit="шт">10</consist>
     </offer>
     <offer id="B2C_E00385" available="true">
       <name>Ирис Блю Меджик 50 шт 50 см Арт. E00385</name>
@@ -553,86 +202,6 @@
       <param name="Артикул">E2396</param>
       <consist name="Калла" unit="шт">10</consist>
     </offer>
-    <offer id="B2C_E2406" available="true">
-      <name>Калла 10 шт Белый 60 см Арт. E2406</name>
-      <categoryId>1</categoryId>
-      <price>2000</price>
-      <picture>https://lh3.googleusercontent.com/d/1bMq-UAeBd09XmRnbLr8ihWi1RW-trqf4</picture>
-      <picture>https://lh3.googleusercontent.com/d/13p4UEFOb2mrW2SJezgztBJg3j5o1mZiU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1O7FN1mSGFVCUIsdXnEdbVhFEIz1fSA9x</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kallaland</param>
-      <param name="Артикул">E2406</param>
-      <consist name="Калла" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E3704" available="true">
-      <name>Леукоспермум 5 шт Оранжевый 40 см Арт. E3704</name>
-      <categoryId>1</categoryId>
-      <price>600</price>
-      <picture>https://lh3.googleusercontent.com/d/1Bi8R1gpB1Tp3HwLA2yGO2eVi4o4BEmhn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">African Wildflowers</param>
-      <param name="Артикул">E3704</param>
-      <consist name="Леукоспермум" unit="шт">5</consist>
-    </offer>
-    <offer id="B2C_E01605" available="true">
-      <name>Маттиола 10 шт Розовый 50 см Арт. E01605</name>
-      <categoryId>1</categoryId>
-      <price>1300</price>
-      <picture>https://lh3.googleusercontent.com/d/1pztdS-3FxuK3HqUe3wLRZv4lp5Ah8haG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1n7NzPgEZwzTl3Q3KWMYoZqLNNZ7roawi</picture>
-      <picture>https://lh3.googleusercontent.com/d/19a7ocyFEL7LJ_afx9OPYIwKrOOolncLh</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">E01605</param>
-      <consist name="Маттиола" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E3505" available="true">
-      <name>Маттиола 10 шт Фиолетовый 50 см Арт. E3505</name>
-      <categoryId>1</categoryId>
-      <price>1300</price>
-      <picture>https://lh3.googleusercontent.com/d/172-BY1svPQWRPCtVaEkXthrLYTlvrjIM</picture>
-      <picture>https://lh3.googleusercontent.com/d/16EstTOZ1g5Tg1fYDyDndbkXPqav3kvPP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ldoXXHgBUnw3DYdVCc-D4_6Qz5Uaau7a</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">E3505</param>
-      <consist name="Маттиола" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E2465" available="true">
-      <name>Протея 1 шт Белый 50 см Арт. E2465</name>
-      <categoryId>1</categoryId>
-      <price>560</price>
-      <picture>https://lh3.googleusercontent.com/d/1zQ9DLz1azzIW2N1c_L5WNsOCGikRExTJ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">E2465</param>
-      <consist name="Протея" unit="шт">1</consist>
-    </offer>
-    <offer id="B2C_E01185" available="true">
-      <name>Статица 25 шт Лиловый 50 см Арт. E01185</name>
-      <categoryId>1</categoryId>
-      <price>3000</price>
-      <picture>https://lh3.googleusercontent.com/d/1UBx8s8PlLn18eDZJL3ImU5_U4kXU-c0q</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">E01185</param>
-      <consist name="Статица" unit="шт">25</consist>
-    </offer>
     <offer id="B2C_E00306" available="true">
       <name>Танацетум 25 шт Белый 60 см Арт. E00306</name>
       <categoryId>1</categoryId>
@@ -648,36 +217,6 @@
       <param name="Артикул">E00306</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
-    <offer id="B2C_E2955" available="true">
-      <name>Фрезия 50 шт 50 см Арт. E2955</name>
-      <categoryId>1</categoryId>
-      <price>3500</price>
-      <picture>https://lh3.googleusercontent.com/d/1K28fK_G9iMaGsf_iYNGHE2IQo93vN11s</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UcT2JyMnSyTe_6A2lB8g77TyNpeQu3bc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1u1EXvi6FMP2IIZgG8Mzmac25-z4jQxO5</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Ton Vreugdenhil Fresia</param>
-      <param name="Артикул">E2955</param>
-      <consist name="Фрезия" unit="шт">50</consist>
-    </offer>
-    <offer id="B2C_E00257" available="true">
-      <name>Эустома 10 шт Белый 70 см Арт. E00257</name>
-      <categoryId>1</categoryId>
-      <price>1000</price>
-      <picture>https://lh3.googleusercontent.com/d/1Mn0p0vNxKqlW8PaBaPpNiXPvUBGX9DQJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JE3sO0YpVvg8jLb_g-nx98ArUuf6FlYX</picture>
-      <picture>https://lh3.googleusercontent.com/d/18LobsAsl3lprjNTLAPhvfuvhV2bWKYVd</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">E00257</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
     <offer id="B2C_E00267" available="true">
       <name>Эустома 10 шт Фиолетовый 70 см Арт. E00267</name>
       <categoryId>1</categoryId>
@@ -691,49 +230,6 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Kwekerij waalzicht</param>
       <param name="Артикул">E00267</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E1785" available="true">
-      <name>Эустома 10 шт Фиолетовый 50 см Арт. E1785</name>
-      <categoryId>1</categoryId>
-      <price>1400</price>
-      <picture>https://lh3.googleusercontent.com/d/1W3Qopwa-r7KHoX0qGqWEDM2AUSF2h0Ov</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E1785</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E2476" available="true">
-      <name>Эустома 10 шт Сиреневый 60 см Арт. E2476</name>
-      <categoryId>1</categoryId>
-      <price>1550</price>
-      <picture>https://lh3.googleusercontent.com/d/1w6d1h7EGpJAagtC-VSa1sAckGHBD-tp5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OBRTEm42T-_YqpQ2zUCeASxZIvc0Mpfr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RCuWs-4Yczf4HyXGx_567ilX4wvG5JFm</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E2476</param>
-      <consist name="Эустома" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E2486" available="true">
-      <name>Эустома 10 шт Розовый 60 см Арт. E2486</name>
-      <categoryId>1</categoryId>
-      <price>1550</price>
-      <picture>https://lh3.googleusercontent.com/d/1O7QL_FXf_g34X7j9rSAzTeJp8zfjDUeI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fgdUvl-kRNOCgbHC2ZNK2gWsaEGIL_pD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PuLoy4B9EGPaNdcRi-tn4QXAnlUco_5-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">E2486</param>
       <consist name="Эустома" unit="шт">10</consist>
     </offer>
     <offer id="B2C_E2496" available="true">
@@ -780,45 +276,6 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">E3416</param>
       <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E3526" available="true">
-      <name>Эустома Алиса Пинк 10 шт 60 см Арт. E3526</name>
-      <categoryId>1</categoryId>
-      <price>1550</price>
-      <picture>https://lh3.googleusercontent.com/d/1vvviJ3sIQ3xZuWqybSCmuNtqM9XyWK6-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">E3526</param>
-      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E3716" available="true">
-      <name>Эустома Росита Вайт 10 шт 60 см Арт. E3716</name>
-      <categoryId>1</categoryId>
-      <price>1550</price>
-      <picture>https://lh3.googleusercontent.com/d/1kReaH11chMM8OPMoYw3m2hah1Y--VSl2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZySFwu4eg7fSfHPnJsnfBbfFtxuQd-JT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mXoLB3JS444zwQ6bbXt2B50jAF53fnNH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">E3716</param>
-      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
-    </offer>
-    <offer id="B2C_E01205" available="true">
-      <name>Эрингиум 10 шт Синий 50 см Арт. E01205</name>
-      <categoryId>1</categoryId>
-      <price>1550</price>
-      <picture>https://lh3.googleusercontent.com/d/1SdaxWk0pVvfZi1KfKV1UDDKhbAd0a5pB</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">E01205</param>
-      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
