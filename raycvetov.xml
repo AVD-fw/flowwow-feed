@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-09T13:29:01.001+03:00">
+<yml_catalog date="2025-10-09T13:34:15.141+03:00">
   <shop>
     <name>Рай цветов</name>
     <company>raycvetov</company>
@@ -65,6 +65,25 @@ Terra Nostra
       <param name="Страна">Россия</param>
       <param name="Артикул">S00036</param>
       <consist name="Антуриум" unit="шт">1</consist>
+    </offer>
+    <offer id="S01226" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Корелли Лавандер Corelli Lavander 60 см Арт. S01226</name>
+      <price>180</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Wcy0_s6sNA9kAoqFxMHEkM9DrlmQP74v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v0Trhoc-RckW5jwp9egRJAUeZCH_aLTi</picture>
+      <description>Эустома
+Корелли Лавандер Corelli Lavander
+Kwekerij Waalzicht
+Голландия
+Цветы</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">S01226</param>
+      <consist name="Эустома Корелли Лавандер Corelli Lavander" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
