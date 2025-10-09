@@ -1,23 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-05T17:30:59.436+03:00">
+<yml_catalog date="2025-10-09T07:59:39.898+03:00">
   <shop>
-    <name>ROSANA`S FLOWERS</name>
+    <name>Империя цветов B2C</name>
     <company>rosanas</company>
     <url>https://flowwow.com/moscow/shops/wholesale/</url>
+    <categories>
+      <category id="1">Монобукеты</category>
+    </categories>
     <offers>
+    <offer id="B2C_S03547" available="true">
+      <name>Антирринум 9 шт Розовый 70 см Арт. S03547</name>
+      <categoryId>1</categoryId>
+      <price>2715</price>
+      <picture>https://lh3.googleusercontent.com/d/1ff2q4uj6mdqpaDRSwMI3a0Kwj4USNlIT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l1fFMXPTmRL5Mg5Ss39jHZG4dJASbyWL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x1MDwcXp3DPBI7n0lHHvn92dn0Uifd2b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S03547</param>
+      <consist name="Антирринум" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_S7277" available="true">
+      <name>Антирринум 9 шт Желтый 70 см Арт. S7277</name>
+      <categoryId>1</categoryId>
+      <price>1355</price>
+      <picture>https://lh3.googleusercontent.com/d/1kLEyUMwAD2MsE0o1IMsy9Rw8FZJSNgir</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S7277</param>
+      <consist name="Антирринум" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_S02416" available="true">
+      <name>Георгин 9 шт Розовый 60 см Арт. S02416</name>
+      <categoryId>1</categoryId>
+      <price>1100</price>
+      <picture>https://lh3.googleusercontent.com/d/1W8o9qBbVtnu4jfGDEtsFZCB6AyC4u7rz</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">S02416</param>
+      <consist name="Георгин" unit="шт">9</consist>
+    </offer>
+    <offer id="B2C_S03486" available="true">
+      <name>Эустома 9 шт Белый 60 см Арт. S03486</name>
+      <categoryId>1</categoryId>
+      <price>19990</price>
+      <picture>https://lh3.googleusercontent.com/d/1mPro5UBDovDwyxyQeJtOB-PmMNSLnaJ_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S03486</param>
+      <consist name="Эустома" unit="шт">9</consist>
+    </offer>
     <offer id="B2C_S03646" available="true">
       <name>Перчик 1 шт Зеленый 60 см Арт. S03646</name>
+      <categoryId>1</categoryId>
       <price>850</price>
-      <picture>https://lh3.googleusercontent.com/d/174EMjMeXYaovzBOfegpGvVGiEidv4rah</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oANAQ9JOtcwD1f1_4mBAkdd6hAMtcf_H</picture>
-      <picture>https://lh3.googleusercontent.com/d/19AXbT8w5iNRJ2tiZS8lZkQYs9RSQFtlI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ySBIwk1aDsetkQz28QlEImStMxhXN9c9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OotklSQgwYKjmszHoxcwiFp8Cf_Qd8es</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yF_51qh0zPsiRpGEGtybNl077SI6EIij</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qD-S3rmf7Z2_qXsLZZmUXpMuQjaYcbD9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HDb1IBbi3Qr282-HqpDkVepRNiR1FSi9</picture>
-      <picture>https://lh3.googleusercontent.com/d/10OW2YX4ywLReQF3dDiqgqrPocKyo1m4h</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pljTdSidLAwmhR6VeTwxqPMGfEtDCb99</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A_otlYFJhGXhg3qxzR8py9XOiHrC5UfG</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
@@ -28,12 +76,9 @@
     </offer>
     <offer id="B2C_S03479" available="true">
       <name>Пироканта 1 шт Оранжевый 99 см Арт. S03479</name>
+      <categoryId>1</categoryId>
       <price>1080</price>
-      <picture>https://lh3.googleusercontent.com/d/1pLFOqSzdaxETLcThIIK2biMgCeShNKK5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EPW2pGyJbTkBi2-lbh6AgtmS2vHusDfM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hHlCCN1Z-OJbOaUjrOniUECyC2xIUy6o</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hf7I89ZfhJ8hixkVqMN6QskdAjMnLFFz</picture>
-      <picture>https://lh3.googleusercontent.com/d/11Su1eOVtJSws0mOHhoMS1saETwby58pB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lb_jxTGYs4eJ4NvrTKSRduVv8QDWkWja</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">99</param>
       <param name="Ширина, см">15</param>
