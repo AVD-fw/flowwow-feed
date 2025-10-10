@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T11:27:32.928+03:00">
+<yml_catalog date="2025-10-10T11:37:35.292+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -32,6 +32,23 @@
       <param name="Производитель">Tessa</param>
       <param name="Артикул">Cp7887</param>
       <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp11127" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Помароса 70 см Арт. Cp11127</name>
+      <price>171</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18neuacV-o4t-7h6Sr7YuQOF1S4YdRms3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dj2kYPewvzQm-svoB5w4wulFfjlH2Qfw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tjO8dRmI36VBTbTuypQXgezxu4sS42YP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NtKyRNB6-ypdVLqLSaW0rXPBDHQ0AQrs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Cp11127</param>
+      <consist name="Роза одноголовая Помароса" unit="шт">25</consist>
     </offer>
     <offer id="Cp06307" available="true">
       <categoryId>2</categoryId>
@@ -451,6 +468,23 @@
       <param name="Артикул">Cp01075</param>
       <consist name="Хризантема Сантини Росси Сплендид" unit="шт">25</consist>
     </offer>
+    <offer id="Cp9637" available="true">
+      <categoryId>37</categoryId>
+      <name>Аллиум Бордовый 70 см Арт. Cp9637</name>
+      <price>281</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xYqrHgv9tTzCp16wanh42RMj22HxqvpI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mm-vfaSlUXVcSjikQgpM7xC08VPpA62O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OMPAwKafLnUOqM0fBA8X8-DIt4fyZv_m</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Zj5DwG7Af31xw-kb-XKYOk2rL1eOO9b_</picture>
+      <picture>https://lh3.googleusercontent.com/d/17fckl2Dc4lD1UMhDRm0gu6dqAjqA5m60</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp9637</param>
+      <consist name="Аллиум" unit="шт">10</consist>
+    </offer>
     <offer id="Cp0519" available="true">
       <categoryId>37</categoryId>
       <name>Альстромерия Фиолетовый 50 см Арт. Cp0519</name>
@@ -640,6 +674,24 @@
       <param name="Артикул">Cp01257</param>
       <consist name="Гвоздика одноголовая Джангл" unit="шт">25</consist>
     </offer>
+    <offer id="Cp11017" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Каори 70 см Арт. Cp11017</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NBxWQGMZyrptmydqWjGoaM8ztdudOcM1</picture>
+      <picture>https://lh3.googleusercontent.com/d/11Sop4KfrvIUKXCBHiUvryhAqlTMZA2F1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G0xh0Wl7Sjv2r40UFOGM__RYsm48sjlN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Hq3ZMmShV2oqdBs6q22uKqARTc0tnDiQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1grTrnWtlUIMb4oIn8DyjQQU506YoQoBx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geeflora</param>
+      <param name="Артикул">Cp11017</param>
+      <consist name="Гвоздика одноголовая Каори" unit="шт">25</consist>
+    </offer>
     <offer id="Cp03137" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Клеар Вотер 70 см Арт. Cp03137</name>
@@ -675,6 +727,24 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Cp9737</param>
       <consist name="Гвоздика одноголовая Кристалло" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp01597" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Марте 70 см Арт. Cp01597</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18-OyaJ_-ogTVNt3iQHUOfVlyCQFkFe_I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b6RNNAgtLogrLQwn7aAjvXPB-dcQnB3k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EDFybo9Tx-HusFNGwjjl0jGLoBOxWjwf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MAMYHBqEXwtJFBb5XxfHDsCim77RejlZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rCPyhy-lG1o0k0PzLKuNOn2zOY9gwWjr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp01597</param>
+      <consist name="Гвоздика одноголовая Марте" unit="шт">25</consist>
     </offer>
     <offer id="Cp10987" available="true">
       <categoryId>37</categoryId>
@@ -734,7 +804,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Харизма 70 см Арт. Cp9727</name>
       <price>53</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1M-NoxnGfBm03LiNM8CUAUlf5-CwDMJg7</picture>
       <picture>https://lh3.googleusercontent.com/d/1iZgoplGcedRJBG9pZap139z_qVCtJvb0</picture>
@@ -747,6 +817,23 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Cp9727</param>
       <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp0452" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Бордовый 50 см Арт. Cp0452</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YoqJboZYWnMG7z0q7XBRyemvqtmZ9SK1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AJayymNJ5kX9zWFsCGW-UaP9XuSfFnJf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E3SKcp0qv4YK4dZ8LUm7465iSC16GbN9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c9ZETto1SEA5-f2yv47_j3xS4k1VcoFS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sjHTefOen8j81drsMWN0IhHltopna1Yo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp0452</param>
+      <consist name="Калла" unit="шт">10</consist>
     </offer>
     <offer id="Cp0453" available="true">
       <categoryId>37</categoryId>
