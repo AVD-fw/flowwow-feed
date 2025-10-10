@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T07:58:18.593+03:00">
+<yml_catalog date="2025-10-10T08:08:28.860+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,20 +17,221 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S12276" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 60 см Арт. S12276</name>
+      <price>69</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19-_beIUf_MqsDP-5rq0L0pioPVZtGPcJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TaT_g6WP4KWW5krFlZRoimEmSwi5kkSm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S12276</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">20</consist>
+    </offer>
+    <offer id="S12967" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 70 см Арт. S12967</name>
+      <price>123</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PE6ufLjg03MOod7_lU6-po-A4sQxjTFu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gllphs5HBbTx0jHYF7rSRzj2CVR__rGi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир цветов</param>
+      <param name="Артикул">S12967</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="S12247" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аква 70 см Арт. S12247</name>
+      <price>96</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AJHaKcN4mpzsa4KrlWnr5tE8cTgBYJIO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W2mvzYMzKMcVbb40R_vjptF4cuht5Yca</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12247</param>
+      <consist name="Роза одноголовая Аква" unit="шт">20</consist>
+    </offer>
+    <offer id="S12297" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 70 см Арт. S12297</name>
+      <price>123</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Yx4N1XI-qeVrV737dFkgfGdvTUr7iMRv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ruuKyhiRYU05Hpgg3AXKnsNVunaBkPYq</picture>
+      <picture>https://lh3.googleusercontent.com/d/149phwS8jwqPYEwsysV99ybNR0kLQahrd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12297</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
+    <offer id="S13095" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Испания 50 см Арт. S13095</name>
+      <price>121</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IwOUXCzLLvNFfWvB2y0uGKwZYcWhthTY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p8g8wK8552J4iuQnwLpxO2EHVenvrJj0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S13095</param>
+      <consist name="Роза одноголовая Испания" unit="шт">10</consist>
+    </offer>
+    <offer id="S9437" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пич Аваланж 70 см Арт. S9437</name>
+      <price>82</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1K6ETeYfPjRx1u36wEUhxbvETiJmQIfVI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qzotxLxeD_-jzjx3R0wjRJKc91OE0s-m</picture>
+      <picture>https://lh3.googleusercontent.com/d/17StJFx-4lm5FPT00Q9vcBcqnr60gTvBI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S9437</param>
+      <consist name="Роза одноголовая Пич Аваланж" unit="шт">15</consist>
+    </offer>
+    <offer id="S12666" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пич Аваланш 60 см Арт. S12666</name>
+      <price>69</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ceIiNSsI9OtdLUkDvv8fCw2YkiI0KCHY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QNBlv3EdbqLOEx9R_r728lkhebaR0aUU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир цветов</param>
+      <param name="Артикул">S12666</param>
+      <consist name="Роза одноголовая Пич Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="S12266" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревивал 60 см Арт. S12266</name>
+      <price>69</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wC9bjosEr4LxKZlfO8SXXjGmTcP-Si7w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y6dKmu3gMARo1ngS2i5J2XdSXe57C3Bt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12266</param>
+      <consist name="Роза одноголовая Ревивал" unit="шт">20</consist>
+    </offer>
+    <offer id="S7616" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 60 см Арт. S7616</name>
+      <price>82</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1o4YiGNgpz3pXM6DjCOOCpc5QQR0R-WMf</picture>
+      <picture>https://lh3.googleusercontent.com/d/11iGyFa_mvGTau2o5OCBpt5KKB2A44QRP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rw8zJI26DLhNrEZcTiP0LcF6QGkVz1SL</picture>
+      <picture>https://lh3.googleusercontent.com/d/18kZ3lOsllMicDif_YfKzH5jKkQ8QfNSS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z5KCVirh97o2u6wL_OHMVBqt2xquwrw7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S7616</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">20</consist>
+    </offer>
+    <offer id="S12197" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 70 см Арт. S12197</name>
+      <price>89</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19AJu8g6wIX9KakzMdmUtDrZDH6m4zVSD</picture>
+      <picture>https://lh3.googleusercontent.com/d/14XX3FLtGC8alwSrqn0V0HltHqhPBbAtp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12197</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">20</consist>
+    </offer>
+    <offer id="S12187" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Саида 70 см Арт. S12187</name>
+      <price>110</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1I6FnDnVePVleSr2LU3Neme3l48uhNTen</picture>
+      <picture>https://lh3.googleusercontent.com/d/10YhBwfL9xaXgjSU_dhMpQRQKRheTn6Ao</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S12187</param>
+      <consist name="Роза одноголовая Саида" unit="шт">15</consist>
+    </offer>
     <offer id="S13165" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Черри Аваланш 50 см Арт. S13165</name>
       <price>121</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DxG_oWAc0ztJlUntA_71SpHiFoAgfiAh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hVP32XGt-WFV1g0Oqwb75zLnRsgMktsh</picture>
       <picture>https://lh3.googleusercontent.com/d/1MZTsXj0NDbRKdVIJgMGpweHCpJ4t2EJl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DxG_oWAc0ztJlUntA_71SpHiFoAgfiAh</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S13165</param>
       <consist name="Роза одноголовая Черри Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="S10107" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Шангри Ла 70 см Арт. S10107</name>
+      <price>82</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Q5QcTLXUXHKIyaCyF7xxcEwyrToajQSD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GazbCJRkEUA1t5vhSNkpoFJrqLO0uL0R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S10107</param>
+      <consist name="Роза одноголовая Шангри Ла" unit="шт">15</consist>
+    </offer>
+    <offer id="S8245" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Микс Белые 50 см Арт. S8245</name>
+      <price>274</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14DyaEv-Hxk9w8mOnmvkNAYu43Us80I-x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qXn_JNkeTiEMniR8qHcUOKVZ25QB7vu2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S8245</param>
+      <consist name="Роза кустовая Микс Белые" unit="шт">5</consist>
     </offer>
     <offer id="S4905" available="true">
       <categoryId>3</categoryId>
@@ -67,6 +268,24 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S01817</param>
       <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
+    </offer>
+    <offer id="S04265" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 50 см Арт. S04265</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kbaIeOqVwFaahxoCFl5wuH3T2SeiB4eT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UlFNYh5rwB51SOLQkAS07yP1BIN1UqjN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tA4vATGEFdXFGFp1RXEsn-jQnPyXTL6D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Yiu-IYwOh_I2QotV6dpD_FnAJkbmRcPj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U8paV7GAIWU4HTYFV4UaK_CEGsVnV7Rh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04265</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="S13284" available="true">
       <categoryId>3</categoryId>
@@ -116,6 +335,39 @@
       <param name="Артикул">S12404</param>
       <consist name="Роза кустовая пионовидная Лавандер Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="S13244" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Леди Бомбастик 40 см Арт. S13244</name>
+      <price>225</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZR80tvxyFsLL1SqEHNrVxzX-t60L3oAa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MX8YQ93gRnYa_nBo5gT1PffLc77wqOKy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S13244</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="S01806" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Луна Трендсеттер 60 см Арт. S01806</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vv_V4HZjzOIvZ9ggGC6hBsA0rMgqkFmq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Iu2Y52cgjwRV6N66n1SxLJ_pMhobuMN2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ceCYm71jMP84aA9p1wj2M4XqQDtkKJ8z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gnoe7MVZvZGkxAkZxs-RsPakKoXoNrg9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l82OYl5SGITIt6IwAm-K-xnnuNa3_4nR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S01806</param>
+      <consist name="Роза кустовая пионовидная Луна Трендсеттер" unit="шт">10</consist>
+    </offer>
     <offer id="S04275" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. S04275</name>
@@ -152,6 +404,24 @@
       <param name="Артикул">S6556</param>
       <consist name="Роза кустовая пионовидная Микс Кремовые" unit="шт">5</consist>
     </offer>
+    <offer id="S7695" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мисти Бабблс 50 см Арт. S7695</name>
+      <price>384</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SRwAgiNVaP85yCr_I6fp2sXDklFsSffs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Hf2rQimx2rAKSMD3s_7dPxGMTQQctSVG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PT8A32aYYjFRprPwuOCTw7VzxfpFA3N3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BLM63s0q5Idaf_WhD2_01Pf9QdrSwAiS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Cb8oAePguFabIFFmLY2qIHleJw2G-Khg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S7695</param>
+      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">10</consist>
+    </offer>
     <offer id="S13345" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мисти Бабблс 50 см Арт. S13345</name>
@@ -166,6 +436,59 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S13345</param>
       <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="S4915" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Пиони Бабблс 50 см Арт. S4915</name>
+      <price>206</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LOMY6ErdSkEeQ8ie6AAEI66IviIjc1Zv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e36rusMuysoVXtLRnMjeo4_exXk-wHxF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lbSXln-8r_JMiDpexygL6QyAmp3mvBIx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-jlXlM3XhN6Al0tXeOIY9mNOTFx7O2gA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BuPlpSa5-IrdNfLHmQUlQmrtMGslFl7_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S4915</param>
+      <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="S5516" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Роял Парк 60 см Арт. S5516</name>
+      <price>397</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19sNRN7YQDk_lOw0UUmat7Etvk3bFQEx8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LpJaRo8SKVaE-ugub2I2Yc_T4ckNkOYv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LgjYRcQZ1LoQuQDGzGGdI7jMvvLt83_p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kk9lXweG2UBZ0J1d8vDeuAKiXjs5gjwn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S5516</param>
+      <consist name="Роза кустовая пионовидная Роял Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="S04386" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Скарлет Дименшен 60 см Арт. S04386</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h0tWSa_fwpOX6UkZBca2ycf89ets-lhX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ccx4hvxkhxGp2WWdIpmRs5iMHTcSNGhz</picture>
+      <picture>https://lh3.googleusercontent.com/d/104GIuKFUes1Aq_DFocxijjET8ZcFHRg7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QuZL0Za2W0PIVg7ZPNvDoUpWyUin3aGS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p_e4PzOb5IL0ZLPC8QXsxaP8BDYU_MOY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04386</param>
+      <consist name="Роза кустовая пионовидная Скарлет Дименшен" unit="шт">10</consist>
     </offer>
     <offer id="S7367" available="true">
       <categoryId>5</categoryId>
