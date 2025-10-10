@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T08:19:44.099+03:00">
+<yml_catalog date="2025-10-10T08:29:44.245+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -425,6 +425,20 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">S12134</param>
       <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="B2C_S12124" available="true">
+      <name>Пачка (50 шт.) Тюльпан Пионовидный Розовый 40 см Арт. S12124</name>
+      <categoryId>1</categoryId>
+      <price>6325</price>
+      <picture>https://lh3.googleusercontent.com/d/1dKRzDVC9fnw-bumVUXtG_3Ggge4snE7-</picture>
+      <picture>https://lh3.googleusercontent.com/d/11OucIVg7n-0pHCwIHpABTBbbnM_XN00v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ubKsXiYkz63jEDyMCBPC5v5z7ilLYY1h</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">S12124</param>
+      <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
