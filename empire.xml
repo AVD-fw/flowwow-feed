@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T08:14:01.227+03:00">
+<yml_catalog date="2025-10-10T08:23:52.463+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,22 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="E2548" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пинк Мондиаль 80 см Арт. E2548</name>
+      <price>154</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11rqsY-xDcQA7mp3RW5LtuCVuBHpEXfP8</picture>
+      <picture>https://lh3.googleusercontent.com/d/16m0lFXJZ5RoUvZQGDjeFk-6YzQelMe4f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EZbNWXSmHgpmCN7Egmc8lXOHkhsQihbX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Sofie Farms</param>
+      <param name="Артикул">E2548</param>
+      <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
+    </offer>
     <offer id="E01628" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Хот Спот 80 см Арт. E01628</name>
