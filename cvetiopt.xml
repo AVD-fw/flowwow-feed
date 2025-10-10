@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T10:07:38.930+03:00">
+<yml_catalog date="2025-10-10T10:17:42.754+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -32,6 +32,24 @@
       <param name="Производитель">Tessa</param>
       <param name="Артикул">Cp7887</param>
       <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp06307" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Голден Вувузела 70 см Арт. Cp06307</name>
+      <price>220</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UarGCr_INeFNiaWZi_4jkRtOOuFkfInj</picture>
+      <picture>https://lh3.googleusercontent.com/d/18GFyba2BHuWl3uK_TQpoiGouVvGIYCAC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ijoMMBoKGxbOpbWi1Wmb4UZRzlQh0J7u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bdap7r_VkeNEyS1XJmkaxJ6pKpLyQoJM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wfg8Gbmg7dW3FxxJIt34QzH2OV3DDT8L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Vip Rose</param>
+      <param name="Артикул">Cp06307</param>
+      <consist name="Роза одноголовая пионовидная Голден Вувузела" unit="шт">10</consist>
     </offer>
     <offer id="Cp6817" available="true">
       <categoryId>5</categoryId>
