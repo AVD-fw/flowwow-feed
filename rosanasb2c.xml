@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T12:39:52.738+03:00">
+<yml_catalog date="2025-10-10T12:49:48.946+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -353,6 +353,21 @@
       <param name="Артикул">S01806</param>
       <consist name="Роза кустовая пионовидная Луна Трендсеттер" unit="шт">10</consist>
     </offer>
+    <offer id="C_S04275" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. C_S04275</name>
+      <categoryId>1</categoryId>
+      <price>3015</price>
+      <picture>https://lh3.googleusercontent.com/d/1ZVHYgkbUZ0GFnOm9LRjVA9WlE8vZyBBZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/15ehBBQ1YP5abjxpO8xmp2KvxiOpdQ4bX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Fg6FWsWN691BDGJlegMxcpviEESqa5Ix</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04275</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="C_S6556" available="true">
       <name>Пачка (5 шт.) Роза кустовая пионовидная Микс Кремовые 60 см Арт. C_S6556</name>
       <categoryId>1</categoryId>
@@ -617,6 +632,48 @@
       <param name="Производитель">De Waal Fensie B.V.</param>
       <param name="Артикул">S01047</param>
       <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="C_S3728" available="true">
+      <name>Пачка (5 шт.) Нутан Хайдж Голд 80 см Арт. C_S3728</name>
+      <categoryId>1</categoryId>
+      <price>1095</price>
+      <picture>https://lh3.googleusercontent.com/d/1gD1PdHJNgSThiFLgkUA1iY0VTPfMoBHk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lvOHVD4gjrY6lMJlwcYzU2OyoqFXIv6D</picture>
+      <picture>https://lh3.googleusercontent.com/d/10QxcDkB8S5HP9nIeZEN8mc-KLw5FHBb2</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S3728</param>
+      <consist name="Нутан Хайдж Голд" unit="шт">5</consist>
+    </offer>
+    <offer id="C_S5779" available="true">
+      <name>Пачка (99 шт.) Озотамнус Кукс Шоу Ви 99 см Арт. C_S5779</name>
+      <categoryId>1</categoryId>
+      <price>16280</price>
+      <picture>https://lh3.googleusercontent.com/d/1Pmk1Nt3zH_4fibfqbVTsiOLTXeQjF4vn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KTJOTyAfIq8tBxy5dWt0sc3NubYIqY9G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bZkFd9Jgt6Y8cavWJ_WSq5N1Exy7axiX</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 99 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">99</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S5779</param>
+      <consist name="Озотамнус Кукс Шоу Ви" unit="шт">99</consist>
+    </offer>
+    <offer id="C_S5186" available="true">
+      <name>Пачка (10 шт.) Озотамнус Сноу Вайт 60 см Арт. C_S5186</name>
+      <categoryId>1</categoryId>
+      <price>1640</price>
+      <picture>https://lh3.googleusercontent.com/d/1FdQfiEJzqrFrDV_u7sn6_D0el4vQGXZd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G7jibAF1_-wpF1L6yEC6gEV4TcQ5L7eg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Zqw0sDORK-mAjLZvyjL0WFG9IvtCzjiV</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S5186</param>
+      <consist name="Озотамнус Сноу Вайт" unit="шт">10</consist>
     </offer>
     <offer id="C_S12916" available="true">
       <name>Пачка (10 шт.) Роза Нотр Дам 60 см Арт. C_S12916</name>
