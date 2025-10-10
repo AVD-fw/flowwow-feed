@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T08:04:02.183+03:00">
+<yml_catalog date="2025-10-10T08:14:01.227+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="E01628" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Хот Спот 80 см Арт. E01628</name>
+      <price>122</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q--OFkUkEYiBzXHle1GCp6Z-wgS06de1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bu1wVQARCxniNHcz1y9AuFgKUjQNl6mM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SiwXFcLZ1LJW69kwCcxmX3uUvTc3FDVg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RpGFCSAMCnIYCrMdfmOpBTLbHl0VkKv5</picture>
+      <picture>https://lh3.googleusercontent.com/d/11cCEuRHdAGRNS_RqDY2IJYW7JGcSjx-8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Ecoflor</param>
+      <param name="Артикул">E01628</param>
+      <consist name="Роза одноголовая Хот Спот" unit="шт">25</consist>
+    </offer>
     <offer id="E2167" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. E2167</name>
