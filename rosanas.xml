@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T08:18:32.925+03:00">
+<yml_catalog date="2025-10-10T08:28:25.840+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -220,6 +220,21 @@
       <param name="Артикул">S12187</param>
       <consist name="Роза одноголовая Саида" unit="шт">15</consist>
     </offer>
+    <offer id="S10096" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Свит Аваланж 60 см Арт. S10096</name>
+      <price>69</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N9HnIKMumYBrs24LH4NnvZdV1uidmzxN</picture>
+      <picture>https://lh3.googleusercontent.com/d/16YtDUHPJJbv8ZWEeb7viLlZLiUVpChKk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S10096</param>
+      <consist name="Роза одноголовая Свит Аваланж" unit="шт">15</consist>
+    </offer>
     <offer id="S13165" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Черри Аваланш 50 см Арт. S13165</name>
@@ -306,7 +321,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Йо Йо 70 см Арт. S01817</name>
       <price>126</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_3RHFvtylKaH84H4K_l8op2o3BDF6GNE</picture>
       <picture>https://lh3.googleusercontent.com/d/1l2pFbbIJ0gMDtP91Y-Uaym7YS2Nqj3zd</picture>
@@ -319,6 +334,21 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S01817</param>
       <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
+    </offer>
+    <offer id="S12955" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Рич Бабблс 50 см Арт. S12955</name>
+      <price>321</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18qJ2k4Q0Br7O5vv5BlhBBcPRa9wei9oX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-JqnSUDX8c8OR8Q-rZtgWvp2boCp57TL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S12955</param>
+      <consist name="Роза кустовая Рич Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="S04265" available="true">
       <categoryId>3</categoryId>
@@ -522,6 +552,20 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">S5516</param>
       <consist name="Роза кустовая пионовидная Роял Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="S04376" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Сильва Пинк 60 см Арт. S04376</name>
+      <price>425</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YtyBqL7CzCKHMfMGLruLfMguyt10UHNi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">S04376</param>
+      <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
     </offer>
     <offer id="S04386" available="true">
       <categoryId>4</categoryId>
@@ -944,6 +988,21 @@
       <param name="Артикул">S5186</param>
       <consist name="Озотамнус Сноу Вайт" unit="шт">10</consist>
     </offer>
+    <offer id="S12916" available="true">
+      <categoryId>37</categoryId>
+      <name>Роза Нотр Дам 60 см Арт. S12916</name>
+      <price>96</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EoNHjrY-06ZM-TexxW00MaCMNJX3BATr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pNeBaimJEgniNeGOhJaq0-vYEKir5d7e</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">S12916</param>
+      <consist name="Роза Нотр Дам" unit="шт">10</consist>
+    </offer>
     <offer id="S11579" available="true">
       <categoryId>37</categoryId>
       <name>Роза Смеральда 90 см Арт. S11579</name>
@@ -1033,6 +1092,19 @@
       <param name="Артикул">S12144</param>
       <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
+    <offer id="S12124" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Розовый 40 см Арт. S12124</name>
+      <price>115</price>
+      <qty>250</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ubKsXiYkz63jEDyMCBPC5v5z7ilLYY1h</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">S12124</param>
+      <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
+    </offer>
     <offer id="S01288" available="true">
       <categoryId>37</categoryId>
       <name>Целозия Флешинг 80 см Арт. S01288</name>
@@ -1072,7 +1144,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росан Эмеральд 70 см Арт. S8977</name>
       <price>190</price>
-      <qty>110</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Qfqc6B1bNkuYdmCS37idvsMhVuyad1o6</picture>
       <picture>https://lh3.googleusercontent.com/d/12OVbXpnN6iqsKbVEaTp5yOhJ3QXVjs5Y</picture>
