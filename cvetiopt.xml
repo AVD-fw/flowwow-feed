@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T11:37:35.292+03:00">
+<yml_catalog date="2025-10-10T11:57:36.701+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -20,7 +20,7 @@
     <offer id="Cp7887" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пинк Мондиаль 70 см Арт. Cp7887</name>
-      <price>171</price>
+      <price>150</price>
       <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ut6o2471C97cMfxdX7pZ5dyg-1_52yAG</picture>
@@ -36,7 +36,7 @@
     <offer id="Cp11127" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Помароса 70 см Арт. Cp11127</name>
-      <price>171</price>
+      <price>150</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18neuacV-o4t-7h6Sr7YuQOF1S4YdRms3</picture>
@@ -53,7 +53,7 @@
     <offer id="Cp06307" available="true">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Голден Вувузела 70 см Арт. Cp06307</name>
-      <price>220</price>
+      <price>210</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UarGCr_INeFNiaWZi_4jkRtOOuFkfInj</picture>
@@ -68,10 +68,59 @@
       <param name="Артикул">Cp06307</param>
       <consist name="Роза одноголовая пионовидная Голден Вувузела" unit="шт">10</consist>
     </offer>
+    <offer id="Cp00806" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 60 см Арт. Cp00806</name>
+      <price>190</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15407vAjLeKaB5zW2Tvsm39EqdjEfVNPI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vX5aSdkxjGdxTb-f4h1lWfJxU-PtT7Pe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U3yO7OgJOCVkDGsfjlgaRhpJPLoZV0At</picture>
+      <picture>https://lh3.googleusercontent.com/d/14_bELl0IjNJRnsXRUEy2XHl6PQkhoJpR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Flora Ola</param>
+      <param name="Артикул">Cp00806</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp14397" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Гисели 70 см Арт. Cp14397</name>
+      <price>170</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RTua-ldb2P-g5IHROuPoDUfIQa9Zr7FI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vT1D4XRUHUBmaturGV4DrRfB1uCviScg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1szLLQnVIaOcFu0fhFDefrI3ayhTrymPg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A76i4SzswLC-z9cHQcuquh6R7sEQKLeK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Flora Ola</param>
+      <param name="Артикул">Cp14397</param>
+      <consist name="Роза кустовая пионовидная Гисели" unit="шт">5</consist>
+    </offer>
+    <offer id="Cp11947" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Роял Блаш 70 см Арт. Cp11947</name>
+      <price>410</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1T-SWOqTEH0oOX_LvAfSvCR9ZYIAbueZ-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S4DVIPe72JBpgvCC7Wn8J8yAEsk4rhh3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vip Rose</param>
+      <param name="Артикул">Cp11947</param>
+      <consist name="Роза кустовая пионовидная Роял Блаш" unit="шт">10</consist>
+    </offer>
     <offer id="Cp6817" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. Cp6817</name>
-      <price>165</price>
+      <price>150</price>
       <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qPEoZ46nzdNqzMTfuAqlP8enQnl1N_Os</picture>
@@ -89,7 +138,7 @@
     <offer id="Cp01487" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бразильяна 70 см Арт. Cp01487</name>
-      <price>165</price>
+      <price>150</price>
       <qty>230</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1u7RVMZRXpNNmCwD-GBgZrC3KJHKAc8F3</picture>
@@ -107,7 +156,7 @@
     <offer id="Cp03377" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Петр 70 см Арт. Cp03377</name>
-      <price>160</price>
+      <price>145</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JNqsR6HuiOhciNCRjQ8GewVBgDOlw3We</picture>
@@ -125,7 +174,7 @@
     <offer id="Cp13707" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Еллоу 70 см Арт. Cp13707</name>
-      <price>105</price>
+      <price>88</price>
       <qty>140</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XRJLj5r6lqP86tb7JdZLLyR7vPZ-qsGN</picture>
@@ -141,7 +190,7 @@
     <offer id="Cp7427" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бейби 70 см Арт. Cp7427</name>
-      <price>99</price>
+      <price>88</price>
       <qty>55</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F2ok0leK5gETL41SaUgi7lw6jHUE9fNg</picture>
@@ -156,8 +205,8 @@
     <offer id="Cp00877" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер 70 см Арт. Cp00877</name>
-      <price>132</price>
-      <qty>15</qty>
+      <price>120</price>
+      <qty>500</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1X4HQi6jFYbKohkojEKI4zaVJ8WojTalU</picture>
       <picture>https://lh3.googleusercontent.com/d/1OkY96ipfbwmHKs9h9DmyK8XIafTMr45r</picture>
@@ -174,7 +223,7 @@
     <offer id="Cp00917" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Летс го пинк 70 см Арт. Cp00917</name>
-      <price>116</price>
+      <price>88</price>
       <qty>80</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dAgGIm4oQrNs7IsB1nTD2KzuRjt5U9ZJ</picture>
@@ -192,7 +241,7 @@
     <offer id="Cp03477" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Ньютон 70 см Арт. Cp03477</name>
-      <price>99</price>
+      <price>88</price>
       <qty>80</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1m4RctLjClAQUXf68ImEf6kTsHUgK16Kz</picture>
@@ -210,7 +259,7 @@
     <offer id="Cp7417" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Пастелла Пинк 70 см Арт. Cp7417</name>
-      <price>99</price>
+      <price>88</price>
       <qty>125</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_jup_UwBsNM4qhxFpPOQZ_WXndSUW4x9</picture>
@@ -226,7 +275,7 @@
     <offer id="Cp00937" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Рианна 70 см Арт. Cp00937</name>
-      <price>107</price>
+      <price>88</price>
       <qty>90</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DyJMwfi9g1j67T6lky1Ai_xCRHWlwBuU</picture>
@@ -244,7 +293,7 @@
     <offer id="Cp9937" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 70 см Арт. Cp9937</name>
-      <price>99</price>
+      <price>88</price>
       <qty>115</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1oPtQ74WCkISK18bi-K36-MGutsfvcRr1</picture>
@@ -261,7 +310,7 @@
     <offer id="Cp01045" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Белый 55 см Арт. Cp01045</name>
-      <price>79</price>
+      <price>66</price>
       <qty>700</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xGtA0eSY6rtZR8LhY3glJGn33niYiaIE</picture>
@@ -278,7 +327,7 @@
     <offer id="Cp03445" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Желтый 55 см Арт. Cp03445</name>
-      <price>74</price>
+      <price>67</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1z_oEcLUxCiUkkiyrpYDeRxloR7eUxHFs</picture>
@@ -296,7 +345,7 @@
     <offer id="Cp03505" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Коричневый 55 см Арт. Cp03505</name>
-      <price>74</price>
+      <price>67</price>
       <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1M7KIxpLTTpMu7K1JHGHl665K1t1j0t6e</picture>
@@ -311,7 +360,7 @@
     <offer id="Cp7455" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Розовый 55 см Арт. Cp7455</name>
-      <price>74</price>
+      <price>67</price>
       <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ErO4HR4WMg4mhpwKyVb4xb71wquw1lMy</picture>
@@ -326,46 +375,10 @@
       <param name="Артикул">Cp7455</param>
       <consist name="Хризантема Сантини" unit="шт">25</consist>
     </offer>
-    <offer id="Cp01055" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Байкал 55 см Арт. Cp01055</name>
-      <price>58</price>
-      <qty>150</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1S3ZCDere-_3NwkiId8-vcAlIRILNJbcf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FXypZ5BaMkv1-VpPbDwbmJuenuFuoVrH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TSgLthoe-gIejn99SURBNsmcifHVDymW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CTRDnXVftlcOp3Pq8KhVgmZdu1p3n8K3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1g_uIDjBSwYD9mOqUoT3RFqhtVfvHVL5H</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Cp01055</param>
-      <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
-    </offer>
-    <offer id="Cp7365" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Линди Вайт 55 см Арт. Cp7365</name>
-      <price>58</price>
-      <qty>100</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kzJ54M1pPLI1Xb5aSbXoexBmfFcu52eg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xCk-i40XMruB_6LDMe6a8rFJGttrqeRm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MaYqB8xBWHCx9prKbkP0PCfyLI2IpbIf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1WgYKgKH7qPt-rAamwbBPK8GfIlYG1W87</picture>
-      <picture>https://lh3.googleusercontent.com/d/10vI5C4TF2t8D9v1YohHWLSvjSh3V3mDo</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Madiba</param>
-      <param name="Артикул">Cp7365</param>
-      <consist name="Хризантема Сантини Линди Вайт" unit="шт">25</consist>
-    </offer>
     <offer id="Cp11075" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 55 см Арт. Cp11075</name>
-      <price>77</price>
+      <price>70</price>
       <qty>425</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12mCutQOmRCRKxfvZG3j8Ok5WtV4Zw5By</picture>
@@ -383,7 +396,7 @@
     <offer id="Cp01065" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси крашенная 55 см Арт. Cp01065</name>
-      <price>66</price>
+      <price>60</price>
       <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1npnfNESDTvaI0wjZFOlyri2DosesSmp5</picture>
@@ -401,7 +414,7 @@
     <offer id="Cp01085" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси крашенная 55 см Арт. Cp01085</name>
-      <price>66</price>
+      <price>60</price>
       <qty>575</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ajzU0nqt8m4uT1qmhjqDln4D4KEAL90_</picture>
@@ -419,7 +432,7 @@
     <offer id="Cp03455" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Пинк 55 см Арт. Cp03455</name>
-      <price>83</price>
+      <price>74</price>
       <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-jqY9KwmvAvfa-AABqqN387A9xdaU3jj</picture>
@@ -437,7 +450,7 @@
     <offer id="Cp14245" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Пинк 55 см Арт. Cp14245</name>
-      <price>83</price>
+      <price>74</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1tMz9nexD2uE9bBOgrwle2SFNnD_NnJ8a</picture>
@@ -453,7 +466,7 @@
     <offer id="Cp01075" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Сплендид 55 см Арт. Cp01075</name>
-      <price>66</price>
+      <price>60</price>
       <qty>500</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MjmZS3kj_8WcxIvzOwiVR5PgUSz7rEpf</picture>
@@ -471,7 +484,7 @@
     <offer id="Cp9637" available="true">
       <categoryId>37</categoryId>
       <name>Аллиум Бордовый 70 см Арт. Cp9637</name>
-      <price>281</price>
+      <price>255</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xYqrHgv9tTzCp16wanh42RMj22HxqvpI</picture>
@@ -488,7 +501,7 @@
     <offer id="Cp0519" available="true">
       <categoryId>37</categoryId>
       <name>Альстромерия Фиолетовый 50 см Арт. Cp0519</name>
-      <price>83</price>
+      <price>75</price>
       <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1D8KYLVflBu3pRD_Q-Z44n3jfgXeKlUca</picture>
@@ -502,7 +515,7 @@
     <offer id="Cp01428" available="true">
       <categoryId>37</categoryId>
       <name>Альстромерия Пасифик 80 см Арт. Cp01428</name>
-      <price>83</price>
+      <price>75</price>
       <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Urx-zej7f5PmM_NnXu4mE0NXyKphgYT8</picture>
@@ -517,7 +530,7 @@
     <offer id="Cp04475" available="true">
       <categoryId>37</categoryId>
       <name>Ананас Мини Бордовый 50 см Арт. Cp04475</name>
-      <price>303</price>
+      <price>275</price>
       <qty>16</qty>
       <quantity_in_package>8</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1J-VxESp77NUGkzL1NXA-CL6aLkqdh2Yt</picture>
@@ -534,7 +547,7 @@
     <offer id="Cp0505" available="true">
       <categoryId>37</categoryId>
       <name>Астильба Розовый 50 см Арт. Cp0505</name>
-      <price>77</price>
+      <price>70</price>
       <qty>140</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ubjiyuadC3WUlRseewNZw0ETSCgwQAZe</picture>
@@ -551,7 +564,7 @@
     <offer id="Cp9685" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Глория Местизо 50 см Арт. Cp9685</name>
-      <price>53</price>
+      <price>48</price>
       <qty>160</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RBZoEuDt8MK0Dusy6hNBb5raqOWz_KwI</picture>
@@ -569,7 +582,7 @@
     <offer id="Cp03105" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Джианна 50 см Арт. Cp03105</name>
-      <price>53</price>
+      <price>48</price>
       <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Wboz1bV4X1NcsceE5UYPcVPrgPdqHq_Y</picture>
@@ -587,7 +600,7 @@
     <offer id="Cp01635" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Нимбус 50 см Арт. Cp01635</name>
-      <price>53</price>
+      <price>48</price>
       <qty>470</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/157YwtNn5t6yx7FvSmzaHvOhnNZrpyUa5</picture>
@@ -605,7 +618,7 @@
     <offer id="Cp9665" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Хорус 50 см Арт. Cp9665</name>
-      <price>53</price>
+      <price>48</price>
       <qty>480</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16yXCwv-HGmaGuqrWllPtSdXxSjgFlrTi</picture>
@@ -623,7 +636,7 @@
     <offer id="Cp03147" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Брют 70 см Арт. Cp03147</name>
-      <price>53</price>
+      <price>48</price>
       <qty>225</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Llb3MN5kGKLczEaxitUrMo_wSc5sMTQj</picture>
@@ -641,7 +654,7 @@
     <offer id="Cp01267" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Веддинг 70 см Арт. Cp01267</name>
-      <price>53</price>
+      <price>48</price>
       <qty>450</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EL6XIf2lbuamnZj-o9rQSRr7WjXDj1Re</picture>
@@ -659,7 +672,7 @@
     <offer id="Cp01257" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Джангл 70 см Арт. Cp01257</name>
-      <price>53</price>
+      <price>48</price>
       <qty>250</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11QzPjD9lx0LtSIcVDfGRKDi2Fnq3mgv2</picture>
@@ -677,7 +690,7 @@
     <offer id="Cp11017" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Каори 70 см Арт. Cp11017</name>
-      <price>53</price>
+      <price>48</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NBxWQGMZyrptmydqWjGoaM8ztdudOcM1</picture>
@@ -695,7 +708,7 @@
     <offer id="Cp03137" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Клеар Вотер 70 см Арт. Cp03137</name>
-      <price>53</price>
+      <price>48</price>
       <qty>700</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_5l4PDC55Sybz6kbO862e7Cxdvv83fcZ</picture>
@@ -713,7 +726,7 @@
     <offer id="Cp9737" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кристалло 70 см Арт. Cp9737</name>
-      <price>53</price>
+      <price>48</price>
       <qty>375</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ZYJYQ2_U3VaelMQUQ1Wt_UmVwCIZZY7l</picture>
@@ -731,7 +744,7 @@
     <offer id="Cp01597" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Марте 70 см Арт. Cp01597</name>
-      <price>53</price>
+      <price>48</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18-OyaJ_-ogTVNt3iQHUOfVlyCQFkFe_I</picture>
@@ -749,7 +762,7 @@
     <offer id="Cp10987" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мерлето Кримсон 70 см Арт. Cp10987</name>
-      <price>53</price>
+      <price>48</price>
       <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1y6OvumT7NJnvms5TCQxhQ4X5NxlJwtuW</picture>
@@ -767,7 +780,7 @@
     <offer id="Cp9577" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ноббио Бургунди 70 см Арт. Cp9577</name>
-      <price>53</price>
+      <price>48</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1D7q4q-cGH5Ipwmcmc3pARgZcMNVtisAH</picture>
@@ -785,7 +798,7 @@
     <offer id="Cp01277" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Пастел Кремия 70 см Арт. Cp01277</name>
-      <price>53</price>
+      <price>48</price>
       <qty>1050</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iF8uAh7jS1QpraGiM6fDm3dbAyyoaDs2</picture>
@@ -803,7 +816,7 @@
     <offer id="Cp9727" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Харизма 70 см Арт. Cp9727</name>
-      <price>53</price>
+      <price>48</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1M-NoxnGfBm03LiNM8CUAUlf5-CwDMJg7</picture>
@@ -818,27 +831,42 @@
       <param name="Артикул">Cp9727</param>
       <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
     </offer>
-    <offer id="Cp0452" available="true">
+    <offer id="Cp0354" available="true">
       <categoryId>37</categoryId>
-      <name>Калла Бордовый 50 см Арт. Cp0452</name>
-      <price>143</price>
+      <name>Гладиолус Желтый 50 см Арт. Cp0354</name>
+      <price>135</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1YoqJboZYWnMG7z0q7XBRyemvqtmZ9SK1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1AJayymNJ5kX9zWFsCGW-UaP9XuSfFnJf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1E3SKcp0qv4YK4dZ8LUm7465iSC16GbN9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1c9ZETto1SEA5-f2yv47_j3xS4k1VcoFS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1sjHTefOen8j81drsMWN0IhHltopna1Yo</picture>
+      <picture>https://lh3.googleusercontent.com/d/17YlBII7QBzU1vKGQbvsmwc0n4erILigp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Sz-u0CKVh-hAHOqpLfnjK4oOeDlM1UxN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LohuWHfbzj30uuMfJInnc80LEaqih3oG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PvctddfOtwYbkvJwTsXX9uU41IbQuTLe</picture>
+      <picture>https://lh3.googleusercontent.com/d/10RHQ2GBQP6ySgOPFpa2rT-8vFCAFmxib</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
-      <param name="Артикул">Cp0452</param>
-      <consist name="Калла" unit="шт">10</consist>
+      <param name="Артикул">Cp0354</param>
+      <consist name="Гладиолус" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp15068" available="true">
+      <categoryId>37</categoryId>
+      <name>Илекс Желтый 80 см Арт. Cp15068</name>
+      <price>275</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1e53NQfFMPidqd6DrbVWUY8rUhIPgo2z0</picture>
+      <picture>https://lh3.googleusercontent.com/d/12NvHx20NjSo437Vxb-LmQ69p31uqVzSe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f_19UIx7C3UzcFmOdVxppo9wyj66l7n_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp15068</param>
+      <consist name="Илекс" unit="шт">5</consist>
     </offer>
     <offer id="Cp0453" available="true">
       <categoryId>37</categoryId>
       <name>Калла Желтый 50 см Арт. Cp0453</name>
-      <price>143</price>
+      <price>130</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mhZPRnuuOonn1_q13eYvklXn8chAWI64</picture>
@@ -856,8 +884,8 @@
     <offer id="Cp01365" available="true">
       <categoryId>37</categoryId>
       <name>Лилия Розовый 50 см Арт. Cp01365</name>
-      <price>506</price>
-      <qty>190</qty>
+      <price>460</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1C5e56mIxOR6_yR3c1x9ybXCErcXe6CR3</picture>
       <picture>https://lh3.googleusercontent.com/d/198GgEmmyR1v_uos77urlLglsrmItr8u-</picture>
@@ -873,7 +901,7 @@
     <offer id="Cp6845" available="true">
       <categoryId>37</categoryId>
       <name>Маттиола Розовый 50 см Арт. Cp6845</name>
-      <price>138</price>
+      <price>120</price>
       <qty>180</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MeCo2TAoxUBrC5U8a8PfAmDdvWLpuHV_</picture>
@@ -890,7 +918,7 @@
     <offer id="Cp0448" available="true">
       <categoryId>37</categoryId>
       <name>Протея Артишоковая красный 50 см Арт. Cp0448</name>
-      <price>990</price>
+      <price>1000</price>
       <qty>14</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1svDD237Qy_6boHSKx1dbbuKH_vZjAlJW</picture>
@@ -907,7 +935,7 @@
     <offer id="Cp0449" available="true">
       <categoryId>37</categoryId>
       <name>Протея Артишоковая белый 50 см Арт. Cp0449</name>
-      <price>990</price>
+      <price>1000</price>
       <qty>13</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QSViCDsdu1Ve6HDWQntUTICwYkXoLIFL</picture>
@@ -924,7 +952,7 @@
     <offer id="Cp01915" available="true">
       <categoryId>37</categoryId>
       <name>Танацетум Белый 50 см Арт. Cp01915</name>
-      <price>88</price>
+      <price>77</price>
       <qty>1025</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Iwr3MkFhm83lkUlLokw-NaOYzRLxqSSM</picture>
@@ -942,7 +970,7 @@
     <offer id="Cp9624" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Дубль прайс 40 см Арт. Cp9624</name>
-      <price>88</price>
+      <price>80</price>
       <qty>750</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VRUkEymY2fJb_wd2HYVJbra3Z60Ni9df</picture>
@@ -959,7 +987,7 @@
     <offer id="Cp04784" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Колумбус 40 см Арт. Cp04784</name>
-      <price>88</price>
+      <price>80</price>
       <qty>600</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_dv_KwexUzFguhWY2sE7nwBK341KjRyA</picture>
@@ -976,7 +1004,7 @@
     <offer id="Cp12514" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Колумбус 40 см Арт. Cp12514</name>
-      <price>88</price>
+      <price>80</price>
       <qty>800</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jHFZMtLhzEJ0ov3NS5ghfeqNb-zhWoFC</picture>
@@ -993,7 +1021,7 @@
     <offer id="Cp00795" available="true">
       <categoryId>37</categoryId>
       <name>Фрезия Разноцветный 50 см Арт. Cp00795</name>
-      <price>77</price>
+      <price>70</price>
       <qty>150</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lCf4_clyWWzZa-fBw3yItbpabSePoIWY</picture>
@@ -1011,7 +1039,7 @@
     <offer id="Cp04235" available="true">
       <categoryId>37</categoryId>
       <name>Фрезия Белый 50 см Арт. Cp04235</name>
-      <price>57</price>
+      <price>52</price>
       <qty>150</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19E-uEdrOwTdbAbW5iPttZLUeCMFaQVkl</picture>
@@ -1029,7 +1057,7 @@
     <offer id="Cp02095" available="true">
       <categoryId>38</categoryId>
       <name>Астильба Красный 50 см Арт. Cp02095</name>
-      <price>66</price>
+      <price>60</price>
       <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1b6RWIcvTDAuxDtd1FVi5tKgz1m_1QqIf</picture>
@@ -1046,7 +1074,7 @@
     <offer id="Cp02105" available="true">
       <categoryId>38</categoryId>
       <name>Астильба Белый 50 см Арт. Cp02105</name>
-      <price>61</price>
+      <price>55</price>
       <qty>340</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1IVqDOI9d5kIct6wZN2_IVjshMWo-NmaO</picture>
@@ -1063,7 +1091,7 @@
     <offer id="Cp00755" available="true">
       <categoryId>38</categoryId>
       <name>Бруния Серый 50 см Арт. Cp00755</name>
-      <price>99</price>
+      <price>90</price>
       <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1HYeuP48ZXK2lnjLRfYet3nKImSck65cF</picture>
@@ -1080,7 +1108,7 @@
     <offer id="Cp01675" available="true">
       <categoryId>38</categoryId>
       <name>Вибурнум Берри 50 см Арт. Cp01675</name>
-      <price>242</price>
+      <price>220</price>
       <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XMOcn9vqCnBWXIcfBr_NrmpGJI2FDGDI</picture>
@@ -1097,7 +1125,7 @@
     <offer id="Cp12666" available="true">
       <categoryId>38</categoryId>
       <name>Илекс Красный 60 см Арт. Cp12666</name>
-      <price>303</price>
+      <price>275</price>
       <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dBzj67fdEQ1MGVybQUswGjByXGX4xbt5</picture>
@@ -1114,7 +1142,7 @@
     <offer id="Cp03587" available="true">
       <categoryId>38</categoryId>
       <name>Рускус Зеленый 70 см Арт. Cp03587</name>
-      <price>42</price>
+      <price>38</price>
       <qty>1475</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JMo2scHkOVbCX4x8Lks1ycAK_J7p_-VT</picture>
@@ -1131,7 +1159,7 @@
     <offer id="Cp02055" available="true">
       <categoryId>38</categoryId>
       <name>Скиммия Зеленый 50 см Арт. Cp02055</name>
-      <price>495</price>
+      <price>450</price>
       <qty>22</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MjniQ5-iLFeWQgN0dRVW9w1VlbtQz71-</picture>
@@ -1148,7 +1176,7 @@
     <offer id="Cp01865" available="true">
       <categoryId>38</categoryId>
       <name>Фисташка Зеленый 50 см Арт. Cp01865</name>
-      <price>1430</price>
+      <price>1300</price>
       <qty>69</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1chxpzwu_9LtW_Rn5wOCgC66ABgb91lya</picture>
