@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T13:37:45.381+03:00">
+<yml_catalog date="2025-10-10T13:47:43.973+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -205,7 +205,7 @@
     <offer id="Cp00877" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер 70 см Арт. Cp00877</name>
-      <price>120</price>
+      <price>88</price>
       <qty>500</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1X4HQi6jFYbKohkojEKI4zaVJ8WojTalU</picture>
@@ -357,6 +357,24 @@
       <param name="Артикул">Cp03445</param>
       <consist name="Хризантема Сантини Ауринко" unit="шт">25</consist>
     </offer>
+    <offer id="Cp01055" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Байкал 55 см Арт. Cp01055</name>
+      <price>53</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1S3ZCDere-_3NwkiId8-vcAlIRILNJbcf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FXypZ5BaMkv1-VpPbDwbmJuenuFuoVrH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TSgLthoe-gIejn99SURBNsmcifHVDymW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CTRDnXVftlcOp3Pq8KhVgmZdu1p3n8K3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g_uIDjBSwYD9mOqUoT3RFqhtVfvHVL5H</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Cp01055</param>
+      <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
+    </offer>
     <offer id="Cp7455" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Дория 55 см Арт. Cp7455</name>
@@ -374,6 +392,21 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Cp7455</param>
       <consist name="Хризантема Сантини Дория" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp15225" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Пепталк 55 см Арт. Cp15225</name>
+      <price>55</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1asV7GuP3EBZ3yUQUcsO4WEb_lUfa-KRG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lTfx-d-mJ7-jTVccXLvtlhau_FCfPfbR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp15225</param>
+      <consist name="Хризантема Сантини Пепталк" unit="шт">25</consist>
     </offer>
     <offer id="Cp11075" available="true">
       <categoryId>7</categoryId>
