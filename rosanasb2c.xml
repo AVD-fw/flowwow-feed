@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-10T09:39:44.639+03:00">
+<yml_catalog date="2025-10-10T09:49:54.136+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -67,6 +67,21 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S13145</param>
       <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
+    </offer>
+    <offer id="C_S12666" available="true">
+      <name>Пачка (15 шт.) Роза одноголовая Пич Аваланш 60 см Арт. C_S12666</name>
+      <categoryId>1</categoryId>
+      <price>1130</price>
+      <picture>https://lh3.googleusercontent.com/d/1DcIVyckAdhlS1f0LYvMA4yvv0q0EbzJp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vMrN3N_0yNyiHYTYunoYOkpv7iGld7ta</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ceIiNSsI9OtdLUkDvv8fCw2YkiI0KCHY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 15 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир цветов</param>
+      <param name="Артикул">S12666</param>
+      <consist name="Роза одноголовая Пич Аваланш" unit="шт">15</consist>
     </offer>
     <offer id="C_S12266" available="true">
       <name>Пачка (20 шт.) Роза одноголовая Ревивал 60 см Арт. C_S12266</name>
@@ -142,6 +157,21 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">S13165</param>
       <consist name="Роза одноголовая Черри Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="C_S13225" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Эль Торо 50 см Арт. C_S13225</name>
+      <categoryId>1</categoryId>
+      <price>1335</price>
+      <picture>https://lh3.googleusercontent.com/d/1boV2WA2zkFejh8T2iWUKTAvtBGSagwXr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wQstEKqAy3OurJmI5uZGWatkzcuIMS1C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BXCQoEracwXS4a0YGc-mkArWI4hQ73Q5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">S13225</param>
+      <consist name="Роза одноголовая Эль Торо" unit="шт">10</consist>
     </offer>
     <offer id="C_S8215" available="true">
       <name>Пачка (10 шт.) Роза кустовая Беларусь 50 см Арт. C_S8215</name>
