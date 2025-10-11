@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T09:27:39.599+03:00">
+<yml_catalog date="2025-10-11T09:37:59.649+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -68,6 +68,21 @@
       <param name="Артикул">Fa7887</param>
       <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
     </offer>
+    <offer id="Fa15796" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Прауд 60 см Арт. Fa15796</name>
+      <price>154</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NsOxRM5Qwoa0pQc_-yegc8Lxnyr46xiy</picture>
+      <picture>https://lh3.googleusercontent.com/d/10M4dmh3vzyGsitYuiamOItwhkwiqjtEO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Roses del Corazon</param>
+      <param name="Артикул">Fa15796</param>
+      <consist name="Роза одноголовая Прауд" unit="шт">25</consist>
+    </offer>
     <offer id="Fa11175" available="true">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Джульета Лайт 50 см Арт. Fa11175</name>
@@ -82,6 +97,54 @@
       <param name="Производитель">Roses Del Corazon</param>
       <param name="Артикул">Fa11175</param>
       <consist name="Роза одноголовая пионовидная Джульета Лайт" unit="шт">12</consist>
+    </offer>
+    <offer id="Fa14486" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Майфилд 60 см Арт. Fa14486</name>
+      <price>215</price>
+      <qty>150</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qsHXmI3UM6gnQ_5aWNWcBMVIx5cQ9dhQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tlQwQoDMghhxd22waMpUsEGXsh9oe749</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QtiV97Ilzd40pNcgs1g55HUI-bXnUkHD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Vip Roses</param>
+      <param name="Артикул">Fa14486</param>
+      <consist name="Роза одноголовая пионовидная Майфилд" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa15145" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Ред Пиано 50 см Арт. Fa15145</name>
+      <price>259</price>
+      <qty>168</qty>
+      <quantity_in_package>12</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1p6d0iIRHgW9YBwtge9ks6DlazKbRLuV3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L1hYeLNlL9JbiVq1X3wQhDIacLVrP0EP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JLO9ssXAp-LjRzO0FJi5xXqCCbUq4xUG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rqmx_ptwBu7UxBUtzM3pgBaNy6ITNV-l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JGoLDeJNDbpHe4uHbrXZzBPwALBzhlFn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 12 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Roses Del Corazon</param>
+      <param name="Артикул">Fa15145</param>
+      <consist name="Роза одноголовая пионовидная Ред Пиано" unit="шт">12</consist>
+    </offer>
+    <offer id="Fa15156" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Тинкербель 60 см Арт. Fa15156</name>
+      <price>237</price>
+      <qty>150</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BMLxH5h0fyawFJDGCAjS251S0pgtYTYo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dfeBeeiH_y36ij0G7Hbis0VqKpYKwG95</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa15156</param>
+      <consist name="Роза одноголовая пионовидная Тинкербель" unit="шт">10</consist>
     </offer>
     <offer id="Fa03256" available="true">
       <categoryId>2</categoryId>
@@ -289,6 +352,21 @@
       <param name="Артикул">Fa13707</param>
       <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Fa15307" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бейби 70 см Арт. Fa15307</name>
+      <price>97</price>
+      <qty>95</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hfx21nNGD7l-KqYMDbj5OVZG308gJEMf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CW2LahWOp7HE-NyKaWRdFHWdtzY_okuu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fa15307</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
     <offer id="Fa12217" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Калимба 70 см Арт. Fa12217</name>
@@ -320,6 +398,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Fa16097</param>
       <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Fa14877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Лионкинг 70 см Арт. Fa14877</name>
+      <price>138</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zVaHJU_OSOrGPSMwt1HBNPwKjxsBU1BY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z-D3_fZIfcHGleCyivOosGb_yyttF_xb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fa14877</param>
+      <consist name="Хризантема кустовая Лионкинг" unit="шт">5</consist>
     </offer>
     <offer id="Fa03477" available="true">
       <categoryId>6</categoryId>
@@ -649,6 +742,21 @@
       <param name="Артикул">Fa5835</param>
       <consist name="Брассика" unit="шт">5</consist>
     </offer>
+    <offer id="Fa15656" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая 60 см Арт. Fa15656</name>
+      <price>53</price>
+      <qty>110</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wYS8thXEPrAwOSe44XDktO2LaAqvCelh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IjUSIF9iWzLmZ3zpC-ZZ07MGi9l-YzbI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa15656</param>
+      <consist name="Гвоздика кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="Fa03105" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Джианна 50 см Арт. Fa03105</name>
@@ -719,6 +827,21 @@
       <param name="Производитель">Florigene</param>
       <param name="Артикул">Fa14187</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Fa14967" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая 70 см Арт. Fa14967</name>
+      <price>53</price>
+      <qty>350</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MIH6qIRHWS2XN5zZv4AS0UEKx81Xz--1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aDLEGe9ZxhtOKGWSsaQl_aW6LBXqJeUc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa14967</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="Fa01267" available="true">
       <categoryId>37</categoryId>
@@ -864,19 +987,35 @@
       <param name="Артикул">Fa01277</param>
       <consist name="Гвоздика одноголовая Пастел Кремия" unit="шт">25</consist>
     </offer>
-    <offer id="Fa1419" available="true">
+    <offer id="Fa14917" available="true">
       <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Стромболи 50 см Арт. Fa1419</name>
+      <name>Гвоздика одноголовая Сассикала 70 см Арт. Fa14917</name>
+      <price>53</price>
+      <qty>325</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Q2utVhCSQUmT-aTJZL4rE-BZRP31i4Lr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oHHwUQoBIVp_hxChW4DoPnwdsyoTu3qN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mlUJNH-1F1FvXhiE4ZO4SHRRpsRz_Ok9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa14917</param>
+      <consist name="Гвоздика одноголовая Сассикала" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa14197" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Стромболи 70 см Арт. Fa14197</name>
       <price>53</price>
       <qty>325</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12zbeDERIK8vKhr34vU1yjimbmjw-p2CV</picture>
       <picture>https://lh3.googleusercontent.com/d/1Inb1J2Ls7qumJeZdp0LaHFLbw0IAS3Mm</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
       <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Fa1419</param>
+      <param name="Артикул">Fa14197</param>
       <consist name="Гвоздика одноголовая Стромболи" unit="шт">25</consist>
     </offer>
     <offer id="Fa9727" available="true">
@@ -897,6 +1036,20 @@
       <param name="Артикул">Fa9727</param>
       <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
     </offer>
+    <offer id="Fa15635" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиацинты 50 см Арт. Fa15635</name>
+      <price>110</price>
+      <qty>300</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZcRYU1XeBbm2MQLygYtCIHTOrmvD5gVB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zRFsQO2ABOzbRtJ5tb0A7BU7gvB-Huvi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa15635</param>
+      <consist name="Гиацинты" unit="шт">50</consist>
+    </offer>
     <offer id="Fa12745" available="true">
       <categoryId>37</categoryId>
       <name>Гидрангия Лавандовый 50 см Арт. Fa12745</name>
@@ -912,6 +1065,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fa12745</param>
       <consist name="Гидрангия" unit="шт">1</consist>
+    </offer>
+    <offer id="Fa15178" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Разноцветный 80 см Арт. Fa15178</name>
+      <price>88</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xE4BUkGiE2TESjQK1BWI-bOKn1o7saBu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bb-fPc6EFE08aRZkk6C7QUODKW3hOUBi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SSrgz4go6nGw0hNVLfFH_zhAWUmZKozN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fa15178</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
     <offer id="Fa01655" available="true">
       <categoryId>37</categoryId>
@@ -1089,6 +1258,23 @@
       <param name="Артикул">Fa01365</param>
       <consist name="Лилия" unit="шт">10</consist>
     </offer>
+    <offer id="Fa15211" available="true">
+      <categoryId>37</categoryId>
+      <name>Лилия Розовый 110 см Арт. Fa15211</name>
+      <price>330</price>
+      <qty>190</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fzyYY2MtjgYttXNsSH88x7fk6oHAcI8m</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZE8X0umvxAKf6WNgeNGw7QBCHc3QMHdy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rJUM6yrubhr9pRaer-aAAoG-eQUPmgEl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-0EspN_tW8WZNGs-a5JzO6o2jV_7Be3R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">110</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fa15211</param>
+      <consist name="Лилия" unit="шт">10</consist>
+    </offer>
     <offer id="Fa14036" available="true">
       <categoryId>37</categoryId>
       <name>Маттиола Сиреневый 60 см Арт. Fa14036</name>
@@ -1135,6 +1321,22 @@
       <param name="Производитель">Sand Pro Grovers</param>
       <param name="Артикул">Fa03677</param>
       <consist name="Орнитогалум" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa15195" available="true">
+      <categoryId>37</categoryId>
+      <name>Орнитогалум Милки Вайт 50 см Арт. Fa15195</name>
+      <price>99</price>
+      <qty>180</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vrTJFyHmCxStQvCICv1b0L1qNzUslnAy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BgK_GQjNza7nGY5_kKzn5_GIBsm4fSNL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wEBBSYwgk6sKgUXnX7MrsTz-IS7l0iMq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Sand pro Growers</param>
+      <param name="Артикул">Fa15195</param>
+      <consist name="Орнитогалум Милки Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Fa00726" available="true">
       <categoryId>37</categoryId>
@@ -1356,6 +1558,23 @@
       <param name="Производитель">Unicum</param>
       <param name="Артикул">Fa04235</param>
       <consist name="Фрезия" unit="шт">50</consist>
+    </offer>
+    <offer id="Fa14786" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома 60 см Арт. Fa14786</name>
+      <price>209</price>
+      <qty>240</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GtJ18Wn4Qm0qxo-pwsbWpQvfjvvsDgzL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CEy_qqTtdMllupBYdpJe9QTcy3E5Zz8K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wktiz9g-AGQCf2Gs_EZMvgV4aesFoiRU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PcRWoYxcoexoHgJdzwo2Y7pRFy6MXvqE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p2Vwps_P5t1t7BGrkytMJ0Z3-AzcAzzJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa14786</param>
+      <consist name="Эустома" unit="шт">10</consist>
     </offer>
     <offer id="Fa5736" available="true">
       <categoryId>37</categoryId>
