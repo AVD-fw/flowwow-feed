@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T08:19:48.657+03:00">
+<yml_catalog date="2025-10-11T08:29:51.055+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -8,6 +8,21 @@
       <category id="1">Монобукеты</category>
     </categories>
     <offers>
+    <offer id="C_S02317" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Росс Элизабетт 70 см Арт. C_S02317</name>
+      <categoryId>1</categoryId>
+      <price>1595</price>
+      <picture>https://lh3.googleusercontent.com/d/16hUj5hJy8K5chSRg4E9c0npQrXnb6tyE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dFMuot5EYk3iY0ACBMGZNM2XE7QYBCId</picture>
+      <picture>https://lh3.googleusercontent.com/d/13kAlz2w5L9Kzhi8bCM0bVnnpmoxtCp-j</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">S02317</param>
+      <consist name="Хризантема одноголовая Росс Элизабетт" unit="шт">10</consist>
+    </offer>
     <offer id="C_S01527" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Тропикана 70 см Арт. C_S01527</name>
       <categoryId>1</categoryId>
@@ -67,6 +82,35 @@
       <param name="Артикул">S02266</param>
       <consist name="Астранция Роме" unit="шт">10</consist>
     </offer>
+    <offer id="C_S11136" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Марафон 60 см Арт. C_S11136</name>
+      <categoryId>1</categoryId>
+      <price>3300</price>
+      <picture>https://lh3.googleusercontent.com/d/1E058yInTFQG-Vj1rXtKGrpn6w0Ycx_-D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kR8z9VOTOaz2H4ui1kJ4x3IuGE4m2Lps</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qzVLNBn02r2Ti04PTrahnSCP89fIXKR4</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">S11136</param>
+      <consist name="Гвоздика одноголовая Марафон" unit="шт">25</consist>
+    </offer>
+    <offer id="C_S9188" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая Мунлайт 80 см Арт. C_S9188</name>
+      <categoryId>1</categoryId>
+      <price>1555</price>
+      <picture>https://lh3.googleusercontent.com/d/17wlFbpzx12Bl3BETgK_egxIhm389CSfA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QhWvTp2UclOn3X3buaoWFz5QPhSNFS6F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F4BAoViwTEmgEDbWUE1Osa_Sw0ZuBO16</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9188</param>
+      <consist name="Гвоздика одноголовая Мунлайт" unit="шт">20</consist>
+    </offer>
     <offer id="C_S9801" available="true">
       <name>Пачка (5 шт.) Гидрангия Верена 100 см Арт. C_S9801</name>
       <categoryId>1</categoryId>
@@ -94,6 +138,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S03599</param>
       <consist name="Глориоза Экзот Оранж" unit="шт">5</consist>
+    </offer>
+    <offer id="C_S01386" available="true">
+      <name>Пачка (10 шт.) Калла Одесса 60 см Арт. C_S01386</name>
+      <categoryId>1</categoryId>
+      <price>2430</price>
+      <picture>https://lh3.googleusercontent.com/d/1beeGZ1bKbCZvjIj-ZIp6cti0NR-QB4Xb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bNaAorzuKzl0nFPF2v-vsnI2RDNCUXrj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fkjKXWOotI_LAJkw6geweRwULkg_tSpo</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">S01386</param>
+      <consist name="Калла Одесса" unit="шт">10</consist>
     </offer>
     <offer id="C_S5704" available="true">
       <name>Пачка (1 шт.) Скиммия Франк Вайт 45 см Арт. C_S5704</name>
