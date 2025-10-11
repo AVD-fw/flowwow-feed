@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T08:38:14.082+03:00">
+<yml_catalog date="2025-10-11T08:48:16.686+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -226,11 +226,11 @@
       <price>120</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1qzVLNBn02r2Ti04PTrahnSCP89fIXKR4</picture>
-      <picture>https://lh3.googleusercontent.com/d/13MZVV-34mTM8KaZpMpziZFMBLSjVhPQj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_xcMqQQ7EnkdVKZehPWrfwOLWZi6gbr1</picture>
       <picture>https://lh3.googleusercontent.com/d/1B4BaUVa3TfsxcsSs00rwAwaUHvkhBezg</picture>
       <picture>https://lh3.googleusercontent.com/d/12W6syW00qhubBpJM4FPxpRttqASn1-qM</picture>
       <picture>https://lh3.googleusercontent.com/d/1aBG70Qb9GxPO5v7Md4UWSx5luDJhfgaH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qzVLNBn02r2Ti04PTrahnSCP89fIXKR4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Колумбия</param>
@@ -323,6 +323,23 @@
       <param name="Артикул">S03599</param>
       <consist name="Глориоза Экзот Оранж" unit="шт">5</consist>
     </offer>
+    <offer id="S7316" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Голд Медал 60 см Арт. S7316</name>
+      <price>119</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1t-fMzVidTLjN--TOU6Dfwp9Zl5_xJ7DJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jUlWSkz3tYdZbt1uJosM3ycoWZiTj-dG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IOqKVDYheLZXE2xqpN-jZOCrKps9n_7j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1On9cTJdNdz-xmF8C8ME6iWI22HWd-hL3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hwWG9Nks5LSrreIlFlZ7qN1HysHbEvbU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7316</param>
+      <consist name="Калла Голд Медал" unit="шт">10</consist>
+    </offer>
     <offer id="S01386" available="true">
       <categoryId>37</categoryId>
       <name>Калла Одесса 60 см Арт. S01386</name>
@@ -404,6 +421,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S01117</param>
       <consist name="Тагетес Промис Оранж" unit="шт">10</consist>
+    </offer>
+    <offer id="S12104" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Оранжевый 40 см Арт. S12104</name>
+      <price>85</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1R0CdgL6Sfg9nekHuZFG8mlizQ9wcDC2m</picture>
+      <picture>https://lh3.googleusercontent.com/d/12uzkzY6wEJTKQAAdhOpD9VfYFNjpFEKq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">S12104</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
     <offer id="S03377" available="true">
       <categoryId>37</categoryId>
