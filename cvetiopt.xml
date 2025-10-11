@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T05:57:32.507+03:00">
+<yml_catalog date="2025-10-11T08:12:17.368+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,15 +17,65 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Cp06346" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Вау 60 см Арт. Cp06346</name>
+      <price>88</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qB78MuVuklkIxUlJIT3T0xX2SOR29GII</picture>
+      <picture>https://lh3.googleusercontent.com/d/15hkJyAtV65Hf8VmNCp5xdkPKPxfupLtY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Cp06346</param>
+      <consist name="Роза одноголовая Вау" unit="шт">15</consist>
+    </offer>
+    <offer id="Cp7806" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кэндллайт 60 см Арт. Cp7806</name>
+      <price>176</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lzny8iE1motGDoW0Q2umN4Ant2kGxLXN</picture>
+      <picture>https://lh3.googleusercontent.com/d/10V0Fihtd7A_FhFGdPsFLInrsxt_Ad2YT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iLevWJlU0F-_dmfD-GYeLstNJbc9-5Ze</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Cp7806</param>
+      <consist name="Роза одноголовая Кэндллайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp02536" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Маритим 60 см Арт. Cp02536</name>
+      <price>88</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uMNPMCaT17naiO3PYTuq4Pxdc_LvOAjp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IliIm4Ui6EAbIaerVhZLEYdkQzMI-oQ5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k2OMkBXQ37ODdc-atUYgmboqa3Ci5iT6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OffymJG04IfoHbJVgk7__cNIjLivb8BT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AU4lOvLQhDS3ACe2Xoh_-X-oNPu3tE-C</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия розы</param>
+      <param name="Артикул">Cp02536</param>
+      <consist name="Роза одноголовая Маритим" unit="шт">10</consist>
+    </offer>
     <offer id="Cp7887" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пинк Мондиаль 70 см Арт. Cp7887</name>
-      <price>150</price>
-      <qty>100</qty>
+      <price>165</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ut6o2471C97cMfxdX7pZ5dyg-1_52yAG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D8uNFXjpKkC1tFT9-XiDSWICw1D6ytF9</picture>
       <picture>https://lh3.googleusercontent.com/d/1m0w6V6WIUOrmESpuAMrPcL7TpYP2piFT</picture>
       <picture>https://lh3.googleusercontent.com/d/1mFu8irMrmsVvvlzh4eN4iZkWKSHNVhBX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ut6o2471C97cMfxdX7pZ5dyg-1_52yAG</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Эквадор</param>
@@ -33,34 +83,17 @@
       <param name="Артикул">Cp7887</param>
       <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
     </offer>
-    <offer id="Cp11127" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Помароса 70 см Арт. Cp11127</name>
-      <price>150</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18neuacV-o4t-7h6Sr7YuQOF1S4YdRms3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Dj2kYPewvzQm-svoB5w4wulFfjlH2Qfw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tjO8dRmI36VBTbTuypQXgezxu4sS42YP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NtKyRNB6-ypdVLqLSaW0rXPBDHQ0AQrs</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tessa</param>
-      <param name="Артикул">Cp11127</param>
-      <consist name="Роза одноголовая Помароса" unit="шт">25</consist>
-    </offer>
     <offer id="Cp06307" available="true">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Голден Вувузела 70 см Арт. Cp06307</name>
-      <price>210</price>
+      <price>231</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1UarGCr_INeFNiaWZi_4jkRtOOuFkfInj</picture>
-      <picture>https://lh3.googleusercontent.com/d/18GFyba2BHuWl3uK_TQpoiGouVvGIYCAC</picture>
+      <picture>https://lh3.googleusercontent.com/d/19M4iMs9eLtkKrB3QSV9L5KxWZTmNRs49</picture>
       <picture>https://lh3.googleusercontent.com/d/1ijoMMBoKGxbOpbWi1Wmb4UZRzlQh0J7u</picture>
       <picture>https://lh3.googleusercontent.com/d/1Bdap7r_VkeNEyS1XJmkaxJ6pKpLyQoJM</picture>
       <picture>https://lh3.googleusercontent.com/d/1wfg8Gbmg7dW3FxxJIt34QzH2OV3DDT8L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UarGCr_INeFNiaWZi_4jkRtOOuFkfInj</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Армения</param>
@@ -68,102 +101,220 @@
       <param name="Артикул">Cp06307</param>
       <consist name="Роза одноголовая пионовидная Голден Вувузела" unit="шт">10</consist>
     </offer>
-    <offer id="Cp00806" available="true">
+    <offer id="Cp11175" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Джульета Лайт 50 см Арт. Cp11175</name>
+      <price>198</price>
+      <qty>12</qty>
+      <quantity_in_package>12</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EUMI4Xs08dnYGlLoBGfNJ11kXcq8Soft</picture>
+      <picture>https://lh3.googleusercontent.com/d/10ICY8TGyxvhrzM1dUSjdKEmBGbp7RdoC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 12 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Roses Del Corazon</param>
+      <param name="Артикул">Cp11175</param>
+      <consist name="Роза одноголовая пионовидная Джульета Лайт" unit="шт">12</consist>
+    </offer>
+    <offer id="Cp03256" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Фатима Гарденс 60 см Арт. Cp03256</name>
+      <price>165</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yXs_PjtBC3D6w_iwkQCmPELB3uNYA0Dv</picture>
+      <picture>https://lh3.googleusercontent.com/d/15NEtryH_stEi8ngSKPVjQdAwrNnBeFXl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jlfom3Z1Akatie_Dck4oC98Qfh4NJwCn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ljs9ikj9EMqh1CyFpkZVqt9AVumNl7OP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yHiihQRk5a3RFZ5d6Pu4orfujtEE8t34</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Green Roses</param>
+      <param name="Артикул">Cp03256</param>
+      <consist name="Роза одноголовая пионовидная Фатима Гарденс" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp00655" available="true">
       <categoryId>3</categoryId>
-      <name>Роза кустовая Софи 60 см Арт. Cp00806</name>
-      <price>190</price>
-      <qty>10</qty>
+      <name>Роза кустовая Леди Бомбастик 50 см Арт. Cp00655</name>
+      <price>149</price>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15407vAjLeKaB5zW2Tvsm39EqdjEfVNPI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vX5aSdkxjGdxTb-f4h1lWfJxU-PtT7Pe</picture>
-      <picture>https://lh3.googleusercontent.com/d/1U3yO7OgJOCVkDGsfjlgaRhpJPLoZV0At</picture>
-      <picture>https://lh3.googleusercontent.com/d/14_bELl0IjNJRnsXRUEy2XHl6PQkhoJpR</picture>
+      <picture>https://lh3.googleusercontent.com/d/12s1WibMJvOwy_ODKX2yS0gLfyRENh2Pa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qG8-bzXz7DZNfQjovhLvL8syi_J4yVrk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c0L4khwriIqSd52QgjHyxkKPaG6t618g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bDkGJWsKPj0ZIIIMyrCpIpV1HISvTC6s</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Cp00655</param>
+      <consist name="Роза кустовая Леди Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp02975" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Мадам Бомбастик 50 см Арт. Cp02975</name>
+      <price>171</price>
+      <qty>160</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rY8LL7gFspTDLOrKcEk7FvwiZSH2BUH_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XRstkZlMnpENrbrwLMNzPN7OAWvjitGh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u1GAQ0AXLwmrV9s8mKCuSAIU7CqdtBPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XWsOjNJONANPgIQbbtY0159GT1b4-YuU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h7P5iWvV91eG6kjuyCMuI_gqE5lQplG5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Cp02975</param>
+      <consist name="Роза кустовая Мадам Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp02396" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Таня 60 см Арт. Cp02396</name>
+      <price>171</price>
+      <qty>440</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1k0CN3qlQOfNgqNgAK0YxEY0Btwb0vMlZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lLke2afLUVajtYpdtSidznK9k-wctMwK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BMeZCZ4wY7IZhkEKZWkb14k0Ol7xeCmr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BMeZCZ4wY7IZhkEKZWkb14k0Ol7xeCmr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lxi2w2gZKYqXVkyfUqUySbq2zPOgyvEg</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
-      <param name="Страна">Кения</param>
-      <param name="Производитель">Flora Ola</param>
-      <param name="Артикул">Cp00806</param>
-      <consist name="Роза кустовая Софи" unit="шт">10</consist>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия розы</param>
+      <param name="Артикул">Cp02396</param>
+      <consist name="Роза кустовая Таня" unit="шт">10</consist>
     </offer>
-    <offer id="Cp14397" available="true">
+    <offer id="Cp11987" available="true">
       <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Гисели 70 см Арт. Cp14397</name>
-      <price>170</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RTua-ldb2P-g5IHROuPoDUfIQa9Zr7FI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vT1D4XRUHUBmaturGV4DrRfB1uCviScg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1szLLQnVIaOcFu0fhFDefrI3ayhTrymPg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1A76i4SzswLC-z9cHQcuquh6R7sEQKLeK</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Кения</param>
-      <param name="Производитель">Flora Ola</param>
-      <param name="Артикул">Cp14397</param>
-      <consist name="Роза кустовая пионовидная Гисели" unit="шт">5</consist>
-    </offer>
-    <offer id="Cp11947" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Роял Блаш 70 см Арт. Cp11947</name>
-      <price>410</price>
+      <name>Роза кустовая пионовидная Джульетта 70 см Арт. Cp11987</name>
+      <price>198</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1T-SWOqTEH0oOX_LvAfSvCR9ZYIAbueZ-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1S4DVIPe72JBpgvCC7Wn8J8yAEsk4rhh3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ExnnLzBgDXIT1uguiahR2AItPNdpNXvR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VNzKXKBn0UXMdKLKq_DrM5MNCtrk6h9L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jxh-b_vuugyEin2F--3FajafQfjmywY-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j534CroWvVhCTM8YPvp0YLarpbbnAl0V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dljlVULV5R3_f4usQV-W_U1VQ-FW9Ute</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Qmanq</param>
+      <param name="Артикул">Cp11987</param>
+      <consist name="Роза кустовая пионовидная Джульетта" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp04347" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Оранжевый 70 см Арт. Cp04347</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16G_mro3hOvhu1epf-Zrx-LNjtvQthXdZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CFZ4CTRUBA8YjkTdt6SgzCdNspJWD0Jf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nHGbg__kdrRZDNSqkyF5_UBsZmU2LUT0</picture>
+      <picture>https://lh3.googleusercontent.com/d/14SG6QV65SoGlqzpKQyRMpGCYOO5eNksj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kwtwyNivKU472Y1inro734rs7IYks2Q2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp04347</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp04357" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бордовый 70 см Арт. Cp04357</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bKOWJEst77rySU1exdlyfMVJa3Yv_Kvp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XmM2844d9UXH43V86iRursgsE9DShyX2</picture>
+      <picture>https://lh3.googleusercontent.com/d/144RVFVgVE08qnrVU3PzTl2spqTDZ9MHH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ILSfY2DDQaGRGIRpwra_yAgG4lxDUXIV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yrfX5HXHe67_5E7RT_Gg5hnsnDdHKvqP</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
-      <param name="Производитель">Vip Rose</param>
-      <param name="Артикул">Cp11947</param>
-      <consist name="Роза кустовая пионовидная Роял Блаш" unit="шт">10</consist>
+      <param name="Артикул">Cp04357</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
-    <offer id="Cp6817" available="true">
+    <offer id="Cp8847" available="true">
       <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Антонов 70 см Арт. Cp6817</name>
-      <price>150</price>
-      <qty>60</qty>
+      <name>Хризантема одноголовая 70 см Арт. Cp8847</name>
+      <price>165</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1qPEoZ46nzdNqzMTfuAqlP8enQnl1N_Os</picture>
-      <picture>https://lh3.googleusercontent.com/d/1beJSu59vxsXjIY7rLxMptzbj2EBwYAnR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JI6HrjQ3vLuEL9aH-3pC34pmeoVcW5s1</picture>
-      <picture>https://lh3.googleusercontent.com/d/138Xkc79Um14a86JvsUQ-H3l0I8gSexXi</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wrQsDpNAVkdfajIN8W84FcogO4St0yPe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IakUE-_Dx8CGPYW6D9T2XrZkQjc-T7QA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-bWbZO5boBNDehY5bfbBAZZg4IG7fw0R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k-kAhOa1mlQfMLNlu916EoRaoqYqmqt5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-g3_Bon0zANl15AJDVmALIbcUpKzc9gO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VIk2QEgkVtBT7kUpjw6ix-AEw0XkZLGb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp8847</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp01317" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Алемани 70 см Арт. Cp01317</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11QyRA0pIPZCvBl7yVysgkjbMICc23CuM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qOSnXWjHh9f6zzX4GzzPQyUTkQWlRht3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k8nfv0PnJIdl1DuiRzunCBf7avgyDRzH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pd96xT2Speekaa8LVzH9n5C61N4wEzDu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TO3b_MjzpupfLawx1G029UkfHvzE28AB</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Decorum</param>
-      <param name="Артикул">Cp6817</param>
-      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+      <param name="Артикул">Cp01317</param>
+      <consist name="Хризантема одноголовая Алемани" unit="шт">10</consist>
     </offer>
-    <offer id="Cp01487" available="true">
+    <offer id="Cp6427" available="true">
       <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Бразильяна 70 см Арт. Cp01487</name>
-      <price>150</price>
-      <qty>230</qty>
+      <name>Хризантема одноголовая Бигуди 70 см Арт. Cp6427</name>
+      <price>209</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1u7RVMZRXpNNmCwD-GBgZrC3KJHKAc8F3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1jzBWYw0vY-vLsiFYkseJdHZ04_rjhF_m</picture>
-      <picture>https://lh3.googleusercontent.com/d/1T_-4BimR5vOWmBVBf9Ursap8Flj8oH5A</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RGGwd7NO5E5VCR_IWLH92kuPwVCVwAlt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HFVK2xTUok4O8gTuGw6l0SM4dPBSPq-u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mBwtupDDmUrFKgtvd2CnHjZaURthc0mr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hqtfBLoovU8KIkFjd2W9rtAt2qoNzV7N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KZGR8ymcZYAlYBWjC1sxQvjzWIGqafHC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mhMC1MFrAhdLWvB_N1PO-VkHAUwgVBAn</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Cp01487</param>
-      <consist name="Хризантема одноголовая Бразильяна" unit="шт">10</consist>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp6427</param>
+      <consist name="Хризантема одноголовая Бигуди" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp12507" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бигуди 70 см Арт. Cp12507</name>
+      <price>209</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tV0BI3NC8cakSsvzLN7S0cRgP-ZjS-_2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jbv94F_j4b3pSSk3jTl7R4jMwYcXTCPR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp12507</param>
+      <consist name="Хризантема одноголовая Бигуди" unit="шт">10</consist>
     </offer>
     <offer id="Cp03377" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Петр 70 см Арт. Cp03377</name>
-      <price>145</price>
-      <qty>30</qty>
+      <price>160</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1JNqsR6HuiOhciNCRjQ8GewVBgDOlw3We</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ejadEXFxXSCaklaqeeGEvZF3BpbnKuwS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VqY8cvLH2uFfB2M1SsiaL7Npp1IVIEWU</picture>
       <picture>https://lh3.googleusercontent.com/d/1UCHilID1Tr4mQ662DY5vzDEbXXdPNcTZ</picture>
       <picture>https://lh3.googleusercontent.com/d/1sS1VJt5k5Cu6OFD3rwce_Lmh7PBONwHs</picture>
       <picture>https://lh3.googleusercontent.com/d/1H3_QL2AIADtjbHOCqxqftPslG_yMno8y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JNqsR6HuiOhciNCRjQ8GewVBgDOlw3We</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -171,15 +322,34 @@
       <param name="Артикул">Cp03377</param>
       <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
     </offer>
+    <offer id="Cp01507" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Фуего 70 см Арт. Cp01507</name>
+      <price>165</price>
+      <qty>80</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1r3YYGF4Z3wywAtofZ50UF7RdyzEHAmQ9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1klzEA3tO5MFf_JMx-g1aI8Lrop_mBdz4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HpVrdSKv0LkvGudEpq343PZQEhvDPu_b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nox0e98--wtrDVaFodD4iJc_WLdEfnCN</picture>
+      <picture>https://lh3.googleusercontent.com/d/15YcXY7EEcnJXczioPl6Ci3Q8PBfO0j8B</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp01507</param>
+      <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
+    </offer>
     <offer id="Cp13707" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Еллоу 70 см Арт. Cp13707</name>
-      <price>88</price>
-      <qty>140</qty>
+      <price>97</price>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XRJLj5r6lqP86tb7JdZLLyR7vPZ-qsGN</picture>
+      <picture>https://lh3.googleusercontent.com/d/10Gm8HT4VNrYTAidv4JQXr6ovSt7JY9XH</picture>
       <picture>https://lh3.googleusercontent.com/d/1mNIgqL72uQikYnImhMixPkXZvFpEDoUX</picture>
       <picture>https://lh3.googleusercontent.com/d/1TZxbcrL8p_fNtijYP1M8g5_b9UwAkIkl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XRJLj5r6lqP86tb7JdZLLyR7vPZ-qsGN</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -187,68 +357,49 @@
       <param name="Артикул">Cp13707</param>
       <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
     </offer>
-    <offer id="Cp7427" available="true">
+    <offer id="Cp12217" available="true">
       <categoryId>6</categoryId>
-      <name>Хризантема кустовая Бейби 70 см Арт. Cp7427</name>
-      <price>88</price>
-      <qty>55</qty>
+      <name>Хризантема кустовая Калимба 70 см Арт. Cp12217</name>
+      <price>97</price>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1F2ok0leK5gETL41SaUgi7lw6jHUE9fNg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1W_wLD64neAfodYlMI4hMmmMq7igqIKff</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rSKWSXBbLot0Od3ScHgrTspZs8Aa4jUm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QVp56om-06Xr4Kt3zlFJNxmwC6ay1AOR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lGhvRIL9eXneVpEUeOjdSHEKqVw9iFOO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RE1FtO-wHDpYnviTYd8_Ot5fAMpPi8dg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Cp12217</param>
+      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Cp16097" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Летс Гоу Пинк 70 см Арт. Cp16097</name>
+      <price>97</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15xntB378ufFnesQMFMtFxOI6kDmgI4yC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GhdZhQDd6JmRwcraokJ4xsV4Wt-Fiuzz</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Cp7427</param>
-      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
-    </offer>
-    <offer id="Cp00877" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Командер 70 см Арт. Cp00877</name>
-      <price>88</price>
-      <qty>500</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1X4HQi6jFYbKohkojEKI4zaVJ8WojTalU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OkY96ipfbwmHKs9h9DmyK8XIafTMr45r</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CsibORFt63An6lh0gsOthmJ6MkDn96DD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1o-ABkEIR8jiGGDEMC3mjIkisFBHfjIkm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Vh_J15xhX4xKhUxdohGG7xGDIAK2TRWr</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">Cp00877</param>
-      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
-    </offer>
-    <offer id="Cp00917" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Летс го пинк 70 см Арт. Cp00917</name>
-      <price>88</price>
-      <qty>80</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1dAgGIm4oQrNs7IsB1nTD2KzuRjt5U9ZJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/18GbH1wm9oBmTMCasV7oXqQyeM6OEpWZc</picture>
-      <picture>https://lh3.googleusercontent.com/d/11l5tCTzxqVy2QDnRfqgN0XfrVoRjLbe8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nsjSBhsSpH_XMz0DPGbo9cTi8ODEZGTr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1h0oWhg10vPwUsWobXzTmuIx1hMcF9Njr</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Cp00917</param>
-      <consist name="Хризантема кустовая Летс го пинк" unit="шт">5</consist>
+      <param name="Артикул">Cp16097</param>
+      <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Cp03477" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Ньютон 70 см Арт. Cp03477</name>
-      <price>88</price>
-      <qty>80</qty>
+      <price>97</price>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1m4RctLjClAQUXf68ImEf6kTsHUgK16Kz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dtKG1khHsbnZLNF80nY__xsrgzCEnoqr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I2DojhwvcSwjRxBzsWvuVudni3dxng91</picture>
       <picture>https://lh3.googleusercontent.com/d/1fQD8Hef9AFoWLDwyKNp0lvDwsSIV5Eyr</picture>
       <picture>https://lh3.googleusercontent.com/d/1NhlAbNRH1hPXIxKfjO6XiNPZj4ic_wxM</picture>
       <picture>https://lh3.googleusercontent.com/d/1NWd6J8Tg19dOK_dpnq-zhNDF3JuK77zc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m4RctLjClAQUXf68ImEf6kTsHUgK16Kz</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -259,12 +410,13 @@
     <offer id="Cp7417" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Пастелла Пинк 70 см Арт. Cp7417</name>
-      <price>88</price>
-      <qty>125</qty>
+      <price>97</price>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1_jup_UwBsNM4qhxFpPOQZ_WXndSUW4x9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tObb6-QiGyddwcpHU306KLBZzLNNtsgE</picture>
       <picture>https://lh3.googleusercontent.com/d/1uDRWV_x0h16U29FZTVaKCg07xAmI_z02</picture>
       <picture>https://lh3.googleusercontent.com/d/1XKpEusffItThBttZr3xqC9pQuyc2UEQb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_jup_UwBsNM4qhxFpPOQZ_WXndSUW4x9</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -272,34 +424,17 @@
       <param name="Артикул">Cp7417</param>
       <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="Cp00937" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Рианна 70 см Арт. Cp00937</name>
-      <price>88</price>
-      <qty>90</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DyJMwfi9g1j67T6lky1Ai_xCRHWlwBuU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UcEyG7FHkuwSCpr2rWngFzBHwJ0mh_ds</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rMozxtcog1mGSsntE5wHhaUknv6d87QV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1brOjd8GAuSpsqmMwy87WbcJI_dM-c2Ok</picture>
-      <picture>https://lh3.googleusercontent.com/d/1I7tFPEvkStIrDwq3hCwsUWtSx9XkzrZf</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">Cp00937</param>
-      <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
-    </offer>
     <offer id="Cp9937" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 70 см Арт. Cp9937</name>
-      <price>88</price>
-      <qty>115</qty>
+      <price>97</price>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1oPtQ74WCkISK18bi-K36-MGutsfvcRr1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lgRjawWaHRbe5YUAD_ht8C7SJM1Wt5Md</picture>
       <picture>https://lh3.googleusercontent.com/d/1rSWj871KZZokbH_X3ajfRNPSKEZkb96p</picture>
       <picture>https://lh3.googleusercontent.com/d/1S2YQ25CPHHHr5EAGVHNSvw54SJ4NgvY1</picture>
       <picture>https://lh3.googleusercontent.com/d/1f0oxY7qmiHeKxoUWaUfxtAg8Xu869CMm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oPtQ74WCkISK18bi-K36-MGutsfvcRr1</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -307,31 +442,15 @@
       <param name="Артикул">Cp9937</param>
       <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
     </offer>
-    <offer id="Cp01045" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Белый 55 см Арт. Cp01045</name>
-      <price>66</price>
-      <qty>700</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xGtA0eSY6rtZR8LhY3glJGn33niYiaIE</picture>
-      <picture>https://lh3.googleusercontent.com/d/17dewper9ziOqgwO86YoBmOlg99IA2yEb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VLSPOvPzTYiGtsLTjfShV1Vi3EH5ZNTH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1q-dPaBxdZ7FrZ0-iI_Jqb7vfqEXOVUtB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1E5LsXA8ekyg0ZACDF314WtnqAumwm1U9</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Cp01045</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
     <offer id="Cp03505" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Коричневый 55 см Арт. Cp03505</name>
-      <price>67</price>
-      <qty>150</qty>
+      <price>74</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1M7KIxpLTTpMu7K1JHGHl665K1t1j0t6e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HX2uDSFith6uBi2_L6kjo5y2VS8VLc7x</picture>
       <picture>https://lh3.googleusercontent.com/d/1d_tke4DZ8FmlvzkQH7dh8JHce-HOTliw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M7KIxpLTTpMu7K1JHGHl665K1t1j0t6e</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -339,35 +458,17 @@
       <param name="Артикул">Cp03505</param>
       <consist name="Хризантема Сантини" unit="шт">25</consist>
     </offer>
-    <offer id="Cp03445" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Ауринко 55 см Арт. Cp03445</name>
-      <price>67</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1z_oEcLUxCiUkkiyrpYDeRxloR7eUxHFs</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hvTlb2N5LPUeb91wRGAYywRXX16ByxBG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1C93XabYUhxcSAsC1k8s6Vos4nYe6MwhY</picture>
-      <picture>https://lh3.googleusercontent.com/d/15iCZtQD7c3PwCq32BHszzehlrDsZAvtb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1q1jAqSY24d0cFY2EVxQgy2ryCxuPw9s0</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Cp03445</param>
-      <consist name="Хризантема Сантини Ауринко" unit="шт">25</consist>
-    </offer>
     <offer id="Cp01055" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Байкал 55 см Арт. Cp01055</name>
-      <price>53</price>
-      <qty>150</qty>
+      <price>58</price>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1S3ZCDere-_3NwkiId8-vcAlIRILNJbcf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FXypZ5BaMkv1-VpPbDwbmJuenuFuoVrH</picture>
+      <picture>https://lh3.googleusercontent.com/d/173ybi1vPPFRYqAlIF6WfaOkSF9Mz6S9s</picture>
       <picture>https://lh3.googleusercontent.com/d/1TSgLthoe-gIejn99SURBNsmcifHVDymW</picture>
       <picture>https://lh3.googleusercontent.com/d/1CTRDnXVftlcOp3Pq8KhVgmZdu1p3n8K3</picture>
       <picture>https://lh3.googleusercontent.com/d/1g_uIDjBSwYD9mOqUoT3RFqhtVfvHVL5H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S3ZCDere-_3NwkiId8-vcAlIRILNJbcf</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -378,14 +479,14 @@
     <offer id="Cp7455" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Дория 55 см Арт. Cp7455</name>
-      <price>67</price>
-      <qty>150</qty>
+      <price>74</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ErO4HR4WMg4mhpwKyVb4xb71wquw1lMy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nQaGctZX-WOtyy8_Ece4JavswPBDohae</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hygAgKlgllPQiWtWRnGruAZzpT1HGGnf</picture>
       <picture>https://lh3.googleusercontent.com/d/1mddBSbiaJY7PaxwUmRXFRqrnQpu9LLuK</picture>
       <picture>https://lh3.googleusercontent.com/d/1z8Fa-6NhWh1STXXLyPKdVSHzdeVivBs7</picture>
       <picture>https://lh3.googleusercontent.com/d/1CGS0LC0d4oQ5GNumT1IiD18MOByB3Nth</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ErO4HR4WMg4mhpwKyVb4xb71wquw1lMy</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -396,14 +497,14 @@
     <offer id="Cp7365" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Линди Вайт 55 см Арт. Cp7365</name>
-      <price>64</price>
-      <qty>100</qty>
+      <price>70</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kzJ54M1pPLI1Xb5aSbXoexBmfFcu52eg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xCk-i40XMruB_6LDMe6a8rFJGttrqeRm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MKNbLT-3LpANVzPLNHFwwjuB4GAvkPll</picture>
       <picture>https://lh3.googleusercontent.com/d/1MaYqB8xBWHCx9prKbkP0PCfyLI2IpbIf</picture>
       <picture>https://lh3.googleusercontent.com/d/1WgYKgKH7qPt-rAamwbBPK8GfIlYG1W87</picture>
       <picture>https://lh3.googleusercontent.com/d/10vI5C4TF2t8D9v1YohHWLSvjSh3V3mDo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kzJ54M1pPLI1Xb5aSbXoexBmfFcu52eg</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -414,11 +515,12 @@
     <offer id="Cp15225" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Пепталк 55 см Арт. Cp15225</name>
-      <price>55</price>
-      <qty>125</qty>
+      <price>61</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1asV7GuP3EBZ3yUQUcsO4WEb_lUfa-KRG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lrh2OOWBBP9EBVGzASQryn69yN9k8e8x</picture>
       <picture>https://lh3.googleusercontent.com/d/1lTfx-d-mJ7-jTVccXLvtlhau_FCfPfbR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1asV7GuP3EBZ3yUQUcsO4WEb_lUfa-KRG</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -429,14 +531,14 @@
     <offer id="Cp11075" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 55 см Арт. Cp11075</name>
-      <price>70</price>
-      <qty>425</qty>
+      <price>77</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12mCutQOmRCRKxfvZG3j8Ok5WtV4Zw5By</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nnSmHi5Swh41hYbvMcwSk5sH3hQjbCYW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Sq4GFEplSgBvrv147Kxrgugja-dhz5pf</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVRgbdj3Uc9qSYjgmFQIe9wxrskPZSE2</picture>
       <picture>https://lh3.googleusercontent.com/d/1HdNbC6FeiX6ihR1NAoEEw2T7sMzxP-Xn</picture>
       <picture>https://lh3.googleusercontent.com/d/1Vs6Ul6EAX5YXu53l7bf8VMXTxIVpqqbe</picture>
+      <picture>https://lh3.googleusercontent.com/d/12mCutQOmRCRKxfvZG3j8Ok5WtV4Zw5By</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -444,17 +546,32 @@
       <param name="Артикул">Cp11075</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
+    <offer id="Cp16155" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 55 см Арт. Cp16155</name>
+      <price>77</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YMBPecGZhH9TCB_g7hPsizXDvjobqji0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R9Qmc1cKO45cjgagQArnT58NUCkQUN7Y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Ls Santini</param>
+      <param name="Артикул">Cp16155</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
     <offer id="Cp01065" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси крашенная 55 см Арт. Cp01065</name>
-      <price>60</price>
-      <qty>100</qty>
+      <price>66</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1npnfNESDTvaI0wjZFOlyri2DosesSmp5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1c2Qfj7LTGKg5iOIeaaZpWmq5ukdTGKCy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eRgiwQmkzCvjrRhPyC8F0BVYMfaup4C9</picture>
       <picture>https://lh3.googleusercontent.com/d/1weL656QJjt9H4GGzvmV-PEuYvxGX1-ZE</picture>
       <picture>https://lh3.googleusercontent.com/d/1iV3VZ1cdWh0idRsRU6QbMNEbaa6qvG-q</picture>
       <picture>https://lh3.googleusercontent.com/d/1JUraqt5mL33fNo_w4YjEgbNMiw17k6lu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1npnfNESDTvaI0wjZFOlyri2DosesSmp5</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -465,14 +582,14 @@
     <offer id="Cp01085" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси крашенная 55 см Арт. Cp01085</name>
-      <price>60</price>
-      <qty>575</qty>
+      <price>66</price>
+      <qty>250</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ajzU0nqt8m4uT1qmhjqDln4D4KEAL90_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PGDdGH6ODfXGRm2ZSXLbnGmHbq5Nu-0h</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FdpR7FFhDnEsOP6PZNjOyu11hNN2DV32</picture>
+      <picture>https://lh3.googleusercontent.com/d/10X5PbDe5kWOqKyRDiOh3XWp0nKm2a6vL</picture>
       <picture>https://lh3.googleusercontent.com/d/1ygthHg5xAc5QgLDDvukJGQ4MVoCyZ4Lx</picture>
       <picture>https://lh3.googleusercontent.com/d/1_dVHjLkdUg0GcZRnm5bAXVd1R7tMEwOl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ajzU0nqt8m4uT1qmhjqDln4D4KEAL90_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xDhjEF2PwGsSyGBQCumrvGDpyZRulGAL</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -480,17 +597,35 @@
       <param name="Артикул">Cp01085</param>
       <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
     </offer>
+    <offer id="Cp6435" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крашенный 55 см Арт. Cp6435</name>
+      <price>66</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_8xBtnqxlrAcyzKEtqMqV13n00q5InAK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L3Rn3dvEx5F3E1UI1LYDifeYTFXdHC_V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RB4fk69-YLuutkFiwMby1ZMtwivWL1hn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OdN2LNQoLTSQ7UDH17D6ryG7CgnpVuzk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UDYxt7Nvc8aujP0se31yz9antVd8Xoiq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vanno Va</param>
+      <param name="Артикул">Cp6435</param>
+      <consist name="Хризантема Сантини Росси Крашенный" unit="шт">25</consist>
+    </offer>
     <offer id="Cp03455" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Пинк 55 см Арт. Cp03455</name>
-      <price>74</price>
+      <price>81</price>
       <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1-jqY9KwmvAvfa-AABqqN387A9xdaU3jj</picture>
-      <picture>https://lh3.googleusercontent.com/d/18FMMRHdT0Eq9NyD1aFO3mlNYanfypkag</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dlnxy-O2JVzG-BvDg_s1SQqNnD6Nwvno</picture>
       <picture>https://lh3.googleusercontent.com/d/19ZMXbR5IwJNi-jlFktU63FagbsKpncSg</picture>
       <picture>https://lh3.googleusercontent.com/d/1_u-E-nVUFfPb8qdUFdyAK40jVmoRxXXU</picture>
       <picture>https://lh3.googleusercontent.com/d/1-cLohsNZuyQ0i_Byk5KrNLVO87gQBrMZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-jqY9KwmvAvfa-AABqqN387A9xdaU3jj</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
@@ -498,131 +633,135 @@
       <param name="Артикул">Cp03455</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
-    <offer id="Cp14245" available="true">
+    <offer id="Cp7375" available="true">
       <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси Пинк 55 см Арт. Cp14245</name>
-      <price>74</price>
-      <qty>50</qty>
+      <name>Хризантема Сантини Росси Сальмон 55 см Арт. Cp7375</name>
+      <price>81</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1tMz9nexD2uE9bBOgrwle2SFNnD_NnJ8a</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OXSWQYwTyUkFqYtGoybsDOvuSEWci9RB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1m3AWfLaKlLvIUOE5y1f1Tf-nWqqJY18y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JwUJmj7bNMT58CoY_7ozNees7QoyCUT1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jxz_n5_Q13nmjBGgTQ_SN5oPAQxISWeW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BNpjUccDr_CPnG4wK2ghYZHP4fav0QyU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E9Q4UwafoBjzDCzQ8oynNDWrpK706r9O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oxE6nEzqAQ6gTgKXITbo1WOcL6SIjoH_</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">LS Santini</param>
-      <param name="Артикул">Cp14245</param>
-      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
-    </offer>
-    <offer id="Cp01075" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси Сплендид 55 см Арт. Cp01075</name>
-      <price>60</price>
-      <qty>500</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1MjmZS3kj_8WcxIvzOwiVR5PgUSz7rEpf</picture>
-      <picture>https://lh3.googleusercontent.com/d/15qnzfZEV9ydcDRw5o2_VMk4nZYOdcZ5F</picture>
-      <picture>https://lh3.googleusercontent.com/d/152Q5mJnY4W9pKBuTLELh1GyyPYFnO_47</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hjEH0DnuYmz7rXFC0-8s6fEV2iza04jL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rIR6WAJbo2CYsTKTzyE1vJgFn19pPNDc</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Vanno Va</param>
-      <param name="Артикул">Cp01075</param>
-      <consist name="Хризантема Сантини Росси Сплендид" unit="шт">25</consist>
-    </offer>
-    <offer id="Cp9637" available="true">
-      <categoryId>37</categoryId>
-      <name>Аллиум Бордовый 70 см Арт. Cp9637</name>
-      <price>255</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xYqrHgv9tTzCp16wanh42RMj22HxqvpI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mm-vfaSlUXVcSjikQgpM7xC08VPpA62O</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OMPAwKafLnUOqM0fBA8X8-DIt4fyZv_m</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Zj5DwG7Af31xw-kb-XKYOk2rL1eOO9b_</picture>
-      <picture>https://lh3.googleusercontent.com/d/17fckl2Dc4lD1UMhDRm0gu6dqAjqA5m60</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Cp9637</param>
-      <consist name="Аллиум" unit="шт">10</consist>
+      <param name="Артикул">Cp7375</param>
+      <consist name="Хризантема Сантини Росси Сальмон" unit="шт">25</consist>
     </offer>
     <offer id="Cp0519" available="true">
       <categoryId>37</categoryId>
       <name>Альстромерия Фиолетовый 50 см Арт. Cp0519</name>
-      <price>75</price>
+      <price>83</price>
       <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1D8KYLVflBu3pRD_Q-Z44n3jfgXeKlUca</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ExJnag76i5D91VSHEm88UGvNgomO4F2i</picture>
       <picture>https://lh3.googleusercontent.com/d/14uJ0Jwl7IGjvTZvDOg7wBLlA2fqli9VK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D8KYLVflBu3pRD_Q-Z44n3jfgXeKlUca</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp0519</param>
       <consist name="Альстромерия" unit="шт">10</consist>
     </offer>
-    <offer id="Cp01428" available="true">
+    <offer id="Cp5726" available="true">
       <categoryId>37</categoryId>
-      <name>Альстромерия Пасифик 80 см Арт. Cp01428</name>
-      <price>75</price>
-      <qty>70</qty>
+      <name>Антирринум Белый 60 см Арт. Cp5726</name>
+      <price>132</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Urx-zej7f5PmM_NnXu4mE0NXyKphgYT8</picture>
-      <picture>https://lh3.googleusercontent.com/d/17RS4nV4qYIcVDV3uDYchMOEHRWC4ryu2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oTjLe5pKIwwiHkqs45uz3ix4wtqctZkA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ik5n1vnmGjvsREIemr6vDwoV0Eun1tb6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BygdJhGe1HwA7EKN9rD2hLIuTJBDR8FQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/15bgCRN5wwCWucsbIV1NxNXcBIIoq1AKG</picture>
+      <picture>https://lh3.googleusercontent.com/d/11QMK_LU75s_psW6NcEFKOzqX4-N_9KKF</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Perfection</param>
-      <param name="Артикул">Cp01428</param>
-      <consist name="Альстромерия Пасифик" unit="шт">10</consist>
-    </offer>
-    <offer id="Cp04475" available="true">
-      <categoryId>37</categoryId>
-      <name>Ананас Мини Бордовый 50 см Арт. Cp04475</name>
-      <price>275</price>
-      <qty>16</qty>
-      <quantity_in_package>8</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1J-VxESp77NUGkzL1NXA-CL6aLkqdh2Yt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Ld-kA7FlxlOQhRn7KfI1WHmyqlJoJDPw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SV2gp6dJbHBbbBbyQnRK9S-eOOhSiFyk</picture>
-      <picture>https://lh3.googleusercontent.com/d/198mbR3oPt8-0h4raEKI83xAybhKkyc0o</picture>
-      <picture>https://lh3.googleusercontent.com/d/1I627cjhqOl2-YxwI5Zc2z4E0tM8j7vEQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 8 шт.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
-      <param name="Артикул">Cp04475</param>
-      <consist name="Ананас Мини" unit="шт">8</consist>
+      <param name="Артикул">Cp5726</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp11326" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Желтый 60 см Арт. Cp11326</name>
+      <price>132</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14gD8l8BNUCKKxCr3zg3l1mFleIk9iI-A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eRwopkG2NeKpNw_Ai1tUpqRGvzsytVBm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BENwTbDn-Oox7fUCv1vUYlZ-9QTxLzu0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hWSbaT1hwiLDdp4CYfaGphaVWBwZkUyn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Avo8p-Vjnvw8zh6HVWvkQ15zSfyPtAmD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp11326</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp11336" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Розовый 60 см Арт. Cp11336</name>
+      <price>132</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1p77s1Vyobx8SuFhbUV8QMu0Oe659IRlh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QS6L2mSHAkAh3CxRx5wEBdwRnoFaLyF8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Fe3YLcqwyebmy286iEAAKEd1QA2FOyDo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZArGZkdRn167kCGZ_Yru5D9GNHlPJcsk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BwiEWHsqBODhCzUfaGWM2QNnNVppMlyy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp11336</param>
+      <consist name="Антирринум" unit="шт">10</consist>
     </offer>
     <offer id="Cp0505" available="true">
       <categoryId>37</categoryId>
       <name>Астильба Розовый 50 см Арт. Cp0505</name>
-      <price>70</price>
-      <qty>140</qty>
+      <price>77</price>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ubjiyuadC3WUlRseewNZw0ETSCgwQAZe</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Qsa6CDEKCEdmCrTAAfwZmMIaQwAO416Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h9aUmQV8ML1s560xzhMZIuGmJ51JzOPX</picture>
       <picture>https://lh3.googleusercontent.com/d/1LMKXTPvpI3Fs6IRKizE2D5Te1vYVq7ie</picture>
       <picture>https://lh3.googleusercontent.com/d/18G75PBnlofYxls5AZ05pvbdC7OoVxFdq</picture>
       <picture>https://lh3.googleusercontent.com/d/1HoXR1dzZmRiiljYOHxrQ-DKp0oHz7WT7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ubjiyuadC3WUlRseewNZw0ETSCgwQAZe</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp0505</param>
       <consist name="Астильба" unit="шт">10</consist>
     </offer>
+    <offer id="Cp583" available="true">
+      <categoryId>37</categoryId>
+      <name>Брассика Зеленый 50 см Арт. Cp583</name>
+      <price>132</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1n9tDohc96SfdXvkLCzrgSfcmzFaQoHW4</picture>
+      <picture>https://lh3.googleusercontent.com/d/13JVtApD4RqQrW6PDjeU7eMfTR7ogpFUh</picture>
+      <picture>https://lh3.googleusercontent.com/d/12C5ASpzoiMy5tdMUqdngmEXYKQ1m2QST</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XechUFVBeUXyW12BN6tZn5PFcJlnE40J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sSSg4_x-g7OoP2WTiF4UcXpjr4lF7KMI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp583</param>
+      <consist name="Брассика" unit="шт">5</consist>
+    </offer>
     <offer id="Cp9685" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Глория Местизо 50 см Арт. Cp9685</name>
-      <price>48</price>
-      <qty>160</qty>
+      <price>53</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RBZoEuDt8MK0Dusy6hNBb5raqOWz_KwI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_IP5bgk7M9uXjr9ytym153gD3s-l6-nN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nLFY7dyaC7FQMSnfz49NME-9iV7sAULi</picture>
       <picture>https://lh3.googleusercontent.com/d/1uuBZs9ceOgBwIYo1COwlbgbIHyXubQcr</picture>
       <picture>https://lh3.googleusercontent.com/d/1t69d16-D8R7i4xMSqeg3_VH_Y2VHJEwG</picture>
       <picture>https://lh3.googleusercontent.com/d/1m4La1ohPSeGz86VNqEt-EEZW4X6S6jHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RBZoEuDt8MK0Dusy6hNBb5raqOWz_KwI</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Колумбия</param>
@@ -633,14 +772,14 @@
     <offer id="Cp03105" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Джианна 50 см Арт. Cp03105</name>
-      <price>48</price>
-      <qty>150</qty>
+      <price>53</price>
+      <qty>530</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Wboz1bV4X1NcsceE5UYPcVPrgPdqHq_Y</picture>
-      <picture>https://lh3.googleusercontent.com/d/12hPnY6OhgHKe8jF9srdqwcSDn4qyfDce</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DXDRcgwL9QKC7o8Sm8C1c1BPp8MOAzV7</picture>
       <picture>https://lh3.googleusercontent.com/d/1IgVDMG43jYAMjkWmtPpMH-Lcs76P0P5y</picture>
       <picture>https://lh3.googleusercontent.com/d/1FXPx9maPs-XA7KL_1Yf_cttrmL_YQMSF</picture>
       <picture>https://lh3.googleusercontent.com/d/1rTe5o2du1aiu2dJBPZpbawEP76cARQeo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Wboz1bV4X1NcsceE5UYPcVPrgPdqHq_Y</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Колумбия</param>
@@ -651,14 +790,14 @@
     <offer id="Cp01635" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Нимбус 50 см Арт. Cp01635</name>
-      <price>48</price>
-      <qty>470</qty>
+      <price>53</price>
+      <qty>460</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/157YwtNn5t6yx7FvSmzaHvOhnNZrpyUa5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1E04bp0Q4D37HLEe50eXmEItuqgAP0h54</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Awn15qwc9uTuqbN0lSvR0qMMxixosP_p</picture>
       <picture>https://lh3.googleusercontent.com/d/1P6sM9R8r_ZK4R49pAIsXb2mkO7dm5H1j</picture>
       <picture>https://lh3.googleusercontent.com/d/1nlvvdXh_k91Fi-wVW6NRAJcmKUuzgiD2</picture>
       <picture>https://lh3.googleusercontent.com/d/1RkFjJUErr58be0yW9f8R2mOFjgG9yvTD</picture>
+      <picture>https://lh3.googleusercontent.com/d/157YwtNn5t6yx7FvSmzaHvOhnNZrpyUa5</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Колумбия</param>
@@ -669,14 +808,14 @@
     <offer id="Cp9665" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Хорус 50 см Арт. Cp9665</name>
-      <price>48</price>
-      <qty>480</qty>
+      <price>53</price>
+      <qty>410</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/16yXCwv-HGmaGuqrWllPtSdXxSjgFlrTi</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CEgsC5sDk2IQNJ0NjTo1RM2DkwfnRJsR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y1QkuLiJNDDU5Kv2kL2Vkk3vyUgUsjsp</picture>
       <picture>https://lh3.googleusercontent.com/d/1dmoNjItcBafGDvptANTc1hxQA30p4PA_</picture>
       <picture>https://lh3.googleusercontent.com/d/1-KVANRFt-saJBeWwRYWrXztmMWkRuDoW</picture>
       <picture>https://lh3.googleusercontent.com/d/1hoGTYuGG4KZfDpYHHQ4yDNZfsr6njP0f</picture>
+      <picture>https://lh3.googleusercontent.com/d/16yXCwv-HGmaGuqrWllPtSdXxSjgFlrTi</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Колумбия</param>
@@ -684,35 +823,17 @@
       <param name="Артикул">Cp9665</param>
       <consist name="Гвоздика кустовая Хорус" unit="шт">10</consist>
     </offer>
-    <offer id="Cp03147" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Брют 70 см Арт. Cp03147</name>
-      <price>48</price>
-      <qty>225</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Llb3MN5kGKLczEaxitUrMo_wSc5sMTQj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Og1ss5H1PYI7L9q8K_kKP6F2SmfHbLOt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fCUg8EjZe8EHyI-lL4ICy23P-YfnOPXE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FzwIDPfgezapYwy62Q6BwJvNoGY2F7tg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CY0-bdrYhvcT3yKWGCc7XlHTa7DWa099</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Cp03147</param>
-      <consist name="Гвоздика одноголовая Брют" unit="шт">25</consist>
-    </offer>
     <offer id="Cp01267" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Веддинг 70 см Арт. Cp01267</name>
-      <price>48</price>
-      <qty>450</qty>
+      <price>53</price>
+      <qty>425</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EL6XIf2lbuamnZj-o9rQSRr7WjXDj1Re</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UBUC5jkHrn3Hja2mxxg1gfdUy2ON69UH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1W0dYYknmMudnhEWu8CuT_viUUGYWTqjA</picture>
+      <picture>https://lh3.googleusercontent.com/d/18U_Z0Q2WObXgcHD3cqsdxKErKCuQmCxj</picture>
       <picture>https://lh3.googleusercontent.com/d/1yj2H0yDQLYRSl9LhKgjwhKNzQY-OsrEY</picture>
       <picture>https://lh3.googleusercontent.com/d/1bbZfMbfCyfcu9sat-P_umQFM393xQn1V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EL6XIf2lbuamnZj-o9rQSRr7WjXDj1Re</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pVNkjZnT0d06E7Gey3yXmDYlJ7eleo2U</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -720,17 +841,35 @@
       <param name="Артикул">Cp01267</param>
       <consist name="Гвоздика одноголовая Веддинг" unit="шт">25</consist>
     </offer>
+    <offer id="Cp03787" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Грин Трик 70 см Арт. Cp03787</name>
+      <price>121</price>
+      <qty>180</qty>
+      <quantity_in_package>30</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1at57L6Rsb8e19flv_hhu1WC0C6XzrG0K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FErnV0KQI0mnsLwHcR_NzbFskDXBafpL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AtXayUzpmxMmseCRrCEMOrInz0437IOD</picture>
+      <picture>https://lh3.googleusercontent.com/d/19XeHo_7nwBZndFJtsR0v6DNtyPgLDW4l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IGrD7BNx5aMfMNqm86mThWoosuNOlghY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 30 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kiwi-Flower</param>
+      <param name="Артикул">Cp03787</param>
+      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">30</consist>
+    </offer>
     <offer id="Cp01257" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Джангл 70 см Арт. Cp01257</name>
-      <price>48</price>
-      <qty>250</qty>
+      <price>53</price>
+      <qty>450</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/11QzPjD9lx0LtSIcVDfGRKDi2Fnq3mgv2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HxXhoJABV4161NYXjcBQjr5PNN9kcsiG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KdnDT_Vk339GBeymNW7n_ksTBa1jeE5a</picture>
       <picture>https://lh3.googleusercontent.com/d/1hQVN3RXbeWzYM2E2djN8BkfSAtDChjaS</picture>
       <picture>https://lh3.googleusercontent.com/d/1GnVeOGd2_WS4GD_sZvJ7u_BoURngGL8H</picture>
       <picture>https://lh3.googleusercontent.com/d/1S8saO9rSknlwM6id5nKhcHyFOOGeQ_gv</picture>
+      <picture>https://lh3.googleusercontent.com/d/11QzPjD9lx0LtSIcVDfGRKDi2Fnq3mgv2</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -741,14 +880,14 @@
     <offer id="Cp11017" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Каори 70 см Арт. Cp11017</name>
-      <price>48</price>
+      <price>53</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1NBxWQGMZyrptmydqWjGoaM8ztdudOcM1</picture>
-      <picture>https://lh3.googleusercontent.com/d/11Sop4KfrvIUKXCBHiUvryhAqlTMZA2F1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xFuJZkAz7pJg6J_PlIz6GBimcmRqDnQs</picture>
       <picture>https://lh3.googleusercontent.com/d/1G0xh0Wl7Sjv2r40UFOGM__RYsm48sjlN</picture>
       <picture>https://lh3.googleusercontent.com/d/1Hq3ZMmShV2oqdBs6q22uKqARTc0tnDiQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1grTrnWtlUIMb4oIn8DyjQQU506YoQoBx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NBxWQGMZyrptmydqWjGoaM8ztdudOcM1</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -759,14 +898,14 @@
     <offer id="Cp03137" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Клеар Вотер 70 см Арт. Cp03137</name>
-      <price>48</price>
-      <qty>700</qty>
+      <price>53</price>
+      <qty>575</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1_5l4PDC55Sybz6kbO862e7Cxdvv83fcZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qKlOXxZLNkQyN7bpi5UDNXqx-1WV9_eM</picture>
+      <picture>https://lh3.googleusercontent.com/d/15dGfMv9aGTLBGX-AvWj6Mn1dKH4_Y4TQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1mu6kV5xXn9GhDmNF7nVCBcYPtz2gQ6kT</picture>
       <picture>https://lh3.googleusercontent.com/d/13mYdiO_fYQ2tiULah-s7awxBNO1pn_Zg</picture>
       <picture>https://lh3.googleusercontent.com/d/1jMelHHXcLOBiIAGs-Ize9C68YeuVSqjV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_5l4PDC55Sybz6kbO862e7Cxdvv83fcZ</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -774,17 +913,35 @@
       <param name="Артикул">Cp03137</param>
       <consist name="Гвоздика одноголовая Клеар Вотер" unit="шт">25</consist>
     </offer>
+    <offer id="Cp6947" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Кримеа 70 см Арт. Cp6947</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AaP3xXsxxO0zs5dclYMJZDWozHbzrtTD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cnfakNM-8oLGNjjjDQHoEWT-uJQ4uP6U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I9MUSeIte4C4SwJswzGwvc91Pj3lLWhg</picture>
+      <picture>https://lh3.googleusercontent.com/d/17K1V-xpvMdGRWmgmkgVeqphgXvGN3nnG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xQwtNSOsyUEAND3HHfNHY1j5GsXrOu4B</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Cp6947</param>
+      <consist name="Гвоздика одноголовая Кримеа" unit="шт">25</consist>
+    </offer>
     <offer id="Cp9737" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кристалло 70 см Арт. Cp9737</name>
-      <price>48</price>
-      <qty>375</qty>
+      <price>53</price>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ZYJYQ2_U3VaelMQUQ1Wt_UmVwCIZZY7l</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GJ6WYMppTyz4CK2RE8AtNWg6E4QnOQ8p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1coRHRfuUDaW3LZ1gYXhry_47XVO097Qw</picture>
       <picture>https://lh3.googleusercontent.com/d/15eh5oMDa93v4QaL-pfizGh5H_91RPBMk</picture>
       <picture>https://lh3.googleusercontent.com/d/1iym39u9S_6e3Xi-G3G3CsVKsaCBuZ0OP</picture>
       <picture>https://lh3.googleusercontent.com/d/1H7f7WjbgsKXgIcx-RehT-5_t5u8ub9VA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZYJYQ2_U3VaelMQUQ1Wt_UmVwCIZZY7l</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -792,71 +949,35 @@
       <param name="Артикул">Cp9737</param>
       <consist name="Гвоздика одноголовая Кристалло" unit="шт">25</consist>
     </offer>
-    <offer id="Cp01597" available="true">
+    <offer id="Cp12567" available="true">
       <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Марте 70 см Арт. Cp01597</name>
-      <price>48</price>
+      <name>Гвоздика одноголовая Мерлетто Лавендер 70 см Арт. Cp12567</name>
+      <price>53</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18-OyaJ_-ogTVNt3iQHUOfVlyCQFkFe_I</picture>
-      <picture>https://lh3.googleusercontent.com/d/1b6RNNAgtLogrLQwn7aAjvXPB-dcQnB3k</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EDFybo9Tx-HusFNGwjjl0jGLoBOxWjwf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MAMYHBqEXwtJFBb5XxfHDsCim77RejlZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rCPyhy-lG1o0k0PzLKuNOn2zOY9gwWjr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SmziAm8El6gFN2DdCwDK788lsVN3fq2E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P3iHUgBiC-RlUEV_ES9VKJLE-B0VTILz</picture>
+      <picture>https://lh3.googleusercontent.com/d/123-9Q7-Oo88fMEX_KoU5_uUO5jiX0ySN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R5B_bwUx2kxyNl7yvvIWG67WCmPiomyZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vOisUuIEm8_fUF6D4uIy7u91jzYvVFtL</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
       <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Cp01597</param>
-      <consist name="Гвоздика одноголовая Марте" unit="шт">25</consist>
-    </offer>
-    <offer id="Cp10987" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Мерлето Кримсон 70 см Арт. Cp10987</name>
-      <price>48</price>
-      <qty>200</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1y6OvumT7NJnvms5TCQxhQ4X5NxlJwtuW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hUGz9do5yeUlaeX-lRDH7WF_l6ZHZaNG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-guDAxcxGW3mH0FjAEsaWv5gd2ik7nFI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lQmTvPom9UP20eUhPBsVY4U2tVdw8Qe_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1w12iTAq185u9DzN0LiUpouQOJAOtUgeM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Geeflora</param>
-      <param name="Артикул">Cp10987</param>
-      <consist name="Гвоздика одноголовая Мерлето Кримсон" unit="шт">25</consist>
-    </offer>
-    <offer id="Cp9577" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Ноббио Бургунди 70 см Арт. Cp9577</name>
-      <price>48</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1D7q4q-cGH5Ipwmcmc3pARgZcMNVtisAH</picture>
-      <picture>https://lh3.googleusercontent.com/d/16ELDepmq6KjUm1W-IsfAUutXODXplgTH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1g5ZH_9C6x8Gz7nCGtxA1VYwdO5RUSidh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YEgpm0D29ZLPIg1OKo-Zremyd5eddp8r</picture>
-      <picture>https://lh3.googleusercontent.com/d/1jZNAya8t-RU8TkIKcsWmjS6fMu0DYxhZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Cp9577</param>
-      <consist name="Гвоздика одноголовая Ноббио Бургунди" unit="шт">25</consist>
+      <param name="Артикул">Cp12567</param>
+      <consist name="Гвоздика одноголовая Мерлетто Лавендер" unit="шт">25</consist>
     </offer>
     <offer id="Cp01277" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Пастел Кремия 70 см Арт. Cp01277</name>
-      <price>48</price>
-      <qty>550</qty>
+      <price>53</price>
+      <qty>650</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1iF8uAh7jS1QpraGiM6fDm3dbAyyoaDs2</picture>
-      <picture>https://lh3.googleusercontent.com/d/19iYQ0YpyzPW61x_OtHOreq2pO54QlCJS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w8avcGemHXL_92FkywNc6u5GJ71qG9-q</picture>
       <picture>https://lh3.googleusercontent.com/d/1ubehFA3MCA2v5r96mW3HS4mp6oJXQsQz</picture>
       <picture>https://lh3.googleusercontent.com/d/1M3f7zX625mg0T9n2XEUxT3HBSw66m4ZP</picture>
       <picture>https://lh3.googleusercontent.com/d/1Q5KEyy6aVJ6a2y-o2ZLA-zVxkE5VtLr9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iF8uAh7jS1QpraGiM6fDm3dbAyyoaDs2</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -867,14 +988,14 @@
     <offer id="Cp9727" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Харизма 70 см Арт. Cp9727</name>
-      <price>48</price>
-      <qty>25</qty>
+      <price>53</price>
+      <qty>425</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1M-NoxnGfBm03LiNM8CUAUlf5-CwDMJg7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iZgoplGcedRJBG9pZap139z_qVCtJvb0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F_gVp5O01AJW-sbZCMFJdhWS7sBmEJjP</picture>
       <picture>https://lh3.googleusercontent.com/d/1C4RqiuzKE-W9s5z-dsPwAM4gI7ph9I69</picture>
       <picture>https://lh3.googleusercontent.com/d/1lhhC_d0Oi_PrpkcvNMw0dK07E8-DY9Qs</picture>
       <picture>https://lh3.googleusercontent.com/d/1z21-7PLHOmNmHh7QcUFAiREH0Xvpn-d5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M-NoxnGfBm03LiNM8CUAUlf5-CwDMJg7</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -882,32 +1003,86 @@
       <param name="Артикул">Cp9727</param>
       <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
     </offer>
-    <offer id="Cp0354" available="true">
+    <offer id="Cp12745" available="true">
       <categoryId>37</categoryId>
-      <name>Гладиолус Желтый 50 см Арт. Cp0354</name>
-      <price>135</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/17YlBII7QBzU1vKGQbvsmwc0n4erILigp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Sz-u0CKVh-hAHOqpLfnjK4oOeDlM1UxN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LohuWHfbzj30uuMfJInnc80LEaqih3oG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PvctddfOtwYbkvJwTsXX9uU41IbQuTLe</picture>
-      <picture>https://lh3.googleusercontent.com/d/10RHQ2GBQP6ySgOPFpa2rT-8vFCAFmxib</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <name>Гидрангия Лавандовый 50 см Арт. Cp12745</name>
+      <price>220</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13vLROs7q7a3QQLkeYATC7jaVpqAlg4fx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mfowGF7Oi-TinJNObWAluudDaqzqa-fz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ky4a9yOzvY-f5N6BgFg0OXtJ0zQkYWg2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fgxLyphLdF-AvlZ6g4C97YzciD9cKSAS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
-      <param name="Артикул">Cp0354</param>
-      <consist name="Гладиолус" unit="шт">10</consist>
+      <param name="Артикул">Cp12745</param>
+      <consist name="Гидрангия" unit="шт">1</consist>
+    </offer>
+    <offer id="Cp01655" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Розовая 50 см Арт. Cp01655</name>
+      <price>88</price>
+      <qty>300</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iJjrTDODkW_Md1oQFBjNy5T15GbZ__o1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gGSzsPETrRk0UU738ZSwqMLodPJ89Emh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y0EFk2LhPyPjFcRdmGX1tqXyZNiaroP4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MgvXjvo74u0RtDRKzZrD0nv-evJ68zdE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g2tcZlYjnnkNzQ1Dd_9P58IYkuXAXDlg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Cp01655</param>
+      <consist name="Гипсофила Розовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp01925" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Сиреневая 50 см Арт. Cp01925</name>
+      <price>88</price>
+      <qty>400</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uNnvmMFw3DB0lsp2pLXBDYKrDeAl0Js0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oMmBu9rJCv-6Myig8BQOG5ktBINNCg_T</picture>
+      <picture>https://lh3.googleusercontent.com/d/19yPWe_9zhsiqHHvXtzAd41dPh6bh3Izi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UMrzBTxTGaEbCq2u4-ruahqo4NPWiOTJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E53SLziaNzXIvdrDH3AzgANaD1XTBFxl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Cp01925</param>
+      <consist name="Гипсофила Сиреневая" unit="шт">25</consist>
+    </offer>
+    <offer id="Cp9537" available="true">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Белый 70 см Арт. Cp9537</name>
+      <price>215</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1X9mRgG0adsxvsMYCUKBCDvCjYNAcdws3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aCtXc7KzftSxxTLmFhs6jmmgtN0AJUNt</picture>
+      <picture>https://lh3.googleusercontent.com/d/15MhDNQRAJZof5c7GAxC8YSjeN6rqy1rI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pAJRw_0atiBkQiglNufm710bJ4OHdLGF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-EyMmexA1BQPFLBukhG9-OQO28XHhDpn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kisima</param>
+      <param name="Артикул">Cp9537</param>
+      <consist name="Дельфиниум" unit="шт">10</consist>
     </offer>
     <offer id="Cp15068" available="true">
       <categoryId>37</categoryId>
       <name>Илекс Желтый 80 см Арт. Cp15068</name>
-      <price>275</price>
-      <qty>50</qty>
+      <price>314</price>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1e53NQfFMPidqd6DrbVWUY8rUhIPgo2z0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R28plJA9P8QzVk2WiRR7zcKcPvt6lnBJ</picture>
       <picture>https://lh3.googleusercontent.com/d/12NvHx20NjSo437Vxb-LmQ69p31uqVzSe</picture>
       <picture>https://lh3.googleusercontent.com/d/1f_19UIx7C3UzcFmOdVxppo9wyj66l7n_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e53NQfFMPidqd6DrbVWUY8rUhIPgo2z0</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">80</param>
       <param name="Страна">уточняется</param>
@@ -917,14 +1092,14 @@
     <offer id="Cp0453" available="true">
       <categoryId>37</categoryId>
       <name>Калла Желтый 50 см Арт. Cp0453</name>
-      <price>130</price>
+      <price>143</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mhZPRnuuOonn1_q13eYvklXn8chAWI64</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vIvNwnjOpqlMnPEVGkP15mSJWV1ho1mB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZGOGT5JUUxhvjqoJCAzpycuCFR7a8v8t</picture>
       <picture>https://lh3.googleusercontent.com/d/1lpjrz4awTA62kWftMH_76LI78ao_W_wa</picture>
       <picture>https://lh3.googleusercontent.com/d/1uj8pp7kqVpG0lqSc-nkVsx9LzZa9Qaqy</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ghyx5QmZbZ8x-slvzsbxVIXLYt3tK7I-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mhZPRnuuOonn1_q13eYvklXn8chAWI64</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -932,51 +1107,200 @@
       <param name="Артикул">Cp0453</param>
       <consist name="Калла" unit="шт">10</consist>
     </offer>
+    <offer id="Cp1007" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла 50 см Арт. Cp1007</name>
+      <price>154</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jQX-tS4wA2bcVAO9cMBnDUW5Q-neX3hg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k14pCpgcfr0roRg_L_J7iNrVybDE_lML</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uA2UbYpuPxFDkOc-sX26dfjHeP1sTzpW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nSZjLmMoFPhLShNfyhuwt7soyU1W4vbY</picture>
+      <picture>https://lh3.googleusercontent.com/d/10GhG9NWJT4-AKhtXwyOlYIXwMCvoSRwM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp1007</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp01457" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Чемпион Лавандер 70 см Арт. Cp01457</name>
+      <price>116</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W4dtziytBq9rEgTj806dqeFTgWUNrfDP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w6RU_-v3gD9RMa8ssQ7YJKwzE32mp4yK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IcRqs63NEd4fFV5NQeARtHyOdoBNlm0U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1twYqKFZlSPMAJydJqgQxBVhAlqBhFC6X</picture>
+      <picture>https://lh3.googleusercontent.com/d/16wIAz08ZuaN-z2DzHqiPgyJXx0gL9XHa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Cp01457</param>
+      <consist name="Кампанула Чемпион Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp0420" available="true">
+      <categoryId>37</categoryId>
+      <name>Леукоспермум Желтый 50 см Арт. Cp0420</name>
+      <price>171</price>
+      <qty>90</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-c3jwVAHVVHstIBBxtA7HtpnEJoir_HS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h_--KlKGSyEIzhwGjHWRjRPvU6tdw2KS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vOJB6MVi9VV_d0RWXXLN64VnK8bQDR63</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L1JnIPO6KXS4heN8VCY_lvVyOkW7MOpj</picture>
+      <picture>https://lh3.googleusercontent.com/d/13z1qKsTk6P-6dqLYGeqOw4SZRq8-jnCS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Odilia</param>
+      <param name="Артикул">Cp0420</param>
+      <consist name="Леукоспермум" unit="шт">5</consist>
+    </offer>
+    <offer id="Cp0486" available="true">
+      <categoryId>37</categoryId>
+      <name>Леукоспермум Желтый 50 см Арт. Cp0486</name>
+      <price>171</price>
+      <qty>105</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oxFR0bKtr8yIcxxxnGhf83GATlsEmk8J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NdW6w1wPBnxcobBXYFAMbI5_fMEx0oxP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MxEyqeoInC1bUGG1_vesfoLJQCTJHMsq</picture>
+      <picture>https://lh3.googleusercontent.com/d/14HEHoPsmBqBzVDOzN7yFOpd9TGn65qIJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/15V88Rwy3nx3yD2Rctf1oQqVKatyTLm46</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Odilia</param>
+      <param name="Артикул">Cp0486</param>
+      <consist name="Леукоспермум" unit="шт">5</consist>
+    </offer>
     <offer id="Cp01365" available="true">
       <categoryId>37</categoryId>
       <name>Лилия Розовый 50 см Арт. Cp01365</name>
-      <price>460</price>
-      <qty>10</qty>
+      <price>468</price>
+      <qty>360</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1C5e56mIxOR6_yR3c1x9ybXCErcXe6CR3</picture>
-      <picture>https://lh3.googleusercontent.com/d/198GgEmmyR1v_uos77urlLglsrmItr8u-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tT1t4w2LO0l8sp8meyX9AoRLxOSkd_QF</picture>
-      <picture>https://lh3.googleusercontent.com/d/14vpUaU9P1L4GvAP25NS-rVds9ZCWNq0p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kbdme2gnFxzHKm2_4N4ShRvolIsajg5S</picture>
       <picture>https://lh3.googleusercontent.com/d/1fmH8CKH90yEnQfrmKq-Sj-S_zDpKN64C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C5e56mIxOR6_yR3c1x9ybXCErcXe6CR3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-Odt7jFm9REJUGt2gL63vsS6LKCm8mru</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qebgf0T8OitjcV6qnXkwaLYJt4yf-kGL</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp01365</param>
       <consist name="Лилия" unit="шт">10</consist>
     </offer>
-    <offer id="Cp6845" available="true">
+    <offer id="Cp14036" available="true">
       <categoryId>37</categoryId>
-      <name>Маттиола Розовый 50 см Арт. Cp6845</name>
-      <price>120</price>
-      <qty>180</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1MeCo2TAoxUBrC5U8a8PfAmDdvWLpuHV_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FAPuzdTZY2Aj3J5UH1Z0N043Z-Niswz9</picture>
-      <picture>https://lh3.googleusercontent.com/d/174NzGa1Necl9GWGjCLoE3kUtmCbgBIsR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1B0Ep2jo77omQrPCj29uFa03SAf_pe3nz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lB9CJDObnC_E2tvzDpWmlg1cQdtT_wMl</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <name>Маттиола Сиреневый 60 см Арт. Cp14036</name>
+      <price>132</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1r-9bXOL_icJmTEyul2j2Nq4pGY8KO-gj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zkgMJS_5j0Jba5OAy4CxklHS8ceNdxNY</picture>
+      <description>Маттиола Сиреневый 60 см Арт. Cp14036</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp14036</param>
+    </offer>
+    <offer id="Cp14897" available="true">
+      <categoryId>37</categoryId>
+      <name>Озотамнус Розовый 70 см Арт. Cp14897</name>
+      <price>105</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Fd3eB5SzrXnXbQ_88lZ8AsckKno1iAxj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GSfqG1C1KZ105xi20WcYmAbnWljbOf3l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PwNiDuPWgCGtgx82bxaXk0YFOembuPQS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xnGJ-WCJXNUGFhYo6VHBet0nZ6n2_zA3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp14897</param>
+      <consist name="Озотамнус" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp03677" available="true">
+      <categoryId>37</categoryId>
+      <name>Орнитогалум Белый 70 см Арт. Cp03677</name>
+      <price>83</price>
+      <qty>170</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cHer7F3Kay7ZJqw8PaUEHHq9t2dC363t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D37oPGnt0_nMEKz4QAB-UbSUpK-JmbyO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pG2LVh8eroqZBGWpn24GXhEwS4DjLeXV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ag5-1bjc7vQaiTRqEvtiQwNnDEYbnfMM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MhZ2JnLFIktR_ANwJ84sLm6Q7erpRQSm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Sand Pro Grovers</param>
+      <param name="Артикул">Cp03677</param>
+      <consist name="Орнитогалум" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp00726" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Сара Бернар 60 см Арт. Cp00726</name>
+      <price>358</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11UrsQLQmVjgmyINY04QFMiAFe2LPSC28</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z0X5r3Sgo2zWa5AbePrj_SOUwPeVthpa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xCUtmhVdl2umVrkYcIxixW5jtl_84k8K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nEYoQV7BDn_Ahw1Nu_LjSqeaANp9FZsv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Zn58WrCK-2GeXayeP-VePRaJMnG04Lsv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp00726</param>
+      <consist name="Пион Сара Бернар" unit="шт">20</consist>
+    </offer>
+    <offer id="Cp10035" available="true">
+      <categoryId>37</categoryId>
+      <name>Питтоспорум Илан 50 см Арт. Cp10035</name>
+      <price>64</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tS5Y8zOUPwdC9BDZJbfaCmvE5IYzjV6X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YIWQ5CALUhOGnPU07YW919yNPErHaiqA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jxryq3raZDgTRnGH37CX3utKFNAwib7i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QiPoX8o4-gqIOulyDk-ajoFouX0OVgX-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jCTmNBR-i74fe64J2L0APQYu2UPzw0_5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Артикул">Cp6845</param>
-      <consist name="Маттиола" unit="шт">5</consist>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp10035</param>
+      <consist name="Питтоспорум Илан" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp14375" available="true">
+      <categoryId>37</categoryId>
+      <name>Питтоспорум Нигра 50 см Арт. Cp14375</name>
+      <price>407</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HTfX2Y8EplBiHstg4Or7rRVHn_92zlRH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pVpzLZ-T1e5UXm-NOSp18D-z35Bd2q0z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp14375</param>
+      <consist name="Питтоспорум Нигра" unit="шт">10</consist>
     </offer>
     <offer id="Cp0448" available="true">
       <categoryId>37</categoryId>
       <name>Протея Артишоковая красный 50 см Арт. Cp0448</name>
-      <price>1000</price>
-      <qty>14</qty>
+      <price>1100</price>
+      <qty>2</qty>
       <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1svDD237Qy_6boHSKx1dbbuKH_vZjAlJW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_RWek_Efli54mkVr6OIogtm5u4mH9Ot2</picture>
+      <picture>https://lh3.googleusercontent.com/d/12nDq7Fjwc3oC5wUnBbb-0ee0oLFSj2po</picture>
       <picture>https://lh3.googleusercontent.com/d/10tY_5FdBGbd6F6-MSaMV0fn-1TS76n2H</picture>
       <picture>https://lh3.googleusercontent.com/d/1Z1IoDLY8GzhRJYkb6jzHCbUBxXaaIkWf</picture>
       <picture>https://lh3.googleusercontent.com/d/1WaONx1qz_-w9aM9Qr1voNOBIkhOXRYhe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1svDD237Qy_6boHSKx1dbbuKH_vZjAlJW</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -986,31 +1310,48 @@
     <offer id="Cp0449" available="true">
       <categoryId>37</categoryId>
       <name>Протея Артишоковая белый 50 см Арт. Cp0449</name>
-      <price>1000</price>
-      <qty>13</qty>
+      <price>1100</price>
+      <qty>10</qty>
       <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1QSViCDsdu1Ve6HDWQntUTICwYkXoLIFL</picture>
-      <picture>https://lh3.googleusercontent.com/d/11aitw78ml0ga2Vmz0wd5P5d_23LLFKXm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xmMs_4A1BYAzyIlF1jh6ZwKmBUTiaQwF</picture>
       <picture>https://lh3.googleusercontent.com/d/1fAsxO8SD-Q8pTSXvEJnvgmYjlailQmAM</picture>
       <picture>https://lh3.googleusercontent.com/d/1j74vO_xDiJBxYOLPM2BzmoJMCBYOguP7</picture>
       <picture>https://lh3.googleusercontent.com/d/1p06upMVFsvXWmXLJ6bH9J_jECKvh4fDU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QSViCDsdu1Ve6HDWQntUTICwYkXoLIFL</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp0449</param>
       <consist name="Протея Артишоковая" unit="шт">1</consist>
     </offer>
+    <offer id="Cp0360" available="true">
+      <categoryId>37</categoryId>
+      <name>Тагетес Оранжевый 50 см Арт. Cp0360</name>
+      <price>99</price>
+      <qty>120</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xnYxSuC4_jFmIjTv3BqZkHbod-TR96Nu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ElQ0uiV_cbci5USXX_IyK9zRbe3y_VQO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pX7NG_61zWgKceLY4wPVKqU-TDE8Mj0F</picture>
+      <picture>https://lh3.googleusercontent.com/d/135cZRtZx8c36950idbFDEtG7fU68-5yw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aOS4M3FRoqTERWSw7ZmGuvW7kJVHBhP3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp0360</param>
+      <consist name="Тагетес" unit="шт">5</consist>
+    </offer>
     <offer id="Cp01915" available="true">
       <categoryId>37</categoryId>
       <name>Танацетум Белый 50 см Арт. Cp01915</name>
-      <price>77</price>
-      <qty>1025</qty>
+      <price>85</price>
+      <qty>1250</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Iwr3MkFhm83lkUlLokw-NaOYzRLxqSSM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1jqdokBeB_qpZK4CkLQ6MQmW0sWp4nzvu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fG_KeHjz3xHS4x4XVZhjQacF6iSJdpoM</picture>
       <picture>https://lh3.googleusercontent.com/d/1f-DhCxkzPrDb_fWeBrVU0sF4-HDfZ7BP</picture>
       <picture>https://lh3.googleusercontent.com/d/1Iz10fgVI90KUqww4jxUAavkOatONS2Xa</picture>
       <picture>https://lh3.googleusercontent.com/d/1ggNnPPVHRA_DJqgOnMvVqC2NtOnY7ACX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Iwr3MkFhm83lkUlLokw-NaOYzRLxqSSM</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Голландия</param>
@@ -1018,17 +1359,34 @@
       <param name="Артикул">Cp01915</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
+    <offer id="Cp04794" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Династий 40 см Арт. Cp04794</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ky3I26KYNkgdlHtxoH2tzUvpE6j9R1Sn</picture>
+      <picture>https://lh3.googleusercontent.com/d/13kye1RINS8c491-y1jga9aDYZdMI-fg_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vOWvHX88aGTvFY-8iIQA1UOnwwRYutRV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1071pDEfIQfag3K7cEiiZJm-3_QKN8sPG</picture>
+      <picture>https://lh3.googleusercontent.com/d/16qUx9KI-sp6p10VjYZcgSyBErnhA5ts5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp04794</param>
+      <consist name="Тюльпан Династий" unit="шт">50</consist>
+    </offer>
     <offer id="Cp9624" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Дубль прайс 40 см Арт. Cp9624</name>
-      <price>80</price>
-      <qty>750</qty>
+      <price>88</price>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1VRUkEymY2fJb_wd2HYVJbra3Z60Ni9df</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YIdo7s8lRbQBR3zBNwKyK-4WRKEtpSdR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yM1LWJuOz6U1HksIqp9U9b2ORyJ1sbYU</picture>
       <picture>https://lh3.googleusercontent.com/d/1bavZLoR6XiW77rCG5d9OrjrADiv16DkU</picture>
       <picture>https://lh3.googleusercontent.com/d/1d0W7UM2WUYdXQ8rya-x5mP3VptgzdqaO</picture>
       <picture>https://lh3.googleusercontent.com/d/1Z1tnfYYZG7gj1TCQvSX9oabrLQ4Veh8u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VRUkEymY2fJb_wd2HYVJbra3Z60Ni9df</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">уточняется</param>
@@ -1038,14 +1396,14 @@
     <offer id="Cp04784" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Колумбус 40 см Арт. Cp04784</name>
-      <price>80</price>
-      <qty>600</qty>
+      <price>88</price>
+      <qty>200</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1_dv_KwexUzFguhWY2sE7nwBK341KjRyA</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rYyFqYDfAm-1auNxC2w5e6N6KWqt0SI1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_9XX2G4IOHEpNYBOeR4m3MQqWNJrKGzT</picture>
       <picture>https://lh3.googleusercontent.com/d/1LDf5_cMk7bcQG1UsrLqZ2kC0lZ90MBb1</picture>
       <picture>https://lh3.googleusercontent.com/d/1fhywUWKQwEdP6qRavT6Rc0K9vC2bbVOf</picture>
       <picture>https://lh3.googleusercontent.com/d/1sYzOehOnkTjpPk1cROuWDhOQyKe-6OAf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_dv_KwexUzFguhWY2sE7nwBK341KjRyA</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">уточняется</param>
@@ -1055,14 +1413,14 @@
     <offer id="Cp12514" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Колумбус 40 см Арт. Cp12514</name>
-      <price>80</price>
-      <qty>800</qty>
+      <price>88</price>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jHFZMtLhzEJ0ov3NS5ghfeqNb-zhWoFC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1j7qJyFpR-LzQ9VJOe_vivNFx5-SBcz6p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G-YXsp88MYYrhvaUttJg8QBXwfNA6bGq</picture>
       <picture>https://lh3.googleusercontent.com/d/1TLYpia69erPYm8sxt9GF89hsa7HC_q_E</picture>
       <picture>https://lh3.googleusercontent.com/d/1rk_QHO3GjbxYXpJp5DhWVMZGXk187Baw</picture>
       <picture>https://lh3.googleusercontent.com/d/1lT62jtT5JWg5qsWYSnFCNjHhz0LmFUSU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jHFZMtLhzEJ0ov3NS5ghfeqNb-zhWoFC</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">уточняется</param>
@@ -1072,14 +1430,14 @@
     <offer id="Cp00795" available="true">
       <categoryId>37</categoryId>
       <name>Фрезия Разноцветный 50 см Арт. Cp00795</name>
-      <price>70</price>
-      <qty>150</qty>
+      <price>83</price>
+      <qty>500</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1lCf4_clyWWzZa-fBw3yItbpabSePoIWY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VzCCNeg68DWwDkAx12y4TIoP6YDj8DQ9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1faBmDKpsKgO6VWnmdAwPqywvalcX1-s_</picture>
       <picture>https://lh3.googleusercontent.com/d/1SlkwaPQuMYfkTXlvy-zTAPxggFCWbs93</picture>
       <picture>https://lh3.googleusercontent.com/d/1Zntf4nxyfMdh6IHq61dfvu5RWP1tWPrc</picture>
       <picture>https://lh3.googleusercontent.com/d/1HTbl-wWfqd5n_Nay-QcTheeKfXiekRJD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lCf4_clyWWzZa-fBw3yItbpabSePoIWY</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -1090,14 +1448,14 @@
     <offer id="Cp04235" available="true">
       <categoryId>37</categoryId>
       <name>Фрезия Белый 50 см Арт. Cp04235</name>
-      <price>52</price>
-      <qty>150</qty>
+      <price>66</price>
+      <qty>550</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19E-uEdrOwTdbAbW5iPttZLUeCMFaQVkl</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RP94GA5F0Y-q1UawyNmp3smH4i2s7Njt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B1xmxvf95isOJRIjUHugImEMxNKFgDfm</picture>
       <picture>https://lh3.googleusercontent.com/d/14jn9_uYxaJxcIDHkQ5C--wMuDfJZf0su</picture>
       <picture>https://lh3.googleusercontent.com/d/1qrqHO1QGQz0KzZDMihdM86Gq5ll3wwrI</picture>
       <picture>https://lh3.googleusercontent.com/d/1DfqfGeOr0aOjr68mipAUmKfV7O8Alk-h</picture>
+      <picture>https://lh3.googleusercontent.com/d/19E-uEdrOwTdbAbW5iPttZLUeCMFaQVkl</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -1105,17 +1463,52 @@
       <param name="Артикул">Cp04235</param>
       <consist name="Фрезия" unit="шт">50</consist>
     </offer>
+    <offer id="Cp5736" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Веддинг Пинк 60 см Арт. Cp5736</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kMxkmWWCFOL5i6VmaymxaKWcB_2U1jmB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pGyCHtJGjSi2qVOmt8dLZUcxCosJoI8w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OOIFh3tELjoFrRiIUv-ASYvOrHbxjrB6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kw3l0a0cGSKb70CasEe7UJWfuF08l0tU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Cp5736</param>
+      <consist name="Эустома Веддинг Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Cp9476" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 60 см Арт. Cp9476</name>
+      <price>187</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11yQ5FnLVv3R_-2lT_63WFwReO7qPgEpi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HvjqwVsrV4mtlaNCmK67G8rt1t8hI3JZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WYEr1TFWxx7kjJ5verpOnfVH93WHLIkR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lWgr3sFBDljSSoDqecA_gFiTXjOQTaGY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pWEzQBng9nxcXpbdaJMcpECmDY5hk-ad</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Cp9476</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Cp02095" available="true">
       <categoryId>38</categoryId>
       <name>Астильба Красный 50 см Арт. Cp02095</name>
-      <price>60</price>
-      <qty>90</qty>
+      <price>72</price>
+      <qty>340</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1b6RWIcvTDAuxDtd1FVi5tKgz1m_1QqIf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1759wWljhvU2xtqKdtcP7kwpLxOLATlC4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v0QADmlM1ju8aHrboWUGUGu8rDM1T0hB</picture>
       <picture>https://lh3.googleusercontent.com/d/1-AVY0aAy7VfHzz73ndRIyyVIDpaDHxwl</picture>
       <picture>https://lh3.googleusercontent.com/d/1sg663ZIkvoNMaaU9zwnEwTSxsKC1Z0RU</picture>
       <picture>https://lh3.googleusercontent.com/d/1GlbuThTK_9A7gwM-mrKWQdHxqU5tVSV3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b6RWIcvTDAuxDtd1FVi5tKgz1m_1QqIf</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -1125,14 +1518,14 @@
     <offer id="Cp02105" available="true">
       <categoryId>38</categoryId>
       <name>Астильба Белый 50 см Арт. Cp02105</name>
-      <price>55</price>
-      <qty>340</qty>
+      <price>88</price>
+      <qty>390</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1IVqDOI9d5kIct6wZN2_IVjshMWo-NmaO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ddWZHix56zq99OFpJgwSMBXnvdUdCyM2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fMWtM8ejMeIXf6iXR1xgK4eO7PKHp9vI</picture>
       <picture>https://lh3.googleusercontent.com/d/117hsIMkDoVcAt7RNr3RZkAGhm5QBedlT</picture>
       <picture>https://lh3.googleusercontent.com/d/1vdoxhi4pxhrWU2xv9psDGC7-gbzBoI3m</picture>
       <picture>https://lh3.googleusercontent.com/d/1KZkCowovh5mPpCnfcThG40wb2rZXwkC5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IVqDOI9d5kIct6wZN2_IVjshMWo-NmaO</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -1142,65 +1535,65 @@
     <offer id="Cp00755" available="true">
       <categoryId>38</categoryId>
       <name>Бруния Серый 50 см Арт. Cp00755</name>
-      <price>90</price>
-      <qty>120</qty>
+      <price>99</price>
+      <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1HYeuP48ZXK2lnjLRfYet3nKImSck65cF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UcACVWax2jAtmdu7Tahiey5Br9IgZhdn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jIgRracIUMV2rN18p9YRYTJAx-icrVJP</picture>
       <picture>https://lh3.googleusercontent.com/d/13jhP88I452KWdBJmp8orDzDdnVC_TpUs</picture>
       <picture>https://lh3.googleusercontent.com/d/1pFbVgNDj-mV8Am72m7GNeVUV5yeKu-af</picture>
       <picture>https://lh3.googleusercontent.com/d/1_JRb13__fvhY30leGgKFNYc332jRIsvW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HYeuP48ZXK2lnjLRfYet3nKImSck65cF</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp00755</param>
       <consist name="Бруния" unit="шт">10</consist>
     </offer>
-    <offer id="Cp01675" available="true">
-      <categoryId>38</categoryId>
-      <name>Вибурнум Берри 50 см Арт. Cp01675</name>
-      <price>220</price>
-      <qty>30</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XMOcn9vqCnBWXIcfBr_NrmpGJI2FDGDI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LzBK1p11yAvUxJ_8fVmLV1QwA9LnxMy3</picture>
-      <picture>https://lh3.googleusercontent.com/d/14nyttCDlifb_WIX6oYNgc1OQdYhRvzQp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bx9x548xQBtRGic6Pja-uZt-jE-C5qh1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1eGofZksYjoYm1rV_33np8VrowyzVCG2I</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Cp01675</param>
-      <consist name="Вибурнум Берри" unit="шт">5</consist>
-    </offer>
     <offer id="Cp12666" available="true">
       <categoryId>38</categoryId>
       <name>Илекс Красный 60 см Арт. Cp12666</name>
-      <price>275</price>
-      <qty>60</qty>
+      <price>314</price>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1dBzj67fdEQ1MGVybQUswGjByXGX4xbt5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MCJv64V6J2afIu06YHB8sQacEVkC7wHw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ed295xst2SpWnsZv_WJpWnOemEPyhjxu</picture>
       <picture>https://lh3.googleusercontent.com/d/1PdNj8V_SHvBs5zS6y0cJBgULqUTUZP23</picture>
       <picture>https://lh3.googleusercontent.com/d/11AxN-usieEQrmwU743F-hpqj4PkBLipU</picture>
       <picture>https://lh3.googleusercontent.com/d/1oz_o3gkEQLmLV1KU969cZRY3PXPJlT2Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dBzj67fdEQ1MGVybQUswGjByXGX4xbt5</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp12666</param>
       <consist name="Илекс" unit="шт">10</consist>
     </offer>
+    <offer id="Cp0454" available="true">
+      <categoryId>38</categoryId>
+      <name>Паникум Зелёный 50 см Арт. Cp0454</name>
+      <price>42</price>
+      <qty>350</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17i1b7O4_GEfAwPZLsTspfdbThLCWJCXW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1edweN6G2NvJakK87H5hAuUYZGMp7eACU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MFL2-fFvQtzVGnNPjUAxdlJWlQfmsqFf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DC9dFZRM9Fgpe9PXkFtk7vCdTXS5n0ml</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pCtCsN9yp6gYdoOAyPai0-TdzXAKgjLh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp0454</param>
+      <consist name="Паникум" unit="шт">25</consist>
+    </offer>
     <offer id="Cp03587" available="true">
       <categoryId>38</categoryId>
       <name>Рускус Зеленый 70 см Арт. Cp03587</name>
-      <price>38</price>
-      <qty>1475</qty>
+      <price>42</price>
+      <qty>3000</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1JMo2scHkOVbCX4x8Lks1ycAK_J7p_-VT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Hw-xA6t5mJC_OW2UUKktoyJtn07_MfnO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r11RF03g-9lroyiC0keJiQ2k_Tp3hqjJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ny3c8bUyYTbvPgxkhsKuHUYYhn6523FP</picture>
       <picture>https://lh3.googleusercontent.com/d/1uVq8xrdrlBt-NR1TzRtAbrFjsWIdKAvQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1l3xWO5yife7T46u2N-HrECJ86ZFTulDk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JMo2scHkOVbCX4x8Lks1ycAK_J7p_-VT</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
@@ -1210,36 +1603,71 @@
     <offer id="Cp02055" available="true">
       <categoryId>38</categoryId>
       <name>Скиммия Зеленый 50 см Арт. Cp02055</name>
-      <price>450</price>
+      <price>413</price>
       <qty>22</qty>
       <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1MjniQ5-iLFeWQgN0dRVW9w1VlbtQz71-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UWEQfl2bMj4SacT9gTgXW0VnYbqq3rFw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T9rbnWQ2A_SpHk7_lB1CUQdcCIiwFO_F</picture>
       <picture>https://lh3.googleusercontent.com/d/1dbirapCznfQFipemRcLyj5rlma_a6GRJ</picture>
       <picture>https://lh3.googleusercontent.com/d/17F32hMmw_vwAjrjFEFTNYqnahOxtSjdI</picture>
       <picture>https://lh3.googleusercontent.com/d/1zjui_nQMHitLVY2MuDkENwmEhoQIWLLB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MjniQ5-iLFeWQgN0dRVW9w1VlbtQz71-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp02055</param>
       <consist name="Скиммия" unit="шт">1</consist>
     </offer>
+    <offer id="Cp585" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Красный 50 см Арт. Cp585</name>
+      <price>385</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1i-Xf3YPwh-qLfpaTML3bq-qCohC4Fla3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eeDAVZsbzICfX9Eke7IKgQVPHsifRTQ4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ePGSVEIJN6HDiRTFy-nN9pcR_Et6V2V8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vMvi9TIOZW3ru7EQesXwk9i7z41aL2oi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yI5Ck0BmH0n-prAqtB5aOADxhm_QjAou</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Cp585</param>
+      <consist name="Скиммия" unit="шт">1</consist>
+    </offer>
     <offer id="Cp01865" available="true">
       <categoryId>38</categoryId>
       <name>Фисташка Зеленый 50 см Арт. Cp01865</name>
-      <price>1300</price>
-      <qty>69</qty>
+      <price>1430</price>
+      <qty>550</qty>
       <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1chxpzwu_9LtW_Rn5wOCgC66ABgb91lya</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-TiNm0MOPpNSKbWQFhoHw07W8m1V1Y3G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NJcrO4kGbeh4VHtgmcFtDHW5J9CqciLA</picture>
       <picture>https://lh3.googleusercontent.com/d/1xVrvVHUonylXykZwG0b3ljBSHc6hkoIC</picture>
       <picture>https://lh3.googleusercontent.com/d/1PJR_Siq5x91gTl7xLU58VxHz_ccFgr9p</picture>
       <picture>https://lh3.googleusercontent.com/d/1H0JSGTo2HhWFHqezOl2D_wI7bUKgLvw_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1chxpzwu_9LtW_Rn5wOCgC66ABgb91lya</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Cp01865</param>
       <consist name="Фисташка" unit="шт">1</consist>
+    </offer>
+    <offer id="Cp02015" available="true">
+      <categoryId>38</categoryId>
+      <name>Хелеборус Зеленый 50 см Арт. Cp02015</name>
+      <price>143</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1j9QSv1NaIzzY72CcHq9rN56hvIZ15HJO</picture>
+      <picture>https://lh3.googleusercontent.com/d/193q0LpWAtNKAju8Y8YTQ7m9qRJiJkbb4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lssL-rE3UgRtvl0lhLj_Ni4kqVHuVI6X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OVE8n0VtVNtxIWf7EUDfmYv1qHi4syan</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mvz73C6efpAGjjGBlxAYMn-Bo-RzoSke</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Rodewijkhelleborus</param>
+      <param name="Артикул">Cp02015</param>
+      <consist name="Хелеборус" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
