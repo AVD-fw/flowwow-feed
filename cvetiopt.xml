@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T10:07:51.470+03:00">
+<yml_catalog date="2025-10-11T10:17:45.426+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -1283,10 +1283,11 @@
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1r-9bXOL_icJmTEyul2j2Nq4pGY8KO-gj</picture>
       <picture>https://lh3.googleusercontent.com/d/1zkgMJS_5j0Jba5OAy4CxklHS8ceNdxNY</picture>
-      <description>Маттиола Сиреневый 60 см Арт. Fa14036</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fa14036</param>
+      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="Fa14897" available="true">
       <categoryId>37</categoryId>
@@ -1420,9 +1421,9 @@
       <param name="Артикул">Fa04495</param>
       <consist name="Протея Артишоковая" unit="шт">1</consist>
     </offer>
-    <offer id="Fa0360" available="true">
+    <offer id="Fa03606" available="true">
       <categoryId>37</categoryId>
-      <name>Тагетес Оранжевый 50 см Арт. Fa0360</name>
+      <name>Тагетес Оранжевый 60 см Арт. Fa03606</name>
       <price>99</price>
       <qty>120</qty>
       <quantity_in_package>5</quantity_in_package>
@@ -1432,9 +1433,9 @@
       <picture>https://lh3.googleusercontent.com/d/135cZRtZx8c36950idbFDEtG7fU68-5yw</picture>
       <picture>https://lh3.googleusercontent.com/d/1aOS4M3FRoqTERWSw7ZmGuvW7kJVHBhP3</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
-      <param name="Артикул">Fa0360</param>
+      <param name="Артикул">Fa03606</param>
       <consist name="Тагетес" unit="шт">5</consist>
     </offer>
     <offer id="Fa01915" available="true">
