@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T10:18:46.126+03:00">
+<yml_catalog date="2025-10-11T10:49:01.793+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -86,6 +86,23 @@
       <param name="Артикул">S02327</param>
       <consist name="Хризантема одноголовая Магнум йеллоу" unit="шт">10</consist>
     </offer>
+    <offer id="S7377" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Момоко 70 см Арт. S7377</name>
+      <price>132</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MXdq4u3IU1KDRdupqDm69Fxul84i-ioO</picture>
+      <picture>https://lh3.googleusercontent.com/d/14LK2MJza0cWvD23Y-hU4161x0F7XCdn3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mSOqWOxrwVjCBQ3iADux7FMaS4vWzBg7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1smDeoteqxsNYLzEWUda1gZv7a1UToGSc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bY74L98EExgSI6R5ZvwtzIZNTXDDRJJh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7377</param>
+      <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
+    </offer>
     <offer id="S02317" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. S02317</name>
@@ -121,6 +138,23 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">S01527</param>
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
+    </offer>
+    <offer id="S7347" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Фуего 72 см Арт. S7347</name>
+      <price>219</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cYr0Ogw6Q65PrRmEOgy2I9AA1TkSXqO8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1leZa8AazkeQCAz80-dkkTUTv_rF4glOD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OA6zl8oazOfHRFMukwNqXKBJkx03I9pK</picture>
+      <picture>https://lh3.googleusercontent.com/d/11Oxd7zxOln7ek-KuWv689jq3YYDOwc2O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ubOnmCZwDVaiYYnoKHXne5EbR_2Wj8wG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">72</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7347</param>
+      <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
     </offer>
     <offer id="S11437" available="true">
       <categoryId>6</categoryId>
@@ -187,6 +221,21 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">S9335</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
+    </offer>
+    <offer id="S6677" available="true">
+      <categoryId>37</categoryId>
+      <name>Альстромерия Вирджиния 75 см Арт. S6677</name>
+      <price>129</price>
+      <qty>80</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AoyDzbLYwZkuqUDgs53sF42cYTmoXs7d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1anFQ2UQtLdd8jtou-ij4CdRPXIrOgL4R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h5tq7PIzxpyN2ZKGUR6bLJz76kHVt5RJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">75</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S6677</param>
+      <consist name="Альстромерия Вирджиния" unit="шт">10</consist>
     </offer>
     <offer id="S00907" available="true">
       <categoryId>37</categoryId>
@@ -258,7 +307,7 @@
       <categoryId>37</categoryId>
       <name>Астранция Роме 60 см Арт. S02266</name>
       <price>115</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OOxVnJSaW9IHKN_MYKMFb1sdAX9kXY2Z</picture>
       <picture>https://lh3.googleusercontent.com/d/1brP88BUZCKjtIfvg7BVD2CH4aq6kOznt</picture>
@@ -270,6 +319,36 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S02266</param>
       <consist name="Астранция Роме" unit="шт">10</consist>
+    </offer>
+    <offer id="S02366" available="true">
+      <categoryId>37</categoryId>
+      <name>Брассика Крани Кинг 60 см Арт. S02366</name>
+      <price>139</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uvUcK4rCMa6Ge47I1cUXYBRUMOYzEFVK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YG80FykD7cH7rmFBfcpEW1PA8Z9SUia2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wfKsXIpWwbaQn96riPxLrW9ocubM0AHQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S02366</param>
+      <consist name="Брассика Крани Кинг" unit="шт">5</consist>
+    </offer>
+    <offer id="S12804" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Moonpearl 40 см Арт. S12804</name>
+      <price>62</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MSx862DJ4Kl88iTzQrnhfRToUTDXR190</picture>
+      <picture>https://lh3.googleusercontent.com/d/1spAABDmFhrVBWB6yM2petDlDaPZWHoVp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Fl Rigene Suntory</param>
+      <param name="Артикул">S12804</param>
+      <consist name="Гвоздика кустовая Moonpearl" unit="шт">10</consist>
     </offer>
     <offer id="S11027" available="true">
       <categoryId>37</categoryId>
@@ -373,6 +452,35 @@
       <param name="Артикул">S01628</param>
       <consist name="Гидрангия Верена Блу" unit="шт">5</consist>
     </offer>
+    <offer id="S9608" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Мак Верена Блау Гроуен 80 см Арт. S9608</name>
+      <price>529</price>
+      <qty>25</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q8TKCdXvvaAgyttOxEAZctVR7NIfCzWh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sIP-P0njbVAqzKQ4T-AWgnj0y-UFx8_8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9608</param>
+      <consist name="Гидрангия Мак Верена Блау Гроуен" unit="шт">5</consist>
+    </offer>
+    <offer id="S12879" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Mac Verena 90 см Арт. S12879</name>
+      <price>599</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UeOtVS6XdWH2KvwaPLPeiH9btCUVi_Hy</picture>
+      <picture>https://lh3.googleusercontent.com/d/16721_hEcGYNZBPhrQ08A_VnLQjaEEYEl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NqBzoXWJYCGQ2r2s5HrOBsrVNW5A4kOm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S12879</param>
+      <consist name="Гидрангия Mac Verena" unit="шт">5</consist>
+    </offer>
     <offer id="S03599" available="true">
       <categoryId>37</categoryId>
       <name>Глориоза Экзот Оранж 90 см Арт. S03599</name>
@@ -390,10 +498,27 @@
       <param name="Артикул">S03599</param>
       <consist name="Глориоза Экзот Оранж" unit="шт">5</consist>
     </offer>
+    <offer id="S6277" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Красный 70 см Арт. S6277</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mFFQJ9lIoLCT49vCBYOyBOf5vbgs9Vuq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NXFWnlT2rOv7pvxZ0G4lvgGnmoPzqT9B</picture>
+      <picture>https://lh3.googleusercontent.com/d/15TaPs9hAF-nujL82EXleBRMqOzq2KZTW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gvMXKJ-PT33AR4pvwesQPX49DPvd_ttl</picture>
+      <picture>https://lh3.googleusercontent.com/d/14MJey9WCBsA_SqeHLhThSaszoz9RSaSx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">S6277</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
     <offer id="S7316" available="true">
       <categoryId>37</categoryId>
       <name>Калла Голд Медал 60 см Арт. S7316</name>
-      <price>119</price>
+      <price>140</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1t-fMzVidTLjN--TOU6Dfwp9Zl5_xJ7DJ</picture>
@@ -442,6 +567,23 @@
       <param name="Производитель">De Waal Fensie B.V.</param>
       <param name="Артикул">S01047</param>
       <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="S01057" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Чемпион Блу 70 см Арт. S01057</name>
+      <price>139</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1T1XG54PlOtWJgNOyP0YXNUa8YI6LUYkX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w_6gjvVLsdQBncfO3wNcNuXtfClde86H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WrcKQo6tuEGmBnkxtcXDOKrnvNVg912V</picture>
+      <picture>https://lh3.googleusercontent.com/d/18ddOOpsWlfe9SIx5G667UPNM40Y2qRe4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R3m_1u25fvvtganRSLeNdK_Sf2wy_N0j</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01057</param>
+      <consist name="Кампанула Чемпион Блу" unit="шт">10</consist>
     </offer>
     <offer id="S11318" available="true">
       <categoryId>37</categoryId>
@@ -509,6 +651,38 @@
       <param name="Артикул">S11579</param>
       <consist name="Роза Смеральда" unit="шт">10</consist>
     </offer>
+    <offer id="S3356" available="true">
+      <categoryId>37</categoryId>
+      <name>Серрурия Блашинг Брайд 60 см Арт. S3356</name>
+      <price>139</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Jz8Fu3tdUryz_oin-I1TPYlhqSiZCJYQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CcNs0WeTpkJ1_8y6WaiHlsHvJ9zuhgo8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b4HVFSbGxyYaP4p1tAzES9QBagThv6HB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EiuJHNs9CaGpJlsmd8f3cXPb2pfoluZu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W8SeiGZ9T2lD6UA90K9VA3jLlsRfnQ5S</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S3356</param>
+      <consist name="Серрурия Блашинг Брайд" unit="шт">10</consist>
+    </offer>
+    <offer id="S12848" available="true">
+      <categoryId>37</categoryId>
+      <name>Сетария ITAL VOLLE MELK 80 см Арт. S12848</name>
+      <price>59</price>
+      <qty>170</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1WPwnCRRtaOzr9TGMquOdcr-EQSs0GprW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BMtTECsadGs8WGwoks2Gwwif38wyp1CX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CS9lTsWs5Clk7-Kk7TzzDrgaR1RKmaXG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S12848</param>
+      <consist name="Сетария ITAL VOLLE MELK" unit="шт">10</consist>
+    </offer>
     <offer id="S5704" available="true">
       <categoryId>37</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. S5704</name>
@@ -571,6 +745,21 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">S12104</param>
       <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="S12786" available="true">
+      <categoryId>37</categoryId>
+      <name>Флокс Р SKY EYES 60 см Арт. S12786</name>
+      <price>100</price>
+      <qty>300</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YJzPrc5XSbnLr6Ceza1mF43YXdj5DNMF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gzj5VWu1O-eWTYwZFgS7jo0xsZYt4WQW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xsn7MfIjNvqPThPNCeeXCCUQgHeRrmam</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S12786</param>
+      <consist name="Флокс Р SKY EYES" unit="шт">10</consist>
     </offer>
     <offer id="S03377" available="true">
       <categoryId>37</categoryId>
@@ -693,6 +882,23 @@
       <param name="Артикул">S8257</param>
       <consist name="Эустома Корелли Корал" unit="шт">10</consist>
     </offer>
+    <offer id="S3714" available="true">
+      <categoryId>38</categoryId>
+      <name>Бруния Левис 40 см Арт. S3714</name>
+      <price>108</price>
+      <qty>90</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/196eRSP0I8RTJmO1CiG59lPatSkbQKrM2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cLjLKERaRwt4T3KtJ2fK_X_2xp20R8I0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TIM3iZUksyVYiyfo5M46j-EhnnF6JwQy</picture>
+      <picture>https://lh3.googleusercontent.com/d/18vZ5UZUBn8-fS6FKNVThyfoCa6fxeRKa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jrxV4bqZrl-RcMkA0QvmD5P7ZNACsur3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S3714</param>
+      <consist name="Бруния Левис" unit="шт">10</consist>
+    </offer>
     <offer id="S02257" available="true">
       <categoryId>38</categoryId>
       <name>Вербена Розовый 70 см Арт. S02257</name>
@@ -709,6 +915,38 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S02257</param>
       <consist name="Вербена" unit="шт">10</consist>
+    </offer>
+    <offer id="S01235" available="true">
+      <categoryId>38</categoryId>
+      <name>Гиперикум Коко Казино 50 см Арт. S01235</name>
+      <price>149</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jRAnCrMzyWoeBFKBnuhEwoS8yOPSfKgu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j_uTW34v_9bSWV3Li1l6gc26cHw9x-hS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vHCB6OOUsEz5LNX2yi6RpjXgh7zLX8A-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SoWFWtWmM9jXuaVfhYgjE7dh15g1RMf0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T0PiMOpiCItb5avsHeWvIN1GZX4iMMcl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius flowers</param>
+      <param name="Артикул">S01235</param>
+      <consist name="Гиперикум Коко Казино" unit="шт">10</consist>
+    </offer>
+    <offer id="S14005" available="true">
+      <categoryId>38</categoryId>
+      <name>Гиперикум Коко Танго 50 см Арт. S14005</name>
+      <price>165</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13PW3-ZLC5RcJfSLEXR6ut8IVOLxvjuVK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius flowers</param>
+      <param name="Артикул">S14005</param>
+      <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
     </offer>
     <offer id="S01328" available="true">
       <categoryId>38</categoryId>
@@ -743,6 +981,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S01588</param>
       <consist name="Крокосмия Бест фаир кинг" unit="шт">10</consist>
+    </offer>
+    <offer id="S01127" available="true">
+      <categoryId>38</categoryId>
+      <name>Крокосмия Люцифер 70 см Арт. S01127</name>
+      <price>110</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oq_AXKwYi4MwwStqL43amJ96ufUWh-DZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nbG1_rymDD3Rzq0v1rqAi1ogTxo9rW_d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uUlTLQAvjv26vnjTT24Wh-PSRcFsns6U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jDJMJomn2F4S2dJjqsDmUupdpAi-3Yxb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Hhhb7ZvgtfmPXBq-J49JvhZH-MdrgD9f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S01127</param>
+      <consist name="Крокосмия Люцифер" unit="шт">10</consist>
     </offer>
     <offer id="S7608" available="true">
       <categoryId>38</categoryId>
@@ -799,7 +1054,7 @@
     </offer>
     <offer id="S03479" available="true">
       <categoryId>38</categoryId>
-      <name>Пироканта Оранжевый 99 см Арт. S03479</name>
+      <name>Пироканта Оранжевый 90 см Арт. S03479</name>
       <price>1079</price>
       <qty>3</qty>
       <quantity_in_package>1</quantity_in_package>
@@ -809,7 +1064,7 @@
       <picture>https://lh3.googleusercontent.com/d/1rVlho2-NmH77LmwArJ-q1GBaVGUqmiMA</picture>
       <picture>https://lh3.googleusercontent.com/d/1Lb_jxTGYs4eJ4NvrTKSRduVv8QDWkWja</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">99</param>
+      <param name="Высота, см">90</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">S03479</param>
@@ -831,6 +1086,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S01206</param>
       <consist name="Седум Спектибайл" unit="шт">5</consist>
+    </offer>
+    <offer id="S9297" available="true">
+      <categoryId>38</categoryId>
+      <name>Симфорикарпус Меджикал Чарминг Фентези 70 см Арт. S9297</name>
+      <price>1362</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1B8FcvcppABXE3ZKuMsVIfmZ2OAZD0Loj</picture>
+      <picture>https://lh3.googleusercontent.com/d/11aHbF440-8Bvl13j1zsJa3gd_cb3oR4n</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q_q-DElGGbjgjlx03C9QiFGDUYfa4y6o</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i3qL0Jk8A582ASRJ_7sJ4t7QKWyU8zE_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S9297</param>
+      <consist name="Симфорикарпус Меджикал Чарминг Фентези" unit="шт">10</consist>
     </offer>
     <offer id="S5094" available="true">
       <categoryId>38</categoryId>
