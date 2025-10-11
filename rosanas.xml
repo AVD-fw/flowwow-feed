@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T13:08:43.734+03:00">
+<yml_catalog date="2025-10-11T13:18:28.182+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -82,6 +82,22 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">Ra12297</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
+    <offer id="Ra13145" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кон Аморе 50 см Арт. Ra13145</name>
+      <price>61</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SXNQ_UwKYuhCorBaU1xrFVTBIgcBtTig</picture>
+      <picture>https://lh3.googleusercontent.com/d/1q7vSWrAInqLmMlkWLDyX9ZDJ932uPTcJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w4b1haaXwi1wK_s1FbVZGLkfcW04nEtD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Ra13145</param>
+      <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
     </offer>
     <offer id="Ra9437" available="true">
       <categoryId>1</categoryId>
@@ -218,24 +234,6 @@
       <param name="Артикул">Ra10107</param>
       <consist name="Роза одноголовая Шангри Ла" unit="шт">15</consist>
     </offer>
-    <offer id="Ra8215" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Беларусь 50 см Арт. Ra8215</name>
-      <price>253</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EmhuSUX1C1QeRoKlYxEUat2JiTRKz-l1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vyC0SJnBndGEut-rYVF8_6ab46c4MT0R</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VPwQdQuDB81h5LdMbbTq0J3PJ-gkVqM7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kcX0Ai8w16VlGYoY1UADbAvAcEWS_gfx</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ss0RkeVHXqKQYHyXgDw-Cj5AZEro8eJH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Ra8215</param>
-      <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
-    </offer>
     <offer id="Ra13264" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Беларусь 40 см Арт. Ra13264</name>
@@ -255,7 +253,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Лавли Лидия 40 см Арт. Ra11724</name>
       <price>143</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dexC3A27SqRbdzaYJo6lRK73jJZq6x9d</picture>
       <picture>https://lh3.googleusercontent.com/d/1sF_4JNHW4-Bf7iaBnAG07XontueHqFes</picture>
@@ -324,7 +322,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Яна 40 см Арт. Ra13284</name>
       <price>143</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1M_DpNT21zVlneZ1YB70AF-NAsfWT5HHm</picture>
       <picture>https://lh3.googleusercontent.com/d/1MJjfcNtyyS6cSoK3lGLWw7l-xKcKaW-h</picture>
