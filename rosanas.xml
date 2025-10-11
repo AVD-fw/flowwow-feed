@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-11T07:38:09.597+03:00">
+<yml_catalog date="2025-10-11T07:48:17.060+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,23 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="S00907" available="true">
+      <categoryId>37</categoryId>
+      <name>Альстромерия Роме 70 см Арт. S00907</name>
+      <price>149</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Jnjmw8FROk3171ds9fUzmBxyYWJfbHSC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gmN3LfrRZavkDKUuOHDI9W3UnNzI9-kz</picture>
+      <picture>https://lh3.googleusercontent.com/d/17uplj1P5gbSzsJbMWvs2ujLsGwoj5c01</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ts97CJ_CUzD6Y0AFA5ZvziM9Nby8Ebye</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mrOswCYa3dxFmr4Go7chQ2xdIg2BQS4F</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S00907</param>
+      <consist name="Альстромерия Роме" unit="шт">10</consist>
+    </offer>
     <offer id="S9801" available="true">
       <categoryId>37</categoryId>
       <name>Гидрангия Верена 100 см Арт. S9801</name>
@@ -51,6 +68,22 @@
       <param name="Артикул">S01628</param>
       <consist name="Гидрангия Верена Блу" unit="шт">5</consist>
     </offer>
+    <offer id="S11579" available="true">
+      <categoryId>37</categoryId>
+      <name>Роза Смеральда 90 см Арт. S11579</name>
+      <price>169</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Fn071PHpkdXhICdpvqqIPlFWJAw0Jbr0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XQTQifPxpD-KalW1xD80h2u92KWF7lFN</picture>
+      <picture>https://lh3.googleusercontent.com/d/11CXlc1PGDptFI6S68hKd_O9wAVrcV2eP</picture>
+      <picture>https://lh3.googleusercontent.com/d/18e_zw7v1Z97n24iIXc0VS2CQGVu4TisJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S11579</param>
+      <consist name="Роза Смеральда" unit="шт">10</consist>
+    </offer>
     <offer id="S5704" available="true">
       <categoryId>37</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. S5704</name>
@@ -84,6 +117,41 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">S03377</param>
       <consist name="Целозия" unit="шт">5</consist>
+    </offer>
+    <offer id="S7608" available="true">
+      <categoryId>38</categoryId>
+      <name>Куэркас Рубра 80 см Арт. S7608</name>
+      <price>987</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19FCYV5sOqKn3CaDchQ7KNNdapX8CpFJd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jJeE2FPokP40HLlJDKSWb6HIeE7U6-Sm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WMzgLb5sQv6vc7G0fd5cv7BU_wCU7_Ey</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q_rc8F_bkcSuQWv-5B8WUNF1ld32KoAL</picture>
+      <picture>https://lh3.googleusercontent.com/d/14nGd4Yz81dIR8qIEtHePFpCQ1mGLHhS6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">S7608</param>
+      <consist name="Куэркас Рубра" unit="шт">20</consist>
+    </offer>
+    <offer id="S7983" available="true">
+      <categoryId>38</categoryId>
+      <name>Облепиха 30 см Арт. S7983</name>
+      <price>1079</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pXUh9T_Egv8f4suOIjtVk3g8sEkVkIBW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_tTvP_OoVZr1Kdup7YWw0WL61UsA96gh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H6u_fjc-LPRlxEXtYBbuRg6W_lRRRO76</picture>
+      <picture>https://lh3.googleusercontent.com/d/163TkRw9jTeezdA9J5xVgeOUrmySuJ_Xm</picture>
+      <picture>https://lh3.googleusercontent.com/d/12_id5ffZHfhOYjJ2fWu34VehfXs1fvZv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">30</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">S7983</param>
+      <consist name="Облепиха" unit="шт">1</consist>
     </offer>
     <offer id="S6348" available="true">
       <categoryId>38</categoryId>
