@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-13T07:58:21.797+03:00">
+<yml_catalog date="2025-10-13T08:28:26.874+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -34,6 +34,23 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Rb7367</param>
       <consist name="Хризантема одноголовая Бальтазар" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb9178" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бигуди Перпл 80 см Арт. Rb9178</name>
+      <price>171</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VvkEMOr4ncKm45Ccu9648MfToqkY_XWU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QpZaA5IgBXylRXi9Z3e63EcisCo7fhP3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yIs8FI8zVDDU-oxDnDjpkrlPhBCbnN-z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hi3pAHAspVVKXKasMSkXj6OdPP4ltwNG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Oopa0QEypi20fncwG-aWbOU12fZ-dcT-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb9178</param>
+      <consist name="Хризантема одноголовая Бигуди Перпл" unit="шт">10</consist>
     </offer>
     <offer id="Rb9027" available="true">
       <categoryId>5</categoryId>
@@ -93,11 +110,11 @@
       <price>132</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1I638Tf5Fz8e_BHm0HNfucyCyN1LRI0M-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mSOqWOxrwVjCBQ3iADux7FMaS4vWzBg7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jNibdTuf1WoZbedulAXzPjPHCjny9guV</picture>
       <picture>https://lh3.googleusercontent.com/d/1smDeoteqxsNYLzEWUda1gZv7a1UToGSc</picture>
       <picture>https://lh3.googleusercontent.com/d/1bY74L98EExgSI6R5ZvwtzIZNTXDDRJJh</picture>
       <picture>https://lh3.googleusercontent.com/d/1MXdq4u3IU1KDRdupqDm69Fxul84i-ioO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I638Tf5Fz8e_BHm0HNfucyCyN1LRI0M-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
@@ -174,6 +191,22 @@
       <param name="Артикул">Rb11437</param>
       <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
     </offer>
+    <offer id="Rb8895" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Джинда Рэд 55 см Арт. Rb8895</name>
+      <price>109</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Rd46mmqNgitFOWyfvB5qZRk6nZ5vkh-M</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RVdhzTGcFWIADzPK7ba-8F3lZkLkvjA0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JbMsEf8DVNf8am9tzwRKIX71a5tYVDyj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb8895</param>
+      <consist name="Хризантема Сантини Джинда Рэд" unit="шт">25</consist>
+    </offer>
     <offer id="Rb12625" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 55 см Арт. Rb12625</name>
@@ -225,6 +258,21 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Rb9335</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb11465" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сан Ауринко 55 см Арт. Rb11465</name>
+      <price>109</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1WSl-IVoUKK_vxErr7ZSCnETceS0yEIW7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l1i5WwLQqn-PyoVtNJ-RjTDPUur6TOwi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb11465</param>
+      <consist name="Хризантема Сантини Сан Ауринко" unit="шт">25</consist>
     </offer>
     <offer id="Rb6677" available="true">
       <categoryId>37</categoryId>
@@ -429,7 +477,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. Rb01047</name>
       <price>119</price>
-      <qty>10</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ew8x1QZBHsdnCY9LT4ocZrRJ8t7ntLcv</picture>
       <picture>https://lh3.googleusercontent.com/d/1l2y4qtmUil7Zyp2EPTwkkGGborwMd1J2</picture>
@@ -477,11 +525,45 @@
       <param name="Артикул">Rb9636</param>
       <consist name="Клематис Эмэйзинг Роум" unit="шт">10</consist>
     </offer>
+    <offer id="Rb01469" available="true">
+      <categoryId>37</categoryId>
+      <name>Лилия От Замбези 95 см Арт. Rb01469</name>
+      <price>337</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ufCVUsK2Eyb8gF5jRxTVQX_qQaRAwlTJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aZCFH2kpSwnbCfpkXj6lCojBMCiivKHD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ck0vzZ-gUUJmKqFqSTAeH3yihHGlv9Ww</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OL4r6d0XTdUUPTMi19nuTGSVIyCuiZuW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uOlpz_mlf3RkXPtq7YLrH895hJFDBatH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">95</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lilies by redefleur</param>
+      <param name="Артикул">Rb01469</param>
+      <consist name="Лилия От Замбези" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb03619" available="true">
+      <categoryId>37</categoryId>
+      <name>Лилия Охт Табледенс 90 см Арт. Rb03619</name>
+      <price>345</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sIS_fY2BPdAxQWlq3oREE0Oi4uxBAHG9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D8cqXazLLqLIaFntqdlr81902jHX7la6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T5ERzsvQXPTewI6xW5cdK298LmZvqpiM</picture>
+      <picture>https://lh3.googleusercontent.com/d/190L4s-EXShjhHTayrJLPBcUDWqAI-qLc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb03619</param>
+      <consist name="Лилия Охт Табледенс" unit="шт">10</consist>
+    </offer>
     <offer id="Rb3728" available="true">
       <categoryId>37</categoryId>
       <name>Нутан Хайдж Голд 80 см Арт. Rb3728</name>
       <price>199</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1toXfC6ahlPjZ65sJiU4SCgMLjlo1xwZG</picture>
       <picture>https://lh3.googleusercontent.com/d/1RSYk63HgXW8Q_AGeJVx1tOHhE-6FP9m6</picture>
@@ -498,7 +580,7 @@
       <categoryId>37</categoryId>
       <name>Озотамнус Сноу Вайт 60 см Арт. Rb5186</name>
       <price>139</price>
-      <qty>10</qty>
+      <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1K23q-sHL-mZ-rq91AxLU0eCk0FXifUP2</picture>
       <picture>https://lh3.googleusercontent.com/d/1by-spiXdOC6c-cl-Jx8EBGDYeJwD6BIh</picture>
@@ -698,6 +780,22 @@
       <param name="Артикул">Rb02257</param>
       <consist name="Вербена" unit="шт">10</consist>
     </offer>
+    <offer id="Rb02785" available="true">
+      <categoryId>38</categoryId>
+      <name>Краспедия Голубой 50 см Арт. Rb02785</name>
+      <price>569</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wjVYJj9eFrKYY13z_UcwsrNbCD1EVCVQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hoHylixZd3JJRJySiP5GDDdAzALXeyl_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fJ3kpTRbxE-gLBpvN_29JkgGwaXuiolJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/173vUlaZtu7qhHWBicyXyeYA7rH05oCzI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02785</param>
+      <consist name="Краспедия" unit="шт">20</consist>
+    </offer>
     <offer id="Rb01588" available="true">
       <categoryId>38</categoryId>
       <name>Крокосмия Бест фаир кинг 85 см Арт. Rb01588</name>
@@ -714,6 +812,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01588</param>
       <consist name="Крокосмия Бест фаир кинг" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb7983" available="true">
+      <categoryId>38</categoryId>
+      <name>Облепиха 30 см Арт. Rb7983</name>
+      <price>1079</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GQ-W5GMe4Xaae-iEdBBG9yhIClYXKWFn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H6u_fjc-LPRlxEXtYBbuRg6W_lRRRO76</picture>
+      <picture>https://lh3.googleusercontent.com/d/163TkRw9jTeezdA9J5xVgeOUrmySuJ_Xm</picture>
+      <picture>https://lh3.googleusercontent.com/d/12_id5ffZHfhOYjJ2fWu34VehfXs1fvZv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pXUh9T_Egv8f4suOIjtVk3g8sEkVkIBW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">30</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Rb7983</param>
+      <consist name="Облепиха" unit="шт">1</consist>
     </offer>
     <offer id="Rb03646" available="true">
       <categoryId>38</categoryId>
@@ -800,6 +916,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb6348</param>
       <consist name="Тласпи Грин Белл" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb02775" available="true">
+      <categoryId>39</categoryId>
+      <name>Лагурус Голубой 50 см Арт. Rb02775</name>
+      <price>238</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Kt-s7vTnPB1JkTpNwopdeOuHk_9-Xy51</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kuLC10a1qzPUkBhZe7wy1HOlFKRvThtC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zqGN2LfFppEuLihF0d9XCzuPXUHNQPy0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RoldDjX5QsWix70ut01Et8zKQkVjMrJR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GvhKFeLv9oKDhO9sw1PRjuBKYvvQ4gF1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02775</param>
+      <consist name="Лагурус" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
