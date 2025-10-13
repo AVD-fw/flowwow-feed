@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-13T09:48:19.714+03:00">
+<yml_catalog date="2025-10-13T09:58:38.956+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -51,6 +51,24 @@
       <param name="Артикул">Rb13036</param>
       <consist name="Роза одноголовая Аква" unit="шт">20</consist>
     </offer>
+    <offer id="Rb12297" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 70 см Арт. Rb12297</name>
+      <price>123</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16RHdamSUyhwmx0WticZuKYP3_BZISdxM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bQT7pHSjnxuUkLIkwYkXmnWMUNPx22HM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GppBZfDWfE_ZqjvGux1Sqwnhv_JubuEt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ykAWyluHdZkBxnXmkrOM_aJdwuR6FBzK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mQPEOfk2hxhrek3iennMSCekOReF0SHf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Rb12297</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
     <offer id="Rb12987" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 70 см Арт. Rb12987</name>
@@ -65,6 +83,22 @@
       <param name="Производитель">Мир цветов</param>
       <param name="Артикул">Rb12987</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
+    <offer id="Rb13095" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Испания 50 см Арт. Rb13095</name>
+      <price>61</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HE_IF6123bYaXPxEfYfuyzaK3E5OsuWv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p8g8wK8552J4iuQnwLpxO2EHVenvrJj0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IwOUXCzLLvNFfWvB2y0uGKwZYcWhthTY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13095</param>
+      <consist name="Роза одноголовая Испания" unit="шт">10</consist>
     </offer>
     <offer id="Rb00484" available="true">
       <categoryId>1</categoryId>
@@ -152,6 +186,60 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb10096</param>
       <consist name="Роза одноголовая Свит Аваланж" unit="шт">15</consist>
+    </offer>
+    <offer id="Rb11724" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лавли Лидия 40 см Арт. Rb11724</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sM1nOaFA0NwaklFxfxry_Kndx_JCFSqV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sF_4JNHW4-Bf7iaBnAG07XontueHqFes</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y4MRRIcyls9ZqxJQmI0oRDbVeNX-27Af</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CBs6JaDBwx52syai5M7LiOjyfRStRNle</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dexC3A27SqRbdzaYJo6lRK73jJZq6x9d</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb11724</param>
+      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb4905" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Микс Розовые 50 см Арт. Rb4905</name>
+      <price>274</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1O-ihrlgS1QcUQ6X9A2mz5VxSc-gzTbZT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DqpnyOQYDqEfioJD85YXZUKAE06-a8dG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TXb_c05-oWyPUG5Cpr5EJ5qXdoIgjat8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ajk9rMUARYZoXFjE5p4XQmUyC3t67jgH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zUue-Bp_MWZ0nxT3noDBn5z5CpxqPiiI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb4905</param>
+      <consist name="Роза кустовая Микс Розовые" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb13284" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Яна 40 см Арт. Rb13284</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1R2zGdJAsMMe3Jdc84FZ_TWIPVpyPq5uk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MJjfcNtyyS6cSoK3lGLWw7l-xKcKaW-h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1erIsaPqZBsRfVg-l9T4N3EwHUI3y9fOQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YN02nCrwyR_lpKGsCoAoBCyKFAEz_9I6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M_DpNT21zVlneZ1YB70AF-NAsfWT5HHm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13284</param>
+      <consist name="Роза кустовая Яна" unit="шт">10</consist>
     </offer>
     <offer id="Rb6556" available="true">
       <categoryId>4</categoryId>
