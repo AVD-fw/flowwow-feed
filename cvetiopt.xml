@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-13T07:47:28.554+03:00">
+<yml_catalog date="2025-10-13T07:57:35.378+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -67,6 +67,23 @@
       <param name="Артикул">Fa14877</param>
       <consist name="Хризантема кустовая Лионкинг" unit="шт">5</consist>
     </offer>
+    <offer id="Fa01045" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Белый 55 см Арт. Fa01045</name>
+      <price>73</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16eQD2GsPy3hStyyiX2Jjb6sIeR2AaEFH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VLSPOvPzTYiGtsLTjfShV1Vi3EH5ZNTH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1q-dPaBxdZ7FrZ0-iI_Jqb7vfqEXOVUtB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E5LsXA8ekyg0ZACDF314WtnqAumwm1U9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xGtA0eSY6rtZR8LhY3glJGn33niYiaIE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa01045</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
     <offer id="Fa03445" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Ауринко 55 см Арт. Fa03445</name>
@@ -118,6 +135,24 @@
       <param name="Артикул">Fa8065</param>
       <consist name="Хризантема Сантини Миллер Априкот" unit="шт">25</consist>
     </offer>
+    <offer id="Fa11075" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 55 см Арт. Fa11075</name>
+      <price>77</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ocOkloHbFkqjjYSK-lUe6fnq1dHnp1xE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HdNbC6FeiX6ihR1NAoEEw2T7sMzxP-Xn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Vs6Ul6EAX5YXu53l7bf8VMXTxIVpqqbe</picture>
+      <picture>https://lh3.googleusercontent.com/d/12mCutQOmRCRKxfvZG3j8Ok5WtV4Zw5By</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Sq4GFEplSgBvrv147Kxrgugja-dhz5pf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vanno Va</param>
+      <param name="Артикул">Fa11075</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
     <offer id="Fa12085" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 55 см Арт. Fa12085</name>
@@ -133,6 +168,41 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Fa12085</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa04216" available="true">
+      <categoryId>37</categoryId>
+      <name>Агапантус Белый 60 см Арт. Fa04216</name>
+      <price>176</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_wFmsy2iP0YhJfe-vobmTxg8uHRn7y_x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GV8qChXxNEPiPGpzAkcFn6XNHQITsLDQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EVNKknqjkOpPbHOy-1TXfBtPLJ0LyE9Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/12fdBh58H24dlkwBYKDVn3EQZ5wRsZIdK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FDNaioHq_esvplyTyNxCENChBzQBeo0y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Нидерланды</param>
+      <param name="Производитель">Eyfori</param>
+      <param name="Артикул">Fa04216</param>
+      <consist name="Агапантус Белый" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa04475" available="true">
+      <categoryId>37</categoryId>
+      <name>Ананас Мини Бордовый 50 см Арт. Fa04475</name>
+      <price>253</price>
+      <qty>8</qty>
+      <quantity_in_package>8</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1k3ZqQ-Fnsd3_dw2TezAv_LE8x0EpKcv6</picture>
+      <picture>https://lh3.googleusercontent.com/d/198mbR3oPt8-0h4raEKI83xAybhKkyc0o</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I627cjhqOl2-YxwI5Zc2z4E0tM8j7vEQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J-VxESp77NUGkzL1NXA-CL6aLkqdh2Yt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ka2FLCsjXpYyU7ec40QjCAUGaM4c7haA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 8 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa04475</param>
+      <consist name="Ананас Мини" unit="шт">8</consist>
     </offer>
     <offer id="Fa11326" available="true">
       <categoryId>37</categoryId>
@@ -220,6 +290,21 @@
       <param name="Артикул">Fa03787</param>
       <consist name="Гвоздика одноголовая Грин Трик" unit="шт">30</consist>
     </offer>
+    <offer id="Fa15635" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиацинты 50 см Арт. Fa15635</name>
+      <price>110</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/134xqWLCb6dZe6Qi8TmIoyrxmz3ezJy6p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zRFsQO2ABOzbRtJ5tb0A7BU7gvB-Huvi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZcRYU1XeBbm2MQLygYtCIHTOrmvD5gVB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa15635</param>
+      <consist name="Гиацинты" unit="шт">50</consist>
+    </offer>
     <offer id="Fa0451" available="true">
       <categoryId>37</categoryId>
       <name>Калла Белый 50 см Арт. Fa0451</name>
@@ -254,6 +339,55 @@
       <param name="Производитель">Kallaland</param>
       <param name="Артикул">Fa9545</param>
       <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa00695" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Желтый 50 см Арт. Fa00695</name>
+      <price>132</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17s9nvE-LL-FVS3QklWGsFV2r9Lswl_zI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dxzN0-tb7Ec5BH5XrE4SnSqiyhkXeW2m</picture>
+      <picture>https://lh3.googleusercontent.com/d/19lKf-UK74rfRlEdiAX-QPXaHdOQuSGIa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OMi82DDVCnO6COuRJa0oo5C7X5-h_3Aq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KkxIWHEHtURA79EPFvv-ZYzV4rNpAzvw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Fa00695</param>
+      <consist name="Маттиола" unit="шт">5</consist>
+    </offer>
+    <offer id="Fa6865" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Белый 50 см Арт. Fa6865</name>
+      <price>132</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1S-7rrBgVnW4dKZ171e4nbGqZznGYCw8h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ANi0D9r6fs3jWOx3dJgApYu_VWdWrHA0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l2TaPYEv2j8J7vrGAOJ0k7TTmifReQ6X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nIf9T37dcsxdh-WeJTQ-OKcrz982C4OF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fR4zTTzptQFxxj3QN7BjB3sWRG9RgTqN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Fa6865</param>
+      <consist name="Маттиола" unit="шт">5</consist>
+    </offer>
+    <offer id="Fa14036" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Сиреневый 60 см Арт. Fa14036</name>
+      <price>132</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1c9m0giKGSyVzB1wO7L3qcaV2VkH8TSAb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zkgMJS_5j0Jba5OAy4CxklHS8ceNdxNY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r-9bXOL_icJmTEyul2j2Nq4pGY8KO-gj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa14036</param>
+      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="Fa14897" available="true">
       <categoryId>37</categoryId>
@@ -338,6 +472,40 @@
       <param name="Артикул">Fa04495</param>
       <consist name="Протея Артишоковая" unit="шт">1</consist>
     </offer>
+    <offer id="Fa9624" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Дубль прайс 40 см Арт. Fa9624</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ebKirCP8jQnlcsTgilYIOEoh4VRxdfsm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d0W7UM2WUYdXQ8rya-x5mP3VptgzdqaO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z1tnfYYZG7gj1TCQvSX9oabrLQ4Veh8u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VRUkEymY2fJb_wd2HYVJbra3Z60Ni9df</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yM1LWJuOz6U1HksIqp9U9b2ORyJ1sbYU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa9624</param>
+      <consist name="Тюльпан Дубль прайс" unit="шт">50</consist>
+    </offer>
+    <offer id="Fa04784" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Колумбус 40 см Арт. Fa04784</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mbgzWuC_79Vju04Oh-ddBaEDVeLVphlY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fhywUWKQwEdP6qRavT6Rc0K9vC2bbVOf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sYzOehOnkTjpPk1cROuWDhOQyKe-6OAf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_dv_KwexUzFguhWY2sE7nwBK341KjRyA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_9XX2G4IOHEpNYBOeR4m3MQqWNJrKGzT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa04784</param>
+      <consist name="Тюльпан Колумбус" unit="шт">50</consist>
+    </offer>
     <offer id="Fa00795" available="true">
       <categoryId>37</categoryId>
       <name>Фрезия Разноцветный 50 см Арт. Fa00795</name>
@@ -373,6 +541,55 @@
       <param name="Производитель">Unicum</param>
       <param name="Артикул">Fa04235</param>
       <consist name="Фрезия" unit="шт">50</consist>
+    </offer>
+    <offer id="Fa14786" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома 60 см Арт. Fa14786</name>
+      <price>209</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GT5yq8AmaOYJrspAObYgs2FC_h8MwPf1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wktiz9g-AGQCf2Gs_EZMvgV4aesFoiRU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PcRWoYxcoexoHgJdzwo2Y7pRFy6MXvqE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p2Vwps_P5t1t7BGrkytMJ0Z3-AzcAzzJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GtJ18Wn4Qm0qxo-pwsbWpQvfjvvsDgzL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa14786</param>
+      <consist name="Эустома" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa13736" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Корелли Лавандер 60 см Арт. Fa13736</name>
+      <price>209</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14KqdotjvpvryQNj0ViW4jWoqOtoJZhrW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YTPsof7qSDJV2D7-rsrcvjR1A5m0Me4g</picture>
+      <description>Корелли Лавандер</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Fa13736</param>
+    </offer>
+    <offer id="Fa9476" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 60 см Арт. Fa9476</name>
+      <price>182</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1p70dSDSavzfpA0zBtgWjHtQSwWBBhC_H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WYEr1TFWxx7kjJ5verpOnfVH93WHLIkR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lWgr3sFBDljSSoDqecA_gFiTXjOQTaGY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pWEzQBng9nxcXpbdaJMcpECmDY5hk-ad</picture>
+      <picture>https://lh3.googleusercontent.com/d/11yQ5FnLVv3R_-2lT_63WFwReO7qPgEpi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Fa9476</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Fa02095" available="true">
       <categoryId>38</categoryId>
