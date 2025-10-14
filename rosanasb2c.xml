@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T13:39:52.152+03:00">
+<yml_catalog date="2025-10-14T13:49:53.070+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -497,6 +497,21 @@
       <param name="Артикул">Rb12916</param>
       <consist name="Роза Нотр Дам" unit="шт">10</consist>
     </offer>
+    <offer id="C_Rb12708" available="true">
+      <name>Пачка (10 шт.) Скабиоза Стеллата 80 см Арт. C_Rb12708</name>
+      <categoryId>1</categoryId>
+      <price>495</price>
+      <picture>https://lh3.googleusercontent.com/d/1Mj1U1D6XQ-wl8Cqj8KwLnxq8GDHCetIq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tnvm6PPrgAsVFqveGjpcE7v1gL025-Dj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t84WtBfjEFyA7zZKLtj5vmNZOmGe6jyo</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb12708</param>
+      <consist name="Скабиоза Стеллата" unit="шт">10</consist>
+    </offer>
     <offer id="C_Rb00596" available="true">
       <name>Пачка (25 шт.) Танацетум Белый 60 см Арт. C_Rb00596</name>
       <categoryId>1</categoryId>
@@ -511,6 +526,21 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Rb00596</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="C_Rb7998" available="true">
+      <name>Пачка (10 шт.) Эуфорбия Квин оф ор 80 см Арт. C_Rb7998</name>
+      <categoryId>1</categoryId>
+      <price>2080</price>
+      <picture>https://lh3.googleusercontent.com/d/1zC-UVTK3hu4wOTnD80ZQBB9rTX_2jPYP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ynz5q6GJam0oTCGIJaQkLwActLyVir35</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ukajWzr8JWIcywtVrrwjT2f2zrel9YS-</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb7998</param>
+      <consist name="Эуфорбия Квин оф ор" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb01328" available="true">
       <name>Пачка (10 шт.) Картамус Занзибар 80 см Арт. C_Rb01328</name>
