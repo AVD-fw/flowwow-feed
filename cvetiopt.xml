@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T11:38:03.165+03:00">
+<yml_catalog date="2025-10-14T11:48:01.503+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -105,7 +105,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. Fa6817</name>
       <price>165</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aMKw2UvKVZZ3ry1AnXEYZX-jq_oS4tSm</picture>
       <picture>https://lh3.googleusercontent.com/d/1JI6HrjQ3vLuEL9aH-3pC34pmeoVcW5s1</picture>
@@ -629,7 +629,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Желтый 60 см Арт. Fa11326</name>
       <price>132</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1snTrNKaQ3F74CMzXaHlNa4C-YFzMZR1U</picture>
       <picture>https://lh3.googleusercontent.com/d/1hWSbaT1hwiLDdp4CYfaGphaVWBwZkUyn</picture>
@@ -663,7 +663,7 @@
       <categoryId>37</categoryId>
       <name>Астра Розовый 50 см Арт. Fa0371</name>
       <price>88</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YLlniUcAtEhuv51O5YV3soe4H-1dkKx6</picture>
       <picture>https://lh3.googleusercontent.com/d/150SLzp0IZocS_GJF6w56KgK1EY5f-lg4</picture>
@@ -1099,7 +1099,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Нобио Веллуто 70 см Арт. Fa14967</name>
       <price>50</price>
-      <qty>25</qty>
+      <qty>500</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vESVLaYlX7Xi-3LOeMWse7yNs7cHyX6q</picture>
       <picture>https://lh3.googleusercontent.com/d/1aDLEGe9ZxhtOKGWSsaQl_aW6LBXqJeUc</picture>
@@ -1522,6 +1522,24 @@
       <param name="Производитель">Kallaland</param>
       <param name="Артикул">Fa9545</param>
       <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa12437" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Перл Пинк 70 см Арт. Fa12437</name>
+      <price>110</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/187DlGIeqKXwFWwJ_jK_QwI9OeJkMduJq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y4-Kx5RJmF6kYzdrJV8izUZhmtHnvD6k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P-ouIDzR4wub2YHv0oWTQjZY8EmGDNlX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FC1mhSeD7Cu0DglkE7Lr9Af0LlFtkPm6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cyhYSqEZTNVQQPjhV1ztcwCldNQrVF-v</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fa12437</param>
+      <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Fa05147" available="true">
       <categoryId>37</categoryId>
