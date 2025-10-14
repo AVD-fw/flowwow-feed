@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T05:55:53.673+03:00">
+<yml_catalog date="2025-10-14T07:15:52.087+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -72,22 +72,6 @@
       <param name="Артикул">Ea00985</param>
       <consist name="Хризантема Сантини Пеп Талк" unit="шт">25</consist>
     </offer>
-    <offer id="C_Ea00326" available="true">
-      <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 60 см Арт. C_Ea00326</name>
-      <categoryId>1</categoryId>
-      <price>2065</price>
-      <picture>https://lh3.googleusercontent.com/d/1DNdmA5q98pRq770vu7wXguoKh5Y6KxfK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1el9cc9_2WWybIQSZGWQ4LG1tUAxStfXv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1k_9CP_Wt3VTj4B_b3F5DD5Gs-XfZhvfQ</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">LS Santini</param>
-      <param name="Артикул">Ea00326</param>
-      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
-    </offer>
     <offer id="C_Ea3886" available="true">
       <name>Пачка (10 шт.) Альстромерия Альстромерия Дубай 60 см Арт. C_Ea3886</name>
       <categoryId>1</categoryId>
@@ -103,6 +87,22 @@
       <param name="Производитель">Perfection</param>
       <param name="Артикул">Ea3886</param>
       <consist name="Альстромерия Альстромерия Дубай" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Ea2984" available="true">
+      <name>Пачка (25 шт.) Вероника Розовый 40 см Арт. C_Ea2984</name>
+      <categoryId>1</categoryId>
+      <price>3300</price>
+      <picture>https://lh3.googleusercontent.com/d/1bDdKs_9prEuyqMx7n__v3C8p3mqCRi9e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UfFSVEhFMokzC_0cxLLGQ7FSuXf8DC6F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lSdxNPniwzClJbtolo-I5GFgaF2uklur</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Veronica Florius</param>
+      <param name="Артикул">Ea2984</param>
+      <consist name="Вероника" unit="шт">25</consist>
     </offer>
     <offer id="C_Ea2684" available="true">
       <name>Пачка (25 шт.) Вероника Микс 40 см Арт. C_Ea2684</name>
@@ -120,20 +120,21 @@
       <param name="Артикул">Ea2684</param>
       <consist name="Вероника Микс" unit="шт">25</consist>
     </offer>
-    <offer id="C_Ea2034" available="true">
-      <name>Пачка (25 шт.) Вероника кустовая Фиолетовый 40 см Арт. C_Ea2034</name>
+    <offer id="C_Ea3376" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Красный 60 см Арт. C_Ea3376</name>
       <categoryId>1</categoryId>
-      <price>3300</price>
-      <picture>https://lh3.googleusercontent.com/d/14gEPyeI0FpcBw0PITlvf2GiELIn0f6uE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rs65KYXeJfclGgLYVi8VzUIea22XeQKi</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bJUJFAdiDxRy3pIdCo-cT7w6utR7uKnf</picture>
+      <price>1185</price>
+      <picture>https://lh3.googleusercontent.com/d/1p33iEsDlAalknuvk8RvnEHFybjhZeO0C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dwl90FRRuNV1-x-lJJtyeQgyPNWCq94h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eleIDyJOYR69APusvVWEViBwoh505aFk</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">40</param>
+      <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ea2034</param>
-      <consist name="Вероника кустовая" unit="шт">25</consist>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ea3376</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="C_Ea3397" available="true">
       <name>Пачка (25 шт.) Гипсофила Ярко розовая 70 см Арт. C_Ea3397</name>
@@ -166,21 +167,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ea00425</param>
       <consist name="Ирис Касабланка" unit="шт">50</consist>
-    </offer>
-    <offer id="C_Ea3966" available="true">
-      <name>Пачка (10 шт.) Калла 60 см Арт. C_Ea3966</name>
-      <categoryId>1</categoryId>
-      <price>2200</price>
-      <picture>https://lh3.googleusercontent.com/d/1SQmBfEhRogIDGOnXSGtxScPr7I6vCz-y</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MGWWFHGOj6tZ0DetfDAUPY1F4QRIDQsh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1L0wZrgoH_RVFv5ZZ2OXKRjp0kl4bhFAv</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ea3966</param>
-      <consist name="Калла" unit="шт">10</consist>
     </offer>
     <offer id="C_Ea3704" available="true">
       <name>Пачка (5 шт.) Леукоспермум Оранжевый 40 см Арт. C_Ea3704</name>
@@ -228,6 +214,22 @@
       <param name="Производитель">Matricaria by W. Grootscholten</param>
       <param name="Артикул">Ea00306</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="C_Ea3416" available="true">
+      <name>Пачка (10 шт.) Эустома Алиса Вайт 60 см Арт. C_Ea3416</name>
+      <categoryId>1</categoryId>
+      <price>1705</price>
+      <picture>https://lh3.googleusercontent.com/d/16-0co4RYmZuGu4pt_wB9bmtLi5G0G9QV</picture>
+      <picture>https://lh3.googleusercontent.com/d/13m7aq-3-0rb6AyzzVp4ugb7B_1ncaOuN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x0CmD2u3VQg_17RUnUAQarD2QTIHS5I7</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ea3416</param>
+      <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
     </offer>
     <offer id="C_Ea2506" available="true">
       <name>Пачка (10 шт.) Эустома Алиса Пинк 60 см Арт. C_Ea2506</name>
