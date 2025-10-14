@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T09:18:06.530+03:00">
+<yml_catalog date="2025-10-14T09:30:03.479+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -170,6 +170,24 @@
       <param name="Артикул">Fa01507</param>
       <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
     </offer>
+    <offer id="Fa01085" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси крашенная 55 см Арт. Fa01085</name>
+      <price>66</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uhaA9rYZo0ltfbh3yvdMc_eGUmqMAUO-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ajzU0nqt8m4uT1qmhjqDln4D4KEAL90_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xDhjEF2PwGsSyGBQCumrvGDpyZRulGAL</picture>
+      <picture>https://lh3.googleusercontent.com/d/10X5PbDe5kWOqKyRDiOh3XWp0nKm2a6vL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zUiazk83AglI09vYNNvCl6xtEOdptMXR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vanno Va</param>
+      <param name="Артикул">Fa01085</param>
+      <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
+    </offer>
     <offer id="Fa04216" available="true">
       <categoryId>37</categoryId>
       <name>Агапантус Белый 60 см Арт. Fa04216</name>
@@ -222,6 +240,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fa04475</param>
       <consist name="Ананас Мини" unit="шт">8</consist>
+    </offer>
+    <offer id="Fa11326" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Желтый 60 см Арт. Fa11326</name>
+      <price>132</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1snTrNKaQ3F74CMzXaHlNa4C-YFzMZR1U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hWSbaT1hwiLDdp4CYfaGphaVWBwZkUyn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Avo8p-Vjnvw8zh6HVWvkQ15zSfyPtAmD</picture>
+      <picture>https://lh3.googleusercontent.com/d/14gD8l8BNUCKKxCr3zg3l1mFleIk9iI-A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JS8pxG3lBhlkKkDgFRmFNX_VtB8OTEaT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa11326</param>
+      <consist name="Антирринум" unit="шт">10</consist>
     </offer>
     <offer id="Fa05054" available="true">
       <categoryId>37</categoryId>
@@ -376,6 +411,180 @@
       <param name="Артикул">Fa10504</param>
       <consist name="Вероника кустовая" unit="шт">20</consist>
     </offer>
+    <offer id="Fa12595" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Арагон 50 см Арт. Fa12595</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1J3fFBHVfyKZBensWL-INddS8DdTgxbPz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Zj8eAR7JFYf6DUqyQMWyTr-OcnoZ0eP4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XH9icifn7xX5TLpq6zIeeySnvRo2Btk7</picture>
+      <picture>https://lh3.googleusercontent.com/d/15l2RoySlTkRVfOa2EZTB1i9g1qX8hXyT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sE48KjI5deh9PtRP59_xL078Iw9qR-GV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa12595</param>
+      <consist name="Гвоздика кустовая Арагон" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa13605" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Бамбо 50 см Арт. Fa13605</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1z4-ycOPRyq1IT52e_vPMTmHmDuWTT1XN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1evWMDgk-QhFPwLFPrGlVbo7cO0UcJtGz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ROjKzwPl0I-HWjkoeaaJ7LGcBKTvXwd_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jUBdik2cZmYp5edImdLHFGtL4RkKkUCc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa13605</param>
+      <consist name="Гвоздика кустовая Бамбо" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa9685" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Глория Местизо 50 см Арт. Fa9685</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NgVKwv8X9H63EAVaaF9roVswBcZJJuRB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m4La1ohPSeGz86VNqEt-EEZW4X6S6jHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RBZoEuDt8MK0Dusy6hNBb5raqOWz_KwI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nLFY7dyaC7FQMSnfz49NME-9iV7sAULi</picture>
+      <picture>https://lh3.googleusercontent.com/d/17meR2VwM2zELoYncIYpwjmlUMgQnVRJc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa9685</param>
+      <consist name="Гвоздика кустовая Глория Местизо" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa03105" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Джианна 50 см Арт. Fa03105</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sepAZINHYFvgIdlTQxJPM4c2HeepLzdD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rTe5o2du1aiu2dJBPZpbawEP76cARQeo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Wboz1bV4X1NcsceE5UYPcVPrgPdqHq_Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DXDRcgwL9QKC7o8Sm8C1c1BPp8MOAzV7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JsAXnlEbinmL2641OVMJVw0sT9X0iLUa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa03105</param>
+      <consist name="Гвоздика кустовая Джианна" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa16265" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Канела 50 см Арт. Fa16265</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15oXfG3Pa1Z4LOFWBFn8vCz7wN5ac9vz9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X44FueJvkNkVr-j04fbQNhzjWVqL7k48</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa16265</param>
+      <consist name="Гвоздика кустовая Канела" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa01635" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Нимбус 50 см Арт. Fa01635</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VoeQNrvwAdSr1IypVOrXH4KXbq5Uutck</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RkFjJUErr58be0yW9f8R2mOFjgG9yvTD</picture>
+      <picture>https://lh3.googleusercontent.com/d/157YwtNn5t6yx7FvSmzaHvOhnNZrpyUa5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Awn15qwc9uTuqbN0lSvR0qMMxixosP_p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PQwNm0Lpw2P7_6_mUR2bvDzs254QG8tL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa01635</param>
+      <consist name="Гвоздика кустовая Нимбус" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa1493" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Тайрона 50 см Арт. Fa1493</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FBbzlF86Lgy_1UzzjerXcGGm--TQCeyk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pfd6eNdYQQcr82iDVDYM3FW1Cuj_rUBe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v7Unh7iRF_rxdQKgfN7J87r8sYw0Kci6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1csYrzILxO50m2Se3gsc-mIcwM3lhRBZt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Geo Flora</param>
+      <param name="Артикул">Fa1493</param>
+      <consist name="Гвоздика кустовая Тайрона" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa9665" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Хорус 50 см Арт. Fa9665</name>
+      <price>53</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1goiPYfehw0K4SggE4vQDb6uKeH_qzc7B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hoGTYuGG4KZfDpYHHQ4yDNZfsr6njP0f</picture>
+      <picture>https://lh3.googleusercontent.com/d/16yXCwv-HGmaGuqrWllPtSdXxSjgFlrTi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y1QkuLiJNDDU5Kv2kL2Vkk3vyUgUsjsp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-wuAeVqsI6e1JrkDQmUXwYA-EFkbayK6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa9665</param>
+      <consist name="Гвоздика кустовая Хорус" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa14957" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая 70 см Арт. Fa14957</name>
+      <price>62</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zPaf_NFVEvKZUkoKHi6UP-CGTL4PAFeo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-VZHz2IAi46YL8oj8PlqN_gZzBLoNlNq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mt5nBgDeD7T5D5t9ZNv4pzuyJkFqFiNr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1evk02HWDuUPwKFaNkj01EC2PpZN9Xkf7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Florigene Moonaqua</param>
+      <param name="Артикул">Fa14957</param>
+      <consist name="Гвоздика одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa01267" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Веддинг 70 см Арт. Fa01267</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ALyf1b5RK8QoS_txjfGe9K-7siaVVILR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bbZfMbfCyfcu9sat-P_umQFM393xQn1V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EL6XIf2lbuamnZj-o9rQSRr7WjXDj1Re</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pVNkjZnT0d06E7Gey3yXmDYlJ7eleo2U</picture>
+      <picture>https://lh3.googleusercontent.com/d/18U_Z0Q2WObXgcHD3cqsdxKErKCuQmCxj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa01267</param>
+      <consist name="Гвоздика одноголовая Веддинг" unit="шт">25</consist>
+    </offer>
     <offer id="Fa03787" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Грин Трик 70 см Арт. Fa03787</name>
@@ -393,6 +602,184 @@
       <param name="Производитель">Kiwi-Flower</param>
       <param name="Артикул">Fa03787</param>
       <consist name="Гвоздика одноголовая Грин Трик" unit="шт">30</consist>
+    </offer>
+    <offer id="Fa11017" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Каори 70 см Арт. Fa11017</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16OrE7FZuOl59P0TKtrYzEY-GrqzKvYc3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1grTrnWtlUIMb4oIn8DyjQQU506YoQoBx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NBxWQGMZyrptmydqWjGoaM8ztdudOcM1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xFuJZkAz7pJg6J_PlIz6GBimcmRqDnQs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ITK1y_ebKDIY7yYmhgu9khLTbnB_cdzI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geeflora</param>
+      <param name="Артикул">Fa11017</param>
+      <consist name="Гвоздика одноголовая Каори" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa03137" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Клеар Вотер 70 см Арт. Fa03137</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qn6wUbVfAaIP5usJr2FK--x8aDCy248l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jMelHHXcLOBiIAGs-Ize9C68YeuVSqjV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_5l4PDC55Sybz6kbO862e7Cxdvv83fcZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/15dGfMv9aGTLBGX-AvWj6Mn1dKH4_Y4TQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z1AJOuYZEY3mh13yhpCHNu_-wuQ9Hsul</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa03137</param>
+      <consist name="Гвоздика одноголовая Клеар Вотер" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa9737" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Кристалло 70 см Арт. Fa9737</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vJtF-kXET949Q0rlog5Qot2TSrcY3cmP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H7f7WjbgsKXgIcx-RehT-5_t5u8ub9VA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZYJYQ2_U3VaelMQUQ1Wt_UmVwCIZZY7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1coRHRfuUDaW3LZ1gYXhry_47XVO097Qw</picture>
+      <picture>https://lh3.googleusercontent.com/d/147AnPmQte1Is34lT5gTL0OzhOzFoe81L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa9737</param>
+      <consist name="Гвоздика одноголовая Кристалло" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa01597" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Марте 70 см Арт. Fa01597</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uXYXgWEtLqFq-nS6PX6n58d64werRPso</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rCPyhy-lG1o0k0PzLKuNOn2zOY9gwWjr</picture>
+      <picture>https://lh3.googleusercontent.com/d/18-OyaJ_-ogTVNt3iQHUOfVlyCQFkFe_I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mWe8zEOPnyiSGXI066KuqttQUq921-T5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RejgfwxhEEGdTAiBl7390zPkmv2nC_UO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa01597</param>
+      <consist name="Гвоздика одноголовая Марте" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa12567" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Мерлетто Лавендер 70 см Арт. Fa12567</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1200Fm8gDZjNIPnHqfFEdqDKLEGPYAMKt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R5B_bwUx2kxyNl7yvvIWG67WCmPiomyZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vOisUuIEm8_fUF6D4uIy7u91jzYvVFtL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SmziAm8El6gFN2DdCwDK788lsVN3fq2E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TiJoi_wc7FMROJCxtIGXihkA4wYnKPx2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa12567</param>
+      <consist name="Гвоздика одноголовая Мерлетто Лавендер" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa9577" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Ноббио Бургунди 70 см Арт. Fa9577</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yfiXlpIboEChimFpdyt0CG_iqhtyVIrR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jZNAya8t-RU8TkIKcsWmjS6fMu0DYxhZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D7q4q-cGH5Ipwmcmc3pARgZcMNVtisAH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T4evghZAPrYVCzspguypCrVgo0_KASOn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yJtC5sv0X0QXQX--YJQxV4DqI6pvXtzc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa9577</param>
+      <consist name="Гвоздика одноголовая Ноббио Бургунди" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa14967" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Нобио Веллуто 70 см Арт. Fa14967</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vESVLaYlX7Xi-3LOeMWse7yNs7cHyX6q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aDLEGe9ZxhtOKGWSsaQl_aW6LBXqJeUc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MIH6qIRHWS2XN5zZv4AS0UEKx81Xz--1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G8HEv_P95MOCuBezK2R6TUOYSShHJgdI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa14967</param>
+      <consist name="Гвоздика одноголовая Нобио Веллуто" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa01277" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Пастел Кремия 70 см Арт. Fa01277</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Bi8rWFnaXqQaRkrf6AJ4OYABbzVQWFgz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q5KEyy6aVJ6a2y-o2ZLA-zVxkE5VtLr9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iF8uAh7jS1QpraGiM6fDm3dbAyyoaDs2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w8avcGemHXL_92FkywNc6u5GJ71qG9-q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S6EHQIJ_iuELSfzsirPYAN_FFouW_B4N</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa01277</param>
+      <consist name="Гвоздика одноголовая Пастел Кремия" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa14917" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Сассикала 70 см Арт. Fa14917</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pldF0edVrDdxsCS-_6JfNIH9P9-Sptoy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oHHwUQoBIVp_hxChW4DoPnwdsyoTu3qN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mlUJNH-1F1FvXhiE4ZO4SHRRpsRz_Ok9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q2utVhCSQUmT-aTJZL4rE-BZRP31i4Lr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa14917</param>
+      <consist name="Гвоздика одноголовая Сассикала" unit="шт">25</consist>
+    </offer>
+    <offer id="Fa9727" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Харизма 70 см Арт. Fa9727</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1smipBjyyg9g0c5ejA8Ng2r-fZFavYwH2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z21-7PLHOmNmHh7QcUFAiREH0Xvpn-d5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M-NoxnGfBm03LiNM8CUAUlf5-CwDMJg7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F_gVp5O01AJW-sbZCMFJdhWS7sBmEJjP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wKKaf0aSY4kcw43CLDMEgG72cm8ajBR9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fa9727</param>
+      <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
     </offer>
     <offer id="Fa00844" available="true">
       <categoryId>37</categoryId>
@@ -699,6 +1086,41 @@
       <param name="Артикул">Fa02026</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
+    <offer id="Fa0451" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Белый 50 см Арт. Fa0451</name>
+      <price>182</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/183xsUE4m1TsRl_YX2ViTe6eN1PFQDVQS</picture>
+      <picture>https://lh3.googleusercontent.com/d/11pf08ioEqtH30pJff3fb5lvdT2sgo9rc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j0E_m7b5AKAQKQY909gm07qCYp_AZD6y</picture>
+      <picture>https://lh3.googleusercontent.com/d/18APboqvoE1pL2cTRq1NBpZ7FlsWlVZa2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Etsmu0_Ogx06kPKuKGG1zzIzmV4mlPsn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa0451</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa9545" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Бордовый 50 см Арт. Fa9545</name>
+      <price>154</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-XbFJpWuez_A93BoU18jyf-ywmRrbWEX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gQW38VisPV-7xDue-08tVkIfNDNz_15R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pguLStakLdQAmbNc51k0GoAex3YMF_Rt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ntNw-uhkgNFN3AaFoaSDmAAN5e-BMMID</picture>
+      <picture>https://lh3.googleusercontent.com/d/1om_sWpf8AjwKX-Ch4aTU8uTXRQ5Gb8I_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Fa9545</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
     <offer id="Fa12437" available="true">
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. Fa12437</name>
@@ -947,6 +1369,23 @@
       <param name="Артикул">Fa14375</param>
       <consist name="Питтоспорум Нигра" unit="шт">10</consist>
     </offer>
+    <offer id="Fa01355" available="true">
+      <categoryId>37</categoryId>
+      <name>Подсолнух Желтый 50 см Арт. Fa01355</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tmAuR7BDp365tyEYpXQyy-b2o607PfrD</picture>
+      <picture>https://lh3.googleusercontent.com/d/19FCO-l5JBPCQRxz5RS3KjE097oUcshsB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vunPOCzst6DZ5GY5cyqxxwuwOc91EV9A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EcCI1F3XghFekAyL6Duv_cB9LXIAeRuO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O38i4CESRmEFfv5eu0OUFZjtxxE7IRum</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa01355</param>
+      <consist name="Подсолнух" unit="шт">10</consist>
+    </offer>
     <offer id="Fa04485" available="true">
       <categoryId>37</categoryId>
       <name>Протея Артишоковая красный 50 см Арт. Fa04485</name>
@@ -1016,6 +1455,23 @@
       <param name="Артикул">Fa01915</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
+    <offer id="Fa5354" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Белый 40 см Арт. Fa5354</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G10x1QXhc7el8TezpySeZB0WrvLeeMwt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A3Af-wSQw2dPPVtXzw09vU1ViyOlhzNy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YQe2LHA0qV_TtByVTqom3N6vP362LAmL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cVs6A7DIutr3ukC5QAxlJddSCOiZBGQd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x2RLwr4cH2ygYKtmKO_wWpvK6uWRncdO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fa5354</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
     <offer id="Fa9624" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Дубль прайс 40 см Арт. Fa9624</name>
@@ -1049,6 +1505,23 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Fa04784</param>
       <consist name="Тюльпан Колумбус" unit="шт">50</consist>
+    </offer>
+    <offer id="Fa9614" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Фёст класс 40 см Арт. Fa9614</name>
+      <price>88</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bjONG4OiCuPiqZRu9KckVKoBy-RKWxzb</picture>
+      <picture>https://lh3.googleusercontent.com/d/17w9ClAJant6-3mZ4QoAOqTkUozEAGmLr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-8c2hXyrpC-zb6qZDc8sNlpa2YJZJ78G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XDOZbUX5uDeq2yigSKhQl_3PhxggRcOR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hjDFqMa8g6FqL-WVkD3XYdZWMIbZjCEA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fa9614</param>
+      <consist name="Тюльпан Фёст класс" unit="шт">50</consist>
     </offer>
     <offer id="Fa00795" available="true">
       <categoryId>37</categoryId>
