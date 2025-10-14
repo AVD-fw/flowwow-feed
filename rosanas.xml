@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T08:38:54.437+03:00">
+<yml_catalog date="2025-10-14T08:48:36.499+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -33,6 +33,22 @@
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">Rb12367</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Rb13304" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 40 см Арт. Rb13304</name>
+      <price>47</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tvZP2rFu30Z7tBsvX-J5Zzvpb3CQ-H2k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C7PFnw_B_61Z6-sKRYE53RVl1goMd_7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/14uTHLItcbJ41DEEcwS6ivof0pW6a8jY-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13304</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
     </offer>
     <offer id="Rb12247" available="true">
       <categoryId>1</categoryId>
@@ -278,7 +294,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Вайт Охара 60 см Арт. Rb14706</name>
       <price>165</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jmo_7RYlz3rTLLqNjtdzT8bhF-eSb6Kv</picture>
       <picture>https://lh3.googleusercontent.com/d/1IAu_eHyOGxhbrU4bqk7rEMsuQanNVJ4t</picture>
@@ -293,7 +309,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Мондиаль 70 см Арт. Rb14727</name>
       <price>153</price>
-      <qty>25</qty>
+      <qty>325</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1CnGuIhmgsdAx5umyoQCwdnyUCjt_fSrN</picture>
       <picture>https://lh3.googleusercontent.com/d/1WW9nx8imrxmYxAssHTJxDTqmHExyiQKk</picture>
@@ -308,7 +324,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Охара 60 см Арт. Rb14746</name>
       <price>165</price>
-      <qty>25</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1tT2ybwHoilFQiYbySdlzLY78WY9rBGVu</picture>
       <picture>https://lh3.googleusercontent.com/d/12ANRk6E8CmRxi1u7DL7yKPwXqfw70BUb</picture>
@@ -385,6 +401,24 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb04265</param>
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb6506" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Таня 60 см Арт. Rb6506</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XJqZaFg18YoZ8eWgI5KFdzWbQDLTr8_l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xbe44Vs13wFIF0Vs4X6SnZw40cL1GoRO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LUaxis5PR-v560HL-mNsH6UIgxpOl4Jc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HJC_G8Dyj4_5PwZHH5b4l2sBFAzH-FGk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vf1AsnPmV7BJbY0WR1biG9hLIfu90D2u</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb6506</param>
+      <consist name="Роза кустовая Таня" unit="шт">10</consist>
     </offer>
     <offer id="Rb13284" available="true">
       <categoryId>3</categoryId>
@@ -578,6 +612,20 @@
       <param name="Артикул">Rb9027</param>
       <consist name="Хризантема одноголовая Бразилиана" unit="шт">10</consist>
     </offer>
+    <offer id="Rb14457" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Етруско Вайт 70 см Арт. Rb14457</name>
+      <price>199</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16uPN6Gr6sl5HBT2B37NSoMtx3OWDR-lC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb14457</param>
+      <consist name="Хризантема одноголовая Етруско Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Rb7377" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Момоко 70 см Арт. Rb7377</name>
@@ -666,6 +714,22 @@
       <param name="Артикул">Rb12625</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
+    <offer id="Rb11465" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сан Ауринко 55 см Арт. Rb11465</name>
+      <price>109</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wVQA5qbtyAj8hZuVay4XEjjcu3YF7oQY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l1i5WwLQqn-PyoVtNJ-RjTDPUur6TOwi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WSl-IVoUKK_vxErr7ZSCnETceS0yEIW7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb11465</param>
+      <consist name="Хризантема Сантини Сан Ауринко" unit="шт">25</consist>
+    </offer>
     <offer id="Rb10805" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Сан Маверик 55 см Арт. Rb10805</name>
@@ -681,6 +745,20 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rb10805</param>
       <consist name="Хризантема Сантини Сан Маверик" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb14465" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Элисон Пинк 55 см Арт. Rb14465</name>
+      <price>99</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yOZhPyHVsoIRPoaC9myLbff8YiFttthu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb14465</param>
+      <consist name="Хризантема Сантини Элисон Пинк" unit="шт">25</consist>
     </offer>
     <offer id="Rb01027" available="true">
       <categoryId>37</categoryId>
