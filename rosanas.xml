@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T20:18:36.916+03:00">
+<yml_catalog date="2025-10-14T20:28:14.040+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -533,6 +533,24 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb6556</param>
       <consist name="Роза кустовая пионовидная Микс Кремовые" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb4915" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Пиони Бабблс 50 см Арт. Rb4915</name>
+      <price>206</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Sbs6aWqdUA2CLg-pK_r7lJZKTzq86I4W</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lbSXln-8r_JMiDpexygL6QyAmp3mvBIx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-jlXlM3XhN6Al0tXeOIY9mNOTFx7O2gA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BuPlpSa5-IrdNfLHmQUlQmrtMGslFl7_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LOMY6ErdSkEeQ8ie6AAEI66IviIjc1Zv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb4915</param>
+      <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Rb6896" available="true">
       <categoryId>4</categoryId>
