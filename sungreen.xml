@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T10:26:36.649+03:00">
+<yml_catalog date="2025-10-14T10:36:27.876+03:00">
   <shop>
     <name>Сангрин</name>
     <company>sungreen</company>
@@ -407,6 +407,22 @@ Sungreen
       <param name="Производитель">Sungreen</param>
       <param name="Артикул">G00913</param>
       <consist name="Хлопок Цветной" unit="шт">10</consist>
+    </offer>
+    <offer id="G00925" available="true">
+      <name>Ячмень Белый 50 см Арт. G00925</name>
+      <price>270</price>
+      <qty>400</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XovXNobnkgwkOwGsvFvVs_AfqvkaKJER</picture>
+      <description>Ячмень
+Sungreen
+Россия
+Сухоцвет</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Sungreen</param>
+      <param name="Артикул">G00925</param>
+      <consist name="Ячмень" unit="шт">1</consist>
     </offer>
     <offer id="G00036" available="true">
       <categoryId>38</categoryId>
