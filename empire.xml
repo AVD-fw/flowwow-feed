@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T10:13:58.403+03:00">
+<yml_catalog date="2025-10-14T10:23:59.833+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -103,6 +103,19 @@
       <param name="Артикул">Ea2136</param>
       <consist name="Альстромерия" unit="шт">10</consist>
     </offer>
+    <offer id="Ea4116" available="true">
+      <categoryId>37</categoryId>
+      <name>Альстромерия 60 см Арт. Ea4116</name>
+      <price>85</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14aDfdn1UByxB2FTzl393ik55c5QNB_eA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ea4116</param>
+      <consist name="Альстромерия" unit="шт">10</consist>
+    </offer>
     <offer id="Ea3886" available="true">
       <categoryId>37</categoryId>
       <name>Альстромерия Альстромерия Дубай 60 см Арт. Ea3886</name>
@@ -118,6 +131,20 @@
       <param name="Производитель">Perfection</param>
       <param name="Артикул">Ea3886</param>
       <consist name="Альстромерия Альстромерия Дубай" unit="шт">10</consist>
+    </offer>
+    <offer id="Ea4106" available="true">
+      <categoryId>37</categoryId>
+      <name>Альстромерия Вистлер 60 см Арт. Ea4106</name>
+      <price>85</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/195TUBgH6_ZLPQ1ZcoJDGENjwtT76PiNn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Perfection</param>
+      <param name="Артикул">Ea4106</param>
+      <consist name="Альстромерия Вистлер" unit="шт">10</consist>
     </offer>
     <offer id="Ea2984" available="true">
       <categoryId>37</categoryId>
