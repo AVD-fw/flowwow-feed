@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-14T10:45:55.666+03:00">
+<yml_catalog date="2025-10-14T10:55:54.678+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -72,6 +72,19 @@
       <param name="Артикул">Ea00985</param>
       <consist name="Хризантема Сантини Пеп Талк" unit="шт">25</consist>
     </offer>
+    <offer id="C_Ea4116" available="true">
+      <name>Пачка (10 шт.) Альстромерия 60 см Арт. C_Ea4116</name>
+      <categoryId>1</categoryId>
+      <price>935</price>
+      <picture>https://lh3.googleusercontent.com/d/1bvzo3gKQLeZPYyGBMvoqNeu15UWF4zmQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g9B5n_z_qwMfPolCqbny6kc867t0r7iO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ea4116</param>
+      <consist name="Альстромерия" unit="шт">10</consist>
+    </offer>
     <offer id="C_Ea3886" available="true">
       <name>Пачка (10 шт.) Альстромерия Альстромерия Дубай 60 см Арт. C_Ea3886</name>
       <categoryId>1</categoryId>
@@ -87,6 +100,20 @@
       <param name="Производитель">Perfection</param>
       <param name="Артикул">Ea3886</param>
       <consist name="Альстромерия Альстромерия Дубай" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Ea4106" available="true">
+      <name>Пачка (10 шт.) Альстромерия Вистлер 60 см Арт. C_Ea4106</name>
+      <categoryId>1</categoryId>
+      <price>935</price>
+      <picture>https://lh3.googleusercontent.com/d/1RBei95NLBSKbAE4DEd1hr5fRQ5PhrkoB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XhF2sod6vbH7fD2VSvNfbr-9QJDMKNHq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Perfection</param>
+      <param name="Артикул">Ea4106</param>
+      <consist name="Альстромерия Вистлер" unit="шт">10</consist>
     </offer>
     <offer id="C_Ea2984" available="true">
       <name>Пачка (25 шт.) Вероника Розовый 40 см Арт. C_Ea2984</name>
