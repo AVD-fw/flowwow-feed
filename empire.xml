@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-15T15:54:01.300+03:00">
+<yml_catalog date="2025-10-15T16:14:09.306+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,62 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ea4246" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мандала 60 см Арт. Ea4246</name>
+      <price>155</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VycRvYuFFQZp-tiWQYJVCfFffFok5_Bm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Ea4246</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">25</consist>
+    </offer>
+    <offer id="Ea4227" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Плая Бланка 70 см Арт. Ea4227</name>
+      <price>155</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PPVbKJhGhqfOi0gz36Mg2AHHP8NKho06</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Royal flowers</param>
+      <param name="Артикул">Ea4227</param>
+      <consist name="Роза одноголовая Плая Бланка" unit="шт">25</consist>
+    </offer>
+    <offer id="Ea4046" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Фрутетто 60 см Арт. Ea4046</name>
+      <price>155</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GXgPW7-E5V9CYkqIDbnQzQkcdOcc6n3A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OXndKMP4A2lRVzxp8s2SoHMY6LCVbMDK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Sweet Petals</param>
+      <param name="Артикул">Ea4046</param>
+      <consist name="Роза одноголовая Фрутетто" unit="шт">25</consist>
+    </offer>
+    <offer id="Ea4237" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Крем Экспрешен 70 см Арт. Ea4237</name>
+      <price>155</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1axvgFFaDkJTAyLgmkPab0nbVECoMDlHl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Ea4237</param>
+      <consist name="Роза одноголовая пионовидная Крем Экспрешен" unit="шт">25</consist>
+    </offer>
     <offer id="Ea2167" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. Ea2167</name>
@@ -67,6 +123,20 @@
       <param name="Производитель">Vannova</param>
       <param name="Артикул">Ea3767</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Ea4267" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Ea4267</name>
+      <price>155</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rU8e-kEhiVfNuam7Sy8CpM61qOJyefpa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ea4267</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
     </offer>
     <offer id="Ea2866" available="true">
       <categoryId>6</categoryId>
@@ -167,6 +237,20 @@
       <param name="Артикул">Ea00886</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
+    <offer id="Ea4257" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Руби Стар 70 см Арт. Ea4257</name>
+      <price>155</price>
+      <qty>40</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aJ3fZbCzkol3bPoneEj6Xe8DrizX1-2z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ea4257</param>
+      <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
+    </offer>
     <offer id="Ea379" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Хайдар 50 см Арт. Ea379</name>
@@ -232,6 +316,35 @@
       <param name="Производитель">LS Santini</param>
       <param name="Артикул">Ea00316</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
+    </offer>
+    <offer id="Ea4285" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Санни 55 см Арт. Ea4285</name>
+      <price>155</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wbXNG72zCllfR5we_ytKEZ6bgPUbcAAy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ea4285</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
+    <offer id="Ea4157" available="true">
+      <categoryId>37</categoryId>
+      <name>Кантри Блю 70 см Арт. Ea4157</name>
+      <price>155</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gJj-iY-2Ocqyvem6lDab7uxlpzgAgisB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gBuX3a90_CCefsxg5r72MFhO7KDRHZO7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Terra Pacific</param>
+      <param name="Артикул">Ea4157</param>
+      <consist name="Кантри Блю" unit="шт">25</consist>
     </offer>
     <offer id="Ea2136" available="true">
       <categoryId>37</categoryId>
