@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-15T13:54:01.156+03:00">
+<yml_catalog date="2025-10-15T14:04:16.699+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ea2167" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Антонов 70 см Арт. Ea2167</name>
+      <price>150</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1n__6AF2HmMxc1znBra1syQ2xYG_l68XG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nNb7zRo0bxC8DJ_P-3ePUiT_3JFyMG-7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XC8Dafv7LNunAbMvSbUOSY02g3FyxY5-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x2VdsdmyAmEHDQJiSdIjEP03Du7hxU_V</picture>
+      <picture>https://lh3.googleusercontent.com/d/11CQVxPwILxakiOrda5UQslILwbYUsRYy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ea2167</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+    </offer>
     <offer id="Ea2177" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. Ea2177</name>
@@ -186,7 +204,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 55 см Арт. Ea3625</name>
       <price>75</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dtHS9DzjSpZ0PvRGuLqU1IBPUE82bZry</picture>
       <picture>https://lh3.googleusercontent.com/d/1WU5VrNwUk1E0XnLOmeWoiJtOIKiEaa2O</picture>
@@ -668,7 +686,7 @@
       <categoryId>38</categoryId>
       <name>Эрингиум Синий 50 см Арт. Ea01205</name>
       <price>155</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10yg-jVuITkwaYWYgz1F-5yuDEqiPJm-F</picture>
       <picture>https://lh3.googleusercontent.com/d/1k3lkF8PZJ74InnbdkqUmHtR6zCC0hUir</picture>
