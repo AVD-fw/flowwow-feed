@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-15T07:10:13.087+03:00">
+<yml_catalog date="2025-10-15T07:19:50.158+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -8,6 +8,19 @@
       <category id="1">Монобукеты</category>
     </categories>
     <offers>
+    <offer id="C_Rb14427" available="true">
+      <name>Пачка (5 шт.) Брассика Крайн Кинг 70 см Арт. C_Rb14427</name>
+      <categoryId>1</categoryId>
+      <price>800</price>
+      <picture>https://lh3.googleusercontent.com/d/1FDtsNUlIUGWnrOhar0pwP-kFWGGswufk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z5J_XCn3vRbKn7X191UeYzCJ5-skcjMf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb14427</param>
+      <consist name="Брассика Крайн Кинг" unit="шт">5</consist>
+    </offer>
     <offer id="C_Rb01047" available="true">
       <name>Пачка (10 шт.) Кампанула Перл Пинк 70 см Арт. C_Rb01047</name>
       <categoryId>1</categoryId>
@@ -23,6 +36,21 @@
       <param name="Производитель">De Waal Fensie B.V.</param>
       <param name="Артикул">Rb01047</param>
       <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb7998" available="true">
+      <name>Пачка (10 шт.) Эуфорбия Квин оф ор 80 см Арт. C_Rb7998</name>
+      <categoryId>1</categoryId>
+      <price>2080</price>
+      <picture>https://lh3.googleusercontent.com/d/1zC-UVTK3hu4wOTnD80ZQBB9rTX_2jPYP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ynz5q6GJam0oTCGIJaQkLwActLyVir35</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ukajWzr8JWIcywtVrrwjT2f2zrel9YS-</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb7998</param>
+      <consist name="Эуфорбия Квин оф ор" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
