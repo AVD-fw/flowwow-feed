@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-15T16:18:24.105+03:00">
+<yml_catalog date="2025-10-15T16:28:27.350+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -153,6 +153,20 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb14015</param>
+      <consist name="Роза одноголовая Скайвард" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb15014" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Скайвард 40 см Арт. Rb15014</name>
+      <price>61</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aBT2ypdS3ul-kngyRoPPpKyq7epNTyD3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb15014</param>
       <consist name="Роза одноголовая Скайвард" unit="шт">10</consist>
     </offer>
     <offer id="Rb01757" available="true">
@@ -486,6 +500,21 @@
       <param name="Артикул">Rb13476</param>
       <consist name="Вероника Клеар Джун" unit="шт">25</consist>
     </offer>
+    <offer id="Rb13416" available="true">
+      <categoryId>37</categoryId>
+      <name>Вероника Смарт Артист 60 см Арт. Rb13416</name>
+      <price>90</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CDY-zOvdDjkGIAa5bMs4YlFCUgahITGC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JikFlmAt7DSw7sNHHdeJSy8uXx-5EhVI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IG9oxXTE88OJKBe2Qsr6LD1ZUm-BWNQM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb13416</param>
+      <consist name="Вероника Смарт Артист" unit="шт">10</consist>
+    </offer>
     <offer id="Rb02136" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Барбатус 60 см Арт. Rb02136</name>
@@ -519,6 +548,23 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Rb11027</param>
       <consist name="Гвоздика одноголовая Йеллоустоун" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb10237" available="true">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум ELA CHRISTEL 70 см Арт. Rb10237</name>
+      <price>209</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vTumUcj6H9YwhDfV59cQERoXriOn6uZ7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AkLnj_7ae_Mfc6AqywzRsw3S0xNgenkR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hq3d0Jyrqou3AjE2Ymep8J0bfToF1y2R</picture>
+      <picture>https://lh3.googleusercontent.com/d/19DMg8MR_Ry6ppyo2BqfhDCa_MnRVLEu5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SyQothZptXRMhfhCfuIOx6PGr1qEb2aK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb10237</param>
+      <consist name="Дельфиниум ELA CHRISTEL" unit="шт">10</consist>
     </offer>
     <offer id="Rb01047" available="true">
       <categoryId>37</categoryId>
@@ -571,6 +617,22 @@
       <param name="Производитель">MarginPar</param>
       <param name="Артикул">Rb9636</param>
       <consist name="Клематис Эмэйзинг Роум" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb10789" available="true">
+      <categoryId>37</categoryId>
+      <name>Лилия LA LITOUWEN 95 см Арт. Rb10789</name>
+      <price>189</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11nkErMH4L6S1LItRE6wxAM--R-Dc9yJ9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gRJmrBAePZeRoZ9ww1lLEIyhIaXVYv1q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FpEbFsCkrFzAT1vAmhIgiA_UVtE8aHxh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">95</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">MAGNUM</param>
+      <param name="Артикул">Rb10789</param>
+      <consist name="Лилия LA LITOUWEN" unit="шт">10</consist>
     </offer>
     <offer id="Rb5778" available="true">
       <categoryId>37</categoryId>
@@ -741,6 +803,21 @@
       <param name="Артикул">Rb03207</param>
       <consist name="Целозия Репрайс Голд" unit="шт">5</consist>
     </offer>
+    <offer id="Rb11217" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия C REPRISE ROSE 72 см Арт. Rb11217</name>
+      <price>155</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FRGhe5OpqnRraKTlllD8zDUiZF_gn3jR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X5m790D2akYBOQy3nCzaHMdsWX7SGa7j</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">72</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">FEIKO</param>
+      <param name="Артикул">Rb11217</param>
+      <consist name="Целозия C REPRISE ROSE" unit="шт">5</consist>
+    </offer>
     <offer id="Rb9617" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Блю 70 см Арт. Rb9617</name>
@@ -809,6 +886,22 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">Rb14827</param>
       <consist name="Эустома Росита Еллоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb13507" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома G CELEB GRAPE 70 см Арт. Rb13507</name>
+      <price>190</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1L4I7lUxNXdHFOWqQMXyrzHcGT-7QGmnP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K47XjgjsFG_DMUk9UR3GtImakbgGvnM0</picture>
+      <picture>https://lh3.googleusercontent.com/d/11Q9nNaXjwWP8HA6O0jS1VYHG8n9UsChX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb13507</param>
+      <consist name="Эустома G CELEB GRAPE" unit="шт">10</consist>
     </offer>
     <offer id="Rb7998" available="true">
       <categoryId>37</categoryId>
