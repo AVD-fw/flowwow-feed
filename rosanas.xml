@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-15T16:28:27.350+03:00">
+<yml_catalog date="2025-10-15T16:38:22.015+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -19,7 +19,7 @@
     <offers>
     <offer id="Rb13304" available="true">
       <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 40 см Арт. Rb13304</name>
+      <name>Роза одноголовая Аваланш Белый 40 см Арт. Rb13304</name>
       <price>47</price>
       <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -36,7 +36,7 @@
     </offer>
     <offer id="Rb12326" available="true">
       <categoryId>1</categoryId>
-      <name>Роза одноголовая Аква 60 см Арт. Rb12326</name>
+      <name>Роза одноголовая Аква Розовый 60 см Арт. Rb12326</name>
       <price>82</price>
       <qty>200</qty>
       <quantity_in_package>20</quantity_in_package>
@@ -107,7 +107,7 @@
     </offer>
     <offer id="Rb12287" available="true">
       <categoryId>1</categoryId>
-      <name>Роза одноголовая Пич Авалаш 70 см Арт. Rb12287</name>
+      <name>Роза одноголовая Пич Авалаш Кремовый 70 см Арт. Rb12287</name>
       <price>82</price>
       <qty>75</qty>
       <quantity_in_package>15</quantity_in_package>
@@ -124,7 +124,7 @@
     </offer>
     <offer id="Rb12197" available="true">
       <categoryId>1</categoryId>
-      <name>Роза одноголовая Ред Наоми 70 см Арт. Rb12197</name>
+      <name>Роза одноголовая Ред Наоми Красный 70 см Арт. Rb12197</name>
       <price>89</price>
       <qty>160</qty>
       <quantity_in_package>20</quantity_in_package>
@@ -259,7 +259,7 @@
     </offer>
     <offer id="Rb13284" available="true">
       <categoryId>3</categoryId>
-      <name>Роза кустовая Яна 40 см Арт. Rb13284</name>
+      <name>Роза кустовая Яна Кремовый 40 см Арт. Rb13284</name>
       <price>143</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -421,7 +421,7 @@
     </offer>
     <offer id="Rb11437" available="true">
       <categoryId>6</categoryId>
-      <name>Хризантема кустовая Делигрин 70 см Арт. Rb11437</name>
+      <name>Хризантема кустовая Делигрин Зелёный 70 см Арт. Rb11437</name>
       <price>105</price>
       <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
@@ -487,7 +487,7 @@
     </offer>
     <offer id="Rb13476" available="true">
       <categoryId>37</categoryId>
-      <name>Вероника Клеар Джун 60 см Арт. Rb13476</name>
+      <name>Вероника Клеар Джун Белый 60 см Арт. Rb13476</name>
       <price>79</price>
       <qty>325</qty>
       <quantity_in_package>25</quantity_in_package>
@@ -502,7 +502,7 @@
     </offer>
     <offer id="Rb13416" available="true">
       <categoryId>37</categoryId>
-      <name>Вероника Смарт Артист 60 см Арт. Rb13416</name>
+      <name>Вероника SMART ARTIST 60 см Арт. Rb13416</name>
       <price>90</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -513,7 +513,7 @@
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb13416</param>
-      <consist name="Вероника Смарт Артист" unit="шт">10</consist>
+      <consist name="Вероника SMART ARTIST" unit="шт">10</consist>
     </offer>
     <offer id="Rb02136" available="true">
       <categoryId>37</categoryId>
@@ -630,7 +630,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">95</param>
       <param name="Страна">уточняется</param>
-      <param name="Производитель">MAGNUM</param>
+      <param name="Производитель">Mugnum</param>
       <param name="Артикул">Rb10789</param>
       <consist name="Лилия LA LITOUWEN" unit="шт">10</consist>
     </offer>
@@ -670,7 +670,7 @@
     </offer>
     <offer id="Rb11579" available="true">
       <categoryId>37</categoryId>
-      <name>Роза Смеральда 90 см Арт. Rb11579</name>
+      <name>Роза Смеральда Зелёный 90 см Арт. Rb11579</name>
       <price>169</price>
       <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -704,7 +704,7 @@
     </offer>
     <offer id="Rb12708" available="true">
       <categoryId>37</categoryId>
-      <name>Скабиоза Стеллата 80 см Арт. Rb12708</name>
+      <name>Скабиоза Стеллата Коричневый 80 см Арт. Rb12708</name>
       <price>45</price>
       <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
@@ -814,7 +814,7 @@
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">72</param>
       <param name="Страна">уточняется</param>
-      <param name="Производитель">FEIKO</param>
+      <param name="Производитель">Feiko</param>
       <param name="Артикул">Rb11217</param>
       <consist name="Целозия C REPRISE ROSE" unit="шт">5</consist>
     </offer>
