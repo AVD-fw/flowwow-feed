@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T21:09:45.528+03:00">
+<yml_catalog date="2025-10-16T21:19:47.716+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -8,24 +8,8 @@
       <category id="1">Монобукеты</category>
     </categories>
     <offers>
-    <offer id="C_Rb13304" available="true">
-      <name>Пачка (10 шт.) Роза одноголовая Аваланш Белый 40 см Арт. C_Rb13304</name>
-      <categoryId>1</categoryId>
-      <price>515</price>
-      <picture>https://lh3.googleusercontent.com/d/1A25gFOofXe4qpiaayKDzhNHtzgW1OjYw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zaIq0sqlqLfhxmrvZXoYLvfy_eRiq9Vg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1C7PFnw_B_61Z6-sKRYE53RVl1goMd_7l</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">40</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rb13304</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
     <offer id="C_Rb12247" available="true">
-      <name>Пачка (20 шт.) Роза одноголовая Аква Розовый 70 см Арт. C_Rb12247</name>
+      <name>Пачка (20 шт.) Роза одноголовая Розовый 70 см Арт. C_Rb12247</name>
       <categoryId>1</categoryId>
       <price>2110</price>
       <picture>https://lh3.googleusercontent.com/d/1fc-zI9e19BLYHM400PVijQFhgIsko93A</picture>
@@ -38,26 +22,42 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">Rb12247</param>
-      <consist name="Роза одноголовая Аква" unit="шт">20</consist>
+      <consist name="Роза одноголовая" unit="шт">20</consist>
     </offer>
-    <offer id="C_Rb12326" available="true">
-      <name>Пачка (20 шт.) Роза одноголовая Аква Розовый 60 см Арт. C_Rb12326</name>
+    <offer id="C_Rb12266" available="true">
+      <name>Пачка (20 шт.) Роза одноголовая Розовый 60 см Арт. C_Rb12266</name>
       <categoryId>1</categoryId>
-      <price>1810</price>
-      <picture>https://lh3.googleusercontent.com/d/1x0t_83znvdY1pbTjV8OOvptlcxzZAYrF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1n6qc0PpIDxJcrBKXDaVgMEZOmHCjmgnw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lqWyb3eozLZ0NIinP28t-FSyT42xO9eR</picture>
+      <price>1505</price>
+      <picture>https://lh3.googleusercontent.com/d/1dWF9l_HTO4HiZW99UK2vUGszT5q9umjA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VT9af-ExC9wFEfM8eSEP3FoLDtlmZSyV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1euuvT3UG3oR-FxOKhttghGyNgB4yZh-Y</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Rb12326</param>
-      <consist name="Роза одноголовая Аква" unit="шт">20</consist>
+      <param name="Артикул">Rb12266</param>
+      <consist name="Роза одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="C_Rb12287" available="true">
+      <name>Пачка (15 шт.) Роза одноголовая Кремовый 70 см Арт. C_Rb12287</name>
+      <categoryId>1</categoryId>
+      <price>1355</price>
+      <picture>https://lh3.googleusercontent.com/d/1kl7mo__WOAwkIB2aHxZrO44IMADInh37</picture>
+      <picture>https://lh3.googleusercontent.com/d/14eDwHQ7oFQ5copJ3C5bSTJYlqVENOy67</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zvMRzA-mQESIBUNfD52f_EOIJdE_gK7B</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 15 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb12287</param>
+      <consist name="Роза одноголовая" unit="шт">15</consist>
     </offer>
     <offer id="C_Rb12297" available="true">
-      <name>Пачка (15 шт.) Роза одноголовая Джумилия Розовый 70 см Арт. C_Rb12297</name>
+      <name>Пачка (15 шт.) Роза одноголовая Розовый 70 см Арт. C_Rb12297</name>
       <categoryId>1</categoryId>
       <price>2035</price>
       <picture>https://lh3.googleusercontent.com/d/1H9xmWACAzXwAmyuOBTVEraCBQ5ZNOPLF</picture>
@@ -70,7 +70,87 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">Rb12297</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+      <consist name="Роза одноголовая" unit="шт">15</consist>
+    </offer>
+    <offer id="C_Rb12326" available="true">
+      <name>Пачка (20 шт.) Роза одноголовая Розовый 60 см Арт. C_Rb12326</name>
+      <categoryId>1</categoryId>
+      <price>1810</price>
+      <picture>https://lh3.googleusercontent.com/d/1x0t_83znvdY1pbTjV8OOvptlcxzZAYrF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n6qc0PpIDxJcrBKXDaVgMEZOmHCjmgnw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lqWyb3eozLZ0NIinP28t-FSyT42xO9eR</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Rb12326</param>
+      <consist name="Роза одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="C_Rb13007" available="true">
+      <name>Пачка (20 шт.) Роза одноголовая 70 см Арт. C_Rb13007</name>
+      <categoryId>1</categoryId>
+      <price>1960</price>
+      <picture>https://lh3.googleusercontent.com/d/1bGM7uFtLtGnlWOuH6xTYju4vku83ex0i</picture>
+      <picture>https://lh3.googleusercontent.com/d/11nanyPNfdhhz5lsZwrN2a6fjJprAM9C_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DZs_NERajKlMeoBxGdxEyC-uVg-sUPwo</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Rb13007</param>
+      <consist name="Роза одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="C_Rb13114" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Оранжевый 40 см Арт. C_Rb13114</name>
+      <categoryId>1</categoryId>
+      <price>515</price>
+      <picture>https://lh3.googleusercontent.com/d/1SxjKCTcSElsJNVTvfCpovkTmWdxj_9Ib</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tHLhV1ztjj921TOUomWzNjKvV7XftJmO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oZKIBo0sG0GmHEFYyhcEzqQUKRagEBjh</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13114</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb13145" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Красный 50 см Арт. C_Rb13145</name>
+      <categoryId>1</categoryId>
+      <price>670</price>
+      <picture>https://lh3.googleusercontent.com/d/1aDVBaXhkcraV7MzHpqdNeomC8gYIigAq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yOZ7F75hUuq6Fx7Xs-xbvov8Heq1Qg-0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SXNQ_UwKYuhCorBaU1xrFVTBIgcBtTig</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13145</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb13304" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Белый 40 см Арт. C_Rb13304</name>
+      <categoryId>1</categoryId>
+      <price>515</price>
+      <picture>https://lh3.googleusercontent.com/d/1A25gFOofXe4qpiaayKDzhNHtzgW1OjYw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zaIq0sqlqLfhxmrvZXoYLvfy_eRiq9Vg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C7PFnw_B_61Z6-sKRYE53RVl1goMd_7l</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13304</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb9496" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Зайна 60 см Арт. C_Rb9496</name>
@@ -87,38 +167,6 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb9496</param>
       <consist name="Роза одноголовая Зайна" unit="шт">10</consist>
-    </offer>
-    <offer id="C_Rb13114" available="true">
-      <name>Пачка (10 шт.) Роза одноголовая Испания Оранжевый 40 см Арт. C_Rb13114</name>
-      <categoryId>1</categoryId>
-      <price>515</price>
-      <picture>https://lh3.googleusercontent.com/d/1SxjKCTcSElsJNVTvfCpovkTmWdxj_9Ib</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tHLhV1ztjj921TOUomWzNjKvV7XftJmO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oZKIBo0sG0GmHEFYyhcEzqQUKRagEBjh</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">40</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rb13114</param>
-      <consist name="Роза одноголовая Испания" unit="шт">10</consist>
-    </offer>
-    <offer id="C_Rb13145" available="true">
-      <name>Пачка (10 шт.) Роза одноголовая Кон Аморе Красный 50 см Арт. C_Rb13145</name>
-      <categoryId>1</categoryId>
-      <price>670</price>
-      <picture>https://lh3.googleusercontent.com/d/1aDVBaXhkcraV7MzHpqdNeomC8gYIigAq</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yOZ7F75hUuq6Fx7Xs-xbvov8Heq1Qg-0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SXNQ_UwKYuhCorBaU1xrFVTBIgcBtTig</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rb13145</param>
-      <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb00484" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Мисс Пигги 40 см Арт. C_Rb00484</name>
@@ -151,54 +199,6 @@
       <param name="Производитель">Rosa Prima</param>
       <param name="Артикул">Rb01736</param>
       <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
-    </offer>
-    <offer id="C_Rb12287" available="true">
-      <name>Пачка (15 шт.) Роза одноголовая Пич Авалаш Кремовый 70 см Арт. C_Rb12287</name>
-      <categoryId>1</categoryId>
-      <price>1355</price>
-      <picture>https://lh3.googleusercontent.com/d/1kl7mo__WOAwkIB2aHxZrO44IMADInh37</picture>
-      <picture>https://lh3.googleusercontent.com/d/14eDwHQ7oFQ5copJ3C5bSTJYlqVENOy67</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zvMRzA-mQESIBUNfD52f_EOIJdE_gK7B</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 15 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мир Цветов</param>
-      <param name="Артикул">Rb12287</param>
-      <consist name="Роза одноголовая Пич Авалаш" unit="шт">15</consist>
-    </offer>
-    <offer id="C_Rb12266" available="true">
-      <name>Пачка (20 шт.) Роза одноголовая Ревивал Розовый 60 см Арт. C_Rb12266</name>
-      <categoryId>1</categoryId>
-      <price>1505</price>
-      <picture>https://lh3.googleusercontent.com/d/1dWF9l_HTO4HiZW99UK2vUGszT5q9umjA</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VT9af-ExC9wFEfM8eSEP3FoLDtlmZSyV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1euuvT3UG3oR-FxOKhttghGyNgB4yZh-Y</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Rb12266</param>
-      <consist name="Роза одноголовая Ревивал" unit="шт">20</consist>
-    </offer>
-    <offer id="C_Rb13007" available="true">
-      <name>Пачка (20 шт.) Роза одноголовая Ред Наоми 70 см Арт. C_Rb13007</name>
-      <categoryId>1</categoryId>
-      <price>1960</price>
-      <picture>https://lh3.googleusercontent.com/d/1bGM7uFtLtGnlWOuH6xTYju4vku83ex0i</picture>
-      <picture>https://lh3.googleusercontent.com/d/11nanyPNfdhhz5lsZwrN2a6fjJprAM9C_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DZs_NERajKlMeoBxGdxEyC-uVg-sUPwo</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Rb13007</param>
-      <consist name="Роза одноголовая Ред Наоми" unit="шт">20</consist>
     </offer>
     <offer id="C_Rb14015" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Скайвард 50 см Арт. C_Rb14015</name>
@@ -244,6 +244,54 @@
       <param name="Артикул">Rb14727</param>
       <consist name="Роза одноголовая пионовидная Мондиаль" unit="шт">25</consist>
     </offer>
+    <offer id="C_Rb11724" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Розовый 40 см Арт. C_Rb11724</name>
+      <categoryId>1</categoryId>
+      <price>1575</price>
+      <picture>https://lh3.googleusercontent.com/d/1H9si7V6BuObYyPBKAlVUqVpEC3WI56uj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kX62sRoN9oXtK1vp2rnJLybW_GMX7i08</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dexC3A27SqRbdzaYJo6lRK73jJZq6x9d</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb11724</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb11866" available="true">
+      <name>Пачка (5 шт.) Роза кустовая Розовый 60 см Арт. C_Rb11866</name>
+      <categoryId>1</categoryId>
+      <price>2185</price>
+      <picture>https://lh3.googleusercontent.com/d/1IDgmfRObdIIM4th8QfW8E9XAnBSn7inC</picture>
+      <picture>https://lh3.googleusercontent.com/d/134CG29mgvMU-WZxk-oY4IgpeOw7v2si_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nJXQF-kObDluWYd45IIWOr8xB83DQGMK</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb11866</param>
+      <consist name="Роза кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="C_Rb13284" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Кремовый 40 см Арт. C_Rb13284</name>
+      <categoryId>1</categoryId>
+      <price>1575</price>
+      <picture>https://lh3.googleusercontent.com/d/1Nu8MdLtGnoOUzefvHy0qXCpgH7xe98vn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Okn2ctWTAz-kG6-19jZ7Kjm3rhu3me-v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M_DpNT21zVlneZ1YB70AF-NAsfWT5HHm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13284</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="C_Rb8215" available="true">
       <name>Пачка (10 шт.) Роза кустовая Беларусь 50 см Арт. C_Rb8215</name>
       <categoryId>1</categoryId>
@@ -259,38 +307,6 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb8215</param>
       <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
-    </offer>
-    <offer id="C_Rb11724" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Лавли Лидия Розовый 40 см Арт. C_Rb11724</name>
-      <categoryId>1</categoryId>
-      <price>1575</price>
-      <picture>https://lh3.googleusercontent.com/d/1H9si7V6BuObYyPBKAlVUqVpEC3WI56uj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kX62sRoN9oXtK1vp2rnJLybW_GMX7i08</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dexC3A27SqRbdzaYJo6lRK73jJZq6x9d</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">40</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rb11724</param>
-      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
-    </offer>
-    <offer id="C_Rb11866" available="true">
-      <name>Пачка (5 шт.) Роза кустовая Микс Розовые Розовый 60 см Арт. C_Rb11866</name>
-      <categoryId>1</categoryId>
-      <price>2185</price>
-      <picture>https://lh3.googleusercontent.com/d/1IDgmfRObdIIM4th8QfW8E9XAnBSn7inC</picture>
-      <picture>https://lh3.googleusercontent.com/d/134CG29mgvMU-WZxk-oY4IgpeOw7v2si_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nJXQF-kObDluWYd45IIWOr8xB83DQGMK</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мир Цветов</param>
-      <param name="Артикул">Rb11866</param>
-      <consist name="Роза кустовая Микс Розовые" unit="шт">5</consist>
     </offer>
     <offer id="C_Rb04265" available="true">
       <name>Пачка (10 шт.) Роза кустовая Софи 50 см Арт. C_Rb04265</name>
@@ -323,22 +339,6 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb6506</param>
       <consist name="Роза кустовая Таня" unit="шт">10</consist>
-    </offer>
-    <offer id="C_Rb13284" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Яна Кремовый 40 см Арт. C_Rb13284</name>
-      <categoryId>1</categoryId>
-      <price>1575</price>
-      <picture>https://lh3.googleusercontent.com/d/1Nu8MdLtGnoOUzefvHy0qXCpgH7xe98vn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Okn2ctWTAz-kG6-19jZ7Kjm3rhu3me-v</picture>
-      <picture>https://lh3.googleusercontent.com/d/1M_DpNT21zVlneZ1YB70AF-NAsfWT5HHm</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">40</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rb13284</param>
-      <consist name="Роза кустовая Яна" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb04366" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Бомбастик 60 см Арт. C_Rb04366</name>
@@ -484,7 +484,7 @@
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb11437" available="true">
-      <name>Пачка (5 шт.) Хризантема кустовая Делигрин Зелёный 70 см Арт. C_Rb11437</name>
+      <name>Пачка (5 шт.) Хризантема кустовая Зелёный 70 см Арт. C_Rb11437</name>
       <categoryId>1</categoryId>
       <price>580</price>
       <picture>https://lh3.googleusercontent.com/d/1wpFsJDoFLERpxNbv8xysa89253TVUlP3</picture>
@@ -497,10 +497,26 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Sen Zaro</param>
       <param name="Артикул">Rb11437</param>
-      <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="C_Rb10805" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Маверик 55 см Арт. C_Rb10805</name>
+      <categoryId>1</categoryId>
+      <price>3440</price>
+      <picture>https://lh3.googleusercontent.com/d/1f-u_G7JAAx6cYnTJyiUPlBAY_sVonywR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U4UYsmtehJLHOwB_NXtVTXJsoidRGzRz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zSnoJRMrJzXqg91_AGWMV3sDBZ1vlJ2y</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb10805</param>
+      <consist name="Хризантема Сантини Маверик" unit="шт">25</consist>
     </offer>
     <offer id="C_Rb11485" available="true">
-      <name>Пачка (25 шт.) Хризантема Сантини Помпон Микс Разноцветный 55 см Арт. C_Rb11485</name>
+      <name>Пачка (25 шт.) Хризантема Сантини Помпони микс 55 см Арт. C_Rb11485</name>
       <categoryId>1</categoryId>
       <price>3440</price>
       <picture>https://lh3.googleusercontent.com/d/1LE0uK8MptT0D3LF79HCSMz7qJCqjR6qi</picture>
@@ -513,7 +529,7 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rb11485</param>
-      <consist name="Хризантема Сантини Помпон Микс" unit="шт">25</consist>
+      <consist name="Хризантема Сантини Помпони микс" unit="шт">25</consist>
     </offer>
     <offer id="C_Rb9335" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 55 см Арт. C_Rb9335</name>
@@ -530,22 +546,6 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Rb9335</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
-    </offer>
-    <offer id="C_Rb10805" available="true">
-      <name>Пачка (25 шт.) Хризантема Сантини Сан Маверик 55 см Арт. C_Rb10805</name>
-      <categoryId>1</categoryId>
-      <price>3440</price>
-      <picture>https://lh3.googleusercontent.com/d/1f-u_G7JAAx6cYnTJyiUPlBAY_sVonywR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1U4UYsmtehJLHOwB_NXtVTXJsoidRGzRz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zSnoJRMrJzXqg91_AGWMV3sDBZ1vlJ2y</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">55</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Rb10805</param>
-      <consist name="Хризантема Сантини Сан Маверик" unit="шт">25</consist>
     </offer>
     <offer id="C_Rb03635" available="true">
       <name>Пачка (10 шт.) Антирринум Белый 50 см Арт. C_Rb03635</name>
@@ -579,7 +579,7 @@
       <consist name="Астильба Эрика" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb10256" available="true">
-      <name>Пачка (10 шт.) Астранция Розе Стар Фиолетовый 60 см Арт. C_Rb10256</name>
+      <name>Пачка (10 шт.) Астранция Фиолетовый 60 см Арт. C_Rb10256</name>
       <categoryId>1</categoryId>
       <price>760</price>
       <picture>https://lh3.googleusercontent.com/d/1iH7NnKaR8c_SSo3CoHQ5m0hf3Ox035-X</picture>
@@ -591,10 +591,10 @@
       <param name="Ширина, см">15</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb10256</param>
-      <consist name="Астранция Розе Стар" unit="шт">10</consist>
+      <consist name="Астранция" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb12804" available="true">
-      <name>Пачка (10 шт.) Гвоздика кустовая Moonpearl 40 см Арт. C_Rb12804</name>
+      <name>Пачка (10 шт.) Гвоздика кустовая 40 см Арт. C_Rb12804</name>
       <categoryId>1</categoryId>
       <price>685</price>
       <picture>https://lh3.googleusercontent.com/d/1Izp5tnrswTYAEvNXW42zVW_1NAKEK9I5</picture>
@@ -607,7 +607,7 @@
       <param name="Страна">уточняется</param>
       <param name="Производитель">Fl Rigene Suntory</param>
       <param name="Артикул">Rb12804</param>
-      <consist name="Гвоздика кустовая Moonpearl" unit="шт">10</consist>
+      <consist name="Гвоздика кустовая" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb02136" available="true">
       <name>Пачка (10 шт.) Гвоздика одноголовая Барбатус 60 см Арт. C_Rb02136</name>
@@ -716,7 +716,7 @@
       <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb12916" available="true">
-      <name>Пачка (10 шт.) Роза Нотр Дам 60 см Арт. C_Rb12916</name>
+      <name>Пачка (10 шт.) Роза 60 см Арт. C_Rb12916</name>
       <categoryId>1</categoryId>
       <price>1055</price>
       <picture>https://lh3.googleusercontent.com/d/1SmVqvLhVQvBRRY8Xq9ckmi_F0yc1_Sz0</picture>
@@ -729,7 +729,7 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Мордовия</param>
       <param name="Артикул">Rb12916</param>
-      <consist name="Роза Нотр Дам" unit="шт">10</consist>
+      <consist name="Роза" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb00596" available="true">
       <name>Пачка (25 шт.) Танацетум Белый 60 см Арт. C_Rb00596</name>
