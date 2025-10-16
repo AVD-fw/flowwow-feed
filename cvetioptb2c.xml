@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T13:20:42.629+03:00">
+<yml_catalog date="2025-10-16T13:29:15.980+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -287,6 +287,21 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Fa01317</param>
       <consist name="Хризантема одноголовая Алемани" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Fa17008" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Алибаба 85 см Арт. C_Fa17008</name>
+      <categoryId>1</categoryId>
+      <price>1900</price>
+      <picture>https://lh3.googleusercontent.com/d/123mh56HFpmM0Zc4TAEoFJHJydQ_B_apb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xt_TtvYjf050a-ftZJ4Sv0pCNF6z_36U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rwgb46SgRo4F9izigP3yUpBUySL1gw8N</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">85</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Rich Luxury Flowers</param>
+      <param name="Артикул">Fa17008</param>
+      <consist name="Хризантема одноголовая Алибаба" unit="шт">10</consist>
     </offer>
     <offer id="C_Fa01487" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Бразильяна 70 см Арт. C_Fa01487</name>
