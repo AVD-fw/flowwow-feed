@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T12:29:48.631+03:00">
+<yml_catalog date="2025-10-16T12:39:51.257+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -229,6 +229,20 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb15014</param>
       <consist name="Роза одноголовая Скайвард" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb14727" available="true">
+      <name>Пачка (25 шт.) Роза одноголовая пионовидная Мондиаль 70 см Арт. C_Rb14727</name>
+      <categoryId>1</categoryId>
+      <price>4210</price>
+      <picture>https://lh3.googleusercontent.com/d/14ApV-CfKw2DFjMcqK686aTOdxxFlO1G4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vaAkxsOMMbTKHcaxYUjx7GnoIQDuvR9P</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosa Prima</param>
+      <param name="Артикул">Rb14727</param>
+      <consist name="Роза одноголовая пионовидная Мондиаль" unit="шт">25</consist>
     </offer>
     <offer id="C_Rb8215" available="true">
       <name>Пачка (10 шт.) Роза кустовая Беларусь 50 см Арт. C_Rb8215</name>
