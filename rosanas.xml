@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T11:08:24.764+03:00">
+<yml_catalog date="2025-10-16T11:19:08.108+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,23 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rb13304" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш Белый 40 см Арт. Rb13304</name>
+      <price>47</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yEaPTL7F1iskFIKMXVKT9JYsDsjDloDE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C7PFnw_B_61Z6-sKRYE53RVl1goMd_7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/14uTHLItcbJ41DEEcwS6ivof0pW6a8jY-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tvZP2rFu30Z7tBsvX-J5Zzvpb3CQ-H2k</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13304</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
     <offer id="Rb12247" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква Розовый 70 см Арт. Rb12247</name>
@@ -52,6 +69,24 @@
       <param name="Артикул">Rb12326</param>
       <consist name="Роза одноголовая Аква" unit="шт">20</consist>
     </offer>
+    <offer id="Rb12297" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия Розовый 70 см Арт. Rb12297</name>
+      <price>123</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AaRX_Muf917XuEuz-wAR3CW7lyqskmp3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GppBZfDWfE_ZqjvGux1Sqwnhv_JubuEt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ykAWyluHdZkBxnXmkrOM_aJdwuR6FBzK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mQPEOfk2hxhrek3iennMSCekOReF0SHf</picture>
+      <picture>https://lh3.googleusercontent.com/d/16RHdamSUyhwmx0WticZuKYP3_BZISdxM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Rb12297</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
     <offer id="Rb9496" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Зайна 60 см Арт. Rb9496</name>
@@ -83,6 +118,24 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb13114</param>
       <consist name="Роза одноголовая Испания" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb13145" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кон Аморе Красный 50 см Арт. Rb13145</name>
+      <price>61</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LZ7Z9JdavBUQHqGODAwr74zflTqAHZuG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w4b1haaXwi1wK_s1FbVZGLkfcW04nEtD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SXNQ_UwKYuhCorBaU1xrFVTBIgcBtTig</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dzHAr7AgfBOAkN1qxYwnHNTWF6jmJ_mM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s7XWXTL2J0ePrr6dQIiHcmdaj2X4hhSm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13145</param>
+      <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
     </offer>
     <offer id="Rb00484" available="true">
       <categoryId>1</categoryId>
@@ -120,11 +173,28 @@
       <param name="Артикул">Rb01736</param>
       <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
     </offer>
+    <offer id="Rb12287" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пич Авалаш Кремовый 70 см Арт. Rb12287</name>
+      <price>82</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GttPMMWX24oSwGFzN3oZN-QtbUSDSXHI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zvMRzA-mQESIBUNfD52f_EOIJdE_gK7B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pPvXfPrMcjGOtNExFO2xrE2Tuoif_mon</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dxZ5wRFXTATwklsCWtgew9UU3icZVeED</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb12287</param>
+      <consist name="Роза одноголовая Пич Авалаш" unit="шт">15</consist>
+    </offer>
     <offer id="Rb12266" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ревивал Розовый 60 см Арт. Rb12266</name>
       <price>69</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12s5p0ciWevkXt_zj0uB3mGxSiy0ZvdGV</picture>
       <picture>https://lh3.googleusercontent.com/d/1s21j2ZLfrnrqBMouHsRSCrl18e4g6Day</picture>
@@ -142,7 +212,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ред Наоми 70 см Арт. Rb13007</name>
       <price>89</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lTVkjUBwtYxvN8BGVQdRaJoRNdmq1hBh</picture>
       <picture>https://lh3.googleusercontent.com/d/1DZs_NERajKlMeoBxGdxEyC-uVg-sUPwo</picture>
@@ -174,7 +244,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Скайвард 40 см Арт. Rb15014</name>
       <price>61</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jyYiU_nM8pi-vJaSsZJTFe5jRGbGr2QA</picture>
       <picture>https://lh3.googleusercontent.com/d/1aBT2ypdS3ul-kngyRoPPpKyq7epNTyD3</picture>
@@ -189,7 +259,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Мондиаль 70 см Арт. Rb14727</name>
       <price>153</price>
-      <qty>25</qty>
+      <qty>300</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pVdGBkDwAWXs-aLE9Ne7AqZLWGC9JSY4</picture>
       <picture>https://lh3.googleusercontent.com/d/1WW9nx8imrxmYxAssHTJxDTqmHExyiQKk</picture>
