@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T10:48:22.805+03:00">
+<yml_catalog date="2025-10-16T10:58:33.840+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -326,7 +326,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Софи 50 см Арт. Rb04265</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1FREErxuJX9hF2Yz0QYtzOcOS8enAQCyp</picture>
       <picture>https://lh3.googleusercontent.com/d/1kbaIeOqVwFaahxoCFl5wuH3T2SeiB4eT</picture>
@@ -344,7 +344,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Таня 60 см Арт. Rb6506</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xfyUd63bmtT0lXCcxJIQ4NRptegfI1Xi</picture>
       <picture>https://lh3.googleusercontent.com/d/1HJC_G8Dyj4_5PwZHH5b4l2sBFAzH-FGk</picture>
@@ -754,6 +754,20 @@
       <param name="Артикул">Rb02136</param>
       <consist name="Гвоздика одноголовая Барбатус" unit="шт">10</consist>
     </offer>
+    <offer id="Rb02375" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Грин Трик 50 см Арт. Rb02375</name>
+      <price>165</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vYISysej4bRqASYRRpfFJv7FbzFETfFI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PZarXx5EKab3xxTUEqjxqyhm1TLlAW_P</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Турция</param>
+      <param name="Артикул">Rb02375</param>
+      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
+    </offer>
     <offer id="Rb02095" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кристало 50 см Арт. Rb02095</name>
@@ -1119,6 +1133,21 @@
       <param name="Артикул">Rb9617</param>
       <consist name="Эустома Алиса Блю" unit="шт">10</consist>
     </offer>
+    <offer id="Rb8967" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Вайт 70 см Арт. Rb8967</name>
+      <price>199</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AXJ-2IJIvAHUldkGoswAmT2N6jnRZ6iE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O05QieTG1FxVI8FB3r_07KrDOjsxsXSi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb8967</param>
+      <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Rb8287" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Лайт Пинк 70 см Арт. Rb8287</name>
@@ -1258,6 +1287,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01588</param>
       <consist name="Крокосмия Бест фаир кинг" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb3407" available="true">
+      <categoryId>38</categoryId>
+      <name>Лимониум Фиолетовый 70 см Арт. Rb3407</name>
+      <price>125</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hG5HvBuzQoTSxaq2f33mUP6f_ybwzCcS</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Lm31J3IvPb6mPkxbc1NNyc9fkX5366f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P4gUBV-957l9jsqMq-uTYp-GCmA_7hUm</picture>
+      <picture>https://lh3.googleusercontent.com/d/13lEuajCwU8-Eg1D0UL3IFOrKUKlI3gw6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1odK8AW2Q8qY88i79vk5rhogn22IqyDDr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb3407</param>
+      <consist name="Лимониум" unit="шт">25</consist>
     </offer>
     <offer id="Rb01206" available="true">
       <categoryId>38</categoryId>
