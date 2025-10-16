@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T21:19:47.716+03:00">
+<yml_catalog date="2025-10-16T21:29:57.958+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -244,38 +244,6 @@
       <param name="Артикул">Rb14727</param>
       <consist name="Роза одноголовая пионовидная Мондиаль" unit="шт">25</consist>
     </offer>
-    <offer id="C_Rb11724" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Розовый 40 см Арт. C_Rb11724</name>
-      <categoryId>1</categoryId>
-      <price>1575</price>
-      <picture>https://lh3.googleusercontent.com/d/1H9si7V6BuObYyPBKAlVUqVpEC3WI56uj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kX62sRoN9oXtK1vp2rnJLybW_GMX7i08</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dexC3A27SqRbdzaYJo6lRK73jJZq6x9d</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">40</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rb11724</param>
-      <consist name="Роза кустовая" unit="шт">10</consist>
-    </offer>
-    <offer id="C_Rb11866" available="true">
-      <name>Пачка (5 шт.) Роза кустовая Розовый 60 см Арт. C_Rb11866</name>
-      <categoryId>1</categoryId>
-      <price>2185</price>
-      <picture>https://lh3.googleusercontent.com/d/1IDgmfRObdIIM4th8QfW8E9XAnBSn7inC</picture>
-      <picture>https://lh3.googleusercontent.com/d/134CG29mgvMU-WZxk-oY4IgpeOw7v2si_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nJXQF-kObDluWYd45IIWOr8xB83DQGMK</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мир Цветов</param>
-      <param name="Артикул">Rb11866</param>
-      <consist name="Роза кустовая" unit="шт">5</consist>
-    </offer>
     <offer id="C_Rb13284" available="true">
       <name>Пачка (10 шт.) Роза кустовая Кремовый 40 см Арт. C_Rb13284</name>
       <categoryId>1</categoryId>
@@ -307,6 +275,38 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb8215</param>
       <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb11724" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Лавли Лидия 40 см Арт. C_Rb11724</name>
+      <categoryId>1</categoryId>
+      <price>1575</price>
+      <picture>https://lh3.googleusercontent.com/d/1H9si7V6BuObYyPBKAlVUqVpEC3WI56uj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kX62sRoN9oXtK1vp2rnJLybW_GMX7i08</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dexC3A27SqRbdzaYJo6lRK73jJZq6x9d</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb11724</param>
+      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb11866" available="true">
+      <name>Пачка (5 шт.) Роза кустовая Микс Розовые 60 см Арт. C_Rb11866</name>
+      <categoryId>1</categoryId>
+      <price>2185</price>
+      <picture>https://lh3.googleusercontent.com/d/1IDgmfRObdIIM4th8QfW8E9XAnBSn7inC</picture>
+      <picture>https://lh3.googleusercontent.com/d/134CG29mgvMU-WZxk-oY4IgpeOw7v2si_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nJXQF-kObDluWYd45IIWOr8xB83DQGMK</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb11866</param>
+      <consist name="Роза кустовая Микс Розовые" unit="шт">5</consist>
     </offer>
     <offer id="C_Rb04265" available="true">
       <name>Пачка (10 шт.) Роза кустовая Софи 50 см Арт. C_Rb04265</name>
@@ -484,7 +484,7 @@
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb11437" available="true">
-      <name>Пачка (5 шт.) Хризантема кустовая Зелёный 70 см Арт. C_Rb11437</name>
+      <name>Пачка (5 шт.) Хризантема кустовая Делегрин 70 см Арт. C_Rb11437</name>
       <categoryId>1</categoryId>
       <price>580</price>
       <picture>https://lh3.googleusercontent.com/d/1wpFsJDoFLERpxNbv8xysa89253TVUlP3</picture>
@@ -497,7 +497,7 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Sen Zaro</param>
       <param name="Артикул">Rb11437</param>
-      <consist name="Хризантема кустовая" unit="шт">5</consist>
+      <consist name="Хризантема кустовая Делегрин" unit="шт">5</consist>
     </offer>
     <offer id="C_Rb10805" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Маверик 55 см Арт. C_Rb10805</name>
