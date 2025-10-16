@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T12:25:53.124+03:00">
+<yml_catalog date="2025-10-16T12:35:59.481+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -132,8 +132,8 @@
       <param name="Артикул">Ea4257</param>
       <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
     </offer>
-    <offer id="C_Ea379" available="true">
-      <name>Пачка (5 шт.) Хризантема кустовая Хайдар 50 см Арт. C_Ea379</name>
+    <offer id="C_Ea3797" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Хайдар 70 см Арт. C_Ea3797</name>
       <categoryId>1</categoryId>
       <price>495</price>
       <picture>https://lh3.googleusercontent.com/d/11Y_qOsaNhdkbZH0-x6bHdQkAPrD9ls4R</picture>
@@ -141,11 +141,11 @@
       <picture>https://lh3.googleusercontent.com/d/1oCzrGxa9pa8HY6rMhTeGcj441URP6TsD</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ea379</param>
+      <param name="Артикул">Ea3797</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
     </offer>
     <offer id="C_Ea2606" available="true">
@@ -480,21 +480,6 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Ea00458</param>
       <consist name="Солидаго" unit="шт">25</consist>
-    </offer>
-    <offer id="C_Ea01205" available="true">
-      <name>Пачка (10 шт.) Эрингиум Синий 50 см Арт. C_Ea01205</name>
-      <categoryId>1</categoryId>
-      <price>1925</price>
-      <picture>https://lh3.googleusercontent.com/d/1_cS20aF5_fMbDydqiQCFRG4g_0O1x9id</picture>
-      <picture>https://lh3.googleusercontent.com/d/1o0icFnNU2rSM-9aK_q1tlowqTw1AnFso</picture>
-      <picture>https://lh3.googleusercontent.com/d/12c43KUu2iJSpRUyxgY3fAYPu0KAcfFaB</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
-Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ea01205</param>
-      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
