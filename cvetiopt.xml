@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T08:25:37.886+03:00">
+<yml_catalog date="2025-10-16T08:35:53.896+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,23 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fa7837" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Плайя Бланка 70 см Арт. Fa7837</name>
+      <price>182</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yMTmLUfqBKu4-tcK6blxbaSUr-v1NLrB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E6tgF15CcevwoNNhIxg5ZShZsJIsNh4O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RecqPapwa_St0PgW9jhpDVq8NInryo5t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a6BaGvWrwpapLUD2UOxJCZ7igPPecThk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rose prime</param>
+      <param name="Артикул">Fa7837</param>
+      <consist name="Роза одноголовая Плайя Бланка" unit="шт">25</consist>
+    </offer>
     <offer id="Fa04357" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бордовый 70 см Арт. Fa04357</name>
@@ -49,6 +66,24 @@
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fa8847</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Fa15717" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая 70 см Арт. Fa15717</name>
+      <price>220</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MCRDiRs3I9FQPiffJq6sXvXWIEEajQxV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iQ8SC-2OYJaU2P-Q2Ha_AzAEpJXm0ZGJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C5u72iqm1txtgujuHBrTFj8C4JiGHTrb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n60JJbW6W5j-PstS36gi7AKxVg3h2KZy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i16X7aq8EooknVL6lrCeJmIMpld5yB4u</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fa15717</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
     <offer id="Fa01317" available="true">
@@ -175,7 +210,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Fa00857</name>
       <price>134</price>
-      <qty>5</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YXvwQpSE-LuI9LHzPgQFDkqty0DvpN3O</picture>
       <picture>https://lh3.googleusercontent.com/d/1SvdWipCzCkpP6kjPI-8Vz7vsHBbdlit1</picture>
@@ -193,7 +228,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Еллоу 70 см Арт. Fa13707</name>
       <price>105</price>
-      <qty>5</qty>
+      <qty>75</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UDWGZEk4opB4FYgiXk52ORyPaDMhFfRI</picture>
       <picture>https://lh3.googleusercontent.com/d/1XRJLj5r6lqP86tb7JdZLLyR7vPZ-qsGN</picture>
@@ -211,7 +246,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер 70 см Арт. Fa00877</name>
       <price>105</price>
-      <qty>5</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1IiyPHRzoXGV3CtiDADEEHXRwkjoEj0vB</picture>
       <picture>https://lh3.googleusercontent.com/d/1Vh_J15xhX4xKhUxdohGG7xGDIAK2TRWr</picture>
@@ -265,7 +300,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Рианна 70 см Арт. Fa00937</name>
       <price>105</price>
-      <qty>5</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Sl8-QBX__32GWKihEqlycF0GppUP47uO</picture>
       <picture>https://lh3.googleusercontent.com/d/1brOjd8GAuSpsqmMwy87WbcJI_dM-c2Ok</picture>
@@ -278,6 +313,21 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Fa00937</param>
       <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
+    </offer>
+    <offer id="Fa15598" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Коричневый 80 см Арт. Fa15598</name>
+      <price>81</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1olN1gotgvOKiqSJE3iXTWAopBBxs6--9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1elViZKO-gazj8FUKU5T3lfz3QKlC32Y3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fa15598</param>
+      <consist name="Хризантема Сантини" unit="шт">10</consist>
     </offer>
     <offer id="Fa01055" available="true">
       <categoryId>7</categoryId>
@@ -369,6 +419,24 @@
       <param name="Артикул">Fa12085</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
+    <offer id="Fa11085" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Санни 55 см Арт. Fa11085</name>
+      <price>81</price>
+      <qty>200</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1txsX9LkdK3TeppQSb3v6XVrCerXXIJ54</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J-WN8dwCl-DEtXSCIehF6gPKBhuum9sS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nHaL-xI_nFi4N5GmIF1qJGRUOJUx18o1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a5xyhZeyRTGjj51uZW15M-kQ365lBpvR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o8wNZf3nG6fP4AM0PQBn8Bq7EQBjnYm7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Fa11085</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
     <offer id="Fa13475" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Сан Ап 55 см Арт. Fa13475</name>
@@ -387,11 +455,26 @@
       <param name="Артикул">Fa13475</param>
       <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
     </offer>
+    <offer id="Fa16985" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Элисон Пинк 55 см Арт. Fa16985</name>
+      <price>81</price>
+      <qty>175</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/176Kxp0ne8Ln3BaP3VE2N-Dr1wgZfclSk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BJ3ci2YLQqaALtn7p5RFOfOQ7s1VH0rj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fa16985</param>
+      <consist name="Хризантема Сантини Элисон Пинк" unit="шт">25</consist>
+    </offer>
     <offer id="Fa5726" available="true">
       <categoryId>37</categoryId>
       <name>Антирринум Белый 60 см Арт. Fa5726</name>
       <price>132</price>
-      <qty>10</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1179vYGJeZ2bWALxNo-LaKW7YuHrDHfCB</picture>
       <picture>https://lh3.googleusercontent.com/d/1BygdJhGe1HwA7EKN9rD2hLIuTJBDR8FQ</picture>
@@ -1160,6 +1243,23 @@
       <param name="Артикул">Fa01915</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
+    <offer id="Fa14314" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Кремовый 40 см Арт. Fa14314</name>
+      <price>77</price>
+      <qty>250</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ibCHdSonosOksMQBJxkyMTMWniKrqXqp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bC-NaxoGBqCLH-hhg3zWasH-tGPH0eJA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WunYqLzkTw3rfWr5uS2cb2JQB_NJtj3S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JcBAJLRb7zkRw5zEFyY3L3hU9Q-EKyey</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NC5-l49ciHEOUhUQlon-xTrboza1EnS1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fa14314</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
     <offer id="Fa9624" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Дубль прайс 40 см Арт. Fa9624</name>
@@ -1193,6 +1293,20 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Fa04784</param>
       <consist name="Тюльпан Колумбус" unit="шт">50</consist>
+    </offer>
+    <offer id="Fa16964" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Стронг Голд 40 см Арт. Fa16964</name>
+      <price>77</price>
+      <qty>500</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HUbBDXwmrHZHU7H7r0Riu8Z-26IITC2d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LQUpaPWh3qbLG7jM3pNSSrVA6Ik5hSyK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fa16964</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
     </offer>
     <offer id="Fa15624" available="true">
       <categoryId>37</categoryId>
