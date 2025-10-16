@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T23:28:30.514+03:00">
+<yml_catalog date="2025-10-16T23:38:34.711+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -271,6 +271,23 @@
       <param name="Производитель">Rosa Prima</param>
       <param name="Артикул">Rb14727</param>
       <consist name="Роза одноголовая пионовидная Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb12916" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Нотр Дам 60 см Арт. Rb12916</name>
+      <price>96</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12gVWWpu9A7xH29krOICDA3waNIlzns8O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pNeBaimJEgniNeGOhJaq0-vYEKir5d7e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EoNHjrY-06ZM-TexxW00MaCMNJX3BATr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KwfFFu9K-ts1R7laApTuQPZ1_eWQaist</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мордовия</param>
+      <param name="Артикул">Rb12916</param>
+      <consist name="Роза одноголовая пионовидная Нотр Дам" unit="шт">10</consist>
     </offer>
     <offer id="Rb8215" available="true">
       <categoryId>3</categoryId>
@@ -1013,23 +1030,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01896</param>
       <consist name="Протея Сунароидес" unit="шт">1</consist>
-    </offer>
-    <offer id="Rb12916" available="true">
-      <categoryId>37</categoryId>
-      <name>Роза Нотр Дам 60 см Арт. Rb12916</name>
-      <price>96</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12gVWWpu9A7xH29krOICDA3waNIlzns8O</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pNeBaimJEgniNeGOhJaq0-vYEKir5d7e</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EoNHjrY-06ZM-TexxW00MaCMNJX3BATr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KwfFFu9K-ts1R7laApTuQPZ1_eWQaist</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Мордовия</param>
-      <param name="Артикул">Rb12916</param>
-      <consist name="Роза Нотр Дам" unit="шт">10</consist>
     </offer>
     <offer id="Rb12708" available="true">
       <categoryId>37</categoryId>
