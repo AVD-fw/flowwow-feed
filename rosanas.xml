@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T09:08:21.633+03:00">
+<yml_catalog date="2025-10-16T09:18:17.852+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -382,6 +382,21 @@
       <param name="Производитель">Mugnum</param>
       <param name="Артикул">Rb10789</param>
       <consist name="Лилия LA LITOUWEN" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb14788" available="true">
+      <categoryId>37</categoryId>
+      <name>Лимониум Тифани Диам 80 см Арт. Rb14788</name>
+      <price>149</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GG1guj0XvH_foFgS4tncveWyOysml4iF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KmkTBoht2pXoBeeqmGKV6onDxSpF4pXR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">San Pro Blooms</param>
+      <param name="Артикул">Rb14788</param>
+      <consist name="Лимониум Тифани Диам" unit="шт">25</consist>
     </offer>
     <offer id="Rb01106" available="true">
       <categoryId>37</categoryId>
