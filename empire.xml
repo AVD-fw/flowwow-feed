@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16T11:44:04.418+03:00">
+<yml_catalog date="2025-10-16T11:54:08.187+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -115,6 +115,23 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ea00916</param>
       <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
+    </offer>
+    <offer id="Ea2807" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер 70 см Арт. Ea2807</name>
+      <price>90</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1V-nNS4tOvOYn_Yg8pIi-H6AKiuByzVfA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U__FE9pdb4ODcNOFItd0UMVwHO-oxzKq</picture>
+      <picture>https://lh3.googleusercontent.com/d/17RssPfHkLCOmWfwIofWGk_0vgs3gQ0_k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KL3hst7HBnMs1dFu-Nno8mM3WshmGlGT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ea2807</param>
+      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
     </offer>
     <offer id="Ea00886" available="true">
       <categoryId>6</categoryId>
