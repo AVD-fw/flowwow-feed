@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-17T15:38:31.696+03:00">
+<yml_catalog date="2025-10-17T15:48:27.606+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 60 см Арт. Rb12326</name>
       <price>82</price>
-      <qty>20</qty>
+      <qty>80</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17HvXTHpeskOCUOa9mSBvNrK41Ca4dy0k</picture>
       <picture>https://lh3.googleusercontent.com/d/1tXVbrXxTBi4vsbogZvAnc3qPjmGuApXM</picture>
@@ -143,7 +143,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Софи 50 см Арт. Rb04265</name>
       <price>274</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Y40-lxOwbbjkUtt_CrBygyVotnm9PrSk</picture>
       <picture>https://lh3.googleusercontent.com/d/1-eF1TPlKew-20IK-oZGGFWlTwghzrW_D</picture>
@@ -161,7 +161,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Таня 60 см Арт. Rb6506</name>
       <price>274</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XyF22dxOwa1HvVQwYR2cSyRIAgXiC5Tr</picture>
       <picture>https://lh3.googleusercontent.com/d/1XJqZaFg18YoZ8eWgI5KFdzWbQDLTr8_l</picture>
@@ -358,7 +358,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Тропикана 70 см Арт. Rb01527</name>
       <price>199</price>
-      <qty>30</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-DMwyEXimapeXPovDqcWvxV4fp_M3AQm</picture>
       <picture>https://lh3.googleusercontent.com/d/1PCfgpLuCwhaTSjmXrfrid1R8D4A8AzLP</picture>
@@ -408,21 +408,6 @@
       <param name="Артикул">Rb03635</param>
       <consist name="Антирринум" unit="шт">10</consist>
     </offer>
-    <offer id="Rb02375" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Грин Трик 50 см Арт. Rb02375</name>
-      <price>165</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1egz_uxebL-Ywy3XE__dWfz7n-HD4jik1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PZarXx5EKab3xxTUEqjxqyhm1TLlAW_P</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vYISysej4bRqASYRRpfFJv7FbzFETfFI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Турция</param>
-      <param name="Артикул">Rb02375</param>
-      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
-    </offer>
     <offer id="Rb5369" available="true">
       <categoryId>37</categoryId>
       <name>Гидрангия Верена Роден 99 см Арт. Rb5369</name>
@@ -439,22 +424,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb5369</param>
       <consist name="Гидрангия Верена Роден" unit="шт">5</consist>
-    </offer>
-    <offer id="Rb00828" available="true">
-      <categoryId>37</categoryId>
-      <name>Гидрангия Верена Роуз 80 см Арт. Rb00828</name>
-      <price>735</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/11fjSZwTrXfVl-MM4JvRyod6AEsE4SAi3</picture>
-      <picture>https://lh3.googleusercontent.com/d/18CATbpCBpUY5sKzyjDQi9hu-ySVR8F1K</picture>
-      <picture>https://lh3.googleusercontent.com/d/1n45Fnodk-rUvpLgoCLaFBL1IfGsPggUa</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iImnnCFT6dyp36gJcqjKoHmxonKiEZF4</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rb00828</param>
-      <consist name="Гидрангия Верена Роуз" unit="шт">5</consist>
     </offer>
     <offer id="Rb14448" available="true">
       <categoryId>37</categoryId>
@@ -505,7 +474,7 @@
       <categoryId>37</categoryId>
       <name>Дельфиниум Дельфиниум Меджик Фонтан Лавандовый 60 см Арт. Rb7256</name>
       <price>205</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mY2iDse23-2-jc8942vWpKmBAy5pgV8S</picture>
       <picture>https://lh3.googleusercontent.com/d/1wd7bIzlKbYIcvGzav1AXREZee29zBwRG</picture>
@@ -539,7 +508,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. Rb01047</name>
       <price>119</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zUwL1maXji5UiyLu6Ti71E8pqa6x9ppW</picture>
       <picture>https://lh3.googleusercontent.com/d/1ew8x1QZBHsdnCY9LT4ocZrRJ8t7ntLcv</picture>
@@ -575,7 +544,7 @@
       <categoryId>37</categoryId>
       <name>Озотамнус Кукс Шоу Ви 80 см Арт. Rb5778</name>
       <price>165</price>
-      <qty>70</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KXv_rP33kVkyCmG4scMdQ5Y445HAjZip</picture>
       <picture>https://lh3.googleusercontent.com/d/1fabZ98PcONzliTeBptgbbOdWKquOopIz</picture>
@@ -609,7 +578,7 @@
       <categoryId>37</categoryId>
       <name>Протея Сунароидес 60 см Арт. Rb01896</name>
       <price>699</price>
-      <qty>4</qty>
+      <qty>1</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mRuAN4BrGRghLYGxDJ9G7D6_HlYpB9tJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1is-6DIC4N6t7YXk3TrliK9G6DPzE0TPH</picture>
@@ -626,7 +595,7 @@
       <categoryId>37</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. Rb5704</name>
       <price>480</price>
-      <qty>20</qty>
+      <qty>19</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GzISRf9MYf8czh4yKHXnnDrmf9n61XlX</picture>
       <picture>https://lh3.googleusercontent.com/d/1OFvKqPv_k7OxxQN3DuPSLvzN4x4VOVi1</picture>
@@ -660,7 +629,7 @@
       <categoryId>37</categoryId>
       <name>Танацетум Белый 60 см Арт. Rb00596</name>
       <price>90</price>
-      <qty>725</qty>
+      <qty>675</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gB3gi8YuYdDR1jxybO6C5l0NVg9wl7yj</picture>
       <picture>https://lh3.googleusercontent.com/d/1ssAmg0Lg-nvjyPo_sQvSk_kzvkM7GV_n</picture>
@@ -693,7 +662,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Голд 72 см Арт. Rb03207</name>
       <price>169</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10yBiDaSokXNlT6KPgLMXX8-_j6wJLQ29</picture>
       <picture>https://lh3.googleusercontent.com/d/1solk2v1vmD2uj3vrE9TMKv5MegdW5A6v</picture>
@@ -744,7 +713,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Флешинг 80 см Арт. Rb01288</name>
       <price>134</price>
-      <qty>65</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PR3t3AwyWi9nhdXJiuhoJ5RnTfXXO45a</picture>
       <picture>https://lh3.googleusercontent.com/d/1JsVaiNfkOx1AF7gvZw38z1uBoO8kX9Rm</picture>
@@ -844,7 +813,7 @@
       <categoryId>38</categoryId>
       <name>Аллиум Форелок 65 см Арт. Rb9916</name>
       <price>69</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RZ4ezbAQe2BRu8tMVcz8ZZ7OrFx-8otR</picture>
       <picture>https://lh3.googleusercontent.com/d/1bnvPv6HD0GmigC4ItxQNIg4R8PdcMedr</picture>
@@ -875,7 +844,7 @@
       <categoryId>38</categoryId>
       <name>Бруния Левис 40 см Арт. Rb3714</name>
       <price>115</price>
-      <qty>200</qty>
+      <qty>180</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AxSP9tMhabnak9K7abd3R-OFxZg9piJc</picture>
       <picture>https://lh3.googleusercontent.com/d/196eRSP0I8RTJmO1CiG59lPatSkbQKrM2</picture>
@@ -910,7 +879,7 @@
       <categoryId>38</categoryId>
       <name>Гиперикум Коко Казино 50 см Арт. Rb01235</name>
       <price>149</price>
-      <qty>80</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TqzDUpKq-eLMACOOi-qlBtHzHNNcDRq3</picture>
       <picture>https://lh3.googleusercontent.com/d/1SoWFWtWmM9jXuaVfhYgjE7dh15g1RMf0</picture>
@@ -928,7 +897,7 @@
       <categoryId>38</categoryId>
       <name>Картамус Занзибар 80 см Арт. Rb01328</name>
       <price>79</price>
-      <qty>120</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QRklaZ-q6XIMZmc93RyX5rlGYyTttZBT</picture>
       <picture>https://lh3.googleusercontent.com/d/151wV6zK7KFQKOOAvy1TO5IJVudpCKF1f</picture>
@@ -997,7 +966,7 @@
       <categoryId>38</categoryId>
       <name>Седум Спектибайл 60 см Арт. Rb01206</name>
       <price>59</price>
-      <qty>70</qty>
+      <qty>65</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1glSqigWt01zNs0Zi6Yg9RH30jIl4oIc_</picture>
       <picture>https://lh3.googleusercontent.com/d/1M6rteF4PNNCXWGjnTzVRXMbjgHsECKMr</picture>
