@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-17T15:48:27.606+03:00">
+<yml_catalog date="2025-10-17T15:58:23.348+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -75,7 +75,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пич Авалаш 70 см Арт. Rb12287</name>
       <price>82</price>
-      <qty>270</qty>
+      <qty>225</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yUIZyQ2lIfN0uWVAnB0OD9SIGCzhvSHH</picture>
       <picture>https://lh3.googleusercontent.com/d/1zvMRzA-mQESIBUNfD52f_EOIJdE_gK7B</picture>
@@ -408,6 +408,21 @@
       <param name="Артикул">Rb03635</param>
       <consist name="Антирринум" unit="шт">10</consist>
     </offer>
+    <offer id="Rb02375" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Грин Трик 50 см Арт. Rb02375</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1egz_uxebL-Ywy3XE__dWfz7n-HD4jik1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PZarXx5EKab3xxTUEqjxqyhm1TLlAW_P</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vYISysej4bRqASYRRpfFJv7FbzFETfFI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Турция</param>
+      <param name="Артикул">Rb02375</param>
+      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
+    </offer>
     <offer id="Rb5369" available="true">
       <categoryId>37</categoryId>
       <name>Гидрангия Верена Роден 99 см Арт. Rb5369</name>
@@ -425,11 +440,27 @@
       <param name="Артикул">Rb5369</param>
       <consist name="Гидрангия Верена Роден" unit="шт">5</consist>
     </offer>
+    <offer id="Rb00828" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Верена Роуз 80 см Арт. Rb00828</name>
+      <price>735</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11fjSZwTrXfVl-MM4JvRyod6AEsE4SAi3</picture>
+      <picture>https://lh3.googleusercontent.com/d/18CATbpCBpUY5sKzyjDQi9hu-ySVR8F1K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n45Fnodk-rUvpLgoCLaFBL1IfGsPggUa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iImnnCFT6dyp36gJcqjKoHmxonKiEZF4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb00828</param>
+      <consist name="Гидрангия Верена Роуз" unit="шт">5</consist>
+    </offer>
     <offer id="Rb14448" available="true">
       <categoryId>37</categoryId>
       <name>Гидрангия Пимпернел Класс 80 см Арт. Rb14448</name>
       <price>599</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1syB_ZPj4Cogt0foMQ8JlI3Z0Al62svn7</picture>
       <picture>https://lh3.googleusercontent.com/d/1-c_vspGLJlJL8BmePvxEfVirYM3Krr2I</picture>
@@ -460,7 +491,7 @@
       <categoryId>37</categoryId>
       <name>Дельфиниум 50 см Арт. Rb1058</name>
       <price>205</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10kQLclSELwVM68UV19QsUqMjKe1tONqo</picture>
       <picture>https://lh3.googleusercontent.com/d/1O9lmwst58evL0Vq3sErK1UE3K_yhettE</picture>
@@ -491,7 +522,7 @@
       <categoryId>37</categoryId>
       <name>Калла Капитан Розетте 80 см Арт. Rb6568</name>
       <price>189</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DaMeXuSoGuWmZNZjF9Ql2x0kRka4QhBU</picture>
       <picture>https://lh3.googleusercontent.com/d/13OOB9MSG5JCeRwOilUA6NzHyObc8qX1u</picture>
@@ -680,7 +711,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Оранж 72 см Арт. Rb7977</name>
       <price>169</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1p4mCN_ZeGen3_7HxTKTrrsyLP70Vgi5T</picture>
       <picture>https://lh3.googleusercontent.com/d/1tswrC208AHlOdY1HT1WFz5DUmZ7RrzXF</picture>
@@ -696,7 +727,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Роуз 72 см Арт. Rb11217</name>
       <price>155</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_fyzKgbvSfDbYsFMqk5EdM_QtHwFjqU8</picture>
       <picture>https://lh3.googleusercontent.com/d/1X5m790D2akYBOQy3nCzaHMdsWX7SGa7j</picture>
@@ -796,7 +827,7 @@
       <categoryId>37</categoryId>
       <name>Эуфорбия Квин оф ор 80 см Арт. Rb7998</name>
       <price>189</price>
-      <qty>30</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qd4xGTfqkk-3pvX9R2WWB1nLxpWTHf03</picture>
       <picture>https://lh3.googleusercontent.com/d/1vc60CkHGv_HdAs-8ZA49o6PKTZuGZNv3</picture>
@@ -861,7 +892,7 @@
       <categoryId>38</categoryId>
       <name>Гиперикум Коко Диабло 50 см Арт. Rb01245</name>
       <price>131</price>
-      <qty>60</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gVfLwXj8EYs_Fn9esTJ8VBPQl8vFPsv0</picture>
       <picture>https://lh3.googleusercontent.com/d/1olhYmr8IlTGdCT0sphkMl2pYIIYPzkHK</picture>
