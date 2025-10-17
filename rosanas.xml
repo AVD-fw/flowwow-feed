@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-17T07:58:31.767+03:00">
+<yml_catalog date="2025-10-17T08:08:14.485+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Момоко 70 см Арт. Rb7377</name>
       <price>132</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ob-APA-cqlJ5kRdyaoJUh5bMidcfVRZv</picture>
       <picture>https://lh3.googleusercontent.com/d/1I638Tf5Fz8e_BHm0HNfucyCyN1LRI0M-</picture>
@@ -38,7 +38,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Элизабетт 70 см Арт. Rb02317</name>
       <price>145</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dUHl9xE4Sqdr8-zJSN9BxdmFF-rJfooN</picture>
       <picture>https://lh3.googleusercontent.com/d/1Iwy6ycxFkHMOSCLmfVIf-WBUvUxYCgVy</picture>
@@ -56,7 +56,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Тропикана 70 см Арт. Rb01527</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-DMwyEXimapeXPovDqcWvxV4fp_M3AQm</picture>
       <picture>https://lh3.googleusercontent.com/d/1PCfgpLuCwhaTSjmXrfrid1R8D4A8AzLP</picture>
@@ -74,7 +74,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 60 см Арт. Rb7336</name>
       <price>104</price>
-      <qty>5</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Lv5qxpWl8GZLlhJuANGpaWsmqrjNq7VS</picture>
       <picture>https://lh3.googleusercontent.com/d/1_xKn5yhgTCDlx9CVnOpixqEkShI0lXJF</picture>
@@ -202,6 +202,42 @@
       <param name="Артикул">Rb6568</param>
       <consist name="Калла Капитан Розетте" unit="шт">10</consist>
     </offer>
+    <offer id="Rb01047" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Перл Пинк 70 см Арт. Rb01047</name>
+      <price>119</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zUwL1maXji5UiyLu6Ti71E8pqa6x9ppW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ew8x1QZBHsdnCY9LT4ocZrRJ8t7ntLcv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fMoTQMkd11Wz0TxC-wzzs5cLW_VaMqgF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ECBJ7rBhYrFfTcRi7xA-pzP7xY9I1G5M</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WpqsqKGM7EMIBAGjztYgPYeINNquIw1p</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie B.V.</param>
+      <param name="Артикул">Rb01047</param>
+      <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb13997" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Эмейзинг Кибо 70 см Арт. Rb13997</name>
+      <price>69</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KEhXTln5QsCC3OUdhcgPEsDWYZFCZB10</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LHoddurCOmXJhnA9qMIk4MrIpywiX4WC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sVTXpflmNdmR6SlVXsxf9Z-YF1asCwW5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z9YxmgFlOg29EGtw8wZdLN0SSnHD0H6I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_Mo3M8tagdGxDpu0DQL0NdhbbRlpMhR0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Rb13997</param>
+      <consist name="Клематис Эмейзинг Кибо" unit="шт">10</consist>
+    </offer>
     <offer id="Rb5778" available="true">
       <categoryId>37</categoryId>
       <name>Озотамнус Кукс Шоу Ви 80 см Арт. Rb5778</name>
@@ -240,7 +276,7 @@
       <categoryId>37</categoryId>
       <name>Протея Сунароидес 60 см Арт. Rb01896</name>
       <price>699</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mRuAN4BrGRghLYGxDJ9G7D6_HlYpB9tJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1is-6DIC4N6t7YXk3TrliK9G6DPzE0TPH</picture>
@@ -257,7 +293,7 @@
       <categoryId>37</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. Rb5704</name>
       <price>480</price>
-      <qty>1</qty>
+      <qty>20</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GzISRf9MYf8czh4yKHXnnDrmf9n61XlX</picture>
       <picture>https://lh3.googleusercontent.com/d/1OFvKqPv_k7OxxQN3DuPSLvzN4x4VOVi1</picture>
@@ -274,7 +310,7 @@
       <categoryId>37</categoryId>
       <name>Тагетес Промис Оранж 70 см Арт. Rb01117</name>
       <price>89</price>
-      <qty>10</qty>
+      <qty>130</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1x9PBkCeWveoVaQz0FCoYKjhm-9doDJdo</picture>
       <picture>https://lh3.googleusercontent.com/d/1fgYeDIyD5sGVthN99xeYh8qp3gcIGr9P</picture>
@@ -291,7 +327,7 @@
       <categoryId>37</categoryId>
       <name>Танацетум Белый 60 см Арт. Rb00596</name>
       <price>90</price>
-      <qty>25</qty>
+      <qty>725</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gB3gi8YuYdDR1jxybO6C5l0NVg9wl7yj</picture>
       <picture>https://lh3.googleusercontent.com/d/1ssAmg0Lg-nvjyPo_sQvSk_kzvkM7GV_n</picture>
@@ -304,11 +340,27 @@
       <param name="Артикул">Rb00596</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
+    <offer id="Rb01038" available="true">
+      <categoryId>37</categoryId>
+      <name>Хамелациум Алуана 80 см Арт. Rb01038</name>
+      <price>159</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12BsXyFK_BtIE0rVoB9ixf3aiNrnQVKxE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AYV0wwFnRJiPJpGSPhy8UBP2u3LEHW6u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1252L3hynIp5ZZ4VIrfwRgHhd4Kiwou0s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-QxNPFMMaIoBTqf0OprBStXzJK8lD817</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01038</param>
+      <consist name="Хамелациум Алуана" unit="шт">25</consist>
+    </offer>
     <offer id="Rb03207" available="true">
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Голд 72 см Арт. Rb03207</name>
       <price>169</price>
-      <qty>5</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10yBiDaSokXNlT6KPgLMXX8-_j6wJLQ29</picture>
       <picture>https://lh3.googleusercontent.com/d/1solk2v1vmD2uj3vrE9TMKv5MegdW5A6v</picture>
@@ -326,7 +378,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Оранж 72 см Арт. Rb7977</name>
       <price>169</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1p4mCN_ZeGen3_7HxTKTrrsyLP70Vgi5T</picture>
       <picture>https://lh3.googleusercontent.com/d/1tswrC208AHlOdY1HT1WFz5DUmZ7RrzXF</picture>
@@ -342,7 +394,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Роуз 72 см Арт. Rb11217</name>
       <price>155</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_fyzKgbvSfDbYsFMqk5EdM_QtHwFjqU8</picture>
       <picture>https://lh3.googleusercontent.com/d/1X5m790D2akYBOQy3nCzaHMdsWX7SGa7j</picture>
@@ -359,7 +411,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Флешинг 80 см Арт. Rb01288</name>
       <price>134</price>
-      <qty>5</qty>
+      <qty>65</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PR3t3AwyWi9nhdXJiuhoJ5RnTfXXO45a</picture>
       <picture>https://lh3.googleusercontent.com/d/1JsVaiNfkOx1AF7gvZw38z1uBoO8kX9Rm</picture>
@@ -376,7 +428,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Блю 70 см Арт. Rb9617</name>
       <price>205</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1z_bo4RVoUCaoEHZZc0CoL8p6n9iiJ6M4</picture>
       <picture>https://lh3.googleusercontent.com/d/123MZlnuWWv40f3tBlMPRPKvmtOQQmTwn</picture>
@@ -394,7 +446,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Лайт Пинк 70 см Арт. Rb00947</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kpoJgBXNoRc9-3oSpKVtsFdMjI9vBcJa</picture>
       <picture>https://lh3.googleusercontent.com/d/1kpoJgBXNoRc9-3oSpKVtsFdMjI9vBcJa</picture>
@@ -408,7 +460,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росан Эмеральд 70 см Арт. Rb8977</name>
       <price>215</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DYmko0QFEueFBZZDyuZKMtycTmo7yapW</picture>
       <picture>https://lh3.googleusercontent.com/d/1-LsO36_BtkN2mP1leXK-2LA9fy-WE0QQ</picture>
@@ -530,7 +582,7 @@
       <categoryId>38</categoryId>
       <name>Седум Спектибайл 60 см Арт. Rb01206</name>
       <price>59</price>
-      <qty>5</qty>
+      <qty>70</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1glSqigWt01zNs0Zi6Yg9RH30jIl4oIc_</picture>
       <picture>https://lh3.googleusercontent.com/d/1M6rteF4PNNCXWGjnTzVRXMbjgHsECKMr</picture>
@@ -547,7 +599,7 @@
       <categoryId>38</categoryId>
       <name>Скиммия Рубелла 45 см Арт. Rb5094</name>
       <price>515</price>
-      <qty>1</qty>
+      <qty>20</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_oGtJ6xrnEM-fBVcO_gVKXiv8M75t6T7</picture>
       <picture>https://lh3.googleusercontent.com/d/17Hk4mpbCeXKx9t1Fg2qaEru90Frc4sIF</picture>
@@ -564,7 +616,7 @@
       <categoryId>38</categoryId>
       <name>Хасмантиум Латифолия 90 см Арт. Rb01549</name>
       <price>47</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TKH13BtnrzREFcJ1rBji06jnUP7S6LIt</picture>
       <picture>https://lh3.googleusercontent.com/d/1owy1v6QWkgvv3ZZhcyDfrHH-L10W9MnU</picture>
