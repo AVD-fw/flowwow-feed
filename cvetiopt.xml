@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-17T15:55:47.254+03:00">
+<yml_catalog date="2025-10-17T16:06:04.153+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 70 см Арт. Fa17407</name>
       <price>99</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eQhhyFBqdGxd8rVa0sya5s3N_R8IVnmP</picture>
       <picture>https://lh3.googleusercontent.com/d/1s8oYj2hvIk55Zz4Q9uK2o8tEeBHW8BNI</picture>
@@ -48,11 +48,28 @@
       <param name="Артикул">Fa02498</param>
       <consist name="Роза одноголовая Вау" unit="шт">15</consist>
     </offer>
+    <offer id="Fa5305" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 50 см Арт. Fa5305</name>
+      <price>79</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Oa8mBFEBh7pz7OUwZXrTXTLJ-zYJA3SV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pr13F0P0ziGfeiZE6gr0E8rvoASho5V5</picture>
+      <picture>https://lh3.googleusercontent.com/d/11LSqI6dGN_r7vC5fEGVLiQmY9BPYpj7N</picture>
+      <picture>https://lh3.googleusercontent.com/d/14c7qcyLaI3E2A0XV0G2wOGurgOvCNW16</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fa5305</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
     <offer id="Fa7887" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пинк Мондиаль 70 см Арт. Fa7887</name>
       <price>182</price>
-      <qty>75</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TgvuO2dumZt2imZ3fuDhfB8325hmNn1G</picture>
       <picture>https://lh3.googleusercontent.com/d/1D8uNFXjpKkC1tFT9-XiDSWICw1D6ytF9</picture>
@@ -121,7 +138,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Майфилд 60 см Арт. Fa17116</name>
       <price>215</price>
-      <qty>30</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jtWmnfCr0ZH0v1JSYUvYAxg4yYTd38dB</picture>
       <picture>https://lh3.googleusercontent.com/d/1U9OqqFB_YGbycmXSfFzWzUH9guvtFSZn</picture>
@@ -136,7 +153,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Тинкербель 60 см Арт. Fa15156</name>
       <price>220</price>
-      <qty>60</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dl1dR00C0VQl43IIqAgR7k0hWder9fMF</picture>
       <picture>https://lh3.googleusercontent.com/d/1dfeBeeiH_y36ij0G7Hbis0VqKpYKwG95</picture>
@@ -275,7 +292,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Алибаба 85 см Арт. Fa17008</name>
       <price>165</price>
-      <qty>100</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YWE5LdrjZHn-6EFzQX7WD-tMcPlLpWSN</picture>
       <picture>https://lh3.googleusercontent.com/d/1Rwgb46SgRo4F9izigP3yUpBUySL1gw8N</picture>
@@ -433,7 +450,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Летс Гоу Пинк 70 см Арт. Fa16097</name>
       <price>132</price>
-      <qty>75</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1koZOnOWIS74PdSZLw8rL6vOrllHptVEj</picture>
       <picture>https://lh3.googleusercontent.com/d/1v4-qaQ56FpNATzL0JCWoCVoSP96MA2-R</picture>
@@ -482,6 +499,24 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Fa00937</param>
       <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
+    </offer>
+    <offer id="Fa7345" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Ферри 55 см Арт. Fa7345</name>
+      <price>73</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14qF2tMkwzVsVtagvhzE1FtHxIJUyT3Fa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CnPGtdm0J6FMIl2XsntmWgOeDT3AULFf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j22zQprU7mN35YX9ARaMTNIMujjnHSwS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xooz6s_Tdsrh6HW1hC7bcI4Qb4HCzv3b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kfjwPR09r8QZXR2Fcn0lYUb4khz525pO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fa7345</param>
+      <consist name="Хризантема кустовая Ферри" unit="шт">5</consist>
     </offer>
     <offer id="Fa15598" available="true">
       <categoryId>7</categoryId>
@@ -589,7 +624,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Пепталк 55 см Арт. Fa15225</name>
       <price>55</price>
-      <qty>25</qty>
+      <qty>500</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ZfMM1CJas8kJhcBZtK3DcpZ_KSE8iWPK</picture>
       <picture>https://lh3.googleusercontent.com/d/1lTfx-d-mJ7-jTVccXLvtlhau_FCfPfbR</picture>
@@ -696,7 +731,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Элисон Пинк 55 см Арт. Fa16985</name>
       <price>81</price>
-      <qty>125</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WdGBJ8yQPkAQh708UcNMPQL3cb0Xihb_</picture>
       <picture>https://lh3.googleusercontent.com/d/1BJ3ci2YLQqaALtn7p5RFOfOQ7s1VH0rj</picture>
@@ -724,6 +759,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fa04475</param>
       <consist name="Ананас Мини" unit="шт">8</consist>
+    </offer>
+    <offer id="Fa5726" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Белый 60 см Арт. Fa5726</name>
+      <price>132</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h-ZPTb9dxSfeP4El1s9Jih3e0__6vhF0</picture>
+      <picture>https://lh3.googleusercontent.com/d/15bgCRN5wwCWucsbIV1NxNXcBIIoq1AKG</picture>
+      <picture>https://lh3.googleusercontent.com/d/11QMK_LU75s_psW6NcEFKOzqX4-N_9KKF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oTjLe5pKIwwiHkqs45uz3ix4wtqctZkA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1179vYGJeZ2bWALxNo-LaKW7YuHrDHfCB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fa5726</param>
+      <consist name="Антирринум" unit="шт">10</consist>
     </offer>
     <offer id="Fa11336" available="true">
       <categoryId>37</categoryId>
@@ -1121,7 +1173,7 @@
       <categoryId>37</categoryId>
       <name>Гербера Розовый 50 см Арт. Fa854</name>
       <price>105</price>
-      <qty>15</qty>
+      <qty>75</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Cf9JcB3Ftr55p7q3xr5UOhNnAa63MN2y</picture>
       <picture>https://lh3.googleusercontent.com/d/1GrvLGmWupQsMjYE6bdCSXF-gCitJo_Fs</picture>
@@ -1245,7 +1297,7 @@
       <categoryId>37</categoryId>
       <name>Илекс Оранжевый 80 см Арт. Fa15068</name>
       <price>314</price>
-      <qty>25</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ALdYY5zMcP0WZAuVZpPAnvfnt3Ioi0uX</picture>
       <picture>https://lh3.googleusercontent.com/d/1Qj2bbGmQTWwosI4hod-bgCmXro-tDS3n</picture>
@@ -1437,7 +1489,7 @@
       <categoryId>37</categoryId>
       <name>Орнитогалум Милки Вайт 50 см Арт. Fa15195</name>
       <price>99</price>
-      <qty>100</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1t2u6yYRQhG1wbpBOvlysBkGoZ8ti8x0X</picture>
       <picture>https://lh3.googleusercontent.com/d/1DqKoW5OhfWu2HTXl2BzSHPf4vgwTXnfL</picture>
@@ -1455,7 +1507,7 @@
       <categoryId>37</categoryId>
       <name>Пион Корал Шарм 65 см Арт. Fa15666</name>
       <price>495</price>
-      <qty>100</qty>
+      <qty>60</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1m9qYbegbNIdqHHqFKQhj1ndzVowhkVNf</picture>
       <picture>https://lh3.googleusercontent.com/d/11Lsc7FiU2JW4ZZCaJHGsEKnw2fjF1ZYm</picture>
@@ -1568,7 +1620,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Дубль прайс 40 см Арт. Fa9624</name>
       <price>88</price>
-      <qty>900</qty>
+      <qty>750</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10BdpzfXtnrXS-XO7K08xYr8DsX7XPM0k</picture>
       <picture>https://lh3.googleusercontent.com/d/1yM1LWJuOz6U1HksIqp9U9b2ORyJ1sbYU</picture>
@@ -1602,7 +1654,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Стронг Голд 40 см Арт. Fa16964</name>
       <price>77</price>
-      <qty>400</qty>
+      <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VNkHdP5eOu6WqP0TspFdfiV8QB78ecv7</picture>
       <picture>https://lh3.googleusercontent.com/d/1LQUpaPWh3qbLG7jM3pNSSrVA6Ik5hSyK</picture>
@@ -1617,7 +1669,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Фокстрод 40 см Арт. Fa15624</name>
       <price>88</price>
-      <qty>250</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kemqPmPGeHTnTFfvnXbzmLvyo-9MMgIk</picture>
       <picture>https://lh3.googleusercontent.com/d/1eysnTTeihZpL-cQ9LPB0DtT_rdZvjrMb</picture>
@@ -1874,7 +1926,7 @@
       <categoryId>38</categoryId>
       <name>Лимониум Зеленый 80 см Арт. Fa01988</name>
       <price>121</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1g_UqTRQ0K4SzIA7TyCvAhA_iPaTMmpld</picture>
       <picture>https://lh3.googleusercontent.com/d/1xlLv-1CFPA7JvgHvIo6LKDnX9mROCn5d</picture>
