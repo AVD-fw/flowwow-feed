@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-17T10:28:24.438+03:00">
+<yml_catalog date="2025-10-17T10:38:34.858+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -88,6 +88,21 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb12287</param>
       <consist name="Роза одноголовая Пич Авалаш" unit="шт">15</consist>
+    </offer>
+    <offer id="Rb15007" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Свит Фо Лав 70 см Арт. Rb15007</name>
+      <price>137</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ErvLVpduB1Ke-EPoS8Xse3rX4t6QDBDq</picture>
+      <picture>https://lh3.googleusercontent.com/d/11LqJO3Y09sTpg9CLBraKoIlDCujDQSXi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb15007</param>
+      <consist name="Роза одноголовая Свит Фо Лав" unit="шт">10</consist>
     </offer>
     <offer id="Rb04486" available="true">
       <categoryId>3</categoryId>
