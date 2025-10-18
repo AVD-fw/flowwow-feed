@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-18T19:38:19.632+03:00">
+<yml_catalog date="2025-10-18T19:48:15.710+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -477,23 +477,6 @@
       <param name="Артикул">Rb12708</param>
       <consist name="Скабиоза Стеллата" unit="шт">10</consist>
     </offer>
-    <offer id="Rb5704" available="true">
-      <categoryId>37</categoryId>
-      <name>Скиммия Франк Вайт 45 см Арт. Rb5704</name>
-      <price>480</price>
-      <qty>29</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18FCZFYvVh3diKr8VMaeYP7BCZ60Uv_JX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ahAWV-cmXUmCAjSTfUmtnNKrX_J9LH8w</picture>
-      <picture>https://lh3.googleusercontent.com/d/1h9PC7cSdYxgPG-uBylszDsTg6-xqYnNR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZNLeG6JtNyiw6qdpvUQe8jPiUnsTLNHW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GzISRf9MYf8czh4yKHXnnDrmf9n61XlX</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">45</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rb5704</param>
-      <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
-    </offer>
     <offer id="Rb01117" available="true">
       <categoryId>37</categoryId>
       <name>Тагетес Промис Оранж 70 см Арт. Rb01117</name>
@@ -562,21 +545,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rb03207</param>
       <consist name="Целозия Репрайс Голд" unit="шт">5</consist>
-    </offer>
-    <offer id="Rb11631" available="true">
-      <categoryId>37</categoryId>
-      <name>Эвкалипт Цинерия 100 см Арт. Rb11631</name>
-      <price>1800</price>
-      <qty>7</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1op5_0xSLsajdZcEpW89XpuITeI7R7gxC</picture>
-      <picture>https://lh3.googleusercontent.com/d/13T-qJxdmPfA4iu0CLo4Qz7nuYseMTKQn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vtKDK7fT_kdhBro7JHGXmEXCmJrNDgbb</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">100</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Rb11631</param>
-      <consist name="Эвкалипт Цинерия" unit="шт">1</consist>
     </offer>
     <offer id="Rb8977" available="true">
       <categoryId>37</categoryId>
@@ -749,6 +717,38 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb5094</param>
       <consist name="Скиммия Рубелла" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb5704" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Франк Вайт 45 см Арт. Rb5704</name>
+      <price>480</price>
+      <qty>29</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18FCZFYvVh3diKr8VMaeYP7BCZ60Uv_JX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ahAWV-cmXUmCAjSTfUmtnNKrX_J9LH8w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h9PC7cSdYxgPG-uBylszDsTg6-xqYnNR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZNLeG6JtNyiw6qdpvUQe8jPiUnsTLNHW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GzISRf9MYf8czh4yKHXnnDrmf9n61XlX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb5704</param>
+      <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb11631" available="true">
+      <categoryId>38</categoryId>
+      <name>Эвкалипт Цинерия 100 см Арт. Rb11631</name>
+      <price>1800</price>
+      <qty>7</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1op5_0xSLsajdZcEpW89XpuITeI7R7gxC</picture>
+      <picture>https://lh3.googleusercontent.com/d/13T-qJxdmPfA4iu0CLo4Qz7nuYseMTKQn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vtKDK7fT_kdhBro7JHGXmEXCmJrNDgbb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">100</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb11631</param>
+      <consist name="Эвкалипт Цинерия" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
