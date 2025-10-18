@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-18T07:18:19.385+03:00">
+<yml_catalog date="2025-10-18T07:28:19.817+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rb9027" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бразилиана 70 см Арт. Rb9027</name>
+      <price>190</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rcbOeODPKFEsWT6F3HskRUqXDNHycQUm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xO7JulJevEWZWXMhOQtuU5XZ6xizTz4E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-Uuby469JgqCROSlbzth3ZT5srQzAmk0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yZAzx-eNVDzN7BlmgEDkXj7PwxDYddxl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hZKONAdg9nDBk138mTBJzXKjqpcS5Ek0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb9027</param>
+      <consist name="Хризантема одноголовая Бразилиана" unit="шт">10</consist>
+    </offer>
     <offer id="Rb15137" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Паркер Ред 70 см Арт. Rb15137</name>
@@ -31,6 +49,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Rb15137</param>
       <consist name="Хризантема одноголовая Паркер Ред" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb01527" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Тропикана 70 см Арт. Rb01527</name>
+      <price>199</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1za48G5-3iQWduZpQ_VK1rWWSVt0Oec5I</picture>
+      <picture>https://lh3.googleusercontent.com/d/17WUYs30TByQPE2tujzh8iMFGW66n8pyB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hK-vob6GM7Os11r9ewqWP-lVd9W1fhT8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RqcmpHwUoDlU7wr2X88-92CmgsXtNzna</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-DMwyEXimapeXPovDqcWvxV4fp_M3AQm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb01527</param>
+      <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
     </offer>
     <offer id="Rb15127" available="true">
       <categoryId>6</categoryId>
@@ -47,11 +83,81 @@
       <param name="Артикул">Rb15127</param>
       <consist name="Хризантема кустовая Лимончелло" unit="шт">5</consist>
     </offer>
+    <offer id="Rb03547" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Розовый 70 см Арт. Rb03547</name>
+      <price>136</price>
+      <qty>80</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18YnjHC2V8vPWfVJsz7AabyuFyi8WZHFt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dRTkMf57sMBS2oCnOLZ0MD8zg9PZrZzk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jdwoW_2Y05FlymL7GJosA70rl12aaMxP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x1MDwcXp3DPBI7n0lHHvn92dn0Uifd2b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IrzMyViSX6RNAUDgUrx5mmXfD8ISlmxp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Rb03547</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb03635" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Белый 50 см Арт. Rb03635</name>
+      <price>136</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1P6s7v5oAuc6bzoJBoJ3EsSxXerQwsapX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KE1WzsiVqmKK-Cz6x5YzeFPhKqeZed4E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gqAXjcgNj33QihuHBdjXmwS76VVdQ1u7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mXlRb4sGRDJDlSaPmjP1IPp9Gv-6GL8S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VOuG32du7ljTgRtlHhrxDDEqeZFHAj_I</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Краснодар</param>
+      <param name="Артикул">Rb03635</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb10256" available="true">
+      <categoryId>37</categoryId>
+      <name>Астранция Розе Стар 60 см Арт. Rb10256</name>
+      <price>69</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18n-XioKHF25UYPnkZt9Wr1xPgpp0Uobq</picture>
+      <picture>https://lh3.googleusercontent.com/d/10rl-BKjSUxlIAkagb9MTp0i442FcMAoS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sNx3T49zZO5zT5IS3zh627rPmVuDBPEL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S_pIJzZ4GZ0SX5T5amqfDJvkim4gKkPy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o2Ay7oyFnyDu6bRKQwhy4OfjqremcpAa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb10256</param>
+      <consist name="Астранция Розе Стар" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb13476" available="true">
+      <categoryId>37</categoryId>
+      <name>Вероника Клеар Джун 60 см Арт. Rb13476</name>
+      <price>79</price>
+      <qty>200</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1brd0Bw0YZxd1DQLA_DS9g8PeIPcCBh_m</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kKvcco47nb5gsYsPXXJ_sbnDAZP3Y28x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M-Wl6boSUGS73258pdOI0MdpVq1IcFvX</picture>
+      <picture>https://lh3.googleusercontent.com/d/14YZvOjlrRFup2daLg3VUdmsgd5zUSgza</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UfGkHilyHCUtQzyHQE-xhd0QN6RIv3Eb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb13476</param>
+      <consist name="Вероника Клеар Джун" unit="шт">25</consist>
+    </offer>
     <offer id="Rb5369" available="true">
       <categoryId>37</categoryId>
       <name>Гидрангия Верена Роден 99 см Арт. Rb5369</name>
       <price>529</price>
-      <qty>5</qty>
+      <qty>35</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BsZD5bwOOsRNIgWQVbr2SvSyKQiMNiBS</picture>
       <picture>https://lh3.googleusercontent.com/d/1_Vz_Rss9a3_ppe3dScZv729FkTboGuah</picture>
@@ -68,7 +174,7 @@
       <categoryId>37</categoryId>
       <name>Гидрангия Пимпернел Класс 80 см Арт. Rb14448</name>
       <price>599</price>
-      <qty>5</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1SmJuCqPNSSpDEXJiKvjWsDZNN6bwtiYz</picture>
       <picture>https://lh3.googleusercontent.com/d/1-c_vspGLJlJL8BmePvxEfVirYM3Krr2I</picture>
@@ -78,6 +184,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb14448</param>
       <consist name="Гидрангия Пимпернел Класс" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb6568" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Капитан Розетте 80 см Арт. Rb6568</name>
+      <price>189</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Tl1rDkwrX9tYG18QnotyzF92yLf6Mvhu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xn7HaRsMfRZeMNX_FxLM-UAddGY7y4dT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kowI2IbEepnMh5YtpGF9svbdODwoHwco</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wah2oU6Ojhljc0jNZfbXhfZXP0nFm05i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DaMeXuSoGuWmZNZjF9Ql2x0kRka4QhBU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb6568</param>
+      <consist name="Калла Капитан Розетте" unit="шт">10</consist>
     </offer>
     <offer id="Rb01479" available="true">
       <categoryId>37</categoryId>
@@ -113,7 +236,7 @@
       <categoryId>37</categoryId>
       <name>Озотамнус Кукс Шоу Ви 80 см Арт. Rb5778</name>
       <price>165</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ec7lKlUMR_0niAerlzlr6r_OO22WS7rq</picture>
       <picture>https://lh3.googleusercontent.com/d/1WSi8olbpfU5SyTpWplFJcAQwjX2kiam8</picture>
@@ -130,7 +253,7 @@
       <categoryId>37</categoryId>
       <name>Озотамнус Сноу Вайт 60 см Арт. Rb5186</name>
       <price>139</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QSu_hxHLvfjLoVabsKkunYTmQrwKh1gg</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ti_-8I6-To6FodGy7JT32Y4Lv11WKqA3</picture>
@@ -164,7 +287,7 @@
       <categoryId>37</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. Rb5704</name>
       <price>480</price>
-      <qty>1</qty>
+      <qty>29</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18FCZFYvVh3diKr8VMaeYP7BCZ60Uv_JX</picture>
       <picture>https://lh3.googleusercontent.com/d/1ahAWV-cmXUmCAjSTfUmtnNKrX_J9LH8w</picture>
@@ -181,7 +304,7 @@
       <categoryId>37</categoryId>
       <name>Тагетес Промис Оранж 70 см Арт. Rb01117</name>
       <price>89</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13vXe5L6dNKL8AS3URPk4LMRB8njfInQy</picture>
       <picture>https://lh3.googleusercontent.com/d/1eLq8eqYjxkmyoiTSpcVUcx2TZDKRsHMc</picture>
@@ -198,7 +321,7 @@
       <categoryId>37</categoryId>
       <name>Танацетум Белый 60 см Арт. Rb00596</name>
       <price>90</price>
-      <qty>25</qty>
+      <qty>300</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GprmF3Zq78orZSC2qy50qnDbJarGvZta</picture>
       <picture>https://lh3.googleusercontent.com/d/1AVNOTgMJVYzlyyEhktHYC7jsHUV_vuWk</picture>
@@ -232,7 +355,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Голд 72 см Арт. Rb03207</name>
       <price>169</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1dwtT1GgZ25J5Pck_ewcu5Q6Ljd6nux4i</picture>
       <picture>https://lh3.googleusercontent.com/d/1vzhLXTGl-TElhBRXiyLjSsr7rdBT04Sy</picture>
@@ -245,6 +368,57 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rb03207</param>
       <consist name="Целозия Репрайс Голд" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb11631" available="true">
+      <categoryId>37</categoryId>
+      <name>Эвкалипт Цинерия 100 см Арт. Rb11631</name>
+      <price>1800</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1op5_0xSLsajdZcEpW89XpuITeI7R7gxC</picture>
+      <picture>https://lh3.googleusercontent.com/d/13T-qJxdmPfA4iu0CLo4Qz7nuYseMTKQn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vtKDK7fT_kdhBro7JHGXmEXCmJrNDgbb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">100</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb11631</param>
+      <consist name="Эвкалипт Цинерия" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb8977" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росан Эмеральд 70 см Арт. Rb8977</name>
+      <price>215</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ARnHj_ZFfxEm_FRp0BPGxG-ZTBVyz2bU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qfqc6B1bNkuYdmCS37idvsMhVuyad1o6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qZB1usG7c4QsChVC_mAwuWeTATrWVMDI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FtSq9_j9n-HpGLk63wvPuMPjN9GEfGqY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DYmko0QFEueFBZZDyuZKMtycTmo7yapW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb8977</param>
+      <consist name="Эустома Росан Эмеральд" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb13507" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Селебрейт Лавандовый 70 см Арт. Rb13507</name>
+      <price>190</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1g-gkSYFacQRMIl-d1U1GR76gmkhBdrEa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K47XjgjsFG_DMUk9UR3GtImakbgGvnM0</picture>
+      <picture>https://lh3.googleusercontent.com/d/11Q9nNaXjwWP8HA6O0jS1VYHG8n9UsChX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L4I7lUxNXdHFOWqQMXyrzHcGT-7QGmnP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OmIjFFJ0h2dsMauoe8I1y-8XbKiushGy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb13507</param>
+      <consist name="Эустома Селебрейт Лавандовый" unit="шт">10</consist>
     </offer>
     <offer id="Rb7998" available="true">
       <categoryId>37</categoryId>
@@ -267,7 +441,7 @@
       <categoryId>38</categoryId>
       <name>Бруния Левис 40 см Арт. Rb3714</name>
       <price>115</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18nw3BWRtt9zT4CljXQQ4aLN1pycqP4L4</picture>
       <picture>https://lh3.googleusercontent.com/d/1VepCn4CaoAZ4CPthv-JUoDrMEpjJXGDY</picture>
@@ -284,7 +458,7 @@
       <categoryId>38</categoryId>
       <name>Гиперикум Коко Казино 50 см Арт. Rb01235</name>
       <price>149</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vZSWdcSWRaiWen6vA49OdVKSRA5YOy6F</picture>
       <picture>https://lh3.googleusercontent.com/d/1T0PiMOpiCItb5avsHeWvIN1GZX4iMMcl</picture>
@@ -302,7 +476,7 @@
       <categoryId>38</categoryId>
       <name>Картамус Занзибар 80 см Арт. Rb01328</name>
       <price>79</price>
-      <qty>10</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1egATvSaXSvBHo6TDS3Ztf_VeDGzJvfQY</picture>
       <picture>https://lh3.googleusercontent.com/d/1vqvgu1wgqBSKUoFvWWc4SRFgzTNbsrSf</picture>
@@ -349,11 +523,28 @@
       <param name="Артикул">Rb00266</param>
       <consist name="Леукадендрон Сафари Голдстрайк" unit="шт">10</consist>
     </offer>
+    <offer id="Rb3407" available="true">
+      <categoryId>38</categoryId>
+      <name>Лимониум Фиолетовый 70 см Арт. Rb3407</name>
+      <price>125</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13Nthg8HH-_LjaIpqE-2b3lcPZI8PvXkE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P4gUBV-957l9jsqMq-uTYp-GCmA_7hUm</picture>
+      <picture>https://lh3.googleusercontent.com/d/13lEuajCwU8-Eg1D0UL3IFOrKUKlI3gw6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1odK8AW2Q8qY88i79vk5rhogn22IqyDDr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hG5HvBuzQoTSxaq2f33mUP6f_ybwzCcS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb3407</param>
+      <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
     <offer id="Rb01206" available="true">
       <categoryId>38</categoryId>
       <name>Седум Спектибайл 60 см Арт. Rb01206</name>
       <price>59</price>
-      <qty>5</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1oo0BweinBAO8vDQR-z16IUqWkIa0kpk4</picture>
       <picture>https://lh3.googleusercontent.com/d/15ThJkGqoVM_oZuk5tV2_1x9P1I-cLAJq</picture>
@@ -370,7 +561,7 @@
       <categoryId>38</categoryId>
       <name>Скиммия Рубелла 45 см Арт. Rb5094</name>
       <price>515</price>
-      <qty>1</qty>
+      <qty>12</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11CRajy1gZCGQdQ8lJkRVBbQPxfKqNt64</picture>
       <picture>https://lh3.googleusercontent.com/d/14VBgNql9GOyw1ydia8ILL90KT14coct1</picture>
