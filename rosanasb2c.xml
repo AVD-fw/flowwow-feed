@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-18T10:39:51.118+03:00">
+<yml_catalog date="2025-10-18T10:49:47.336+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -102,6 +102,35 @@
       <param name="Артикул">Rb15046</param>
       <consist name="Роза одноголовая пионовидная Мондиаль" unit="шт">25</consist>
     </offer>
+    <offer id="C_Rb15246" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Рефлекс 60 см Арт. C_Rb15246</name>
+      <categoryId>1</categoryId>
+      <price>1815</price>
+      <picture>https://lh3.googleusercontent.com/d/13MZ7UAQN7-E0rVvzuzRSJouzfq7Lp4E7</picture>
+      <picture>https://lh3.googleusercontent.com/d/168PpUD0UQzlxy_1bglX0e6ys5BX7EZuJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb15246</param>
+      <consist name="Роза кустовая Рефлекс" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb00315" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Цунами 50 см Арт. C_Rb00315</name>
+      <categoryId>1</categoryId>
+      <price>3050</price>
+      <picture>https://lh3.googleusercontent.com/d/1hTrcJq9TzpQkDAPbFymtOvtYFAkgR4cu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MkFI3Zt47HyAezzsOBfk8bwsogBvJTcK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BnnYIHydU2Fm27cUa5YoSC79C8kf0btT</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Волгоград</param>
+      <param name="Артикул">Rb00315</param>
+      <consist name="Роза кустовая Цунами" unit="шт">10</consist>
+    </offer>
     <offer id="C_Rb9027" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Бразилиана 70 см Арт. C_Rb9027</name>
       <categoryId>1</categoryId>
@@ -117,6 +146,20 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Rb9027</param>
       <consist name="Хризантема одноголовая Бразилиана" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb15137" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Паркер Ред 70 см Арт. C_Rb15137</name>
+      <categoryId>1</categoryId>
+      <price>2255</price>
+      <picture>https://lh3.googleusercontent.com/d/1pn8Wv5I09g2tfDYHFhQmqida5cw01fo9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1abnTkUhqDKF6LpSiCoO70D60EDWkrF-U</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb15137</param>
+      <consist name="Хризантема одноголовая Паркер Ред" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb01527" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Тропикана 70 см Арт. C_Rb01527</name>
