@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-18T17:48:19.988+03:00">
+<yml_catalog date="2025-10-18T17:59:22.623+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -52,6 +52,21 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb12297</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
+    <offer id="Rb15046" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мондиаль 60 см Арт. Rb15046</name>
+      <price>143</price>
+      <qty>425</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1eETPEazG79952M51tiwYgNgEospB7m-A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XLYztQZQTE-m8GbaZR1esoXB9fVJb_wM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosa Prima</param>
+      <param name="Артикул">Rb15046</param>
+      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
     </offer>
     <offer id="Rb14897" available="true">
       <categoryId>1</categoryId>
@@ -121,21 +136,6 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb14015</param>
       <consist name="Роза одноголовая Скайвард" unit="шт">10</consist>
-    </offer>
-    <offer id="Rb15046" available="true">
-      <categoryId>2</categoryId>
-      <name>Роза одноголовая пионовидная Мондиаль 60 см Арт. Rb15046</name>
-      <price>143</price>
-      <qty>425</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1eETPEazG79952M51tiwYgNgEospB7m-A</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XLYztQZQTE-m8GbaZR1esoXB9fVJb_wM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Rosa Prima</param>
-      <param name="Артикул">Rb15046</param>
-      <consist name="Роза одноголовая пионовидная Мондиаль" unit="шт">25</consist>
     </offer>
     <offer id="Rb15246" available="true">
       <categoryId>3</categoryId>
