@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T09:08:19.508+03:00">
+<yml_catalog date="2025-10-20T09:18:16.058+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -120,11 +120,29 @@
       <param name="Артикул">Rb01736</param>
       <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
     </offer>
+    <offer id="Rb12287" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пич Аваланш 70 см Арт. Rb12287</name>
+      <price>82</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ffpP0MP-UzN1p9I4dv8WhBuJypKCMcqM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dxZ5wRFXTATwklsCWtgew9UU3icZVeED</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GttPMMWX24oSwGFzN3oZN-QtbUSDSXHI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yUIZyQ2lIfN0uWVAnB0OD9SIGCzhvSHH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-WgNJrpz5islhHGqpvGrr4HAP1Ano8xf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb12287</param>
+      <consist name="Роза одноголовая Пич Аваланш" unit="шт">15</consist>
+    </offer>
     <offer id="Rb15246" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Рефлекс 60 см Арт. Rb15246</name>
       <price>165</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1meTGCKNfF2k4JjwGxsd3-3IEm-cqfwXc</picture>
       <picture>https://lh3.googleusercontent.com/d/1sy_MlSXEdeKzCvd1SLrL-8yEdgWkQkyB</picture>
