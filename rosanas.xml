@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T07:38:21.310+03:00">
+<yml_catalog date="2025-10-20T07:48:17.864+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -134,7 +134,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Белый 50 см Арт. Rb03635</name>
       <price>136</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nkvJKFONFfEXhqEv-3fPlHbvisJpUV7U</picture>
       <picture>https://lh3.googleusercontent.com/d/1gqAXjcgNj33QihuHBdjXmwS76VVdQ1u7</picture>
@@ -182,11 +182,28 @@
       <param name="Артикул">Rb13476</param>
       <consist name="Вероника Клеар Джун" unit="шт">25</consist>
     </offer>
+    <offer id="Rb5369" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Верена Роден 99 см Арт. Rb5369</name>
+      <price>529</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ujBJ3kgsleJnUj9uskp-ErKxsfw6SP7n</picture>
+      <picture>https://lh3.googleusercontent.com/d/14JcCt30APUOKDTgm0ncrbSsRC2_JbKKn</picture>
+      <picture>https://lh3.googleusercontent.com/d/13LOov9_qUXR-ZxbhtZVrQEfGk69Vxkp_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xlDAT586b9r5RxbR3n393M5imJ4D9y2u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BsZD5bwOOsRNIgWQVbr2SvSyKQiMNiBS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">99</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb5369</param>
+      <consist name="Гидрангия Верена Роден" unit="шт">5</consist>
+    </offer>
     <offer id="Rb7469" available="true">
       <categoryId>37</categoryId>
       <name>Глориоза Ротшильд 90 см Арт. Rb7469</name>
       <price>359</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10ovSbG0NCidXu5hl-bEXu0ckksQcBJxF</picture>
       <picture>https://lh3.googleusercontent.com/d/18vz68aYnOkRB4RCKaQZmW23eTQkYljgr</picture>
@@ -203,7 +220,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. Rb01047</name>
       <price>119</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xCPa_kLpLB8AN3Ps5upjNBWZ8uN3_7Oc</picture>
       <picture>https://lh3.googleusercontent.com/d/1fMoTQMkd11Wz0TxC-wzzs5cLW_VaMqgF</picture>
@@ -464,7 +481,7 @@
       <categoryId>38</categoryId>
       <name>Бруния Левис 40 см Арт. Rb3714</name>
       <price>115</price>
-      <qty>10</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pHKcNyQ6u-EC18wdaG7KtfJ-zhRzvLo5</picture>
       <picture>https://lh3.googleusercontent.com/d/1QwBKEunRE9KSNNG099hOaefxyQnLgp-D</picture>
@@ -627,6 +644,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb5704</param>
       <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb11631" available="true">
+      <categoryId>38</categoryId>
+      <name>Эвкалипт Цинерия 100 см Арт. Rb11631</name>
+      <price>1800</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UxyHlv9p8GraDtVmJ-8ndvAmWp-Ox6sX</picture>
+      <picture>https://lh3.googleusercontent.com/d/13T-qJxdmPfA4iu0CLo4Qz7nuYseMTKQn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vtKDK7fT_kdhBro7JHGXmEXCmJrNDgbb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1op5_0xSLsajdZcEpW89XpuITeI7R7gxC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">100</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb11631</param>
+      <consist name="Эвкалипт Цинерия" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
