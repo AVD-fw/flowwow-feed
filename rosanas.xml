@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T08:18:23.771+03:00">
+<yml_catalog date="2025-10-20T08:28:18.905+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -694,6 +694,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb5704</param>
       <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb11631" available="true">
+      <categoryId>38</categoryId>
+      <name>Эвкалипт Цинерия 100 см Арт. Rb11631</name>
+      <price>1800</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UxyHlv9p8GraDtVmJ-8ndvAmWp-Ox6sX</picture>
+      <picture>https://lh3.googleusercontent.com/d/13T-qJxdmPfA4iu0CLo4Qz7nuYseMTKQn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vtKDK7fT_kdhBro7JHGXmEXCmJrNDgbb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1op5_0xSLsajdZcEpW89XpuITeI7R7gxC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">100</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb11631</param>
+      <consist name="Эвкалипт Цинерия" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
