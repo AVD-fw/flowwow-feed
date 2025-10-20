@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T08:39:49.192+03:00">
+<yml_catalog date="2025-10-20T08:49:53.395+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -8,6 +8,38 @@
       <category id="1">Монобукеты</category>
     </categories>
     <offers>
+    <offer id="C_Rb13095" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Испания 50 см Арт. C_Rb13095</name>
+      <categoryId>1</categoryId>
+      <price>665</price>
+      <picture>https://lh3.googleusercontent.com/d/1J-k261nLdjgk1k1iLE0OzvmF8eWEQgqM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BjAAekT_ZvrK8XMCSSoJ7k5S1jSSDUo1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IwOUXCzLLvNFfWvB2y0uGKwZYcWhthTY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13095</param>
+      <consist name="Роза одноголовая Испания" unit="шт">10</consist>
+    </offer>
+    <offer id="C_Rb00484" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Мисс Пигги 40 см Арт. C_Rb00484</name>
+      <categoryId>1</categoryId>
+      <price>1025</price>
+      <picture>https://lh3.googleusercontent.com/d/1LvUqx9von7ZjHF98ZurVPr20JOprLH0E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-6DTd5HO1HNXXedLE2oudLa9Y0Ye3zy9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BqB0rWawl1hd29FiZ0ExTintpZ02K2mF</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb00484</param>
+      <consist name="Роза одноголовая Мисс Пигги" unit="шт">10</consist>
+    </offer>
     <offer id="C_Rb12287" available="true">
       <name>Пачка (15 шт.) Роза одноголовая Пич Аваланш 70 см Арт. C_Rb12287</name>
       <categoryId>1</categoryId>
@@ -23,6 +55,19 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb12287</param>
       <consist name="Роза одноголовая Пич Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="C_Rb15246" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Рефлекс 60 см Арт. C_Rb15246</name>
+      <categoryId>1</categoryId>
+      <price>1815</price>
+      <picture>https://lh3.googleusercontent.com/d/13MZ7UAQN7-E0rVvzuzRSJouzfq7Lp4E7</picture>
+      <picture>https://lh3.googleusercontent.com/d/168PpUD0UQzlxy_1bglX0e6ys5BX7EZuJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb15246</param>
+      <consist name="Роза кустовая Рефлекс" unit="шт">10</consist>
     </offer>
     <offer id="C_Rb13284" available="true">
       <name>Пачка (10 шт.) Роза кустовая Яна 40 см Арт. C_Rb13284</name>
