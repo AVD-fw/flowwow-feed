@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T06:58:09.312+03:00">
+<yml_catalog date="2025-10-20T07:08:13.169+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,35 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rb3857" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Ламира 70 см Арт. Rb3857</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17qY4FIkpIpWNTAK-e6plNikURZZ6f_54</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EajT4IK4ufB53pAg2d6SqIPy0OMwJ-zk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb3857</param>
+      <consist name="Хризантема одноголовая Ламира" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb15077" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Хайдар 70 см Арт. Rb15077</name>
+      <price>121</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iOkrMXFXMNGQGVdYNAWnFyEZ4HS9aKqN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w9K37CW6cqgWm84O4VUx5QPUag8u_qzI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb15077</param>
+      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
     <offer id="Rb03635" available="true">
       <categoryId>37</categoryId>
       <name>Антирринум Белый 50 см Арт. Rb03635</name>
@@ -34,6 +63,40 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rb03635</param>
       <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb02266" available="true">
+      <categoryId>37</categoryId>
+      <name>Астранция Роме 60 см Арт. Rb02266</name>
+      <price>115</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Jh79Klw1ehkyGGBU3JTHF4nueldrxEpV</picture>
+      <picture>https://lh3.googleusercontent.com/d/16SPxvU7DB9cmmLpgTuZcwGx_rv-D9mC6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OOxVnJSaW9IHKN_MYKMFb1sdAX9kXY2Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xWPfQV9aChOAhxQCSGypXYINfoXWpmcg</picture>
+      <picture>https://lh3.googleusercontent.com/d/18zHRrxyswY2ObLtX-32LhgpwBQXextio</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02266</param>
+      <consist name="Астранция Роме" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb13476" available="true">
+      <categoryId>37</categoryId>
+      <name>Вероника Клеар Джун 60 см Арт. Rb13476</name>
+      <price>79</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EIs6OkohYSogpvJgskrWE90bfJ-aaja5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M-Wl6boSUGS73258pdOI0MdpVq1IcFvX</picture>
+      <picture>https://lh3.googleusercontent.com/d/14YZvOjlrRFup2daLg3VUdmsgd5zUSgza</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UfGkHilyHCUtQzyHQE-xhd0QN6RIv3Eb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1brd0Bw0YZxd1DQLA_DS9g8PeIPcCBh_m</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb13476</param>
+      <consist name="Вероника Клеар Джун" unit="шт">25</consist>
     </offer>
     <offer id="Rb01047" available="true">
       <categoryId>37</categoryId>
@@ -70,6 +133,23 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Rb13997</param>
       <consist name="Клематис Эмейзинг Кибо" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb01117" available="true">
+      <categoryId>37</categoryId>
+      <name>Тагетес Промис Оранж 70 см Арт. Rb01117</name>
+      <price>89</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RTHhiRNTeFoZ2k3J7vvCjePDh7f5ZuVm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d12gp0IDeGTXgecuOpUR8Hk47T9gQ3jz</picture>
+      <picture>https://lh3.googleusercontent.com/d/10b757qQxLtksvicrHpGU_lGoUsyZGxuq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x9PBkCeWveoVaQz0FCoYKjhm-9doDJdo</picture>
+      <picture>https://lh3.googleusercontent.com/d/13vXe5L6dNKL8AS3URPk4LMRB8njfInQy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01117</param>
+      <consist name="Тагетес Промис Оранж" unit="шт">10</consist>
     </offer>
     <offer id="Rb00596" available="true">
       <categoryId>37</categoryId>
