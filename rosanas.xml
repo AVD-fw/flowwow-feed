@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T07:48:17.864+03:00">
+<yml_catalog date="2025-10-20T07:58:14.668+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -321,7 +321,7 @@
     <offer id="Rb01117" available="true">
       <categoryId>37</categoryId>
       <name>Тагетес Промис Оранж 70 см Арт. Rb01117</name>
-      <price>89</price>
+      <price>115</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RTHhiRNTeFoZ2k3J7vvCjePDh7f5ZuVm</picture>
@@ -404,6 +404,23 @@
       <param name="Производитель">Feiko</param>
       <param name="Артикул">Rb11217</param>
       <consist name="Целозия Репрайс Роуз" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb11228" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Фроузен 80 см Арт. Rb11228</name>
+      <price>189</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xZA6bgY_UqbwA4HwGPQgIhRGyKeDmu1Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Hy7ND9-vdUZwEV_WeWqcU7PzGpUC3n-p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JZOFCIQmAYOKu7YuIxXjJtI0TEuZDQ8x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YoG4KYZtTTJ1xchS7R2E2YUHCAHm_9W4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zHJG1rzo7tEQPZP4SJ32iMwHdMOoNEmB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb11228</param>
+      <consist name="Целозия Фроузен" unit="шт">5</consist>
     </offer>
     <offer id="Rb7797" available="true">
       <categoryId>37</categoryId>
