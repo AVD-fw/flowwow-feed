@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T08:48:26.402+03:00">
+<yml_catalog date="2025-10-20T08:58:28.760+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -70,6 +70,56 @@
       <param name="Артикул">Rb00484</param>
       <consist name="Роза одноголовая Мисс Пигги" unit="шт">10</consist>
     </offer>
+    <offer id="Rb15046" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мондиаль 60 см Арт. Rb15046</name>
+      <price>143</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1H7dkxNTjfb16rAzEzJw63sD7zxQT_7lf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XLYztQZQTE-m8GbaZR1esoXB9fVJb_wM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eETPEazG79952M51tiwYgNgEospB7m-A</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosa Prima</param>
+      <param name="Артикул">Rb15046</param>
+      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb14897" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пинк Мондиаль 70 см Арт. Rb14897</name>
+      <price>143</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gHO049D9v_uRj4gJRW-5ZecWce-oJzhW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TtHyOt6nFACHYRxzak-mIJDvQ9WuGGo0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vYP4dsgUBZBA5HrpkYmrSEoU9t1zafju</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rb14897</param>
+      <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb01736" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пинк Флойд 60 см Арт. Rb01736</name>
+      <price>135</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zvmoPmA2-h7Bxmg0jTBXf4TLQwAV8auD</picture>
+      <picture>https://lh3.googleusercontent.com/d/16Ou_cnw1ei7250KlPtUqvJbzwZk2m3cF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H_BF46NCpCc_7BThTn2hrlvG0xH52PHm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h9n9PLMR0hM9wO-8cYn2w5bl9XexRfFA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IaRl2-_8r_wGIvGTLJ6zLHTif_bmdrTW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rb01736</param>
+      <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
+    </offer>
     <offer id="Rb12287" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пич Аваланш 70 см Арт. Rb12287</name>
@@ -107,7 +157,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Яна 40 см Арт. Rb13284</name>
       <price>72</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ePW7yDCHuq5mNdZFakSPDRHQeI7FCKdf</picture>
       <picture>https://lh3.googleusercontent.com/d/15xEMWKsBLCM-4caWYispZ5kRCQXh0TWU</picture>
