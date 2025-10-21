@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T11:43:57.965+03:00">
+<yml_catalog date="2025-10-21T11:54:02.425+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -305,10 +305,11 @@
       <picture>https://lh3.googleusercontent.com/d/1z_kY_MHwkuECeKG1qn6qhoE0lZm1aYgS</picture>
       <picture>https://lh3.googleusercontent.com/d/1ItIE--ZcdonqGsiXZ73T1QNO1SGbnskh</picture>
       <picture>https://lh3.googleusercontent.com/d/1UG2C7imoBJztlvjs3QmJDKbh1b5kyZsO</picture>
-      <description>Альстромерия 60 см Арт. Eb3946</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Eb3946</param>
+      <consist name="Альстромерия" unit="шт">10</consist>
     </offer>
     <offer id="Eb3886" available="true">
       <categoryId>37</categoryId>
