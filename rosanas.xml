@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T12:38:34.014+03:00">
+<yml_catalog date="2025-10-21T12:48:32.823+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -1159,6 +1159,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01328</param>
       <consist name="Картамус Занзибар" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb6718" available="true">
+      <categoryId>38</categoryId>
+      <name>Леукадендрон Саф Сансет 80 см Арт. Rb6718</name>
+      <price>139</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16EHYVXya12PdRSQ6UOZEZrSzw2MbQpRX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jgJYpQ9rNPmNGH9fbsxm8OXCdE1DrtCf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zcVIl790L0Fn66UsgeAhVuj7MTgLslAq</picture>
+      <picture>https://lh3.googleusercontent.com/d/140OZmScjXXMCJApVmJl-tBQw_mIYJ-Sw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OCIe_0FOh8gqSZ4cGWtuySXc5yE9eVE7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb6718</param>
+      <consist name="Леукадендрон Саф Сансет" unit="шт">10</consist>
     </offer>
     <offer id="Rb00266" available="true">
       <categoryId>38</categoryId>
