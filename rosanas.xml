@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T08:38:24.878+03:00">
+<yml_catalog date="2025-10-21T08:52:23.992+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -516,7 +516,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Верда 72 см Арт. Rb03377</name>
       <price>169</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14gBS0Q31brWxAEPn1ojvGodJa-Nz8dgE</picture>
       <picture>https://lh3.googleusercontent.com/d/1tJ35LbgLziF8SEtbHhg8IHZcYJmXcG_7</picture>
@@ -551,7 +551,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Оранж 72 см Арт. Rb7977</name>
       <price>159</price>
-      <qty>5</qty>
+      <qty>75</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qb5oylVWFeNfzaRAAcnGcBKE6suPx_xT</picture>
       <picture>https://lh3.googleusercontent.com/d/1tswrC208AHlOdY1HT1WFz5DUmZ7RrzXF</picture>
@@ -568,7 +568,7 @@
       <categoryId>37</categoryId>
       <name>Целозия Репрайс Роуз 72 см Арт. Rb11217</name>
       <price>155</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1J0N_igCoYlFLx8f8r1ipIbCa6uxzpf-Y</picture>
       <picture>https://lh3.googleusercontent.com/d/1FRGhe5OpqnRraKTlllD8zDUiZF_gn3jR</picture>
@@ -603,7 +603,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Вайт 70 см Арт. Rb8967</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xwWxQudqh4WJDswgK4G_hMGXsIxJfmGw</picture>
       <picture>https://lh3.googleusercontent.com/d/1O05QieTG1FxVI8FB3r_07KrDOjsxsXSi</picture>
@@ -691,7 +691,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 70 см Арт. Rb00957</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11oPbsMOvz1GS3ky3xqWkTTt2U6hnx9lq</picture>
       <picture>https://lh3.googleusercontent.com/d/16g-nYQXE-_exuRsUBKyHe8IJpfYoW6bH</picture>
@@ -736,6 +736,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01328</param>
       <consist name="Картамус Занзибар" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb6718" available="true">
+      <categoryId>38</categoryId>
+      <name>Леукадендрон Саф Сансет 80 см Арт. Rb6718</name>
+      <price>139</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16EHYVXya12PdRSQ6UOZEZrSzw2MbQpRX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jgJYpQ9rNPmNGH9fbsxm8OXCdE1DrtCf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zcVIl790L0Fn66UsgeAhVuj7MTgLslAq</picture>
+      <picture>https://lh3.googleusercontent.com/d/140OZmScjXXMCJApVmJl-tBQw_mIYJ-Sw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OCIe_0FOh8gqSZ4cGWtuySXc5yE9eVE7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb6718</param>
+      <consist name="Леукадендрон Саф Сансет" unit="шт">10</consist>
     </offer>
     <offer id="Rb00266" available="true">
       <categoryId>38</categoryId>
