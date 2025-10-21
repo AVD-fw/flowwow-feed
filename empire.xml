@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T08:54:15.386+03:00">
+<yml_catalog date="2025-10-21T09:03:52.544+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -506,6 +506,41 @@
       <param name="Артикул">Eb2496</param>
       <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
     </offer>
+    <offer id="Eb2707" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Лисанне Лайт Пинк 70 см Арт. Eb2707</name>
+      <price>155</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pWJFUMIWWgt9weEIvtSGLBvpaD4gHtvF</picture>
+      <picture>https://lh3.googleusercontent.com/d/17J1eiwCTvGvPjVA8ornRMceKW9_JcyqQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MqL8ur4aWdeLiDFTlJaykP8MnaJxTmHy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a_1-XWxRmwmOtecswMsKBDxo231upuwd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Eb2707</param>
+      <consist name="Эустома Лисанне Лайт Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Eb00267" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Блу Пикот 70 см Арт. Eb00267</name>
+      <price>155</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1J49ahzfEmwadsMZviz-3fFSxazYHMtGA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bwU-c5ptklk5FDT3AhX5w460AkHFN8Su</picture>
+      <picture>https://lh3.googleusercontent.com/d/14SMp7ABan_1qQSJUizoGAHkx1xizukdb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ot7iWjMcYWdTbNy-pMVdFn8ric_LybkJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ro7NanvAlhE4bFhh5lQysYoFm_88lz4d</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Eb00267</param>
+      <consist name="Эустома Росита Блу Пикот" unit="шт">10</consist>
+    </offer>
     <offer id="Eb00257" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 70 см Арт. Eb00257</name>
@@ -523,23 +558,6 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Eb00257</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
-    </offer>
-    <offer id="Eb270" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Росита Пинк 50 см Арт. Eb270</name>
-      <price>155</price>
-      <qty>70</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ctTBAVnP6HIMTBrzG-TEVHr5GtIrOXsf</picture>
-      <picture>https://lh3.googleusercontent.com/d/17J1eiwCTvGvPjVA8ornRMceKW9_JcyqQ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MqL8ur4aWdeLiDFTlJaykP8MnaJxTmHy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1a_1-XWxRmwmOtecswMsKBDxo231upuwd</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Eb270</param>
-      <consist name="Эустома Росита Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Eb2486" available="true">
       <categoryId>37</categoryId>
