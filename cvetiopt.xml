@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T09:25:40.829+03:00">
+<yml_catalog date="2025-10-21T09:35:40.925+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,24 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Fb4455" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Джумилия 50 см Арт. Fb4455</name>
-      <price>72</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1--ziE7Fv30Z_-TydlYroZ3GQ2cbQKwpJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LgJPUqwYegTJlcWQIizlpYivl_MXh6ZG</picture>
-      <picture>https://lh3.googleusercontent.com/d/19tO0pegR7Z_OQfOXrv1DdT7u6mmpG60I</picture>
-      <picture>https://lh3.googleusercontent.com/d/14GYcHD8Jet9z5S7emrxYQix13M0cPk_4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1THkElHSlOWvTRuNWlqxPnhBXSu8iX7dV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Fb4455</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
-    </offer>
     <offer id="Fb7887" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пинк Мондиаль 70 см Арт. Fb7887</name>
@@ -180,7 +162,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Фаервокс 70 см Арт. Fb00987</name>
       <price>204</price>
-      <qty>10</qty>
+      <qty>250</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sOoK2VfQbV35Y8nHbmcv69mFKif9M2Tc</picture>
       <picture>https://lh3.googleusercontent.com/d/1cNBoFN8p7RPYnvKfIlE3D1nMtpdUoVyR</picture>
@@ -193,6 +175,24 @@
       <param name="Производитель">Sun Spray</param>
       <param name="Артикул">Fb00987</param>
       <consist name="Роза кустовая Фаервокс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fb5968" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Йеллоу Бабблс 80 см Арт. Fb5968</name>
+      <price>83</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RpyRL4MWY9DPNMipFEl3109WjSZc_3Tp</picture>
+      <picture>https://lh3.googleusercontent.com/d/17r4zTexouu7xzGoCaRjaMp_udiTOEeS8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mgrYa7Nzt0Hu-Lh9XF__Zwp5O4ljeYQV</picture>
+      <picture>https://lh3.googleusercontent.com/d/13SJEwd0mVwKjNRLo425QJDpBNPcrZUcD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SrLJjPIxDLKYxKVmSfAV8lDwEEzyhv46</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fb5968</param>
+      <consist name="Роза кустовая пионовидная Йеллоу Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Fb06287" available="true">
       <categoryId>4</categoryId>
