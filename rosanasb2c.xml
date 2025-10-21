@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T15:10:13.429+03:00">
+<yml_catalog date="2025-10-21T15:20:09.743+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -275,6 +275,22 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb13284c</param>
       <consist name="Роза кустовая Яна" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb04496c" available="true">
+      <name>Пачка (5 шт.) Роза кустовая пионовидная Дедикейшн 60 см Арт. Rb04496c</name>
+      <categoryId>1</categoryId>
+      <price>1505</price>
+      <picture>https://lh3.googleusercontent.com/d/1X-xcAzEGdZK98UTWGHuNlrsx2_bo4p9C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ADmGgS46P3lAtYHuxN3EPxOS6AuZSpy1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TccrumyGUkbpJkKKNtLHgJEDAiKRnxt5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04496c</param>
+      <consist name="Роза кустовая пионовидная Дедикейшн" unit="шт">5</consist>
     </offer>
     <offer id="Rb04275c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rb04275c</name>
