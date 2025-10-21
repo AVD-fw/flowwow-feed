@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T10:29:48.209+03:00">
+<yml_catalog date="2025-10-21T10:38:24.957+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -57,7 +57,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 60 см Арт. Rb15796</name>
       <price>76</price>
-      <qty>30</qty>
+      <qty>60</qty>
       <quantity_in_package>30</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yMq4GxGIrFMBJxtKiRgo1HOK1ft4u7lC</picture>
       <picture>https://lh3.googleusercontent.com/d/1oWLLPYTrBRbNBD521c1Sr5Z0z8SRty6x</picture>
@@ -125,7 +125,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Оранж Пати 60 см Арт. Rb15746</name>
       <price>82</price>
-      <qty>30</qty>
+      <qty>60</qty>
       <quantity_in_package>30</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/191gP9QuUkQQ_kUMi9QQCywb7W5fjFIjE</picture>
       <picture>https://lh3.googleusercontent.com/d/1gioarXdgsv8Z56xT9pmAWY1QOcE-Y41F</picture>
@@ -380,6 +380,24 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb4915</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb5516" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Роял Парк 60 см Арт. Rb5516</name>
+      <price>397</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17CAMOi91tCUtFJEqCivcsBI19X5buQsi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LgjYRcQZ1LoQuQDGzGGdI7jMvvLt83_p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kk9lXweG2UBZ0J1d8vDeuAKiXjs5gjwn</picture>
+      <picture>https://lh3.googleusercontent.com/d/19sNRN7YQDk_lOw0UUmat7Etvk3bFQEx8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XGBGt22IQx8aTuc1L-60ziHbmv_YfpIf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb5516</param>
+      <consist name="Роза кустовая пионовидная Роял Парк" unit="шт">5</consist>
     </offer>
     <offer id="Rb00877" available="true">
       <categoryId>5</categoryId>
@@ -1100,6 +1118,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01328</param>
       <consist name="Картамус Занзибар" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb6718" available="true">
+      <categoryId>38</categoryId>
+      <name>Леукадендрон Саф Сансет 80 см Арт. Rb6718</name>
+      <price>139</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16EHYVXya12PdRSQ6UOZEZrSzw2MbQpRX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jgJYpQ9rNPmNGH9fbsxm8OXCdE1DrtCf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zcVIl790L0Fn66UsgeAhVuj7MTgLslAq</picture>
+      <picture>https://lh3.googleusercontent.com/d/140OZmScjXXMCJApVmJl-tBQw_mIYJ-Sw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OCIe_0FOh8gqSZ4cGWtuySXc5yE9eVE7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb6718</param>
+      <consist name="Леукадендрон Саф Сансет" unit="шт">10</consist>
     </offer>
     <offer id="Rb00266" available="true">
       <categoryId>38</categoryId>
