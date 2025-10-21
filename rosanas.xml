@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T07:18:22.166+03:00">
+<yml_catalog date="2025-10-21T07:28:12.774+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -30,6 +30,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb15577</param>
       <consist name="Хризантема одноголовая Еллоу Пинг Понг" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb3857" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Ламира 70 см Арт. Rb3857</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1b6sFjBiz4Jv4bhPQU6aVcpak_yHI6Y5W</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EajT4IK4ufB53pAg2d6SqIPy0OMwJ-zk</picture>
+      <picture>https://lh3.googleusercontent.com/d/17qY4FIkpIpWNTAK-e6plNikURZZ6f_54</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb3857</param>
+      <consist name="Хризантема одноголовая Ламира" unit="шт">10</consist>
     </offer>
     <offer id="Rb15607" available="true">
       <categoryId>5</categoryId>
@@ -77,6 +92,22 @@
       <param name="Артикул">Rb15127</param>
       <consist name="Хризантема кустовая Лимончелло" unit="шт">5</consist>
     </offer>
+    <offer id="Rb15077" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Хайдар 70 см Арт. Rb15077</name>
+      <price>121</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oLd9gGz1zzuErXC9sfUXdYC-iMki_EXv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w9K37CW6cqgWm84O4VUx5QPUag8u_qzI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iOkrMXFXMNGQGVdYNAWnFyEZ4HS9aKqN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb15077</param>
+      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
     <offer id="Rb13846" available="true">
       <categoryId>37</categoryId>
       <name>Аллиум 60 см Арт. Rb13846</name>
@@ -93,6 +124,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb13846</param>
       <consist name="Аллиум" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb01027" available="true">
+      <categoryId>37</categoryId>
+      <name>Астильба Эрика 70 см Арт. Rb01027</name>
+      <price>89</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ljrb_CxovqQz69SADChEEgTK8tMALO34</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iBX88mm1P4Es4UqDsPvxmvUTgaWlknAV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g8_I6PR6cC5wwIu1WRN4kcuJB3c2AYBy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VZrXxsTgIxY-0kyL4x8mIuemC8hLeDCc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VNKX0d9M7GSV2vFeqw8YTPBQYbae9riQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01027</param>
+      <consist name="Астильба Эрика" unit="шт">10</consist>
     </offer>
     <offer id="Rb10256" available="true">
       <categoryId>37</categoryId>
