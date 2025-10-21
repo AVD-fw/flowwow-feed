@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T07:38:16.315+03:00">
+<yml_catalog date="2025-10-21T07:48:30.407+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -92,6 +92,23 @@
       <param name="Артикул">Rb15127</param>
       <consist name="Хризантема кустовая Лимончелло" unit="шт">5</consist>
     </offer>
+    <offer id="Rb15287" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Рианна 70 см Арт. Rb15287</name>
+      <price>121</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1baRH67x3XVXyFz9BP-4NuhMPxe5yni-j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nH3Jto0OUCE-iVfcPPgihTB3GICOJutV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aiCALbL95UNAvk1B2zvdTJ220_L71sPR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hQRByT7IUgAdlqzAueI8QvxlDBEu7Z5f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb15287</param>
+      <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
+    </offer>
     <offer id="Rb15077" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Хайдар 70 см Арт. Rb15077</name>
@@ -107,6 +124,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Rb15077</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb15625" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Пинк 55 см Арт. Rb15625</name>
+      <price>111</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zoDHNIUUYVNifL2t1PObzCYyY0HfMHdz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pPY54Tvna1_bWW0o3Bwniu8P1xVJhqAR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb15625</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
     <offer id="Rb13846" available="true">
       <categoryId>37</categoryId>
@@ -243,6 +275,40 @@
       <param name="Артикул">Rb13997</param>
       <consist name="Клематис Эмейзинг Кибо" unit="шт">10</consist>
     </offer>
+    <offer id="Rb3728" available="true">
+      <categoryId>37</categoryId>
+      <name>Нутан Хайдж Голд 80 см Арт. Rb3728</name>
+      <price>199</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1WT9FqT_HJd2MOKnzv3F3zyzvLDCmciHY</picture>
+      <picture>https://lh3.googleusercontent.com/d/11W1bBUs8CzeikZOjBzzSl_Z68rBXEeJ5</picture>
+      <picture>https://lh3.googleusercontent.com/d/10QxcDkB8S5HP9nIeZEN8mc-KLw5FHBb2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1toXfC6ahlPjZ65sJiU4SCgMLjlo1xwZG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w7_miMj1qMeCBgoZg8vxDzMCMy5wBeDT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb3728</param>
+      <consist name="Нутан Хайдж Голд" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb5778" available="true">
+      <categoryId>37</categoryId>
+      <name>Озотамнус Кукс Шоу Ви 80 см Арт. Rb5778</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fwIvDomvu9UGJCIYCXXzFcfyGiSBX5Z3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jHIx6N1lKXlgmTfov8dvOb_biKb8ioXa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HEQdItJx1xaGsn4j-3W_HFNUVi0sO_Nc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KXv_rP33kVkyCmG4scMdQ5Y445HAjZip</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ec7lKlUMR_0niAerlzlr6r_OO22WS7rq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb5778</param>
+      <consist name="Озотамнус Кукс Шоу Ви" unit="шт">10</consist>
+    </offer>
     <offer id="Rb5186" available="true">
       <categoryId>37</categoryId>
       <name>Озотамнус Сноу Вайт 60 см Арт. Rb5186</name>
@@ -260,6 +326,23 @@
       <param name="Артикул">Rb5186</param>
       <consist name="Озотамнус Сноу Вайт" unit="шт">10</consist>
     </offer>
+    <offer id="Rb01117" available="true">
+      <categoryId>37</categoryId>
+      <name>Тагетес Промис Оранж 70 см Арт. Rb01117</name>
+      <price>79</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11DokV2jMFYW1IwXvdg4B10q1VIwi_44P</picture>
+      <picture>https://lh3.googleusercontent.com/d/10b757qQxLtksvicrHpGU_lGoUsyZGxuq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x9PBkCeWveoVaQz0FCoYKjhm-9doDJdo</picture>
+      <picture>https://lh3.googleusercontent.com/d/13vXe5L6dNKL8AS3URPk4LMRB8njfInQy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RTHhiRNTeFoZ2k3J7vvCjePDh7f5ZuVm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01117</param>
+      <consist name="Тагетес Промис Оранж" unit="шт">10</consist>
+    </offer>
     <offer id="Rb00596" available="true">
       <categoryId>37</categoryId>
       <name>Танацетум Белый 60 см Арт. Rb00596</name>
@@ -276,6 +359,76 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Rb00596</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb03207" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Репрайс Голд 72 см Арт. Rb03207</name>
+      <price>159</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xTSC4gKKIr4v1BrufW3Hx8e87IG3Gdz1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BpMZEgkTYsblTrQt6l4DL4ldAW9VZfdk</picture>
+      <picture>https://lh3.googleusercontent.com/d/10yBiDaSokXNlT6KPgLMXX8-_j6wJLQ29</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dwtT1GgZ25J5Pck_ewcu5Q6Ljd6nux4i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZUky83OxXt265q8WyggJlGSJycE7i75k</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">72</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb03207</param>
+      <consist name="Целозия Репрайс Голд" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb7977" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Репрайс Оранж 72 см Арт. Rb7977</name>
+      <price>159</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qb5oylVWFeNfzaRAAcnGcBKE6suPx_xT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tswrC208AHlOdY1HT1WFz5DUmZ7RrzXF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eSo_o5NJhqNtTIJB8fbzL8t9GaJ7-ap6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QB2Rw_-uUR7DV-jOmtBKZkkZGbRZJRcH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p4mCN_ZeGen3_7HxTKTrrsyLP70Vgi5T</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">72</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb7977</param>
+      <consist name="Целозия Репрайс Оранж" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb11217" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Репрайс Роуз 72 см Арт. Rb11217</name>
+      <price>155</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1J0N_igCoYlFLx8f8r1ipIbCa6uxzpf-Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FRGhe5OpqnRraKTlllD8zDUiZF_gn3jR</picture>
+      <picture>https://lh3.googleusercontent.com/d/178wd-4sWLqSn6Efz3pU6rcwXZCJnF0Sh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_fyzKgbvSfDbYsFMqk5EdM_QtHwFjqU8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K1sKgcbEV8SeVdSqZXmsDHNUF8Y0ycc7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">72</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Feiko</param>
+      <param name="Артикул">Rb11217</param>
+      <consist name="Целозия Репрайс Роуз" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb01288" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Флешинг 80 см Арт. Rb01288</name>
+      <price>159</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OLxaoaqkh1tceRnoKSEbySI0Ao9frGm_</picture>
+      <picture>https://lh3.googleusercontent.com/d/159QCRvHnWccMmPdzwfcTzgrIANJBcl8p</picture>
+      <picture>https://lh3.googleusercontent.com/d/18Z4rB1RZb0VzaJUZRRnrAPwUT3tDsj0s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DJTX3NVhVqo4McFCP4No2Pqax6CIKyED</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PR3t3AwyWi9nhdXJiuhoJ5RnTfXXO45a</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01288</param>
+      <consist name="Целозия Флешинг" unit="шт">5</consist>
     </offer>
     <offer id="Rb8967" available="true">
       <categoryId>37</categoryId>
@@ -380,6 +533,23 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">Rb00957</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb01328" available="true">
+      <categoryId>38</categoryId>
+      <name>Картамус Занзибар 80 см Арт. Rb01328</name>
+      <price>79</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-F5jE7mC8WgsopGEvA6Hdcs3R1mCg3P4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ROSFSXwAfhYagosGhcv2nX1c8t8L9s-y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QRklaZ-q6XIMZmc93RyX5rlGYyTttZBT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1egATvSaXSvBHo6TDS3Ztf_VeDGzJvfQY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RIZd5jMqdGhjBcE8JnZc32KySNAP_EkV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01328</param>
+      <consist name="Картамус Занзибар" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
