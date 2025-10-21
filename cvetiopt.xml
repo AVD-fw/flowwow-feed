@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T09:05:55.028+03:00">
+<yml_catalog date="2025-10-21T09:15:42.790+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fb7837" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Плайя Бланка 70 см Арт. Fb7837</name>
+      <price>182</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16h6_Xe9L_eEut3MJh2UPDXCJCI4CgSRV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RecqPapwa_St0PgW9jhpDVq8NInryo5t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a6BaGvWrwpapLUD2UOxJCZ7igPPecThk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yMTmLUfqBKu4-tcK6blxbaSUr-v1NLrB</picture>
+      <picture>https://lh3.googleusercontent.com/d/16h6_Xe9L_eEut3MJh2UPDXCJCI4CgSRV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosaprime</param>
+      <param name="Артикул">Fb7837</param>
+      <consist name="Роза одноголовая Плайя Бланка" unit="шт">25</consist>
+    </offer>
     <offer id="Fb8847" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая 70 см Арт. Fb8847</name>
