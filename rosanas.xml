@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-21T10:38:24.957+03:00">
+<yml_catalog date="2025-10-21T10:48:32.538+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,20 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rb15036" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Абигель 60 см Арт. Rb15036</name>
+      <price>135</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kBhK5CbvZThNXLv79iP990lp0U2_rgnJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb15036</param>
+      <consist name="Роза одноголовая Абигель" unit="шт">10</consist>
+    </offer>
     <offer id="Rb12326" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 60 см Арт. Rb12326</name>
@@ -261,6 +275,19 @@
       <param name="Артикул">Rb11724</param>
       <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
     </offer>
+    <offer id="Rb15476" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Пиканто 60 см Арт. Rb15476</name>
+      <price>165</price>
+      <qty>200</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1se4nt2iLiJcXnfgA-T64c9nMUV2EeYuH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb15476</param>
+      <consist name="Роза кустовая Пиканто" unit="шт">10</consist>
+    </offer>
     <offer id="Rb15237" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Йо Йо 70 см Арт. Rb15237</name>
@@ -398,6 +425,20 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb5516</param>
       <consist name="Роза кустовая пионовидная Роял Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb04376" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Сильва Пинк 60 см Арт. Rb04376</name>
+      <price>425</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YtyBqL7CzCKHMfMGLruLfMguyt10UHNi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04376</param>
+      <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Rb00877" available="true">
       <categoryId>5</categoryId>
