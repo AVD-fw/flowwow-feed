@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-22T10:48:22.706+03:00">
+<yml_catalog date="2025-10-22T10:58:25.207+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -31,6 +31,24 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb13204</param>
       <consist name="Роза одноголовая Джулия" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb01695" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кларенс 50 см Арт. Rb01695</name>
+      <price>69</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iNQnUSbi2P0SO6MgY2jcbr8dwTL9c26S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SBmYyyIWLczjlywjWmYLO1w5GYhBC6by</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uCDMjf7U2SnEfSSiX3yfxdqZMvjBySeH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z6sewNgjCCmK1-yf0S0FXGCu9ivdqWgj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y_nF_O8nL68k1COwJNLPFjjYHMf8Ut1C</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb01695</param>
+      <consist name="Роза одноголовая Кларенс" unit="шт">20</consist>
     </offer>
     <offer id="Rb13145" available="true">
       <categoryId>1</categoryId>
