@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-22T06:53:47.600+03:00">
+<yml_catalog date="2025-10-22T07:03:50.473+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -70,6 +70,24 @@
       <param name="Производитель">LS Santini</param>
       <param name="Артикул">Eb00316</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
+    </offer>
+    <offer id="Eb00537" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Радужный 70 см Арт. Eb00537</name>
+      <price>97</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17-IqJIsb4YfuK0qRfK2-r5QeHhDluMSU</picture>
+      <picture>https://lh3.googleusercontent.com/d/12RVdfVOW3YJnubMkxtc74-rcuHyWS-KV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dd8Jfd8A2xjidsrLoSyRi8aagxYYsNoX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ENLMSBLIT22i9aq48H1Tkg3YGqXAe2su</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vhFAGPRp60nTdnKW9IUrH7qpDlcMITuO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Eb00537</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
     <offer id="Eb00514" available="true">
       <categoryId>37</categoryId>
