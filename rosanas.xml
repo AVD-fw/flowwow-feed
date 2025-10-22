@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-22T11:19:51.440+03:00">
+<yml_catalog date="2025-10-22T11:28:31.023+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -175,7 +175,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Баблгам 60 см Арт. Rb02016</name>
       <price>103</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/15454A29tI29P4AaB8W8MUU0I33OD7Vsm</picture>
       <picture>https://lh3.googleusercontent.com/d/1lQaQhnQa8V5L8kn5uediLlcBkrost5KA</picture>
@@ -193,7 +193,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Кендал Лайт 70 см Арт. Rb7717</name>
       <price>137</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17mVDR9Adu_Da43_4HEXO2qMeFvsrh4dr</picture>
       <picture>https://lh3.googleusercontent.com/d/1VYdL5lPK0aQP49sVX_1dcT_gzlQ3t09j</picture>
@@ -262,7 +262,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Лидия 40 см Арт. Rb8234</name>
       <price>72</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/189pINsTVdfqKOcg4fJHi51JXHsjJIR47</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ydevb6u_KUzx9vx70MTZ0YG0YgQaYDEG</picture>
@@ -323,6 +323,23 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rb15237</param>
       <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb15246" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Рефлекс 60 см Арт. Rb15246</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fnDyvPsrBCbzjPoLu53R73W-Rr-iZa6_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sy_MlSXEdeKzCvd1SLrL-8yEdgWkQkyB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oEboFzrmTsLw7rhmIgwcQ84NUtj_g_UC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1meTGCKNfF2k4JjwGxsd3-3IEm-cqfwXc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o2FwVX8SloR7JT6pohc6VXmVlxt86mBl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb15246</param>
+      <consist name="Роза кустовая Рефлекс" unit="шт">10</consist>
     </offer>
     <offer id="Rb04265" available="true">
       <categoryId>3</categoryId>
@@ -397,7 +414,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Бомбастик 60 см Арт. Rb12386</name>
       <price>202</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_JdZIl8RMTfm1sY0WRC5ocf4ESABYcBw</picture>
       <picture>https://lh3.googleusercontent.com/d/1bgiDsB8o0yZkMFC__x0U5CIE94QpVUwZ</picture>
@@ -412,7 +429,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Бомбастик 50 см Арт. Rb14035</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1J1b86m8gGohb28HZ_qVDHJsZf9segVP_</picture>
       <picture>https://lh3.googleusercontent.com/d/1oqdtHLp27F1n2XT5L9INSNANDLLuX-zg</picture>
@@ -427,7 +444,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Дедикейшн 60 см Арт. Rb04496</name>
       <price>274</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17w4uPVnRwh3d2GoqjWAR-VRekdOHyRoP</picture>
       <picture>https://lh3.googleusercontent.com/d/1ve9LeE5Xx6BdGQaW4zMhz_SDqcA2oiUE</picture>
@@ -445,7 +462,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Корал Йо Йо 50 см Арт. Rb00465</name>
       <price>253</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1k0xOMuG8_iw0U3Gkj0SHT-lshM3ntO9p</picture>
       <picture>https://lh3.googleusercontent.com/d/1VHptuR6m5X0T-pIi-F421rlkM357l_D8</picture>
@@ -463,7 +480,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Лавендер Бабблс 40 см Арт. Rb12404</name>
       <price>113</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1760TCT6vV8Kau_1nMJDxDSEuYrpQqiYf</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ah61w3SB0C75yfU-UeEVD8hvfsPFVnmG</picture>
@@ -479,7 +496,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Луна Трендсеттер 60 см Арт. Rb01806</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VanXaz91DGHo9YwIqmnbPksGp6YJm9BT</picture>
       <picture>https://lh3.googleusercontent.com/d/1l82OYl5SGITIt6IwAm-K-xnnuNa3_4nR</picture>
@@ -497,7 +514,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rb04275</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QfGrg1tjgLGeCVthdm5zMozVvnp32Kti</picture>
       <picture>https://lh3.googleusercontent.com/d/1vvQz7suj8M0bqRyDISJnLzozOl3dIsOX</picture>
@@ -515,7 +532,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Марвелоу Бабблз 60 см Арт. Rb4146</name>
       <price>163</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1V5Dw0byN6XVo_UMhMux8RtQmMDuMoeQo</picture>
       <picture>https://lh3.googleusercontent.com/d/13LeYgGCHp10VkyhvAEEUbs5lI8P1ksIg</picture>
@@ -532,7 +549,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мисти Бабблс 50 см Арт. Rb13345</name>
       <price>322</price>
-      <qty>10</qty>
+      <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ei54sH5Ec_7R2HxBHrM0SYgQOETHrkJs</picture>
       <picture>https://lh3.googleusercontent.com/d/15UUse3AsLkaN9PpAUA_siAHnTOOFw2gA</picture>
@@ -549,7 +566,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Роял Парк 60 см Арт. Rb5516</name>
       <price>397</price>
-      <qty>5</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eYte5XEQVYs86TOEjcmrjUS6qa-MG8vb</picture>
       <picture>https://lh3.googleusercontent.com/d/1kk9lXweG2UBZ0J1d8vDeuAKiXjs5gjwn</picture>
@@ -567,7 +584,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Спешл Дименшен 40 см Арт. Rb00474</name>
       <price>171</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PiQLepF2GfyZEMLmSggT4pxs9o2vd5Y0</picture>
       <picture>https://lh3.googleusercontent.com/d/1OaqxEHZpKY5sqFTl8i3SLpcgtxo4ofA0</picture>
