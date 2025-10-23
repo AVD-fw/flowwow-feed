@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-23T12:57:04.802+03:00">
+<yml_catalog date="2025-10-23T13:05:55.026+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -556,11 +556,11 @@
       <price>110</price>
       <qty>75</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/11uHH2irur83DuAH-2kbTeVDtRLiuS5Ow</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hfxmbpfpuTZqDoldcu5GPcGJdXPBycG8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aOo8lb_ESDyRNYK51FKZfkNNt6RRgcI8</picture>
       <picture>https://lh3.googleusercontent.com/d/11uHH2irur83DuAH-2kbTeVDtRLiuS5Ow</picture>
       <picture>https://lh3.googleusercontent.com/d/11uHH2irur83DuAH-2kbTeVDtRLiuS5Ow</picture>
       <picture>https://lh3.googleusercontent.com/d/1Tz01rBApPEvpSuULrwSxZ7Z_k-uUVW29</picture>
+      <picture>https://lh3.googleusercontent.com/d/11uHH2irur83DuAH-2kbTeVDtRLiuS5Ow</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -1023,6 +1023,24 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fb01267</param>
       <consist name="Гвоздика одноголовая Веддинг" unit="шт">25</consist>
+    </offer>
+    <offer id="Fb01257" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Джангл 70 см Арт. Fb01257</name>
+      <price>50</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19cyaJ9sVweY91JmAQ_YuQSqKt8UbMbH9</picture>
+      <picture>https://lh3.googleusercontent.com/d/16Wyn_9DdnfmYuP5q0x7nFj-MJV-7swoq</picture>
+      <picture>https://lh3.googleusercontent.com/d/16Wyn_9DdnfmYuP5q0x7nFj-MJV-7swoq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wCYgIqs-VR7tMhVoYTJRlV1oG7yNeeCJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wCYgIqs-VR7tMhVoYTJRlV1oG7yNeeCJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fb01257</param>
+      <consist name="Гвоздика одноголовая Джангл" unit="шт">25</consist>
     </offer>
     <offer id="Fb18877" available="true">
       <categoryId>37</categoryId>
