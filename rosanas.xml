@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-23T09:08:18.996+03:00">
+<yml_catalog date="2025-10-23T09:18:24.337+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Кон Аморе 50 см Арт. Rb13145</name>
       <price>122</price>
-      <qty>10</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iEXQDLN2pAft1PVYpjGiJb1KZN-roczg</picture>
       <picture>https://lh3.googleusercontent.com/d/1IkNPoAFqk2YDU1cot4jQ3yuUHOLpNmZw</picture>
@@ -70,7 +70,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Эль Торо 50 см Арт. Rb13225</name>
       <price>61</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OUgMvEJC3zGBz0Dhi-Wpnz0uFv0ap1FD</picture>
       <picture>https://lh3.googleusercontent.com/d/16bpUyHmsXEX_eMOH6WMu0SEcJm45hQd1</picture>
@@ -137,6 +137,19 @@
       <param name="Артикул">Rb7717</param>
       <consist name="Роза одноголовая пионовидная Кендал Лайт" unit="шт">10</consist>
     </offer>
+    <offer id="Rb15476" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Пиканто 60 см Арт. Rb15476</name>
+      <price>165</price>
+      <qty>200</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1se4nt2iLiJcXnfgA-T64c9nMUV2EeYuH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb15476</param>
+      <consist name="Роза кустовая Пиканто" unit="шт">10</consist>
+    </offer>
     <offer id="Rb00336" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Йо Йо 60 см Арт. Rb00336</name>
@@ -159,7 +172,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Рефлекс 60 см Арт. Rb15246</name>
       <price>165</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RK8tT5qo8NNmGlCMYyQH5kECUcv_hTyW</picture>
       <picture>https://lh3.googleusercontent.com/d/1oEboFzrmTsLw7rhmIgwcQ84NUtj_g_UC</picture>
@@ -230,7 +243,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Лавендер Бабблс 40 см Арт. Rb12404</name>
       <price>113</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fRhefZFQGuzmth05-716BFt0L3GWiOmA</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ah61w3SB0C75yfU-UeEVD8hvfsPFVnmG</picture>
@@ -569,22 +582,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb13476</param>
       <consist name="Вероника Клеар Джун" unit="шт">25</consist>
-    </offer>
-    <offer id="Rb12495" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика кустовая 50 см Арт. Rb12495</name>
-      <price>56</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/160QoSkls--DMQsreTlxwaBkR4qlQOiEP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JYJHGJaK1gaB98yoCk_QEck43h4WKveP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ue9lSckHSEwXwQnBCpnoKwqRhJuRP27R</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Rb12495</param>
-      <consist name="Гвоздика кустовая" unit="шт">10</consist>
     </offer>
     <offer id="Rb11027" available="true">
       <categoryId>37</categoryId>
