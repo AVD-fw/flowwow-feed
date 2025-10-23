@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-23T07:28:24.779+03:00">
+<yml_catalog date="2025-10-23T07:38:21.060+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -195,6 +195,23 @@
       <param name="Артикул">Rb00465</param>
       <consist name="Роза кустовая пионовидная Корал Йо Йо" unit="шт">10</consist>
     </offer>
+    <offer id="Rb12404" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Лавендер Бабблс 40 см Арт. Rb12404</name>
+      <price>113</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fRhefZFQGuzmth05-716BFt0L3GWiOmA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ah61w3SB0C75yfU-UeEVD8hvfsPFVnmG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hAXTpKndm7hZnN85TngBPrjYcCCn1Elx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1760TCT6vV8Kau_1nMJDxDSEuYrpQqiYf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb12404</param>
+      <consist name="Роза кустовая пионовидная Лавендер Бабблс" unit="шт">10</consist>
+    </offer>
     <offer id="Rb01825" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Rb01825</name>
@@ -264,6 +281,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb7377</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb15607" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Петр 70 см Арт. Rb15607</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VeeCbUN7eOSclAYXgTIQVcijsSqqQ8k3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p67Sww1iD4jmM9PnWDZg2FPXOnhuu5vL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t_4kfV71DtBhh-Yxds5KsY3R1P6JZbak</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J5i349aUUC-L9svF-DGtFn6WrKxb5gyl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Rb15607</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
     </offer>
     <offer id="Rb00847" available="true">
       <categoryId>5</categoryId>
@@ -555,6 +589,23 @@
       <param name="Артикул">Rb9801</param>
       <consist name="Гидрангия Верена" unit="шт">5</consist>
     </offer>
+    <offer id="Rb7256" available="true">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Дельфиниум Меджик Фонтан Лавандовый 60 см Арт. Rb7256</name>
+      <price>205</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ki2JJXCWVArbwTEQQFFdlwC8S6eBA6XS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LCW2Ycg3qPws0xIMxT2Xd4qXHaHRbmsl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V0qxDr1SH4VPPDVPKu43pI4OvUgIeXEe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yDSVLYciRyx-KE8RfQVqN4qkcFcdVxBI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mY2iDse23-2-jc8942vWpKmBAy5pgV8S</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb7256</param>
+      <consist name="Дельфиниум Дельфиниум Меджик Фонтан Лавандовый" unit="шт">10</consist>
+    </offer>
     <offer id="Rb01096" available="true">
       <categoryId>37</categoryId>
       <name>Калла Блашинг Лейди 65 см Арт. Rb01096</name>
@@ -743,6 +794,57 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01288</param>
       <consist name="Целозия Флешинг" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb10577" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Роуз Пинк 70 см Арт. Rb10577</name>
+      <price>205</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lpFIMuhC0ab0ARq132XEZFIjGGXp8KA9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SPAuL6x-_iizdKQTCuFZseEhf5fpWjHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z6WkIa5pZpW1PyEtEDovHQZ5YN3w8Bl9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JJ6GU9GVyHkKPaij-cXNMRDqdDjNvrDC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ntIlhxeorR6UgKVJCLGSiipw54mRThd6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb10577</param>
+      <consist name="Эустома Алиса Роуз Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb7797" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алисса Блю 70 см Арт. Rb7797</name>
+      <price>205</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fPaYJuyw9XXMoxuU75Sf-WsmoWwxioC2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A3NTGv_ZtuBvdH7HFRIJKXpuJcHh367z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c3V1idu-W60cFQQxmnC1_WBQM1-eWmdJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AtrOZNjvme-OpwMmj0c2pU39ZqziAJHQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1q908emWVSl88q4H-ejFgUSuLfttql3q0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb7797</param>
+      <consist name="Эустома Алисса Блю" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb7227" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алисса Грин 70 см Арт. Rb7227</name>
+      <price>199</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19GV9pGzp-QuacJliTzLWlVXlyMna23km</picture>
+      <picture>https://lh3.googleusercontent.com/d/18aiHtsVYOZZVt5Ln5nrMEGWYVG2-Dpwj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb7227</param>
+      <consist name="Эустома Алисса Грин" unit="шт">10</consist>
     </offer>
     <offer id="Rb3714" available="true">
       <categoryId>38</categoryId>
