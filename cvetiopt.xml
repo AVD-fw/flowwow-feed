@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-23T12:15:42.264+03:00">
+<yml_catalog date="2025-10-23T12:25:49.785+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -816,22 +816,6 @@
       <param name="Артикул">Fb05076</param>
       <consist name="Брассика" unit="шт">5</consist>
     </offer>
-    <offer id="Fb18525" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика кустовая 50 см Арт. Fb18525</name>
-      <price>50</price>
-      <qty>70</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1nN9l3IIosirpkLfYmdQ1TPRDWQsaT0ph</picture>
-      <picture>https://lh3.googleusercontent.com/d/1w_i4mg55wN4kkJJY51DqhRzC27oZ5YEj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EkLXkio63NEvGDgKUpSOgShUZDTj_suJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/19zoMOeJNQlW_Gw22D45MDWv2WqDL0vfE</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Fb18525</param>
-      <consist name="Гвоздика кустовая" unit="шт">10</consist>
-    </offer>
     <offer id="Fb12095" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Арагон 50 см Арт. Fb12095</name>
@@ -839,11 +823,12 @@
       <qty>300</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yWgIocIrAge1xkPvuPDMr0STmtSPCkhn</picture>
-      <description>Арагон</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Коллумбия</param>
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fb12095</param>
+      <consist name="Гвоздика кустовая Арагон" unit="шт">10</consist>
     </offer>
     <offer id="Fb13605" available="true">
       <categoryId>37</categoryId>
@@ -880,6 +865,23 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fb01635</param>
       <consist name="Гвоздика кустовая Нимбус" unit="шт">10</consist>
+    </offer>
+    <offer id="Fb18525" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Ючува 50 см Арт. Fb18525</name>
+      <price>50</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nN9l3IIosirpkLfYmdQ1TPRDWQsaT0ph</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w_i4mg55wN4kkJJY51DqhRzC27oZ5YEj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EkLXkio63NEvGDgKUpSOgShUZDTj_suJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/19zoMOeJNQlW_Gw22D45MDWv2WqDL0vfE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fb18525</param>
+      <consist name="Гвоздика кустовая Ючува" unit="шт">10</consist>
     </offer>
     <offer id="Fb14957" available="true">
       <categoryId>37</categoryId>
