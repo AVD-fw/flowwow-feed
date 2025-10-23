@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-23T09:04:37.952+03:00">
+<yml_catalog date="2025-10-23T09:13:59.094+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -563,6 +563,23 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Eb00458</param>
       <consist name="Солидаго" unit="шт">25</consist>
+    </offer>
+    <offer id="Eb01205" available="true">
+      <categoryId>38</categoryId>
+      <name>Эрингиум Синий 50 см Арт. Eb01205</name>
+      <price>175</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wp4sZR0GMZCvXLaP-x_7k8k75FH2pqZd</picture>
+      <picture>https://lh3.googleusercontent.com/d/15VF8JImGwPeOUbJn7x2tu_tP3pkzWCaS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mzkNo-BsMdr6HNURMxMJHuW99ZuFJqcV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L-4nknoJnVM2-cp30tJkVc_ZkFt-gKMj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oYN18yd3-TSGLLUzK__tuQMm1iP8EhQr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Eb01205</param>
+      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
