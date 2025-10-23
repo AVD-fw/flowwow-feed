@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-23T07:13:53.587+03:00">
+<yml_catalog date="2025-10-23T07:23:57.664+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. Eb2167</name>
       <price>140</price>
-      <qty>10</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VKcirTb1KNCZ5FTIjoLhYRtoAmtlQ3ce</picture>
       <picture>https://lh3.googleusercontent.com/d/1XC8Dafv7LNunAbMvSbUOSY02g3FyxY5-</picture>
@@ -75,7 +75,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 60 см Арт. Eb01286</name>
       <price>128</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Hy0baimDAAC6ROMDdRjskC6AcMkT0mHs</picture>
       <picture>https://lh3.googleusercontent.com/d/1iBsIciO4pi1kUNXHXfDGScP-GpPGoEhH</picture>
@@ -111,7 +111,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Eb2866</name>
       <price>128</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1c4OqpT1Y6vLIhisuKbcWpVZqFCkkj-q-</picture>
       <picture>https://lh3.googleusercontent.com/d/1BxJYMDaDxMWG5_F14CY-Ur3jQS-hUFKx</picture>
@@ -129,7 +129,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бакарди Пинк 60 см Арт. Eb2996</name>
       <price>95</price>
-      <qty>5</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aB1oYXVyv2NHNchDCzGwFIavt0FOoG6y</picture>
       <picture>https://lh3.googleusercontent.com/d/188qfV_UIm7RIr30Axl1qLi_fRK9eTXrq</picture>
@@ -143,11 +143,29 @@
       <param name="Артикул">Eb2996</param>
       <consist name="Хризантема кустовая Бакарди Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="Eb00906" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Балтика Пинк 60 см Арт. Eb00906</name>
+      <price>95</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VFlQIE0HhkTMkJc8jiuuKLv8WbxCez0J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZNlHQQeb0q175vBj75NhPDnFOytREZhF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SLAHf2pRIJzC3XIy-5gizS7Jz5p7Oc_3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HGowDyYYxv4Wrof1OAPcQ1xypsjlUIP0</picture>
+      <picture>https://lh3.googleusercontent.com/d/14iKddY9c9HCJc3aEi_na-dmIzKdfB4oH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Eb00906</param>
+      <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
+    </offer>
     <offer id="Eb2846" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди 60 см Арт. Eb2846</name>
       <price>95</price>
-      <qty>5</qty>
+      <qty>125</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XrpaERRwRLHvcbrf9uOewdNOt0to8NPP</picture>
       <picture>https://lh3.googleusercontent.com/d/1Em7xAHlEegEELc-HzFjuR628hTt7C7af</picture>
@@ -182,7 +200,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Пастелла Пинк 60 см Арт. Eb3076</name>
       <price>90</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MkdzUZTGaGxOmAeat4a8Iy6z5tDFHHWR</picture>
       <picture>https://lh3.googleusercontent.com/d/1-Jv7ymqnI9AwVCXTx9RFg1dn_gy7gW8a</picture>
@@ -218,7 +236,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Хайдар 70 см Арт. Eb3797</name>
       <price>95</price>
-      <qty>5</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OtfOQEWTjnjfPPiL_JvkTH_-GCIsYynf</picture>
       <picture>https://lh3.googleusercontent.com/d/1Vlp6ExXY19s4uujx5-opfJFV-qCVrJVo</picture>
@@ -236,7 +254,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Пеп Талк 50 см Арт. Eb00985</name>
       <price>70</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vv1510-h047uD3643Ct8yO7TZgXJBXik</picture>
       <picture>https://lh3.googleusercontent.com/d/17rVZGcd5W99MaFmvLa3xHohDPTnUGsib</picture>
@@ -254,7 +272,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Крем 60 см Арт. Eb00316</name>
       <price>70</price>
-      <qty>25</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1SujIk3QkZlkmHIWBmgF5QzirhE8G3zyM</picture>
       <picture>https://lh3.googleusercontent.com/d/14ub54QRneH5KFY3KslgkYnEnaCFKWJwe</picture>
@@ -361,7 +379,7 @@
       <categoryId>37</categoryId>
       <name>Гортензия Голубой 40 см Арт. Eb00514</name>
       <price>225</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1u_eXyDCwHspKLNKz1WcsNVQsbpQdx6Cf</picture>
       <picture>https://lh3.googleusercontent.com/d/1nybTGnntNhTfb7Wm-7AhINtPYQQtad9d</picture>
@@ -412,7 +430,7 @@
       <categoryId>37</categoryId>
       <name>Лимониум Белый 50 см Арт. Eb01225</name>
       <price>120</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zcoj9fJ4k2YkvKB-cfeYEa6lwd105E-w</picture>
       <picture>https://lh3.googleusercontent.com/d/1NHwjv_gwy3RarQzvBgtXK5eb2TOLFA6n</picture>
@@ -447,7 +465,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Блу Пикот 70 см Арт. Eb00267</name>
       <price>160</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TfeQzxkd-kTK0gDQ-NYUft7Ydn-pUyrQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ot7iWjMcYWdTbNy-pMVdFn8ric_LybkJ</picture>
@@ -483,7 +501,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Экскалибур Хот Липс 60 см Арт. Eb2486</name>
       <price>155</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nUNopA7811op_V4uCUm3oSUrkeL-PYKo</picture>
       <picture>https://lh3.googleusercontent.com/d/18Gu_uGhK3IGdiTlGILXG4VMyyECJpNd5</picture>
