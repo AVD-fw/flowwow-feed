@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T10:59:22.245+03:00">
+<yml_catalog date="2025-10-24T11:08:30.003+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -99,6 +99,24 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb02016</param>
       <consist name="Роза одноголовая пионовидная Баблгам" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb4226" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Ридженст Парк 60 см Арт. Rb4226</name>
+      <price>178</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tY_uWFJyZHMEEV95lH0CTjyv7-JUwnHA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NxR0Fv7GftvaIPICXdF0n_s57BBLh6OJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g3MYa6Snusc26vP3mJsqbocH0Q7nOo1E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h8yHuLWmUxrr5pPxmwdJScrjXixocS-K</picture>
+      <picture>https://lh3.googleusercontent.com/d/19Ja0lQD1s0iUC3Mg65fP_xrYJieEp1ck</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb4226</param>
+      <consist name="Роза одноголовая пионовидная Ридженст Парк" unit="шт">10</consist>
     </offer>
     <offer id="Rb04486" available="true">
       <categoryId>3</categoryId>
@@ -675,6 +693,53 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01117</param>
       <consist name="Тагетес Промис Оранж" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb12104" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Оранжевый 40 см Арт. Rb12104</name>
+      <price>85</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16tm0pWqrJ7_TVTfyo3eImSPhVGcgK6SO</picture>
+      <picture>https://lh3.googleusercontent.com/d/12uzkzY6wEJTKQAAdhOpD9VfYFNjpFEKq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R0CdgL6Sfg9nekHuZFG8mlizQ9wcDC2m</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb12104</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Rb12114" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Желтый 40 см Арт. Rb12114</name>
+      <price>85</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Mv93ebCCMJUEQmSF8SJh2ewbsulzkHaJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Mv93ebCCMJUEQmSF8SJh2ewbsulzkHaJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Mv93ebCCMJUEQmSF8SJh2ewbsulzkHaJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Mv93ebCCMJUEQmSF8SJh2ewbsulzkHaJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Mv93ebCCMJUEQmSF8SJh2ewbsulzkHaJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb12114</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Rb12134" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Белый 40 см Арт. Rb12134</name>
+      <price>85</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TvVrcaIIvG4fpsQ2Dwo8oeS4Iw0KGjc8</picture>
+      <picture>https://lh3.googleusercontent.com/d/16lzK1IvMa5iBX6W4jpZfYcAJxb49DY31</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XUoWuX6MFcmiIR5bXlRDRunCovUuBgfa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rb12134</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
     <offer id="Rb03207" available="true">
       <categoryId>37</categoryId>
