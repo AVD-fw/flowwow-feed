@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T06:49:23.510+03:00">
+<yml_catalog date="2025-10-24T06:58:09.093+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -34,6 +34,42 @@
       <param name="Производитель">Краснодар</param>
       <param name="Артикул">Rb03635</param>
       <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb8257" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Корелли Корал 70 см Арт. Rb8257</name>
+      <price>199</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jgT3F1FitEuVKlJChl56Qmwefgek0cQp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b-tF4HpNmBe1sQvihfRjR86X5MOtTP3E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d_-R61BLwouBVVhrh-4L-q7BAlkvpIP1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1etocPfqC0Lrhu3XJFbD0S7zYMYsAdo2C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cc_kGxyRtYXKERx7C4pXJL0F444EF4XN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb8257</param>
+      <consist name="Эустома Корелли Корал" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb8977" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росан Эмралд 70 см Арт. Rb8977</name>
+      <price>199</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JLM44ZYgyIdPZXqkFvuGam9CHhzOzGxI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ARnHj_ZFfxEm_FRp0BPGxG-ZTBVyz2bU</picture>
+      <picture>https://lh3.googleusercontent.com/d/10HUtqnnnNkNFa_fgpaAeBKzwgKksGCg7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-rFvaLw5saf2bN-ZuDYAqqTTIABAxQii</picture>
+      <picture>https://lh3.googleusercontent.com/d/18nNqnXjOubIao8ZJ7A_eTlELM5ZZuN8d</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb8977</param>
+      <consist name="Эустома Росан Эмралд" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
