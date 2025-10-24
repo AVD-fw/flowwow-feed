@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T09:29:20.600+03:00">
+<yml_catalog date="2025-10-24T09:38:43.769+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -66,20 +66,6 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb13225</param>
-      <consist name="Роза одноголовая Эль Торо" unit="шт">10</consist>
-    </offer>
-    <offer id="Rb16114" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Эль Торо 40 см Арт. Rb16114</name>
-      <price>94</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1yOtOavMBA2fFm4E1RYL0L_JK0NNz9nPv</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rb16114</param>
       <consist name="Роза одноголовая Эль Торо" unit="шт">10</consist>
     </offer>
     <offer id="Rb02016" available="true">
@@ -365,6 +351,24 @@
       <param name="Артикул">Rb7377</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
     </offer>
+    <offer id="Rb15607" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Петр 70 см Арт. Rb15607</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dZGNW5bv8PrSksJ67FVj6gPZauDrsBR7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p67Sww1iD4jmM9PnWDZg2FPXOnhuu5vL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t_4kfV71DtBhh-Yxds5KsY3R1P6JZbak</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J5i349aUUC-L9svF-DGtFn6WrKxb5gyl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VeeCbUN7eOSclAYXgTIQVcijsSqqQ8k3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Rb15607</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
+    </offer>
     <offer id="Rb00847" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Шарлотте 70 см Арт. Rb00847</name>
@@ -518,6 +522,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb5238</param>
       <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb00378" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Радужная 80 см Арт. Rb00378</name>
+      <price>204</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QcZ2qe6LXQv7LR_cKgfH8nV2iuUNJx0S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qrgpEpw5xk0cErX9XYPVUspKgc-VjZ25</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-BUUFB_30soHicSdiYn39JmpwTgWetvH</picture>
+      <picture>https://lh3.googleusercontent.com/d/18RhX4mL7f2FgdgU9JKeSyLnIHJg6OlNO</picture>
+      <picture>https://lh3.googleusercontent.com/d/14DSDOrZAOoepZjiqRLVT5rvMT7WlRCV3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Rb00378</param>
+      <consist name="Гипсофила Радужная" unit="шт">25</consist>
     </offer>
     <offer id="Rb01096" available="true">
       <categoryId>37</categoryId>
@@ -674,6 +696,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb7977</param>
       <consist name="Целозия Репрайс Оранж" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb01288" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Флешинг 80 см Арт. Rb01288</name>
+      <price>159</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ONnpePBanszg4a1ligdHKvKeaXgsbQx9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OLxaoaqkh1tceRnoKSEbySI0Ao9frGm_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a9G9zNrLnJqaqvUl0q0J1lM-ebaviPaW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z4HAyfu3twscWnrr6LZ_6XaPkGF4qfQM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1adOIp_MqxX0BHmj3ueX0PkST-3Deb5A9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01288</param>
+      <consist name="Целозия Флешинг" unit="шт">5</consist>
     </offer>
     <offer id="Rb8257" available="true">
       <categoryId>37</categoryId>
