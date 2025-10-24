@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T08:56:56.002+03:00">
+<yml_catalog date="2025-10-24T09:06:25.057+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -129,7 +129,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ред Наоми 60 см Арт. Fb02516</name>
       <price>88</price>
-      <qty>15</qty>
+      <qty>150</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OHX_zADS_gviu9EArVNpdSXMVvfFQRvY</picture>
       <picture>https://lh3.googleusercontent.com/d/1bqgakrXnhqj7cbY8rTdrsNw0BoW_hyJV</picture>
@@ -159,6 +159,42 @@
       <param name="Производитель">Линия Розы</param>
       <param name="Артикул">Fb5325</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
+    </offer>
+    <offer id="Fb16281" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Эксплорер 110 см Арт. Fb16281</name>
+      <price>209</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1A2hfjzBAqDW4X3UbPalnsy9i9VgEdLed</picture>
+      <picture>https://lh3.googleusercontent.com/d/188J7cgYja8QtK7aLz6NRSf_VPGXWRCKk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AGpZK1LSkUA21d1nntarISm7_cgQRkpI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VbUFlJn2j7-JaO-nC_W81IAhSk2TDWDK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hPSLDttmYntp-V_X8tMKaQSOTTA63ZkV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">110</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosas del Corazon</param>
+      <param name="Артикул">Fb16281</param>
+      <consist name="Роза одноголовая Эксплорер" unit="шт">25</consist>
+    </offer>
+    <offer id="Fb7895" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Вайт Охара 50 см Арт. Fb7895</name>
+      <price>176</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kB__FoZ9GvAsSdJO8Wi_wjL0RVkeUPKc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PPQ1vmOLOnWaha9u-vFjpXcs7E0wXQmF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KiopfnuZkhn4FnHP4kIuvm5LUMhpR4M-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p80-0TEpT6QLvksn9UUiqunSWKfPFFdN</picture>
+      <picture>https://lh3.googleusercontent.com/d/17tXu50RyEJNy6I28DtaJFt55zAhrBJum</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosaprime</param>
+      <param name="Артикул">Fb7895</param>
+      <consist name="Роза одноголовая пионовидная Вайт Охара" unit="шт">25</consist>
     </offer>
     <offer id="Fb06307" available="true">
       <categoryId>2</categoryId>
@@ -260,6 +296,24 @@
       <param name="Артикул">Fb18596</param>
       <consist name="Роза кустовая пионовидная Б Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Fb06228" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Бомбастик 80 см Арт. Fb06228</name>
+      <price>248</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HLLXE_w3_MCTAy4pIAQTRtAH7IzFpKpD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z0q5rVEbqWaG0eu5VBhKR6nI3Wq94Rer</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Undz6OVrKmHroKFynAE4Hm5vbPQRagak</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EeGLYdrXftoy4GOnacX2kVxdHEcFCcSE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EeGLYdrXftoy4GOnacX2kVxdHEcFCcSE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fb06228</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Fb5968" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Йеллоу Бабблс 80 см Арт. Fb5968</name>
@@ -277,6 +331,23 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fb5968</param>
       <consist name="Роза кустовая пионовидная Йеллоу Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fb13969" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Леди Бомбастик 90 см Арт. Fb13969</name>
+      <price>242</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/120yOFIVYm3xz-6Uk661vFHDg7E9CDOKU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p6deR3h9Ro645CL314P5PyKErU4OUi9-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ai7xVnzUDCKWzpmlkuLN5Hw4A89trFio</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BFwU0wHjcLICrLORT9ZNxArlTuiPHzv7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fb13969</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Fb06247" available="true">
       <categoryId>4</categoryId>
@@ -296,11 +367,28 @@
       <param name="Артикул">Fb06247</param>
       <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">10</consist>
     </offer>
+    <offer id="Fb13948" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Ред Баблс 80 см Арт. Fb13948</name>
+      <price>209</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cGdWnm-uYLZPOzEGKcYGHUyZ_m9s2Wvk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v5_9D0es2xVl9_7zUtYbsRwIRcIcVXnr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uNXAlxUR3HWvgRY0JwKZXvuMYkhRy1kX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gsKoZDcgcqWYNTjIn0p6-0ZHs8az3UsA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fb13948</param>
+      <consist name="Роза кустовая пионовидная Ред Баблс" unit="шт">10</consist>
+    </offer>
     <offer id="Fb04387" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Кремовый 70 см Арт. Fb04387</name>
       <price>176</price>
-      <qty>10</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1s-7Ngmo7yhuqp4ifnB2vwY7jIoWXy4rQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1KR1LHEOohHPsmW_tzQzWD4zWrciIzEIq</picture>
@@ -476,7 +564,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Рианна 70 см Арт. Fb00937</name>
       <price>110</price>
-      <qty>5</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zxsA_BCkQ4pklYVbwAUnpj6fKpo5Fmbp</picture>
       <picture>https://lh3.googleusercontent.com/d/1cgN79NFEdzSqm0IlJLYSFxegJ3-BY_Ys</picture>
@@ -669,7 +757,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Белый 60 см Арт. Fb5726</name>
       <price>132</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ct14YPZPq218A_U_SsBhWTYPYMPFcUct</picture>
       <picture>https://lh3.googleusercontent.com/d/1h-ZPTb9dxSfeP4El1s9Jih3e0__6vhF0</picture>
@@ -686,7 +774,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Желтый 60 см Арт. Fb11326</name>
       <price>132</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pWaTiauNZlIoaIQ4DF_9NccN9Xr7zJN9</picture>
       <picture>https://lh3.googleusercontent.com/d/1snTrNKaQ3F74CMzXaHlNa4C-YFzMZR1U</picture>
@@ -752,7 +840,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Арагон 50 см Арт. Fb12095</name>
       <price>50</price>
-      <qty>10</qty>
+      <qty>400</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1O3vPtYjqDfIko5MsLYunJ3RMf_PseZy9</picture>
       <picture>https://lh3.googleusercontent.com/d/1yWgIocIrAge1xkPvuPDMr0STmtSPCkhn</picture>
@@ -767,7 +855,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Бамбо 50 см Арт. Fb13605</name>
       <price>50</price>
-      <qty>10</qty>
+      <qty>170</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1CKlvIvPqiDkOQY2ttGfCX74pSYx2wtWh</picture>
       <picture>https://lh3.googleusercontent.com/d/1PqJMWzQiDY621FBWrSm5MBAHTdsEqp7L</picture>
@@ -839,7 +927,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Велюрс 70 см Арт. Fb9697</name>
       <price>50</price>
-      <qty>25</qty>
+      <qty>250</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1o1CDAR6lICZvYfmQNppWslTgOnWREgGH</picture>
       <picture>https://lh3.googleusercontent.com/d/1f3gdZ4oMpcvABXib2_C80UPkMZrlOHAA</picture>
@@ -911,7 +999,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мерлетто Лавендер 70 см Арт. Fb12567</name>
       <price>50</price>
-      <qty>25</qty>
+      <qty>550</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bVkNoLrQ5Dpw782vy9slKEmN_p3xbjiX</picture>
       <picture>https://lh3.googleusercontent.com/d/1W1tUY9njaf2uv7VbIFZywhK4DHqO0ndk</picture>
@@ -929,7 +1017,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ноббио Бургунди 70 см Арт. Fb9577</name>
       <price>50</price>
-      <qty>25</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VFf9jA2X0_6Y68ddjH74OX9yNB6JuzVt</picture>
       <picture>https://lh3.googleusercontent.com/d/135hWyKYGfjlQyNalDLJn6BUBjkpdLC4V</picture>
@@ -982,7 +1070,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Харизма 70 см Арт. Fb9727</name>
       <price>50</price>
-      <qty>25</qty>
+      <qty>325</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1T-mJfMd5q_wcIdoyWq0qz2OZCbgIDG_l</picture>
       <picture>https://lh3.googleusercontent.com/d/1SMgJVtxHngIpcYl5TXydoV9MoxTLFCvl</picture>
@@ -996,29 +1084,11 @@
       <param name="Артикул">Fb9727</param>
       <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
     </offer>
-    <offer id="Fb00834" available="true">
-      <categoryId>37</categoryId>
-      <name>Гербера Розовый 40 см Арт. Fb00834</name>
-      <price>127</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1YqI2YXakBFIBcz5DMrYvTAlGTBvOD8NE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DaHFBW_p4CK-ouUauBj_dZJpJ0l8WEqj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zHmVvR0VbAt8NuavyJMB-JLl1qa-mO3U</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vFiO-sTRwHllwGdCrTrST4mnbEkXPoJy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PTq9OFmsE491L0IodfwiSPLkDaJWElZk</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Fb00834</param>
-      <consist name="Гербера" unit="шт">15</consist>
-    </offer>
     <offer id="Fb00844" available="true">
       <categoryId>37</categoryId>
       <name>Гербера Белый 40 см Арт. Fb00844</name>
       <price>116</price>
-      <qty>20</qty>
+      <qty>140</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hvpGOBKV-0E59AR3Ryo79UFm9QeM5bGz</picture>
       <picture>https://lh3.googleusercontent.com/d/1qjZ-nuFP3p31npxbRiMoj-kITSwrPuPh</picture>
@@ -1699,7 +1769,7 @@
       <categoryId>37</categoryId>
       <name>Хамелациум Белый 50 см Арт. Fb04625</name>
       <price>143</price>
-      <qty>25</qty>
+      <qty>175</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mlilkrIRYyQyuiUwahhizvAkq9a0q_qz</picture>
       <picture>https://lh3.googleusercontent.com/d/1NvpRz8SjKu3u-BA5e610DbHGbDtHVQf1</picture>
@@ -1892,7 +1962,7 @@
       <categoryId>38</categoryId>
       <name>Илекс Красный 60 см Арт. Fb12666</name>
       <price>330</price>
-      <qty>10</qty>
+      <qty>200</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RmupwMmu2BA1uQ24x2fhcOgQxvP3hwjV</picture>
       <picture>https://lh3.googleusercontent.com/d/1P7H3x8xYQ1NZkSWKP-p0I4hupVa8R4Fc</picture>
@@ -1945,7 +2015,7 @@
       <categoryId>38</categoryId>
       <name>Рускус Зеленый 70 см Арт. Fb03587</name>
       <price>42</price>
-      <qty>25</qty>
+      <qty>250</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PDTVuRoNXoql2Nr_92gcLUkUDbGog6Bf</picture>
       <picture>https://lh3.googleusercontent.com/d/1NrPa6JzOEW8Lj7bxGJp9oiWP8r9iyivC</picture>
@@ -1962,7 +2032,7 @@
       <categoryId>38</categoryId>
       <name>Скиммия Зеленый 50 см Арт. Fb02055</name>
       <price>330</price>
-      <qty>1</qty>
+      <qty>20</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_-v_3E0R_zFznZGSkHRLPkneb228Rzpt</picture>
       <picture>https://lh3.googleusercontent.com/d/1NPj0U71hmRurW6MgcgHgBhQVJSxPZoWQ</picture>
@@ -1996,7 +2066,7 @@
       <categoryId>38</categoryId>
       <name>Статица Розовый 50 см Арт. Fb0415</name>
       <price>132</price>
-      <qty>25</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1odi7NYE4IOTsu1bgwczRZvcl8PibO4c0</picture>
       <picture>https://lh3.googleusercontent.com/d/1CEUkg82mXBRgnipWps5Ehxa0anO7w7kh</picture>
@@ -2030,7 +2100,7 @@
       <categoryId>38</categoryId>
       <name>Фисташка Зеленый 50 см Арт. Fb01865</name>
       <price>330</price>
-      <qty>1</qty>
+      <qty>10</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AedJPBTlXrIYYR8kitrQ8VNxnP-43tfG</picture>
       <picture>https://lh3.googleusercontent.com/d/1c_6SYOSqzLBbyyKIfsFYFWvLcU0Qn7ta</picture>
@@ -2047,7 +2117,7 @@
       <categoryId>38</categoryId>
       <name>Хелеборус Зеленый 50 см Арт. Fb02015</name>
       <price>143</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18K5Xm1KasyHmzB3HcGcps2JRyMr0qODL</picture>
       <picture>https://lh3.googleusercontent.com/d/1tPYkWa-dvWapedXIxe09S_huSd0WDQSn</picture>
