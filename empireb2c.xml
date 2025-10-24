@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T06:55:51.579+03:00">
+<yml_catalog date="2025-10-24T07:01:59.735+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -40,6 +40,22 @@
       <param name="Артикул">Eb00316c</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
+    <offer id="Eb00537c" available="true">
+      <name>Пачка (25 шт.) Гипсофила Радужный 70 см Арт. Eb00537c</name>
+      <categoryId>1</categoryId>
+      <price>2145</price>
+      <picture>https://lh3.googleusercontent.com/d/1GP9gO9t7I85JNanRtc3xWBaZ2rIRRZI7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ngis3n-jlaiPbzp7ny4OedstQbbXqvfi</picture>
+      <picture>https://lh3.googleusercontent.com/d/17-IqJIsb4YfuK0qRfK2-r5QeHhDluMSU</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Eb00537c</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
     <offer id="Eb00385c" available="true">
       <name>Пачка (50 шт.) Ирис Блю Меджик 50 см Арт. Eb00385c</name>
       <categoryId>1</categoryId>
@@ -55,6 +71,22 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Eb00385c</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Eb00306c" available="true">
+      <name>Пачка (25 шт.) Танацетум Белый 60 см Арт. Eb00306c</name>
+      <categoryId>1</categoryId>
+      <price>1925</price>
+      <picture>https://lh3.googleusercontent.com/d/1cE9vLh8qG48qPtsXRxdKYUN3RduZkijP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i283a5DaaTqXZNEEaubTx_TANk7lOy_r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dpWOYDeguMsVJYlOymV7-hJTzez5Nocd</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Matricaria by W. Grootscholten</param>
+      <param name="Артикул">Eb00306c</param>
+      <consist name="Танацетум" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
