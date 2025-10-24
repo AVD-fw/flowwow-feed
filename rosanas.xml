@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T08:29:36.105+03:00">
+<yml_catalog date="2025-10-24T08:38:30.439+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rb13145" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кон Аморе 50 см Арт. Rb13145</name>
+      <price>122</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1USZMmZmTW2Uop1uyrS8RrCq0rk6SAPSF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cPLDtzWPJ8_uNG_zbrH8t8uzDKyg7GF2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WDc6qZo0Jxaz7nBz_jQEqaKUp6DwSpmK</picture>
+      <picture>https://lh3.googleusercontent.com/d/13d95baz6_dHV1w7Rka8253Sb-PMM9jF-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iEXQDLN2pAft1PVYpjGiJb1KZN-roczg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13145</param>
+      <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
+    </offer>
     <offer id="Rb15746" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Оранж Пати 60 см Арт. Rb15746</name>
@@ -82,23 +100,94 @@
       <param name="Артикул">Rb02016</param>
       <consist name="Роза одноголовая пионовидная Баблгам" unit="шт">10</consist>
     </offer>
+    <offer id="Rb04486" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Жозефина 60 см Арт. Rb04486</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Lf7qhX_u8pRiZCTUMguDpUKWIkILzK9q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lc8XDOp45ttd8GFF_eG9FZ_hI-e4cEpg</picture>
+      <picture>https://lh3.googleusercontent.com/d/17dFoGJQ7gmpG4Dmg2trQTmNokio_ql3B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JJ9RNTiSODQ14_6kBs7_eTCn0rVWBDqA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AL_DG-5kZr2MEKx7YLx2zGHqKCeYlZ_C</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04486</param>
+      <consist name="Роза кустовая Жозефина" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb11724" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лавли Лидия 40 см Арт. Rb11724</name>
+      <price>72</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VF4vfhbTM5PP6j-Uv39ca7ISZzB-_Ld6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sM1nOaFA0NwaklFxfxry_Kndx_JCFSqV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zRpoqpe2J7GtGo6o5eiRG0ZC600oJlDs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hDMDbVvcB_2FPetpm-4_jZ0rdoNaIyPf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DcCry3Xk_WBLclI6RqlpYerVgB13ZsxE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb11724</param>
+      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
+    </offer>
     <offer id="Rb01817" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Йо Йо 70 см Арт. Rb01817</name>
       <price>253</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1bvmVON6XHKghWJqkMne2kaTsf_3mlHXw</picture>
-      <picture>https://lh3.googleusercontent.com/d/11VYAkyLrnuBCW9vKOG1BRuFw-F37jyNZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1It9xJwwvhYczIqfZzuiqRItX0mpYdgpk</picture>
       <picture>https://lh3.googleusercontent.com/d/1_3RHFvtylKaH84H4K_l8op2o3BDF6GNE</picture>
       <picture>https://lh3.googleusercontent.com/d/15tGgtsGYpIlG53i-_eC42Bj-5luMKCum</picture>
       <picture>https://lh3.googleusercontent.com/d/1HBMajEiXnN8FURkiKzStihK0WZUNcjlu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bvmVON6XHKghWJqkMne2kaTsf_3mlHXw</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rb01817</param>
       <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb15246" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Рефлекс 60 см Арт. Rb15246</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19zp_eHKC5oDSE3mUMLOSCZ5m89a-G021</picture>
+      <picture>https://lh3.googleusercontent.com/d/1meTGCKNfF2k4JjwGxsd3-3IEm-cqfwXc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o2FwVX8SloR7JT6pohc6VXmVlxt86mBl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fnDyvPsrBCbzjPoLu53R73W-Rr-iZa6_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RK8tT5qo8NNmGlCMYyQH5kECUcv_hTyW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb15246</param>
+      <consist name="Роза кустовая Рефлекс" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb04265" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 50 см Арт. Rb04265</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ffkkl_d3LQoPbEEek0TM8lrWODvsYRnH</picture>
+      <picture>https://lh3.googleusercontent.com/d/12J9aJWNTX9tnNWrYRiwmhXYU6ttC4biV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q1TcfdoDJKHhiuh5RFJbfi0BKDd8Bhj8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e76D2d8LjH_nelLPZR1oBuDuZG6CVZj8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JVb0TK4dM2pg-Cdoeo1CPcxj1KNvVcxQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04265</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="Rb6506" available="true">
       <categoryId>3</categoryId>
@@ -118,17 +207,35 @@
       <param name="Артикул">Rb6506</param>
       <consist name="Роза кустовая Таня" unit="шт">10</consist>
     </offer>
+    <offer id="Rb13284" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Яна 40 см Арт. Rb13284</name>
+      <price>72</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ajg-yeQXNrrpmhEyv3ESMGmiFWTRaw9k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ePW7yDCHuq5mNdZFakSPDRHQeI7FCKdf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AGV9eZFYECsOXIbGizERty_DoYMS5L-_</picture>
+      <picture>https://lh3.googleusercontent.com/d/11Egwsk7qZlGA6eiTeKQELE6GqhgL5zAx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D_WqtvpPTu96QoZTTh0nX6ufoIDmymrm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb13284</param>
+      <consist name="Роза кустовая Яна" unit="шт">10</consist>
+    </offer>
     <offer id="Rb04275" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rb04275</name>
       <price>274</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1TeWGer3Q2YGShztdeWyR9tDpwmqFchF1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1h_nsbnlG5pfQTmxh34ZYXvNeeJ-cIVoh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gIhCFgt12VWdYX3nzaNGlLqsnDOYvfg9</picture>
       <picture>https://lh3.googleusercontent.com/d/18EE4oVjwSHs6roRGLUZ4qaWxpM7O_OEk</picture>
       <picture>https://lh3.googleusercontent.com/d/1QfGrg1tjgLGeCVthdm5zMozVvnp32Kti</picture>
       <picture>https://lh3.googleusercontent.com/d/163pZi86EQoob8TtzFUMzhciaQ_DlJoJK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TeWGer3Q2YGShztdeWyR9tDpwmqFchF1</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
@@ -447,6 +554,23 @@
       <param name="Артикул">Rb14306</param>
       <consist name="Калла Дубай Найтс" unit="шт">10</consist>
     </offer>
+    <offer id="Rb11415" available="true">
+      <categoryId>37</categoryId>
+      <name>Краспедия 50 см Арт. Rb11415</name>
+      <price>90</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1x8nQuvpOjKnFaRf1hIlHCV6WDf-lagiI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F2Zdt_rawJw3NXkE7iivtzpPNffYlT73</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xnxjn1QBaJ2ZWOHRM2coJ2GujZauBXkY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jcQLNX0FEwUngfnnO3SY-R28EPDvWVCR</picture>
+      <picture>https://lh3.googleusercontent.com/d/14GS6jEZL0M44tIA0rL1Lkl_VUt_77X57</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb11415</param>
+      <consist name="Краспедия" unit="шт">10</consist>
+    </offer>
     <offer id="Rb01469" available="true">
       <categoryId>37</categoryId>
       <name>Лилия От Замбези 95 см Арт. Rb01469</name>
@@ -552,6 +676,23 @@
       <param name="Артикул">Rb7977</param>
       <consist name="Целозия Репрайс Оранж" unit="шт">5</consist>
     </offer>
+    <offer id="Rb01288" available="true">
+      <categoryId>37</categoryId>
+      <name>Целозия Флешинг 80 см Арт. Rb01288</name>
+      <price>159</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ONnpePBanszg4a1ligdHKvKeaXgsbQx9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OLxaoaqkh1tceRnoKSEbySI0Ao9frGm_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a9G9zNrLnJqaqvUl0q0J1lM-ebaviPaW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z4HAyfu3twscWnrr6LZ_6XaPkGF4qfQM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1adOIp_MqxX0BHmj3ueX0PkST-3Deb5A9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01288</param>
+      <consist name="Целозия Флешинг" unit="шт">5</consist>
+    </offer>
     <offer id="Rb8257" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Корелли Корал 70 см Арт. Rb8257</name>
@@ -622,6 +763,40 @@
       <param name="Артикул">Rb01328</param>
       <consist name="Картамус Занзибар" unit="шт">10</consist>
     </offer>
+    <offer id="Rb02785" available="true">
+      <categoryId>38</categoryId>
+      <name>Краспедия Голубой 50 см Арт. Rb02785</name>
+      <price>569</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XB1T8DVoS9rOhxM0JeBouatYhb7OQhTa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fJ3kpTRbxE-gLBpvN_29JkgGwaXuiolJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/173vUlaZtu7qhHWBicyXyeYA7rH05oCzI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wjVYJj9eFrKYY13z_UcwsrNbCD1EVCVQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/12p3ZiYnpe5s7PcrEX-vhMcAS-s9A8hS3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02785</param>
+      <consist name="Краспедия" unit="шт">20</consist>
+    </offer>
+    <offer id="Rb3407" available="true">
+      <categoryId>38</categoryId>
+      <name>Лимониум Фиолетовый 70 см Арт. Rb3407</name>
+      <price>125</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16MGtZ99_Kho017w8LUlvRp-VzxTBm-Ih</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hG5HvBuzQoTSxaq2f33mUP6f_ybwzCcS</picture>
+      <picture>https://lh3.googleusercontent.com/d/13Nthg8HH-_LjaIpqE-2b3lcPZI8PvXkE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_fdj2lDpGbDeVH2wD1pDrDa_uaWFhbL5</picture>
+      <picture>https://lh3.googleusercontent.com/d/14z1naR-BjkI6Rki-wWUiI0E2Uq3pgfLU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb3407</param>
+      <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
     <offer id="Rb01206" available="true">
       <categoryId>38</categoryId>
       <name>Седум Спектибайл 60 см Арт. Rb01206</name>
@@ -672,6 +847,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb5704</param>
       <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb02775" available="true">
+      <categoryId>39</categoryId>
+      <name>Лагурус Голубой 50 см Арт. Rb02775</name>
+      <price>238</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bKxlmUOPfwDndp1ZjJH2-G1wpeUFSw_6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GvhKFeLv9oKDhO9sw1PRjuBKYvvQ4gF1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Kt-s7vTnPB1JkTpNwopdeOuHk_9-Xy51</picture>
+      <picture>https://lh3.googleusercontent.com/d/130_b971yJYHhr-Sr-56reEV9kAMycJ7N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XWKHi9r8PPhEGuu5dv-65eMW1FzxUTvD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02775</param>
+      <consist name="Лагурус Голубой" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
