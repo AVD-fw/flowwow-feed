@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T08:39:27.489+03:00">
+<yml_catalog date="2025-10-24T08:48:38.019+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -297,6 +297,23 @@
       <param name="Артикул">Rb04335</param>
       <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="Rb3817" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Коричневый 70 см Арт. Rb3817</name>
+      <price>239</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Wi9gO_AMG9BI56IhPTjj2mcd-Pgyg6fW</picture>
+      <picture>https://lh3.googleusercontent.com/d/17H7PUZ1ZhxQnINjZKoBAZ7zJkSqRag4B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZXHTsp2mEq3D-bw6Qt7x7-uC5vJnrYk4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NQvg_8ySrGH0CrEyalemss3f52SQnOh0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vABkkd-mCsIf46nKrxlczlsvwro5yBAi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb3817</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Rb15577" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Еллоу Пинг Понг 70 см Арт. Rb15577</name>
@@ -347,6 +364,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb7377</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb15607" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Петр 70 см Арт. Rb15607</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dZGNW5bv8PrSksJ67FVj6gPZauDrsBR7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p67Sww1iD4jmM9PnWDZg2FPXOnhuu5vL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t_4kfV71DtBhh-Yxds5KsY3R1P6JZbak</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J5i349aUUC-L9svF-DGtFn6WrKxb5gyl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VeeCbUN7eOSclAYXgTIQVcijsSqqQ8k3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Rb15607</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
     </offer>
     <offer id="Rb00847" available="true">
       <categoryId>5</categoryId>
