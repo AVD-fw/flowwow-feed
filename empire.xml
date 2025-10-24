@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24T07:03:56.887+03:00">
+<yml_catalog date="2025-10-24T07:09:40.251+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,42 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Eb2167" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Антонов 70 см Арт. Eb2167</name>
+      <price>140</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UfH-hgiWAvOwDgdst9bPzn4z5Z5LknB6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x2VdsdmyAmEHDQJiSdIjEP03Du7hxU_V</picture>
+      <picture>https://lh3.googleusercontent.com/d/11CQVxPwILxakiOrda5UQslILwbYUsRYy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n__6AF2HmMxc1znBra1syQ2xYG_l68XG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VKcirTb1KNCZ5FTIjoLhYRtoAmtlQ3ce</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Eb2167</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+    </offer>
+    <offer id="Eb2177" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум 70 см Арт. Eb2177</name>
+      <price>150</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1T-dhBcSiodGDwt_-6NMerjs0OcKIPCVh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dvo_YrdoSLf6xELSI7oYp1O1v0JwMkUq</picture>
+      <picture>https://lh3.googleusercontent.com/d/15romqFmqVIaVAc7AX0CI2bnC_3KRCJ7h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-_M77mz0rnNB2TDJhRD_J5Wnx68KBXOH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1et-E7P8tawKI0x858EyitY7csEbcU_fA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Eb2177</param>
+      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
+    </offer>
     <offer id="Eb2447" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. Eb2447</name>
@@ -48,6 +84,24 @@
       <param name="Производитель">GG Flowers</param>
       <param name="Артикул">Eb4637</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Eb01286" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 60 см Арт. Eb01286</name>
+      <price>128</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zuLWqNJinYYmfEI9vsQX1HW-oVdVikIJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b9TntLhx0Wq_ngru3KuqaQyJIpQqs41J</picture>
+      <picture>https://lh3.googleusercontent.com/d/10h1PVWRUx-kk_QJYbjthtuQzVrNb3m5R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OvOedyAh2KAe5e9R2MdC234FcY-aEHdz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Hy0baimDAAC6ROMDdRjskC6AcMkT0mHs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lewis Flowers</param>
+      <param name="Артикул">Eb01286</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
     </offer>
     <offer id="Eb2846" available="true">
       <categoryId>6</categoryId>
