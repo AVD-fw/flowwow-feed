@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-25T09:49:22.635+03:00">
+<yml_catalog date="2025-10-25T09:58:26.653+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -101,6 +101,24 @@
       <param name="Артикул">Rb04506</param>
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
+    <offer id="Rb6506" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Таня 60 см Арт. Rb6506</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vGb7O0Vgle8qrExfPNDngDFizMBJ7Or3</picture>
+      <picture>https://lh3.googleusercontent.com/d/11Ru2cuLvqZgOPyEHvwyR56VLw0vV15Ce</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XyF22dxOwa1HvVQwYR2cSyRIAgXiC5Tr</picture>
+      <picture>https://lh3.googleusercontent.com/d/10wltuw20Uy63j1uUuNzic_jxR3DKxWnB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Aj1pu9ygOO5nYyM4SPoa8-hzHd1MLfhb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb6506</param>
+      <consist name="Роза кустовая Таня" unit="шт">10</consist>
+    </offer>
     <offer id="Rb04366" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Бомбастик 60 см Арт. Rb04366</name>
@@ -118,6 +136,42 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb04366</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb04496" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Дедикейшн 60 см Арт. Rb04496</name>
+      <price>274</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12ZKYEmyLF8m5ijSkwEF04dDJ5JC8zuZl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TccrumyGUkbpJkKKNtLHgJEDAiKRnxt5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BDkwqZTQsQyTHTsl0cP_mrygLAQUDyba</picture>
+      <picture>https://lh3.googleusercontent.com/d/17w4uPVnRwh3d2GoqjWAR-VRekdOHyRoP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IC3kfw4I24_uUcmYhaNQ5mCvT4uAotvn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04496</param>
+      <consist name="Роза кустовая пионовидная Дедикейшн" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb01806" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Луна Трендсеттер 60 см Арт. Rb01806</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1upaFcJyyM2Tx9rABnCMWhQ9YqaXD5fIu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vv_V4HZjzOIvZ9ggGC6hBsA0rMgqkFmq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WlIavqE2ckUbtMVvQYkch8D1mlVZjfp_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dClfvcjoDTkJFDDk02cwj0wtk91rsy_l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VanXaz91DGHo9YwIqmnbPksGp6YJm9BT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb01806</param>
+      <consist name="Роза кустовая пионовидная Луна Трендсеттер" unit="шт">10</consist>
     </offer>
     <offer id="Rb04275" available="true">
       <categoryId>4</categoryId>
@@ -292,7 +346,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Еллоу Пинг Понг 70 см Арт. Rb15577</name>
       <price>88</price>
-      <qty>10</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Z3u7XYoXh2DRVfPFoljh30gY746Iy4Hr</picture>
       <picture>https://lh3.googleusercontent.com/d/1nIPsb8rwy45csGGRCj-MAy0kE93an8Z_</picture>
@@ -326,7 +380,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Ламира 70 см Арт. Rb3857</name>
       <price>165</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1k5G_NrYwtysQmq4E3olr6dvXetDpNdCG</picture>
       <picture>https://lh3.googleusercontent.com/d/1b6sFjBiz4Jv4bhPQU6aVcpak_yHI6Y5W</picture>
@@ -343,7 +397,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Момоко 70 см Арт. Rb7377</name>
       <price>132</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XNxC-zzSbFUmlNDTAwLSAW-wAHd-241t</picture>
       <picture>https://lh3.googleusercontent.com/d/1jRpeiqaB85kwUJDnVHidxWB5UBOyt1e-</picture>
@@ -360,7 +414,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Роксо 70 см Арт. Rb6467</name>
       <price>205</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BzWksFKd0J3X52oiZl8plDWyD5Xjbu0M</picture>
       <picture>https://lh3.googleusercontent.com/d/1biML5bqA_eUfDqJudIfe-djpxrno6tkd</picture>
@@ -378,7 +432,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Фуего 80 см Арт. Rb02308</name>
       <price>219</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_aVmzZukkAXjuV3IkDp3YUKvLm4jHyf6</picture>
       <picture>https://lh3.googleusercontent.com/d/1wGyFHZ4dIc9-NdLKxSVqZIZ79zSu8J4j</picture>
@@ -841,7 +895,7 @@
       <categoryId>37</categoryId>
       <name>Тагетес Промис Оранж 70 см Арт. Rb01117</name>
       <price>79</price>
-      <qty>10</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MG3bNYHf1S3fGb04p7vEEGeZc4lQvWFR</picture>
       <picture>https://lh3.googleusercontent.com/d/1CepKgdrcDdehNh0TlnJL8p6hrNj4hQ3O</picture>
@@ -1130,7 +1184,7 @@
       <categoryId>38</categoryId>
       <name>Скиммия Рубелла 45 см Арт. Rb5094</name>
       <price>515</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Xpz-tGs50Bgv64yM1B5qk2lNZierlJFZ</picture>
       <picture>https://lh3.googleusercontent.com/d/1IxrDkbp34WL4uwz3E8NtkrFk1QIfyz35</picture>
@@ -1147,7 +1201,7 @@
       <categoryId>38</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. Rb5704</name>
       <price>480</price>
-      <qty>1</qty>
+      <qty>14</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iAcT32OyE3keficDiVdz0AQdKZL-4j3_</picture>
       <picture>https://lh3.googleusercontent.com/d/1RZlW28JQGWOYqnYXkvpm_KUJM8TjJta4</picture>
@@ -1164,7 +1218,7 @@
       <categoryId>38</categoryId>
       <name>Солидаго Карзан Глори 80 см Арт. Rb01568</name>
       <price>99</price>
-      <qty>25</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XA8JMBnuTYjWucrh79sbi95kxSQ4blAY</picture>
       <picture>https://lh3.googleusercontent.com/d/1wRVFDEaZdKlv53O2BvoQa0P69JoeQ-Xl</picture>
@@ -1181,7 +1235,7 @@
       <categoryId>38</categoryId>
       <name>Тласпи Грин Белл 80 см Арт. Rb6348</name>
       <price>123</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zOth6F4wt91aANvR86NlPF9Si3vXAzy1</picture>
       <picture>https://lh3.googleusercontent.com/d/187I3v-rel4fEckZvCIpWwjO5gb0atPS8</picture>
