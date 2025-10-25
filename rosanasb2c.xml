@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-25T14:18:48.011+03:00">
+<yml_catalog date="2025-10-25T14:19:47.293+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -571,6 +571,21 @@
       <param name="Производитель">Bredefleur</param>
       <param name="Артикул">Rb15171c</param>
       <consist name="Лилия Туморроу" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb01225c" available="true">
+      <name>Пачка (1 шт.) Протея Клер 50 см Арт. Rb01225c</name>
+      <categoryId>1</categoryId>
+      <price>725</price>
+      <picture>https://lh3.googleusercontent.com/d/1QYiWGUSDz0rBb9zfh47bip6mfnWsrE24</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CqXmO462NgPyLyxme3PMWm9y9-JTx2cc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eqd75Yc4hQ8eNW0RVHAKRHWcnDaHGqY0</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 1 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01225c</param>
+      <consist name="Протея Клер" unit="шт">1</consist>
     </offer>
     <offer id="Rb01896c" available="true">
       <name>Пачка (1 шт.) Протея Сунароидес 60 см Арт. Rb01896c</name>
