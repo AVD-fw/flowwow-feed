@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-25T11:19:51.446+03:00">
+<yml_catalog date="2025-10-25T11:28:47.643+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -50,6 +50,57 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb15746</param>
       <consist name="Роза одноголовая Оранж Пати" unit="шт">30</consist>
+    </offer>
+    <offer id="Rb14897" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пинк Мондиаль 70 см Арт. Rb14897</name>
+      <price>143</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZaU04xQH3tnzDX_QSkpOlDGUIu_McRzo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TtHyOt6nFACHYRxzak-mIJDvQ9WuGGo0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vYP4dsgUBZBA5HrpkYmrSEoU9t1zafju</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gHO049D9v_uRj4gJRW-5ZecWce-oJzhW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rb14897</param>
+      <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb01736" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пинк Флойд 60 см Арт. Rb01736</name>
+      <price>135</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yDhRSJdzFQS2KPLJZX5m7SDv9nB4EbzT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H_BF46NCpCc_7BThTn2hrlvG0xH52PHm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h9n9PLMR0hM9wO-8cYn2w5bl9XexRfFA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IaRl2-_8r_wGIvGTLJ6zLHTif_bmdrTW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zvmoPmA2-h7Bxmg0jTBXf4TLQwAV8auD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rb01736</param>
+      <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb14697" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Хартс 70 см Арт. Rb14697</name>
+      <price>149</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VJe8Yg5qEollYtVe5QjZUtMHvm1J96Pt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-i0r9k_lsvpQ0P0aOchEMt1kkwlRrvsc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x6Hl5Hf1sfUIu-VE-HmLVFvBdu-VsfLQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rb14697</param>
+      <consist name="Роза одноголовая пионовидная Хартс" unit="шт">25</consist>
     </offer>
     <offer id="Rb04486" available="true">
       <categoryId>3</categoryId>
