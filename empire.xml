@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-27T06:49:41.158+03:00">
+<yml_catalog date="2025-10-27T06:53:48.230+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -240,6 +240,57 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Eb3397</param>
       <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Eb00514" available="true">
+      <categoryId>37</categoryId>
+      <name>Гортензия Голубой 40 см Арт. Eb00514</name>
+      <price>225</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XQiIKxomGsRZsjcUiv24tb9DgC6EwkZl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CoQAplxyO7LZN18icofyr3SlMXYr4MyT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DCO330rg7RAiTwcDrPcfpFkwyGNue2av</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u_eXyDCwHspKLNKz1WcsNVQsbpQdx6Cf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1va9w5fdi4pEALDoZPO3bhGbZLS9829E7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tessa</param>
+      <param name="Артикул">Eb00514</param>
+      <consist name="Гортензия" unit="шт">1</consist>
+    </offer>
+    <offer id="Eb3516" available="true">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Белый 60 см Арт. Eb3516</name>
+      <price>220</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1WyGXU1skJjnsbuZV9q1MhXyvifQp4JD_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UM1RQwKXEhw4ifBjEK9hKABbkHFMbH8l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IndcjDEWja0UDdGVqituT8cAqLgm-2u6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kisma</param>
+      <param name="Артикул">Eb3516</param>
+      <consist name="Дельфиниум" unit="шт">10</consist>
+    </offer>
+    <offer id="Eb3646" available="true">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Голубой 60 см Арт. Eb3646</name>
+      <price>220</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dHUZ4MM1xlijquZU61IdGQvB0zLOi1OV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EaozUrTE3A_Xi2AGdEu9lWoUzv6feIRL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VFa7M4aR4Z_Dr4Fz-j1iBqMK32_GuRVj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lWuVtW8xsrTDE3a0XpF1OKsIk6w-fQIN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EJg6mhtA50g9dZsqdpuSwY-Puv8_XnJ4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Eb3646</param>
+      <consist name="Дельфиниум" unit="шт">10</consist>
     </offer>
     <offer id="Eb01135" available="true">
       <categoryId>37</categoryId>
