@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-27T09:18:31.974+03:00">
+<yml_catalog date="2025-10-27T09:19:51.116+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -8,6 +8,20 @@
       <category id="1">Монобукеты</category>
     </categories>
     <offers>
+    <offer id="Rb16175c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Пенни Лейн 50 см Арт. Rb16175c</name>
+      <categoryId>1</categoryId>
+      <price>670</price>
+      <picture>https://lh3.googleusercontent.com/d/1H3-JpKjTsjv3cL2tH99Ib6LPsDlTR3Xe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m_3YkMnEFo3jOu3WSKFT9RP1PX8HsJnM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb16175c</param>
+      <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
+    </offer>
     <offer id="Rb16195c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Сильва Пинк 50 см Арт. Rb16195c</name>
       <categoryId>1</categoryId>
