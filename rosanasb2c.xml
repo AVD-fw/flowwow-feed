@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-28T06:58:25.012+03:00">
+<yml_catalog date="2025-10-28T06:59:45.475+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -131,6 +131,38 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Rb6444c</param>
       <consist name="Ирис Синий" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb7797c" available="true">
+      <name>Пачка (10 шт.) Эустома Алиса Блю 70 см Арт. Rb7797c</name>
+      <categoryId>1</categoryId>
+      <price>2255</price>
+      <picture>https://lh3.googleusercontent.com/d/1JS-sSdeO6FjIfQXMac1w9jIne8taEdpC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NbuZOfsVzEcbX6ohRmFV-f8-zarEnYmi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A3NTGv_ZtuBvdH7HFRIJKXpuJcHh367z</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb7797c</param>
+      <consist name="Эустома Алиса Блю" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb8277c" available="true">
+      <name>Пачка (10 шт.) Эустома Ароса Ред 70 см Арт. Rb8277c</name>
+      <categoryId>1</categoryId>
+      <price>2190</price>
+      <picture>https://lh3.googleusercontent.com/d/1Vyi2dPsMEHelaOVHGb3Lu9YvMVqca0tU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TMzZBEFlBcuCvzf9lvOu-tFim8yCj23r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U9SxrlEvPqKSgv3cBDZYOvCS2Omg9Q9O</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb8277c</param>
+      <consist name="Эустома Ароса Ред" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
