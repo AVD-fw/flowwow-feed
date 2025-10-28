@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-28T09:59:23.822+03:00">
+<yml_catalog date="2025-10-28T10:08:18.383+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -108,11 +108,11 @@
       <price>99</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Dt9-Tt-iO8c7Ogm44P_0MtnCk2NlAaqd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1P72pjZdJ7rehMD5vjyiOzh4GYgSzsrj0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zAowsVuKxmSkvV5hlEZYXPAGGZ1pMWi8</picture>
       <picture>https://lh3.googleusercontent.com/d/1CbBQbmRs6QTBT6wG5sRCri0B4xFj6EkZ</picture>
       <picture>https://lh3.googleusercontent.com/d/1XM_jgtcLTrYoKpL2FQOi7Js600_6qoDM</picture>
       <picture>https://lh3.googleusercontent.com/d/1qXZ2B1G_1L9Y77i0A0knYv81TP28BPvL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dt9-Tt-iO8c7Ogm44P_0MtnCk2NlAaqd</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
@@ -171,6 +171,21 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Волгоград</param>
       <param name="Артикул">Rb00315</param>
+      <consist name="Роза кустовая Цунами" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb16226" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Цунами 60 см Арт. Rb16226</name>
+      <price>195</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CQavQ7W0rVwnIVbzHgxaIpGkcOuqA7nz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TnkG0k9zZEuCLOEqP4HmTkvoZ8FZ1eD_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Волгоград</param>
+      <param name="Артикул">Rb16226</param>
       <consist name="Роза кустовая Цунами" unit="шт">10</consist>
     </offer>
     <offer id="Rb04366" available="true">
