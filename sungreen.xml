@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-28T17:08:47.015+03:00">
+<yml_catalog date="2025-10-28T17:16:37.378+03:00">
   <shop>
     <name>Сангрин</name>
     <company>sungreen</company>
@@ -254,6 +254,24 @@ Sungreen
       <param name="Артикул">G00384</param>
       <consist name="Пастушья сумка Цветная стабилизированая" unit="шт">1</consist>
     </offer>
+    <offer id="G00427" available="true">
+      <categoryId>37</categoryId>
+      <name>Подсолнух Декоративный 70 см Арт. G00427</name>
+      <price>1050</price>
+      <qty>400</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vb58saucTpM9Wo3ZX3Vdpm0TzdG_I9iJ</picture>
+      <description>Подсолнух
+Декоративный
+Sungreen
+Россия
+Цветы</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Sungreen</param>
+      <param name="Артикул">G00427</param>
+      <consist name="Подсолнух Декоративный" unit="шт">5</consist>
+    </offer>
     <offer id="G00378" available="true">
       <name>Просо Осветленный 80 см Арт. G00378</name>
       <price>645</price>
@@ -355,6 +373,23 @@ Sungreen
       <param name="Производитель">Sungreen</param>
       <param name="Артикул">G00515</param>
       <consist name="Ракита Цветная" unit="шт">1</consist>
+    </offer>
+    <offer id="G00905" available="true">
+      <name>Тысячелистник Цветной 50 см Арт. G00905</name>
+      <price>700</price>
+      <qty>400</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h5qcs6rKn-A9sSvgyOfMEdmV63Hk2cm3</picture>
+      <description>Тысячелистник
+Цветной
+Sungreen
+Россия
+Сухоцвет</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Sungreen</param>
+      <param name="Артикул">G00905</param>
+      <consist name="Тысячелистник Цветной" unit="шт">1</consist>
     </offer>
     <offer id="G00913" available="true">
       <name>Хлопок Цветной 30 см Арт. G00913</name>
