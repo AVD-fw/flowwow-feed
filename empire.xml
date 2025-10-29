@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-29T10:43:51.732+03:00">
+<yml_catalog date="2025-10-29T10:49:37.596+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -52,6 +52,24 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ec00537</param>
       <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec00385" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 50 см Арт. Ec00385</name>
+      <price>40</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IyGgsZgofQtkqu64ecRXZipUh9Ifm9oR</picture>
+      <picture>https://lh3.googleusercontent.com/d/13A6AqBv6EqZcKr4vheXQKYCWn0bLJ35l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NIEe1pCUX2bPoN_gCcE0vO0pODYLI8HT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NJHWfynDrQ1GocAUqf8RCUaLc7R69S_Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/13xVdVBg9TlS4Y7tpuTy07hvk3Fd7ir33</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ec00385</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Ec01605" available="true">
       <categoryId>37</categoryId>
