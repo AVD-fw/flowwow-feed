@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-29T10:15:53.272+03:00">
+<yml_catalog date="2025-10-29T10:16:46.295+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -51,6 +51,24 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc5699</param>
       <consist name="Роза кустовая Саммер Денс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc00716" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 60 см Арт. Fc00716</name>
+      <price>259</price>
+      <qty>120</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rpFcHNIfYUMFWM7TQDe7uWoHaIQ6I115</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dchqho7Nd-o55DEWJVCV6w4lSL29pUvO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UgTs5TdMs8ByE4heiRCWM0JKsrsFGU60</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dnDvNKWOnZP26Cj5bAcLvsFaBXRlEe7H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u8R2HO4GsVuKCP4m5vthgq7UQkmBcOy7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Voorn Roses</param>
+      <param name="Артикул">Fc00716</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
     <offer id="Fc5709" available="true">
       <categoryId>3</categoryId>
@@ -1014,7 +1032,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Каори 70 см Арт. Fc11017</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>375</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18vOfFLmbX-GB3l9bIojQgIr34AUHR3Gq</picture>
       <picture>https://lh3.googleusercontent.com/d/1xFuJZkAz7pJg6J_PlIz6GBimcmRqDnQs</picture>
@@ -1050,7 +1068,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кристалло 70 см Арт. Fc9737</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>500</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zyvibawJuaXa3z8ADF7iFP1E0riXzkD4</picture>
       <picture>https://lh3.googleusercontent.com/d/1XyqPvMIIGRsdXvFT56NCHoyra9qfqU35</picture>
@@ -1068,7 +1086,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мерлето Кримсон 70 см Арт. Fc10987</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1z_VShPwNZYEzhYIXA2EnZKOkZzcxSgAX</picture>
       <picture>https://lh3.googleusercontent.com/d/1-guDAxcxGW3mH0FjAEsaWv5gd2ik7nFI</picture>
@@ -1086,7 +1104,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мерлетто Лавендер 70 см Арт. Fc12567</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16V7GIdFD8xBQWki0C58ExldNPhLtBJx5</picture>
       <picture>https://lh3.googleusercontent.com/d/1bVkNoLrQ5Dpw782vy9slKEmN_p3xbjiX</picture>
@@ -1122,7 +1140,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Сассикала 70 см Арт. Fc14917</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>625</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QM5kTvxpzT4Nrak80nEhlimoon3BmDnA</picture>
       <picture>https://lh3.googleusercontent.com/d/1X2ANT25U_eZRw7CkVGD5V0-2sI7G2zrz</picture>
@@ -1140,7 +1158,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Сорбет 70 см Арт. Fc18067</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/15XSmVJGzTs1Uhw_LjPYbK0X-VDuNco4J</picture>
       <picture>https://lh3.googleusercontent.com/d/1TPbNLZEtP5CPeSzMrxbVOZYPJFVFDpNn</picture>
@@ -1158,7 +1176,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Стромболи 70 см Арт. Fc18937</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BO6w6uCDDvpN4nkKrB1V0EDjsxKYkHy1</picture>
       <picture>https://lh3.googleusercontent.com/d/1lKOTOSMDSREFVJ81oGeSGGuxxaQ6XUtX</picture>
@@ -1192,7 +1210,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Энданте 70 см Арт. Fc19157</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>375</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NCIw-6plceM544ujo0vvxY5hksWkdF9R</picture>
       <picture>https://lh3.googleusercontent.com/d/14z9ikSfYewP3BFk32LVwmSg0jCP9VlMb</picture>
