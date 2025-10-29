@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-29T13:10:45.441+03:00">
+<yml_catalog date="2025-10-29T13:12:15.628+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -562,6 +562,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb02785c</param>
       <consist name="Краспедия" unit="шт">20</consist>
+    </offer>
+    <offer id="Rb02775c" available="true">
+      <name>Пачка (1 шт.) Лагурус Голубой 50 см Арт. Rb02775c</name>
+      <categoryId>1</categoryId>
+      <price>260</price>
+      <picture>https://lh3.googleusercontent.com/d/1MFhzTW-v77SDVac6xfF3ru2g0N1NAmXC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L0ZtpQ3QScAlO7I3XnRX3eAoKWp1raKa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RoldDjX5QsWix70ut01Et8zKQkVjMrJR</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 1 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02775c</param>
+      <consist name="Лагурус Голубой" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
