@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-29T13:00:06.950+03:00">
+<yml_catalog date="2025-10-29T13:02:24.903+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -350,6 +350,21 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Rb00378c</param>
       <consist name="Гипсофила Радужная" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb7469c" available="true">
+      <name>Пачка (5 шт.) Глориоза Ротшильд 90 см Арт. Rb7469c</name>
+      <categoryId>1</categoryId>
+      <price>1975</price>
+      <picture>https://lh3.googleusercontent.com/d/1Yb3OYTwJ0v_oGduNZf1C8pmT9Q5ltARQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SDo3wYHmG2EpZXyXfGxZDavsovWsC3_7</picture>
+      <picture>https://lh3.googleusercontent.com/d/18vz68aYnOkRB4RCKaQZmW23eTQkYljgr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">90</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb7469c</param>
+      <consist name="Глориоза Ротшильд" unit="шт">5</consist>
     </offer>
     <offer id="Rb6444c" available="true">
       <name>Пачка (25 шт.) Ирис Синий 40 см Арт. Rb6444c</name>
