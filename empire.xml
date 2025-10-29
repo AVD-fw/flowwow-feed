@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-29T11:59:40.627+03:00">
+<yml_catalog date="2025-10-29T12:03:50.032+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -52,6 +52,24 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ec00537</param>
       <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec3397" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Ярко розовая 70 см Арт. Ec3397</name>
+      <price>77</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cRQtnUkxA-P4sX6o1KFKv4OdvHYYYXyO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m4s5pvPPBucUaomhQhtnHuYzr0YQQb55</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QQxtcy2hYk-8eSPBun8L_h2B76aphZMO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_ZOmP2gsEpeni0tXZ5LUC5U5JIrp-V8D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hoeJCf5DU0RAvt-r4m0c_6C0Sffy0uNH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ec3397</param>
+      <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
     </offer>
     <offer id="Ec00385" available="true">
       <categoryId>37</categoryId>
