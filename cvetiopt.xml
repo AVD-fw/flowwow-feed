@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-29T09:36:47.746+03:00">
+<yml_catalog date="2025-10-29T09:45:51.803+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -332,6 +332,24 @@
       <param name="Артикул">Fc15717</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
     </offer>
+    <offer id="Fc6817" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Антонов 70 см Арт. Fc6817</name>
+      <price>176</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sXz6VF1sUCWeYwXLcNwpBbdrVMFH6vO0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wrQsDpNAVkdfajIN8W84FcogO4St0yPe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qPEoZ46nzdNqzMTfuAqlP8enQnl1N_Os</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aMKw2UvKVZZ3ry1AnXEYZX-jq_oS4tSm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SUtJe9C1kAxMzkgLLg-G_nMZvvWTmA_K</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc6817</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+    </offer>
     <offer id="Fc01487" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бразильяна 70 см Арт. Fc01487</name>
@@ -384,6 +402,24 @@
       <param name="Артикул">Fc6427</param>
       <consist name="Хризантема одноголовая Виена Пинк" unit="шт">10</consist>
     </offer>
+    <offer id="Fc03407" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум 70 см Арт. Fc03407</name>
+      <price>176</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JhP67H04iazRZMyU3ajH32JnFKuvg4eR</picture>
+      <picture>https://lh3.googleusercontent.com/d/11svBASw0yafONGkXYXbDKAMr90u6Pccq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z6-DYnvZlCS4r2M7oAOMqDad9TMclgjJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BbItpl9twHozKnjtdlvBsSN94Cl_BFqV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Mtw-Cy92ReK7DPtLrz9OT8DU9scwIn8E</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc03407</param>
+      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
+    </offer>
     <offer id="Fc01327" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Момоко 75 см Арт. Fc01327</name>
@@ -401,6 +437,42 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Fc01327</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc03367" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Делегрин 70 см Арт. Fc03367</name>
+      <price>154</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10V_iRNs5I4TtXnNclV39nlVbFpH6RY9l</picture>
+      <picture>https://lh3.googleusercontent.com/d/16VSohKNoHgOLd7NLvS2tBN-GijMtjgkQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/16VSohKNoHgOLd7NLvS2tBN-GijMtjgkQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hWff0t5oED01CdO3d9aPZLZrI7xnfXto</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YqiGXpeTiMfXhBKeO1QZUN2BJbmvHR1w</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc03367</param>
+      <consist name="Хризантема кустовая Делегрин" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc00877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер 70 см Арт. Fc00877</name>
+      <price>123</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FyCw0bWSnKCIXYWE_LDXhRcaZ-yO6wAA</picture>
+      <picture>https://lh3.googleusercontent.com/d/11uHH2irur83DuAH-2kbTeVDtRLiuS5Ow</picture>
+      <picture>https://lh3.googleusercontent.com/d/11uHH2irur83DuAH-2kbTeVDtRLiuS5Ow</picture>
+      <picture>https://lh3.googleusercontent.com/d/11uHH2irur83DuAH-2kbTeVDtRLiuS5Ow</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xgTmhLi-TKxiDiK-_zVPJ0qb4ss2m7sw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc00877</param>
+      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
     </offer>
     <offer id="Fc18665" available="true">
       <categoryId>7</categoryId>
@@ -452,6 +524,23 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Fc01065</param>
       <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01045" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сталион 55 см Арт. Fc01045</name>
+      <price>73</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YYUV9Xw9almHQ6V98tKKYpU8sLWjHl83</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W7gOQDVPumfeVoEEPVLDf-ETBoceadpG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1babyKsEsRYPZdxXo-_VLqEIMONDBUPOA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-fyCDjwbqPEl3WWUwbe2jw4A0wUzlyEn</picture>
+      <picture>https://lh3.googleusercontent.com/d/146FLAQ2k5oK-QylxoO0y1jL-CPtLQJvu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc01045</param>
+      <consist name="Хризантема Сантини Сталион" unit="шт">25</consist>
     </offer>
     <offer id="Fc04216" available="true">
       <categoryId>37</categoryId>
