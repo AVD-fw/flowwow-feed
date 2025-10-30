@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-30T07:19:11.316+03:00">
+<yml_catalog date="2025-10-30T07:28:11.900+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -158,6 +158,24 @@
       <param name="Артикул">Rb14817</param>
       <consist name="Хризантема кустовая Пастела Блаш" unit="шт">5</consist>
     </offer>
+    <offer id="Rb15205" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 55 см Арт. Rb15205</name>
+      <price>76</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BBTs1TKlUUXygqP4680Df-JgHe10YdXY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e9UEMbpF6zmIDtu-F0peyPYA85hmiTKa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cBkh5pj22JeA7DgrQpcGkmUSurg7EvuD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nMNZc8qoSGWppdW1_Hk8JHNtwYMXMt5N</picture>
+      <picture>https://lh3.googleusercontent.com/d/12i6BTxhg2zOjbmXB_H1NTjiQiCweiJ0D</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb15205</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
     <offer id="Rb16147" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Бах 70 см Арт. Rb16147</name>
@@ -228,6 +246,24 @@
       <param name="Артикул">Rb16067</param>
       <consist name="Гвоздика одноголовая Форес" unit="шт">25</consist>
     </offer>
+    <offer id="Rb00378" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Радужная 80 см Арт. Rb00378</name>
+      <price>204</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15GPNP4tgeTu7F2Qiw0oax6nkefHHLaYo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QcZ2qe6LXQv7LR_cKgfH8nV2iuUNJx0S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QixBCc59O5XR7k3doWvyHgYC6k3xj212</picture>
+      <picture>https://lh3.googleusercontent.com/d/17DAIZXDodyTb6DKURX812sMiX-l5pn-g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SXiVXaBuMm7LplUiW7oNvunQ4v4mnnne</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Rb00378</param>
+      <consist name="Гипсофила Радужная" unit="шт">25</consist>
+    </offer>
     <offer id="Rb14306" available="true">
       <categoryId>37</categoryId>
       <name>Калла Дубай Найтс 65 см Арт. Rb14306</name>
@@ -259,6 +295,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb8417</param>
       <consist name="Калла Кристал Блаш" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb11415" available="true">
+      <categoryId>37</categoryId>
+      <name>Краспедия 50 см Арт. Rb11415</name>
+      <price>90</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14YLYzDrzehT3Q2VRkn7lP0SfWxWIzUEv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jcQLNX0FEwUngfnnO3SY-R28EPDvWVCR</picture>
+      <picture>https://lh3.googleusercontent.com/d/14GS6jEZL0M44tIA0rL1Lkl_VUt_77X57</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x8nQuvpOjKnFaRf1hIlHCV6WDf-lagiI</picture>
+      <picture>https://lh3.googleusercontent.com/d/19hT97WFO3XLP9zbHOUC_Iqpxw59QgP38</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb11415</param>
+      <consist name="Краспедия" unit="шт">10</consist>
     </offer>
     <offer id="Rb00596" available="true">
       <categoryId>37</categoryId>
@@ -293,6 +346,128 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Rb12114</param>
       <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Rb7797" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Блю 70 см Арт. Rb7797</name>
+      <price>185</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rZD5FKoGzXiXl8r-GiL2umHNKs7LePHK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fPaYJuyw9XXMoxuU75Sf-WsmoWwxioC2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zlZPw9pRolt5we0eBZbldcHxuxFLQvFE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W9NFdW_DKnHNnCIA4lrVR88X1fV4Y79l</picture>
+      <picture>https://lh3.googleusercontent.com/d/13ND1FLHS4rDetpIPKKDZrDxwlGBuoJAg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb7797</param>
+      <consist name="Эустома Алиса Блю" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb8277" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Ароса Ред 70 см Арт. Rb8277</name>
+      <price>199</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SjAIzileaIt-bbS5sM9jQf6VioiWfoZr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U9SxrlEvPqKSgv3cBDZYOvCS2Omg9Q9O</picture>
+      <picture>https://lh3.googleusercontent.com/d/13qNbefuuixRUmFWS53d-ZcXyqFU1_-6b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ijoIpHxE_LQqtiYGlmSQRKs4jTM3LrMy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j_wFXPAt7fHEYuiyezUjB_5-2iomwn4R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb8277</param>
+      <consist name="Эустома Ароса Ред" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb8977" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росан Эмралд 70 см Арт. Rb8977</name>
+      <price>185</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dR7F_DvflWBiiMQzQYho4AjrGw0_CFWA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JLM44ZYgyIdPZXqkFvuGam9CHhzOzGxI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KYJLV5PrTnxrjFKD8I7ape_WfVcRyXR5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Px8nCslVW1Ox9m2cCafGCbsfYdHhyi5Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S0uYvbvrHEIvm0C7_VJNixFzaRZI4kVY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb8977</param>
+      <consist name="Эустома Росан Эмралд" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb00957" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 70 см Арт. Rb00957</name>
+      <price>185</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11O8fO1l6150j43IFWGRVVTVulEX2WcMy</picture>
+      <picture>https://lh3.googleusercontent.com/d/16g-nYQXE-_exuRsUBKyHe8IJpfYoW6bH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HJxKlO-mYsxb-cGo7fQTCTVXDsSOOD8H</picture>
+      <picture>https://lh3.googleusercontent.com/d/11oPbsMOvz1GS3ky3xqWkTTt2U6hnx9lq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rb00957</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb02785" available="true">
+      <categoryId>38</categoryId>
+      <name>Краспедия Голубой 50 см Арт. Rb02785</name>
+      <price>569</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AIpzpdOgE8DKitAYbgSsEpREe2lfR1xS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wjVYJj9eFrKYY13z_UcwsrNbCD1EVCVQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/12p3ZiYnpe5s7PcrEX-vhMcAS-s9A8hS3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XB1T8DVoS9rOhxM0JeBouatYhb7OQhTa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RV2QWbhqw4IQcotsiMEq-lI3fwyxeV8L</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02785</param>
+      <consist name="Краспедия" unit="шт">20</consist>
+    </offer>
+    <offer id="Rb02557" available="true">
+      <categoryId>38</categoryId>
+      <name>Куэркас Рубра Клеурбеханделд 70 см Арт. Rb02557</name>
+      <price>987</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YT2uZj5Hss5X_sgGV3VVoopcCOY_KjWZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m_9hARAVb9rlJLjLr9h-L_GmJQab-BJq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XN4UdBGUaAZEI3MW4h3tNETrx7RUAwLd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e2EDtaAXDC9GRZ6TRzan-owOGYNgTYum</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hHxwzEKrYgN1JvLwUS1xUD0tUIPcrvfq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02557</param>
+      <consist name="Куэркас Рубра Клеурбеханделд" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb02775" available="true">
+      <categoryId>39</categoryId>
+      <name>Лагурус Голубой 50 см Арт. Rb02775</name>
+      <price>238</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GVdE0IDOxe5ptIW8s9w835ngIJHTyUxA</picture>
+      <picture>https://lh3.googleusercontent.com/d/130_b971yJYHhr-Sr-56reEV9kAMycJ7N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XWKHi9r8PPhEGuu5dv-65eMW1FzxUTvD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bKxlmUOPfwDndp1ZjJH2-G1wpeUFSw_6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hSTvPaKK9XFc2NLA_P6mYsFtDyKIIBfu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02775</param>
+      <consist name="Лагурус Голубой" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
