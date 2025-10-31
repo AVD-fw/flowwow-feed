@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-31T07:09:28.389+03:00">
+<yml_catalog date="2025-10-31T07:18:16.236+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -52,6 +52,24 @@
       <param name="Артикул">Rb12557</param>
       <consist name="Хризантема одноголовая Кутюр Бронз" unit="шт">10</consist>
     </offer>
+    <offer id="Rb5247" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Пип Сальмон 70 см Арт. Rb5247</name>
+      <price>219</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RyDWxlDoLUbtLGXT64Z7Lpjfjr75cvwN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MO_lgnl1VlUmulJ_oHfLfQwfFpOMsV7d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B1Fj-wxqj8rpSBCbILLgnn19ok4hGapf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mBB9fK4O0vpqHNMLVYOntG-pyebEZT57</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZXsHx94_N5gABPLwe92755Gm7IWmiUz1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb5247</param>
+      <consist name="Хризантема одноголовая Пип Сальмон" unit="шт">10</consist>
+    </offer>
     <offer id="Rb00847" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Росс Шарлотте 70 см Арт. Rb00847</name>
@@ -76,17 +94,70 @@
       <price>219</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1aZm6l-tKFA471pD7pO9XRgEon1jTS6Um</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H_cB_OU3d2VG6HyJqIhaehfNKajTNOby</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hwTnFarOicm2vtE6IJpJ0MZcEIJvEtJ-</picture>
       <picture>https://lh3.googleusercontent.com/d/1_aVmzZukkAXjuV3IkDp3YUKvLm4jHyf6</picture>
       <picture>https://lh3.googleusercontent.com/d/1aCcpV1lSQQAJiPoc3fWTcvoUd82GvGa9</picture>
       <picture>https://lh3.googleusercontent.com/d/1wKgng0oJXCTluJRQ2mw5Xe8LjlmU-dCT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aZm6l-tKFA471pD7pO9XRgEon1jTS6Um</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">80</param>
       <param name="Страна">Голандия</param>
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rb02308</param>
       <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb15205" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 55 см Арт. Rb15205</name>
+      <price>76</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ez6yWDhyOodGAC6IlMaGp_oA9zQVrtkb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cBkh5pj22JeA7DgrQpcGkmUSurg7EvuD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nMNZc8qoSGWppdW1_Hk8JHNtwYMXMt5N</picture>
+      <picture>https://lh3.googleusercontent.com/d/12i6BTxhg2zOjbmXB_H1NTjiQiCweiJ0D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BBTs1TKlUUXygqP4680Df-JgHe10YdXY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb15205</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb10805" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сан Маверик 55 см Арт. Rb10805</name>
+      <price>109</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1INrJhvc8virECuBHrVnsSrAlLSb-FgCw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NOJltnWs-u8eZDI8zo4-WAb2XXjFMBNq</picture>
+      <picture>https://lh3.googleusercontent.com/d/14jDUfBgQTBnxQuXumUuswGEr4xJ5K51J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bPSA0Rfkfxrj7HSy1Mdu4REefEITRKdb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kABw3Abgd1twVYa_amhpitF4pW6msbBW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb10805</param>
+      <consist name="Хризантема Сантини Сан Маверик" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb14465" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Элисон Пинк 55 см Арт. Rb14465</name>
+      <price>109</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1A0KOfLOA1m4O-dSkbcUWcZj7Xdw2ZTkE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yOZhPyHVsoIRPoaC9myLbff8YiFttthu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S5EuD-enNIm4ta0gI9rzdKdmFtU8xzY6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rw80GhKM89s4zwt8lz_vLXk0_SSahoup</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rb14465</param>
+      <consist name="Хризантема Сантини Элисон Пинк" unit="шт">25</consist>
     </offer>
     <offer id="Rb03547" available="true">
       <categoryId>37</categoryId>
@@ -122,6 +193,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb03557</param>
       <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb01196" available="true">
+      <categoryId>37</categoryId>
+      <name>Брассика Крейн Квин 60 см Арт. Rb01196</name>
+      <price>139</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1raSL0dVxMwJkQqN4xgycf5qkMWRVSihn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F8ot1mFcU9irUIWXynEN6VEn9dzr_An6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aoNbXdWMqWRz5w0gSJZwINGxRErVe6Os</picture>
+      <picture>https://lh3.googleusercontent.com/d/18A8WAJRjqZW0bG_4JH02_67TxBqwGCpq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P96uPgSZ7nbeGj-CzKyQEpXeTYkqt1fV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01196</param>
+      <consist name="Брассика Крейн Квин" unit="шт">5</consist>
     </offer>
     <offer id="Rb16107" available="true">
       <categoryId>37</categoryId>
@@ -176,6 +264,40 @@
       <param name="Производитель">GeoFlora</param>
       <param name="Артикул">Rb16067</param>
       <consist name="Гвоздика одноголовая Форес" unit="шт">25</consist>
+    </offer>
+    <offer id="Rb03568" available="true">
+      <categoryId>37</categoryId>
+      <name>Гидрангия Пимпернель 80 см Арт. Rb03568</name>
+      <price>529</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zJ86sqtvojpHYb3NWa220_wV1_X8g6Ts</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z92-UZft8THMZaFU4u6-jhmk3Qen14NO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OUBKsfbpWOP-wii2ghiNUyRgA0uTawmX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y2qhwEfcomJM1TIPbYq1jF33wWbICYpU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb03568</param>
+      <consist name="Гидрангия Пимпернель" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb00378" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Радужная 80 см Арт. Rb00378</name>
+      <price>204</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AtcZGzLTvxWhu-HtqONHhpUMU1-w3-eQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QixBCc59O5XR7k3doWvyHgYC6k3xj212</picture>
+      <picture>https://lh3.googleusercontent.com/d/17DAIZXDodyTb6DKURX812sMiX-l5pn-g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SXiVXaBuMm7LplUiW7oNvunQ4v4mnnne</picture>
+      <picture>https://lh3.googleusercontent.com/d/15GPNP4tgeTu7F2Qiw0oax6nkefHHLaYo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Rb00378</param>
+      <consist name="Гипсофила Радужная" unit="шт">25</consist>
     </offer>
     <offer id="Rb15615" available="true">
       <categoryId>37</categoryId>
@@ -296,6 +418,40 @@
       <param name="Артикул">Rb5186</param>
       <consist name="Озотамнус Сноу Вайт" unit="шт">10</consist>
     </offer>
+    <offer id="Rb01896" available="true">
+      <categoryId>37</categoryId>
+      <name>Протея Сунароидес 60 см Арт. Rb01896</name>
+      <price>586</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1f07KlPhEC97Z-PgHY4p6fjUA97cFpcal</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KbaW5HiEKr6pm1gXNzz-RTJrulGyUV9b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wDQSnb4E_mfOJxobDGqqQ94AlNXc7i5J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mRuAN4BrGRghLYGxDJ9G7D6_HlYpB9tJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s4AeYOOsX-hD6LFpydhXoVs-on0NT5bQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01896</param>
+      <consist name="Протея Сунароидес" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb00596" available="true">
+      <categoryId>37</categoryId>
+      <name>Танацетум Белый 60 см Арт. Rb00596</name>
+      <price>90</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ea2y0Ji-2wJWWYJTe3Dm9OPNTyHb6OIh</picture>
+      <picture>https://lh3.googleusercontent.com/d/141OB45tHY8wpWRHZJ_UK9kqGiilpK7kp</picture>
+      <picture>https://lh3.googleusercontent.com/d/132odNCZq9Dfwmicl5IWv3gtELrXSNTwl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HAzV8tYmqmxDQbTObXAKMnNEYkFbgOeB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TVP0X6wsc0MzMXd36JhbMhwHtgQ96Svk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голандия</param>
+      <param name="Артикул">Rb00596</param>
+      <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
     <offer id="Rb6047" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Лисенн Лавандер 70 см Арт. Rb6047</name>
@@ -349,6 +505,40 @@
       <param name="Артикул">Rb3714</param>
       <consist name="Бруния Левис" unit="шт">10</consist>
     </offer>
+    <offer id="Rb02557" available="true">
+      <categoryId>38</categoryId>
+      <name>Куэркас Рубра Клеурбеханделд 70 см Арт. Rb02557</name>
+      <price>987</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bRFdoIoReMzg27eop4C-jn05d9kDSMq-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XN4UdBGUaAZEI3MW4h3tNETrx7RUAwLd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e2EDtaAXDC9GRZ6TRzan-owOGYNgTYum</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hHxwzEKrYgN1JvLwUS1xUD0tUIPcrvfq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YT2uZj5Hss5X_sgGV3VVoopcCOY_KjWZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb02557</param>
+      <consist name="Куэркас Рубра Клеурбеханделд" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb01558" available="true">
+      <categoryId>38</categoryId>
+      <name>Паникум Зеленый 80 см Арт. Rb01558</name>
+      <price>49</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VgAwqSFVR7Ol7JcIIa8y7V8LDZPX7Fh2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F_yOdCmLKNr1jRAV4BsR-AUqA5mlwdMQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m1HDoeWlS-rWOmMwaGs6nlyxfJGqMlcM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GeTPgN8moxVyMf0-MRpaoeyv1XyiFFfo</picture>
+      <picture>https://lh3.googleusercontent.com/d/12CLrKXTZUrSpU0YrLgfDfARcx-R_OTHW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01558</param>
+      <consist name="Паникум" unit="шт">20</consist>
+    </offer>
     <offer id="Rb7946" available="true">
       <categoryId>38</categoryId>
       <name>Роза Маг Ред Каскад 60 см Арт. Rb7946</name>
@@ -383,6 +573,23 @@
       <param name="Артикул">Rb02286</param>
       <consist name="Симфорикарпус Меджикал Брайд" unit="шт">10</consist>
     </offer>
+    <offer id="Rb5094" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Рубелла 45 см Арт. Rb5094</name>
+      <price>515</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/167XsB7t6PAe0J7BXAGKYMzNoI-jZThBo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dj_Ev32Juh70w0xaYTpyJVdMWRElUaoX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xpz-tGs50Bgv64yM1B5qk2lNZierlJFZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IiGFVqTEJfkOySArJgr7qd3dtgYHVGOR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vU0s_HJqacOGZaII_YuHiF_IIHQUhaK6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb5094</param>
+      <consist name="Скиммия Рубелла" unit="шт">1</consist>
+    </offer>
     <offer id="Rb5704" available="true">
       <categoryId>38</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. Rb5704</name>
@@ -399,6 +606,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb5704</param>
       <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb01568" available="true">
+      <categoryId>38</categoryId>
+      <name>Солидаго Карзан Глори 80 см Арт. Rb01568</name>
+      <price>99</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jlMnS-cmZtNxfLy1mpFFutszN9lesjva</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WzMVf0GaAMFwl4Py4jbaxVPgkO0X3Rof</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TcCs5_PmlLssMFYtDXyb6tPcVqb8awmW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PT68PeNnYVlmpqBbRE6uHK9XLWH58yVA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XA8JMBnuTYjWucrh79sbi95kxSQ4blAY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb01568</param>
+      <consist name="Солидаго Карзан Глори" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
