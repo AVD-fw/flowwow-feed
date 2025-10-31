@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-31T08:29:40.467+03:00">
+<yml_catalog date="2025-10-31T08:39:41.901+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -55,21 +55,21 @@
       <param name="Артикул">Fc06307c</param>
       <consist name="Роза одноголовая пионовидная Голден Вувузела" unit="шт">10</consist>
     </offer>
-    <offer id="Fc15996c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Сансерра 60 см Арт. Fc15996c</name>
+    <offer id="Fc15897c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая пионовидная Роял Блаш 70 см Арт. Fc15897c</name>
       <categoryId>1</categoryId>
-      <price>2025</price>
-      <picture>https://lh3.googleusercontent.com/d/1xT5_AVbryW-mvSjnHwbdBG3-GHJTLw-Y</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nvRlW3gSNJHknyAqvbRTGK3FZVPEh8AW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Dvcc9q6jC6-yL1dLDpSi-dKSqZEm3WmZ</picture>
+      <price>5375</price>
+      <picture>https://lh3.googleusercontent.com/d/1E7NT4T7SfH4LT7DWZCngFxa5-ZR5ws6L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XaxEvAQfskw_r_y2DWoDLmGZeL2HHYGW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PHupjoW5ZHdviwwv9KpIpfQiFhFB8oq6</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
-      <param name="Высота, см">60</param>
+      <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">Эфиопия</param>
-      <param name="Производитель">Braam Born to Bloom</param>
-      <param name="Артикул">Fc15996c</param>
-      <consist name="Роза кустовая Сансерра" unit="шт">10</consist>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vip Rose</param>
+      <param name="Артикул">Fc15897c</param>
+      <consist name="Роза одноголовая пионовидная Роял Блаш" unit="шт">10</consist>
     </offer>
     <offer id="Fc11987c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Джульетта 70 см Арт. Fc11987c</name>
@@ -151,6 +151,22 @@
       <param name="Артикул">Fc14327c</param>
       <consist name="Хризантема кустовая Кая" unit="шт">5</consist>
     </offer>
+    <offer id="Fc00917c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Летс Гоу Пинк 70 см Арт. Fc00917c</name>
+      <categoryId>1</categoryId>
+      <price>790</price>
+      <picture>https://lh3.googleusercontent.com/d/1X84cJFerX47x1cy2oZCnyN7CKZ0SSuVX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wrBgo3hA0_KdWXx644Mxf6P0ZoIr_FaJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dAgGIm4oQrNs7IsB1nTD2KzuRjt5U9ZJ</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc00917c</param>
+      <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
+    </offer>
     <offer id="Fc18495c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини 50 см Арт. Fc18495c</name>
       <categoryId>1</categoryId>
@@ -164,6 +180,20 @@
       <param name="Ширина, см">15</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc18495c</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc18665c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Коричневый 55 см Арт. Fc18665c</name>
+      <categoryId>1</categoryId>
+      <price>2025</price>
+      <picture>https://lh3.googleusercontent.com/d/1hTAkyvkMuAw7CSnKKaHlbIGVWs2p-Qr-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l93HA17nAxQ0dYW3ee0RzZ1eprb4FykC</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc18665c</param>
       <consist name="Хризантема Сантини" unit="шт">25</consist>
     </offer>
     <offer id="Fc03445c" available="true">
@@ -214,6 +244,134 @@
       <param name="Артикул">Fc7455c</param>
       <consist name="Хризантема Сантини Дория" unit="шт">25</consist>
     </offer>
+    <offer id="Fc7365c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Линди Вайт 55 см Арт. Fc7365c</name>
+      <categoryId>1</categoryId>
+      <price>2025</price>
+      <picture>https://lh3.googleusercontent.com/d/11o3iFEfgeO3cSMVOTLHgH0kGKsBHUjdY</picture>
+      <picture>https://lh3.googleusercontent.com/d/130pkG7R26Gs69hR69qooVyj1lyOo42IM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EH9XZnB1hGHTLZEW_w_-dQqJa4l76SI-</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Madiba</param>
+      <param name="Артикул">Fc7365c</param>
+      <consist name="Хризантема Сантини Линди Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc13765c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Марадона 55 см Арт. Fc13765c</name>
+      <categoryId>1</categoryId>
+      <price>2215</price>
+      <picture>https://lh3.googleusercontent.com/d/13NKAeEMiWtHh9BZUfi48yVZTtz9YCRyp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pM3nSjDW3ED2PJm3qj_O1CCrs-vvKnMw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1avX7SR-efdxaVKML13kl4eGRV4G-5F4a</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Funny Santini</param>
+      <param name="Артикул">Fc13765c</param>
+      <consist name="Хризантема Сантини Марадона" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc15225c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Пепталк 55 см Арт. Fc15225c</name>
+      <categoryId>1</categoryId>
+      <price>2055</price>
+      <picture>https://lh3.googleusercontent.com/d/1y08IVx_zylb4Cxq_c6QcmRoVglFP7DqE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SoAGEDR0qGkLkQ5jPjOxJ6Vhumewr8l-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MqZLFhejn7yLahsQAu6mChvrPKWl4TvK</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc15225c</param>
+      <consist name="Хризантема Сантини Пепталк" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc03455c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 55 см Арт. Fc03455c</name>
+      <categoryId>1</categoryId>
+      <price>2275</price>
+      <picture>https://lh3.googleusercontent.com/d/1QOyc-3dLbqW9LS4XK4CG18VKgzKtxnhg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Cif39pdu8I0cAYcgr0WyNnlXA6MF1ZGA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hmshRqPFrjez-ySUidyMKOHbFAMq9XPL</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc03455c</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc11085c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Санни 55 см Арт. Fc11085c</name>
+      <categoryId>1</categoryId>
+      <price>2275</price>
+      <picture>https://lh3.googleusercontent.com/d/1hXjrLbvJ0bRbkmgY_RwD4OvDqUF4oEAu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P86l3pR0J3N9jlMb4f4V6Iv0A5nLdP1b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o8wNZf3nG6fP4AM0PQBn8Bq7EQBjnYm7</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Fc11085c</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc15575c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Смоки 55 см Арт. Fc15575c</name>
+      <categoryId>1</categoryId>
+      <price>2215</price>
+      <picture>https://lh3.googleusercontent.com/d/1P2-XcU85V7409WS5rWd3-AYDP8AQDfmZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hWAp6R-0pB6zes5T3QjYaBIEfUEX2Lbt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Krt7P4OS7gpa8fj3uiq0Hv9N0dkNfVIV</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc15575c</param>
+      <consist name="Хризантема Сантини Росси Смоки" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc13475c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Сан Ап 55 см Арт. Fc13475c</name>
+      <categoryId>1</categoryId>
+      <price>2085</price>
+      <picture>https://lh3.googleusercontent.com/d/1mNrXdH5bdw5Cm6TOaOOitLaTvIBlzQM_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sK_BIz2FoHPgf6tBeK2iplK2KmwrH6ZL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mvx-p8LpmUU1WS8ZVtITgzItYgJYn3R3</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc13475c</param>
+      <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc16985c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Элисон Пинк 55 см Арт. Fc16985c</name>
+      <categoryId>1</categoryId>
+      <price>2275</price>
+      <picture>https://lh3.googleusercontent.com/d/15aDn0JkpuPky6ekBmld5LBIhhCLUqbL0</picture>
+      <picture>https://lh3.googleusercontent.com/d/18ZYpXaDiH8MCjWGeOGLsilUWsnZKLumP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BJ3ci2YLQqaALtn7p5RFOfOQ7s1VH0rj</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc16985c</param>
+      <consist name="Хризантема Сантини Элисон Пинк" unit="шт">25</consist>
+    </offer>
     <offer id="Fc04216c" available="true">
       <name>Пачка (10 шт.) Агапантус Белый 60 см Арт. Fc04216c</name>
       <categoryId>1</categoryId>
@@ -261,6 +419,22 @@
       <param name="Артикул">Fc11326c</param>
       <consist name="Антирринум" unit="шт">10</consist>
     </offer>
+    <offer id="Fc12595c" available="true">
+      <name>Пачка (10 шт.) Гвоздика кустовая Арагон 50 см Арт. Fc12595c</name>
+      <categoryId>1</categoryId>
+      <price>570</price>
+      <picture>https://lh3.googleusercontent.com/d/1IRYFYU42UXqG_QtdSpwpFWaKYBV14B8X</picture>
+      <picture>https://lh3.googleusercontent.com/d/100EvZIsOkZdj1k1g0dmo1XpUOWWm0hHH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J3fFBHVfyKZBensWL-INddS8DdTgxbPz</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc12595c</param>
+      <consist name="Гвоздика кустовая Арагон" unit="шт">10</consist>
+    </offer>
     <offer id="Fc13605c" available="true">
       <name>Пачка (10 шт.) Гвоздика кустовая Бамбо 50 см Арт. Fc13605c</name>
       <categoryId>1</categoryId>
@@ -276,6 +450,38 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fc13605c</param>
       <consist name="Гвоздика кустовая Бамбо" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc03105c" available="true">
+      <name>Пачка (10 шт.) Гвоздика кустовая Джианна 50 см Арт. Fc03105c</name>
+      <categoryId>1</categoryId>
+      <price>570</price>
+      <picture>https://lh3.googleusercontent.com/d/18Ax_8remldLZZvLR1LuiSiBJ-_9DCt95</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FTWINH4O10lcBs2TIN5AvOtPE1M3ezud</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sepAZINHYFvgIdlTQxJPM4c2HeepLzdD</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc03105c</param>
+      <consist name="Гвоздика кустовая Джианна" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc12605c" available="true">
+      <name>Пачка (10 шт.) Гвоздика кустовая Опорто 50 см Арт. Fc12605c</name>
+      <categoryId>1</categoryId>
+      <price>570</price>
+      <picture>https://lh3.googleusercontent.com/d/13x01VB1bMQgHQGYQVrctI0Nr9jVZ82sm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zZPfdcIRHcTBDTrSO4nKNAsixpDpOXzc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F_cCkjGZcnZOOyafCluyvRW9uvG8et7h</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc12605c</param>
+      <consist name="Гвоздика кустовая Опорто" unit="шт">10</consist>
     </offer>
     <offer id="Fc9665c" available="true">
       <name>Пачка (10 шт.) Гвоздика кустовая Хорус 50 см Арт. Fc9665c</name>
@@ -293,6 +499,38 @@
       <param name="Артикул">Fc9665c</param>
       <consist name="Гвоздика кустовая Хорус" unit="шт">10</consist>
     </offer>
+    <offer id="Fc18525c" available="true">
+      <name>Пачка (10 шт.) Гвоздика кустовая Ючува 50 см Арт. Fc18525c</name>
+      <categoryId>1</categoryId>
+      <price>570</price>
+      <picture>https://lh3.googleusercontent.com/d/17C6bwJMpjYWae-vEAFWl0PvOdiXNgujr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uWIh2zxpc2GM-faHdty6HYKUcuF5T52W</picture>
+      <picture>https://lh3.googleusercontent.com/d/19zoMOeJNQlW_Gw22D45MDWv2WqDL0vfE</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc18525c</param>
+      <consist name="Гвоздика кустовая Ючува" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc03147c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Брют 70 см Арт. Fc03147c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1VGK35ocxOaR7eAos9wZbgnhOdsYXvIa-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QAvxPQDmBexB7bTTh5b1_7d1rv-oHMZQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Llb3MN5kGKLczEaxitUrMo_wSc5sMTQj</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc03147c</param>
+      <consist name="Гвоздика одноголовая Брют" unit="шт">25</consist>
+    </offer>
     <offer id="Fc03787c" available="true">
       <name>Пачка (30 шт.) Гвоздика одноголовая Грин Трик 70 см Арт. Fc03787c</name>
       <categoryId>1</categoryId>
@@ -309,6 +547,38 @@
       <param name="Артикул">Fc03787c</param>
       <consist name="Гвоздика одноголовая Грин Трик" unit="шт">30</consist>
     </offer>
+    <offer id="Fc01257c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Джангл 70 см Арт. Fc01257c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1F5kMmKXNsAUUpgLerhFoQtiLeNpALGwE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CaM3r9-7XYXFFiYeJUJP01NiO78BCyUl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KdnDT_Vk339GBeymNW7n_ksTBa1jeE5a</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc01257c</param>
+      <consist name="Гвоздика одноголовая Джангл" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc11017c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Каори 70 см Арт. Fc11017c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1bDxXcEpxVFGPLEyNkZSzSCrCQlwLMmxv</picture>
+      <picture>https://lh3.googleusercontent.com/d/10VSPh30atKBC0IYZCFSVWa2UsC1y7raO</picture>
+      <picture>https://lh3.googleusercontent.com/d/16OrE7FZuOl59P0TKtrYzEY-GrqzKvYc3</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc11017c</param>
+      <consist name="Гвоздика одноголовая Каори" unit="шт">25</consist>
+    </offer>
     <offer id="Fc03137c" available="true">
       <name>Пачка (25 шт.) Гвоздика одноголовая Клеар Вотер 70 см Арт. Fc03137c</name>
       <categoryId>1</categoryId>
@@ -324,6 +594,146 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fc03137c</param>
       <consist name="Гвоздика одноголовая Клеар Вотер" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc9737c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Кристалло 70 см Арт. Fc9737c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1luPzeRkK7MBS_CJQRG736paZiQ1OHI_J</picture>
+      <picture>https://lh3.googleusercontent.com/d/15_j0hX5-d7FBD22AtRvd0aLJExfAph9L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vJtF-kXET949Q0rlog5Qot2TSrcY3cmP</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc9737c</param>
+      <consist name="Гвоздика одноголовая Кристалло" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc10987c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Мерлето Кримсон 70 см Арт. Fc10987c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1AHxyPODXuIyshspgp7gMDTmzUPNAEUG1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C0TyddVy0S-hiftUs40uQ8iQMvO5OVUJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y6OvumT7NJnvms5TCQxhQ4X5NxlJwtuW</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc10987c</param>
+      <consist name="Гвоздика одноголовая Мерлето Кримсон" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc12567c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Мерлетто Лавендер 70 см Арт. Fc12567c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1k-obTviOCfv2Q1pqyht9Gzz0LMxXPjS_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oGTl1IYXc5Ma8SBTKHx1iy4CPBiFykPW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1200Fm8gDZjNIPnHqfFEdqDKLEGPYAMKt</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc12567c</param>
+      <consist name="Гвоздика одноголовая Мерлетто Лавендер" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc03167c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая Мунаква 70 см Арт. Fc03167c</name>
+      <categoryId>1</categoryId>
+      <price>1315</price>
+      <picture>https://lh3.googleusercontent.com/d/1V2kO9gBzwvNzYzyuCJkk8-AqN5_p2DvU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jOqo4sCIcD3Vihaw__6xFBvhLfaK_PBY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1htIm6k1WkixZNVLvFA59KExKsLx9CzvY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Florigene Flowers</param>
+      <param name="Артикул">Fc03167c</param>
+      <consist name="Гвоздика одноголовая Мунаква" unit="шт">20</consist>
+    </offer>
+    <offer id="Fc9577c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Ноббио Бургунди 70 см Арт. Fc9577c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1gyO6lvWKPO6OoOMv4HJ9xQNw3HK3hLBt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCb8qsbJ9jDZDVawY3hWwcGUSEX7MtLr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yfiXlpIboEChimFpdyt0CG_iqhtyVIrR</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc9577c</param>
+      <consist name="Гвоздика одноголовая Ноббио Бургунди" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01277c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Пастел Кремия 70 см Арт. Fc01277c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1lxJDZbIOXg1beO6hNw67pgZ8j5t42iGR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KEeV9jC7Fq49UiAqYAhue4R8KUXDpWut</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bi8rWFnaXqQaRkrf6AJ4OYABbzVQWFgz</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc01277c</param>
+      <consist name="Гвоздика одноголовая Пастел Кремия" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc14917c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Сассикала 70 см Арт. Fc14917c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1t-evr1Lz4SgMJY7ycobifQ29lW8CDLT-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KLnxNTc9VHZOa8B1kaSDgKMq1kyLfSGC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pldF0edVrDdxsCS-_6JfNIH9P9-Sptoy</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc14917c</param>
+      <consist name="Гвоздика одноголовая Сассикала" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc18937c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Стромболи 70 см Арт. Fc18937c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/1gyTzXTCtl5MqDLNvGxdSvFPAtNbXIJ29</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RwpPet3DbZ0VZ7YlQ76K3TW7MHQLSfhP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc18937c</param>
+      <consist name="Гвоздика одноголовая Стромболи" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc19147c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Форси 70 см Арт. Fc19147c</name>
+      <categoryId>1</categoryId>
+      <price>1520</price>
+      <picture>https://lh3.googleusercontent.com/d/15NfjJrrX9VS68VKrTmwpFNvSjnRjg3r2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EPNIMnUiT9xYmqgas8_L50A_2I1rl73F</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc19147c</param>
+      <consist name="Гвоздика одноголовая Форси" unit="шт">25</consist>
     </offer>
     <offer id="Fc15068c" available="true">
       <name>Пачка (5 шт.) Илекс Оранжевый 80 см Арт. Fc15068c</name>
@@ -402,6 +812,22 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Fc5595c</param>
       <consist name="Клематис" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc04275c" available="true">
+      <name>Пачка (5 шт.) Леукоспермум Красный 50 см Арт. Fc04275c</name>
+      <categoryId>1</categoryId>
+      <price>1140</price>
+      <picture>https://lh3.googleusercontent.com/d/1tNeyzyujWK0nS_G34pwAuw7KFFBqNcJg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nZRij4qQk_5qWzefcCBI4CZFVXIUbHGw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OIq5QXgh3W3AW-pwm27zo1x6By7WxxrL</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">ЮАР</param>
+      <param name="Производитель">Freshcap</param>
+      <param name="Артикул">Fc04275c</param>
+      <consist name="Леукоспермум" unit="шт">5</consist>
     </offer>
     <offer id="Fc00695c" available="true">
       <name>Пачка (5 шт.) Маттиола Желтый 50 см Арт. Fc00695c</name>
