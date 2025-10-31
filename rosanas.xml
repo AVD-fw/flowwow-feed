@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-31T09:59:45.446+03:00">
+<yml_catalog date="2025-10-31T10:08:59.453+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,22 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rb01775" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Жемчуг 50 см Арт. Rb01775</name>
+      <price>110</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KIFjudV3zjI3RsvEF4LddCb_3B2WwMsm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s4I3eZZ0PYxLz6JEFoW1OKwXZG96PVD0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lSPuepHGDzR9lAdixaWmB6epMnrYhE0w</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Волгоград</param>
+      <param name="Артикул">Rb01775</param>
+      <consist name="Роза одноголовая Жемчуг" unit="шт">10</consist>
+    </offer>
     <offer id="Rb11798" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Кавендиш 80 см Арт. Rb11798</name>
@@ -83,6 +99,24 @@
       <param name="Артикул">Rb11855</param>
       <consist name="Роза одноголовая Фул Монти" unit="шт">25</consist>
     </offer>
+    <offer id="Rb01757" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Шиммер 70 см Арт. Rb01757</name>
+      <price>153</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Bb4gvi0rmtk5gKMGmnkE4u_yjwaX5uW_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xDLvTG4DdNkTqMWrRbw_0RSk6Zs5aoWT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SQXcSIr3EAmKWm0G6iOwMUcFTeMw06Ms</picture>
+      <picture>https://lh3.googleusercontent.com/d/1goWxoAxWXupjSnO8RP603jLxoXwV10lK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jo9HYaAGHrUGnx7KLmCJeN7CjgATuFmt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rb01757</param>
+      <consist name="Роза одноголовая Шиммер" unit="шт">25</consist>
+    </offer>
     <offer id="Rb02016" available="true">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Баблгам 60 см Арт. Rb02016</name>
@@ -136,6 +170,24 @@
       <param name="Артикул">Rb14697</param>
       <consist name="Роза одноголовая пионовидная Хартс" unit="шт">25</consist>
     </offer>
+    <offer id="Rb8215" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Беларусь 50 см Арт. Rb8215</name>
+      <price>127</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pvI0uYE5LIjuXFjQGndA6fQeEWmjnXMk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FisjTKr6mMCQ0ufrfLOsxg_bIV4ggayR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wDZeK13PNZmxvwCjh6IcoP0YnBmQkP9e</picture>
+      <picture>https://lh3.googleusercontent.com/d/198X9cMgok5J8qwh4qxV9bUhhEdAGzIq5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lameqgoMZCA7OJEIJvGot47Splaf1eDR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rb8215</param>
+      <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
+    </offer>
     <offer id="Rb04265" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Софи 50 см Арт. Rb04265</name>
@@ -172,6 +224,24 @@
       <param name="Артикул">Rb04506</param>
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
+    <offer id="Rb04366" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Бомбастик 60 см Арт. Rb04366</name>
+      <price>343</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EKLpNAMnYM5SOreGDjN8KaoaZmFWoZiW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ncJ9gFvCnoAo7PdaivCqk7-R33GDXUc0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TKWGAOb7wfYM2tMXIw5EZFc_cYE_6XOs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rUnhITgXVjOj54K62hgmdnXXKtW7No-c</picture>
+      <picture>https://lh3.googleusercontent.com/d/18v5ombGUveCgQMp3oFgOA3_ClRyJd9Ju</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04366</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Rb04275" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rb04275</name>
@@ -190,6 +260,60 @@
       <param name="Артикул">Rb04275</param>
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
+    <offer id="Rb04466" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мадам Бомбастик 60 см Арт. Rb04466</name>
+      <price>397</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BqNRREA8QJ7iNtNG8sOQgoh_skJ7UKZL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IQ92i_dJFbRnrWGi-s6YjUohCrlhuUBJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kJfC7RpmJJv1Aq1nx8c9b2ko56YYoX7T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zT-Xofvx03amotuijbT4k1XK8YZK97l1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RyG_wBr50P_BUVVL2frrNUNNeqi6NOCj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04466</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb4135" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Менсфилд Пинк Парк 50 см Арт. Rb4135</name>
+      <price>288</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11DNXoemn1rSWzHqfj9gd0dk3N9Psgt00</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d1mnBMcLzXhWLJz8n1OHAYq4lpMCGaNs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qfEaSBoZg6O4Y6JaSt2JvMq7M2wz_JzD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TPmgM7mm-wmF_zDh5iIzaS2uH_eTN1L5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zwLu9280ksVf6FAp51kJ9lK8e8gPgQxB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb4135</param>
+      <consist name="Роза кустовая пионовидная Менсфилд Пинк Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb6556" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Микс Кремовая 60 см Арт. Rb6556</name>
+      <price>274</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1B2c9ADFz8FhN-RXxwFmg9LHssNJcv18D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vnEIQsdfO_6vxDk0KTuBAWocEdg06jLo</picture>
+      <picture>https://lh3.googleusercontent.com/d/126ds8K4NblRmA8_wRYg2fy1EOoy7U6xn</picture>
+      <picture>https://lh3.googleusercontent.com/d/19e2W7Tdmqx0tPzUW5Au1Dbaysd7TRvzk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-IsiB0hyUlrmz1GjDbcw66pVg52y1FZM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb6556</param>
+      <consist name="Роза кустовая пионовидная Микс Кремовая" unit="шт">5</consist>
+    </offer>
     <offer id="Rb6926" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Пиони Бабблс 60 см Арт. Rb6926</name>
@@ -205,6 +329,24 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb6926</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb6896" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Роял Блаш 60 см Арт. Rb6896</name>
+      <price>397</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Fnqk2XDNRnIEDNLD0d-Y8Ecy32PW_QFO</picture>
+      <picture>https://lh3.googleusercontent.com/d/15I1jwL1bjcCVkWkeD203VUYk9af8pDpr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u0xO2lep59DrWtgykuR1kSOT22InquPD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BfP-GTHWT48yk3TDjm92WWBnxWTw3bK4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CgYbSD0DhEGiaRvZQ_Z-n1u8B3uX4nq0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb6896</param>
+      <consist name="Роза кустовая пионовидная Роял Блаш" unit="шт">5</consist>
     </offer>
     <offer id="Rb5516" available="true">
       <categoryId>4</categoryId>
@@ -223,6 +365,39 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rb5516</param>
       <consist name="Роза кустовая пионовидная Роял Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb04376" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Сильва Пинк 60 см Арт. Rb04376</name>
+      <price>425</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PLoWBJMc27-WCeyKoED6q_ct8rWZf4La</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YtyBqL7CzCKHMfMGLruLfMguyt10UHNi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04376</param>
+      <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rb04386" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Скарлет Дименшен 60 см Арт. Rb04386</name>
+      <price>274</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IwPyOE0N6c1NBC78n0mQXmp6lq8QGr3N</picture>
+      <picture>https://lh3.googleusercontent.com/d/12u-ZG9zAedIlE5Tgee5E4AEXQpcrQH7n</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CAPSsVz2am_Fqrkd3YyWwG0teGZCkLQz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KSYhBZsb1z2FCYTcJtvBCG3uOLyNsFcr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1adodSIV4eieWr_rLvitdkBOGk4iq0Wtj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rb04386</param>
+      <consist name="Роза кустовая пионовидная Скарлет Дименшен" unit="шт">10</consist>
     </offer>
     <offer id="Rb01977" available="true">
       <categoryId>5</categoryId>
@@ -912,6 +1087,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rb01896</param>
       <consist name="Протея Сунароидес" unit="шт">1</consist>
+    </offer>
+    <offer id="Rb12708" available="true">
+      <categoryId>37</categoryId>
+      <name>Скабиоза Стеллата 80 см Арт. Rb12708</name>
+      <price>45</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UgnKf6eg_Fspl8Zj3DqhRn9Cjj8ZsouV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qyJwMn2q1qTqR7I-eJDp_HG6WnmZg36N</picture>
+      <picture>https://lh3.googleusercontent.com/d/19Un6QLUA5vDvutfg5LrrF2RpUN4Y48Ol</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_i6h-LNybi6Rd_qbQFYi9jQuvkTzWIsl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Nl2t6-rLmSNDCC7rkHMx9wx1PwUXFDgl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rb12708</param>
+      <consist name="Скабиоза Стеллата" unit="шт">10</consist>
     </offer>
     <offer id="Rb00596" available="true">
       <categoryId>37</categoryId>
