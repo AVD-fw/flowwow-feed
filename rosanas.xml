@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-31T07:39:25.776+03:00">
+<yml_catalog date="2025-10-31T07:48:29.732+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -159,6 +159,23 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rb02308</param>
       <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
+    </offer>
+    <offer id="Rb14817" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Пастела Блаш 70 см Арт. Rb14817</name>
+      <price>129</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/191Zn0RP8Rhc9jnjYWfMcuZYvjZ8310qk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s9Fbe1Gf_7JoTHRb5tDrDVtwp95QMsQO</picture>
+      <picture>https://lh3.googleusercontent.com/d/19qRobTGDkcYFli9uw5Ema_f0ehBSjmZ0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iK4lAG47ol_EsjOk8seRNtltpzfqFQtw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rb14817</param>
+      <consist name="Хризантема кустовая Пастела Блаш" unit="шт">5</consist>
     </offer>
     <offer id="Rb15205" available="true">
       <categoryId>7</categoryId>
