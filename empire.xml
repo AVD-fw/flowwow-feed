@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-31T12:29:46.670+03:00">
+<yml_catalog date="2025-10-31T12:33:56.773+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -38,7 +38,7 @@
     <offer id="Ec2866" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ec2866</name>
-      <price>140</price>
+      <price>100</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vVga3NP1BCDjCYACdp4d028spvTSitMh</picture>
@@ -260,6 +260,24 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ec3397</param>
       <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec3694" available="true">
+      <categoryId>37</categoryId>
+      <name>Леукоспермум Красный 40 см Арт. Ec3694</name>
+      <price>160</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W3Ct_0DQdhLQ36Mj7rAaJ5hCRQrT7J-w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xEzmGUfyx-5q_YHSgcTvcON0CIOsutTr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1204QFGLVlvKIuVMsjxmImx-G5N3K8zfe</picture>
+      <picture>https://lh3.googleusercontent.com/d/14fL13VYAZ-JrOZgECU9EN040mfjnFn5T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OGMyVJZMtNtxLjuI01OO2fJGA7hU3aVD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">African Wildflowers</param>
+      <param name="Артикул">Ec3694</param>
+      <consist name="Леукоспермум" unit="шт">5</consist>
     </offer>
     <offer id="Ec01105" available="true">
       <categoryId>37</categoryId>
