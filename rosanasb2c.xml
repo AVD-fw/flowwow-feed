@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-05T13:29:47.293+03:00">
+<yml_catalog date="2025-11-05T13:32:13.013+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -259,6 +259,22 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc04335c</param>
       <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc11907c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Супер Сенсейшен 70 см Арт. Rc11907c</name>
+      <categoryId>1</categoryId>
+      <price>4135</price>
+      <picture>https://lh3.googleusercontent.com/d/1WuUVo2QJtIb_A7pmMckcanvKXxWtJdTK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D9LcrdIXIkfR6dzSorNfDbqVQ3UMqIXN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sO2GtUJjpeHKY9hIEvX1bQI5LFiqXOVa</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc11907c</param>
+      <consist name="Роза кустовая пионовидная Супер Сенсейшен" unit="шт">10</consist>
     </offer>
     <offer id="Rc01977c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Бальтазар Интен 70 см Арт. Rc01977c</name>
