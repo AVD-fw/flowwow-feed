@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-05T16:32:21.751+03:00">
+<yml_catalog date="2025-11-05T16:39:55.973+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -207,6 +207,20 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rc15945c</param>
       <consist name="Роза кустовая пионовидная Еллоу Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc16597c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Йеллоу Бабблс 70 см Арт. Rc16597c</name>
+      <categoryId>1</categoryId>
+      <price>5040</price>
+      <picture>https://lh3.googleusercontent.com/d/1SOuQkLtwFPiLocBSNsKu5_ekLl7DVVlw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_31_2nr4FBXAGr5FCuVgjuHH4mQP0N0O</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc16597c</param>
+      <consist name="Роза кустовая пионовидная Йеллоу Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Rc00465c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Корал Йо Йо 50 см Арт. Rc00465c</name>
