@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-05T19:29:43.973+03:00">
+<yml_catalog date="2025-11-05T19:39:15.783+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -212,6 +212,22 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc12637c</param>
       <consist name="Роза кустовая Антонина" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc00655c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Леди Бомбастик 50 см Арт. Fc00655c</name>
+      <categoryId>1</categoryId>
+      <price>1835</price>
+      <picture>https://lh3.googleusercontent.com/d/1y4lnkuDo-Yi4gVxM6vukhE5DuL_nFd0-</picture>
+      <picture>https://lh3.googleusercontent.com/d/161uxUmAvOQUhp5YMDSKkn14gMZFmsmFV</picture>
+      <picture>https://lh3.googleusercontent.com/d/12s1WibMJvOwy_ODKX2yS0gLfyRENh2Pa</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc00655c</param>
+      <consist name="Роза кустовая Леди Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Fc00716c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Софи 60 см Арт. Fc00716c</name>
