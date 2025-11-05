@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-05T20:41:25.997+03:00">
+<yml_catalog date="2025-11-05T20:44:36.098+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -442,6 +442,20 @@
       <param name="Артикул">La0727c</param>
       <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="La0177c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Фиолетовый 70 см Арт. La0177c</name>
+      <categoryId>1</categoryId>
+      <price>3320</price>
+      <picture>https://lh3.googleusercontent.com/d/11UbUtxc6ei7m5sPJr483_IJfAz-T9mf8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-BmK2JlUkzXOrpq0x2SkQxZmo8_s7Pqj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SAVKe8BhVAnuGAQAy7R2pANs9xkbndFM</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La0177c</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="La1087c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Петр 70 см Арт. La1087c</name>
       <categoryId>1</categoryId>
@@ -551,7 +565,8 @@
       <price>3195</price>
       <picture>https://lh3.googleusercontent.com/d/1P2B1dHf_ZvP3BHOD2f4F29lXX-PMvERH</picture>
       <picture>https://lh3.googleusercontent.com/d/1hx0OHqBwICPrDkDvHg90EupP1kV26Xr1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <picture>https://lh3.googleusercontent.com/d/1wF6Uq4kTlrD9ASuF2pOPwkkublp2WE9K</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Голландия</param>
