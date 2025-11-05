@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-05T07:29:14.313+03:00">
+<yml_catalog date="2025-11-05T07:38:35.572+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,11 +17,26 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rc4098" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Пинк Йо Йо 80 см Арт. Rc4098</name>
+      <price>280</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1usGY7256iQI0eYPkIXbdwTHCg9pZn23w</picture>
+      <picture>https://lh3.googleusercontent.com/d/11ATc8ohniIpluT24b8RjwL4rJ1vvnQyC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc4098</param>
+      <consist name="Роза кустовая Пинк Йо Йо" unit="шт">10</consist>
+    </offer>
     <offer id="Rc3817" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Коричневый 70 см Арт. Rc3817</name>
       <price>239</price>
-      <qty>10</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_H8EHnRHRAC723tHSV_ojOH2JzRZq6OL</picture>
       <picture>https://lh3.googleusercontent.com/d/1vABkkd-mCsIf46nKrxlczlsvwro5yBAi</picture>
@@ -38,7 +53,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Rc01977</name>
       <price>199</price>
-      <qty>10</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13Q663VvGK4kBF_2ii1_FNpoAluIJ-wIQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1-je2fc4WW6ddmc1WEE-9CuCszmMVxfgi</picture>
@@ -56,7 +71,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бразилиана 70 см Арт. Rc9027</name>
       <price>189</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1t3pRumJWPuFdaj1YDgWdX-Nedtf8V6dR</picture>
       <picture>https://lh3.googleusercontent.com/d/1Dz6YK8cp3VH50Ga2xgZRGLcgJ5QHe8TU</picture>
@@ -74,7 +89,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Пип Сальмон 70 см Арт. Rc5247</name>
       <price>219</price>
-      <qty>10</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Re287YON86xkUDpAnkLGDdygzs3noX3e</picture>
       <picture>https://lh3.googleusercontent.com/d/1ZXsHx94_N5gABPLwe92755Gm7IWmiUz1</picture>
@@ -92,7 +107,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Тропикана 70 см Арт. Rc01527</name>
       <price>214</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JbnsFu-iAHAaNqZc9gDkHNmiynqXK3wO</picture>
       <picture>https://lh3.googleusercontent.com/d/1_bTqRhwsuacx-7bC2XBrKIPyBE-PFYlv</picture>
@@ -110,7 +125,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Фуего 80 см Арт. Rc02308</name>
       <price>219</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qtIveJBbt9KGdVzP3WxXIcekOKbSjVcV</picture>
       <picture>https://lh3.googleusercontent.com/d/1wKgng0oJXCTluJRQ2mw5Xe8LjlmU-dCT</picture>
@@ -128,7 +143,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Элисон Пинк 55 см Арт. Rc14465</name>
       <price>109</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bP3jsiFo9kl8fhKp3ZnseRrbOczHaTlK</picture>
       <picture>https://lh3.googleusercontent.com/d/1S5EuD-enNIm4ta0gI9rzdKdmFtU8xzY6</picture>
@@ -146,7 +161,7 @@
       <categoryId>37</categoryId>
       <name>Астранция Розе Стар 60 см Арт. Rc10256</name>
       <price>79</price>
-      <qty>10</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1i8ZRsCpS9lovAh2HuS6i2vSCBSPUF8Eb</picture>
       <picture>https://lh3.googleusercontent.com/d/1o2Ay7oyFnyDu6bRKQwhy4OfjqremcpAa</picture>
@@ -163,7 +178,7 @@
       <categoryId>37</categoryId>
       <name>Брассика Крайн Кинг 70 см Арт. Rc14427</name>
       <price>145</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1HcVYCLPgs_sOjxJapsPnIsVQliknY3vV</picture>
       <picture>https://lh3.googleusercontent.com/d/1TThAxFnZ3E5LPZ_PFObJUV76hHkNM1oH</picture>
@@ -196,7 +211,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая 50 см Арт. Rc12495</name>
       <price>56</price>
-      <qty>10</qty>
+      <qty>210</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UgcqTy-hY8nCrv47W90MNNpHUH6aEkPs</picture>
       <picture>https://lh3.googleusercontent.com/d/1ue9lSckHSEwXwQnBCpnoKwqRhJuRP27R</picture>
@@ -243,7 +258,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Вайлд Трилл 70 см Арт. Rc16107</name>
       <price>52</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ZhujNB7CmatfyxnyZZFjWmj6d3Y-sYv1</picture>
       <picture>https://lh3.googleusercontent.com/d/1mEI8Kj94Ggd6PxXy2LWQ1zRqHrCaACwJ</picture>
@@ -330,7 +345,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Синий 40 см Арт. Rc6444</name>
       <price>52</price>
-      <qty>25</qty>
+      <qty>750</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NL8-3XSd3_X5uUuJbrj_h4Wi0KmukHuJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1QJtnDBl4h26rOJcVXYjmC1dopFpGWP1F</picture>
@@ -347,7 +362,7 @@
       <categoryId>37</categoryId>
       <name>Калла Кристал Блаш 70 см Арт. Rc8417</name>
       <price>169</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nCnqvVsgTnsmcKvrmLUoaGFVI_hOQ0Cs</picture>
       <picture>https://lh3.googleusercontent.com/d/1T8L-GDvG-_YkusL3QpGeYU1RwF2NKru7</picture>
@@ -364,7 +379,7 @@
       <categoryId>37</categoryId>
       <name>Клематис Эмейзинг Осло 70 см Арт. Rc11957</name>
       <price>69</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jkgYcXV2SUSLonj7rJg1l4tkGAnsYIEy</picture>
       <picture>https://lh3.googleusercontent.com/d/1WEJ2D9slVsHpVpFQ8FZTedUyLyTSoCif</picture>
@@ -381,7 +396,7 @@
       <categoryId>37</categoryId>
       <name>Лилия Литоувен 95 см Арт. Rc10789</name>
       <price>189</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13R39BkH2F1MYFHIk6Hv1l7tPeqcDXmBS</picture>
       <picture>https://lh3.googleusercontent.com/d/11nkErMH4L6S1LItRE6wxAM--R-Dc9yJ9</picture>
@@ -398,7 +413,7 @@
       <categoryId>37</categoryId>
       <name>Скабиоза Стеллата 80 см Арт. Rc12708</name>
       <price>45</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1H_QX6mrw9pk0vPSQQiv-wZIZdHRKKg-g</picture>
       <picture>https://lh3.googleusercontent.com/d/1_i6h-LNybi6Rd_qbQFYi9jQuvkTzWIsl</picture>
@@ -415,7 +430,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Лисенн Лавандер 70 см Арт. Rc6047</name>
       <price>215</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mZMmlh9wZhsf3YgRI0vlrAxZk1qyGCa_</picture>
       <picture>https://lh3.googleusercontent.com/d/1BXgegaFHEl8ec9yr6ptSP7eXi8ji_S0d</picture>
@@ -450,7 +465,7 @@
       <categoryId>38</categoryId>
       <name>Картамус Занзибар 80 см Арт. Rc01328</name>
       <price>79</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13RjV0Mjcc9AaejW-LAEZg2WvPUWccjuq</picture>
       <picture>https://lh3.googleusercontent.com/d/1DVfYkZn2sNrKbIYKn5ObSMJDUP7oNyob</picture>
@@ -467,7 +482,7 @@
       <categoryId>38</categoryId>
       <name>Крокосмия Люцифер 70 см Арт. Rc01127</name>
       <price>110</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12v8IYAAh_smxT2uxHc3h1ygbxM3k_0mR</picture>
       <picture>https://lh3.googleusercontent.com/d/1oq_AXKwYi4MwwStqL43amJ96ufUWh-DZ</picture>
@@ -484,7 +499,7 @@
       <categoryId>38</categoryId>
       <name>Паникум Зеленый 80 см Арт. Rc01558</name>
       <price>49</price>
-      <qty>20</qty>
+      <qty>120</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F-ENikGe2eK_zOLO3QQ5K7f3EgNyMat2</picture>
       <picture>https://lh3.googleusercontent.com/d/1GeTPgN8moxVyMf0-MRpaoeyv1XyiFFfo</picture>
@@ -501,7 +516,7 @@
       <categoryId>38</categoryId>
       <name>Скиммия Франк Вайт 45 см Арт. Rc5704</name>
       <price>480</price>
-      <qty>1</qty>
+      <qty>22</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mejiWGp2ECyoEVEKLcSHowfvj6qoG8HV</picture>
       <picture>https://lh3.googleusercontent.com/d/1pZ3HpYHSTCcNRcJdBQvORHFg--smL8ZG</picture>
