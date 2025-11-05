@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-05T20:12:15.417+03:00">
+<yml_catalog date="2025-11-05T20:19:48.393+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -100,6 +100,20 @@
       <param name="Производитель">RosaPrima</param>
       <param name="Артикул">Rc01736c</param>
       <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
+    </offer>
+    <offer id="Rc16547c" available="true">
+      <name>Пачка (15 шт.) Роза одноголовая Ред Наоми 70 см Арт. Rc16547c</name>
+      <categoryId>1</categoryId>
+      <price>2260</price>
+      <picture>https://lh3.googleusercontent.com/d/1yofL96KECV_1CDIyaG6Xbd20xMhyGbJl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BnRoxYsMbvvJopn1bof3j95BgoT4eRhU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Юг Агро</param>
+      <param name="Артикул">Rc16547c</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
     </offer>
     <offer id="Rc02016c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Баблгам 60 см Арт. Rc02016c</name>
@@ -270,6 +284,20 @@
       <param name="Артикул">Rc04466c</param>
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
+    <offer id="Rc16565c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rc16565c</name>
+      <categoryId>1</categoryId>
+      <price>3315</price>
+      <picture>https://lh3.googleusercontent.com/d/1fNRRmpsvh2H1Sq67WLQT6tx5ISfJGOaY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Aq1fhEDLWLWfpxnymThkM_fayQtNyMu7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Юг Агро</param>
+      <param name="Артикул">Rc16565c</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Rc4135c" available="true">
       <name>Пачка (5 шт.) Роза кустовая пионовидная Менсфилд Пинк Парк 50 см Арт. Rc4135c</name>
       <categoryId>1</categoryId>
@@ -365,6 +393,20 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc04376c</param>
       <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc16587c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Сильва Санни 70 см Арт. Rc16587c</name>
+      <categoryId>1</categoryId>
+      <price>5040</price>
+      <picture>https://lh3.googleusercontent.com/d/1xiNh0kTEuXQQZQV2SpxissmaBEQ_0Wxk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iO3Ya3erKxdynClfeouWMIXjqbeCrwhV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc16587c</param>
+      <consist name="Роза кустовая пионовидная Сильва Санни" unit="шт">10</consist>
     </offer>
     <offer id="Rc11907c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Супер Сенсейшен 70 см Арт. Rc11907c</name>
