@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-05T20:32:14.877+03:00">
+<yml_catalog date="2025-11-05T20:39:49.431+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -62,6 +62,7 @@
       <price>3935</price>
       <picture>https://lh3.googleusercontent.com/d/1L6ReJwKRB_NVFZF9mgGvK7qlqFgPPOkl</picture>
       <picture>https://lh3.googleusercontent.com/d/1XnDxBpL2TZs8lF9sK4eYpl86S26ZZ_Kc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VDFD2l63eCs51f6Ws556zX1QMnBmaF0i</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">60</param>
@@ -77,7 +78,9 @@
       <price>1335</price>
       <picture>https://lh3.googleusercontent.com/d/1H3-JpKjTsjv3cL2tH99Ib6LPsDlTR3Xe</picture>
       <picture>https://lh3.googleusercontent.com/d/1m_3YkMnEFo3jOu3WSKFT9RP1PX8HsJnM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <picture>https://lh3.googleusercontent.com/d/1Qyzne5zAaUgfmvPGfEPSVZwS1csDCl1b</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
@@ -101,20 +104,6 @@
       <param name="Артикул">Rc01736c</param>
       <consist name="Роза одноголовая Пинк Флойд" unit="шт">25</consist>
     </offer>
-    <offer id="Rc16547c" available="true">
-      <name>Пачка (15 шт.) Роза одноголовая Ред Наоми 70 см Арт. Rc16547c</name>
-      <categoryId>1</categoryId>
-      <price>2260</price>
-      <picture>https://lh3.googleusercontent.com/d/1yofL96KECV_1CDIyaG6Xbd20xMhyGbJl</picture>
-      <picture>https://lh3.googleusercontent.com/d/1BnRoxYsMbvvJopn1bof3j95BgoT4eRhU</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Юг Агро</param>
-      <param name="Артикул">Rc16547c</param>
-      <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
-    </offer>
     <offer id="Rc02016c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Баблгам 60 см Арт. Rc02016c</name>
       <categoryId>1</categoryId>
@@ -130,20 +119,6 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc02016c</param>
       <consist name="Роза одноголовая пионовидная Баблгам" unit="шт">10</consist>
-    </offer>
-    <offer id="Rc16606c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Беларусь 60 см Арт. Rc16606c</name>
-      <categoryId>1</categoryId>
-      <price>3535</price>
-      <picture>https://lh3.googleusercontent.com/d/1wmbZiMFrfnzgHTBuM_HSeedpDC92Kxrz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1s5nJf4DwCTnZiR85ElvPMrP1UVEbVFRd</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rc16606c</param>
-      <consist name="Роза кустовая Беларусь" unit="шт">10</consist>
     </offer>
     <offer id="Rc6506c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Таня 60 см Арт. Rc6506c</name>
@@ -193,26 +168,13 @@
       <param name="Артикул">Rc14035c</param>
       <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
     </offer>
-    <offer id="Rc16555c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая пионовидная Бомбастик 50 см Арт. Rc16555c</name>
-      <categoryId>1</categoryId>
-      <price>3315</price>
-      <picture>https://lh3.googleusercontent.com/d/1PcaymhexfXgiDviGVcj6rJPJztWaictL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-_1Yo1ss8T1A75xx7W4-Y3C7H6FoWBHx</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Юг Агро</param>
-      <param name="Артикул">Rc16555c</param>
-      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
-    </offer>
     <offer id="Rc15945c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Еллоу Бабблс 50 см Арт. Rc15945c</name>
       <categoryId>1</categoryId>
       <price>3535</price>
       <picture>https://lh3.googleusercontent.com/d/1gC_ciQLtlHNI0mH1BRyLCBwG49hu3Gy_</picture>
       <picture>https://lh3.googleusercontent.com/d/1SjESvjW_Khrh0qiT9k_dmyOc9VsMJA5-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_IaLJAOUYmhh6jWG3IY1svHymh2xcC89</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">50</param>
@@ -221,20 +183,6 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rc15945c</param>
       <consist name="Роза кустовая пионовидная Еллоу Бабблс" unit="шт">10</consist>
-    </offer>
-    <offer id="Rc16597c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая пионовидная Йеллоу Бабблс 70 см Арт. Rc16597c</name>
-      <categoryId>1</categoryId>
-      <price>5040</price>
-      <picture>https://lh3.googleusercontent.com/d/1SOuQkLtwFPiLocBSNsKu5_ekLl7DVVlw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_31_2nr4FBXAGr5FCuVgjuHH4mQP0N0O</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rc16597c</param>
-      <consist name="Роза кустовая пионовидная Йеллоу Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Rc00465c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Корал Йо Йо 50 см Арт. Rc00465c</name>
@@ -282,20 +230,6 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc04466c</param>
-      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
-    </offer>
-    <offer id="Rc16565c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая пионовидная Мадам Бомбастик 50 см Арт. Rc16565c</name>
-      <categoryId>1</categoryId>
-      <price>3315</price>
-      <picture>https://lh3.googleusercontent.com/d/1fNRRmpsvh2H1Sq67WLQT6tx5ISfJGOaY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Aq1fhEDLWLWfpxnymThkM_fayQtNyMu7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Юг Агро</param>
-      <param name="Артикул">Rc16565c</param>
       <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Rc4135c" available="true">
@@ -393,20 +327,6 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc04376c</param>
       <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
-    </offer>
-    <offer id="Rc16587c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая пионовидная Сильва Санни 70 см Арт. Rc16587c</name>
-      <categoryId>1</categoryId>
-      <price>5040</price>
-      <picture>https://lh3.googleusercontent.com/d/1xiNh0kTEuXQQZQV2SpxissmaBEQ_0Wxk</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iO3Ya3erKxdynClfeouWMIXjqbeCrwhV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Цветополис</param>
-      <param name="Артикул">Rc16587c</param>
-      <consist name="Роза кустовая пионовидная Сильва Санни" unit="шт">10</consist>
     </offer>
     <offer id="Rc11907c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Супер Сенсейшен 70 см Арт. Rc11907c</name>
@@ -525,7 +445,7 @@
       <price>590</price>
       <picture>https://lh3.googleusercontent.com/d/1UP4plnGpkBg8cm9DExebVDNmfevYWUq_</picture>
       <picture>https://lh3.googleusercontent.com/d/1hJ55jx2_UkuWnAhW2BLt8DUMUaWKCLZS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vuS5K8_dfVP-gWUujK0bZvOyFkLvHl8n</picture>
+      <picture>https://lh3.googleusercontent.com/d/1krsp9WAhew0qNPUWLQnRZtAQRFMvFn7J</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">50</param>
@@ -541,7 +461,7 @@
       <price>590</price>
       <picture>https://lh3.googleusercontent.com/d/1K_mA20dp6vAnyFKfPpllORChQ9MRvVI6</picture>
       <picture>https://lh3.googleusercontent.com/d/1eGkQIBIv4NI3XyyJIaUxoda69Qtl6Gyh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pLcqM4mqlD6A5KJU2pYjFCQ9K_bRdWD4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1voSEycdRy_NZ0DZTTyYazJGFJfgxLDrx</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">50</param>
@@ -557,7 +477,7 @@
       <price>1430</price>
       <picture>https://lh3.googleusercontent.com/d/1aucdi0ec115EZhVlu2wSaRxJBf9bMzSp</picture>
       <picture>https://lh3.googleusercontent.com/d/1d8QrQ2p7IbdUAYTsmrUZ1O7ObFxI_KQD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XcvdE432FvS8w_3DvynBOfROBlO_b2Zj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZhujNB7CmatfyxnyZZFjWmj6d3Y-sYv1</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">70</param>
@@ -621,7 +541,7 @@
       <price>2620</price>
       <picture>https://lh3.googleusercontent.com/d/1Rrw6DQSFp0MnUGqROn3fEH96zSi1YoFK</picture>
       <picture>https://lh3.googleusercontent.com/d/1PLWW8QvtvWNVgzaB_3gHRUUnGehuKteN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NHssHMe9ohPf4c3EhJdR5n6bdMUnywi6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i1u4BuArpapRaWUSEMtWrmOaILgD-07U</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
 Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
       <param name="Высота, см">70</param>
