@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-06T08:39:19.257+03:00">
+<yml_catalog date="2025-11-06T08:49:15.575+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -461,6 +461,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rc02785</param>
       <consist name="Краспедия" unit="шт">20</consist>
+    </offer>
+    <offer id="Rc5094" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Рубелла 45 см Арт. Rc5094</name>
+      <price>515</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BTSxJr-F_K19N6kDXGxj28k4ShBK3MsU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IiGFVqTEJfkOySArJgr7qd3dtgYHVGOR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vU0s_HJqacOGZaII_YuHiF_IIHQUhaK6</picture>
+      <picture>https://lh3.googleusercontent.com/d/167XsB7t6PAe0J7BXAGKYMzNoI-jZThBo</picture>
+      <picture>https://lh3.googleusercontent.com/d/14d4FRmBQAKknJeMaOaLE4eeNq0TbX9hL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">45</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rc5094</param>
+      <consist name="Скиммия Рубелла" unit="шт">1</consist>
     </offer>
     <offer id="Rc5704" available="true">
       <categoryId>38</categoryId>
