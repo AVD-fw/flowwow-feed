@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-06T10:29:30.325+03:00">
+<yml_catalog date="2025-11-06T10:38:46.862+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -102,6 +102,24 @@
       <param name="Артикул">Rc15936</param>
       <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
     </offer>
+    <offer id="Rc15046" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мондиаль 60 см Арт. Rc15046</name>
+      <price>143</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19KEwiDpHVZlkP-BVKGVOhU5LLyIrbI1S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UsSW2bh7EUwAeLZ5ugzGV-nX43EXZ0Jv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U56kRZz_ce6kwbNX_eEmAY2XXf3q5Fv2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LhB9670GcsU8ZXe1jO_8tgsxbbWZmBJZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VDFD2l63eCs51f6Ws556zX1QMnBmaF0i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosa Prima</param>
+      <param name="Артикул">Rc15046</param>
+      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
+    </offer>
     <offer id="Rc16616" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ноэлия 60 см Арт. Rc16616</name>
@@ -149,6 +167,24 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rc16537</param>
       <consist name="Роза одноголовая Скайвард" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc14706" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Вайт Охара 60 см Арт. Rc14706</name>
+      <price>165</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kMCYsmO8AnohlNeeQQDqi0tKZfUQve30</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IAu_eHyOGxhbrU4bqk7rEMsuQanNVJ4t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jmo_7RYlz3rTLLqNjtdzT8bhF-eSb6Kv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y_B7AC3l-7TjLmLZa5toTdJTlTPn2Iz5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nKai64xCA244OrjC1oLrbNG6W8tMHzwv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rc14706</param>
+      <consist name="Роза одноголовая пионовидная Вайт Охара" unit="шт">25</consist>
     </offer>
     <offer id="Rc8215" available="true">
       <categoryId>3</categoryId>
@@ -379,6 +415,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rc14427</param>
       <consist name="Брассика Крайн Кинг" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc13476" available="true">
+      <categoryId>37</categoryId>
+      <name>Вероника Клеар Джун 60 см Арт. Rc13476</name>
+      <price>79</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ea_jLI2MtPificpG-Oa5OE2ZqogBUwkG</picture>
+      <picture>https://lh3.googleusercontent.com/d/19FASDqN8ldi3RHa2NU69ZVz1IcR3wsCz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GK2UKoBVjyOO_FYa5cSbOIQNcr4Hw5LN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tEF_s_f2oUuCHyl4y8O-cNqmTD5_0SIL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SCD4YT7CV_EiYj8LU5aoi-JpXDAwyPZJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rc13476</param>
+      <consist name="Вероника Клеар Джун" unit="шт">25</consist>
     </offer>
     <offer id="Rc16075" available="true">
       <categoryId>37</categoryId>
