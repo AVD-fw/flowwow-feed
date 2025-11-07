@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-07T10:23:47.400+03:00">
+<yml_catalog date="2025-11-07T10:29:44.897+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -23,12 +23,31 @@
       <price>100</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1GEMrsqMt0p5UrDFRXXq0gHio-_O6Edv5</picture>
+      <picture>https://lh3.googleusercontent.com/d/12U8UzJt6oclzEalnMPCHey5InJszk1Ru</picture>
       <picture>https://lh3.googleusercontent.com/d/1b6l4DBeElcuhita6GfAatL47_NO1VeFT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GEMrsqMt0p5UrDFRXXq0gHio-_O6Edv5</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Ec4617</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec4637" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая 70 см Арт. Ec4637</name>
+      <price>100</price>
+      <qty>35</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1D-SLyVHebgYeodyZkAF98UYalLKbwF1v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sqYw8sPqvUiCzgV7AkYdtP3mpuZWjVyz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DefBTCnCXqG2u6aBh_bkcBgG90u4UoHq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dZS_aoP4SH1lXwXv1UnXXk5Ot90i8XcW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VsN-oZO9YxXRSl8RtkBojSdgsueE0U5g</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">GG Flowers</param>
+      <param name="Артикул">Ec4637</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
     </offer>
     <offer id="Ec01286" available="true">
@@ -48,6 +67,39 @@
       <param name="Производитель">Lewis Flowers</param>
       <param name="Артикул">Ec01286</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec00886" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Ньютон 60 см Арт. Ec00886</name>
+      <price>100</price>
+      <qty>25</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oDJke0JqP-Lm8B-9ogdtr5F7We4dtZrW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qcY_3g6ORtf2SjjVL8t7Y2C_1bNpT6ZA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EV4QmCVRG6fJPV5bA6QYVALw3CKYDFsa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EV4QmCVRG6fJPV5bA6QYVALw3CKYDFsa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D_z1fM-UEh9Cj3yZCmC-CggaHBlIGWZ6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ec00886</param>
+      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec3777" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Рианна 70 см Арт. Ec3777</name>
+      <price>100</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qtRWUMq3rpRX27UevIEqcffRfoieKS9K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uA9e7JVlHh0xwU7QYE4jBqDfMu8Y_988</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Ec3777</param>
+      <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
     </offer>
     <offer id="Ec01005" available="true">
       <categoryId>7</categoryId>
@@ -188,23 +240,58 @@
       <param name="Артикул">Ec00537</param>
       <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
+    <offer id="Ec3397" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Ярко розовая 70 см Арт. Ec3397</name>
+      <price>77</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gNsJcdcveuYxAJ1GxqU_VfUyOQ_UPL8Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cRQtnUkxA-P4sX6o1KFKv4OdvHYYYXyO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iEN93VUfH4o8g8PSG4QcxGnca0e6CN1G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xX2yOz5LbdWOfn6jKmUJkLN165cz0DMs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1laVsY9Ao1ztHWJ_LIV-n6r9JPUb0xJne</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ec3397</param>
+      <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
+    </offer>
     <offer id="Ec3694" available="true">
       <categoryId>37</categoryId>
       <name>Леукоспермум Красный 40 см Арт. Ec3694</name>
       <price>160</price>
       <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mU08icfoF__4Qm_NEH7CoHblSnOY8Cw5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1204QFGLVlvKIuVMsjxmImx-G5N3K8zfe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jJkib86kxQgOxDv4cVtRszFRzJRNeDpC</picture>
       <picture>https://lh3.googleusercontent.com/d/14fL13VYAZ-JrOZgECU9EN040mfjnFn5T</picture>
       <picture>https://lh3.googleusercontent.com/d/1OGMyVJZMtNtxLjuI01OO2fJGA7hU3aVD</picture>
       <picture>https://lh3.googleusercontent.com/d/1W3Ct_0DQdhLQ36Mj7rAaJ5hCRQrT7J-w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mU08icfoF__4Qm_NEH7CoHblSnOY8Cw5</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">уточняется</param>
       <param name="Производитель">African Wildflowers</param>
       <param name="Артикул">Ec3694</param>
       <consist name="Леукоспермум" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec01225" available="true">
+      <categoryId>37</categoryId>
+      <name>Лимониум Белый 50 см Арт. Ec01225</name>
+      <price>115</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BM_AbrbhkMRA5YEmNX4p13GWB2prA0zW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vstqXLh_fVGgKtvV5Kfsf-iik3xce-DZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eYp0XZxFzZcgdzoxA0NbpHoqrrqFBGry</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ul1BHUhLzfAuQ9zKGAuaz8UP8HZNbyED</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uSLehJ8qsuCLcreS2eEI84pk_HbgvB-b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ec01225</param>
+      <consist name="Лимониум" unit="шт">25</consist>
     </offer>
     <offer id="Ec01605" available="true">
       <categoryId>37</categoryId>
@@ -222,6 +309,42 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Ec01605</param>
       <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec2456" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Фиолетовый 60 см Арт. Ec2456</name>
+      <price>115</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tnbwKvP9K5EQFhG6kK4E9qK63q9RWfK4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UUdbQ4MMdpL5M1RZrOUP2c6mmwZZyW4B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jNXGaL9OxWu8K3AVZRFVlLOohLyiP-3A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yj7SwmronjWoShcu6tqtIGR8TK2VtIv5</picture>
+      <picture>https://lh3.googleusercontent.com/d/14MbMS36zJtnECrcvGWD5NEC_j96VNspg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Tonie Flowers</param>
+      <param name="Артикул">Ec2456</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec00306" available="true">
+      <categoryId>37</categoryId>
+      <name>Танацетум Белый 60 см Арт. Ec00306</name>
+      <price>67</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1abV2u0muHYpoI_GUSAfqSiE8jwQi65Ca</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kandtKNq-fwe8R2ztt8MLTtyBI4q-kU5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1q9pCKRRi7upA2YpD3WzRQ03C7ZtHYdCn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tgWiWqvePsVH4A5jfKgmP1Btj_D1hlbl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dCvTkQdhLPIs9WUr7JoMFYPUFy-DyiUv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Matricaria by W. Grootscholten</param>
+      <param name="Артикул">Ec00306</param>
+      <consist name="Танацетум" unit="шт">25</consist>
     </offer>
     <offer id="Ec00267" available="true">
       <categoryId>37</categoryId>
