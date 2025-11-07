@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-07T16:49:45.969+03:00">
+<yml_catalog date="2025-11-07T16:58:25.388+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -70,6 +70,20 @@
       <param name="Артикул">Rc13145</param>
       <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
     </offer>
+    <offer id="Rc16647" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревивал 70 см Арт. Rc16647</name>
+      <price>149</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N4SRGNCWe31bV2lU_mUob2Pzx3ey97QC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc16647</param>
+      <consist name="Роза одноголовая Ревивал" unit="шт">10</consist>
+    </offer>
     <offer id="Rc16537" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Скайвард 70 см Арт. Rc16537</name>
@@ -139,6 +153,20 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc02006</param>
       <consist name="Роза одноголовая пионовидная Присцилла" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc16655" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Садовая Белая 50 см Арт. Rc16655</name>
+      <price>164</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1V5NlTMlNR-InQ7FnolfF8i_DtiTpilnA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc16655</param>
+      <consist name="Роза одноголовая пионовидная Садовая Белая" unit="шт">10</consist>
     </offer>
     <offer id="Rc04446" available="true">
       <categoryId>3</categoryId>
@@ -256,6 +284,20 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc02995</param>
+      <consist name="Роза кустовая пионовидная Менсфилд Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc16636" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Менсфилд Парк 60 см Арт. Rc16636</name>
+      <price>425</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QyZ1NQPDWVK5Y2RSe-hZPafZdFBvl5xS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc16636</param>
       <consist name="Роза кустовая пионовидная Менсфилд Парк" unit="шт">5</consist>
     </offer>
     <offer id="Rc8166" available="true">
@@ -434,6 +476,20 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rc01527</param>
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc16667" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Пастелла Блаш 70 см Арт. Rc16667</name>
+      <price>139</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fvCL_ACDoym4PtpohdGWi_E8goRPpsEk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sanada Flowers</param>
+      <param name="Артикул">Rc16667</param>
+      <consist name="Хризантема кустовая Пастелла Блаш" unit="шт">5</consist>
     </offer>
     <offer id="Rc03547" available="true">
       <categoryId>37</categoryId>
@@ -708,6 +764,20 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">Rc7797</param>
       <consist name="Эустома Алиса Блю" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc16676" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пич 60 см Арт. Rc16676</name>
+      <price>189</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CD9bpC-XfmqG68SqwctLeuGs9uePQG6N</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rc16676</param>
+      <consist name="Эустома Алиса Пич" unit="шт">10</consist>
     </offer>
     <offer id="Rc8267" available="true">
       <categoryId>37</categoryId>
