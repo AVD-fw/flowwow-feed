@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-07T10:35:50.652+03:00">
+<yml_catalog date="2025-11-07T10:41:59.276+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -449,6 +449,22 @@
       <param name="Производитель">Kallaland</param>
       <param name="Артикул">Ec2406c</param>
       <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec01595c" available="true">
+      <name>Пачка (10 шт.) Маттиола Белый 50 см Арт. Ec01595c</name>
+      <categoryId>450</categoryId>
+      <price>1375</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1OK3f59xqssURUovr6W36_orWMrWa9lva</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ESF4ymVYn0Iwwb9jLljsMDAJNk80JNIj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FrFV0EhIkm5vkh4o8u_ZGsBV4at58w6E</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Ec01595c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="Ec01605c" available="true">
       <name>Пачка (10 шт.) Маттиола Розовый 50 см Арт. Ec01605c</name>
