@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-07T06:59:44.600+03:00">
+<yml_catalog date="2025-11-07T07:08:29.702+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
     <url>https://flowwow.com/moscow/shops/wholesale/</url>
     <categories>
-      <category id="1">Монобукеты</category>
+      <category id="450">Цветы пачками</category>
     </categories>
     <offers>
     <offer id="Fc17407c" available="true">
@@ -717,6 +717,23 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Fc14877c</param>
       <consist name="Хризантема кустовая Лионкинг" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc15527c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Пастелла Розе 70 см Арт. Fc15527c</name>
+      <categoryId>1</categoryId>
+      <price>605</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/18DonRLXPx7_LO5RC899XvIZ-4lvpL0in</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E2T5MNdENUF7gsJ3n4lKRKZwIFMLCSJx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-vuyJ9EXs-3a6HJWnfIGdxa2hc9qisdO</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc15527c</param>
+      <consist name="Хризантема кустовая Пастелла Розе" unit="шт">5</consist>
     </offer>
     <offer id="Fc9937c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Руби Стар 70 см Арт. Fc9937c</name>
