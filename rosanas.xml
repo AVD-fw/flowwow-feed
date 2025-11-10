@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-10T10:09:23.847+03:00">
+<yml_catalog date="2025-11-10T10:18:22.307+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -407,7 +407,7 @@
       <categoryId>37</categoryId>
       <name>Астранция Розе Стар 60 см Арт. Rc10256</name>
       <price>79</price>
-      <qty>100</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ukSFMm2g3fGy46yFBBqiw_jWCuvVWnru</picture>
       <picture>https://lh3.googleusercontent.com/d/1R_KJOqnjkUiMeN_ehd-EQLiJ7QeiLYBB</picture>
@@ -420,28 +420,11 @@
       <param name="Артикул">Rc10256</param>
       <consist name="Астранция Розе Стар" unit="шт">10</consist>
     </offer>
-    <offer id="Rc14427" available="true">
-      <categoryId>37</categoryId>
-      <name>Брассика Крайн Кинг 70 см Арт. Rc14427</name>
-      <price>145</price>
-      <qty>25</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ZC99diLyRDZgS4Hhw7uJeb5QWqru64VI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hmxB5MKo40OZRWFzSS_6ZJ6JSdSyqqka</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rdNJ5XlooFtXl2YxnW_MfMM7h8MjyWLl</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HcVYCLPgs_sOjxJapsPnIsVQliknY3vV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fi3ncrXPQf9pOE3Oz-DumK0jl83NzCGv</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rc14427</param>
-      <consist name="Брассика Крайн Кинг" unit="шт">5</consist>
-    </offer>
     <offer id="Rc13476" available="true">
       <categoryId>37</categoryId>
       <name>Вероника Клеар Джун 60 см Арт. Rc13476</name>
       <price>79</price>
-      <qty>100</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1SvTP5sxF29SRyX0IC9Ir5lk1OmAglbTm</picture>
       <picture>https://lh3.googleusercontent.com/d/1GK2UKoBVjyOO_FYa5cSbOIQNcr4Hw5LN</picture>
@@ -454,28 +437,11 @@
       <param name="Артикул">Rc13476</param>
       <consist name="Вероника Клеар Джун" unit="шт">25</consist>
     </offer>
-    <offer id="Rc9188" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Мунлайт 80 см Арт. Rc9188</name>
-      <price>71</price>
-      <qty>20</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Ssx9o92lQUH_85i9MmxuvSIOHM7SAIK9</picture>
-      <picture>https://lh3.googleusercontent.com/d/19im0Dm-24kjDsLjX1JRrs1p0uiYUC6oo</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H9zIvyt12997arA8wIuRBu73Q7Aj0sGu</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MFShvHX7rRiWSZhbRMhzOedx9JBp0g0t</picture>
-      <picture>https://lh3.googleusercontent.com/d/1F4BAoViwTEmgEDbWUE1Osa_Sw0ZuBO16</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rc9188</param>
-      <consist name="Гвоздика одноголовая Мунлайт" unit="шт">20</consist>
-    </offer>
     <offer id="Rc16067" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Форес 70 см Арт. Rc16067</name>
       <price>95</price>
-      <qty>325</qty>
+      <qty>275</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12R8NbtDV9nqJ6wG6GPkaFIWsQjLu96Ee</picture>
       <picture>https://lh3.googleusercontent.com/d/1i1u4BuArpapRaWUSEMtWrmOaILgD-07U</picture>
@@ -488,21 +454,6 @@
       <param name="Производитель">GeoFlora</param>
       <param name="Артикул">Rc16067</param>
       <consist name="Гвоздика одноголовая Форес" unit="шт">25</consist>
-    </offer>
-    <offer id="Rc7765" available="true">
-      <categoryId>37</categoryId>
-      <name>Герберамини Пинки Май 50 см Арт. Rc7765</name>
-      <price>69</price>
-      <qty>20</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1WZM7oZUcrDBCzFfWYOHrMzbsbFba3IMY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-_4zS4tsAfJ6H3FkAu5n_-NjQU9rBaHw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CHKAAd8MOBF468kcyOBzqn_RgZHCT7Qe</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rc7765</param>
-      <consist name="Герберамини Пинки Май" unit="шт">20</consist>
     </offer>
     <offer id="Rc7775" available="true">
       <categoryId>37</categoryId>
@@ -523,7 +474,7 @@
       <categoryId>37</categoryId>
       <name>Глориоза Экзот Оранж 90 см Арт. Rc03599</name>
       <price>349</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DnrhtKt2RpJDfgG4dFge7BeHfEqup55L</picture>
       <picture>https://lh3.googleusercontent.com/d/1_MKScJEcMzmA8l-lrxa_N4_UNOSA_0Ge</picture>
@@ -536,28 +487,11 @@
       <param name="Артикул">Rc03599</param>
       <consist name="Глориоза Экзот Оранж" unit="шт">5</consist>
     </offer>
-    <offer id="Rc6444" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Синий 40 см Арт. Rc6444</name>
-      <price>104</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12HVkyhRs0w6SVkflruKO4FK1c-WbemRy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZmoboshwaDr2l1TDozpLJxRua-GkkcHs</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NL8-3XSd3_X5uUuJbrj_h4Wi0KmukHuJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mqd_0-_YX4uQ8oqLgDP2e0wzdS0vdp5c</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Dv_Z0lcAwUabO-Ei8ti3PO76D5cV-YpX</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Rc6444</param>
-      <consist name="Ирис Синий" unit="шт">25</consist>
-    </offer>
     <offer id="Rc11415" available="true">
       <categoryId>37</categoryId>
       <name>Краспедия 50 см Арт. Rc11415</name>
       <price>71</price>
-      <qty>170</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KeqNju6YhFOmhnp70sif8ZRqrFnwXVgl</picture>
       <picture>https://lh3.googleusercontent.com/d/14YLYzDrzehT3Q2VRkn7lP0SfWxWIzUEv</picture>
@@ -709,28 +643,11 @@
       <param name="Артикул">Rc8287</param>
       <consist name="Эустома Алиса Лайт Пинк" unit="шт">10</consist>
     </offer>
-    <offer id="Rc3714" available="true">
-      <categoryId>38</categoryId>
-      <name>Бруния Левис 40 см Арт. Rc3714</name>
-      <price>94</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1pJsGTT5_rexLkLvBtGVN8UgvjejjHRCa</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Sz7GTu_WFt7QdshAHYaLWwaoakBhoft7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MlJsmlVYUFZIV3vE5lSL7Nv1yNYsskcy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JH883lufZEkHTEpre5bvEgbMxsotMI-D</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LXAGrZvNxua8vEZUxYhaCu4FXrQjb6SQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Rc3714</param>
-      <consist name="Бруния Левис" unit="шт">10</consist>
-    </offer>
     <offer id="Rc02785" available="true">
       <categoryId>38</categoryId>
       <name>Краспедия Голубой 50 см Арт. Rc02785</name>
       <price>569</price>
-      <qty>40</qty>
+      <qty>80</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Mx443QnHa2OX3cYo9y4Iq5AHI0UVeOof</picture>
       <picture>https://lh3.googleusercontent.com/d/1AIpzpdOgE8DKitAYbgSsEpREe2lfR1xS</picture>
@@ -747,7 +664,7 @@
       <categoryId>38</categoryId>
       <name>Крокосмия Люцифер 70 см Арт. Rc01127</name>
       <price>110</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XVEzzgW25BB9-nAQyR5ubc_K1I1z5mOH</picture>
       <picture>https://lh3.googleusercontent.com/d/1nzZo5mCzgRLrYwIPvCyaQSPqJD0gJdij</picture>
@@ -832,7 +749,7 @@
       <categoryId>39</categoryId>
       <name>Лагурус Голубой 50 см Арт. Rc02775</name>
       <price>238</price>
-      <qty>8</qty>
+      <qty>7</qty>
       <quantity_in_package>1</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MRilaL4eR_fFXtevfyOr5exkWa7SXzhc</picture>
       <picture>https://lh3.googleusercontent.com/d/1GVdE0IDOxe5ptIW8s9w835ngIJHTyUxA</picture>
