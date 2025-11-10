@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-10T11:09:22.348+03:00">
+<yml_catalog date="2025-11-10T11:18:10.030+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -328,6 +328,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rc03599</param>
       <consist name="Глориоза Экзот Оранж" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc6444" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Синий 40 см Арт. Rc6444</name>
+      <price>104</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12HVkyhRs0w6SVkflruKO4FK1c-WbemRy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZmoboshwaDr2l1TDozpLJxRua-GkkcHs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NL8-3XSd3_X5uUuJbrj_h4Wi0KmukHuJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mqd_0-_YX4uQ8oqLgDP2e0wzdS0vdp5c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dv_Z0lcAwUabO-Ei8ti3PO76D5cV-YpX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Rc6444</param>
+      <consist name="Ирис Синий" unit="шт">25</consist>
     </offer>
     <offer id="Rc11415" available="true">
       <categoryId>37</categoryId>
