@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11T10:24:35.213+03:00">
+<yml_catalog date="2025-11-11T10:31:24.543+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -23,6 +23,21 @@
       <param name="Производитель">Baraka roses</param>
       <param name="Артикул">La0845c</param>
       <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="La2005c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Абба 50 см Арт. La2005c</name>
+      <categoryId>450</categoryId>
+      <price>945</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/151G8eiCjLmdQKqtb9zUvnBadVdcZKKCG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GBLTVEOzvT_Mk1uLQ76LVZaZ6zPl8RpJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/19z14irkk29QgAnChWaOW53mNu1KX-ixm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La2005c</param>
+      <consist name="Роза одноголовая Абба" unit="шт">10</consist>
     </offer>
     <offer id="La1136c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Аваланш 60 см Арт. La1136c</name>
@@ -184,6 +199,22 @@
       <param name="Артикул">La0247c</param>
       <consist name="Роза одноголовая Испана" unit="шт">10</consist>
     </offer>
+    <offer id="La2035c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Испана 50 см Арт. La2035c</name>
+      <categoryId>450</categoryId>
+      <price>1160</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Gym_Ok_oBZl3Z-LVa6rTGv_UF12FExRb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P-QZzG5NSkKB9H145mthiylPm3V2souj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K5GaWy7mZv2AH4RgcJpoeNWoP6jc7gB5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">La2035c</param>
+      <consist name="Роза одноголовая Испана" unit="шт">10</consist>
+    </offer>
     <offer id="La0227c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Кимберли 70 см Арт. La0227c</name>
       <categoryId>450</categoryId>
@@ -245,6 +276,22 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La0655c</param>
+      <consist name="Роза одноголовая Пич Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="La2024c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Пич Аваланш 40 см Арт. La2024c</name>
+      <categoryId>450</categoryId>
+      <price>910</price>
+      <qty>24</qty>
+      <picture>https://lh3.googleusercontent.com/d/1uKNlBjyMwYqC4YQ1WPebmAFwAw8DKuoA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_S6yUbodMrJ49ruCx0dFzA1FaHRydnG0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qFyo-EC11pvqvzdcwX2iEELLpFatE-8z</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La2024c</param>
       <consist name="Роза одноголовая Пич Аваланш" unit="шт">10</consist>
     </offer>
     <offer id="La0616c" available="true">
@@ -407,6 +454,38 @@
       <param name="Артикул">La1607c</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
     </offer>
+    <offer id="La1965c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Белый 50 см Арт. La1965c</name>
+      <categoryId>450</categoryId>
+      <price>1735</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1YzCkAlfdSD8pU7e0YpK4ebazqzV-gmIz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QljcfXgkshf8TRP1_bZyFKCG8E2LupbS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-4BxR0oOMQbnNDFVXiPTRWWtmOKOCw14</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Black Tulip Flowers</param>
+      <param name="Артикул">La1965c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
+    <offer id="La2015c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Розовый 50 см Арт. La2015c</name>
+      <categoryId>450</categoryId>
+      <price>1735</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/136emDhc1jvz4_YyCylM82iLA2Lit3TA4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GiMRE9uptpg48M1_U9X8o0Qwi5fAy05s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B0ZSe-4RXaSdqenDIPdJrGHIW0p3Se8f</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Black Tulip Flowers</param>
+      <param name="Артикул">La2015c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="La1666c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Бомбастик 60 см Арт. La1666c</name>
       <categoryId>450</categoryId>
@@ -454,6 +533,37 @@
       <param name="Производитель">QUALIROSA</param>
       <param name="Артикул">La1686c</param>
       <consist name="Роза кустовая Супер Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="La1956c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Фаерворк 60 см Арт. La1956c</name>
+      <categoryId>450</categoryId>
+      <price>1810</price>
+      <qty>19</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ahrKSUMg6Ui6GteB8h6-0PLzo1gwdcdO</picture>
+      <picture>https://lh3.googleusercontent.com/d/14GKeNJfSzNqlzTsv2hXNS1H08-usXbtk</picture>
+      <picture>https://lh3.googleusercontent.com/d/120QYmqNBIrx_eepf3tdmma6n9kyzoSmf</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La1956c</param>
+      <consist name="Роза кустовая Фаерворк" unit="шт">10</consist>
+    </offer>
+    <offer id="La1995c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная 50 см Арт. La1995c</name>
+      <categoryId>450</categoryId>
+      <price>1735</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-Uz90VM1EL6qdNnFMe5yb-ZJuImYLPXM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vz7ij6IFio0JqgyzYcSCCK7E6c1gyU21</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JU6V9l2BHv8tWBiO736cNI3gfJ2G11JY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Black Tulip Flowers</param>
+      <param name="Артикул">La1995c</param>
+      <consist name="Роза кустовая пионовидная" unit="шт">10</consist>
     </offer>
     <offer id="La1305c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Беларусь 50 см Арт. La1305c</name>
@@ -710,6 +820,22 @@
       <param name="Артикул">La1487c</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
     </offer>
+    <offer id="La1457c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Летс Гоу Пинк 70 см Арт. La1457c</name>
+      <categoryId>450</categoryId>
+      <price>880</price>
+      <qty>8</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Sygv6PLp_q5h1xCNoU4-ipjiDwFReTZP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CO1n3xtan8lHa4VUDPsJOeXjWMdj-VGF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qdLsIdhXdZ8wzEQdpRhE0LTTB-2QStNr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">La1457c</param>
+      <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
+    </offer>
     <offer id="La0997c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Мексикано 70 см Арт. La0997c</name>
       <categoryId>450</categoryId>
@@ -836,6 +962,21 @@
       <param name="Артикул">La1566c</param>
       <consist name="Альстромерия Дубай" unit="шт">10</consist>
     </offer>
+    <offer id="La1905c" available="true">
+      <name>Пачка (5 шт.) Брассика Альтаир 50 см Арт. La1905c</name>
+      <categoryId>450</categoryId>
+      <price>835</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1T028EdMYzAu7R9E1mQ0h-HSHB3zCdKxy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FUFc9edxQG9V_atUuy75cWNG718JRxf8</picture>
+      <picture>https://lh3.googleusercontent.com/d/11FMgKo-f1xVDrFbyFyF3ttr4Xo2kNEDr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La1905c</param>
+      <consist name="Брассика Альтаир" unit="шт">5</consist>
+    </offer>
     <offer id="La0387c" available="true">
       <name>Пачка (25 шт.) Гвоздика одноголовая Красный 70 см Арт. La0387c</name>
       <categoryId>450</categoryId>
@@ -866,6 +1007,36 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">La0106c</param>
       <consist name="Гиперикум Коко Бамбу" unit="шт">10</consist>
+    </offer>
+    <offer id="La1945c" available="true">
+      <name>Пачка (5 шт.) Пион Ред Шарм 50 см Арт. La1945c</name>
+      <categoryId>450</categoryId>
+      <price>2775</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/126r9bcRZPUPGUdhrGwr7NK4h2LaQ9hq1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1woJvzzVlNdCei2zM2Q9kJutGChG4GooV</picture>
+      <picture>https://lh3.googleusercontent.com/d/13bD2zgnStDr3GzPVXbzRSgwb5V_SG9jG</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La1945c</param>
+      <consist name="Пион Ред Шарм" unit="шт">5</consist>
+    </offer>
+    <offer id="La1936c" available="true">
+      <name>Пачка (10 шт.) Подсолнух 60 см Арт. La1936c</name>
+      <categoryId>450</categoryId>
+      <price>2860</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/18lKsgb20fPea-B7wHRJ-WFBGuZGwVAwF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VctLlwZ17LRzDJ13RR9UwEE_wUOUBOTh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hSIlA7XwOGzOgd_1DPUKQ6JBP_kpIzrO</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La1936c</param>
+      <consist name="Подсолнух" unit="шт">10</consist>
     </offer>
     <offer id="La0525c" available="true">
       <name>Пачка (25 шт.) Тюльпан Желтый 50 см Арт. La0525c</name>
