@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11T12:27:20.651+03:00">
+<yml_catalog date="2025-11-11T12:35:44.398+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -249,6 +249,23 @@
       <param name="Артикул">Fc00937</param>
       <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
     </offer>
+    <offer id="Fc18495" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини 50 см Арт. Fc18495</name>
+      <price>75</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ARqMj4H7ZCRX_4o8NYsUdQh4Fdq6-KkL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TkmJ8M1mtE3MIFBQZFtNmONGZMASky6a</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OgEKROyWmCx22bJCkMgxxC9w1xh4IioX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OGBb4MMjdEjj5lYFPUSF8k2il97Bxvpt</picture>
+      <picture>https://lh3.googleusercontent.com/d/10ZX4Fbz9auAZ6B274URQuz-Z2lhklsEb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc18495</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
     <offer id="Fc18665" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Коричневый 55 см Арт. Fc18665</name>
@@ -371,6 +388,58 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Fc01065</param>
       <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01085" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси крашенная 55 см Арт. Fc01085</name>
+      <price>66</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_pVhCCagrzGzG4Y6kUzJWl73IJGhoeAz</picture>
+      <picture>https://lh3.googleusercontent.com/d/13NT0TIk28w0h4sHpPCleTXhrP9gBDpHC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CRrPJGjDy1epbcIDrrlBkCeJ0SjSH0Fj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WFtD1YY9MRB_vhAWa7liEsBg9FcxeSlC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nw4X4H3sQ40bQBspHM-EXkfNGarDBKek</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc01085</param>
+      <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc6435" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крашенный 55 см Арт. Fc6435</name>
+      <price>66</price>
+      <qty>175</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CVvbyPVtyJzoPov3f--XlJjOxOt10X-K</picture>
+      <picture>https://lh3.googleusercontent.com/d/11opgkT53Xv_o7mM8imfu_WBxih0-eBga</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e4AlCnZc3FYcHgKtl3IjzuQdd4wo54z6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G0IWi5-i1dhnnZzG3Zyx4t-G-TVeaMSd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kdAcohKklw-9DSbynlX2iVWBWlgdZYPG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc6435</param>
+      <consist name="Хризантема Сантини Росси Крашенный" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc7355" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Микс 55 см Арт. Fc7355</name>
+      <price>75</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-P5zUGggtF0SvwCMS8OEqB08NQNcuJG2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qm8uC7XhdlnB-hDX9NJTpCROn3ntN_RF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ipb1oxk6fY-L_6pXOs3HtHbk9rsYoJ7W</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc7355</param>
+      <consist name="Хризантема Сантини Росси Микс" unit="шт">25</consist>
     </offer>
     <offer id="Fc14245" available="true">
       <categoryId>7</categoryId>
@@ -715,6 +784,24 @@
       <param name="Артикул">Fc14854</param>
       <consist name="Гербера Пастини Эмилия" unit="шт">15</consist>
     </offer>
+    <offer id="Fc18337" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Розовый 70 см Арт. Fc18337</name>
+      <price>88</price>
+      <qty>175</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1agfH8l2xf2U5cqsWCkNhcRQI9xZT_YGA</picture>
+      <picture>https://lh3.googleusercontent.com/d/15anmVVkX9dNn9YXXOJNBi5BMZ-_ZjK97</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pwQfHg_iwSnvLjDcuMLkBqjPsmQQuyPq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Hwnr12yHDTOxeClHTHbpvSzPpTctFKKs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-x3vQGalrCeXFjpaVScFXZUR2ulrFu0U</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fc18337</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
     <offer id="Fc02026" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Fc02026</name>
@@ -733,23 +820,59 @@
       <param name="Артикул">Fc02026</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
+    <offer id="Fc12437" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Перл Пинк 70 см Арт. Fc12437</name>
+      <price>110</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W6_nbHpz_HyqXBTmCGlHp0hCwuNQTg0O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WHpslor8BDYYU8_ZQ2vbZ2bkTAiBx0WR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rLbD9FCXFNxzO9Dd81AhN0Yy73DUKkWx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EuDKy9Uyck8zcngHaO3BVh1Afqd85Sj7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vYjjWiX8y8Tz-j9xv0A2VJDKAnOmrpuj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fc12437</param>
+      <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
+    </offer>
     <offer id="Fc01457" available="true">
       <categoryId>37</categoryId>
       <name>Кампанула Чемпион Лавандер 70 см Арт. Fc01457</name>
       <price>110</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kLoQyPEw4prVPNolMHV5ubxOXFu1UUwI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JgZe7a4CzRKj4WhJPa1R0ZaqG2PQ4dQp</picture>
+      <picture>https://lh3.googleusercontent.com/d/13Cem9cbFVrHCBvKMByL4qGl2MDvO1pfc</picture>
       <picture>https://lh3.googleusercontent.com/d/1dXQ0lw50tAqCsi2eg64v2bUikbclOlbW</picture>
       <picture>https://lh3.googleusercontent.com/d/1BAshEZjjnFt6Bs27o0V6fMYzQZ7pg7WO</picture>
       <picture>https://lh3.googleusercontent.com/d/17Sa6qKchq7-M8DBganxtPqjN13Md63V6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kLoQyPEw4prVPNolMHV5ubxOXFu1UUwI</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">De Waal Fensie</param>
       <param name="Артикул">Fc01457</param>
       <consist name="Кампанула Чемпион Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc04905" available="true">
+      <categoryId>37</categoryId>
+      <name>Краспедия Желтый 50 см Арт. Fc04905</name>
+      <price>79</price>
+      <qty>250</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16dBXbykRUergwutfiSlPxHGeIB49CJrC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uR3Z3ZuKgV8i2dEG_P5PFNNJT2zkGWJX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dcn7eZu4eQLpQUUxhbESsLhqlJF-9az-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sKEfolg1YWzfVTW-fVzsSA4JN8-Y4sAc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LHjrbC--QjGhuOdGiVq8kZ7w7UVTGbwk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Beauty Line</param>
+      <param name="Артикул">Fc04905</param>
+      <consist name="Краспедия" unit="шт">10</consist>
     </offer>
     <offer id="Fc04205" available="true">
       <categoryId>37</categoryId>
@@ -958,6 +1081,22 @@
       <param name="Артикул">Fc04495</param>
       <consist name="Протея Артишоковая" unit="шт">1</consist>
     </offer>
+    <offer id="Fc19335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Лиловый 50 см Арт. Fc19335</name>
+      <price>132</price>
+      <qty>275</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1K70l_MD4p9goyQ4m-etXJTe44sykZ06P</picture>
+      <picture>https://lh3.googleusercontent.com/d/185Gh1IDs-ISX2PNVNvAth6J4i96IJzyy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bQUy4Lz5Xu8JRo2jqB6eLsDTAe2Krfr7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RuUheT4SESJ7ijzFyjjmKCh8gLoPCbtT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc19335</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
     <offer id="Fc01915" available="true">
       <categoryId>37</categoryId>
       <name>Танацетум Белый 50 см Арт. Fc01915</name>
@@ -1155,11 +1294,11 @@
       <price>69</price>
       <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1prkn3FUzW-UhizgMYpGsdWD2anbrRKKf</picture>
-      <picture>https://lh3.googleusercontent.com/d/10xJ1odIZJQFhPe6EjbhlmG-CwpgE90NO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h93sJ5EtQ0-1j7Nx8EiHB2JppvX-oWof</picture>
       <picture>https://lh3.googleusercontent.com/d/1xxTn59az9XxZlEYIo5QoGUDXoD6C49Fv</picture>
       <picture>https://lh3.googleusercontent.com/d/12eaR7htjcHS9AOLV-AnBPPhKhCdEBDQR</picture>
       <picture>https://lh3.googleusercontent.com/d/1QG-Y22xqY90-rTrQIVczkc4OEhJ9TM6U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1prkn3FUzW-UhizgMYpGsdWD2anbrRKKf</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Голландия</param>
@@ -1225,16 +1364,52 @@
       <price>132</price>
       <qty>140</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1P5e-pnP360zZALm8lH3szHuK1WEcLGSM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1f2zXwBIyqx49Hk6KZe4bBUFIuoRBgr99</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kU5EXonDqv3P4JpIRYgmJsEKUaICvXyn</picture>
       <picture>https://lh3.googleusercontent.com/d/1KZ4NcDWFUrkkQWuPhrzCmd1lwRTWWuRy</picture>
       <picture>https://lh3.googleusercontent.com/d/1U8BttQ1d61Emby3eilCZui7xisDelOaf</picture>
       <picture>https://lh3.googleusercontent.com/d/1w_44o9glqiyQoN6tDe0mmTqSBO_BVOSf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P5e-pnP360zZALm8lH3szHuK1WEcLGSM</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc04607</param>
       <consist name="Леукадендрон" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc01988" available="true">
+      <categoryId>38</categoryId>
+      <name>Лимониум Зеленый 80 см Арт. Fc01988</name>
+      <price>127</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KwOh9BlWyVpnlVW39XYPWcm4t9h5f2Go</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rGTFLniaOA_b46EGNTe40qJQHGbP1heh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IiDKopLa8Z9lWTmO7F242BcQMBwGKPsB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Sry-bO1ewSRUxe98JTLDtqDYIgPKIJ4w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g_UqTRQ0K4SzIA7TyCvAhA_iPaTMmpld</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Mijo</param>
+      <param name="Артикул">Fc01988</param>
+      <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc04095" available="true">
+      <categoryId>38</categoryId>
+      <name>Лимониум Розовый 50 см Арт. Fc04095</name>
+      <price>94</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/137i0779r4fZEjHBVU7UUe3X5TwgL3NM1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pjAnfIVWs8SSEYq19rI5IpU9kD9Ne4WM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jMCc4ekVNT0_8vTl6hToBmgI_LR7Awus</picture>
+      <picture>https://lh3.googleusercontent.com/d/17yhDZ8NZUkZHa0BixdN72-YSJN1EclZN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UZ55_r1yGPIA5Dbx2YOO6ks1CvY4oLAK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Overtime</param>
+      <param name="Артикул">Fc04095</param>
+      <consist name="Лимониум" unit="шт">25</consist>
     </offer>
     <offer id="Fc00816" available="true">
       <categoryId>38</categoryId>
@@ -1270,6 +1445,58 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc03587</param>
       <consist name="Рускус" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc04115" available="true">
+      <categoryId>38</categoryId>
+      <name>Статица Белый 50 см Арт. Fc04115</name>
+      <price>132</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16QEToRn_SmJOERuKWt_2cu38NyqdS2t6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pw-Sv5skWjQ0lwxIxuXQ8DePlkOepk0V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zzwY9vjlvFXpzp2urzklDHePoWad5l6g</picture>
+      <picture>https://lh3.googleusercontent.com/d/18VL_Gt43KpQSwupbmVcNNESw7vosPz16</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aGuWHimpe1Y4tVUbvUJwGl8jdgg_hIzB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04115</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc04145" available="true">
+      <categoryId>38</categoryId>
+      <name>Статица Фиолетовый 50 см Арт. Fc04145</name>
+      <price>132</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JENbgE77firMt0wAcvyYwmOVap-vCpuY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D3lpqJNWLnQGcmeZT4ywIT1zZlJxDhnA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XGTXH595z4XJCDMioGZpdpUkTffNSTir</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MLsvQjMOQWAivB2NRnIz9GB70rydZRac</picture>
+      <picture>https://lh3.googleusercontent.com/d/19PiIfus_7r8ICLRCqM73RXPCuafVd7X9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04145</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc10826" available="true">
+      <categoryId>38</categoryId>
+      <name>Тласпи 60 см Арт. Fc10826</name>
+      <price>88</price>
+      <qty>40</qty>
+      <quantity_in_package>40</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ri6oamaBNqkQELhQ0zmElPzcpPM4NjEn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mD2Tb3WTgVqkaPjllax1xqUelszscV0b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pX31xq_9l0k2EAAFRpOyx-kBGoetKiIF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vc-MtAEbhf0p8F3D84rK3QCvg_ZWzV0f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_qAIg8fc4ODSA_jo9sLK3zLw_hvnL4e1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 40 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Beauty Line</param>
+      <param name="Артикул">Fc10826</param>
+      <consist name="Тласпи" unit="шт">40</consist>
     </offer>
     <offer id="Fc01865" available="true">
       <categoryId>38</categoryId>
