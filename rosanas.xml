@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11T09:09:10.883+03:00">
+<yml_catalog date="2025-11-11T09:18:15.975+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -34,6 +34,22 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rc13145</param>
       <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc12666" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пич Аваланш 60 см Арт. Rc12666</name>
+      <price>69</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1acDBBhn629hNiEOGgiL6E2BdKw6Aw862</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QNBlv3EdbqLOEx9R_r728lkhebaR0aUU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ceIiNSsI9OtdLUkDvv8fCw2YkiI0KCHY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир цветов</param>
+      <param name="Артикул">Rc12666</param>
+      <consist name="Роза одноголовая Пич Аваланш" unit="шт">15</consist>
     </offer>
     <offer id="Rc16647" available="true">
       <categoryId>1</categoryId>
@@ -104,6 +120,23 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc02006</param>
       <consist name="Роза одноголовая пионовидная Присцилла" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc04446" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Амели 60 см Арт. Rc04446</name>
+      <price>274</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tbrjcyNjFcObate52q1xS_N9MjWldIGk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ju8Asm6uAOSPFulOOKqa3foKRysq2bvD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FwSk81O4nW8xUPGVlq3miZLycJMRn5Jh</picture>
+      <picture>https://lh3.googleusercontent.com/d/14jPNVa0nWEyslxuf5xWu2VEoJvqBhLnw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc04446</param>
+      <consist name="Роза кустовая Амели" unit="шт">10</consist>
     </offer>
     <offer id="Rc04486" available="true">
       <categoryId>3</categoryId>
