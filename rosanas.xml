@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11T08:29:08.135+03:00">
+<yml_catalog date="2025-11-11T08:38:10.051+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,22 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rc16647" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревивал 70 см Арт. Rc16647</name>
+      <price>115</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1if-0PdV-o692LRga0pZwyUhVXfVTC8_i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N4SRGNCWe31bV2lU_mUob2Pzx3ey97QC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r-n8MQbqVfYTHtngqr9i3ssSymBhAt9e</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc16647</param>
+      <consist name="Роза одноголовая Ревивал" unit="шт">10</consist>
+    </offer>
     <offer id="Rc01977" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бальтазар Интен 70 см Арт. Rc01977</name>
@@ -278,6 +294,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rc7736</param>
       <consist name="Маттиола Стокс Дип Роус" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc00596" available="true">
+      <categoryId>37</categoryId>
+      <name>Танацетум Белый 60 см Арт. Rc00596</name>
+      <price>90</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bY065FNt9IpT42dgQJMvnNU8CJqLsZDl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lpqZGFt3_eiibSw1RlTiXiQZvjDhDQc_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V5ixg5jaHz6D0E6LSbB86syzJIT1aHnH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ABj6gO4Q3D8QYmmWjQcPOat_Fwp5qtgo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-CMtdU-O4FyZpmIWoK-dKsTaO0hKZE3O</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голандия</param>
+      <param name="Артикул">Rc00596</param>
+      <consist name="Танацетум" unit="шт">25</consist>
     </offer>
     <offer id="Rc5094" available="true">
       <categoryId>38</categoryId>
