@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-12T08:49:25.755+03:00">
+<yml_catalog date="2025-11-12T08:58:30.112+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rc13145" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Кон Аморе 50 см Арт. Rc13145</name>
+      <price>41</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rlFGVRAiRLVzA8lvjuwTAF0iuTM6PNDm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UPgd7X6fy2YELBDDz9DQRYovlJ6vTIZR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1woRVr2cO4JuUfBo19JAHFFhcwFYfUibe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vkg-ngF55HgSkM2wNs2IPE5eGcjnFypk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s45j9uj91mbezygeCfgZmZf-pgCEjKhJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc13145</param>
+      <consist name="Роза одноголовая Кон Аморе" unit="шт">10</consist>
+    </offer>
     <offer id="Rc15046" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Мондиаль 60 см Арт. Rc15046</name>
@@ -68,6 +86,21 @@
       <param name="Производитель">Юг Агро</param>
       <param name="Артикул">Rc16476</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
+    </offer>
+    <offer id="Rc16506" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Эль Торо 60 см Арт. Rc16506</name>
+      <price>97</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10vWom0-e7IAyLEf9XSkpB3NdKV-FQQjn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X5Llo2epmLMTxN_Z3E_JybBGa_VwaK8i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc16506</param>
+      <consist name="Роза одноголовая Эль Торо" unit="шт">10</consist>
     </offer>
     <offer id="Rc02016" available="true">
       <categoryId>2</categoryId>
@@ -163,7 +196,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Жозефина 60 см Арт. Rc04486</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1M4sfWF76eikohpx7m8GjSt3Myd85QVJ8</picture>
       <picture>https://lh3.googleusercontent.com/d/1gSyE6zqHfPOWazwrykDt9o98d6CStIPy</picture>
@@ -181,7 +214,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Софи 50 см Арт. Rc04265</name>
       <price>247</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Pq8BkOLBnwemATLp3mm59G2UyYWkWjOo</picture>
       <picture>https://lh3.googleusercontent.com/d/1RgrcXTInIy3pX7STGHGCcWjzHBhPQzIk</picture>
@@ -199,7 +232,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Таня 60 см Арт. Rc6506</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AR1zt2i01Gd4O-Lg9tQ4YsDSVBAPCZSP</picture>
       <picture>https://lh3.googleusercontent.com/d/1ak7ZfxmJ1GxuGqr0tyVNd9YlchW8jRW2</picture>
@@ -284,7 +317,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Луна Трендсеттер 60 см Арт. Rc01806</name>
       <price>274</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eHsRClMGarDZxNo4JoIqrH-te9X-tEiy</picture>
       <picture>https://lh3.googleusercontent.com/d/1WlIavqE2ckUbtMVvQYkch8D1mlVZjfp_</picture>
@@ -498,7 +531,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Бразилиана 70 см Арт. Rc9027</name>
       <price>201</price>
-      <qty>50</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1G0fW-ZADbCVEORO9xWyZsQTIuYntmnjT</picture>
       <picture>https://lh3.googleusercontent.com/d/1e5vM_Y_Vxg8WWto9ytGHHCz9y1YBXKhP</picture>
@@ -793,7 +826,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Радужная 80 см Арт. Rc00378</name>
       <price>102</price>
-      <qty>25</qty>
+      <qty>350</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gHDIV-zF1aSbC4KJLQ0rDiWfLNOM1Mz3</picture>
       <picture>https://lh3.googleusercontent.com/d/15GPNP4tgeTu7F2Qiw0oax6nkefHHLaYo</picture>
