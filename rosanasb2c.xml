@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-12T06:52:33.245+03:00">
+<yml_catalog date="2025-11-12T06:59:45.407+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -275,6 +275,23 @@
       <param name="Производитель">Bredefleur</param>
       <param name="Артикул">Rc15171c</param>
       <consist name="Лилия Туморроу" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc8287c" available="true">
+      <name>Пачка (10 шт.) Эустома Алиса Лайт Пинк 70 см Арт. Rc8287c</name>
+      <categoryId>450</categoryId>
+      <price>2080</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-EGe5B-kDj2XzSxh7DXjtEx6KheHPI6_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v3m9b4ZgOnQPRgt2ftDw7WnHkyjV8Yct</picture>
+      <picture>https://lh3.googleusercontent.com/d/18JPnWLNHEx2azmynXrf9aOMAFDhquKxH</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.
+Возможны природные особенности (лёгкий изгиб стеблей, небольшие следы на листьях, заломы лепестков, рубашка на бутонах роз) — это не влияет на свежесть и стойкость.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Rc8287c</param>
+      <consist name="Эустома Алиса Лайт Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Rc02775c" available="true">
       <name>Пачка (1 шт.) Лагурус Голубой 50 см Арт. Rc02775c</name>
