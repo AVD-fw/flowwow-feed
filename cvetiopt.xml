@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-12T07:26:09.732+03:00">
+<yml_catalog date="2025-11-12T07:35:20.248+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,56 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fc02498" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Вау 80 см Арт. Fc02498</name>
+      <price>110</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1x9kMbmgTa7EsuR3JEsVkqG3g8c_5BjAx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xC-AAwvdguJs7MNsj6ET0d5q23-54l2U</picture>
+      <picture>https://lh3.googleusercontent.com/d/179whEny_NvOw89y0ZTjeNbXh0nypKLBn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aw5m52VLSiMaN6lzDcInbLMiOh-zu0CF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gaZBxBlzZBeMc2ObWXO6xlFkdtS5GhR9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc02498</param>
+      <consist name="Роза одноголовая Вау" unit="шт">15</consist>
+    </offer>
+    <offer id="Fc17626" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревайвл 60 см Арт. Fc17626</name>
+      <price>88</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1M53JKwl2SfwWj3NshsDLdMC5f7e_LMHl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rYYhSZqALx_BVG2Tbi85BEXJcy2ZKHzf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IuqxM3IYc3bigwPOay0AFyks7tu1dwGw</picture>
+      <picture>https://lh3.googleusercontent.com/d/18YJCVmn-kkjGzGNujacD0OlERRzIswV7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc17626</param>
+      <consist name="Роза одноголовая Ревайвл" unit="шт">15</consist>
+    </offer>
+    <offer id="Fc00997" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 70 см Арт. Fc00997</name>
+      <price>209</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gpES3TmWT6tAqNlFuMgcU7hkZY6Glx6X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KKMHpMRTUZIcXTPVSWR0Hym_TdBTZ9ko</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Flora Ola</param>
+      <param name="Артикул">Fc00997</param>
+      <consist name="Роза кустовая Софи" unit="шт">5</consist>
+    </offer>
     <offer id="Fc16886" available="true">
       <categoryId>37</categoryId>
       <name>Брассика 65 см Арт. Fc16886</name>
@@ -88,6 +138,23 @@
       <param name="Артикул">Fc04865</param>
       <consist name="Леукоспермум" unit="шт">5</consist>
     </offer>
+    <offer id="Fc04495" available="true">
+      <categoryId>37</categoryId>
+      <name>Протея Артишоковая белый 50 см Арт. Fc04495</name>
+      <price>1155</price>
+      <qty>9</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Q5q5vqpAhoZRE3dnBRvjW8ylRINs1CLe</picture>
+      <picture>https://lh3.googleusercontent.com/d/15oodT6gIt89FewE3cAu62whUklD4EnHH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IZPTrPjE2idtRKFv15UzuaAZjMVFqnSP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q_MBgCshLYWpj5p9TrhQWWtxL4NHoHkw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YeSKwyGcBJahQflmtkKANVM4p9B9Gnd6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04495</param>
+      <consist name="Протея Артишоковая" unit="шт">1</consist>
+    </offer>
     <offer id="Fc9624" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Дубль прайс 40 см Арт. Fc9624</name>
@@ -104,6 +171,23 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Fc9624</param>
       <consist name="Тюльпан Дубль прайс" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc04145" available="true">
+      <categoryId>38</categoryId>
+      <name>Статица Фиолетовый 50 см Арт. Fc04145</name>
+      <price>132</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1B95ABgaw1WGeQ6hKrBq_GkNtmO9PvCAs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XGTXH595z4XJCDMioGZpdpUkTffNSTir</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MLsvQjMOQWAivB2NRnIz9GB70rydZRac</picture>
+      <picture>https://lh3.googleusercontent.com/d/19PiIfus_7r8ICLRCqM73RXPCuafVd7X9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JENbgE77firMt0wAcvyYwmOVap-vCpuY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04145</param>
+      <consist name="Статица" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
