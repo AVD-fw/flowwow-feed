@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-12T17:27:25.133+03:00">
+<yml_catalog date="2025-11-12T17:37:24.382+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -128,13 +128,88 @@
       <param name="Артикул">Va0557c</param>
       <consist name="Роза кустовая пионовидная Элисана" unit="шт">10</consist>
     </offer>
+    <offer id="Va0215c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Белый 55 см Арт. Va0215c</name>
+      <categoryId>450</categoryId>
+      <price>2500</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1es0hExPJ-iBhR8Zzz4ax7EqplGg_Qp2Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fsxmKQ9gfAMUoIuqf1SrDTVr6pbJAe7M</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0215c</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="Va0615c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Байкал (крашенный) 55 см Арт. Va0615c</name>
+      <categoryId>450</categoryId>
+      <price>2500</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1hMX-9QViXLPc-uTHkr0vfvva2AVhjc6m</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xjURj1kPArgQVgtdFXKiuzoMWtVQ6vl_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0615c</param>
+      <consist name="Хризантема Сантини Байкал (крашенный)" unit="шт">25</consist>
+    </offer>
+    <offer id="Va0255c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Марадона 55 см Арт. Va0255c</name>
+      <categoryId>450</categoryId>
+      <price>2500</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1T9T8UXNSekf4hmkOW2SoqQpbr-EflNpt</picture>
+      <picture>https://lh3.googleusercontent.com/d/14G5bTOOasN0Q82wEjYXCs3CiJ_TFYqBL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Funny Santini</param>
+      <param name="Артикул">Va0255c</param>
+      <consist name="Хризантема Сантини Марадона" unit="шт">25</consist>
+    </offer>
+    <offer id="Va0145c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Пизарро 55 см Арт. Va0145c</name>
+      <categoryId>450</categoryId>
+      <price>2500</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1vudxKxGKFoS9pj9u0x3sHESN3KYIJLIG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FsLewbaRU4gHCiwBvjPbystw8ejDPkuQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Va0145c</param>
+      <consist name="Хризантема Сантини Пизарро" unit="шт">25</consist>
+    </offer>
+    <offer id="Va0245c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Помпони микс 55 см Арт. Va0245c</name>
+      <categoryId>450</categoryId>
+      <price>2500</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1l3kKko0xzJliWLSVl0f2GAtX6Vm3oPVM</picture>
+      <picture>https://lh3.googleusercontent.com/d/11gTvahN4yPzSVntg4qnZqQMtBYQcJoLU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0245c</param>
+      <consist name="Хризантема Сантини Помпони микс" unit="шт">25</consist>
+    </offer>
     <offer id="Va0127c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Вайт 70 см Арт. Va0127c</name>
       <categoryId>450</categoryId>
       <price>2500</price>
       <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1tn_DfFWKe3YkPSGBOVwxico1De7YWrtP</picture>
-      <picture>https://lh3.googleusercontent.com/d/11PvYSuZJ1e7sVn1ohuNk9pmPmmhn0V75</picture>
+      <picture>https://lh3.googleusercontent.com/d/10SHwT4zJufFyPpnuC6847VdqfWMM3pX4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W7cBX_PH3pLSHPkfmznCT8tKrhihI-3z</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
@@ -143,13 +218,28 @@
       <param name="Артикул">Va0127c</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
+    <offer id="Va0225c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Микс 55 см Арт. Va0225c</name>
+      <categoryId>450</categoryId>
+      <price>2500</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1R0NEIzFaiOx1Wtneo35nwWLXiv55XF7E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SOP2Ojk8JhtZA8O8CPuOjwPyyFvY3Wus</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vanno Va</param>
+      <param name="Артикул">Va0225c</param>
+      <consist name="Хризантема Сантини Росси Микс" unit="шт">25</consist>
+    </offer>
     <offer id="Va0105c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 55 см Арт. Va0105c</name>
       <categoryId>450</categoryId>
       <price>2500</price>
       <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/12qfkW6DxoXvcyN9KonSrAwmcw5-f9_DI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1jatvIdrtTPBUqqEGKSIDS5TQiM6Fbli5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WgHsJ3fJI3HGPOoRXZhE7dWAFnZLcS39</picture>
+      <picture>https://lh3.googleusercontent.com/d/1USwwg_NvQ7QQ4Dx9CLj6QXQP15Ay34_u</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Ширина, см">15</param>
@@ -158,13 +248,28 @@
       <param name="Артикул">Va0105c</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
+    <offer id="Va0235c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Санни 55 см Арт. Va0235c</name>
+      <categoryId>450</categoryId>
+      <price>2500</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1BdpSmlVw5HyrfKlEifO-a6SIsoPAw1fG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v673FOwwTmwqLuHxMgIOLGgYgRNU5NOy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0235c</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
     <offer id="Va0115c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Сан Ап 55 см Арт. Va0115c</name>
       <categoryId>450</categoryId>
       <price>2500</price>
       <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1yuqF4CsTyiYimH1CbqSgkHieO6pXcQut</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MT0-RfQo0Rm78FEzfUbuCaWMQ4Vupewf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GnLjl0-ZXVOuqDoc2O8iTgrXd06Xa_6E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zB5UEPf_bjtbhfiic36dhj-h6-cL4U4g</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">55</param>
       <param name="Ширина, см">15</param>
@@ -178,8 +283,8 @@
       <categoryId>450</categoryId>
       <price>2500</price>
       <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1pUJyxpfgRWtK_Pss3vhDKE5lidd2LEc-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1h_mN1msq9xAW1itD-b67ljAUeM5DsSE_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zfpbksv04hnWM2ldoyzLtlEeXAUFfkNh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1juicNaxMzuJS0n_hGjxBd74j5G8LFRLR</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
