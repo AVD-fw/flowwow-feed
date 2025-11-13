@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-12T10:54:39.569+03:00">
+<yml_catalog date="2025-11-13T06:21:26.005+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -11,7 +11,7 @@
     <offer id="La0845c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Желтый 50 см Арт. La0845c</name>
       <categoryId>450</categoryId>
-      <price>1090</price>
+      <price>990</price>
       <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1deyKCPjlU5CgKiTKuC78wAvVWC9Ww-yx</picture>
       <picture>https://lh3.googleusercontent.com/d/1TP1xmAJ-poy2-vm7FPEDadhTsOAonsdt</picture>
@@ -219,7 +219,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Мандала 60 см Арт. La1106c</name>
       <categoryId>450</categoryId>
       <price>1450</price>
-      <qty>1</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1SqX_icKqfWRzKeiqeavtkKaRlVXTn6L0</picture>
       <picture>https://lh3.googleusercontent.com/d/1NaAfyVTKyzYqQ5uu20KZ1yAjnoEETVIW</picture>
       <picture>https://lh3.googleusercontent.com/d/1R6nDMEq8j6wDJBzex60dh4jNIUe2oCzI</picture>
@@ -231,11 +231,27 @@
       <param name="Артикул">La1106c</param>
       <consist name="Роза одноголовая Мандала" unit="шт">10</consist>
     </offer>
+    <offer id="La0785c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Пакая 50 см Арт. La0785c</name>
+      <categoryId>450</categoryId>
+      <price>1305</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/19Wh4wN5LUQv_aG07qh3tJeZA0I2qhsIn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j3NGBdnBMz0QHHleGjcqfTgCoHg1yTBV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bXZCNzEemIX-w5qZRg_dyA6wjtW2j-O5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">La0785c</param>
+      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
     <offer id="La1405c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Питер Парк 50 см Арт. La1405c</name>
       <categoryId>450</categoryId>
       <price>1235</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1EYrjFk5KoXQq8nkCEbOeB97r26hDSofj</picture>
       <picture>https://lh3.googleusercontent.com/d/1IGk-SOcpkiZIjdrUxpo0-IsBkvrF1Lls</picture>
       <picture>https://lh3.googleusercontent.com/d/1wF6Uq4kTlrD9ASuF2pOPwkkublp2WE9K</picture>
@@ -278,6 +294,22 @@
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La2024c</param>
       <consist name="Роза одноголовая Пич Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="La0235c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 50 см Арт. La0235c</name>
+      <categoryId>450</categoryId>
+      <price>1450</price>
+      <qty>30</qty>
+      <picture>https://lh3.googleusercontent.com/d/1YAhGL1xxFIyOje4rGZZfXqBdyFIVe9TM</picture>
+      <picture>https://lh3.googleusercontent.com/d/11p2PNtNtJjUGkXv2B2fbPNnRQ19oEBFL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xuDCQoWTLfogSbyNcfWf6i6s0iiq5UPx</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">La0235c</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
     </offer>
     <offer id="La0616c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 60 см Арт. La0616c</name>
@@ -519,6 +551,21 @@
       <param name="Артикул">La1686c</param>
       <consist name="Роза кустовая Супер Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="La1956c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Фаерворк 60 см Арт. La1956c</name>
+      <categoryId>450</categoryId>
+      <price>1810</price>
+      <qty>15</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ahrKSUMg6Ui6GteB8h6-0PLzo1gwdcdO</picture>
+      <picture>https://lh3.googleusercontent.com/d/14GKeNJfSzNqlzTsv2hXNS1H08-usXbtk</picture>
+      <picture>https://lh3.googleusercontent.com/d/120QYmqNBIrx_eepf3tdmma6n9kyzoSmf</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La1956c</param>
+      <consist name="Роза кустовая Фаерворк" unit="шт">10</consist>
+    </offer>
     <offer id="La1995c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная 50 см Арт. La1995c</name>
       <categoryId>450</categoryId>
@@ -539,7 +586,7 @@
       <name>Пачка (10 шт.) Роза кустовая пионовидная Барбадос 60 см Арт. La1786c</name>
       <categoryId>450</categoryId>
       <price>2890</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1exY9OnOdeILdWG0kKuNMvaNGcAuK57Hi</picture>
       <picture>https://lh3.googleusercontent.com/d/17OB4MQViGm2bTovqvq9GW-Nm0Xe-Kpsm</picture>
       <picture>https://lh3.googleusercontent.com/d/1eOBFn6BRGL9xMPGxfRyc2WphUZIaKVvh</picture>
@@ -731,7 +778,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Розовый 50 см Арт. La0495c</name>
       <categoryId>450</categoryId>
       <price>1015</price>
-      <qty>1</qty>
+      <qty>8</qty>
       <picture>https://lh3.googleusercontent.com/d/1uW2YEKTpTy11fshtGeiZpe76di6h6k-q</picture>
       <picture>https://lh3.googleusercontent.com/d/1IcQ7Adwi6nVkn21Pwnglj8VH2c64bSxb</picture>
       <picture>https://lh3.googleusercontent.com/d/1AlyBxJjtrTFxnW0B7Uh11_GzmHwjjPDT</picture>
@@ -773,6 +820,22 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">La1447c</param>
       <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="La1557c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Бейби 70 см Арт. La1557c</name>
+      <categoryId>450</categoryId>
+      <price>880</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1o23FYwlwiSVKCMLVmv-UkGx3hYNfR724</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TaFbWaqRuQtEXou-vfINzdzQ1G8PJFs6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kDQ2HC6xmQshOlKaZL5uPfsqbkKGUS3w</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">La1557c</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
     </offer>
     <offer id="La1487c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Калимба 70 см Арт. La1487c</name>
@@ -826,7 +889,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Мексикано 70 см Арт. La0997c</name>
       <categoryId>450</categoryId>
       <price>880</price>
-      <qty>8</qty>
+      <qty>5</qty>
       <picture>https://lh3.googleusercontent.com/d/1ZOQf_nYa7v7lFAHOzLjIYjosl-qbNGgl</picture>
       <picture>https://lh3.googleusercontent.com/d/16U0Wbe-QGteOGLJXA4w9L55tgmNU1l6J</picture>
       <picture>https://lh3.googleusercontent.com/d/19ZOBaLmGpMZ0R7qPIMgAsMmi1d3tSjIg</picture>
@@ -854,11 +917,26 @@
       <param name="Артикул">La1467c</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
+    <offer id="La1727c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Реск 70 см Арт. La1727c</name>
+      <categoryId>450</categoryId>
+      <price>880</price>
+      <qty>8</qty>
+      <picture>https://lh3.googleusercontent.com/d/10hJpBPn8CmQ4WoD2kSAAqi6B-Er7ac5j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jayV1t041DSnR1KFhkGQ37OnTtmMTTVc</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">CornelisJan Flowers</param>
+      <param name="Артикул">La1727c</param>
+      <consist name="Хризантема кустовая Реск" unit="шт">5</consist>
+    </offer>
     <offer id="La1037c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Риана 70 см Арт. La1037c</name>
       <categoryId>450</categoryId>
       <price>880</price>
-      <qty>3</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/15EF3Y77z6p0p5KkH20PUz4cMktXclkZG</picture>
       <picture>https://lh3.googleusercontent.com/d/1GaIcuY3R9i-7XKLJY_FjV7JG7JVMw2Un</picture>
       <picture>https://lh3.googleusercontent.com/d/1b0wZ1xOlcSL70paBsTu6ne1UTMnAerBQ</picture>
@@ -873,7 +951,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Селебрейт 70 см Арт. La1017c</name>
       <categoryId>450</categoryId>
       <price>880</price>
-      <qty>12</qty>
+      <qty>9</qty>
       <picture>https://lh3.googleusercontent.com/d/1tn8FhKprSs0ylxnVmzUcUS4WZIBoCrok</picture>
       <picture>https://lh3.googleusercontent.com/d/14XSfmYw92vleSQ31CicklWFGOrtPZRAZ</picture>
       <picture>https://lh3.googleusercontent.com/d/13H6Gk-UDIXRQgGBLqB3rK7t_EOZze-V6</picture>
