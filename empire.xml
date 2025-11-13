@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-13T11:19:35.674+03:00">
+<yml_catalog date="2025-11-13T11:23:49.655+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,72 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ec3807" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Момоко 70 см Арт. Ec3807</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1B5bcHtnFXlG1pQ939dp90ml6inXxbce1</picture>
+      <picture>https://lh3.googleusercontent.com/d/17p6LbWUznXxSktmO_Hy_IFYaqFGUjwki</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mQHt_ekjXkWTLnPDQ7ka4QUcUtdchDzY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BJC4a8PZM4F_RPMVVLTLIo2Cn8uJ3-T9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ec3807</param>
+      <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec4617" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая 70 см Арт. Ec4617</name>
+      <price>100</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HYRFRp8Bn-aRnfsRshpudwq9bXnr9p-E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b6l4DBeElcuhita6GfAatL47_NO1VeFT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GEMrsqMt0p5UrDFRXXq0gHio-_O6Edv5</picture>
+      <picture>https://lh3.googleusercontent.com/d/12U8UzJt6oclzEalnMPCHey5InJszk1Ru</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B8Y7uQeoUWVttFLCvee8jki7m9ukAQiL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ec4617</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec4637" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая 70 см Арт. Ec4637</name>
+      <price>100</price>
+      <qty>45</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vkitoRJkyEPlJMCVX-6KvfSP76QayArq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dZS_aoP4SH1lXwXv1UnXXk5Ot90i8XcW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VsN-oZO9YxXRSl8RtkBojSdgsueE0U5g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D-SLyVHebgYeodyZkAF98UYalLKbwF1v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OirfPWjpAFYfwPxzZkyLW_edasoad6E1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">GG Flowers</param>
+      <param name="Артикул">Ec4637</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec4697" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая 70 см Арт. Ec4697</name>
+      <price>100</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tDwQPoO3dQVRfaILfXZnBHLP9u_TtUoX</picture>
+      <picture>https://lh3.googleusercontent.com/d/10irUfWHmu1dmr_R-CgJxiyOxUDvki2Gm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Ec4697</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
     <offer id="Ec3777" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Рианна 70 см Арт. Ec3777</name>
@@ -33,6 +99,24 @@
       <param name="Производитель">Vannova</param>
       <param name="Артикул">Ec3777</param>
       <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec3797" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Хайдар 70 см Арт. Ec3797</name>
+      <price>100</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pP04YWC6GDo4cM9Q99JTM54jbhLmGDdZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VVHoJHNeMuRNZN0xlNRnA5dbdRu5jq_g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s6gz3rm4WdPhxZU9vTa2LhkoI50agsfw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rJ-zZ6YvlQDbIX6pU_E3Z2sC1X855NEu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y-GqkJfWpJhf18nHbRHanuqJAKSV9SFI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ec3797</param>
+      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
     </offer>
     <offer id="Ec4086" available="true">
       <categoryId>37</categoryId>
@@ -99,6 +183,145 @@
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ec3376</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec00537" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Радужный 70 см Арт. Ec00537</name>
+      <price>77</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1frivXCKUbnT9mmDKwddoZZmaLdzIPK6R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rpsv7eDXeMR3V_ipmSelnRIZLW2Wtuk7</picture>
+      <picture>https://lh3.googleusercontent.com/d/18E-nqijN5mohncPyCsh5_uzYtEJms143</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ENDclwcZPgdIYydSTJL1_ZufGq7UdAoV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1__5kzqCA7aoxFYWiEtnzweZNz1QCmMFu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ec00537</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec00547" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Белый 70 см Арт. Ec00547</name>
+      <price>69</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Psg3GRE7Rh34ELCe7rKngqUFrsYfhyTA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cJ3dPTqVzt7HRAePjl9RtkKjNNF_OYYg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C5CfYfln6YZ7s5BE8il5L05yvQuGTsgE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EEcDtIdrGKWm1-2fL0adE9hHuA2O8Z8d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J7xd9dKqLPf8eLmW9YjzhckzXjyV5-li</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ec00547</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec3397" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Ярко розовая 70 см Арт. Ec3397</name>
+      <price>77</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LuLXoPirfMKWlTiUJ-8Xw_ZcoGSr_dVb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xX2yOz5LbdWOfn6jKmUJkLN165cz0DMs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1laVsY9Ao1ztHWJ_LIV-n6r9JPUb0xJne</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gNsJcdcveuYxAJ1GxqU_VfUyOQ_UPL8Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X3Nh87ukuxFOTVVqT_L9j2sRFdTA1Rye</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ec3397</param>
+      <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec2946" available="true">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Лиловый 60 см Арт. Ec2946</name>
+      <price>250</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FcWHfhaRFytUfwLUZ-sB8hDHboZkoIdC</picture>
+      <picture>https://lh3.googleusercontent.com/d/11b_GCPw_cKaBDQbsJgfNw06o4Mk7N3q2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzight</param>
+      <param name="Артикул">Ec2946</param>
+      <consist name="Дельфиниум" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec3516" available="true">
+      <categoryId>37</categoryId>
+      <name>Дельфиниум Белый 60 см Арт. Ec3516</name>
+      <price>250</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dUglnN6pFS47JgdeBX5un0GV39uC885J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UM1RQwKXEhw4ifBjEK9hKABbkHFMbH8l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IndcjDEWja0UDdGVqituT8cAqLgm-2u6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WyGXU1skJjnsbuZV9q1MhXyvifQp4JD_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kisma</param>
+      <param name="Артикул">Ec3516</param>
+      <consist name="Дельфиниум" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec00425" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Касабланка 50 см Арт. Ec00425</name>
+      <price>45</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mHKSOdiRZmh4KaBNUebwsGUfY72uZCK_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NsmN6_bxHUwxXJ7Bp7oBR_cMPBwpIm8s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QYWqDxl6fL75j6D83-q6I4cDablcypnP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1geaWxTDXkjpSwcJjXzPLEKjQ5iJfTPaL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QCwzO7YsXVOrGFaR1F_-xsmSCdiGI_eI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ec00425</param>
+      <consist name="Ирис Касабланка" unit="шт">50</consist>
+    </offer>
+    <offer id="Ec01225" available="true">
+      <categoryId>37</categoryId>
+      <name>Лимониум Белый 50 см Арт. Ec01225</name>
+      <price>115</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wx4wcBMdiDNmgeUgm0REt41iCzqgMBqK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ul1BHUhLzfAuQ9zKGAuaz8UP8HZNbyED</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uSLehJ8qsuCLcreS2eEI84pk_HbgvB-b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BM_AbrbhkMRA5YEmNX4p13GWB2prA0zW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sVwUUv4bk0b4x1xEp80qmk6ZNPT5Z97U</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ec01225</param>
+      <consist name="Лимониум" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec2955" available="true">
+      <categoryId>37</categoryId>
+      <name>Фрезия Розовый 50 см Арт. Ec2955</name>
+      <price>155</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10kLksIQ6q9UP6YqEhnAdQY4lUHZhIwOO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pEeKIXBkg4MPWDL0X5V9YfYmVHT8ScsI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Uzjidct5UDttG17OHS-jwYr3QNDkHsss</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vrsk1CWmnnFTKsxhEdM3HrcXdBkKLZC1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u1EXvi6FMP2IIZgG8Mzmac25-z4jQxO5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Ton Vreugdenhil Fresia</param>
+      <param name="Артикул">Ec2955</param>
+      <consist name="Фрезия" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
