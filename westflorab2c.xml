@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-14T18:47:20.739+03:00">
+<yml_catalog date="2025-11-14T18:57:21.110+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Va0206c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая 60 см Арт. Va0206c</name>
+      <categoryId>450</categoryId>
+      <price>2605</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1xbAi5E_nyx_GQ9eS6mHc25Fhre5i3cDF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rZ-QBqlfkeVbYqPJl471pO_4BhYAbdUm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ys_liOJoxBwBnSCAcd_N2DFLyN_li2Zj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эфиопия</param>
+      <param name="Производитель">Braam Born to Bloom</param>
+      <param name="Артикул">Va0206c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="Va1026c" available="true">
       <name>Пачка (10 шт.) Роза кустовая 60 см Арт. Va1026c</name>
       <categoryId>450</categoryId>
@@ -120,37 +136,37 @@
       <param name="Артикул">Va1196c</param>
       <consist name="Роза кустовая Флавия" unit="шт">10</consist>
     </offer>
-    <offer id="Va093c" available="true">
-      <name>Пачка (1 шт.) Роза кустовая пионовидная 50 см Арт. Va093c</name>
+    <offer id="Va0936c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная 60 см Арт. Va0936c</name>
       <categoryId>450</categoryId>
-      <price>260</price>
+      <price>2605</price>
       <qty>1</qty>
       <picture>https://lh3.googleusercontent.com/d/16aKebMf-QDsDXzs-1obZ4qbVAklIrZt6</picture>
       <picture>https://lh3.googleusercontent.com/d/1HEZWJTMbqabNXR4QviYt9orQV2Y7jgfz</picture>
       <picture>https://lh3.googleusercontent.com/d/17hSnnoBTlFsTOt7Qz9d80Bw_Tj_02lOB</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">50</param>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">уточняется</param>
       <param name="Производитель">Fransen</param>
-      <param name="Артикул">Va093c</param>
-      <consist name="Роза кустовая пионовидная" unit="шт">1</consist>
+      <param name="Артикул">Va0936c</param>
+      <consist name="Роза кустовая пионовидная" unit="шт">10</consist>
     </offer>
-    <offer id="Va097c" available="true">
-      <name>Пачка (1 шт.) Роза кустовая пионовидная 50 см Арт. Va097c</name>
+    <offer id="Va0976c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная 60 см Арт. Va0976c</name>
       <categoryId>450</categoryId>
-      <price>260</price>
+      <price>2605</price>
       <qty>1</qty>
       <picture>https://lh3.googleusercontent.com/d/15mnC03kuf5LRdAwIiGd3Woft7yvfWQrz</picture>
       <picture>https://lh3.googleusercontent.com/d/17mkXSXGu5GwmU5ktPrIHKmcdcXQdlmQU</picture>
       <picture>https://lh3.googleusercontent.com/d/1GTjwyluEo3P-bnawjks9UMPXlGyCmegk</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
-      <param name="Высота, см">50</param>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Кения</param>
       <param name="Производитель">mZurrie</param>
-      <param name="Артикул">Va097c</param>
-      <consist name="Роза кустовая пионовидная" unit="шт">1</consist>
+      <param name="Артикул">Va0976c</param>
+      <consist name="Роза кустовая пионовидная" unit="шт">10</consist>
     </offer>
     <offer id="Va0986c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная 60 см Арт. Va0986c</name>
