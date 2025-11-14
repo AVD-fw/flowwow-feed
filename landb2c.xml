@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-14T07:54:35.196+03:00">
+<yml_catalog date="2025-11-14T08:01:24.561+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -629,6 +629,21 @@
       <param name="Артикул">La0997c</param>
       <consist name="Хризантема кустовая Мексикано" unit="шт">5</consist>
     </offer>
+    <offer id="La1727c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Реск 70 см Арт. La1727c</name>
+      <categoryId>450</categoryId>
+      <price>880</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/10hJpBPn8CmQ4WoD2kSAAqi6B-Er7ac5j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jayV1t041DSnR1KFhkGQ37OnTtmMTTVc</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">CornelisJan Flowers</param>
+      <param name="Артикул">La1727c</param>
+      <consist name="Хризантема кустовая Реск" unit="шт">5</consist>
+    </offer>
     <offer id="La1017c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Селебрейт 70 см Арт. La1017c</name>
       <categoryId>450</categoryId>
@@ -785,6 +800,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La1936c</param>
       <consist name="Подсолнух" unit="шт">10</consist>
+    </offer>
+    <offer id="La0146c" available="true">
+      <name>Пачка (10 шт.) Эустома Экскалибур Хот Липс 60 см Арт. La0146c</name>
+      <categoryId>450</categoryId>
+      <price>2170</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1hhtFSrAfVL8ToBwQ8FYjhmhthegP_bTE</picture>
+      <picture>https://lh3.googleusercontent.com/d/14YIv7udnWmAbx2xOBT61vfk8RzVwh6x4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eh41qqBRrJ0AHWnNSZvm4jolddcX_Brw</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">La0146c</param>
+      <consist name="Эустома Экскалибур Хот Липс" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
