@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-14T07:39:10.615+03:00">
+<yml_catalog date="2025-11-14T07:48:04.383+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -87,6 +87,24 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Rc01527</param>
       <consist name="Хризантема одноголовая Тропикана" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc15205" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 55 см Арт. Rc15205</name>
+      <price>76</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15qSXRpCFsyfYr4riR7y6z-0lk3sVuauF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BBTs1TKlUUXygqP4680Df-JgHe10YdXY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ez6yWDhyOodGAC6IlMaGp_oA9zQVrtkb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OJD8XYkW_DViI0YNmHe9lr3sLA5S2Mgl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1edRLKaeb0h5spBLgJIcz2J7dHBMJj3hQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Rc15205</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
     <offer id="Rc16067" available="true">
       <categoryId>37</categoryId>
