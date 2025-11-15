@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-15T07:09:16.840+03:00">
+<yml_catalog date="2025-11-15T07:18:19.237+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -408,7 +408,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Радужная 80 см Арт. Rc00378</name>
       <price>102</price>
-      <qty>350</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gHDIV-zF1aSbC4KJLQ0rDiWfLNOM1Mz3</picture>
       <picture>https://lh3.googleusercontent.com/d/15GPNP4tgeTu7F2Qiw0oax6nkefHHLaYo</picture>
@@ -421,23 +421,6 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Rc00378</param>
       <consist name="Гипсофила Радужная" unit="шт">25</consist>
-    </offer>
-    <offer id="Rc6444" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Синий 40 см Арт. Rc6444</name>
-      <price>52</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1je4MEYPmIt6W52HIwpniI5y6dKXkC1Fb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mqd_0-_YX4uQ8oqLgDP2e0wzdS0vdp5c</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Dv_Z0lcAwUabO-Ei8ti3PO76D5cV-YpX</picture>
-      <picture>https://lh3.googleusercontent.com/d/12HVkyhRs0w6SVkflruKO4FK1c-WbemRy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q91FUSSQK1jB-5fpjRTFOrppGIjmut7u</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Rc6444</param>
-      <consist name="Ирис Синий" unit="шт">25</consist>
     </offer>
     <offer id="Rc11415" available="true">
       <categoryId>37</categoryId>
