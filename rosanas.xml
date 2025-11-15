@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-15T06:39:26.951+03:00">
+<yml_catalog date="2025-11-15T06:48:23.663+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -34,6 +34,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Rc9027</param>
       <consist name="Хризантема одноголовая Бразилиана" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc12557" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Кутюр Бронз 70 см Арт. Rc12557</name>
+      <price>239</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BE_9WTZUP3bJ7Cb0Ur6y7jjoiXlLJtoa</picture>
+      <picture>https://lh3.googleusercontent.com/d/10PgVQF8ByWpA6X859PhCBHhf-5aOoViX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-FETYvpNCyX-JK3TF0s6UTwQguatAv4Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1djn-rkYfOVsq-faKUqNu4gGjFor9TwIY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FCPNxNlIYepfyoU3v_u45liCafKSNTK-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Rc12557</param>
+      <consist name="Хризантема одноголовая Кутюр Бронз" unit="шт">10</consist>
     </offer>
     <offer id="Rc3857" available="true">
       <categoryId>5</categoryId>
@@ -138,6 +156,55 @@
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rc11415</param>
+      <consist name="Краспедия" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc10864" available="true">
+      <name>Лагурус Сиреневый 40 см Арт. Rc10864</name>
+      <price>238</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qKKyCZsKRQ_cW7_s4NE9SJc6cgmg0y7k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z556S6QJjaBkUsD6IFSUUUlArHNW-3Aq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_MvwEZunKBKPFDB3_kOzos8nTy0yvc8z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aAtEiIM5kdl8WZ_fu35pCrssmIypd4pM</picture>
+      <picture>https://lh3.googleusercontent.com/d/19nc8nJhCBIkZKScNuf2Ebx7t1YQVGL4a</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rc10864</param>
+      <consist name="Лагурус Сиреневый" unit="шт">1</consist>
+    </offer>
+    <offer id="Rc6047" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Лисенн Лавандер 70 см Арт. Rc6047</name>
+      <price>215</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KWaePHjhLtN2hFcJoxfAskIS4_mO0uhw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fV1xO0fOpNQ9gfQ1lGqpBB-DBQC6NNp8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yOTHkAy0OQS2CPJxvdNVDFnS1h5CqljH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Gjy9pTUyjrBYXcrdsSTSx9Wa7B8Qwm85</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mZMmlh9wZhsf3YgRI0vlrAxZk1qyGCa_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голандия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Rc6047</param>
+      <consist name="Эустома Лисенн Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc02275" available="true">
+      <categoryId>38</categoryId>
+      <name>Краспедия Желтый 50 см Арт. Rc02275</name>
+      <price>70</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GMAPRGdSo_XLxuB48LSUmSGc3NlKi4m0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_ayatXJjNYtm2_viSeQga0LXWq4p3b39</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nj1DhnexdseUm8rljDngwa7SjxczLlj7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rc02275</param>
       <consist name="Краспедия" unit="шт">10</consist>
     </offer>
     </offers>
