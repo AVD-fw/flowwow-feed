@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-15T07:29:27.611+03:00">
+<yml_catalog date="2025-11-15T07:38:24.518+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -39,7 +39,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Кон Аморе 50 см Арт. Rc13145</name>
       <price>41</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Oxx8ihPQHO8JRZ3bB-Ho7iro3ur6R_YF</picture>
       <picture>https://lh3.googleusercontent.com/d/1woRVr2cO4JuUfBo19JAHFFhcwFYfUibe</picture>
@@ -70,6 +70,24 @@
       <param name="Артикул">Rc16647</param>
       <consist name="Роза одноголовая Ревивал" unit="шт">10</consist>
     </offer>
+    <offer id="Rc7616" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 60 см Арт. Rc7616</name>
+      <price>82</price>
+      <qty>40</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xTiTvuEMoT8uLJX8uRsE6jW_LwTOuEnj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o4YiGNgpz3pXM6DjCOOCpc5QQR0R-WMf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ULgL6w1wWILip_iAGwVYmJDY9be7-Nav</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pNsidekSZuf-Umh1XKJwQbJQzrOQ2LjV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zmz7BMQtk6zFO09SJdmCGyMDQtaD_DwU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc7616</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">20</consist>
+    </offer>
     <offer id="Rc16476" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ред Наоми 60 см Арт. Rc16476</name>
@@ -86,6 +104,42 @@
       <param name="Производитель">Юг Агро</param>
       <param name="Артикул">Rc16476</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
+    </offer>
+    <offer id="Rc9787" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Свит Аваланш 70 см Арт. Rc9787</name>
+      <price>82</price>
+      <qty>30</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11Up_bQUZZ-neuYKqt2lwP4wG8ElfiWq6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FjgvlN842vMOn-GpFAqeoiL3sUof4pBj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_URdytFvrC3bBqZNBpW6ME1K4tEerehk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r2ODIgyAF-3k6GkWn5eq7lTtNFoQVLhM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l1PHa1LGD3v0x9Csh-qJUxMjorFYiY0j</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc9787</param>
+      <consist name="Роза одноголовая Свит Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Rc10096" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Свит Аваланш 60 см Арт. Rc10096</name>
+      <price>69</price>
+      <qty>90</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xpzndt6duvTDFnthnPSMfxQ1wU-e9Pvg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N9HnIKMumYBrs24LH4NnvZdV1uidmzxN</picture>
+      <picture>https://lh3.googleusercontent.com/d/123AdPS3McYYp--ebM5j5CCiLzlSVZALK</picture>
+      <picture>https://lh3.googleusercontent.com/d/18JIpxG8eCXo4pMEMDoMizktKyQDQr6zE</picture>
+      <picture>https://lh3.googleusercontent.com/d/14nCZahR93BoXSjlX6js9xfiLyo9N4zOd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc10096</param>
+      <consist name="Роза одноголовая Свит Аваланш" unit="шт">15</consist>
     </offer>
     <offer id="Rc04486" available="true">
       <categoryId>3</categoryId>
@@ -141,11 +195,29 @@
       <param name="Артикул">Rc04506</param>
       <consist name="Роза кустовая Софи" unit="шт">10</consist>
     </offer>
+    <offer id="Rc04366" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Бомбастик 60 см Арт. Rc04366</name>
+      <price>315</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10xL6GjglKtqtdPeIjUnyuEKq3soOr3eL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LhRvColgnKjFY9bHecVMB-SGeiXaubjo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u5xc0xys0gOozoM-U0Tobx23fpIWiZz8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Go8D8jB2jSClhb0utKRKTcS3A6b2PRg5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B5kJJI6kkRqeGugEY3mzR7-ZdAMtNWHU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc04366</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Rc15945" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Еллоу Бабблс 50 см Арт. Rc15945</name>
       <price>321</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10QfZLRWIZXEt8mVhiJsJp93Ciywqyjz3</picture>
       <picture>https://lh3.googleusercontent.com/d/1_IaLJAOUYmhh6jWG3IY1svHymh2xcC89</picture>
@@ -158,6 +230,20 @@
       <param name="Производитель">Цветополис</param>
       <param name="Артикул">Rc15945</param>
       <consist name="Роза кустовая пионовидная Еллоу Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc16636" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Менсфилд Парк 60 см Арт. Rc16636</name>
+      <price>425</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QyZ1NQPDWVK5Y2RSe-hZPafZdFBvl5xS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc16636</param>
+      <consist name="Роза кустовая пионовидная Менсфилд Парк" unit="шт">5</consist>
     </offer>
     <offer id="Rc04376" available="true">
       <categoryId>4</categoryId>
