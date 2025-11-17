@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-17T07:29:37.926+03:00">
+<yml_catalog date="2025-11-17T07:38:23.560+03:00">
   <shop>
     <name>ROSANAS FLOWERS</name>
     <company>rosanas</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Rc15046" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мондиаль 60 см Арт. Rc15046</name>
+      <price>143</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bPmBf7qWsNyypLk0z5lqNrJPegZ56OHn</picture>
+      <picture>https://lh3.googleusercontent.com/d/19KEwiDpHVZlkP-BVKGVOhU5LLyIrbI1S</picture>
+      <picture>https://lh3.googleusercontent.com/d/14EydpYd8PHNOJeUWv3CT2gA3iobRFjKa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XG5sI8QFUd7aXpaB5_l6AT-2kMOE3mjM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QCk77oVPdWkozBnaYIcbjRtNVl7-B5Rz</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Rosa Prima</param>
+      <param name="Артикул">Rc15046</param>
+      <consist name="Роза одноголовая Мондиаль" unit="шт">25</consist>
+    </offer>
     <offer id="Rc12666" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пич Аваланш 60 см Арт. Rc12666</name>
@@ -33,6 +51,42 @@
       <param name="Производитель">Мир цветов</param>
       <param name="Артикул">Rc12666</param>
       <consist name="Роза одноголовая Пич Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Rc16647" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ревивал 70 см Арт. Rc16647</name>
+      <price>115</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ESRmy6KJQFnEXnMkKaNPzBtYrMlryeqO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N4SRGNCWe31bV2lU_mUob2Pzx3ey97QC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r-n8MQbqVfYTHtngqr9i3ssSymBhAt9e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1if-0PdV-o692LRga0pZwyUhVXfVTC8_i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UAl91CZ10SvEZAn8qS0dph_OOa4tEIpF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc16647</param>
+      <consist name="Роза одноголовая Ревивал" unit="шт">10</consist>
+    </offer>
+    <offer id="Rc14706" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Вайт Охара 60 см Арт. Rc14706</name>
+      <price>163</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pyHtmzdSqxQ_MkA8uOjodHhS_zXl1YPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y_B7AC3l-7TjLmLZa5toTdJTlTPn2Iz5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nKai64xCA244OrjC1oLrbNG6W8tMHzwv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kMCYsmO8AnohlNeeQQDqi0tKZfUQve30</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lqVkHAUhqh2LKsKpJOLn4fjS9N1PY2UJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">RosaPrima</param>
+      <param name="Артикул">Rc14706</param>
+      <consist name="Роза одноголовая пионовидная Вайт Охара" unit="шт">25</consist>
     </offer>
     <offer id="Rc00315" available="true">
       <categoryId>3</categoryId>
@@ -84,6 +138,57 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Rc16636</param>
       <consist name="Роза кустовая пионовидная Менсфилд Парк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc6556" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Микс Кремовая 60 см Арт. Rc6556</name>
+      <price>274</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13xS1Ut0UziEFdjDhKiv5GdszpvbemnRI</picture>
+      <picture>https://lh3.googleusercontent.com/d/126ds8K4NblRmA8_wRYg2fy1EOoy7U6xn</picture>
+      <picture>https://lh3.googleusercontent.com/d/19e2W7Tdmqx0tPzUW5Au1Dbaysd7TRvzk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-IsiB0hyUlrmz1GjDbcw66pVg52y1FZM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B2c9ADFz8FhN-RXxwFmg9LHssNJcv18D</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc6556</param>
+      <consist name="Роза кустовая пионовидная Микс Кремовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc04376" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Сильва Пинк 60 см Арт. Rc04376</name>
+      <price>425</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1j3Foe8BZ7lhkPrk_OWXYBaj-WX1ONFDh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XWDAIEbTIEKDkZuQPGprzRyHpqPPdGlD</picture>
+      <picture>https://lh3.googleusercontent.com/d/17t4Br0dDfygyzFB7KSUMZSqv9L4-w2aS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nMovhiyCAuYf2RUVkIesyto-M_1xXmHh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T1SzDIbE2x2mFchMfwHTMS0IAdcoB9xn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Rc04376</param>
+      <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Rc16587" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Сильва Санни 70 см Арт. Rc16587</name>
+      <price>458</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HhKwzoHldlfHnMTIl4MLhpwfcjLNdSY_</picture>
+      <picture>https://lh3.googleusercontent.com/d/11J224CR5TyD7dP1RjH_s2WUMiApRl6J5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Цветополис</param>
+      <param name="Артикул">Rc16587</param>
+      <consist name="Роза кустовая пионовидная Сильва Санни" unit="шт">10</consist>
     </offer>
     <offer id="Rc16696" available="true">
       <categoryId>4</categoryId>
@@ -294,6 +399,23 @@
       <param name="Артикул">Rc15625</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
+    <offer id="Rc16357" available="true">
+      <categoryId>37</categoryId>
+      <name>Астранция Биллион Стар 70 см Арт. Rc16357</name>
+      <price>49</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YTxnmmoFjTEOPPz96Zsr6CNLpEbeLAXh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V4BoK7zVB-D2mqxqVSV3ISB0sIJLGQSw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CG9G1ZIMwlFRqwxRkP_4T4tfME8u7a3R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-OvzbN_fWXOSw0H0GpDHdpd1MjbbwrlT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dj-K8UEEfNtALoH3tXH0Iw_lpxvB0fX3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rc16357</param>
+      <consist name="Астранция Биллион Стар" unit="шт">10</consist>
+    </offer>
     <offer id="Rc13476" available="true">
       <categoryId>37</categoryId>
       <name>Вероника Клеар Джун 60 см Арт. Rc13476</name>
@@ -412,6 +534,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Rc5704</param>
       <consist name="Скиммия Франк Вайт" unit="шт">1</consist>
+    </offer>
+    <offer id="Rc02775" available="true">
+      <categoryId>39</categoryId>
+      <name>Лагурус Голубой 50 см Арт. Rc02775</name>
+      <price>238</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1p2jfRxPsbCvRbr7r6W0yRyUE4bWy00O7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FNcj7GypYIBA_hpxMZZEJ1feXYvJFdjQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K8iJw0j7YzPUaqjBXf0u4jLFAv-FCSRB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MRilaL4eR_fFXtevfyOr5exkWa7SXzhc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r0sEYHnm_CuwdDLTsS0D-8nPu3yHchkF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Rc02775</param>
+      <consist name="Лагурус Голубой" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
