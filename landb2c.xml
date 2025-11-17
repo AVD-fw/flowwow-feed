@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-17T08:44:35.791+03:00">
+<yml_catalog date="2025-11-17T08:51:25.391+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -357,6 +357,21 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">La1477c</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
+    </offer>
+    <offer id="La1047c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Балерина 70 см Арт. La1047c</name>
+      <categoryId>450</categoryId>
+      <price>1025</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/13WYcnH6eBCjJFFkbdHZNbfNfzqJjsheU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Gnuved5TJtlibatFcEGMO7htJ7BEl_8y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_HWRdiM9KueubC5DRR1k7Eoj7lU3d_lw</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">La1047c</param>
+      <consist name="Хризантема кустовая Балерина" unit="шт">5</consist>
     </offer>
     <offer id="La1447c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Балтика Пинк 70 см Арт. La1447c</name>
