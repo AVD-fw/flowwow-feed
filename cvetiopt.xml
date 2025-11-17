@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-17T07:46:12.319+03:00">
+<yml_catalog date="2025-11-17T07:55:22.663+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,107 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fc11987" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Джульетта 70 см Арт. Fc11987</name>
+      <price>209</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PHOAHJ7BYmHm_WxcIu956CN0sAemWskJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NZZWsTNVxd9aGdMLE5l6rNvhgyHJ3Fum</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FjyffrXKLUT4vI6Pt_QxEnJUk-EUW2p0</picture>
+      <picture>https://lh3.googleusercontent.com/d/16g9vPT8UzhWOkfoJVstAhzrmneGof_8u</picture>
+      <picture>https://lh3.googleusercontent.com/d/18VXkdqFKsQ3SlLv4QgPbBmQ4hrJb5oqk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Qmanq</param>
+      <param name="Артикул">Fc11987</param>
+      <consist name="Роза кустовая пионовидная Джульетта" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc19286" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Ферст Дейт 60 см Арт. Fc19286</name>
+      <price>209</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XkDTQYYIl8E1Nq80-aha-lQPHIcRJaCP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BSVs8ooGyAQT5-R4M0wLqeBLZZKSr6B-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc19286</param>
+      <consist name="Роза кустовая пионовидная Ферст Дейт" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc17597" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Fc17597</name>
+      <price>176</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YsKnSrKotXVe6RMTEdx8Vgop2jskv2ch</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gNjXmHbh-Cqmou6ZT9ChVKIphkhct6yA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A3ael2TEY6XL-1AKYG_D0VOo-IOebxvL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QQ1a319Qj-WEossHzKBmw2w2Pmy3W_L4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc17597</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc12217" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Калимба 70 см Арт. Fc12217</name>
+      <price>110</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gyRUW59lm9EJOXT5Sm4zWBJrKfNFhW8P</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S7vyAR9vzkEXZifR3KVdvB3xXGHOaP-i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UyiQf0G9rLPG6YcI2qJgYkeJ9Nim9uUX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gRVsuWIDN-UgO9vxnRpslC--Ga_gJ42B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aKDTw4k5GjM1YMzg7PbppfRI8GB8YVRs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc12217</param>
+      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc9937" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Руби Стар 70 см Арт. Fc9937</name>
+      <price>116</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N1qJBlbBxAz5gatNy_d8aPgS0bHnu1yW</picture>
+      <picture>https://lh3.googleusercontent.com/d/18SrfnnF0SbHRK7ShNELGkYanAJqciOTB</picture>
+      <picture>https://lh3.googleusercontent.com/d/16xfXzzj5ZLANfIyn5FdWfuwcfyIJ248r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FI1Hni-VtXc4oqgb_t-QJlPm5deqMnfL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_8U2uOc5hhXab76JqAMbV1NJtoFOesn0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">SenZaro</param>
+      <param name="Артикул">Fc9937</param>
+      <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc18677" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Селебрейт 70 см Арт. Fc18677</name>
+      <price>116</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PwsvU6dO9sx6QN5Gb52-6aD9qQNsPpEo</picture>
+      <picture>https://lh3.googleusercontent.com/d/18s-adrMazO0APSTCbfSEitXblVPfGZxQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VfEFzzLvECmLqrS2p1oLcVyczsbvopiE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E5E-pJXyHgkvxChCVtuF4A5mVfgtGviw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc18677</param>
+      <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
     <offer id="Fc04216" available="true">
       <categoryId>37</categoryId>
       <name>Агапантус Белый 60 см Арт. Fc04216</name>
@@ -52,6 +153,114 @@
       <param name="Производитель">Eyfori</param>
       <param name="Артикул">Fc6386</param>
       <consist name="Агапантус Синий" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc12605" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Опорто 50 см Арт. Fc12605</name>
+      <price>50</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Bz7I-244ru3fX5JNfTE_hjt-o3KfRFtl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XO1lsWaVmdrTfrdlqbco7OEr2QX4AjSO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zRHZKm44JchfnaCJ5Eb7e4iRH9T8duaQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZB7zJ4KtD2QDNNEHOUrMVLXnB6wQbrT1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DZEzyTfOVdNwVbJyDWvisVaurt11jo33</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc12605</param>
+      <consist name="Гвоздика кустовая Опорто" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc11017" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Каори 70 см Арт. Fc11017</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1D5JlFNOTDM-2bEPZ16u7sTrvB2nJQ-Y2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HTIaLYpkk1D2pyeIBq9Jb58RQbKt0q5u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w_dtI5Rlwk9CLziAZoHWQP7GVp3yPVJ2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-dRsGWtUHDk5I_H02EPqGyP8bxQJDm7B</picture>
+      <picture>https://lh3.googleusercontent.com/d/10N1OBK_m7ctNqGgItGiFvz4_TKDDDYpN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc11017</param>
+      <consist name="Гвоздика одноголовая Каори" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc03167" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Мунаква 70 см Арт. Fc03167</name>
+      <price>59</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mAqvTgpZJiPUM71ou6MWskog0f_3-sA3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1INwYetR_95V5onkmvYe877JNH3jutHXV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qELRH52CpeSqOgepkqRqeWmjwfFM0oxc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hHBCOZfpJrZ1jIXc1oOg1RdQLbiLUfkQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/13zaLRWQnmm-MB1EWd6suM7_OPjnMP5-d</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Florigene Flowers</param>
+      <param name="Артикул">Fc03167</param>
+      <consist name="Гвоздика одноголовая Мунаква" unit="шт">20</consist>
+    </offer>
+    <offer id="Fc01277" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Пастел Кремия 70 см Арт. Fc01277</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-2TQwkeDcguZwPI6vlMYmypZxbj3-QAu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WpuIcvC5ZGGsQ6SxyZH5DUquNvZqnCDL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vU8GMB1bvrIRK8OdE4aBUqyIr3oZPdmo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lSjZmThKcFLhOXAf4tf5ZBl0W6AEt5od</picture>
+      <picture>https://lh3.googleusercontent.com/d/16QuU_Z4D0UDATADH4ikZ1-w9EMDWmY42</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc01277</param>
+      <consist name="Гвоздика одноголовая Пастел Кремия" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc18067" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Сорбет 70 см Арт. Fc18067</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AGdsrJME7U12_I8EKKFRbCw8IQ-MD3iR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w9FO65afXdH1mOExVZbZe5a0nf-4I4QO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dUrQMUh_KrciOQkcbbOfnlPun296QNz0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vm2dXD4nOxPmtz0gU7hTL2eeK_8woR1Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u_xVNODn7E_D0pSml7OmUjVOeyJIuZDt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc18067</param>
+      <consist name="Гвоздика одноголовая Сорбет" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc9727" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Харизма 70 см Арт. Fc9727</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RUHqdFszkheuGlqizVUYFBRuvW7LOV_l</picture>
+      <picture>https://lh3.googleusercontent.com/d/183D-dnrxHAFzSzYafT2TQ0_zlF6xz3Ug</picture>
+      <picture>https://lh3.googleusercontent.com/d/14wX0zAOnZsHnhUsTcTZtrSerZvBd0Rq-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wtbwl1S_SV3Q-3_u_1cXDH1l_K2j1I2F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1REvkcasZURuUc095WZIsS745L2xqoupX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc9727</param>
+      <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
     </offer>
     <offer id="Fc8595" available="true">
       <categoryId>37</categoryId>
@@ -122,6 +331,56 @@
       <param name="Артикул">Fc14854</param>
       <consist name="Гербера Пастини Эмилия" unit="шт">15</consist>
     </offer>
+    <offer id="Fc01457" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Чемпион Лавандер 70 см Арт. Fc01457</name>
+      <price>110</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cupR-bgKtMLk_vEIxKlDqLCN608OTHqt</picture>
+      <picture>https://lh3.googleusercontent.com/d/13Cem9cbFVrHCBvKMByL4qGl2MDvO1pfc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qoG61jJDAEa9jGN6H5Ocj0dPXMvIvWsG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qs4IAunST8xL9azxiJCJ2xJdvVystS7F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XexSYSutmYlLDfOtlG2h6ofISCVHvQl_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fc01457</param>
+      <consist name="Кампанула Чемпион Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc16936" available="true">
+      <categoryId>37</categoryId>
+      <name>Подсолнух 60 см Арт. Fc16936</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RXaVnEdostXNsXSTdov5DvfNbcuEGYq0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GaY-bEsY5CK6w4hEROL4JPp1QDwSOBWo</picture>
+      <picture>https://lh3.googleusercontent.com/d/12ounO0TR8WfHMaisCzRdSR0ggAo6ZRfz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NRfgiaCnoze7KyX4XgxaGWwxK6Tk0f3U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OYzwCir6oI0uD_GHfNKeAc0KhmYTW9r2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Yonash</param>
+      <param name="Артикул">Fc16936</param>
+      <consist name="Подсолнух" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc13784" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Розовый 40 см Арт. Fc13784</name>
+      <price>77</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1niStY5nmHJRzYcFrfYVD0BuBNvFjOb-v</picture>
+      <picture>https://lh3.googleusercontent.com/d/10UgjinkMBKehoDQhUKw0XmxJZ4HroV4V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc13784</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
     <offer id="Fc14314" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Антарктика 40 см Арт. Fc14314</name>
@@ -155,6 +414,55 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Fc04784</param>
       <consist name="Тюльпан Колумбус" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc17414" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Реплей 40 см Арт. Fc17414</name>
+      <price>72</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10mPgeE8ZZRQ9ood5p8k4LLoVloUg6H4T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Vndxb3g-Gqz7pgd_tMfLJ8PfwAExBnqd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rGBbhtBFlw63bH2s6jgTNFoVTjKuz4Od</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dsqwx6oB2SRv_hvq8MEQPjxQ6i9PTxEF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc17414</param>
+      <consist name="Тюльпан Реплей" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc15644" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Тресор 40 см Арт. Fc15644</name>
+      <price>61</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YzfsA8Ddvaxtj6lbU5ZyR0QFozm6J77c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N-uFjWAaRH7Y0XiYWzMh5VSbwirmDjru</picture>
+      <picture>https://lh3.googleusercontent.com/d/18mlkEvzYROiGljYNai9qWGmkgDLC4Z-h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qDz-jWd2700NcbaBGgeGSV33IbCErQGt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qDIv2Wl7nT6SwCK4KFI2l-0yRo-_RhJd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc15644</param>
+      <consist name="Тюльпан Тресор" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc18724" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Авангард 40 см Арт. Fc18724</name>
+      <price>77</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gr8gYNQ0qXEtlI59V_PzAUt4wgj62grP</picture>
+      <picture>https://lh3.googleusercontent.com/d/15HYmbIiIHtLeKo2x2WXapPOaLvXsX19p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EOt7CJRKC69MC8oBwlO01zkEeCFiSN4u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eQq9rtarO7VxNL3yInuLBJEkecmLP10f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc18724</param>
+      <consist name="Тюльпан Пионовидный Авангард" unit="шт">50</consist>
     </offer>
     <offer id="Fc13736" available="true">
       <categoryId>37</categoryId>
@@ -192,6 +500,24 @@
       <param name="Артикул">Fc9476</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
+    <offer id="Fc04076" available="true">
+      <categoryId>38</categoryId>
+      <name>Картамус Занзибар 60 см Арт. Fc04076</name>
+      <price>99</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AIh8aFeERCiHx-uS2cv2Wh0H-9J_o6Xp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M2Nsms-7eRJRJ5aOkwlqY0NgbEPMlTEf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cySauYTjFD9QH1OIHKiJQ2p_kBmV1Pai</picture>
+      <picture>https://lh3.googleusercontent.com/d/11_YISEykmXtMpDD0oJ5K8mSRrZDTuIeW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oKMbjsNyjdtPRa08S5tlWrDg0p8mM-zc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Kwekerij</param>
+      <param name="Артикул">Fc04076</param>
+      <consist name="Картамус Занзибар" unit="шт">25</consist>
+    </offer>
     <offer id="Fc04115" available="true">
       <categoryId>38</categoryId>
       <name>Статица Белый 50 см Арт. Fc04115</name>
@@ -207,6 +533,23 @@
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc04115</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc04145" available="true">
+      <categoryId>38</categoryId>
+      <name>Статица Фиолетовый 50 см Арт. Fc04145</name>
+      <price>132</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YCI1WqEFOzAm8V-2RfcE4h-ExvFTJLiT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JENbgE77firMt0wAcvyYwmOVap-vCpuY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B95ABgaw1WGeQ6hKrBq_GkNtmO9PvCAs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mLE5RYJPLYvV77jfGv8I4fe3YUbwasy8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UL8BGLV675s3q_Jc26tSwm4tsU5_qGdr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04145</param>
       <consist name="Статица" unit="шт">25</consist>
     </offer>
     </offers>
