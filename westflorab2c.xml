@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-18T14:27:06.135+03:00">
+<yml_catalog date="2025-11-18T14:47:06.237+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -327,6 +327,21 @@
       <param name="Производитель">Red Lands</param>
       <param name="Артикул">Va0516c</param>
       <consist name="Роза кустовая пионовидная Сенди Кост" unit="шт">10</consist>
+    </offer>
+    <offer id="Va0857c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Бигуди 70 см Арт. Va0857c</name>
+      <categoryId>450</categoryId>
+      <price>2255</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1YADvreN7z55H8TOMtxtt3nX3sTpLPwA5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DlVx7b5xo6SjenUwGlZiAK0tyjIbL4MN</picture>
+      <picture>https://lh3.googleusercontent.com/d/18knruA1XGrw_5sgKiHAxJlbxUapdN7UX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va0857c</param>
+      <consist name="Хризантема одноголовая Бигуди" unit="шт">10</consist>
     </offer>
     <offer id="Va0337c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Бразилиана 70 см Арт. Va0337c</name>
