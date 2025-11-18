@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-18T10:24:36.354+03:00">
+<yml_catalog date="2025-11-18T10:31:24.260+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -188,7 +188,7 @@
       <name>Пачка (10 шт.) Роза кустовая Желтый 70 см Арт. La2057c</name>
       <categoryId>450</categoryId>
       <price>2025</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1Wiq3r90VFtnyavatsJjghlQUVIsNBPql</picture>
       <picture>https://lh3.googleusercontent.com/d/1wLS2jp3LmgA31aZ35U3rcuUQ4_Vvj51R</picture>
       <picture>https://lh3.googleusercontent.com/d/1QC2cIp__t1IGATvPdT_lt_CuJ_rKqgtA</picture>
@@ -267,7 +267,7 @@
       <name>Пачка (10 шт.) Роза кустовая пионовидная Марвеллоу Бабблс 40 см Арт. La0894c</name>
       <categoryId>450</categoryId>
       <price>1145</price>
-      <qty>1</qty>
+      <qty>5</qty>
       <picture>https://lh3.googleusercontent.com/d/1VLac44S5k3s5raBWmw5HMBjJkJA8KB9e</picture>
       <picture>https://lh3.googleusercontent.com/d/1e5O6QtXzs1aKl37aWDwaFuGTiEzWZ5H2</picture>
       <picture>https://lh3.googleusercontent.com/d/1NJa9xT2W4kwkNz9SiQNuwvhGgzKPcmEt</picture>
@@ -343,11 +343,27 @@
       <param name="Артикул">La1087c</param>
       <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
     </offer>
+    <offer id="La1067c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Фуего 70 см Арт. La1067c</name>
+      <categoryId>450</categoryId>
+      <price>3035</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/16j3nBm_airTeslqshLoCDPN4aKgQky7C</picture>
+      <picture>https://lh3.googleusercontent.com/d/19iD7-b9MBvGcxJObnJ-CTbCd8Z5cYP1r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BhlmHoDBqnXdoKO6tA3ogw-X_9sAd--Y</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">La1067c</param>
+      <consist name="Хризантема одноголовая Фуего" unit="шт">10</consist>
+    </offer>
     <offer id="La0495c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Розовый 50 см Арт. La0495c</name>
       <categoryId>450</categoryId>
       <price>1145</price>
-      <qty>1</qty>
+      <qty>10</qty>
       <picture>https://lh3.googleusercontent.com/d/1uW2YEKTpTy11fshtGeiZpe76di6h6k-q</picture>
       <picture>https://lh3.googleusercontent.com/d/1IcQ7Adwi6nVkn21Pwnglj8VH2c64bSxb</picture>
       <picture>https://lh3.googleusercontent.com/d/1AlyBxJjtrTFxnW0B7Uh11_GzmHwjjPDT</picture>
@@ -390,6 +406,22 @@
       <param name="Артикул">La1447c</param>
       <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="La1557c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Бейби 70 см Арт. La1557c</name>
+      <categoryId>450</categoryId>
+      <price>1145</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1o23FYwlwiSVKCMLVmv-UkGx3hYNfR724</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TaFbWaqRuQtEXou-vfINzdzQ1G8PJFs6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kDQ2HC6xmQshOlKaZL5uPfsqbkKGUS3w</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">La1557c</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
     <offer id="La1097c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Ламира 70 см Арт. La1097c</name>
       <categoryId>450</categoryId>
@@ -425,7 +457,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Мексикано 70 см Арт. La0997c</name>
       <categoryId>450</categoryId>
       <price>1145</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <picture>https://lh3.googleusercontent.com/d/1ZOQf_nYa7v7lFAHOzLjIYjosl-qbNGgl</picture>
       <picture>https://lh3.googleusercontent.com/d/16U0Wbe-QGteOGLJXA4w9L55tgmNU1l6J</picture>
       <picture>https://lh3.googleusercontent.com/d/19ZOBaLmGpMZ0R7qPIMgAsMmi1d3tSjIg</picture>
@@ -452,11 +484,26 @@
       <param name="Артикул">La1697c</param>
       <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="La1727c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Реск 70 см Арт. La1727c</name>
+      <categoryId>450</categoryId>
+      <price>880</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/10hJpBPn8CmQ4WoD2kSAAqi6B-Er7ac5j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jayV1t041DSnR1KFhkGQ37OnTtmMTTVc</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">CornelisJan Flowers</param>
+      <param name="Артикул">La1727c</param>
+      <consist name="Хризантема кустовая Реск" unit="шт">5</consist>
+    </offer>
     <offer id="La1017c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Селебрейт 70 см Арт. La1017c</name>
       <categoryId>450</categoryId>
       <price>1145</price>
-      <qty>12</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1tn8FhKprSs0ylxnVmzUcUS4WZIBoCrok</picture>
       <picture>https://lh3.googleusercontent.com/d/14XSfmYw92vleSQ31CicklWFGOrtPZRAZ</picture>
       <picture>https://lh3.googleusercontent.com/d/13H6Gk-UDIXRQgGBLqB3rK7t_EOZze-V6</picture>
@@ -483,6 +530,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">La1437c</param>
       <consist name="Хризантема кустовая Фабьен" unit="шт">5</consist>
+    </offer>
+    <offer id="La0487c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Хайдар 70 см Арт. La0487c</name>
+      <categoryId>450</categoryId>
+      <price>1145</price>
+      <qty>10</qty>
+      <picture>https://lh3.googleusercontent.com/d/10v6JeErkaZ8dQFbRqXKFi-AApS5Ag-Da</picture>
+      <picture>https://lh3.googleusercontent.com/d/11IhhDbo1ZwLJqFeoT0dCT_MFPBMsD8a8</picture>
+      <picture>https://lh3.googleusercontent.com/d/15M1s-bnw3h3Du4jQ-nUasePLEfjXJQFe</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">La0487c</param>
+      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
     </offer>
     <offer id="La1427c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Чик Крем 70 см Арт. La1427c</name>
