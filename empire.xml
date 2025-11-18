@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-18T07:13:44.324+03:00">
+<yml_catalog date="2025-11-18T07:19:37.925+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ec2167" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Антонов 70 см Арт. Ec2167</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/141Z3oLa8gF3ofiQ_6Kw_4VHzLBStgc3F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VKcirTb1KNCZ5FTIjoLhYRtoAmtlQ3ce</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UfH-hgiWAvOwDgdst9bPzn4z5Z5LknB6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uHxRaQqeZgaDRyuKTOxueoo7tWNbkSQQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W0Me4e8slUBp2Aoi5s3TEXL-dLKjwOv_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ec2167</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+    </offer>
     <offer id="Ec2447" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. Ec2447</name>
@@ -71,16 +89,35 @@
       <param name="Артикул">Ec2866</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Ec3777" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Рианна 70 см Арт. Ec3777</name>
+      <price>83</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1U9D3a8ncWeQJwRmJhM6O-kLO3ipmdwfw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uA9e7JVlHh0xwU7QYE4jBqDfMu8Y_988</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qtRWUMq3rpRX27UevIEqcffRfoieKS9K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YbWMe6WJjbwaIRmzWmDNiaNMnXnQv7UU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h5NJQ4txXz4H8HgxeDDpuIVWXJFTXXuO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Ec3777</param>
+      <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
+    </offer>
     <offer id="Ec4257" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 70 см Арт. Ec4257</name>
       <price>83</price>
       <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1FMJWljqWRwSN7J-SrcP-SUTspyhvO_yI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ToZ6__X8-7aPs22kiAUOi9bxqno1F67g</picture>
       <picture>https://lh3.googleusercontent.com/d/1aJ3fZbCzkol3bPoneEj6Xe8DrizX1-2z</picture>
       <picture>https://lh3.googleusercontent.com/d/142ESJSi7cW6AVAP-jkOB3XFZ6fFdEig5</picture>
       <picture>https://lh3.googleusercontent.com/d/1RhmI4IXNa1CJoVYXtDSAoC79tLI-Xn0Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FMJWljqWRwSN7J-SrcP-SUTspyhvO_yI</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -88,23 +125,59 @@
       <param name="Артикул">Ec4257</param>
       <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
     </offer>
-    <offer id="Ec2496" available="true">
+    <offer id="Ec3797" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Хайдар 70 см Арт. Ec3797</name>
+      <price>83</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1x38u7CozlJ9iLhNmUeyXYJPx64Pup6Ee</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rJ-zZ6YvlQDbIX6pU_E3Z2sC1X855NEu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y-GqkJfWpJhf18nHbRHanuqJAKSV9SFI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pP04YWC6GDo4cM9Q99JTM54jbhLmGDdZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KSrcV7fDQwaHkinmzPAgTkyvOYVngcuA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ec3797</param>
+      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec4275" available="true">
       <categoryId>37</categoryId>
-      <name>Эустома Корелли Лавандер 60 см Арт. Ec2496</name>
+      <name>Лимониум Розовый 50 см Арт. Ec4275</name>
+      <price>117</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W3BICfjontLuhsRaB39uVl2NQq1e9elq</picture>
+      <picture>https://lh3.googleusercontent.com/d/18JHJqR3HIeLjSqxhgdypa26nmWNjPHAv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BYVbLwHpbwhXk2rqsWslLl_PNNvbAgmD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oGyFEzq7hmtGnesVrGRZSR8wZd6oNKeX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LvniALU7BkAwM5-SAXtEJRpJME0_K-_n</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Over Time</param>
+      <param name="Артикул">Ec4275</param>
+      <consist name="Лимониум Розовый" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec2476" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Пинк 60 см Арт. Ec2476</name>
       <price>135</price>
-      <qty>150</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1N7SPmuZ_Oc51QLRDgVP19tTjtbnbmcsX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1w0z_X_tb6nvahaWGrtbwowd_g9utDnY0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TUAQHVSh0rI5Z5gFFOcgJcEtW69J1kZ6</picture>
-      <picture>https://lh3.googleusercontent.com/d/1s_FBWGT6jA2ybNDNNhTOTDLOkpYxQjh1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bLbeSeAjiqyw8toUBraf-ROFh1sqebPv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ct0hB9_c1QHHewo8KBr0fcPm5-cff2gS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mQI5cWqXEUJQIz22wAdDmBshgrRC_5YE</picture>
+      <picture>https://lh3.googleusercontent.com/d/18JOjBAbZqm0LKJAHaewUK0oOgVTakxqm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RCuWs-4Yczf4HyXGx_567ilX4wvG5JFm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nILwrSIMH_aB1_mcWn3toqXP3zekOz2u</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">Ec2496</param>
-      <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
+      <param name="Артикул">Ec2476</param>
+      <consist name="Эустома Росита Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
