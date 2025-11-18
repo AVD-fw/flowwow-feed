@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-18T09:27:00.869+03:00">
+<yml_catalog date="2025-11-18T09:37:01.171+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -671,6 +671,21 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Va0265c</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1214c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Розовый 40 см Арт. Va1214c</name>
+      <categoryId>450</categoryId>
+      <price>4600</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/17w_WmkceF6qggc6bkncYakcTVu5JcHcu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xhdfjJbgPXpabZXSsA8cd2-KdBgnYVhR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gf4G5g3uGp_tIvo3sP6sQbwLfE7vbiu-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va1214c</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
