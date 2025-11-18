@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-18T07:09:34.496+03:00">
+<yml_catalog date="2025-11-18T07:13:44.324+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,77 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ec2447" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум 70 см Арт. Ec2447</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zWOFFn6DpLa2wUU9n1fmg7vOb9erX4dQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Cmycva5t5n1M4b3uTOr6N3F7vBKrO9-V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dCk4Q4sFyVFY40kdoTHGmFK4H6kPtEBX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cBQOwkqZ0RPvR02CMVQSCwbvcbzrh0uo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PvVm-DEEU69X9akeeKzSt96eNo6YcD7V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ec2447</param>
+      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec4267" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Ec4267</name>
+      <price>120</price>
+      <qty>40</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1btR3yT0mpiqY_Dk6ThNImYkT6fR9lH2v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-Mn_z7U7hvw5sosUZwYTVVqeG-7C5Z9H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vgMYITPlhZUzfK7CDbn5W_w6aNn1b0oB</picture>
+      <picture>https://lh3.googleusercontent.com/d/11N97YHrdc8sRNdtocnNIdotnmHtsqxkd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yxdSSVGmlWf7XBJYHN2P-zCNS9yhbSDV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ec4267</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec2866" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ec2866</name>
+      <price>120</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pgY0ki-6WHiS5t5KVXFIqBMP7g0KxKVY</picture>
+      <picture>https://lh3.googleusercontent.com/d/13GPsk6zYPnoolee1p5dszOcfalJ83ZXU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TpRzwtk3ZQkZDAZhDux8SFXic9blvKir</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vVga3NP1BCDjCYACdp4d028spvTSitMh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A6p2de-zdBl5Pzb-MKccVOVRHKeFlKeo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ec2866</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec4257" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Руби Стар 70 см Арт. Ec4257</name>
+      <price>83</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FMJWljqWRwSN7J-SrcP-SUTspyhvO_yI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aJ3fZbCzkol3bPoneEj6Xe8DrizX1-2z</picture>
+      <picture>https://lh3.googleusercontent.com/d/142ESJSi7cW6AVAP-jkOB3XFZ6fFdEig5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RhmI4IXNa1CJoVYXtDSAoC79tLI-Xn0Y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ec4257</param>
+      <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
+    </offer>
     <offer id="Ec2496" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Корелли Лавандер 60 см Арт. Ec2496</name>
