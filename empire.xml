@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-20T10:10:23.841+03:00">
+<yml_catalog date="2025-11-20T10:13:56.715+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -336,17 +336,70 @@
       <price>67</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1X7-4mzu1X5zPQkBXPqT721w9Re5pKQ25</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dCvTkQdhLPIs9WUr7JoMFYPUFy-DyiUv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VLwf4fskk8svVCr0krJIxGJG2CE0nMV2</picture>
       <picture>https://lh3.googleusercontent.com/d/1abV2u0muHYpoI_GUSAfqSiE8jwQi65Ca</picture>
       <picture>https://lh3.googleusercontent.com/d/1iMpWIz4SqG7PNzk_tdL5cR3bgI8EDHVg</picture>
       <picture>https://lh3.googleusercontent.com/d/1RJ4zfUORqwQVDsln3lEtMunlr2Je8e2G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X7-4mzu1X5zPQkBXPqT721w9Re5pKQ25</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Matricaria by W. Grootscholten</param>
       <param name="Артикул">Ec00306</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec3416" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Вайт 60 см Арт. Ec3416</name>
+      <price>135</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1saqd8d2LVPikJsI_-Ehbl5NtK_VIJxqq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l6GSvAg-UDIR3xkSAuRsFQuthtLinw2Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/11o-ThhuicSRMNtVrfF_ayDHqysOvnb6n</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LQWmXhbk9LLLfSfjZTRYZl2yZWTVqHda</picture>
+      <picture>https://lh3.googleusercontent.com/d/16ViIDh9QbHkEfRLvVFzxKzglDJUZ0Q-H</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ec3416</param>
+      <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec3526" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пинк 60 см Арт. Ec3526</name>
+      <price>135</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1f5-X-_w0plroCILGzku8ksjvqVp0iIGy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-91ti2XcpuEkwPcbQimHSAfUtGdqunSK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OQShGEHse-sp6n_K2XnROOLdTC1gx23T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CH14n-AZvQYx_8s02C2I7rOSitA64NZi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PBd4RvvcV4ZJ--bQUmUMe9G-DPctbEhx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ec3526</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec4587" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Пинк 70 см Арт. Ec4587</name>
+      <price>135</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YbV4qZGxir4fPqxBIZxBsv-ueCav4YuC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1auwxBDhrsuicrzL4e4v0X9ANy0KER10h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CRRAA9wCf4jArcW-eYe9NEDpmyDT4ENo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T1OIGLaNtQOkKSNeZ_zfrq6saqqILBeM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ec4587</param>
+      <consist name="Эустома Росита Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
