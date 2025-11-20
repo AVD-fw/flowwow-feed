@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-20T08:49:40.954+03:00">
+<yml_catalog date="2025-11-20T08:53:55.027+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -245,6 +245,39 @@
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ec3376</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec4496" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Бамбу 60 см Арт. Ec4496</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NwBVheLwbasLDyuKytMNatpt_9ce_nPA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rQcx5nPIdLTSL7fvYFJvffzAwxiWOM1O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SD-w4MJp4TmSjJzs8Nq2hfNBwwh27VKa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Ec4496</param>
+      <consist name="Гиперикум Коко Бамбу" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec4486" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Диабло 60 см Арт. Ec4486</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1n-t0ivEL_LEsfJCMsvSK9PPtgsuNi-Y_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gPT7UVR44SxljKYECBQESW5JeH55UB7P</picture>
+      <picture>https://lh3.googleusercontent.com/d/1arktRMvo9sAdRdO16ochCKUtxydEwi-Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qh_DYNcaF0WTklDgJ-lsYT73SCWIREk7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Ec4486</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
     </offer>
     <offer id="Ec3646" available="true">
       <categoryId>37</categoryId>
