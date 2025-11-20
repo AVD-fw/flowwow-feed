@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-20T08:39:42.071+03:00">
+<yml_catalog date="2025-11-20T08:43:52.012+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -34,6 +34,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ec2167</param>
       <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+    </offer>
+    <offer id="Ec2177" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум 70 см Арт. Ec2177</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/137bzMbJNn_IyibLvp1T1hn4Krs8J-_w5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1et-E7P8tawKI0x858EyitY7csEbcU_fA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T-dhBcSiodGDwt_-6NMerjs0OcKIPCVh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dhkr9gy6zfALJhwqgPDo5r_0cYt5443J</picture>
+      <picture>https://lh3.googleusercontent.com/d/10yuY0i92KY9fVVxdj92KEKzvIIrBGSKp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ec2177</param>
+      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
     </offer>
     <offer id="Ec4617" available="true">
       <categoryId>6</categoryId>
@@ -105,6 +123,20 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ec2866</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec00936" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Кеннеди 60 см Арт. Ec00936</name>
+      <price>83</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13fdLM8x_Tw_ZUQ0EhRy3_SK-F-TydY9u</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada flowers</param>
+      <param name="Артикул">Ec00936</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
     <offer id="Ec2807" available="true">
       <categoryId>6</categoryId>
