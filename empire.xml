@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-20T05:59:50.494+03:00">
+<yml_catalog date="2025-11-20T07:33:45.068+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. Ec2167</name>
       <price>145</price>
-      <qty>80</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/141Z3oLa8gF3ofiQ_6Kw_4VHzLBStgc3F</picture>
       <picture>https://lh3.googleusercontent.com/d/1VKcirTb1KNCZ5FTIjoLhYRtoAmtlQ3ce</picture>
@@ -34,78 +34,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ec2167</param>
       <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
-    </offer>
-    <offer id="Ec4267" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Алтай 70 см Арт. Ec4267</name>
-      <price>120</price>
-      <qty>25</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1btR3yT0mpiqY_Dk6ThNImYkT6fR9lH2v</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-Mn_z7U7hvw5sosUZwYTVVqeG-7C5Z9H</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vgMYITPlhZUzfK7CDbn5W_w6aNn1b0oB</picture>
-      <picture>https://lh3.googleusercontent.com/d/11N97YHrdc8sRNdtocnNIdotnmHtsqxkd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yxdSSVGmlWf7XBJYHN2P-zCNS9yhbSDV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ec4267</param>
-      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
-    </offer>
-    <offer id="Ec2866" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ec2866</name>
-      <price>120</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1pgY0ki-6WHiS5t5KVXFIqBMP7g0KxKVY</picture>
-      <picture>https://lh3.googleusercontent.com/d/13GPsk6zYPnoolee1p5dszOcfalJ83ZXU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TpRzwtk3ZQkZDAZhDux8SFXic9blvKir</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vVga3NP1BCDjCYACdp4d028spvTSitMh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1A6p2de-zdBl5Pzb-MKccVOVRHKeFlKeo</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ec2866</param>
-      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
-    </offer>
-    <offer id="Ec4257" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Руби Стар 70 см Арт. Ec4257</name>
-      <price>83</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ToZ6__X8-7aPs22kiAUOi9bxqno1F67g</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aJ3fZbCzkol3bPoneEj6Xe8DrizX1-2z</picture>
-      <picture>https://lh3.googleusercontent.com/d/142ESJSi7cW6AVAP-jkOB3XFZ6fFdEig5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RhmI4IXNa1CJoVYXtDSAoC79tLI-Xn0Y</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FMJWljqWRwSN7J-SrcP-SUTspyhvO_yI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ec4257</param>
-      <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
-    </offer>
-    <offer id="Ec3797" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Хайдар 70 см Арт. Ec3797</name>
-      <price>83</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1x38u7CozlJ9iLhNmUeyXYJPx64Pup6Ee</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rJ-zZ6YvlQDbIX6pU_E3Z2sC1X855NEu</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Y-GqkJfWpJhf18nHbRHanuqJAKSV9SFI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pP04YWC6GDo4cM9Q99JTM54jbhLmGDdZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KSrcV7fDQwaHkinmzPAgTkyvOYVngcuA</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ec3797</param>
-      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
