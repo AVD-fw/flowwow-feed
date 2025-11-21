@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-21T11:49:47.211+03:00">
+<yml_catalog date="2025-11-21T11:53:51.365+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -93,7 +93,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая 70 см Арт. Ec4697</name>
       <price>150</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16lpnBV6cIhqVrp_7n3B0Q-30MEvqq5zP</picture>
       <picture>https://lh3.googleusercontent.com/d/10irUfWHmu1dmr_R-CgJxiyOxUDvki2Gm</picture>
@@ -216,7 +216,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. Ec4687</name>
       <price>105</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ogC3bmLg4d7PV_QLTCPODI1e9aZDsZ82</picture>
       <picture>https://lh3.googleusercontent.com/d/1ICRa2xf9LMszova2TgUv1kLOHrXiqqTM</picture>
@@ -285,7 +285,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Пеп Талк 50 см Арт. Ec00985</name>
       <price>70</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jzxgGpNEoDFcmm_LxlCWjP_PLsi6Q7HZ</picture>
       <picture>https://lh3.googleusercontent.com/d/19PVLeRD-vHbkRijeQX9I5EoaynCGCpTM</picture>
@@ -374,7 +374,7 @@
       <categoryId>37</categoryId>
       <name>Леукоспермум Красный 40 см Арт. Ec3694</name>
       <price>150</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1_eYmDMVgyh6vOxsyW4rnmebfLlHA6hzB</picture>
       <picture>https://lh3.googleusercontent.com/d/1mU08icfoF__4Qm_NEH7CoHblSnOY8Cw5</picture>
@@ -423,40 +423,6 @@
       <param name="Артикул">Ec4275</param>
       <consist name="Лимониум Розовый" unit="шт">25</consist>
     </offer>
-    <offer id="Ec01045" available="true">
-      <categoryId>37</categoryId>
-      <name>Оксипеталум Голубой 50 см Арт. Ec01045</name>
-      <price>100</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ZZ1Zvd8ckdg2oqgxlcpY1fCFiH6UBrtj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PmuAlMkonDEB6oy7BvkrUAPZAruW_8bT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wt8DTuO5WG4OB0imDnSOWmj46zVnt_5P</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Uvbm_RhmKsDg_ol693rYVuOVnH1szF2H</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aep0ds70XWW0gHqBPPJL8-aPr9fWOkb1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ec01045</param>
-      <consist name="Оксипеталум" unit="шт">25</consist>
-    </offer>
-    <offer id="Ec01215" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Белый 50 см Арт. Ec01215</name>
-      <price>115</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1H5ThNOJeSJp99qkUPL71U-T74QeoJNuQ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hrqTxYxJQDtiUj9WYmK46v57H0cLmMB8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1crMYpslF9yD5_PTt-AvVTW3ti2jRec8f</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vUHZiDdpAGpWq7bEOvw03eFicKMY_613</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LpSkDJkUOARf6XWXdw8gw4z_8SigyU_X</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ec01215</param>
-      <consist name="Статица" unit="шт">25</consist>
-    </offer>
     <offer id="Ec01266" available="true">
       <categoryId>37</categoryId>
       <name>Статица Фиолетовый 60 см Арт. Ec01266</name>
@@ -474,43 +440,11 @@
       <param name="Артикул">Ec01266</param>
       <consist name="Статица" unit="шт">25</consist>
     </offer>
-    <offer id="Ec1937" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Сиреневый 70 см Арт. Ec1937</name>
-      <price>115</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1JXalZu1-zvyiH4yXNr7DD60Q2G1jtDqC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mLxoX4F00_5vDDfIxag2Hp914zyD1pXT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Tonie Flowers</param>
-      <param name="Артикул">Ec1937</param>
-      <consist name="Статица" unit="шт">25</consist>
-    </offer>
-    <offer id="Ec01245" available="true">
-      <categoryId>37</categoryId>
-      <name>Фрезия Белый 50 см Арт. Ec01245</name>
-      <price>70</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1C_efQc87YdaSznIbbztxUEjHIysyaXp4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RELsG2r4qfwOryPCHfM-vDftHm80TA_b</picture>
-      <picture>https://lh3.googleusercontent.com/d/13oc9UGPJbH3OZOh-x_UEOjokQgtJHcXq</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Mw8HQayZJqXGwY6ux2sW2sL7jTB82iqr</picture>
-      <picture>https://lh3.googleusercontent.com/d/14tUWN7qqGpjADEviEhaDZ-I7FLzq5AbK</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ec01245</param>
-      <consist name="Фрезия" unit="шт">50</consist>
-    </offer>
     <offer id="Ec3416" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Вайт 60 см Арт. Ec3416</name>
       <price>140</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11_dPyQiBnr_spsZ9xvbFmgOmHVdCwJgb</picture>
       <picture>https://lh3.googleusercontent.com/d/11o-ThhuicSRMNtVrfF_ayDHqysOvnb6n</picture>
@@ -524,29 +458,11 @@
       <param name="Артикул">Ec3416</param>
       <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
     </offer>
-    <offer id="Ec3526" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Пинк 60 см Арт. Ec3526</name>
-      <price>140</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1f5-X-_w0plroCILGzku8ksjvqVp0iIGy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-91ti2XcpuEkwPcbQimHSAfUtGdqunSK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OQShGEHse-sp6n_K2XnROOLdTC1gx23T</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CH14n-AZvQYx_8s02C2I7rOSitA64NZi</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PBd4RvvcV4ZJ--bQUmUMe9G-DPctbEhx</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">Ec3526</param>
-      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
-    </offer>
     <offer id="Ec4587" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Росита Пинк 70 см Арт. Ec4587</name>
       <price>140</price>
-      <qty>40</qty>
+      <qty>130</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YbV4qZGxir4fPqxBIZxBsv-ueCav4YuC</picture>
       <picture>https://lh3.googleusercontent.com/d/1auwxBDhrsuicrzL4e4v0X9ANy0KER10h</picture>
