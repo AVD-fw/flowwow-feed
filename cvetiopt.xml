@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-21T10:36:33.739+03:00">
+<yml_catalog date="2025-11-21T10:45:38.494+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 50 см Арт. Fc01565</name>
       <price>86</price>
-      <qty>10</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JSzrH_bBFk_eQJ4rn3OajM71GVN8gKf0</picture>
       <picture>https://lh3.googleusercontent.com/d/1AFOVFAO0faCmfefBISPtIzBikzBtPYvf</picture>
@@ -88,24 +88,6 @@
       <param name="Производитель">Tessa</param>
       <param name="Артикул">Fc7887</param>
       <consist name="Роза одноголовая Пинк Мондиаль" unit="шт">25</consist>
-    </offer>
-    <offer id="Fc7837" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Плайя Бланка 70 см Арт. Fc7837</name>
-      <price>176</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19OlMQaRhQzGdndjYoGo3_FGPcSlwNoh4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OVlmxIwiZpeZcPSE9-R9eeKheircDho0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HJzVXWstJFlm46gvbWdbpPIDGMps4pJb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Vii5aT6yPVNMEOJCKF07ESWtBP9QlgvP</picture>
-      <picture>https://lh3.googleusercontent.com/d/15KA6a9ZVnj0Qo4UwvepED7dvBq--3Vxv</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Rosaprime</param>
-      <param name="Артикул">Fc7837</param>
-      <consist name="Роза одноголовая Плайя Бланка" unit="шт">25</consist>
     </offer>
     <offer id="Fc02507" available="true">
       <categoryId>1</categoryId>
@@ -1062,7 +1044,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Желтый 60 см Арт. Fc11326</name>
       <price>138</price>
-      <qty>60</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fVk2gi7VXbVGh7GMxYVxuCtklGJ_KluR</picture>
       <picture>https://lh3.googleusercontent.com/d/1viTQbi8qPtiaJQ0Twj_4iqPe_p52AVfy</picture>
@@ -2167,23 +2149,6 @@
       <param name="Артикул">Fc04546</param>
       <consist name="Паникум" unit="шт">25</consist>
     </offer>
-    <offer id="Fc04155" available="true">
-      <categoryId>38</categoryId>
-      <name>Статица Розовый 50 см Арт. Fc04155</name>
-      <price>121</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1n9h8JY5eaJJnaXovTqyhjfwkCuEUHjH5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CepNoVBjOzMm9bl45EJS0gZSLyGsP3mE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1gFonzPJTm0G3HhhBp9BJz6BXc5OZdo56</picture>
-      <picture>https://lh3.googleusercontent.com/d/1jSeWO0V0L4pA0lnlAGB-AdU95jvDJLBb</picture>
-      <picture>https://lh3.googleusercontent.com/d/148dZy5yGGeh4KIhakFan1gMR9Fn0XkJ1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Fc04155</param>
-      <consist name="Статица" unit="шт">25</consist>
-    </offer>
     <offer id="Fc10826" available="true">
       <categoryId>38</categoryId>
       <name>Тласпи 60 см Арт. Fc10826</name>
@@ -2223,7 +2188,7 @@
       <categoryId>38</categoryId>
       <name>Эрингиум Синий 50 см Арт. Fc01975</name>
       <price>187</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hb8-z3rAeT72md8MkEMbGZsor6J174Bd</picture>
       <picture>https://lh3.googleusercontent.com/d/1PkllGOT9fc6O1UCFZG0cYS2ycgib9b_E</picture>
