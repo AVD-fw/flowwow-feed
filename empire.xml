@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-24T09:33:49.397+03:00">
+<yml_catalog date="2025-11-24T09:39:40.268+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -191,6 +191,24 @@
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ec3376</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec4486" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Диабло 60 см Арт. Ec4486</name>
+      <price>125</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qkD1Zo6tJnWrxgKIzaQ3NNeiLAgiznJ5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gPT7UVR44SxljKYECBQESW5JeH55UB7P</picture>
+      <picture>https://lh3.googleusercontent.com/d/1arktRMvo9sAdRdO16ochCKUtxydEwi-Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qh_DYNcaF0WTklDgJ-lsYT73SCWIREk7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n-t0ivEL_LEsfJCMsvSK9PPtgsuNi-Y_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Ec4486</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
     </offer>
     <offer id="Ec00537" available="true">
       <categoryId>37</categoryId>
