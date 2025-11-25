@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-25T08:35:52.582+03:00">
+<yml_catalog date="2025-11-25T08:41:59.911+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -40,6 +40,19 @@
       <param name="Артикул">Ec2447c</param>
       <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
     </offer>
+    <offer id="Ec4617c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая 70 см Арт. Ec4617c</name>
+      <categoryId>450</categoryId>
+      <price>580</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1b6l4DBeElcuhita6GfAatL47_NO1VeFT</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ec4617c</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
     <offer id="Ec4267c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Алтай 70 см Арт. Ec4267c</name>
       <categoryId>450</categoryId>
@@ -55,6 +68,20 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ec4267c</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Ec00936c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Кеннеди 60 см Арт. Ec00936c</name>
+      <categoryId>450</categoryId>
+      <price>580</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/13fdLM8x_Tw_ZUQ0EhRy3_SK-F-TydY9u</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada flowers</param>
+      <param name="Артикул">Ec00936c</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
     <offer id="Ec2807c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Командер 70 см Арт. Ec2807c</name>
@@ -87,6 +114,20 @@
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ec3376c</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ec4486c" available="true">
+      <name>Пачка (10 шт.) Гиперикум Коко Диабло 60 см Арт. Ec4486c</name>
+      <categoryId>450</categoryId>
+      <price>1375</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1gPT7UVR44SxljKYECBQESW5JeH55UB7P</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Ec4486c</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
     </offer>
     <offer id="Ec00547c" available="true">
       <name>Пачка (25 шт.) Гипсофила Белый 70 см Арт. Ec00547c</name>
