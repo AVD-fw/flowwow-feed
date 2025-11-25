@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-25T15:26:27.185+03:00">
+<yml_catalog date="2025-11-25T15:35:18.276+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -340,7 +340,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бонус 70 см Арт. Fc00887</name>
       <price>165</price>
-      <qty>35</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Qh3IKU7ZzjUOduCKGWFwsu-ZYS74XbOR</picture>
       <picture>https://lh3.googleusercontent.com/d/17z3AcI4U5W0SuWF7pg2x-ZzmmVjup6BL</picture>
@@ -358,7 +358,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Калимба 70 см Арт. Fc12217</name>
       <price>118</price>
-      <qty>35</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Xg6NYj19Hx2U1BNbfRhuE6GX4HpucoHO</picture>
       <picture>https://lh3.googleusercontent.com/d/1aKDTw4k5GjM1YMzg7PbppfRI8GB8YVRs</picture>
@@ -376,7 +376,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Лионкинг 70 см Арт. Fc14877</name>
       <price>118</price>
-      <qty>15</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1A_GrR3dmL7pdYVLQKZzBHKUBJ6e6uz9k</picture>
       <picture>https://lh3.googleusercontent.com/d/1brwpQ77rwsKSmsnDTWy7Hj3SeFPxMLZy</picture>
@@ -394,7 +394,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Ньютон 70 см Арт. Fc03477</name>
       <price>138</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LvSXVopKSDgc_y4emv_XNN0vg5iujBfW</picture>
       <picture>https://lh3.googleusercontent.com/d/1Szqmvp7wKaCqYIniFvXYMOkuP5KrzDWg</picture>
@@ -412,7 +412,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Рианна 70 см Арт. Fc00937</name>
       <price>118</price>
-      <qty>25</qty>
+      <qty>35</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kmpjS4svvUaOMTYCwzkqrD-j5GCXbpmx</picture>
       <picture>https://lh3.googleusercontent.com/d/1VTGG5pdfMhoFIOLPgRpP-KrdjApK7Azb</picture>
@@ -448,7 +448,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Fc18677</name>
       <price>118</price>
-      <qty>90</qty>
+      <qty>75</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1G7NjFymYcc3MgrbXkVSaRXu1ZeNV74qg</picture>
       <picture>https://lh3.googleusercontent.com/d/1PwsvU6dO9sx6QN5Gb52-6aD9qQNsPpEo</picture>
@@ -587,6 +587,24 @@
       <param name="Артикул">Fc12595</param>
       <consist name="Гвоздика кустовая Арагон" unit="шт">10</consist>
     </offer>
+    <offer id="Fc13605" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Бамбо 50 см Арт. Fc13605</name>
+      <price>50</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FACc57ztTsEXUBO39Ka5NMm3wsZ2f4UH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CwUhgJmxsLIZI0JS_unh9gwDf9K2aeCp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HeKLdT1hwImacnZvxsr7BQZDEbtjbZ-h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zR50tAmpXxhmCQj7tE7RmfBbHt0KiCl_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jgTuRaVEZ7tjaXgnns3WBoklDZYmfiM3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc13605</param>
+      <consist name="Гвоздика кустовая Бамбо" unit="шт">10</consist>
+    </offer>
     <offer id="Fc03105" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Джианна 50 см Арт. Fc03105</name>
@@ -627,7 +645,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Пастел Кремия 70 см Арт. Fc01277</name>
       <price>53</price>
-      <qty>225</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ceL-npxZlr7ERVopEYalnub9jxDBFJol</picture>
       <picture>https://lh3.googleusercontent.com/d/1vU8GMB1bvrIRK8OdE4aBUqyIr3oZPdmo</picture>
@@ -645,7 +663,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Разноцветный 80 см Арт. Fc15178</name>
       <price>88</price>
-      <qty>325</qty>
+      <qty>300</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ffwlhzS5R51YfHpRns6GO1Enfc7b-qhn</picture>
       <picture>https://lh3.googleusercontent.com/d/1L4OLVCrg0wZG3BSOSqPU_7Dh9lbFYHvA</picture>
@@ -663,7 +681,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Белая 70 см Арт. Fc01937</name>
       <price>79</price>
-      <qty>325</qty>
+      <qty>450</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1f4XkLsrH378Y7aEfjBL1F-X4v1XZUB-f</picture>
       <picture>https://lh3.googleusercontent.com/d/12Pg_TsRmA-7r_TmpmFcucp1_Ra1xLWgp</picture>
@@ -681,7 +699,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Розовая 50 см Арт. Fc01655</name>
       <price>86</price>
-      <qty>300</qty>
+      <qty>275</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/104JLsLKK0_4ItYkV4GRePfEOM5aZIgux</picture>
       <picture>https://lh3.googleusercontent.com/d/1kGhs82LXW3jwAAJhR-O0JVX5JOsa5jac</picture>
@@ -695,11 +713,46 @@
       <param name="Артикул">Fc01655</param>
       <consist name="Гипсофила Розовая" unit="шт">25</consist>
     </offer>
+    <offer id="Fc15068" available="true">
+      <categoryId>37</categoryId>
+      <name>Илекс Оранжевый 80 см Арт. Fc15068</name>
+      <price>264</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mZExrJ3EUAT36a3iyXr2vr8c4hMaKjX1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xTWJVpVy_aRlVUF9znFexQ5oW81Hexvq</picture>
+      <picture>https://lh3.googleusercontent.com/d/15lcEnXQpu31l0cKMsOnUApoJCV00f1Wh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BluoN2hvdF7mqY4WFWODFgWL4cKPOZ52</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qiE11y-YygEG4tsG5zW-8D7zXUiAm9Ol</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc15068</param>
+      <consist name="Илекс Оранжевый" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc02026" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 60 см Арт. Fc02026</name>
+      <price>40</price>
+      <qty>1100</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MtLFwwiR-rGpRd__fHYU8KdZFk6jTssz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WEUOOrfJWarHNUXBY91RaMCZS2wh4TwF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_oz9H-a3UQOz2H7GZBiGzr5_AB-SXEwC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ddmKs8fabwrF6mZgtL76ZHW1_wwgsoVH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e6loNuU_S7gGhlj2ITpd_YTR3K2Mo4HN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc02026</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
     <offer id="Fc04515" available="true">
       <categoryId>37</categoryId>
       <name>Калла Белый 50 см Арт. Fc04515</name>
       <price>204</price>
-      <qty>70</qty>
+      <qty>170</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1CV4c109Mpvnt0NIfelt1WFfmBItypPJ6</picture>
       <picture>https://lh3.googleusercontent.com/d/1zCc9hD7K2a5_qgmFM6JJ8jA3RqrdLGbO</picture>
@@ -716,7 +769,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. Fc12437</name>
       <price>110</price>
-      <qty>60</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1z28s9wtvB1Fst6PPgtHe8B_Q6iuDWgrS</picture>
       <picture>https://lh3.googleusercontent.com/d/1vYjjWiX8y8Tz-j9xv0A2VJDKAnOmrpuj</picture>
@@ -734,7 +787,7 @@
       <categoryId>37</categoryId>
       <name>Клематис Сиреневый 50 см Арт. Fc5595</name>
       <price>77</price>
-      <qty>90</qty>
+      <qty>170</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Ujc_ZosVslrzO6XGKZLFln0kW2xq-45z</picture>
       <picture>https://lh3.googleusercontent.com/d/1J7AyFVYjoeMLnnXekaBT6ERZsovsAqpM</picture>
@@ -752,7 +805,7 @@
       <categoryId>37</categoryId>
       <name>Оксипеталум Голубой 50 см Арт. Fc04855</name>
       <price>94</price>
-      <qty>875</qty>
+      <qty>575</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1TOLCXmYfy3bShHOpsqBQm4L9i3Qa6SCz</picture>
       <picture>https://lh3.googleusercontent.com/d/1zwRocgi_MkHgG50AEdyCy9ZW8EiwrKdn</picture>
@@ -770,7 +823,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Династий 40 см Арт. Fc04794</name>
       <price>77</price>
-      <qty>800</qty>
+      <qty>900</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12uxqUYHefhcADsqif5a2TMRinkeiGQG5</picture>
       <picture>https://lh3.googleusercontent.com/d/1wGb82bAuYjTxAJaE-whhc-rw0WHH6LT2</picture>
@@ -787,7 +840,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Дубль прайс 40 см Арт. Fc9624</name>
       <price>77</price>
-      <qty>750</qty>
+      <qty>900</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Bl_1FD8SNVZPmVjQunNc2EbuFVY9pL7Q</picture>
       <picture>https://lh3.googleusercontent.com/d/1HW_TxGRG-9tCga1EfhEBVTb65v97PcTG</picture>
@@ -804,7 +857,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Стронг Голд 40 см Арт. Fc16964</name>
       <price>74</price>
-      <qty>100</qty>
+      <qty>300</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1s0uFRPvHOfObyWI0L0TaCx1nHyNPG3c8</picture>
       <picture>https://lh3.googleusercontent.com/d/14-BmFhMMblYAdoZwfplEKYW9PBuLVP5I</picture>
@@ -870,6 +923,23 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Fc13736</param>
       <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc12666" available="true">
+      <categoryId>38</categoryId>
+      <name>Илекс Красный 60 см Арт. Fc12666</name>
+      <price>275</price>
+      <qty>150</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QYcmGV1Xrut41vD5z6NEv0u62y8_aR53</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cEG3lUS6QDNsk8LZRm1UiTrno2jHkbxb</picture>
+      <picture>https://lh3.googleusercontent.com/d/189UM6E9p_dkXhAXdNYBElVYRGnKNzn6a</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bzxw0ZIjvzwfnwuaVyP2xkY2ucmMaF3j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u--DUj3T99XRiVtFPcSS-ZQ8O16NpR6d</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc12666</param>
+      <consist name="Илекс Красный" unit="шт">10</consist>
     </offer>
     <offer id="Fc04115" available="true">
       <categoryId>38</categoryId>
