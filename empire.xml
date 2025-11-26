@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-26T05:59:35.099+03:00">
+<yml_catalog date="2025-11-26T09:33:43.266+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Желтый 70 см Арт. Ed3787</name>
       <price>155</price>
-      <qty>80</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/105yF6d545HVYcDyGs5GHab6r1IUA6j7v</picture>
       <picture>https://lh3.googleusercontent.com/d/11wW-9ax3SKW5nQxMQdS-h81pNH8s3TmQ</picture>
@@ -39,7 +39,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Ed4267</name>
       <price>175</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1btR3yT0mpiqY_Dk6ThNImYkT6fR9lH2v</picture>
       <picture>https://lh3.googleusercontent.com/d/1-Mn_z7U7hvw5sosUZwYTVVqeG-7C5Z9H</picture>
@@ -52,42 +52,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ed4267</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
-    </offer>
-    <offer id="Ed2807" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Командер 70 см Арт. Ed2807</name>
-      <price>105</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1eHgqO78crEl8lqaegSbBZqtA5zgkGoCE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1e0kPy2vBqm24jihr8rWMIIIgacaV8NNC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Kd07DsAYqeALvJGDHzaeTHPLnPy0giFL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1AtB_Prw2iu6vVoi3XMVKje_FOjyYGugj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hPaT5LTrpomty44dGgPTr587bwYHmsLZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">Ed2807</param>
-      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
-    </offer>
-    <offer id="Ed3376" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Красный 60 см Арт. Ed3376</name>
-      <price>46</price>
-      <qty>125</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/10BmJtk9CWkAFwdBqhn1Yas1PnZ59B_A0</picture>
-      <picture>https://lh3.googleusercontent.com/d/19KVlyymoOFBIZRQr7qR-kc25Lb4O-o0k</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LiI_kw0-3DfpF8Z1NWhLGC46L5Z2j04_</picture>
-      <picture>https://lh3.googleusercontent.com/d/18WrHz8R0vxb2o7aGrFZiBjevzHI3IMwG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KNOPwRb51yJ4vNb0naiLYR7ODLRYEVfu</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik flowers</param>
-      <param name="Артикул">Ed3376</param>
-      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
