@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-26T09:47:02.471+03:00">
+<yml_catalog date="2025-11-26T09:57:02.956+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -24,6 +24,22 @@
       <param name="Артикул">Va1107c</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
     </offer>
+    <offer id="Va0827c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Диша 70 см Арт. Va0827c</name>
+      <categoryId>450</categoryId>
+      <price>2585</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1kj5QE5lXw7-b93_vI-2Wi2o-t_QkJUsc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oGyLo0OiLn6wvaZLf5m4r89WIqsX02Ge</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zIlvfDlU5jiSwJtmbOLr-HQI95BY6WNI</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Red Lands</param>
+      <param name="Артикул">Va0827c</param>
+      <consist name="Роза кустовая Диша" unit="шт">10</consist>
+    </offer>
     <offer id="Va1266c" available="true">
       <name>Пачка (5 шт.) Роза кустовая пионовидная Розовый 60 см Арт. Va1266c</name>
       <categoryId>450</categoryId>
@@ -39,6 +55,22 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Va1266c</param>
       <consist name="Роза кустовая пионовидная" unit="шт">5</consist>
+    </offer>
+    <offer id="Va1186c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Анджел Бомбастик 60 см Арт. Va1186c</name>
+      <categoryId>450</categoryId>
+      <price>2470</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1rEUWHwIJkAWNBK4enXWt5jWVuQc9A4fE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BAQ8yqM-Spw7N2KOga4oxG-JV64zzGI1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RD9P1IfDRXLwPOYLjQiZsOLfE3_XvR1R</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Red Lands</param>
+      <param name="Артикул">Va1186c</param>
+      <consist name="Роза кустовая пионовидная Анджел Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Va1167c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Гуд Муд 70 см Арт. Va1167c</name>
@@ -226,22 +258,6 @@
       <param name="Артикул">Va0265c</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
-    <offer id="Va0696c" available="true">
-      <name>Пачка (10 шт.) Эустома Алиса Пинк 60 см Арт. Va0696c</name>
-      <categoryId>450</categoryId>
-      <price>2260</price>
-      <qty>4</qty>
-      <picture>https://lh3.googleusercontent.com/d/1XaXFupZsiDaP3zs57V3NBrBpyAz4yXhv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hE2NNH2wviJZcoX0tmwfYqqgZ5Fq3qH4</picture>
-      <picture>https://lh3.googleusercontent.com/d/13oUPhbCA0sMwszVVyzgVu8xfQPqf1NtB</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Va0696c</param>
-      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
-    </offer>
     <offer id="Va0566c" available="true">
       <name>Пачка (10 шт.) Эустома Росита Вайт 60 см Арт. Va0566c</name>
       <categoryId>450</categoryId>
@@ -263,9 +279,9 @@
       <categoryId>450</categoryId>
       <price>2260</price>
       <qty>5</qty>
-      <picture>https://lh3.googleusercontent.com/d/1O0nO2ffQomE_RMoD1oH8a7pJ405ON3Nj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1R2fi_hn8NDMqvuTJoVOQ6BaSdsmkHgnm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ra7y-sU0NjGcY4KjkEgywpV5SI_nzBoH</picture>
+      <picture>https://lh3.googleusercontent.com/d/14e-Gy4hW5ta5FejjToeRVOkqWFG5XYGk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bCk9RZvTeDyk3tS5swDhOwuT6xsLygV9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cJWoi_WUp3zPda1HaFiNOCZc5ae6ns5O</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
@@ -279,8 +295,8 @@
       <categoryId>450</categoryId>
       <price>1325</price>
       <qty>6</qty>
-      <picture>https://lh3.googleusercontent.com/d/1ffZPQ20wZWxWyI40QKzFZWpzPdcZszsz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1y9eS0vZkwIcfRDYLeMBHAxIrNpWdtRoV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lCgDCF8mK9cxO3BLQ6fGTSnsPtjdn0J_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jE7_q4WfC7M6wMPJApqBW5_JumNf8dFT</picture>
       <picture>https://lh3.googleusercontent.com/d/1odRZ7FU2MwjChbqr5cZkgLWOpFml9kQM</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">50</param>
