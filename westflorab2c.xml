@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-27T19:07:04.345+03:00">
+<yml_catalog date="2025-11-27T19:18:10.469+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -388,6 +388,22 @@
       <param name="Артикул">Va0767c</param>
       <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
     </offer>
+    <offer id="Va1865c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини 50 см Арт. Va1865c</name>
+      <categoryId>450</categoryId>
+      <price>2535</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1liWEH41fR1UzxXm2osaeHfK8gRA35otE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JUNHJKbULhVSzxlZPTg8d2p28RlYq0QZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1byGGW32iouAOiyi2dsLCHpB9tPq44eSU</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Va1865c</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
     <offer id="Va1575c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Байкал 50 см Арт. Va1575c</name>
       <categoryId>450</categoryId>
@@ -419,6 +435,22 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Va0145c</param>
       <consist name="Хризантема Сантини Пизарро" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1735c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Санни 50 см Арт. Va1735c</name>
+      <categoryId>450</categoryId>
+      <price>2535</price>
+      <qty>10</qty>
+      <picture>https://lh3.googleusercontent.com/d/16b3K8hduOZfXEtoHmqwQxBttwi-Y23yD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R9zNSpFBtRQn2SN80OGX5iwX15Yna5TV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tmwIFK_Xp9NgOkPayI9t86H1g6NI_5Ca</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Va1735c</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
     </offer>
     <offer id="Va1935c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Смоки 50 см Арт. Va1935c</name>
