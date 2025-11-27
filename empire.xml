@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-27T09:19:45.820+03:00">
+<yml_catalog date="2025-11-27T09:23:59.658+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -539,24 +539,6 @@
       <param name="Артикул">Ed01245</param>
       <consist name="Фрезия" unit="шт">50</consist>
     </offer>
-    <offer id="Ed3416" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Вайт 60 см Арт. Ed3416</name>
-      <price>140</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Ha1aNupT49hfad9E4Lex5XNUSB1QOwPE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LQWmXhbk9LLLfSfjZTRYZl2yZWTVqHda</picture>
-      <picture>https://lh3.googleusercontent.com/d/16ViIDh9QbHkEfRLvVFzxKzglDJUZ0Q-H</picture>
-      <picture>https://lh3.googleusercontent.com/d/1saqd8d2LVPikJsI_-Ehbl5NtK_VIJxqq</picture>
-      <picture>https://lh3.googleusercontent.com/d/11_dPyQiBnr_spsZ9xvbFmgOmHVdCwJgb</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">Ed3416</param>
-      <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
-    </offer>
     <offer id="Ed2496" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Корелли Лавандер 60 см Арт. Ed2496</name>
@@ -579,7 +561,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Пинк 60 см Арт. Ed3976</name>
       <price>140</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eGZdDovyF89AbgeexaUi-xTKsikj_EYx</picture>
       <picture>https://lh3.googleusercontent.com/d/1pkUuF2-bMdVvKV5wAlzJtMTZ0DDhmzif</picture>
