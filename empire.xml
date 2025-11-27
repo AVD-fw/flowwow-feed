@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-27T07:34:00.079+03:00">
+<yml_catalog date="2025-11-27T07:39:48.205+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -262,6 +262,21 @@
       <param name="Производитель">Perfection</param>
       <param name="Артикул">Ed3886</param>
       <consist name="Альстромерия Альстромерия Дубай" unit="шт">10</consist>
+    </offer>
+    <offer id="Ed4706" available="true">
+      <categoryId>37</categoryId>
+      <name>Альстромерия Надя 60 см Арт. Ed4706</name>
+      <price>89</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15B0yku4go5zPTh1ZKPYtjSoLEugevmeU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sqcgmPJ7eVcFkeUNP4RCplp4SU9V9Zxe</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Perfection</param>
+      <param name="Артикул">Ed4706</param>
+      <consist name="Альстромерия Надя" unit="шт">10</consist>
     </offer>
     <offer id="Ed01146" available="true">
       <categoryId>37</categoryId>
@@ -666,6 +681,23 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Ed00458</param>
       <consist name="Солидаго" unit="шт">25</consist>
+    </offer>
+    <offer id="Ed01205" available="true">
+      <categoryId>38</categoryId>
+      <name>Эрингиум Синий 50 см Арт. Ed01205</name>
+      <price>175</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xO0UtDDnIMxmkHgTIxbctTpuwAS0gE9R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hl3K4Gr0HUOjRIZ6t08no_wzJLCGfl7C</picture>
+      <picture>https://lh3.googleusercontent.com/d/18ZXSIlFQtbxh4B62-T4iQofQtup_dvCc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H15zGBl_w14LbAt9iz7GDWJjoYTVJ4K1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BHkNOuapy7hRzQFaI0mAPqbZC4EI_iAa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ed01205</param>
+      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
