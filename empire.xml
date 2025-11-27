@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-27T05:59:44.166+03:00">
+<yml_catalog date="2025-11-27T06:49:35.173+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Желтый 70 см Арт. Ed3787</name>
       <price>155</price>
-      <qty>70</qty>
+      <qty>110</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/105yF6d545HVYcDyGs5GHab6r1IUA6j7v</picture>
       <picture>https://lh3.googleusercontent.com/d/11wW-9ax3SKW5nQxMQdS-h81pNH8s3TmQ</picture>
@@ -34,24 +34,6 @@
       <param name="Производитель">Vannova</param>
       <param name="Артикул">Ed3787</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
-    </offer>
-    <offer id="Ed4267" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Алтай 70 см Арт. Ed4267</name>
-      <price>175</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1btR3yT0mpiqY_Dk6ThNImYkT6fR9lH2v</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-Mn_z7U7hvw5sosUZwYTVVqeG-7C5Z9H</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vgMYITPlhZUzfK7CDbn5W_w6aNn1b0oB</picture>
-      <picture>https://lh3.googleusercontent.com/d/11N97YHrdc8sRNdtocnNIdotnmHtsqxkd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yxdSSVGmlWf7XBJYHN2P-zCNS9yhbSDV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ed4267</param>
-      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
