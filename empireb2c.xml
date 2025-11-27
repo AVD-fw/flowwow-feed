@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-27T07:35:54.314+03:00">
+<yml_catalog date="2025-11-27T07:51:59.770+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -390,6 +390,21 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Ed00458c</param>
       <consist name="Солидаго" unit="шт">25</consist>
+    </offer>
+    <offer id="Ed01205c" available="true">
+      <name>Пачка (10 шт.) Эрингиум Синий 50 см Арт. Ed01205c</name>
+      <categoryId>450</categoryId>
+      <price>1925</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1L_UwjYSmaMjxS8NHJUQBrxg7xeZ8Vail</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k2AE__4UfD1T4lifgApez7rMfYJo1ZyA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oYN18yd3-TSGLLUzK__tuQMm1iP8EhQr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ed01205c</param>
+      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
