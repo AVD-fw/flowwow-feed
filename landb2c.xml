@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-29T21:24:38.531+03:00">
+<yml_catalog date="2025-11-29T21:31:25.276+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -481,6 +481,34 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La2745c</param>
       <consist name="Илекс" unit="шт">5</consist>
+    </offer>
+    <offer id="La2474c" available="true">
+      <name>Пачка (10 шт.) Капсикум Желтый 40 см Арт. La2474c</name>
+      <categoryId>450</categoryId>
+      <price>945</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/117LxIkRu4ZK2NCQxO1KlNVo49yvowgwD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bapiNdryT5PtQ4VYD1gEdLHiJkGJuuGX</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">La2474c</param>
+      <consist name="Капсикум" unit="шт">10</consist>
+    </offer>
+    <offer id="La2484c" available="true">
+      <name>Пачка (10 шт.) Капсикум Красный 40 см Арт. La2484c</name>
+      <categoryId>450</categoryId>
+      <price>945</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1tSH077YZsQOm0Z0cFNjAv1i-iHfwmgI2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JiEQc0V5v2MQdxh4hGWjrsyUfenU8_rY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">La2484c</param>
+      <consist name="Капсикум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
