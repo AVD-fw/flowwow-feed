@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-29T13:17:01.505+03:00">
+<yml_catalog date="2025-11-29T13:27:02.441+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -387,6 +387,36 @@
       <param name="Артикул">Va0115c</param>
       <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
     </offer>
+    <offer id="Va2066c" available="true">
+      <name>Пачка (10 шт.) Антирринум 60 см Арт. Va2066c</name>
+      <categoryId>450</categoryId>
+      <price>1625</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-LQjZN2JKSv6Qqsxgm-NoiiLmfAjmjSo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ei-FjOqCZjr_b20IY_k6_Bz_F4qvCoH-</picture>
+      <picture>https://lh3.googleusercontent.com/d/19H0ZsJrj9xyL4WowMBQh7UyqEP7VYi9a</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va2066c</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Va0095c" available="true">
+      <name>Пачка (10 шт.) Бруния Серый 50 см Арт. Va0095c</name>
+      <categoryId>450</categoryId>
+      <price>1565</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1OhBCaoQFBWgnlk5va2IUoDt1A2Q38HlN</picture>
+      <picture>https://lh3.googleusercontent.com/d/11emtZQ3THkFrMIvVwn-Z4LX4xAmbZOXK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eVm-uKMGGPcsR1Vw1-GeuLqHKOfvDyel</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Va0095c</param>
+      <consist name="Бруния" unit="шт">10</consist>
+    </offer>
     <offer id="Va0386c" available="true">
       <name>Пачка (20 шт.) Гвоздика одноголовая Розовый 60 см Арт. Va0386c</name>
       <categoryId>450</categoryId>
@@ -400,6 +430,21 @@
       <param name="Ширина, см">15</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va0386c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Va0396c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая Зеленый 60 см Арт. Va0396c</name>
+      <categoryId>450</categoryId>
+      <price>1785</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1QWOaaLvbOwIQSjFTsVUpQ2r4yIV9MU85</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cvu07kjYDCSlNokeuyPJq8hxHtU6FfPK</picture>
+      <picture>https://lh3.googleusercontent.com/d/147QlUZkVd1W4UMw2RL6tLjM6N6MamvFB</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va0396c</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
     <offer id="Va0416c" available="true">
@@ -446,6 +491,36 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va0486c</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1617c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая 70 см Арт. Va1617c</name>
+      <categoryId>450</categoryId>
+      <price>1785</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1mBT8NMlvexfE9aTz5WB3zXWsBNBqA74t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hEgLuanar_6kroD-eYZvR0nE_gBtXmFd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vkgJvBeizbQiufh9_RQG_F2Y7W-6cUCV</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va1617c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Va2077c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая 70 см Арт. Va2077c</name>
+      <categoryId>450</categoryId>
+      <price>1785</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1In2i7rThXSc4S9U32YHOzl_PGISJCRAr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZLUwPPjm3ko-03WDqdXBi1k85UQuH1vE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x5hREcjkffw5P7_K7l2ruDy4WXZ76kEy</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va2077c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
     <offer id="Va0446c" available="true">
       <name>Пачка (30 шт.) Гвоздика одноголовая Грин Трик 60 см Арт. Va0446c</name>
