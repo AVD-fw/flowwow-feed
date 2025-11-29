@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-29T07:29:37.792+03:00">
+<yml_catalog date="2025-11-29T07:33:56.063+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -158,6 +158,24 @@
       <param name="Артикул">Ed00926</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
     </offer>
+    <offer id="Ed3376" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 60 см Арт. Ed3376</name>
+      <price>46</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RnDp5l78WSqeYsz68nJC888DKjMbhD8S</picture>
+      <picture>https://lh3.googleusercontent.com/d/18WrHz8R0vxb2o7aGrFZiBjevzHI3IMwG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KNOPwRb51yJ4vNb0naiLYR7ODLRYEVfu</picture>
+      <picture>https://lh3.googleusercontent.com/d/10BmJtk9CWkAFwdBqhn1Yas1PnZ59B_A0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HZKTRft6zvMYa2O9DofcZ-dIHs3GqIYn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ed3376</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Ed00547" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Белый 70 см Арт. Ed00547</name>
@@ -182,11 +200,11 @@
       <price>178</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ieR0HCJtaSUbxB64nfLg5npeY7h7y5fy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TUAQHVSh0rI5Z5gFFOcgJcEtW69J1kZ6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yuA-9SFZr8rPWdb2MsIRudDCi-rfjj96</picture>
       <picture>https://lh3.googleusercontent.com/d/1s_FBWGT6jA2ybNDNNhTOTDLOkpYxQjh1</picture>
       <picture>https://lh3.googleusercontent.com/d/1bLbeSeAjiqyw8toUBraf-ROFh1sqebPv</picture>
       <picture>https://lh3.googleusercontent.com/d/1N7SPmuZ_Oc51QLRDgVP19tTjtbnbmcsX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ieR0HCJtaSUbxB64nfLg5npeY7h7y5fy</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Голландия</param>
