@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-30T11:19:41.259+03:00">
+<yml_catalog date="2025-11-30T11:23:51.968+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -73,7 +73,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Делигрин 60 см Арт. Ed00916</name>
       <price>112</price>
-      <qty>15</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bcDtrUiXz34YVUszatnFPG1PmCBMbjjf</picture>
       <picture>https://lh3.googleusercontent.com/d/1yjzwKOO649t12EghqjSmWGVZT5nWV4OC</picture>
@@ -91,7 +91,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 60 см Арт. Ed00926</name>
       <price>112</price>
-      <qty>25</qty>
+      <qty>80</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zVAxCis7wgY96NFDFtLFfu6CRFPxkUOa</picture>
       <picture>https://lh3.googleusercontent.com/d/1be3d5GxdLgJTufnDMoWbr06CkF_tO8pW</picture>
@@ -109,7 +109,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ed2616</name>
       <price>46</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wEEM6wStD9Ai6UJ6_mRpI1ZYGvMoW5Iv</picture>
       <picture>https://lh3.googleusercontent.com/d/1PsLyXz4H94D7fav5F4RhtvgxuRzGIhcZ</picture>
@@ -123,29 +123,11 @@
       <param name="Артикул">Ed2616</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
-    <offer id="Ed3376" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Красный 60 см Арт. Ed3376</name>
-      <price>46</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RnDp5l78WSqeYsz68nJC888DKjMbhD8S</picture>
-      <picture>https://lh3.googleusercontent.com/d/18WrHz8R0vxb2o7aGrFZiBjevzHI3IMwG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KNOPwRb51yJ4vNb0naiLYR7ODLRYEVfu</picture>
-      <picture>https://lh3.googleusercontent.com/d/10BmJtk9CWkAFwdBqhn1Yas1PnZ59B_A0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HZKTRft6zvMYa2O9DofcZ-dIHs3GqIYn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik flowers</param>
-      <param name="Артикул">Ed3376</param>
-      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
-    </offer>
     <offer id="Ed00547" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Белый 70 см Арт. Ed00547</name>
       <price>69</price>
-      <qty>200</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14M8h1AduVAlvZ07PZ6Ih47VPhR92Unj9</picture>
       <picture>https://lh3.googleusercontent.com/d/1J7xd9dKqLPf8eLmW9YjzhckzXjyV5-li</picture>
@@ -163,7 +145,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Касабланка 50 см Арт. Ed00425</name>
       <price>40</price>
-      <qty>200</qty>
+      <qty>150</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14SpWTaUN9QjMOMC-QiWec9ePkQiBWUEI</picture>
       <picture>https://lh3.googleusercontent.com/d/1QCwzO7YsXVOrGFaR1F_-xsmSCdiGI_eI</picture>
@@ -181,7 +163,7 @@
       <categoryId>37</categoryId>
       <name>Маттиола кустовая Белый 50 см Арт. Ed4855</name>
       <price>128</price>
-      <qty>5</qty>
+      <qty>80</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GjWfhQNivnRpO3ppzUEDr0lLhC9bWZnw</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -189,24 +171,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Ed4855</param>
       <consist name="Маттиола кустовая" unit="шт">5</consist>
-    </offer>
-    <offer id="Ed2955" available="true">
-      <categoryId>37</categoryId>
-      <name>Фрезия Розовый 50 см Арт. Ed2955</name>
-      <price>75</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1J3_jgq7r9gjdkbsECXSHWUyTTe6UhcrA</picture>
-      <picture>https://lh3.googleusercontent.com/d/10kLksIQ6q9UP6YqEhnAdQY4lUHZhIwOO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NB8XQ9dsK_Ny5pW4LRJLYw7fxrAgu52I</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mifBdUrt9PZ0meqsp3D46BVBwj_h1RCX</picture>
-      <picture>https://lh3.googleusercontent.com/d/17NyPGiLfXsaUzh0IE4dv6st1fvRrNwWV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Ton Vreugdenhil Fresia</param>
-      <param name="Артикул">Ed2955</param>
-      <consist name="Фрезия" unit="шт">50</consist>
     </offer>
     <offer id="Ed3416" available="true">
       <categoryId>37</categoryId>
