@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-30T06:39:39.654+03:00">
+<yml_catalog date="2025-11-30T06:53:48.511+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -176,6 +176,19 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ed00425</param>
       <consist name="Ирис Касабланка" unit="шт">50</consist>
+    </offer>
+    <offer id="Ed4855" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола кустовая Белый 50 см Арт. Ed4855</name>
+      <price>128</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SiWvVKgjhhrUZ_ssYNRCoT6gxI9Rmhpk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ed4855</param>
+      <consist name="Маттиола кустовая" unit="шт">5</consist>
     </offer>
     <offer id="Ed2955" available="true">
       <categoryId>37</categoryId>
