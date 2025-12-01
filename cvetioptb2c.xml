@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-01T10:49:52.457+03:00">
+<yml_catalog date="2025-12-01T10:59:12.621+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -263,6 +263,21 @@
       <param name="Артикул">Fc13475c</param>
       <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
     </offer>
+    <offer id="Fc11336c" available="true">
+      <name>Пачка (10 шт.) Антирринум Розовый 60 см Арт. Fc11336c</name>
+      <categoryId>450</categoryId>
+      <price>1580</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1p6ROEf8z9t5CJIAGFc523R4-XMt4ZTad</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mp623VYWHeu7I_zWLY6cjIOIugQQ6KjR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y0DMUKtoBGn_HBtnMn_9hqTb-9HdsAq3</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc11336c</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
     <offer id="Fc10066c" available="true">
       <name>Пачка (5 шт.) Брассика 60 см Арт. Fc10066c</name>
       <categoryId>450</categoryId>
@@ -357,6 +372,22 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Fc01937c</param>
       <consist name="Гипсофила Белая" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01655c" available="true">
+      <name>Пачка (25 шт.) Гипсофила Розовая 50 см Арт. Fc01655c</name>
+      <categoryId>450</categoryId>
+      <price>2465</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/12ue8RmySWAJH1MJOwIbUuSeQmSDfMQlD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gQZdEFmDu0iI_uke7knhJLq3SQqVHGE5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fm1laKy7VCkxunqjqhREbOLqHVB05pPL</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fc01655c</param>
+      <consist name="Гипсофила Розовая" unit="шт">25</consist>
     </offer>
     <offer id="Fc15068c" available="true">
       <name>Пачка (5 шт.) Илекс Оранжевый 80 см Арт. Fc15068c</name>
