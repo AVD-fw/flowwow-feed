@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-01T08:04:35.430+03:00">
+<yml_catalog date="2025-12-01T08:11:27.000+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -8,6 +8,38 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="La1327c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Аваланш 70 см Арт. La1327c</name>
+      <categoryId>450</categoryId>
+      <price>1450</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1eHVKMm-Xhd3JR0xGxoSkRXxbhy7pmax5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dQuuR0Gy-ffMNK0JP6aqbcdC1Xm7aHjZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R8ziPQGRyfHVaWx452b9H11or8JEAufq</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La1327c</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="La1317c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Вау 70 см Арт. La1317c</name>
+      <categoryId>450</categoryId>
+      <price>1450</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1nN5vEXd5EdQoU162KrLtDyxcPtYph_wH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EcDrXvR5curpeUaSeFB2xpPvE2oHDkC9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EPW_FnxCRT0hdUq_ppfXou5NIbAsOhlw</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La1317c</param>
+      <consist name="Роза одноголовая Вау" unit="шт">10</consist>
+    </offer>
     <offer id="La2766c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Испания 60 см Арт. La2766c</name>
       <categoryId>450</categoryId>
@@ -167,6 +199,22 @@
       <param name="Артикул">La1477c</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
     </offer>
+    <offer id="La1087c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Петр 70 см Арт. La1087c</name>
+      <categoryId>450</categoryId>
+      <price>3035</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1kZLFxee8-2YaPpRYP5bMW663XgZpbV3D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dNmxLXhZ4YQpLFGyNQY8hHqaHrJpFuok</picture>
+      <picture>https://lh3.googleusercontent.com/d/16AmkwWQQcGLqgrqwHI-rbh9yOJTnxlu6</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">La1087c</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
+    </offer>
     <offer id="La1067c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Фуего 70 см Арт. La1067c</name>
       <categoryId>450</categoryId>
@@ -263,6 +311,21 @@
       <param name="Артикул">La0997c</param>
       <consist name="Хризантема кустовая Мексикано" unit="шт">5</consist>
     </offer>
+    <offer id="La1077c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Радость 70 см Арт. La1077c</name>
+      <categoryId>450</categoryId>
+      <price>1155</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1smMCsuZkM6qlE-pM3i4LXR6elqIMg5sm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ivH_epLBipYk2hcMgQzo7r4RRs0ZmSw_</picture>
+      <picture>https://lh3.googleusercontent.com/d/11LPwFQWU9Au5Ue2B314O0BT8a9lFo9ct</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">La1077c</param>
+      <consist name="Хризантема кустовая Радость" unit="шт">5</consist>
+    </offer>
     <offer id="La1037c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Риана 70 см Арт. La1037c</name>
       <categoryId>450</categoryId>
@@ -293,6 +356,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">La1017c</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="La2757c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Серенити Свит 70 см Арт. La2757c</name>
+      <categoryId>450</categoryId>
+      <price>1155</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1aK6T90_EF6wCHtgqkBqmcs3qaWM4zZGb</picture>
+      <picture>https://lh3.googleusercontent.com/d/147jPIi9jAHimi0InNi_hRhF3lhx3F2sG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DJ9KUOOkLu3682KixknAbq6q3hyAvsJc</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">La2757c</param>
+      <consist name="Хризантема кустовая Серенити Свит" unit="шт">5</consist>
     </offer>
     <offer id="La1437c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Фабьен 70 см Арт. La1437c</name>
