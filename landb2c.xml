@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-01T09:41:27.910+03:00">
+<yml_catalog date="2025-12-01T09:44:35.633+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -275,6 +275,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La2745c</param>
       <consist name="Илекс" unit="шт">5</consist>
+    </offer>
+    <offer id="La0096c" available="true">
+      <name>Пачка (50 шт.) Ирис Синий 60 см Арт. La0096c</name>
+      <categoryId>450</categoryId>
+      <price>3285</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1tknumnOzGmdiV4Ro_K2YSu6NWevsVUuY</picture>
+      <picture>https://lh3.googleusercontent.com/d/15rRhKte7yQhInAaOvs0HGA0IVaibtgu1</picture>
+      <picture>https://lh3.googleusercontent.com/d/10KF0KLoQGpvCJDwyMPYRDqGpyW29YsiQ</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">La0096c</param>
+      <consist name="Ирис Синий" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
