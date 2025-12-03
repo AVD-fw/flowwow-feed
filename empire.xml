@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-03T10:03:45.823+03:00">
+<yml_catalog date="2025-12-03T10:09:45.094+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ed2167" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Антонов 70 см Арт. Ed2167</name>
+      <price>144</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_2iAUDIEqpId-_cF2SRU-A9D_6BbXkZQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W0Me4e8slUBp2Aoi5s3TEXL-dLKjwOv_</picture>
+      <picture>https://lh3.googleusercontent.com/d/141Z3oLa8gF3ofiQ_6Kw_4VHzLBStgc3F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ScbwlKWuP0w8HafvhBOCdDhEd3xTpuK4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DokuAoew1C6dxSW7X6AGOfgEd9-2hxQs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ed2167</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
+    </offer>
     <offer id="Ed3376" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ed3376</name>
@@ -70,6 +88,24 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">Ed3976</param>
       <consist name="Эустома Росита Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Ed00458" available="true">
+      <categoryId>38</categoryId>
+      <name>Солидаго Желтый 80 см Арт. Ed00458</name>
+      <price>85</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10a32EEil3qU-J4JBMT-OO55Vwq2GAOYu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y3dGDnvdh0a2z-mVldkq5JDN0GW-ydCJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TbQucDqq_81dnrJ3OYeTDb33K24gIcIC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tteNCUo_jsICpp8U5Wnv7FmsSsftJYDC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TAnXWqjpopmUGMkz-znbrRvIlQp33vYL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Ed00458</param>
+      <consist name="Солидаго" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
