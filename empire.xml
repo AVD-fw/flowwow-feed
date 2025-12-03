@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-03T10:23:50.787+03:00">
+<yml_catalog date="2025-12-03T10:29:51.301+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -71,6 +71,24 @@
       <param name="Артикул">Ed2247</param>
       <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Ed00886" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Ньютон 60 см Арт. Ed00886</name>
+      <price>95</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13VX6NUbyrpiT7xtu7UwEHCapxckVAdpN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EV4QmCVRG6fJPV5bA6QYVALw3CKYDFsa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EV4QmCVRG6fJPV5bA6QYVALw3CKYDFsa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D_z1fM-UEh9Cj3yZCmC-CggaHBlIGWZ6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oDJke0JqP-Lm8B-9ogdtr5F7We4dtZrW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ed00886</param>
+      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
+    </offer>
     <offer id="Ed00926" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 60 см Арт. Ed00926</name>
@@ -89,23 +107,59 @@
       <param name="Артикул">Ed00926</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
     </offer>
+    <offer id="Ed3797" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Хайдар 70 см Арт. Ed3797</name>
+      <price>95</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SjgnmLUth4mBqQM7C_2QVqBpuxIPlgfT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pP04YWC6GDo4cM9Q99JTM54jbhLmGDdZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KSrcV7fDQwaHkinmzPAgTkyvOYVngcuA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x38u7CozlJ9iLhNmUeyXYJPx64Pup6Ee</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QqPexjk6k8f_PwxoPPDjzc3E8hXHfJQO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ed3797</param>
+      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
     <offer id="Ed3376" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ed3376</name>
       <price>120</price>
       <qty>450</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ZUF5OxmiliMchldJ0ZhZSmA-R6QwyyKT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KNOPwRb51yJ4vNb0naiLYR7ODLRYEVfu</picture>
+      <picture>https://lh3.googleusercontent.com/d/14yZQ0Q3vpFXd7QoXh_3Itt2nOFbsJKMZ</picture>
       <picture>https://lh3.googleusercontent.com/d/10BmJtk9CWkAFwdBqhn1Yas1PnZ59B_A0</picture>
       <picture>https://lh3.googleusercontent.com/d/1HZKTRft6zvMYa2O9DofcZ-dIHs3GqIYn</picture>
       <picture>https://lh3.googleusercontent.com/d/1RnDp5l78WSqeYsz68nJC888DKjMbhD8S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZUF5OxmiliMchldJ0ZhZSmA-R6QwyyKT</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Эквадор</param>
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ed3376</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ed4486" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Диабло 60 см Арт. Ed4486</name>
+      <price>125</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W9YBMz59cRvikmG_EWEIPk3KJW4TPZ8z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n-t0ivEL_LEsfJCMsvSK9PPtgsuNi-Y_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qkD1Zo6tJnWrxgKIzaQ3NNeiLAgiznJ5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dbMG2H70995qfFr2E7Gm4lV7yiURjmlO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PZlOHoFapB0zadRQIwXPVk3trln9ZFGw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Ed4486</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
     </offer>
     <offer id="Ed00425" available="true">
       <categoryId>37</categoryId>
@@ -124,6 +178,60 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ed00425</param>
       <consist name="Ирис Касабланка" unit="шт">50</consist>
+    </offer>
+    <offer id="Ed2406" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла Белый 60 см Арт. Ed2406</name>
+      <price>250</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Y16Dbs8yt2HctNzmigClNvQBx8-uCRM-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O7FN1mSGFVCUIsdXnEdbVhFEIz1fSA9x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P6uDnhTp1SwqiXG7wwFo4Rh_lBS8OB_3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oc20gTFDsQWsfOiV13Mzb3Z_xTiey-z_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_7m5YvYomaxbR28xwys3woHyR5cvIi6J</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kallaland</param>
+      <param name="Артикул">Ed2406</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Ed2955" available="true">
+      <categoryId>37</categoryId>
+      <name>Фрезия Розовый 50 см Арт. Ed2955</name>
+      <price>70</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ggK5JAiO5nrKvdYM_Tialtl0zoU6-fq_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NB8XQ9dsK_Ny5pW4LRJLYw7fxrAgu52I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mifBdUrt9PZ0meqsp3D46BVBwj_h1RCX</picture>
+      <picture>https://lh3.googleusercontent.com/d/17NyPGiLfXsaUzh0IE4dv6st1fvRrNwWV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J3_jgq7r9gjdkbsECXSHWUyTTe6UhcrA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Ton Vreugdenhil Fresia</param>
+      <param name="Артикул">Ed2955</param>
+      <consist name="Фрезия" unit="шт">50</consist>
+    </offer>
+    <offer id="Ed3416" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Вайт 60 см Арт. Ed3416</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UOWQ-tvX1XyZTAOFj5rt9_T_pQPRhQ9c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1saqd8d2LVPikJsI_-Ehbl5NtK_VIJxqq</picture>
+      <picture>https://lh3.googleusercontent.com/d/11_dPyQiBnr_spsZ9xvbFmgOmHVdCwJgb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ha1aNupT49hfad9E4Lex5XNUSB1QOwPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ibAA1TL4x8hUPA2uGib_VftLJ7MsfhvO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ed3416</param>
+      <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Ed3976" available="true">
       <categoryId>37</categoryId>
