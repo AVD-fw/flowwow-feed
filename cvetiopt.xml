@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-03T11:16:19.822+03:00">
+<yml_catalog date="2025-12-03T11:25:25.024+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -177,6 +177,24 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Fc00877</param>
       <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc14877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Лионкинг 70 см Арт. Fc14877</name>
+      <price>110</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1o7Xshc-Ol4YHple_ZwbLBMPAA-zDsMoB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S-Gm_79gZ3A-Ek1-vtaJPoJ2QslydAvz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A_GrR3dmL7pdYVLQKZzBHKUBJ6e6uz9k</picture>
+      <picture>https://lh3.googleusercontent.com/d/10TPQ5JrVQwETDFNuLcTki6737Bc84c1T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bfzj9motjRbNeoNwn9d8FqRGpSEupPlL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc14877</param>
+      <consist name="Хризантема кустовая Лионкинг" unit="шт">5</consist>
     </offer>
     <offer id="Fc03477" available="true">
       <categoryId>6</categoryId>
@@ -374,6 +392,42 @@
       <param name="Артикул">Fc19147</param>
       <consist name="Гвоздика одноголовая Форси" unit="шт">25</consist>
     </offer>
+    <offer id="Fc01445" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Бамбу 50 см Арт. Fc01445</name>
+      <price>88</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Y9WjhE5MIdv7mr-uUby1G8uBRMUHmZ0E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aPK4rmPs83hSg9MW3Vt7D_6ga2vZitly</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rDr4qHDRQE74TFOUgW5cjCuLh3hAHDPW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zO6yW9KHJe2JoE5188j2IjJQEeu4Gj-6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JOpgiU6hv6cMPbiqrAjN4erbAqXwjqq1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc01445</param>
+      <consist name="Гиперикум Коко Бамбу" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc02335" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Казино 50 см Арт. Fc02335</name>
+      <price>132</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oEHl7IZeuzos3wwAmMsn8jljdn6XSmhd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-lG5VPWi-aZELY7cE99LL7rTI_4omvTL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O2-wzmOQ3lOOEl0lMFXsMxIDhaBBA6p8</picture>
+      <picture>https://lh3.googleusercontent.com/d/100xjccpk1e5MZYeQxe_-eNVFlyRO2D8G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dgP6yFB7Ze7jqeortZDzmvE4QqcgUaWK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc02335</param>
+      <consist name="Гиперикум Коко Казино" unit="шт">10</consist>
+    </offer>
     <offer id="Fc15178" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Разноцветный 80 см Арт. Fc15178</name>
@@ -487,17 +541,35 @@
       <price>143</price>
       <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1tKBEu62SNqNcAERDFVxrCQLrGHTjdLLb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Qs4IAunST8xL9azxiJCJ2xJdvVystS7F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pnJjPjj-8RTAQmHM4q3To-nrNHEWVf6U</picture>
       <picture>https://lh3.googleusercontent.com/d/1XexSYSutmYlLDfOtlG2h6ofISCVHvQl_</picture>
       <picture>https://lh3.googleusercontent.com/d/1cupR-bgKtMLk_vEIxKlDqLCN608OTHqt</picture>
       <picture>https://lh3.googleusercontent.com/d/1Lk-cX0ILqgcsoZZxLUuYQneU3vQ4zAS8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tKBEu62SNqNcAERDFVxrCQLrGHTjdLLb</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">De Waal Fensie</param>
       <param name="Артикул">Fc01457</param>
       <consist name="Кампанула Чемпион Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc04905" available="true">
+      <categoryId>37</categoryId>
+      <name>Краспедия Желтый 50 см Арт. Fc04905</name>
+      <price>44</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AiQZg5PnabxPfHm33Jpb-l3nFLWbGisT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DZ9n4i4H3IMFTpcOCFhR9mlXxQdln_sl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TSclWNJj-sH06LPaUkZjbj7Q3-LFDZkW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SqjSnMXvp5ui7d_9s62j4djij6vJbupP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xsvqG3OetjGlFTrwKCR8JlNHIDY3RqCV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Beauty Line</param>
+      <param name="Артикул">Fc04905</param>
+      <consist name="Краспедия" unit="шт">10</consist>
     </offer>
     <offer id="Fc04855" available="true">
       <categoryId>37</categoryId>
@@ -541,11 +613,11 @@
       <price>352</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1y3S2j3wYitm7glq5tmpeTuAjq6AQFzq-</picture>
-      <picture>https://lh3.googleusercontent.com/d/10gWDxDAY3ICRcCDi9jenx3GHuuZETiny</picture>
+      <picture>https://lh3.googleusercontent.com/d/195Vr8qk1DN_-gJcp8HHbu6NFC1pAsTvt</picture>
       <picture>https://lh3.googleusercontent.com/d/1sAxkznvlgORbWbd29HwtS4RvYYtbcNgA</picture>
       <picture>https://lh3.googleusercontent.com/d/1RTk5-LarMyFaj4IT9tNmCEcxp8i-78UZ</picture>
       <picture>https://lh3.googleusercontent.com/d/1oWT2v1o0l8lhireI2KeHB5tRSrbeV2gp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y3S2j3wYitm7glq5tmpeTuAjq6AQFzq-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
@@ -621,6 +693,42 @@
       <param name="Артикул">Fc04235</param>
       <consist name="Фрезия" unit="шт">50</consist>
     </offer>
+    <offer id="Fc01825" available="true">
+      <categoryId>38</categoryId>
+      <name>Гиперикум Коко Диабло 50 см Арт. Fc01825</name>
+      <price>165</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uqE6g18x36p4kyJO0NNxwu8oVUwS6Upb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZrmILWxrCftcbozJ7oiHShJ-UBkt4htC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kZD2jxkqsKM78ES42U4bvq4ZUn1fP8Gl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xPQ8FaUYU9VuMy5S1iPpWp5yoPk2q9O3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PkY8CXDuccAEPrpAmOuvUffLBhRdUEoS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc01825</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc5885" available="true">
+      <categoryId>38</categoryId>
+      <name>Гиперикум Коко Уно 50 см Арт. Fc5885</name>
+      <price>66</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19BD5rlnKuZPv0cROmadIJq2ZKQubpep7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ghR5w3UgA_6KlvaiS8u9DtkBLI3yf_LP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mxALzW-E5bpMSsbRBuN9dKGA-NXQNGSw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xlPCPYNl6mz3OqeyMpCHkjhPgn_TkuUP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hiKf98xNiFCnzKZhfCtgCF1Cw4htfIHo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc5885</param>
+      <consist name="Гиперикум Коко Уно" unit="шт">10</consist>
+    </offer>
     <offer id="Fc12666" available="true">
       <categoryId>38</categoryId>
       <name>Илекс Красный 60 см Арт. Fc12666</name>
@@ -637,6 +745,59 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc12666</param>
       <consist name="Илекс Красный" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc5854" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Красный 40 см Арт. Fc5854</name>
+      <price>418</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-l_k8qt294Eh027317irZnDX8GkTftbx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1shn3FVyYhCIWm3e7rObjQcsb7K-HRWE9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RWlFWjaLYIGMqRDDM_LGt27qKoChb4tv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-RCJPrgK4V6s6J_c1hjBitj1mlxEpdlo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1unf5zILbARiqeex_quMVTQmChZvWv39E</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc5854</param>
+      <consist name="Скиммия" unit="шт">1</consist>
+    </offer>
+    <offer id="Fc01705" available="true">
+      <categoryId>38</categoryId>
+      <name>Солидаго Карзан Глори 50 см Арт. Fc01705</name>
+      <price>99</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1auJNAHhV3H_A_qKtq2Huw4VflQzTvzFB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-Cr5U_fx9obLlA2czQ9fQ0suNq03sxJB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k6w-XNViMhN2mDV3HYZBredF4D9-wuhM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XB80YlTEvUiIpf-xSVmvUVqNsBZw_4ld</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tnMyAElMQskHWFVxyLaNCxmhXZGNoUO8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Fc01705</param>
+      <consist name="Солидаго Карзан Глори" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01975" available="true">
+      <categoryId>38</categoryId>
+      <name>Эрингиум Синий 50 см Арт. Fc01975</name>
+      <price>198</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1n4gZPudDYoaz7d38JGmph40Ro88rac9K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TeFP5xVRuCRDftl1kDHH3TFq7-aMRgAM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vpdTk34O1mcl_IfWWPvW9davR4199HnZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y6dFEi8k4hTYLton9cJP1ttAo_9GPA-L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r7-wQdzX7ObNp2f2rA7PqqwS-DJCtJQf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Fc01975</param>
+      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
