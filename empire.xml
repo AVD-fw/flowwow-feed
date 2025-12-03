@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-03T09:59:54.704+03:00">
+<yml_catalog date="2025-12-03T10:03:45.823+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -34,6 +34,24 @@
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ed3376</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ed00425" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Касабланка 50 см Арт. Ed00425</name>
+      <price>40</price>
+      <qty>100</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yF9ABy5P-X_zD3w2gVRdHj-TSgja8wDd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mHKSOdiRZmh4KaBNUebwsGUfY72uZCK_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FRHur2iTxidTCqgRTE_DyAwDRJohNNrC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nxGxYQXz7yIirmYdaADopNh30gUO6gYS</picture>
+      <picture>https://lh3.googleusercontent.com/d/14SpWTaUN9QjMOMC-QiWec9ePkQiBWUEI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ed00425</param>
+      <consist name="Ирис Касабланка" unit="шт">50</consist>
     </offer>
     <offer id="Ed3976" available="true">
       <categoryId>37</categoryId>
