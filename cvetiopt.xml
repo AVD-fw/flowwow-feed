@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-04T08:56:20.168+03:00">
+<yml_catalog date="2025-12-04T09:05:43.623+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fc17646" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 60 см Арт. Fc17646</name>
+      <price>97</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xVxQnlNNSSZw2E-YTraCAm-NjhAXplYT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yzpIAhqYTZsgfjoKSLCP-g79yocZz7o8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cCa_empwhhPv6a_6jgBBfhH-Q3m1MnYW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bEkdRjomtkOefL4J79E-UycYJrBtm_8u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1daB5rJ6dPypFuF-zcQ3Rh4aDCx8720im</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc17646</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
     <offer id="Fc02536" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Маритим 60 см Арт. Fc02536</name>
@@ -51,6 +69,21 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Линия Розы</param>
       <param name="Артикул">Fc02516</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc17717" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 70 см Арт. Fc17717</name>
+      <price>108</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12vEkRhzQCmFZlPesqZSjwtoAo2TxCwD3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J79d2o8dvNbhFWsn7JvbG4_9t_buxyav</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc17717</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
     </offer>
     <offer id="Fc15855" available="true">
@@ -517,6 +550,24 @@
       <param name="Артикул">Fc03105</param>
       <consist name="Гвоздика кустовая Джианна" unit="шт">10</consist>
     </offer>
+    <offer id="Fc03147" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Брют 70 см Арт. Fc03147</name>
+      <price>55</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gw-WSBuvnlLhVCJOSZxf1-Nap3NalnAh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1__gOoPp_08ai5kaLFwab5-uPbm1mDL3o</picture>
+      <picture>https://lh3.googleusercontent.com/d/15JRc5YNdD8kshLwlxRQWzV2M1yWZCkK8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mdr7KF94P6q2JsWwryV1uRdchlevwzIK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fsu9Q9R1KVOilahhwLB5zHY_qPbFAuWm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc03147</param>
+      <consist name="Гвоздика одноголовая Брют" unit="шт">25</consist>
+    </offer>
     <offer id="Fc03787" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Грин Трик 70 см Арт. Fc03787</name>
@@ -570,6 +621,21 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fc11017</param>
       <consist name="Гвоздика одноголовая Каори" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc14907" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Клеар Ватер 70 см Арт. Fc14907</name>
+      <price>55</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1en8uL9GYQmgK3TcmqKbxh1EKr1F1veiJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gtmUsISb5X0M0Sz5k3GkUlSxm-SYlGRb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc14907</param>
+      <consist name="Гвоздика одноголовая Клеар Ватер" unit="шт">25</consist>
     </offer>
     <offer id="Fc9737" available="true">
       <categoryId>37</categoryId>
@@ -676,6 +742,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc18857</param>
       <consist name="Илекс Оранжевый" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc5435" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Белый 50 см Арт. Fc5435</name>
+      <price>46</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1794u9gaH3DrhuhQhQWjkVkaREKjqdks-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zeCtJQj-iXKLCDvcDPKw__ZSP2-vg3rG</picture>
+      <picture>https://lh3.googleusercontent.com/d/19q2MxamLtnVvTpFyv8Ehs1Js4d7Nz7DW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dnMV6AY6SEvGtinPJtHaMMyDdyTP4pDk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HlRjfbG31TdlEtiQ5JaF9uxPGQSl2Ts_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc5435</param>
+      <consist name="Ирис" unit="шт">50</consist>
     </offer>
     <offer id="Fc02026" available="true">
       <categoryId>37</categoryId>
