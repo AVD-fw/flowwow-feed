@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-04T08:54:37.290+03:00">
+<yml_catalog date="2025-12-04T09:01:27.856+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -77,9 +77,9 @@
       <categoryId>450</categoryId>
       <price>1335</price>
       <qty>10</qty>
-      <picture>https://lh3.googleusercontent.com/d/1u2VbsdQuhNEvp5zSNFzp3Dpa2JwOU7ws</picture>
-      <picture>https://lh3.googleusercontent.com/d/13Km5lpHsz0fCic69K49zACfPvQjofN6u</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nETPiPew58r6JkPvyvECheF9crXVRm5b</picture>
+      <picture>https://lh3.googleusercontent.com/d/17devCayo4ARDt-uYopLQJAie1xVMEBnn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TwmujFYqCn17jaJofs6udKdbf0wo0pw-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1whyPy4RcIIfyX3clSwLmCrP02AYfdgGy</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
@@ -167,6 +167,22 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">La3217c</param>
       <consist name="Роза одноголовая Скайвард" unit="шт">10</consist>
+    </offer>
+    <offer id="La3255c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Лидия 50 см Арт. La3255c</name>
+      <categoryId>450</categoryId>
+      <price>1915</price>
+      <qty>18</qty>
+      <picture>https://lh3.googleusercontent.com/d/168567NDGtqHvWGmNsBJbJVjyKY2Phvqc</picture>
+      <picture>https://lh3.googleusercontent.com/d/16EpKhqtdrwNJDel6XklLpWYaHrAv7RUO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J9vs_G_qdYUjXb6oE5MdS287lLIh9POi</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">La3255c</param>
+      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
     </offer>
     <offer id="La1786c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Барбадос 60 см Арт. La1786c</name>
