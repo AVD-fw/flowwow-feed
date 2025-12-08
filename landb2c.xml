@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-08T13:21:24.478+03:00">
+<yml_catalog date="2025-12-08T13:24:42.094+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -577,6 +577,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La3416c</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="La3536c" available="true">
+      <name>Пачка (10 шт.) Маттиола Желтый 60 см Арт. La3536c</name>
+      <categoryId>450</categoryId>
+      <price>3322</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1MSMdriWMydmkGf6eeuqFrNzLCkKPZn_y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HH95FzMw2H7FztTtqKPMweJEUtl7tz1n</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CoNbX7RLpy6Gwuvz_i2bs-rFINzB_v2s</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">La3536c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="La3197c" available="true">
       <name>Пачка (10 шт.) Статица Фиолетовый 70 см Арт. La3197c</name>
