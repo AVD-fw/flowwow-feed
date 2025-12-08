@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-08T07:35:50.942+03:00">
+<yml_catalog date="2025-12-08T07:41:57.877+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Ed3787c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Желтый 70 см Арт. Ed3787c</name>
+      <categoryId>450</categoryId>
+      <price>1835</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/117hJiPQ9RnAW5VpJWT0PRk_NAyP9EWUc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kK8YoYHmq-_GSjtkxsqxdvPyQVry1cAO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bf4rqLKpQmWOUeS6gaf7uwnqvFMvRfdM</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Ed3787c</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Ed2167c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Антонов 70 см Арт. Ed2167c</name>
       <categoryId>450</categoryId>
@@ -39,6 +55,22 @@
       <param name="Производитель">GG Flowers</param>
       <param name="Артикул">Ed4637c</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Ed2866c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Алтай Еллоу 60 см Арт. Ed2866c</name>
+      <categoryId>450</categoryId>
+      <price>900</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZrsavIUXEg9NsXXVglBTYKH3J6FNgTrb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MeAwKrWD5LHyHODwpKjNy_6ChWvMXsPL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1exjm1Rjm4ro99K12p9exWdcQOn38AQCY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ed2866c</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
     <offer id="Ed2247c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Бакарди Еллоу 70 см Арт. Ed2247c</name>
