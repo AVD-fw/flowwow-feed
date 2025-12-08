@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-08T07:33:48.043+03:00">
+<yml_catalog date="2025-12-08T07:39:43.978+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ed3787" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Желтый 70 см Арт. Ed3787</name>
+      <price>144</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/105yF6d545HVYcDyGs5GHab6r1IUA6j7v</picture>
+      <picture>https://lh3.googleusercontent.com/d/11wW-9ax3SKW5nQxMQdS-h81pNH8s3TmQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cVehFp9uOa4FL6-kvFj2A7KpdgjxKroz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BloIIL3A0_p2Sk0oPqpNKQir19xk64eH</picture>
+      <picture>https://lh3.googleusercontent.com/d/170PAeluah-iIbnB4U0VwSsCSoh4VXl_o</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Ed3787</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Ed2167" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. Ed2167</name>
@@ -35,6 +53,23 @@
       <param name="Артикул">Ed2167</param>
       <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
     </offer>
+    <offer id="Ed4617" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая 70 см Арт. Ed4617</name>
+      <price>95</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13xq9vQUtRegOdlAuC3KmvJD7EiNK1C6f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B8Y7uQeoUWVttFLCvee8jki7m9ukAQiL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HYRFRp8Bn-aRnfsRshpudwq9bXnr9p-E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vWxE2P4riR6DLI1-Zf9sZHgb4GGYR6b6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HJNCHR5fNmT0Q-iYTgjMO7pZv5eS1Dj9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ed4617</param>
+      <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
     <offer id="Ed4637" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая 70 см Арт. Ed4637</name>
@@ -52,6 +87,24 @@
       <param name="Производитель">GG Flowers</param>
       <param name="Артикул">Ed4637</param>
       <consist name="Хризантема кустовая" unit="шт">5</consist>
+    </offer>
+    <offer id="Ed2866" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ed2866</name>
+      <price>125</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17lPA3suzLBraz-RcOp_GqBuAiseUJxyN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A6p2de-zdBl5Pzb-MKccVOVRHKeFlKeo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pgY0ki-6WHiS5t5KVXFIqBMP7g0KxKVY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l9f_6KTu8jCKvo0biX4TuGlJvWPU_2PE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AUrEJxnjVxt35umQp8KmSYO79RWEVu9i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ed2866</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
     <offer id="Ed2247" available="true">
       <categoryId>6</categoryId>
