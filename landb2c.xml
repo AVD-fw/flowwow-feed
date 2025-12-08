@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-08T13:24:42.094+03:00">
+<yml_catalog date="2025-12-08T13:31:28.751+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -55,6 +55,22 @@
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La1345c</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="La3565c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Анна Карина 50 см Арт. La3565c</name>
+      <categoryId>450</categoryId>
+      <price>1335</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1t9utYvuge9Y8Lp_U_7Eu-UzKEAqSxEyA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N0rW3qeudrVeh5gOVDbFjQ0IvPTuZtw2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-KINTjsA85IBhrpa7snFgqwWhHA_aAc6</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La3565c</param>
+      <consist name="Роза одноголовая Анна Карина" unit="шт">10</consist>
     </offer>
     <offer id="La1225c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Джумилия 50 см Арт. La1225c</name>
@@ -548,6 +564,21 @@
       <param name="Артикул">La3505c</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
+    <offer id="La3615c" available="true">
+      <name>Пачка (10 шт.) Альстромерия Вайт Форест 50 см Арт. La3615c</name>
+      <categoryId>450</categoryId>
+      <price>1035</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1yQbePOQlafQR21gEapq56iFKnVqqPn5V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1foLxsVVM1JzKlGL3NVc2cuf_VSWmLfev</picture>
+      <picture>https://lh3.googleusercontent.com/d/1auiXhQhdlPSlLFZbfRrJu2KHWbyeK3ac</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">La3615c</param>
+      <consist name="Альстромерия Вайт Форест" unit="шт">10</consist>
+    </offer>
     <offer id="La3164c" available="true">
       <name>Пачка (20 шт.) Вероника кустовая Смарт Фонтан 40 см Арт. La3164c</name>
       <categoryId>450</categoryId>
@@ -591,6 +622,36 @@
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">La3536c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="La3596c" available="true">
+      <name>Пачка (10 шт.) Маттиола Розовый 60 см Арт. La3596c</name>
+      <categoryId>450</categoryId>
+      <price>3322</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1oHzo5wgKmHorSZQsQeB9xXdZBeKJp0k_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LeBvvVJ2EgoPtvhrNBAjPttB5tZ4gQit</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DbHghXLMv3XcJnJsrWG71KhdCtbmE4MX</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La3596c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="La3606c" available="true">
+      <name>Пачка (10 шт.) Маттиола Розовый 60 см Арт. La3606c</name>
+      <categoryId>450</categoryId>
+      <price>3322</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1LClLj60lA1YRvbeLxTT-PPkQAqcrB7UP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mSnD1v4Bx184y57wbzKPG9elEFK58u5D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kGRZGajnAsWy6NowIzcpUGLESyTGJ_5T</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La3606c</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="La3197c" available="true">
