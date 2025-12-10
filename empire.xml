@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-10T08:29:40.847+03:00">
+<yml_catalog date="2025-12-10T08:33:59.255+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -70,6 +70,24 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ef2247</param>
       <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef3076" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Пастелла Пинк 60 см Арт. Ef3076</name>
+      <price>95</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1K43A-VSXN12Bat7bBZvbTkm4tQWSXppk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MkdzUZTGaGxOmAeat4a8Iy6z5tDFHHWR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s7DjVDFqUwDUag2PoQhFsSQMvSToyZ-Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rqW4mZYNJ8KLvKPEKAP2UU60JRGGpH08</picture>
+      <picture>https://lh3.googleusercontent.com/d/13fbvLdPWm5n7KpOjNjMsSHsnx8FkSeVp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada Flowers</param>
+      <param name="Артикул">Ef3076</param>
+      <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Ef01005" available="true">
       <categoryId>7</categoryId>
@@ -155,6 +173,42 @@
       <param name="Артикул">Ef4837</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
+    <offer id="Ef4496" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Бамбу 60 см Арт. Ef4496</name>
+      <price>125</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pMt78BUb-da98-gYvgpjS0LSDBp0qcA3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SD-w4MJp4TmSjJzs8Nq2hfNBwwh27VKa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NwBVheLwbasLDyuKytMNatpt_9ce_nPA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vnFG85WgvuK9q10-OWPbDhCLipwDdxXS</picture>
+      <picture>https://lh3.googleusercontent.com/d/14IVuYP5qWbkiJCio2iFf4PBylLW_LycG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Ef4496</param>
+      <consist name="Гиперикум Коко Бамбу" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef4486" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Диабло 60 см Арт. Ef4486</name>
+      <price>125</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W9YBMz59cRvikmG_EWEIPk3KJW4TPZ8z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n-t0ivEL_LEsfJCMsvSK9PPtgsuNi-Y_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qkD1Zo6tJnWrxgKIzaQ3NNeiLAgiznJ5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dbMG2H70995qfFr2E7Gm4lV7yiURjmlO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PZlOHoFapB0zadRQIwXPVk3trln9ZFGw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Ef4486</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
+    </offer>
     <offer id="Ef00537" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Радужный 70 см Арт. Ef00537</name>
@@ -208,6 +262,114 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ef3397</param>
       <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00306" available="true">
+      <categoryId>37</categoryId>
+      <name>Танацетум Белый 60 см Арт. Ef00306</name>
+      <price>50</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oupVOPGRtd5gjglS7csB7KBUJFjYUHUr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iMpWIz4SqG7PNzk_tdL5cR3bgI8EDHVg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RJ4zfUORqwQVDsln3lEtMunlr2Je8e2G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X7-4mzu1X5zPQkBXPqT721w9Re5pKQ25</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VLwf4fskk8svVCr0krJIxGJG2CE0nMV2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Matricaria by W. Grootscholten</param>
+      <param name="Артикул">Ef00306</param>
+      <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef2955" available="true">
+      <categoryId>37</categoryId>
+      <name>Фрезия Разноцветный 50 см Арт. Ef2955</name>
+      <price>70</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fyMalyUlWzo1k0NHfjoWTmCi6QaZSy7o</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mifBdUrt9PZ0meqsp3D46BVBwj_h1RCX</picture>
+      <picture>https://lh3.googleusercontent.com/d/17NyPGiLfXsaUzh0IE4dv6st1fvRrNwWV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J3_jgq7r9gjdkbsECXSHWUyTTe6UhcrA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ggK5JAiO5nrKvdYM_Tialtl0zoU6-fq_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Ton Vreugdenhil Fresia</param>
+      <param name="Артикул">Ef2955</param>
+      <consist name="Фрезия" unit="шт">50</consist>
+    </offer>
+    <offer id="Ef3416" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Вайт 60 см Арт. Ef3416</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UOWQ-tvX1XyZTAOFj5rt9_T_pQPRhQ9c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1saqd8d2LVPikJsI_-Ehbl5NtK_VIJxqq</picture>
+      <picture>https://lh3.googleusercontent.com/d/11_dPyQiBnr_spsZ9xvbFmgOmHVdCwJgb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ha1aNupT49hfad9E4Lex5XNUSB1QOwPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ibAA1TL4x8hUPA2uGib_VftLJ7MsfhvO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ef3416</param>
+      <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef2496" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Корелли Лавандер 60 см Арт. Ef2496</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SKobvU1rKs5mT90hYyrGTts6TIfPpcVW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bLbeSeAjiqyw8toUBraf-ROFh1sqebPv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N7SPmuZ_Oc51QLRDgVP19tTjtbnbmcsX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ieR0HCJtaSUbxB64nfLg5npeY7h7y5fy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yuA-9SFZr8rPWdb2MsIRudDCi-rfjj96</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Ef2496</param>
+      <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef2707" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Лисанне Лайт Пинк 70 см Арт. Ef2707</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xtZS85O-55RC5ce6u4gDbtYeg3WcKO7Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pWJFUMIWWgt9weEIvtSGLBvpaD4gHtvF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e3frHglOsAhBDqjR4B2jtPqd_daYzUx2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s6JsPs9HHerV3d5Yu7nAcb-PtQUL7iI3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e3frHglOsAhBDqjR4B2jtPqd_daYzUx2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef2707</param>
+      <consist name="Эустома Лисанне Лайт Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef00257" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 70 см Арт. Ef00257</name>
+      <price>145</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17T_3u7PDwZB-xra6tCESvZhJ3l66vA3s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ifU0Hz7NdzOFlg8S2AeSU5hgEwVdz0Gh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fUa9cFHPgJ9lVLtVm-nBmM9S0v1-65gp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gVC8fkWquBtO_5pAfwHMrR6QbFj66bJi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1evlpvV0tTGh6_JnuV7liE2gvsfCV-e0e</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef00257</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Ef01125" available="true">
       <categoryId>38</categoryId>
