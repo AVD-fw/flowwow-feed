@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-10T08:37:00.682+03:00">
+<yml_catalog date="2025-12-10T08:47:03.821+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -134,6 +134,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Va0877c</param>
       <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
+    <offer id="Va3037c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Делигрин 70 см Арт. Va3037c</name>
+      <categoryId>450</categoryId>
+      <price>770</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1E4PxEFr20tr9LRiglWPQgr6naY49hMTv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DX13ESjuqZKYnBOabKdTxWbsvSuMzLJk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RAbPysDKWO5T8VkzjZuXMdGIVitcbgGV</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Va3037c</param>
+      <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
     </offer>
     <offer id="Va1986c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Калимба 60 см Арт. Va1986c</name>
@@ -310,6 +326,38 @@
       <param name="Артикул">Va0767c</param>
       <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
     </offer>
+    <offer id="Va1575c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Байкал 50 см Арт. Va1575c</name>
+      <categoryId>450</categoryId>
+      <price>2390</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/16skXpYjA5yS6iyLv3mkdUwAGP3dU3pxL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FcxV_HYpwwc4j4TpZa6FC8Ek_u4P1A5f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dZAoeroahVZeS20JBjnT4MczhsY7ZbxA</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va1575c</param>
+      <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1735c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Санни 50 см Арт. Va1735c</name>
+      <categoryId>450</categoryId>
+      <price>2390</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/16b3K8hduOZfXEtoHmqwQxBttwi-Y23yD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R9zNSpFBtRQn2SN80OGX5iwX15Yna5TV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tmwIFK_Xp9NgOkPayI9t86H1g6NI_5Ca</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Va1735c</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
     <offer id="Va0115c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Сан Ап 55 см Арт. Va0115c</name>
       <categoryId>450</categoryId>
@@ -356,6 +404,21 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Va2626c</param>
       <consist name="Вероника Диана" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1295c" available="true">
+      <name>Пачка (10 шт.) Гвоздика кустовая Розовый 50 см Арт. Va1295c</name>
+      <categoryId>450</categoryId>
+      <price>805</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/19fUMxonq3SnVHuVH2Y6ocOCZdCsHOqmy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OHP6zhabQxASPxbmYvGeWLGqFFONwvTb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oR6781dgO3rWkpy1rpOhwBs4aZc9Us4T</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va1295c</param>
+      <consist name="Гвоздика кустовая" unit="шт">10</consist>
     </offer>
     <offer id="Va0386c" available="true">
       <name>Пачка (20 шт.) Гвоздика одноголовая Розовый 60 см Арт. Va0386c</name>
@@ -431,6 +494,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va2077c</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Va2197c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Красный 70 см Арт. Va2197c</name>
+      <categoryId>450</categoryId>
+      <price>1805</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1r8z4KqNfPsJu29m8fUvAgPK6Y3maKDZ5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C2mXeJXSsF0eHdDPCqPF9r0dOjVhEdQW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LUVMxG2o9UzEJA7gnN4MIllLLU-e94PP</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va2197c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="Va0446c" available="true">
       <name>Пачка (30 шт.) Гвоздика одноголовая Грин Трик 60 см Арт. Va0446c</name>
@@ -677,6 +755,38 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Va0696c</param>
       <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Va3006c" available="true">
+      <name>Пачка (10 шт.) Эустома Лисенн Лавандер 60 см Арт. Va3006c</name>
+      <categoryId>450</categoryId>
+      <price>2210</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1EneYvkaDT0kzTqGTEpzFixei-4Q18nzf</picture>
+      <picture>https://lh3.googleusercontent.com/d/14M2hX0c1ScDZfeSVLdnF0bBKxZPMaDYB</picture>
+      <picture>https://lh3.googleusercontent.com/d/12GGwE6nwehDZUV5skq2PC92tM-ACccey</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Va3006c</param>
+      <consist name="Эустома Лисенн Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Va0566c" available="true">
+      <name>Пачка (10 шт.) Эустома Росита Вайт 60 см Арт. Va0566c</name>
+      <categoryId>450</categoryId>
+      <price>2105</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1CB62X_ID2arkwYi0y3HyLCnpWGw3bL66</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-XuQBVgwxBlqsfkLYB8EKTC4yUE8-46B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s2bFi2x0ShQWCs6zy9u0G3EB7nauRyuv</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Va0566c</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Va1246c" available="true">
       <name>Пачка (10 шт.) Эустома Росита Пинк 60 см Арт. Va1246c</name>
