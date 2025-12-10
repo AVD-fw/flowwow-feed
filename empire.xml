@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-10T08:23:46.727+03:00">
+<yml_catalog date="2025-12-10T08:29:40.847+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ef3787" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Желтый 70 см Арт. Ef3787</name>
+      <price>144</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FFkjU3whHCRo5TDsebXjEUsDVezWtF69</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cVehFp9uOa4FL6-kvFj2A7KpdgjxKroz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BloIIL3A0_p2Sk0oPqpNKQir19xk64eH</picture>
+      <picture>https://lh3.googleusercontent.com/d/170PAeluah-iIbnB4U0VwSsCSoh4VXl_o</picture>
+      <picture>https://lh3.googleusercontent.com/d/105yF6d545HVYcDyGs5GHab6r1IUA6j7v</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Ef3787</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Ef2866" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ef2866</name>
@@ -53,6 +71,24 @@
       <param name="Артикул">Ef2247</param>
       <consist name="Хризантема кустовая Бакарди Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Ef01005" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Фиолетовый 50 см Арт. Ef01005</name>
+      <price>65</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1GeRi7dQxU9W_U7WcjvU3a2um3HAYCWKo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qGEcfNWYMHKTS2iZoxvAn85TUqOqVfQP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RLatA_ubng1eldXfgJ5ti1PEMdNNvYng</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MHbwS-nL6LqhvmFHAac0t_-_JmGOby-x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bpZcbzbhCnKvdhzbOO-RYYWVUoOywE8p</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef01005</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
     <offer id="Ef01146" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Малиновый 60 см Арт. Ef01146</name>
@@ -71,17 +107,65 @@
       <param name="Артикул">Ef01146</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
+    <offer id="Ef3376" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
+      <price>44</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oah4QlptemxKuwjnaJtNi6oqAEJ4UIqT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HZKTRft6zvMYa2O9DofcZ-dIHs3GqIYn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RnDp5l78WSqeYsz68nJC888DKjMbhD8S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZUF5OxmiliMchldJ0ZhZSmA-R6QwyyKT</picture>
+      <picture>https://lh3.googleusercontent.com/d/14yZQ0Q3vpFXd7QoXh_3Itt2nOFbsJKMZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ef3376</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef3856" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Розовый 60 см Арт. Ef3856</name>
+      <price>44</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10S5tEhyg4fApq3rd0AjZaQpRXeai2sax</picture>
+      <picture>https://lh3.googleusercontent.com/d/11EmzBqiJ9zi7kw6u8mPnJZtyiX5tOKFQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Ef3856</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef4837" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая 70 см Арт. Ef4837</name>
+      <price>44</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1au6k4IBHod429laecDus2_IGlDDkaXIL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rQ5Wf_VQSH4Jo-dDbsih5F-GVzqcbPOU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ef4837</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Ef00537" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Радужный 70 см Арт. Ef00537</name>
       <price>75</price>
       <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1U2PzJrf5lcrMqGzfNFBJki7O3z5VVxTF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1__5kzqCA7aoxFYWiEtnzweZNz1QCmMFu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dAQQSyKUMgPoiXRN8qpuQsWJeHk9y012</picture>
       <picture>https://lh3.googleusercontent.com/d/1frivXCKUbnT9mmDKwddoZZmaLdzIPK6R</picture>
       <picture>https://lh3.googleusercontent.com/d/1x9e7Rc2VFxQvYDy3Wm8TwnYY-fBDusNN</picture>
       <picture>https://lh3.googleusercontent.com/d/1A4QzqgpWnOCs-gE8jyX8Kppr4Nb67kuz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U2PzJrf5lcrMqGzfNFBJki7O3z5VVxTF</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Эквадор</param>
@@ -95,11 +179,11 @@
       <price>66</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1BSQ5WyB6Edc-SEUAFqQ8IFhsTVSigAH9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JCFY9iQGBSQ0lKVZHdHEKsg8zbHS55fL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BDFkAHrItMhWTKaACgi97aSjfVejvbJf</picture>
       <picture>https://lh3.googleusercontent.com/d/1_9gnmb0yILvT_3QdKNYPDPmOs5m0TpqE</picture>
       <picture>https://lh3.googleusercontent.com/d/14M8h1AduVAlvZ07PZ6Ih47VPhR92Unj9</picture>
       <picture>https://lh3.googleusercontent.com/d/1IIgeaJvcZOrNbkEeZG1UTuLbydwwS1jt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BSQ5WyB6Edc-SEUAFqQ8IFhsTVSigAH9</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Эквадор</param>
@@ -124,6 +208,23 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ef3397</param>
       <consist name="Гипсофила Ярко розовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef01125" available="true">
+      <categoryId>38</categoryId>
+      <name>Астильба Белый 50 см Арт. Ef01125</name>
+      <price>80</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ENYrAjIcgWQlXwgVU9w7qWDoK3Tv4VYS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BnyzVrhXMRdm-EY5rg55yfYqXrQFru2a</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wHNrQMWsW3eU5iOC4hhv5EiUd5UIF8mI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ts_WgFr3Y0DiK0wvE9_vGctBUIyoH7UR</picture>
+      <picture>https://lh3.googleusercontent.com/d/120BMgNSwL2CEc6x0Fw6boL5srzL9tugv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Ef01125</param>
+      <consist name="Астильба" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
