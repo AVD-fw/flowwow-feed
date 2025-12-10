@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-10T09:27:03.739+03:00">
+<yml_catalog date="2025-12-10T09:37:03.137+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -56,6 +56,22 @@
       <param name="Артикул">Va1726c</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
     </offer>
+    <offer id="Va2947c" available="true">
+      <name>Пачка (5 шт.) Роза кустовая Белый 70 см Арт. Va2947c</name>
+      <categoryId>450</categoryId>
+      <price>1275</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1C4ner-52ZgQbqpLTp8jDpQC8x-qijNm5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d1i3elPu9_u5WwkH8-sHR6dw5cuHGjth</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DN2aW704ttteOzjCOTd4TTtBNk0v0CwS</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эфиопия</param>
+      <param name="Производитель">Braam Born to Bloom</param>
+      <param name="Артикул">Va2947c</param>
+      <consist name="Роза кустовая" unit="шт">5</consist>
+    </offer>
     <offer id="Va1757c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Фаер Флоу 70 см Арт. Va1757c</name>
       <categoryId>450</categoryId>
@@ -71,6 +87,22 @@
       <param name="Производитель">Flora Ola</param>
       <param name="Артикул">Va1757c</param>
       <consist name="Роза кустовая Фаер Флоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Va1167c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Гуд Муд 70 см Арт. Va1167c</name>
+      <categoryId>450</categoryId>
+      <price>2375</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1jFJWW7rlONTVJmNBHm7T9vBRfGzVOyLp</picture>
+      <picture>https://lh3.googleusercontent.com/d/153WkEM4NfpsHWcXS-6ExmdhXKMpkdwRC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XbGnkzZKUXIc3ClzMpDENA-32qhq4ixB</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Flora Ola</param>
+      <param name="Артикул">Va1167c</param>
+      <consist name="Роза кустовая пионовидная Гуд Муд" unit="шт">10</consist>
     </offer>
     <offer id="Va0337c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Бразилиана 70 см Арт. Va0337c</name>
