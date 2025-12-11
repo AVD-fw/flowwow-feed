@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-11T11:44:35.132+03:00">
+<yml_catalog date="2025-12-11T11:51:27.758+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -133,6 +133,22 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">La1786c</param>
+      <consist name="Роза кустовая пионовидная Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="La3657c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Барбадос 70 см Арт. La3657c</name>
+      <categoryId>450</categoryId>
+      <price>4388</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1yuhCzbPlddmoJa6lDKsu1CM8IzG_--9r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MdFUd4c5k80WIQRc6epCqqzczGTmHelP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x24m3Xonc8zZACNsN8JL3isHsvA2c8-J</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">La3657c</param>
       <consist name="Роза кустовая пионовидная Барбадос" unit="шт">10</consist>
     </offer>
     <offer id="La3427c" available="true">
@@ -354,6 +370,21 @@
       <param name="Страна">Эквадор</param>
       <param name="Артикул">La3615c</param>
       <consist name="Альстромерия Вайт Форест" unit="шт">10</consist>
+    </offer>
+    <offer id="La3677c" available="true">
+      <name>Пачка (25 шт.) Гвоздика кустовая Селект Ред 70 см Арт. La3677c</name>
+      <categoryId>450</categoryId>
+      <price>1604</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Q9EFzqkUNiN9o7Hr_kvPdPKoA-9S3op0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U6ZnjRI-g-TOIOTP8ePY4sy79NmKM_xZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w-8BV96pakiQYd5UUJZ4bf4YIpeqPdQj</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Турция</param>
+      <param name="Артикул">La3677c</param>
+      <consist name="Гвоздика кустовая Селект Ред" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
