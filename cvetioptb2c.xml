@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-12T14:19:48.424+03:00">
+<yml_catalog date="2025-12-12T14:29:17.133+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Fc02406c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Мисс Бомбастик 60 см Арт. Fc02406c</name>
+      <categoryId>450</categoryId>
+      <price>2395</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1AXbDZ1XY1y-d_6wBJvLm2n14pjmAlrzm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RREzIfKdL7cG6-xYPfasLtRFwrAx6rXX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Yjovt2ERKJQPlklVOBIiSYyWlpNMdpmu</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc02406c</param>
+      <consist name="Роза кустовая Мисс Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Fc5698c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Саммер Денс 80 см Арт. Fc5698c</name>
       <categoryId>450</categoryId>
@@ -263,6 +279,22 @@
       <param name="Артикул">Fc00957c</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Fc17557c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Бакарди 70 см Арт. Fc17557c</name>
+      <categoryId>450</categoryId>
+      <price>685</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/11dYSBL3bJXpmubeBNHxuUfHI6x0pSjyW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KVM_jcfzt3-wjd3ELsvG75f0msa4QauG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yHfnRmb9yCipU58GGT4xCUmKG8jh1vyo</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc17557c</param>
+      <consist name="Хризантема кустовая Бакарди" unit="шт">5</consist>
+    </offer>
     <offer id="Fc00887c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Бонус 70 см Арт. Fc00887c</name>
       <categoryId>450</categoryId>
@@ -279,6 +311,22 @@
       <param name="Артикул">Fc00887c</param>
       <consist name="Хризантема кустовая Бонус" unit="шт">5</consist>
     </offer>
+    <offer id="Fc03367c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Делигрин 70 см Арт. Fc03367c</name>
+      <categoryId>450</categoryId>
+      <price>685</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ps5qFHKFuNA1DVQ7iDXfW8bTOjrYMRuY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NADgLiVTa9bPDQPoWF1EERmj5Lz1nn6S</picture>
+      <picture>https://lh3.googleusercontent.com/d/16VSohKNoHgOLd7NLvS2tBN-GijMtjgkQ</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc03367c</param>
+      <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
+    </offer>
     <offer id="Fc12217c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Калимба 70 см Арт. Fc12217c</name>
       <categoryId>450</categoryId>
@@ -294,6 +342,54 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Fc12217c</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc00877c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Командер 70 см Арт. Fc00877c</name>
+      <categoryId>450</categoryId>
+      <price>685</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1A6wLqZ1lyD0rvBEfJpEwyBB6XMUYX1g1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rUT-4WMTjHFj0xSJaXryj-McA_lLe1Dl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1inEV0fnjVsCdHVkWF8oz6IrpipPDO764</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc00877c</param>
+      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc03477c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Ньютон 70 см Арт. Fc03477c</name>
+      <categoryId>450</categoryId>
+      <price>685</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1GyKQMdwa7jYlT-AIE2JspXsbdhcJQfUF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TudWmB-ITs_1QS1RZVp0fyuEHUFr0uEX</picture>
+      <picture>https://lh3.googleusercontent.com/d/18jBFe8AVzELTLVCr0j6Bfbakw9H4EsgM</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc03477c</param>
+      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc15527c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Пастелла Розе 70 см Арт. Fc15527c</name>
+      <categoryId>450</categoryId>
+      <price>685</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/18DonRLXPx7_LO5RC899XvIZ-4lvpL0in</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E2T5MNdENUF7gsJ3n4lKRKZwIFMLCSJx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-vuyJ9EXs-3a6HJWnfIGdxa2hc9qisdO</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc15527c</param>
+      <consist name="Хризантема кустовая Пастелла Розе" unit="шт">5</consist>
     </offer>
     <offer id="Fc00937c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Рианна 70 см Арт. Fc00937c</name>
