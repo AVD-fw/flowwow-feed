@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-15T13:57:07.098+03:00">
+<yml_catalog date="2025-12-15T14:07:05.920+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -341,6 +341,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Va1575c</param>
       <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1565c" available="true">
+      <name>Пачка (10 шт.) Хризантема Сантини Пепталк 50 см Арт. Va1565c</name>
+      <categoryId>450</categoryId>
+      <price>1195</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/10lr1eu90-3bLzIz7zw5fFXpaemqir3J9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oNBk9ZIh9iVxIzzxtqh6j1X9C6BVZEtr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EbIjEFJkiUtvh-wkxHLM4m9Ea-mthLB-</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va1565c</param>
+      <consist name="Хризантема Сантини Пепталк" unit="шт">10</consist>
     </offer>
     <offer id="Va0127c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Вайт 70 см Арт. Va0127c</name>
