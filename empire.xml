@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-16T07:03:43.878+03:00">
+<yml_catalog date="2025-12-16T07:09:37.572+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ef3787" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Желтый 70 см Арт. Ef3787</name>
+      <price>117</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FFkjU3whHCRo5TDsebXjEUsDVezWtF69</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cVehFp9uOa4FL6-kvFj2A7KpdgjxKroz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BloIIL3A0_p2Sk0oPqpNKQir19xk64eH</picture>
+      <picture>https://lh3.googleusercontent.com/d/170PAeluah-iIbnB4U0VwSsCSoh4VXl_o</picture>
+      <picture>https://lh3.googleusercontent.com/d/105yF6d545HVYcDyGs5GHab6r1IUA6j7v</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Ef3787</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Ef3376" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
