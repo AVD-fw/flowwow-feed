@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-17T09:49:44.022+03:00">
+<yml_catalog date="2025-12-17T09:53:46.900+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -23,11 +23,11 @@
       <price>117</price>
       <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1FFkjU3whHCRo5TDsebXjEUsDVezWtF69</picture>
-      <picture>https://lh3.googleusercontent.com/d/1cVehFp9uOa4FL6-kvFj2A7KpdgjxKroz</picture>
+      <picture>https://lh3.googleusercontent.com/d/19Zu5dAFfKLAJ3SyrGpCZ0Y_weHOSlj-3</picture>
       <picture>https://lh3.googleusercontent.com/d/1BloIIL3A0_p2Sk0oPqpNKQir19xk64eH</picture>
       <picture>https://lh3.googleusercontent.com/d/170PAeluah-iIbnB4U0VwSsCSoh4VXl_o</picture>
       <picture>https://lh3.googleusercontent.com/d/105yF6d545HVYcDyGs5GHab6r1IUA6j7v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FFkjU3whHCRo5TDsebXjEUsDVezWtF69</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -141,6 +141,24 @@
       <param name="Артикул">Ef3777</param>
       <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
     </offer>
+    <offer id="Ef01005" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Фиолетовый 50 см Арт. Ef01005</name>
+      <price>60</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VhftGoJmt939-hJLnyOod98leHwVkhwQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MHbwS-nL6LqhvmFHAac0t_-_JmGOby-x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bpZcbzbhCnKvdhzbOO-RYYWVUoOywE8p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GeRi7dQxU9W_U7WcjvU3a2um3HAYCWKo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XSmLjYZLWje-UNBRdzK1xbUkQWwsIqpq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef01005</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
     <offer id="Ef4545" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Байкал 50 см Арт. Ef4545</name>
@@ -158,6 +176,60 @@
       <param name="Производитель">Van Helvoort Company</param>
       <param name="Артикул">Ef4545</param>
       <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00985" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Пеп Талк 50 см Арт. Ef00985</name>
+      <price>60</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PmetzmYJD5l-fkcpfTvT_8n4H9qbHeOG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AaaL2iQ55NUAQr44_F9d21zelF8h2EuI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XL-0kjY0pab2PJqRc2kxC0F_vn4Wyqhs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AKORLmNeAuZ-ov35KV4iIg-ZdoNNnGi5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jzxgGpNEoDFcmm_LxlCWjP_PLsi6Q7HZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef00985</param>
+      <consist name="Хризантема Сантини Пеп Талк" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00316" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крем 60 см Арт. Ef00316</name>
+      <price>70</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1K81AB94sJ_iJ68tOje1Lukq8cnPsbQEl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SujIk3QkZlkmHIWBmgF5QzirhE8G3zyM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FFVf2YJYSvX-MIKBY3yyPKCkkEmCphoa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k5Y2ywI-b7ivs2O2y6epOOUBmQZgKueR</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Zd11-qlnTzqme1CG91YWSuJ8dnnolSS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Ef00316</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef1705" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крем 50 см Арт. Ef1705</name>
+      <price>70</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AujdAOBwNeE7GCQZwcnl1u3yF21XMqjK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yrIkrX7ZmrW3UJJA8023XIhgj0S-nTYK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_SnZoBEh1sPlWD0TLM7u6t0mRQNuBb22</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fAWTCQ6ciux-_TNyuY2J-3dzi6xsf5ov</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yh4RFl1wlbvx2FHG6adi4C2KZriZsqAs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef1705</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
     <offer id="Ef2966" available="true">
       <categoryId>37</categoryId>
@@ -209,6 +281,41 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Ef1749</param>
       <consist name="Лилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef01185" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Лиловый 50 см Арт. Ef01185</name>
+      <price>109</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZJcUXx_Xxd9xy7IFLN81XNILyrb5iIUa</picture>
+      <picture>https://lh3.googleusercontent.com/d/13N_YlNKGizgY1c15P6cMC5ZwHwbMIVYD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w_xUGqE5kUI8dyR90bhalzJLhQhsZbq3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g0sdhSnjQ9cYYsH9vzxqF5oXPtVokcN5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aDV4FdxU2nQE25nwOY_PgSK0rxBjeoF0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef01185</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00306" available="true">
+      <categoryId>37</categoryId>
+      <name>Танацетум Белый 60 см Арт. Ef00306</name>
+      <price>50</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KwgsJZ4j-yrWAIaqq7ylAndjesKbKs6x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RJ4zfUORqwQVDsln3lEtMunlr2Je8e2G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X7-4mzu1X5zPQkBXPqT721w9Re5pKQ25</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VLwf4fskk8svVCr0krJIxGJG2CE0nMV2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oupVOPGRtd5gjglS7csB7KBUJFjYUHUr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Matricaria by W. Grootscholten</param>
+      <param name="Артикул">Ef00306</param>
+      <consist name="Танацетум" unit="шт">25</consist>
     </offer>
     <offer id="Ef01245" available="true">
       <categoryId>37</categoryId>
