@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-17T11:59:48.148+03:00">
+<yml_catalog date="2025-12-17T12:03:51.405+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -365,6 +365,23 @@
       <param name="Производитель">African Wildflowers</param>
       <param name="Артикул">Ef3694</param>
       <consist name="Леукоспермум" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef1749" available="true">
+      <categoryId>37</categoryId>
+      <name>Лилия Розовый 90 см Арт. Ef1749</name>
+      <price>295</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1plZSDwzn3yquS_a-bg5_t0TeJg7iXXzF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BClfnQkdvSWjuFNzceXiz2FkagUOvbSK</picture>
+      <picture>https://lh3.googleusercontent.com/d/14jeZyqb-kyEPjfvxSKv2V9DzwsoryIvA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o5rXmfGxVlaVr6MtrRR6LxLXomJsaQzs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1setzfGg3jA_cg-7kKtUd4n5sOm1EtCKn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Ef1749</param>
+      <consist name="Лилия" unit="шт">10</consist>
     </offer>
     <offer id="Ef4275" available="true">
       <categoryId>37</categoryId>
