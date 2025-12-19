@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-19T10:56:36.000+03:00">
+<yml_catalog date="2025-12-19T11:05:40.488+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -691,6 +691,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc18235</param>
       <consist name="Пион Ред Шарм" unit="шт">20</consist>
+    </offer>
+    <offer id="Fc00726" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Сара Бернар 60 см Арт. Fc00726</name>
+      <price>297</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1duobeNZnOhXIq_z8SMnyepebkHIQOx1g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aS-Zl7FOq__um5-c5i5QKmS7otaINUwI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yIF2Yfa6b12bS3L3F69qdW0q-rrk4rD5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pFmxo3RVCMPRkfIPmSHsZhfNPt74aCVC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WJpX-8QFjzakNujYYbT4Pj9Sqhq651xn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc00726</param>
+      <consist name="Пион Сара Бернар" unit="шт">20</consist>
     </offer>
     <offer id="Fc14375" available="true">
       <categoryId>37</categoryId>
