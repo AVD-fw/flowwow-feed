@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-19T10:15:55.894+03:00">
+<yml_catalog date="2025-12-19T10:22:03.973+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -23,6 +23,22 @@
       <param name="Производитель">Vannova</param>
       <param name="Артикул">Ef3787c</param>
       <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef2167c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Антонов 70 см Арт. Ef2167c</name>
+      <categoryId>450</categoryId>
+      <price>1735</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Rhj_IKenxzL9-ealxr7vR93Y29rrq7XW</picture>
+      <picture>https://lh3.googleusercontent.com/d/18XozK8b_spHQZPD1b_YAaP32iCROSpNY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n__6AF2HmMxc1znBra1syQ2xYG_l68XG</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef2167c</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
     </offer>
     <offer id="Ef2866c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Алтай Еллоу 60 см Арт. Ef2866c</name>
@@ -88,6 +104,38 @@
       <param name="Артикул">Ef3777c</param>
       <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
     </offer>
+    <offer id="Ef01005c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Фиолетовый 50 см Арт. Ef01005c</name>
+      <categoryId>450</categoryId>
+      <price>2050</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1MyJzWBjkrzV3igjyPlTzjPJYvuYyMCxN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VUDdSSVWS1SL56eLSFRfDNPtHMsGt70Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ElEOkahlm0yxhRhLEdbTdh_uO6wbuhfI</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef01005c</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00985c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Пеп Талк 50 см Арт. Ef00985c</name>
+      <categoryId>450</categoryId>
+      <price>2050</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZMVsgU6zoa6rTIAGfz2LQKO4A3bqjhap</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RonvL0Vo6AKIujDNEJ0iZpCV68Y6EJd5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_QR2i5kX83VDyac2gvk1XK72oDF1vui6</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef00985c</param>
+      <consist name="Хризантема Сантини Пеп Талк" unit="шт">25</consist>
+    </offer>
     <offer id="Ef00316c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Крем 60 см Арт. Ef00316c</name>
       <categoryId>450</categoryId>
@@ -152,6 +200,22 @@
       <param name="Артикул">Ef00306c</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
+    <offer id="Ef3416c" available="true">
+      <name>Пачка (10 шт.) Эустома Алиса Вайт 60 см Арт. Ef3416c</name>
+      <categoryId>450</categoryId>
+      <price>2080</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/16-0co4RYmZuGu4pt_wB9bmtLi5G0G9QV</picture>
+      <picture>https://lh3.googleusercontent.com/d/13m7aq-3-0rb6AyzzVp4ugb7B_1ncaOuN</picture>
+      <picture>https://lh3.googleusercontent.com/d/11o-ThhuicSRMNtVrfF_ayDHqysOvnb6n</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ef3416c</param>
+      <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Ef2496c" available="true">
       <name>Пачка (10 шт.) Эустома Корелли Лавандер 60 см Арт. Ef2496c</name>
       <categoryId>450</categoryId>
@@ -167,6 +231,22 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Ef2496c</param>
       <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef2707c" available="true">
+      <name>Пачка (10 шт.) Эустома Лисанне Лайт Пинк 70 см Арт. Ef2707c</name>
+      <categoryId>450</categoryId>
+      <price>2080</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1rY4YKcpT-ymJ0uEDp9ltHjAixGZJ47f9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A_ezZ7kmPf3nFZtKLIovtyqvV8kr-eiC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pWJFUMIWWgt9weEIvtSGLBvpaD4gHtvF</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef2707c</param>
+      <consist name="Эустома Лисанне Лайт Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
