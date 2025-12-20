@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-20T10:43:43.927+03:00">
+<yml_catalog date="2025-12-20T10:49:37.316+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Желтый 70 см Арт. Ef3787</name>
       <price>135</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19Zu5dAFfKLAJ3SyrGpCZ0Y_weHOSlj-3</picture>
       <picture>https://lh3.googleusercontent.com/d/1BloIIL3A0_p2Sk0oPqpNKQir19xk64eH</picture>
@@ -39,7 +39,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ef2866</name>
       <price>110</price>
-      <qty>30</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18CL32aAfhakgPdDdKC47h5viNQxO4NOj</picture>
       <picture>https://lh3.googleusercontent.com/d/1pgY0ki-6WHiS5t5KVXFIqBMP7g0KxKVY</picture>
@@ -111,7 +111,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
       <price>44</price>
-      <qty>275</qty>
+      <qty>250</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wAsQ1d61o9TBQj6XySJJspXUEKUihJq0</picture>
       <picture>https://lh3.googleusercontent.com/d/1ZUF5OxmiliMchldJ0ZhZSmA-R6QwyyKT</picture>
@@ -142,24 +142,6 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ef00537</param>
       <consist name="Гипсофила" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef00306" available="true">
-      <categoryId>37</categoryId>
-      <name>Танацетум Белый 60 см Арт. Ef00306</name>
-      <price>50</price>
-      <qty>100</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1KVV5ZvV6_0hMjKS12fwCxoEWBMwdH3G4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VLwf4fskk8svVCr0krJIxGJG2CE0nMV2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oupVOPGRtd5gjglS7csB7KBUJFjYUHUr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KwgsJZ4j-yrWAIaqq7ylAndjesKbKs6x</picture>
-      <picture>https://lh3.googleusercontent.com/d/14JLcpqwJQuUyf7F9VOtdO8PD5OStIHSy</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Matricaria by W. Grootscholten</param>
-      <param name="Артикул">Ef00306</param>
-      <consist name="Танацетум" unit="шт">25</consist>
     </offer>
     <offer id="Ef2496" available="true">
       <categoryId>37</categoryId>
