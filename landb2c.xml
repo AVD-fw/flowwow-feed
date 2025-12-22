@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-22T08:11:28.439+03:00">
+<yml_catalog date="2025-12-22T08:14:38.555+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -767,6 +767,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La2745c</param>
       <consist name="Илекс" unit="шт">5</consist>
+    </offer>
+    <offer id="La3606c" available="true">
+      <name>Пачка (10 шт.) Маттиола Розовый 60 см Арт. La3606c</name>
+      <categoryId>450</categoryId>
+      <price>2889</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1LClLj60lA1YRvbeLxTT-PPkQAqcrB7UP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mSnD1v4Bx184y57wbzKPG9elEFK58u5D</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kGRZGajnAsWy6NowIzcpUGLESyTGJ_5T</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">La3606c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="La3197c" available="true">
       <name>Пачка (10 шт.) Статица Фиолетовый 70 см Арт. La3197c</name>
