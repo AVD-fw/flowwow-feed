@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-25T07:46:25.549+03:00">
+<yml_catalog date="2025-12-25T07:55:30.773+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -1106,6 +1106,24 @@
       <param name="Артикул">Fc20357</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
+    <offer id="Fc20597" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 70 см Арт. Fc20597</name>
+      <price>55</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CEMqfNfluzVK2aqYiq6jDQG0jyRrnaoS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gPJIdBt3mlVEpyfKEisX_H4ATa542YHr</picture>
+      <picture>https://lh3.googleusercontent.com/d/12NyAX2dQsWhepFALDl5h4b4QBjgl27kC</picture>
+      <picture>https://lh3.googleusercontent.com/d/12s6HA5qjiru9QA7LGJuVao-gqijSk4Ka</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N0lghmW5hq11i_KRxlNKEqZtMQhoUBim</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Azeriflores</param>
+      <param name="Артикул">Fc20597</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Fc03147" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Брют 70 см Арт. Fc03147</name>
@@ -1373,6 +1391,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc14046</param>
       <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc20626" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола кустовая Кремовый 60 см Арт. Fc20626</name>
+      <price>149</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZqIi7tm1CzBiVVXOkmnNXFl2WMEn6475</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Duf7kbi0KPsmI0Q5hPmcU7B05rcNCcZ4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bLGTBzfYIR7jymBpLn3AL5JqgrehE0BR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc20626</param>
+      <consist name="Маттиола кустовая" unit="шт">5</consist>
     </offer>
     <offer id="Fc20366" available="true">
       <categoryId>37</categoryId>
