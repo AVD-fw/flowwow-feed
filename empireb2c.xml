@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-25T07:25:50.314+03:00">
+<yml_catalog date="2025-12-25T07:31:57.672+03:00">
   <shop>
     <name>Империя цветов B2C</name>
     <company>empire</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Ef2846c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Кеннеди 60 см Арт. Ef2846c</name>
+      <categoryId>450</categoryId>
+      <price>600</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/16_OjMbKRHzkHW9L5dPS12UKmMvpVv-2q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qGo8NvnEbraCj9o_Lbhgc1hCJbZmu8KK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sFK2hrpJoycn1pev5qt4geYyq9hqh0Fh</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef2846c</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
+    </offer>
     <offer id="Ef3376c" available="true">
       <name>Пачка (25 шт.) Гвоздика одноголовая Красный 60 см Арт. Ef3376c</name>
       <categoryId>450</categoryId>
@@ -23,6 +39,22 @@
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ef3376c</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00547c" available="true">
+      <name>Пачка (25 шт.) Гипсофила Белый 70 см Арт. Ef00547c</name>
+      <categoryId>450</categoryId>
+      <price>2165</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1HcMGfGFZKIoOXUeisWvMerUXnglKy9Hi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PTJYUlUPc6JExX6DmaJC4VmarApt5lWK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1umokegJSaSI9nMPmA7OUznJSaDA5ebK3</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ef00547c</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
