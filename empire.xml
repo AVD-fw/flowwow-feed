@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-25T07:33:46.889+03:00">
+<yml_catalog date="2025-12-25T07:39:36.337+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,75 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ef4607" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая 70 см Арт. Ef4607</name>
+      <price>135</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Acz8ZAlAtj1RODKxZjbeNTazI-QAD8nK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_yw41ULmySncN2UaqLMRQqS168Ui8BVr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef4607</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef01286" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 60 см Арт. Ef01286</name>
+      <price>110</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KjBi46XVdVKWU1UCyE0HFMAY-b5AcumO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zuLWqNJinYYmfEI9vsQX1HW-oVdVikIJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/10DcdtwtdupngLuYyR-H4Gq3BCGdO3g8H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mYkqcgbDHqESQFtY9aznECweVJxPKlic</picture>
+      <picture>https://lh3.googleusercontent.com/d/16aTCl2imyorY7ZXzVp_0Fx7pYpBOoMOb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lewis Flowers</param>
+      <param name="Артикул">Ef01286</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef2996" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бакарди Пинк 60 см Арт. Ef2996</name>
+      <price>73</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Pxu3a2tGtUsskbxdzqasMEsidHQIFbQ8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CkFMMwdQOUp1r8jDGwi_rXUXRNpf3ZXk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XULu8EBx7XG7rA3yQKey1nGZcjWdOA0L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HeYIWcjEYKRy-_2wic3-wwidiMETvwfN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ir0VK0w2H9HqAHp2g6Ct-ozntzT1As3u</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef2996</param>
+      <consist name="Хризантема кустовая Бакарди Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef00906" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Балтика Пинк 60 см Арт. Ef00906</name>
+      <price>73</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15NMjW-EIGxS-TOh5QWlFRulOdmmso4Cr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YF8RPpH5RrqKeqpn90LPp8njtIMdG5yV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O_qPhKPU5e2J_fKOsNrJ01MQZdU6ph9x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1682XNGeM3Y5I9e-znLWmumNg85AR9cbz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Gp-op8YJgFolM91gc_he9cIAdwr0-XUf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef00906</param>
+      <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
+    </offer>
     <offer id="Ef2846" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди 60 см Арт. Ef2846</name>
@@ -34,6 +103,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ef2846</param>
       <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef00886" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Ньютон 60 см Арт. Ef00886</name>
+      <price>73</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wKLar9UrBMqRFpxx_li1Sk1P9k1cl9Bg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D_z1fM-UEh9Cj3yZCmC-CggaHBlIGWZ6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oDJke0JqP-Lm8B-9ogdtr5F7We4dtZrW</picture>
+      <picture>https://lh3.googleusercontent.com/d/13VX6NUbyrpiT7xtu7UwEHCapxckVAdpN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Et4Y1x27ZyR6aYD3QApLTjRBm0dYDc43</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef00886</param>
+      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
     <offer id="Ef00547" available="true">
       <categoryId>37</categoryId>
