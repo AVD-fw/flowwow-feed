@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-25T08:51:24.527+03:00">
+<yml_catalog date="2025-12-25T08:55:00.823+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -8,6 +8,38 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="La4507c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Розовый 70 см Арт. La4507c</name>
+      <categoryId>450</categoryId>
+      <price>1521</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1K2N0tXrt-eQX0sI7OZf9wzDNsWf0ya7U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qFqa2sHAugH0TimcFHZXOs_Te8U2XXk2</picture>
+      <picture>https://lh3.googleusercontent.com/d/16LqxWJY5btkizVP-k9ufUmtKG-T-SO3M</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Baraka roses</param>
+      <param name="Артикул">La4507c</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="La4517c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Желтый 70 см Арт. La4517c</name>
+      <categoryId>450</categoryId>
+      <price>1521</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1DIpxDotZH97C04U-XG42LiQ_e4fKu0WI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rX_ZJk7FiqiGXQFLZXb7LAmCHZxu0zu9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lc6rYUDxuOszKG5RBd44lA0SJh09TWL5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Baraka roses</param>
+      <param name="Артикул">La4517c</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="La4245c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Аква 50 см Арт. La4245c</name>
       <categoryId>450</categoryId>
@@ -520,6 +552,22 @@
       <param name="Артикул">La4385c</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
     </offer>
+    <offer id="La4525c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Желтый 50 см Арт. La4525c</name>
+      <categoryId>450</categoryId>
+      <price>1377</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1NnKTuDvR1okF0hFKsjwWcTNCHFrwrKh_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b1wPKuZ_AH-1TVmyYFt1_lEy97V53cm2</picture>
+      <picture>https://lh3.googleusercontent.com/d/11K9q0LaKYMC6ikEhCpebQRr8TG5kgigH</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Baraka Roses</param>
+      <param name="Артикул">La4525c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="La4045c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Кинг Бабблс 50 см Арт. La4045c</name>
       <categoryId>450</categoryId>
@@ -881,6 +929,38 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La4445c</param>
       <consist name="Хризантема Сантини Динки" unit="шт">25</consist>
+    </offer>
+    <offer id="La4497c" available="true">
+      <name>Пачка (10 шт.) Альстромерия Розовый 70 см Арт. La4497c</name>
+      <categoryId>450</categoryId>
+      <price>1305</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1MIebTP8zOg_9XHJawMUuqDdmuzkgSFw5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UavtGwtxWJJThRvRUls_CIfztYbSHTeb</picture>
+      <picture>https://lh3.googleusercontent.com/d/100I5BypH_nVi0zxWhbYI8n4qKRGLJUXr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Shalimar</param>
+      <param name="Артикул">La4497c</param>
+      <consist name="Альстромерия" unit="шт">10</consist>
+    </offer>
+    <offer id="La4537c" available="true">
+      <name>Пачка (10 шт.) Альстромерия Белый 70 см Арт. La4537c</name>
+      <categoryId>450</categoryId>
+      <price>1305</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1mujidhtTY0iDQ9XeenDYtDiqeZlRvTiF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WMsWPYjdVo8f5aCP1EJ-VmmvdT4v2kPC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bf2aM3s_DPErrmfWkM1NpFrWPUJD7zmR</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Shalimar</param>
+      <param name="Артикул">La4537c</param>
+      <consist name="Альстромерия" unit="шт">10</consist>
     </offer>
     <offer id="La4415c" available="true">
       <name>Пачка (5 шт.) Брассика Вайт Крейн 50 см Арт. La4415c</name>
