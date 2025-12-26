@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-26T07:41:24.577+03:00">
+<yml_catalog date="2025-12-26T07:44:35.611+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -8,6 +8,38 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="La4507c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Розовый 70 см Арт. La4507c</name>
+      <categoryId>450</categoryId>
+      <price>1521</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1K2N0tXrt-eQX0sI7OZf9wzDNsWf0ya7U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qFqa2sHAugH0TimcFHZXOs_Te8U2XXk2</picture>
+      <picture>https://lh3.googleusercontent.com/d/16LqxWJY5btkizVP-k9ufUmtKG-T-SO3M</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Baraka roses</param>
+      <param name="Артикул">La4507c</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
+    <offer id="La4517c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Желтый 70 см Арт. La4517c</name>
+      <categoryId>450</categoryId>
+      <price>1521</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1DIpxDotZH97C04U-XG42LiQ_e4fKu0WI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rX_ZJk7FiqiGXQFLZXb7LAmCHZxu0zu9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lc6rYUDxuOszKG5RBd44lA0SJh09TWL5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Baraka roses</param>
+      <param name="Артикул">La4517c</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="La1327c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Аваланш 70 см Арт. La1327c</name>
       <categoryId>450</categoryId>
@@ -615,6 +647,38 @@
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La0916c</param>
       <consist name="Роза кустовая пионовидная Марвеллоу Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="La1517c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Балтика Еллоу 70 см Арт. La1517c</name>
+      <categoryId>450</categoryId>
+      <price>783</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1hLCR2ySCmm_ydESbK9udOnKQAbI--Ked</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aGfs3ewoQ3NdsCJ-jDn6-qhAwRhLzd5x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TYodfG3Lg_ObLDn5mBxgoWQ7qFQJzwh5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">La1517c</param>
+      <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="La1447c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Балтика Пинк 70 см Арт. La1447c</name>
+      <categoryId>450</categoryId>
+      <price>783</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1hJBFGc-F4_Ow6pBldZBpRRa0o7cD8637</picture>
+      <picture>https://lh3.googleusercontent.com/d/15-uF6z_3_90lgV1U7U-bvY32nkeCbBLq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l8CFEOvJE1bjykTp41EjM0BYXbN_9omq</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">La1447c</param>
+      <consist name="Хризантема кустовая Балтика Пинк" unit="шт">5</consist>
     </offer>
     <offer id="La1557c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Бейби 70 см Арт. La1557c</name>
