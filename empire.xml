@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-26T07:03:47.988+03:00">
+<yml_catalog date="2025-12-26T07:09:46.355+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -89,6 +89,21 @@
       <param name="Артикул">Ef3076</param>
       <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="Ef2897" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 70 см Арт. Ef2897</name>
+      <price>75</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1R1EPdvOJubUG8L4hU_K18P67mjVHFJU7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J7LAcu39mysj5mA4jgMqBZdSRsj21Du2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef2897</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
     <offer id="Ef3376" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
@@ -124,6 +139,24 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ef00385</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Ef2506" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Лайт Пинк 60 см Арт. Ef2506</name>
+      <price>155</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19GAKSYFelNafPR-wCil0b_EqeLeihIcj</picture>
+      <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qEn-kCcEKEfTJacXJHTry-Xg7Qukuo70</picture>
+      <picture>https://lh3.googleusercontent.com/d/10vG74eoP9DdRUEyoO6ztyUsDtJhc4e27</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lS_cRzGFrNyPpJ7Z1EQmZu2mYHsEC3ZS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ef2506</param>
+      <consist name="Эустома Алиса Лайт Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Ef00458" available="true">
       <categoryId>38</categoryId>
