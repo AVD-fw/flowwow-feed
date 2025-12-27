@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-27T12:09:38.704+03:00">
+<yml_catalog date="2025-12-27T12:13:46.380+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -53,6 +53,39 @@
       <param name="Артикул">Ef00886</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
+    <offer id="Ef3076" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Пастелла Пинк 60 см Арт. Ef3076</name>
+      <price>77</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1C2eBA4NOlkEhSgFpsjcGj13nQoVAZk-K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s7DjVDFqUwDUag2PoQhFsSQMvSToyZ-Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rqW4mZYNJ8KLvKPEKAP2UU60JRGGpH08</picture>
+      <picture>https://lh3.googleusercontent.com/d/13fbvLdPWm5n7KpOjNjMsSHsnx8FkSeVp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K43A-VSXN12Bat7bBZvbTkm4tQWSXppk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Samada Flowers</param>
+      <param name="Артикул">Ef3076</param>
+      <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef2897" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 70 см Арт. Ef2897</name>
+      <price>72</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1R1EPdvOJubUG8L4hU_K18P67mjVHFJU7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J7LAcu39mysj5mA4jgMqBZdSRsj21Du2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef2897</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
     <offer id="Ef3376" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
@@ -88,6 +121,24 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ef00385</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Ef2506" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Лайт Пинк 60 см Арт. Ef2506</name>
+      <price>195</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19GAKSYFelNafPR-wCil0b_EqeLeihIcj</picture>
+      <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qEn-kCcEKEfTJacXJHTry-Xg7Qukuo70</picture>
+      <picture>https://lh3.googleusercontent.com/d/10vG74eoP9DdRUEyoO6ztyUsDtJhc4e27</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lS_cRzGFrNyPpJ7Z1EQmZu2mYHsEC3ZS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ef2506</param>
+      <consist name="Эустома Алиса Лайт Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Ef00458" available="true">
       <categoryId>38</categoryId>
