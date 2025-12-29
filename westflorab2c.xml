@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-29T10:27:01.999+03:00">
+<yml_catalog date="2025-12-29T10:37:01.006+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Va0206c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Кремовый 60 см Арт. Va0206c</name>
+      <categoryId>450</categoryId>
+      <price>2480</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1x_PpC7IDx_6re56WZmtg5aDuGG0EFUWz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nTP9a_UuJYWMY-Vt-CwNolK5kOBmb9H_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m-yi4Xev3KrcjjAQ1ee5yC80ZRVFS6T5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эфиопия</param>
+      <param name="Производитель">Braam Born to Bloom</param>
+      <param name="Артикул">Va0206c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="Va1016c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Розовый 60 см Арт. Va1016c</name>
       <categoryId>450</categoryId>
@@ -260,22 +276,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Va1986c</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
-    </offer>
-    <offer id="Va1887c" available="true">
-      <name>Пачка (5 шт.) Хризантема кустовая Кеннеди 70 см Арт. Va1887c</name>
-      <categoryId>450</categoryId>
-      <price>730</price>
-      <qty>7</qty>
-      <picture>https://lh3.googleusercontent.com/d/1v-xnvufwW0WMYLarHYFvsWcFi_VJufnv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1StoBwlsrPeizwb8n8u_hq9a1AkfSJdSa</picture>
-      <picture>https://lh3.googleusercontent.com/d/11hlbc3pSBOC6vWQMNV0M3uwqtx17BHRE</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Va1887c</param>
-      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
     <offer id="Va3377c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Лимончелло 70 см Арт. Va3377c</name>
