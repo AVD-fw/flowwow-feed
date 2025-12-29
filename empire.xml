@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-29T09:59:46.445+03:00">
+<yml_catalog date="2025-12-29T10:03:42.813+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -34,6 +34,24 @@
       <param name="Производитель">Lewis Flowers</param>
       <param name="Артикул">Ef01286</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef2846" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Кеннеди 60 см Арт. Ef2846</name>
+      <price>77</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gomG0HLyadKST3_pCTfOI3Aig1Ki9yMA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wuhTJu14RwLCncos469N2WWCZasWrhDV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yAsnDXI9bltC0Z28KegLQyBMLetSiUo3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S8oYsFDtP99ejdPNbGVwIh7sdjvGDV0X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JSDSqCEiGEg1DdsIEOwx1Gh3Foqh-26b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef2846</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
