@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12T11:59:42.859+03:00">
+<yml_catalog date="2026-01-12T12:03:51.164+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -157,6 +157,20 @@
       <param name="Артикул">Ef4825</param>
       <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
     </offer>
+    <offer id="Ef4466" available="true">
+      <categoryId>37</categoryId>
+      <name>Альстромерия 60 см Арт. Ef4466</name>
+      <price>83</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14KXiWzQitR2CWkzh84QIIjlgFacWDlTR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pwFDQdm9OUnaiXMLkVIhm3ObbUBZLMS0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef4466</param>
+      <consist name="Альстромерия" unit="шт">10</consist>
+    </offer>
     <offer id="Ef2616" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ef2616</name>
@@ -244,6 +258,23 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Ef4486</param>
       <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef01175" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Розовая-белая-голубая 50 см Арт. Ef01175</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_LGkFUH7kEfI0pTbzKKnUdDq0_g9ExIh</picture>
+      <picture>https://lh3.googleusercontent.com/d/16AeoYQXGrcuHgkr0Bqtb9JYlOvI3BNi_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NyEd8nDNhjbBqlyPTtCoi0A8dOuhKLIQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JPyl-GRng330QMjrFiVJ4ldGnbe4TC3t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WzF_wdAcKPoAqs3zdY-xcKIwFebPzBGw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef01175</param>
+      <consist name="Гипсофила Розовая-белая-голубая" unit="шт">25</consist>
     </offer>
     <offer id="Ef00385" available="true">
       <categoryId>37</categoryId>
