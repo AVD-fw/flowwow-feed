@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12T11:49:36.851+03:00">
+<yml_catalog date="2026-01-12T11:53:48.437+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -38,7 +38,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Балтика Пинк 60 см Арт. Ef00906</name>
       <price>73</price>
-      <qty>5</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Qj8ciy2pKAfaIme2lRL8tSukxdvC7RKP</picture>
       <picture>https://lh3.googleusercontent.com/d/1O_qPhKPU5e2J_fKOsNrJ01MQZdU6ph9x</picture>
@@ -74,7 +74,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Рианна 70 см Арт. Ef3777</name>
       <price>73</price>
-      <qty>5</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jK7i4RE4uRtz_1jd6NwZUVGujNNfcFUW</picture>
       <picture>https://lh3.googleusercontent.com/d/1h5NJQ4txXz4H8HgxeDDpuIVWXJFTXXuO</picture>
@@ -92,7 +92,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 70 см Арт. Ef4257</name>
       <price>73</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jk7Ed7wNctCd7iQwDDRK-asUE0bMyLxJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1RhmI4IXNa1CJoVYXtDSAoC79tLI-Xn0Y</picture>
@@ -106,29 +106,11 @@
       <param name="Артикул">Ef4257</param>
       <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
     </offer>
-    <offer id="Ef3797" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Хайдар 70 см Арт. Ef3797</name>
-      <price>73</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1a2PmMCGrCEBgVEmPR6H5evrxAd40IS4Q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KSrcV7fDQwaHkinmzPAgTkyvOYVngcuA</picture>
-      <picture>https://lh3.googleusercontent.com/d/1x38u7CozlJ9iLhNmUeyXYJPx64Pup6Ee</picture>
-      <picture>https://lh3.googleusercontent.com/d/1QqPexjk6k8f_PwxoPPDjzc3E8hXHfJQO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SjgnmLUth4mBqQM7C_2QVqBpuxIPlgfT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ef3797</param>
-      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
-    </offer>
     <offer id="Ef2897" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 70 см Арт. Ef2897</name>
       <price>70</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19n-ofkUB0wLUxk60u6VI7TQlKBRGj8sR</picture>
       <picture>https://lh3.googleusercontent.com/d/1J7LAcu39mysj5mA4jgMqBZdSRsj21Du2</picture>
@@ -319,7 +301,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Корелли Лавандер 60 см Арт. Ef2496</name>
       <price>170</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1meKI-h1KENKe2Di_BlPxHl06aJShc2rQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1SKobvU1rKs5mT90hYyrGTts6TIfPpcVW</picture>
@@ -332,23 +314,6 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Ef2496</param>
       <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
-    </offer>
-    <offer id="Ef01205" available="true">
-      <categoryId>38</categoryId>
-      <name>Эрингиум Синий 50 см Арт. Ef01205</name>
-      <price>165</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ln6pHS2EVUd7bD1oG3TtX6Erk_eL70j9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MMFwhozArqYx3t8Xw6R57-nSjcfOX-aU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Jsr2II-zH8Ofe_cbQctSuc6aZGyOLHiu</picture>
-      <picture>https://lh3.googleusercontent.com/d/1igwHeeBqsXk8PM7SuIYWsr8nAtLzuzJr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GKMJkroMSxtSTQFVUXaNN7kGOKreJxOv</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01205</param>
-      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
