@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12T10:04:34.977+03:00">
+<yml_catalog date="2026-01-12T10:11:38.141+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -39,6 +39,22 @@
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La1157c</param>
       <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
+    </offer>
+    <offer id="La2347c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Пеннилейн 70 см Арт. La2347c</name>
+      <categoryId>450</categoryId>
+      <price>1770</price>
+      <qty>10</qty>
+      <picture>https://lh3.googleusercontent.com/d/1o18UwcHtBtdrPefZBT6UHDD5gbIecQQ8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_f3Opw8vDj778iw7SiKZOV4O7ov36l2O</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lHXMtGUwI3J1Bz8uGc9u37tSySiun1dF</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La2347c</param>
+      <consist name="Роза одноголовая Пеннилейн" unit="шт">10</consist>
     </offer>
     <offer id="La4056c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Пеннилейн 60 см Арт. La4056c</name>
@@ -237,9 +253,9 @@
       <categoryId>450</categoryId>
       <price>910</price>
       <qty>2</qty>
-      <picture>https://lh3.googleusercontent.com/d/1jZH5gTMDa1Ht2FmTTHEg--VvLYXTt22g</picture>
-      <picture>https://lh3.googleusercontent.com/d/12FLMgkotg19qZiik1DeZguTGfkX-UNI1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nQA9rexRc6i5vysJIiuqcaV0q0eZ9U6v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v3cy7AievEmxQMZsr9et4yfclEuu_vgG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MoyMXkHD1VwGEdZLB_p7D4_W01AJSevA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WlxyCfvNVaM_iKSHXt6-ffwjiUExpyOv</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
