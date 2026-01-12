@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12T11:39:44.307+03:00">
+<yml_catalog date="2026-01-12T11:44:01.341+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,23 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ef4607" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая 70 см Арт. Ef4607</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1T4PWCSgXcnjJ3a0S8HYbVtZjimDcZscq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_yw41ULmySncN2UaqLMRQqS168Ui8BVr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Acz8ZAlAtj1RODKxZjbeNTazI-QAD8nK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UxQDG6AM3aV2TwmWxL_rUIHgGps7Bw-G</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef4607</param>
+      <consist name="Хризантема одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Ef00906" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Балтика Пинк 60 см Арт. Ef00906</name>
@@ -53,6 +70,24 @@
       <param name="Артикул">Ef3076</param>
       <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="Ef3777" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Рианна 70 см Арт. Ef3777</name>
+      <price>73</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jK7i4RE4uRtz_1jd6NwZUVGujNNfcFUW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h5NJQ4txXz4H8HgxeDDpuIVWXJFTXXuO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U9D3a8ncWeQJwRmJhM6O-kLO3ipmdwfw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1itKMXWILdvjEpgd5BFh1ZHYA4zKKAXr2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f0jX0bigdMgAob9qu5bVi9p7N_lst5cJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Vannova</param>
+      <param name="Артикул">Ef3777</param>
+      <consist name="Хризантема кустовая Рианна" unit="шт">5</consist>
+    </offer>
     <offer id="Ef4257" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 70 см Арт. Ef4257</name>
@@ -71,6 +106,24 @@
       <param name="Артикул">Ef4257</param>
       <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
     </offer>
+    <offer id="Ef3797" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Хайдар 70 см Арт. Ef3797</name>
+      <price>73</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1a2PmMCGrCEBgVEmPR6H5evrxAd40IS4Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KSrcV7fDQwaHkinmzPAgTkyvOYVngcuA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x38u7CozlJ9iLhNmUeyXYJPx64Pup6Ee</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QqPexjk6k8f_PwxoPPDjzc3E8hXHfJQO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SjgnmLUth4mBqQM7C_2QVqBpuxIPlgfT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef3797</param>
+      <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
     <offer id="Ef2897" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 70 см Арт. Ef2897</name>
@@ -86,6 +139,41 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Ef2897</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00316" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крем 60 см Арт. Ef00316</name>
+      <price>70</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1K81AB94sJ_iJ68tOje1Lukq8cnPsbQEl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SujIk3QkZlkmHIWBmgF5QzirhE8G3zyM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FFVf2YJYSvX-MIKBY3yyPKCkkEmCphoa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k5Y2ywI-b7ivs2O2y6epOOUBmQZgKueR</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Zd11-qlnTzqme1CG91YWSuJ8dnnolSS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Ef00316</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef4825" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сан Ап 50 см Арт. Ef4825</name>
+      <price>70</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18sB37QZzlzEqgGiSvM-WJSy00zE03FVG</picture>
+      <picture>https://lh3.googleusercontent.com/d/18bFTaCq4xmqxDOzTzchzZeHy9srhWO7y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V-1K5dtrtofMn4tUsJXOLru2bR6H9uSD</picture>
+      <picture>https://lh3.googleusercontent.com/d/18bcYBZZi42GUGyLtCZSNdglwRXfALjmR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef4825</param>
+      <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
     </offer>
     <offer id="Ef2616" available="true">
       <categoryId>37</categoryId>
@@ -243,6 +331,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Ef01215</param>
       <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef2496" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Корелли Лавандер 60 см Арт. Ef2496</name>
+      <price>170</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1meKI-h1KENKe2Di_BlPxHl06aJShc2rQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SKobvU1rKs5mT90hYyrGTts6TIfPpcVW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BOcuhCl4ybNHsrspXnpvxxX5J2jGL8UV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V2O9ZwzkgNFd02sFqQ-Ex7Enr4YD7sLw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XPLyC7Ho8nJPk0LlrZvtQ-gmKsVenLDq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Ef2496</param>
+      <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
     </offer>
     <offer id="Ef01205" available="true">
       <categoryId>38</categoryId>
