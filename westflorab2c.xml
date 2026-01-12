@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12T10:07:10.097+03:00">
+<yml_catalog date="2026-01-12T10:17:11.356+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -22,6 +22,22 @@
       <param name="Страна">Эфиопия</param>
       <param name="Производитель">Braam Born to Bloom</param>
       <param name="Артикул">Va0206c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Va1016c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Розовый 60 см Арт. Va1016c</name>
+      <categoryId>450</categoryId>
+      <price>2190</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1AWmvJRiih0_lDhy_V7MKfFf6cvy4L4a3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DCCxoPa_H9VHSoVKvn2XYO3oFkUMkncR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hZpEP3TJ1JeXBXOcLdXgaLTi01VbiVpF</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Jewel</param>
+      <param name="Артикул">Va1016c</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
     </offer>
     <offer id="Va1036c" available="true">
@@ -451,6 +467,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va0446c</param>
       <consist name="Гвоздика одноголовая Грин Трик" unit="шт">30</consist>
+    </offer>
+    <offer id="Va1376c" available="true">
+      <name>Пачка (10 шт.) Калла Белый 60 см Арт. Va1376c</name>
+      <categoryId>450</categoryId>
+      <price>2315</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/19RzHNW-HxPjoWzw1EgZRVKM43evtu5w9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nFNBNbAZGvVMoW_-d76P68xizbvZjHHE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CqA2-djjNJVVwZTZVCsOenktYt7gbeB0</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Va1376c</param>
+      <consist name="Калла" unit="шт">10</consist>
     </offer>
     <offer id="Va2754c" available="true">
       <name>Пачка (10 шт.) Клематис Лиловый 40 см Арт. Va2754c</name>
