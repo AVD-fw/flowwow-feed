@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12T12:03:51.164+03:00">
+<yml_catalog date="2026-01-12T12:09:47.965+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -310,23 +310,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Ef1749</param>
       <consist name="Лилия" unit="шт">10</consist>
-    </offer>
-    <offer id="Ef01215" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Белый 50 см Арт. Ef01215</name>
-      <price>115</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1MZe62O2elAfQ-GE4YOxOQDZGQYCIaIkI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LpSkDJkUOARf6XWXdw8gw4z_8SigyU_X</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H5ThNOJeSJp99qkUPL71U-T74QeoJNuQ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xTgz_Ke2wdHa-sqxP4dzMe29BTYa_6Yw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LRA1a6S8WLfnc8yVSy10-1EkDfEHERqS</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01215</param>
-      <consist name="Статица" unit="шт">25</consist>
     </offer>
     <offer id="Ef2496" available="true">
       <categoryId>37</categoryId>
