@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12T11:44:01.341+03:00">
+<yml_catalog date="2026-01-12T11:49:36.851+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -179,7 +179,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ef2616</name>
       <price>130</price>
-      <qty>25</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Mh9kX_duYa0NDAWghCF1IIeM8-MJYz7b</picture>
       <picture>https://lh3.googleusercontent.com/d/1dnXe54RefOhjRkMvOPTFWaqMv4-B-QG_</picture>
@@ -215,7 +215,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
       <price>130</price>
-      <qty>25</qty>
+      <qty>275</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1V-PrPCOpl3kFDgBZFDoIrIpQwrb8Rsrt</picture>
       <picture>https://lh3.googleusercontent.com/d/1H2cDRxo4TFOIGQnRs3k5JSsCjiMc6nFq</picture>
@@ -267,7 +267,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 50 см Арт. Ef00385</name>
       <price>40</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cz4LEn59H97Dl2pbiDagTF1m7dT-jE5V</picture>
       <picture>https://lh3.googleusercontent.com/d/1pZE5feFR1uqPAQwX5HX7YGSwSP6TCWcd</picture>
@@ -297,23 +297,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Ef1749</param>
       <consist name="Лилия" unit="шт">10</consist>
-    </offer>
-    <offer id="Ef01185" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Лиловый 50 см Арт. Ef01185</name>
-      <price>115</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1x5YFRbbzXVBKNtPRKG3b4VTn7XcWGf9m</picture>
-      <picture>https://lh3.googleusercontent.com/d/1w_xUGqE5kUI8dyR90bhalzJLhQhsZbq3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1g0sdhSnjQ9cYYsH9vzxqF5oXPtVokcN5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aDV4FdxU2nQE25nwOY_PgSK0rxBjeoF0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ZJcUXx_Xxd9xy7IFLN81XNILyrb5iIUa</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01185</param>
-      <consist name="Статица" unit="шт">25</consist>
     </offer>
     <offer id="Ef01215" available="true">
       <categoryId>37</categoryId>
