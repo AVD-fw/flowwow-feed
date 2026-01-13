@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-13T10:54:35.837+03:00">
+<yml_catalog date="2026-01-13T11:01:25.628+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -550,6 +550,22 @@
       <param name="Артикул">La0997c</param>
       <consist name="Хризантема кустовая Мексикано" unit="шт">5</consist>
     </offer>
+    <offer id="La4747c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Мирана 70 см Арт. La4747c</name>
+      <categoryId>450</categoryId>
+      <price>783</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Y2FeJH8i6W6bggvqsn5e0ZdQTSH4INId</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-iQL-rlbIDsfyy7aLP4Zxu6Ada9F74RU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qGGlv0FZ_SipwWyOeU1b4wCNR7-gStAs</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">La4747c</param>
+      <consist name="Хризантема кустовая Мирана" unit="шт">5</consist>
+    </offer>
     <offer id="La2627c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Фонтина 70 см Арт. La2627c</name>
       <categoryId>450</categoryId>
@@ -658,6 +674,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La0075c</param>
       <consist name="Фрезия" unit="шт">50</consist>
+    </offer>
+    <offer id="La4776c" available="true">
+      <name>Пачка (10 шт.) Эустома Брайдл Кисс 60 см Арт. La4776c</name>
+      <categoryId>450</categoryId>
+      <price>2889</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/13etTgQv2UFItuZMXqyQtnMpQhSOUprbR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qxAWdH1ZSWvGx5ImgGpxukqCoKmaNgRc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WUlyhDyaGEHllE1VdCtwWRu5EWS5zEaN</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">La4776c</param>
+      <consist name="Эустома Брайдл Кисс" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
