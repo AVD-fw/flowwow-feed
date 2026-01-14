@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-14T13:37:02.841+03:00">
+<yml_catalog date="2026-01-14T13:47:05.025+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -580,6 +580,22 @@
       <param name="Артикул">Va1617c</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
+    <offer id="Va2726c" available="true">
+      <name>Пачка (25 шт.) Гипсофила Белый 60 см Арт. Va2726c</name>
+      <categoryId>450</categoryId>
+      <price>3373</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1QpVvD3y69pYuNGc1ZR8vLu1BXlrnXPJw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nt2nQCcDHGR_oItjntax9WVYHT2CTLhG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V17uySE2Qtk5UPtt0V3O-c0USg3dTTCX</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Va2726c</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
     <offer id="Va1376c" available="true">
       <name>Пачка (10 шт.) Калла Белый 60 см Арт. Va1376c</name>
       <categoryId>450</categoryId>
@@ -611,6 +627,53 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Va2754c</param>
       <consist name="Клематис" unit="шт">10</consist>
+    </offer>
+    <offer id="Va2604c" available="true">
+      <name>Пачка (5 шт.) Леукоспермум Оранжевый 40 см Арт. Va2604c</name>
+      <categoryId>450</categoryId>
+      <price>1658</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-Y5MsItfTtgx6s_9_Y9wlQ8M3c1Sq7Y9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IRiKto9IvNKM0d4ozqh5krm-aqX-gEDG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NoN8R-HprZtyGSk2S5Q_uVx-0_n_o91E</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va2604c</param>
+      <consist name="Леукоспермум" unit="шт">5</consist>
+    </offer>
+    <offer id="Va1116c" available="true">
+      <name>Пачка (10 шт.) Маттиола Белый 60 см Арт. Va1116c</name>
+      <categoryId>450</categoryId>
+      <price>2013</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1H-Br1I8muUWMUNAKvck0g9716Llr9bCk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ohIxkLFRBJm-GXlGU2AgV3kGFjDukIgx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lr9_Wkoy3RexuZd1rR9ZK9XAxBnFbjZo</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Италия</param>
+      <param name="Производитель">Iblaflor</param>
+      <param name="Артикул">Va1116c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Va2496c" available="true">
+      <name>Пачка (10 шт.) Маттиола Фуксия 60 см Арт. Va2496c</name>
+      <categoryId>450</categoryId>
+      <price>2013</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1fd1A8P2yJemBUIpSnmJdOj6y-Jm5qmSn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-e-NTd1KyIMVYC0o0HFi5rf_ujX9sAi3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w3-5EQj5_4yOfb2TyyMljenYQq2_AhUt</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Италия</param>
+      <param name="Производитель">Iblaflor</param>
+      <param name="Артикул">Va2496c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="Va1236c" available="true">
       <name>Пачка (10 шт.) Сирень Белый 60 см Арт. Va1236c</name>
