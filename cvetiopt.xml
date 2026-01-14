@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-14T14:06:52.695+03:00">
+<yml_catalog date="2026-01-14T14:15:49.812+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fc01565" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 50 см Арт. Fc01565</name>
+      <price>72</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1WIdSU6fsytLHZOP1JYNskn8QnA-x6zNh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pB7bDhELAF49u86G4V5EHcNSM6q81_MC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n1nGZ8_89YuccVy2tI0wDX9R-V_6ubn3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Aqwjfri-PN70mzqqfrpMGkohlmaTQ4__</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c2RviiIY2oleSrSlexh5VNaQiqJxQmdH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc01565</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
     <offer id="Fc7486" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 60 см Арт. Fc7486</name>
