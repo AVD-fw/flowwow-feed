@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-16T21:27:02.519+03:00">
+<yml_catalog date="2026-01-16T21:37:06.053+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -135,6 +135,21 @@
       <param name="Производитель">Fransen</param>
       <param name="Артикул">Va1276c</param>
       <consist name="Роза кустовая пионовидная" unit="шт">10</consist>
+    </offer>
+    <offer id="Va1776c" available="true">
+      <name>Пачка (5 шт.) Роза кустовая пионовидная Розовый 60 см Арт. Va1776c</name>
+      <categoryId>450</categoryId>
+      <price>1248</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1zV-jwwH9XN4S4eTpx9MoE0zA-NhhSVjS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ag9fyjGvbx9QCW3lRrMfreKFeczwx_lY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Flora Ola</param>
+      <param name="Артикул">Va1776c</param>
+      <consist name="Роза кустовая пионовидная" unit="шт">5</consist>
     </offer>
     <offer id="Va1166c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Гуд Муд 60 см Арт. Va1166c</name>
@@ -452,6 +467,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Va2225c</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1585c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Крем 50 см Арт. Va1585c</name>
+      <categoryId>450</categoryId>
+      <price>2163</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Umkzu4ZvzKfjtSeBikxO_5KF6vfBkbq2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eIY0xN53uJHk_2Rr-175wT6uI6L8nsqc</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va1585c</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
     <offer id="Va0225c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Микс 55 см Арт. Va0225c</name>
