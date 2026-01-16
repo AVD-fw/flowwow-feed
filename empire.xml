@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-16T09:13:47.619+03:00">
+<yml_catalog date="2026-01-16T09:19:47.876+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -131,11 +131,11 @@
       <price>156</price>
       <qty>225</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Mh9kX_duYa0NDAWghCF1IIeM8-MJYz7b</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dnXe54RefOhjRkMvOPTFWaqMv4-B-QG_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WxZHfaQ4HAH9D2s3DL8ZE_GhQvBjiQG_</picture>
       <picture>https://lh3.googleusercontent.com/d/1lQnDKwVoc8qDHP1iW2qt4NssWg2Qb4fM</picture>
       <picture>https://lh3.googleusercontent.com/d/10le35uDlQqMfkpO2ij-rprcK8TrKRs6R</picture>
       <picture>https://lh3.googleusercontent.com/d/1wEEM6wStD9Ai6UJ6_mRpI1ZYGvMoW5Iv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Mh9kX_duYa0NDAWghCF1IIeM8-MJYz7b</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Эквадор</param>
@@ -177,6 +177,58 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Ef01175</param>
       <consist name="Гипсофила Розовая-белая-голубая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef01215" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Белый 50 см Арт. Ef01215</name>
+      <price>149</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Rch3uaQaGoPmWYkYoZ6Hd0Iyb0-6A5qn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H5ThNOJeSJp99qkUPL71U-T74QeoJNuQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xTgz_Ke2wdHa-sqxP4dzMe29BTYa_6Yw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LRA1a6S8WLfnc8yVSy10-1EkDfEHERqS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MZe62O2elAfQ-GE4YOxOQDZGQYCIaIkI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef01215</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef01245" available="true">
+      <categoryId>37</categoryId>
+      <name>Фрезия Белый 50 см Арт. Ef01245</name>
+      <price>110</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YmV622FiH9Q8KQIjhlGpinb-BQsCIXh6</picture>
+      <picture>https://lh3.googleusercontent.com/d/14tUWN7qqGpjADEviEhaDZ-I7FLzq5AbK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C_efQc87YdaSznIbbztxUEjHIysyaXp4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c9t8rWjEV6AhepoO4k6sJBamUseeG-Ys</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UBq8NiaLkvvTfuRfvNp1ibBYP_g4-XlT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef01245</param>
+      <consist name="Фрезия" unit="шт">50</consist>
+    </offer>
+    <offer id="Ef2707" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Лисанне Лайт Пинк 70 см Арт. Ef2707</name>
+      <price>216</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OR9W-57O58g4lQhDCThmpkdrr_TusOj5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e3frHglOsAhBDqjR4B2jtPqd_daYzUx2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xtZS85O-55RC5ce6u4gDbtYeg3WcKO7Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tR1IyjNhYwUX-UI22ggJbSEbMlytgpoP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PiNd9gHldHFuYa8RYYkYur2rUPClOcvB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef2707</param>
+      <consist name="Эустома Лисанне Лайт Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
