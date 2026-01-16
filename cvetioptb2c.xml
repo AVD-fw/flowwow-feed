@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-16T09:29:50.388+03:00">
+<yml_catalog date="2026-01-16T09:39:19.589+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -456,6 +456,22 @@
       <param name="Артикул">Fc18035c</param>
       <consist name="Хризантема Сантини Ферри" unit="шт">25</consist>
     </offer>
+    <offer id="Fc05035c" available="true">
+      <name>Пачка (25 шт.) Вероника Розовый 50 см Арт. Fc05035c</name>
+      <categoryId>450</categoryId>
+      <price>1853</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/13fKc9TtZmPboMKHx-jcvIoa2OiteFQ_b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dMx_0-BrOF19Mmvni1zHCRQMwMYwm5Ss</picture>
+      <picture>https://lh3.googleusercontent.com/d/1g3J4WorMczEuRNuUlOPbf6kFDUJz86fd</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc05035c</param>
+      <consist name="Вероника" unit="шт">25</consist>
+    </offer>
     <offer id="Fc03147c" available="true">
       <name>Пачка (25 шт.) Гвоздика одноголовая Брют 70 см Арт. Fc03147c</name>
       <categoryId>450</categoryId>
@@ -723,37 +739,6 @@
       <param name="Артикул">Fc00795c</param>
       <consist name="Фрезия" unit="шт">50</consist>
     </offer>
-    <offer id="Fc01965c" available="true">
-      <name>Пачка (10 шт.) Хамелациум Белый 50 см Арт. Fc01965c</name>
-      <categoryId>450</categoryId>
-      <price>1948</price>
-      <qty>12</qty>
-      <picture>https://lh3.googleusercontent.com/d/1pqDKBv5F9tUg_Xunz6hhhJWfJW_wyl58</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PWOucwc89L3YhDvzVzHBzoxQXYuQ0-Ir</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VYH0Kio2cNJc5q3ck03R8eEvVb95Yya7</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Arnelia</param>
-      <param name="Артикул">Fc01965c</param>
-      <consist name="Хамелациум" unit="шт">10</consist>
-    </offer>
-    <offer id="Fc19985c" available="true">
-      <name>Пачка (10 шт.) Хамелациум Розовый 50 см Арт. Fc19985c</name>
-      <categoryId>450</categoryId>
-      <price>2078</price>
-      <qty>8</qty>
-      <picture>https://lh3.googleusercontent.com/d/1Z4dj3VaFq0MIKl1ggfn4ABZ8Eo-rOWcU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1J6agLWBZu3R9sBSIhxczmZ3PRl6xQjVh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1tTudKxRlxarCfGC0W-tPT9VtT1MFQqXw</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Fc19985c</param>
-      <consist name="Хамелациум Розовый" unit="шт">10</consist>
-    </offer>
     <offer id="Fc5736c" available="true">
       <name>Пачка (10 шт.) Эустома Веддинг Пинк 60 см Арт. Fc5736c</name>
       <categoryId>450</categoryId>
@@ -785,21 +770,6 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Fc9476c</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
-    </offer>
-    <offer id="Fc02105c" available="true">
-      <name>Пачка (10 шт.) Астильба Белый 50 см Арт. Fc02105c</name>
-      <categoryId>450</categoryId>
-      <price>1293</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1PlQOJgWxTzSlnN4yBy-erk4nWlMcv6dD</picture>
-      <picture>https://lh3.googleusercontent.com/d/119qaeJ3TwMwbgHP4XEF-ggUe-8WmdaJt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qGgmIHK03OvMu5aIKccr77-whrGHodeW</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Fc02105c</param>
-      <consist name="Астильба" unit="шт">10</consist>
     </offer>
     <offer id="Fc00615c" available="true">
       <name>Пачка (20 шт.) Вероника кустовая Фиолетовый 50 см Арт. Fc00615c</name>
@@ -833,6 +803,21 @@
       <param name="Артикул">Fc01825c</param>
       <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
     </offer>
+    <offer id="Fc04607c" available="true">
+      <name>Пачка (10 шт.) Леукадендрон Красный 70 см Арт. Fc04607c</name>
+      <categoryId>450</categoryId>
+      <price>1873</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1H1QzgXKYqN0lSzqsoKHyEi2JpLB3nmoZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o4YTibhYExT2I0okUVqbYRiEjN8CsHzr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Cu7auWk5iAAii3bH5mlGeE8vmJ2UCPZd</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04607c</param>
+      <consist name="Леукадендрон" unit="шт">10</consist>
+    </offer>
     <offer id="Fc00816c" available="true">
       <name>Пачка (10 шт.) Озотамнус Розовый 60 см Арт. Fc00816c</name>
       <categoryId>450</categoryId>
@@ -848,6 +833,21 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Fc00816c</param>
       <consist name="Озотамнус Розовый" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc04115c" available="true">
+      <name>Пачка (25 шт.) Статица Белый 50 см Арт. Fc04115c</name>
+      <categoryId>450</categoryId>
+      <price>3568</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1eca847nL0JcZXxEOMV5mzDPc2-XnU-jt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zLQrhBIbsnvcm6gqaArDzuUwci7TKxhx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NwWDh5-wrQjSaTAZPpK0R669jlAfIGg5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04115c</param>
+      <consist name="Статица" unit="шт">25</consist>
     </offer>
     <offer id="Fc04155c" available="true">
       <name>Пачка (25 шт.) Статица Розовый 50 см Арт. Fc04155c</name>
