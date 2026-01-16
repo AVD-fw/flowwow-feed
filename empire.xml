@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-16T05:59:40.084+03:00">
+<yml_catalog date="2026-01-16T07:13:47.126+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 70 см Арт. Ef4257</name>
       <price>73</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jk7Ed7wNctCd7iQwDDRK-asUE0bMyLxJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1RhmI4IXNa1CJoVYXtDSAoC79tLI-Xn0Y</picture>
@@ -39,7 +39,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ef2616</name>
       <price>130</price>
-      <qty>100</qty>
+      <qty>225</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Mh9kX_duYa0NDAWghCF1IIeM8-MJYz7b</picture>
       <picture>https://lh3.googleusercontent.com/d/1dnXe54RefOhjRkMvOPTFWaqMv4-B-QG_</picture>
@@ -51,24 +51,6 @@
       <param name="Страна">Эквадор</param>
       <param name="Производитель">Tajik Flowers</param>
       <param name="Артикул">Ef2616</param>
-      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef3376" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
-      <price>130</price>
-      <qty>200</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1V-PrPCOpl3kFDgBZFDoIrIpQwrb8Rsrt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H2cDRxo4TFOIGQnRs3k5JSsCjiMc6nFq</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wAsQ1d61o9TBQj6XySJJspXUEKUihJq0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Sb5muRtypDafA0FmzvaH189SykPQ7yWh</picture>
-      <picture>https://lh3.googleusercontent.com/d/15J9wIHPIBPOSv0JNtDvmSwXqHeuxD64a</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik flowers</param>
-      <param name="Артикул">Ef3376</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     </offers>
