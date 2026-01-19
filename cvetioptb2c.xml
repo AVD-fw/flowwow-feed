@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-19T17:49:46.735+03:00">
+<yml_catalog date="2026-01-19T17:59:13.701+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -952,24 +952,8 @@
       <param name="Артикул">Fc18035c</param>
       <consist name="Хризантема Сантини Ферри" unit="шт">25</consist>
     </offer>
-    <offer id="Fc04915c" available="true">
-      <name>Пачка (25 шт.) Астранция Белая 50 см Арт. Fc04915c</name>
-      <categoryId>450</categoryId>
-      <price>2118</price>
-      <qty>6</qty>
-      <picture>https://lh3.googleusercontent.com/d/1qZ9BKrJjTBtHyJUpbXETXI7BMmecmt55</picture>
-      <picture>https://lh3.googleusercontent.com/d/12_LzRZoP-ECRvwJhsf5FyPjhUQLIu4fz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zM7vtBlmq3FMKPqxhqUP8PH-XuUWA6Cm</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Fc04915c</param>
-      <consist name="Астранция Белая" unit="шт">25</consist>
-    </offer>
     <offer id="Fc02035c" available="true">
-      <name>Пачка (25 шт.) Астранция Розовая 50 см Арт. Fc02035c</name>
+      <name>Пачка (25 шт.) Астранция Сиреневый 50 см Арт. Fc02035c</name>
       <categoryId>450</categoryId>
       <price>1853</price>
       <qty>1</qty>
@@ -982,7 +966,23 @@
       <param name="Страна">уточняется</param>
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Fc02035c</param>
-      <consist name="Астранция Розовая" unit="шт">25</consist>
+      <consist name="Астранция" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc04915c" available="true">
+      <name>Пачка (25 шт.) Астранция Зеленый 50 см Арт. Fc04915c</name>
+      <categoryId>450</categoryId>
+      <price>2118</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1qZ9BKrJjTBtHyJUpbXETXI7BMmecmt55</picture>
+      <picture>https://lh3.googleusercontent.com/d/12_LzRZoP-ECRvwJhsf5FyPjhUQLIu4fz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zM7vtBlmq3FMKPqxhqUP8PH-XuUWA6Cm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Fc04915c</param>
+      <consist name="Астранция" unit="шт">25</consist>
     </offer>
     <offer id="Fc03147c" available="true">
       <name>Пачка (25 шт.) Гвоздика одноголовая Брют 70 см Арт. Fc03147c</name>
@@ -1033,7 +1033,7 @@
       <consist name="Гвоздика одноголовая Кристалло" unit="шт">25</consist>
     </offer>
     <offer id="Fc01277c" available="true">
-      <name>Пачка (25 шт.) Гвоздика одноголовая Пастел Кремия 70 см Арт. Fc01277c</name>
+      <name>Пачка (25 шт.) Гвоздика одноголовая Пастел Краймия 70 см Арт. Fc01277c</name>
       <categoryId>450</categoryId>
       <price>1878</price>
       <qty>6</qty>
@@ -1046,7 +1046,7 @@
       <param name="Страна">Колумбия</param>
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fc01277c</param>
-      <consist name="Гвоздика одноголовая Пастел Кремия" unit="шт">25</consist>
+      <consist name="Гвоздика одноголовая Пастел Краймия" unit="шт">25</consist>
     </offer>
     <offer id="Fc01617c" available="true">
       <name>Пачка (25 шт.) Гвоздика одноголовая Сирен 70 см Арт. Fc01617c</name>
