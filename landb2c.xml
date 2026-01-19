@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-19T09:54:40.355+03:00">
+<yml_catalog date="2026-01-19T10:01:24.503+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -156,7 +156,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Джумилия 70 см Арт. La3237c</name>
       <categoryId>450</categoryId>
       <price>1449</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1yZgpmmAJges_kNNh81mlLEmTFiTXmGUz</picture>
       <picture>https://lh3.googleusercontent.com/d/1DgSChqGR_UDe6MWVS-49bw-UkMQ3lAqW</picture>
       <picture>https://lh3.googleusercontent.com/d/1LOujmxYAZCcdF3l9xCTUvZc088y3z46n</picture>
@@ -268,7 +268,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 60 см Арт. La0616c</name>
       <categoryId>450</categoryId>
       <price>1305</price>
-      <qty>8</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/1fTHP-5nO0kWDLLADtxjlB4yFKn2MqbUx</picture>
       <picture>https://lh3.googleusercontent.com/d/1sLyTHtmSDY4IxkKWB82NuONIvI34SufV</picture>
       <picture>https://lh3.googleusercontent.com/d/1jmeGUCbydBXMXqArmBs_2tLeBjVVuCqH</picture>
@@ -364,7 +364,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Родос 50 см Арт. La2985c</name>
       <categoryId>450</categoryId>
       <price>1305</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1nR7A-2M72jHrlUaeRtVtLeouQ2zx00P8</picture>
       <picture>https://lh3.googleusercontent.com/d/1AiyeRib6JO2tryFY3kkiMgnWvHY44ESB</picture>
       <picture>https://lh3.googleusercontent.com/d/11dbFyLLPTRbj1TK0sChaTMzROR_xdjJL</picture>
@@ -437,6 +437,22 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La4627c</param>
+      <consist name="Роза кустовая пионовидная Алена" unit="шт">10</consist>
+    </offer>
+    <offer id="La4686c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Алена 60 см Арт. La4686c</name>
+      <categoryId>450</categoryId>
+      <price>2763</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/104ycl0uLw1ZXwMY0Ld46o5nGldOsg83r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u7eJzAUjN2nwNbbShgsJREUy7F1tWisf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J1pu47FGrF0b8y48wdyVPZ-S7CT-AJ48</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La4686c</param>
       <consist name="Роза кустовая пионовидная Алена" unit="шт">10</consist>
     </offer>
     <offer id="La4707c" available="true">
@@ -724,6 +740,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La3164c</param>
       <consist name="Вероника кустовая Смарт Фонтан" unit="шт">20</consist>
+    </offer>
+    <offer id="La4786c" available="true">
+      <name>Пачка (10 шт.) Гиперикум Красный 60 см Арт. La4786c</name>
+      <categoryId>450</categoryId>
+      <price>1161</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1MoyzDa6ViUk7mMSWx2QobwgE254UshWs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1h3yyWQrGfq4wTbt64DwB573YFeiL6roV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gyfQsz5Q0WJzMKkthKCiRgvX4h5-sZLQ</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">La4786c</param>
+      <consist name="Гиперикум" unit="шт">10</consist>
     </offer>
     <offer id="La4428c" available="true">
       <name>Пачка (10 шт.) Грин Белл Зеленый 80 см Арт. La4428c</name>
