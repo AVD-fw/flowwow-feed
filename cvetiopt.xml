@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-19T17:16:41.504+03:00">
+<yml_catalog date="2026-01-19T17:25:57.233+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -1466,6 +1466,24 @@
       <param name="Артикул">Fc19157</param>
       <consist name="Гвоздика одноголовая Энданте" unit="шт">25</consist>
     </offer>
+    <offer id="Fc01825" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Диабло 50 см Арт. Fc01825</name>
+      <price>160</price>
+      <qty>160</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ufviCOtkgs8V1g3NMKG_aNDLJVhNmOuq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cLPThVVfQT2QABwdlhITkhA6okNOnBy8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mKOh2YIr9Q-QCaYrXHdaYngIk_NUn8cn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JKcBu8tgW__hKyF30IlUrv11VwOvu4DR</picture>
+      <picture>https://lh3.googleusercontent.com/d/17CAtNGUTdtJPSXWJiObWRikW3jlftQZF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc01825</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
+    </offer>
     <offer id="Fc02335" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Казино 50 см Арт. Fc02335</name>
@@ -1990,24 +2008,6 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Fc03835</param>
       <consist name="Вероника" unit="шт">25</consist>
-    </offer>
-    <offer id="Fc01825" available="true">
-      <categoryId>38</categoryId>
-      <name>Гиперикум Коко Диабло 50 см Арт. Fc01825</name>
-      <price>160</price>
-      <qty>160</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ufviCOtkgs8V1g3NMKG_aNDLJVhNmOuq</picture>
-      <picture>https://lh3.googleusercontent.com/d/1cLPThVVfQT2QABwdlhITkhA6okNOnBy8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mKOh2YIr9Q-QCaYrXHdaYngIk_NUn8cn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JKcBu8tgW__hKyF30IlUrv11VwOvu4DR</picture>
-      <picture>https://lh3.googleusercontent.com/d/17CAtNGUTdtJPSXWJiObWRikW3jlftQZF</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Florius Flowers</param>
-      <param name="Артикул">Fc01825</param>
-      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
     </offer>
     <offer id="Fc00816" available="true">
       <categoryId>38</categoryId>
