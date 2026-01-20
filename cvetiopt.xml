@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-20T15:37:52.774+03:00">
+<yml_catalog date="2026-01-20T15:45:58.903+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -1213,6 +1213,42 @@
       <param name="Артикул">Fc01085</param>
       <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
     </offer>
+    <offer id="Fc6435" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крашенный 55 см Арт. Fc6435</name>
+      <price>66</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1j9NkJKUQvYguHBXrxlqkONSCWduaFbNs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Zu-Ml42stJ_2gloPzaxpPdPMHqWcB6u9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d7KgIdtErpTSD9fRmoOE1FEpkddLZZ7K</picture>
+      <picture>https://lh3.googleusercontent.com/d/120kYZoxwSt_UWEfbzT_Rw-oPuisiHhnx</picture>
+      <picture>https://lh3.googleusercontent.com/d/10R2PoMYlZpA8r1usK4L35DsFNC2kr4Js</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc6435</param>
+      <consist name="Хризантема Сантини Росси Крашенный" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc20435" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Смоки 50 см Арт. Fc20435</name>
+      <price>66</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qbm6SvWotKz7BTT0CJwUyjeGXTJsuIHd</picture>
+      <picture>https://lh3.googleusercontent.com/d/18IFHdAuMvZiEChgiLV6kHePRMLRDWK0N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m4Zib3EBtprJ5J89wtKmZepITJTTEiPq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VVu9BWkFba3RnVyvwaCoVHiy8kzXgjYa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pn-7tZr-gEHNr6Fl0oXYV8cUAGjSBYTz</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Fc20435</param>
+      <consist name="Хризантема Сантини Росси Смоки" unit="шт">25</consist>
+    </offer>
     <offer id="Fc13475" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Сан Ап 55 см Арт. Fc13475</name>
@@ -1248,24 +1284,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Fc18035</param>
       <consist name="Хризантема Сантини Ферри" unit="шт">25</consist>
-    </offer>
-    <offer id="Fc02035" available="true">
-      <categoryId>37</categoryId>
-      <name>Астранция Сиреневый 50 см Арт. Fc02035</name>
-      <price>52</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1IM6O4MOoU9WcP4QJw7IFQZX_Ozvyq5MS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xnwi5owx0msDSRQJyBxrBrmQQjH3T0pO</picture>
-      <picture>https://lh3.googleusercontent.com/d/178mlZZmh-g_H7m7v9-xrvfk2xxu9kqLs</picture>
-      <picture>https://lh3.googleusercontent.com/d/139Rs3teBQha4hG3PJcmPXFs6V03T_YRN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ysGsCwADPFtLH-o4H0sbVcmXbGEX30V1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Fc02035</param>
-      <consist name="Астранция" unit="шт">25</consist>
     </offer>
     <offer id="Fc04915" available="true">
       <categoryId>37</categoryId>
@@ -1325,7 +1343,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Брют 70 см Арт. Fc03147</name>
       <price>53</price>
-      <qty>375</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14_CR6L3AA_WnAVLCj5bTT1F09cWkgRaF</picture>
       <picture>https://lh3.googleusercontent.com/d/1GVqVVw65KrUU4EYZEEZAT_LYhvFnF5Jr</picture>
@@ -1379,7 +1397,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Клеар Вотер 70 см Арт. Fc03137</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MR6BoCoE76FsYZWfaDdFPsUasS8k4rC-</picture>
       <picture>https://lh3.googleusercontent.com/d/1UmQtL9i6YOAWeKctoTLIAAicH-k2bi03</picture>
@@ -1397,7 +1415,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кристалло 70 см Арт. Fc9737</name>
       <price>53</price>
-      <qty>175</qty>
+      <qty>300</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cKfDLr0HFvLC83j-DzPeAYQQhKDH-LBG</picture>
       <picture>https://lh3.googleusercontent.com/d/1qCVWMN2lBnTbJEulakE8DCZq9DQppvC3</picture>
@@ -1415,7 +1433,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мунаква 70 см Арт. Fc03167</name>
       <price>59</price>
-      <qty>20</qty>
+      <qty>260</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1bk3g5LHFeBaT65t2YQ7nejAapIJCh5Gb</picture>
       <picture>https://lh3.googleusercontent.com/d/1BvMu1ITz56j-2OPUFnE6Tt4wPfNA9rvz</picture>
@@ -1469,7 +1487,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Форси 70 см Арт. Fc19147</name>
       <price>53</price>
-      <qty>800</qty>
+      <qty>675</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1a0Jaw488EkqllkiPPV8G1-hQ7eA4am2r</picture>
       <picture>https://lh3.googleusercontent.com/d/1JBVMo8oFdqN_-MxsBn12zFYIF90mQFc5</picture>
@@ -1505,7 +1523,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Бамбу 50 см Арт. Fc01445</name>
       <price>88</price>
-      <qty>10</qty>
+      <qty>140</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1I2gBUKQuAG5iMUzaTHdx2UToEKBrOlFO</picture>
       <picture>https://lh3.googleusercontent.com/d/1MZ8Idcu-XLJ4Zh5psEkG2VcZPm0ZhGsK</picture>
@@ -1523,7 +1541,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Диабло 50 см Арт. Fc01825</name>
       <price>160</price>
-      <qty>260</qty>
+      <qty>220</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1tRdQfneSYBiqArzHdnUt-vd8rA09Ka1s</picture>
       <picture>https://lh3.googleusercontent.com/d/1mKOh2YIr9Q-QCaYrXHdaYngIk_NUn8cn</picture>
@@ -1541,7 +1559,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Казино 50 см Арт. Fc02335</name>
       <price>88</price>
-      <qty>100</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1t2KXV5CjaHQytAG9g8SQN7jpRo3xzZiQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1gvdu3lV5u9o-cE1W4k91JF7jUeJX4Imt</picture>
@@ -1559,7 +1577,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Уно 50 см Арт. Fc5885</name>
       <price>127</price>
-      <qty>10</qty>
+      <qty>170</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DAHdLWvU536xvVAHoPESWBwWb2V_tRos</picture>
       <picture>https://lh3.googleusercontent.com/d/1olaHRgDKAG0j-E_Kt2FyeB-nQ3xuo1F9</picture>
@@ -1579,11 +1597,11 @@
       <price>86</price>
       <qty>175</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1aSXg37Nod7OTyELGNNJRrauGAKTt5MUU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oxsJe7r5vl7tax2Iru6d2gExC2wrL0oQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mTscpry5nYqCrFbfbd2YrcuZ75VEzxRi</picture>
       <picture>https://lh3.googleusercontent.com/d/17thKoLgD205miRRyR8KlFo2AOdLsknTD</picture>
       <picture>https://lh3.googleusercontent.com/d/1qvs2_zvJsfNvnlx2z96Nbnxc718irXPJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1JrmK_l468_OpOsxtjWeP3gPuj2OspOrr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aSXg37Nod7OTyELGNNJRrauGAKTt5MUU</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">80</param>
       <param name="Страна">Эквадор</param>
@@ -1595,19 +1613,37 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Белая 70 см Арт. Fc01937</name>
       <price>81</price>
-      <qty>225</qty>
+      <qty>350</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1_vUb_9KtRNWGDpHWSN5LuxKGN9QmCgXY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1v_qmxrCllJ66iT-772nr_2Q6iR7VNBhI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XaKXEhLs68-7fiPF5cVJ8T9wIEva0RiR</picture>
       <picture>https://lh3.googleusercontent.com/d/1Vjr6WLwGd09LbjMmVVXSNnaYjowI5s-9</picture>
       <picture>https://lh3.googleusercontent.com/d/1rxrCUj5q4DLwj5rcpnidAy7KuoHVjzsa</picture>
       <picture>https://lh3.googleusercontent.com/d/1DNmlY_vzxI6qRcqpbb2_JBhF_flCYs6X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_vUb_9KtRNWGDpHWSN5LuxKGN9QmCgXY</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Эквадор</param>
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Fc01937</param>
       <consist name="Гипсофила Белая" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01925" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Сиреневая 50 см Арт. Fc01925</name>
+      <price>88</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1anCpqZzlOej43wUM5D3UmzHCnJJnL-Ad</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uPJ926xlVHHW2o-J5WBWDVqVAiGWXMxj</picture>
+      <picture>https://lh3.googleusercontent.com/d/151tw0jWsZOR54I8oLDMg-7nEe-S9n808</picture>
+      <picture>https://lh3.googleusercontent.com/d/115ofDqY2mSFF6Cmc0irxUYDAZijJQ_cK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yglp83KRqlJQlbSmukhNswGsUNHipkWr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fc01925</param>
+      <consist name="Гипсофила Сиреневая" unit="шт">25</consist>
     </offer>
     <offer id="Fc02026" available="true">
       <categoryId>37</categoryId>
@@ -2168,11 +2204,11 @@
       <price>94</price>
       <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ikEnzaHuTMUaZo-aq4FGvLHdXiKBscpe</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FIvcCMFq1JT7VtS3z75eJJkDG9zuwMCj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UwheGmVOb7tc0SDsVANCmea5E6m5ysmT</picture>
       <picture>https://lh3.googleusercontent.com/d/1bGEcTvmtVl6De-dyihhLZcRbH2Ib0K6w</picture>
       <picture>https://lh3.googleusercontent.com/d/1XloocxGzlNngWhigVVNkCc8T0gThFpYC</picture>
       <picture>https://lh3.googleusercontent.com/d/129cu8WGAFr-JBtk46E_cFrbp65mbvb18</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ikEnzaHuTMUaZo-aq4FGvLHdXiKBscpe</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -2185,11 +2221,11 @@
       <price>83</price>
       <qty>200</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1dm48Iv49NbnELe-z1vHsn_aBuC9O22ml</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XGsuzpbUJPJa-GCED0B1N7OHpX0ft4SH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kfEw2bjoLR2uUMoTLN2dE0rnwAUv3PSX</picture>
       <picture>https://lh3.googleusercontent.com/d/1aexOy4ipW7nWWCqufsb-ZN8C_LwJDPJq</picture>
       <picture>https://lh3.googleusercontent.com/d/1ByINvVvFQwyLBUIR-e307fOcu4K2Z9_t</picture>
       <picture>https://lh3.googleusercontent.com/d/1O2aceCaAzTgeFpfje8OIFGAZgyyEo1aZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dm48Iv49NbnELe-z1vHsn_aBuC9O22ml</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -2202,11 +2238,11 @@
       <price>94</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1c7pCgp8yG2xkm8TKTrnuuQBNa6-Mi_Si</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wTb7kVQsd9LhomKLAaaO-Q1QQil360cb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ef8jjw9unpozEAZ4GOwwxGP0lQK-47Pp</picture>
       <picture>https://lh3.googleusercontent.com/d/1p-IgxR9Grek97y9Z7KgRlTa1uCAyJW38</picture>
       <picture>https://lh3.googleusercontent.com/d/1K5iiLleVL6lJq-R0A1DDyq6uV2ZCzNtu</picture>
       <picture>https://lh3.googleusercontent.com/d/1SIKePKmEleO-omZk7n0n6quoD2K2JHxD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c7pCgp8yG2xkm8TKTrnuuQBNa6-Mi_Si</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -2230,6 +2266,42 @@
       <param name="Производитель">Summer Flora</param>
       <param name="Артикул">Fc01695</param>
       <consist name="Буплерум" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc03835" available="true">
+      <categoryId>38</categoryId>
+      <name>Вероника Фиолетовый 50 см Арт. Fc03835</name>
+      <price>55</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17cIWIwzNSjI1jAvZzi_Xgi8lB6dGiqzW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SyNfuYouYWpcBe4_ZYhTdu1gZP5P9G67</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XsPeJiivpsXbYZyBWSEy1iDGkJP_0n0i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1t2IZG2E9NmFHc6FvyXYUKmY_4vgJsPb3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pvn6qs4ZrmGqFJyGgeNs4HrgFyP0L4Rl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc03835</param>
+      <consist name="Вероника" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc00615" available="true">
+      <categoryId>38</categoryId>
+      <name>Вероника кустовая Фиолетовый 50 см Арт. Fc00615</name>
+      <price>55</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18ny2LnTDNDuOTIXZ0qNVuuQdYtCIGCei</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WsJSa9L_Ohvu2PBwy8DhZ4DokEAWNgAQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/17lm88g_yMQTqi2fH66lJlIEdxiWMsQ3V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l-uWKBx0Vd3bW_7fTlhU4eNqtM4dwNmW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JtfWdRq6x04YZd1naKso1ZMtNz29sQlm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc00615</param>
+      <consist name="Вероника кустовая" unit="шт">20</consist>
     </offer>
     <offer id="Fc04667" available="true">
       <categoryId>38</categoryId>
