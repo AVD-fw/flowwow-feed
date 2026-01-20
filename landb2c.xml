@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-20T10:14:37.100+03:00">
+<yml_catalog date="2026-01-20T10:21:30.876+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -183,6 +183,22 @@
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La2116c</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
+    </offer>
+    <offer id="La4985c" available="true">
+      <name>Пачка (15 шт.) Роза одноголовая Ред Наоми 50 см Арт. La4985c</name>
+      <categoryId>450</categoryId>
+      <price>1742</price>
+      <qty>10</qty>
+      <picture>https://lh3.googleusercontent.com/d/1wQhsxKL35i0jfTQRGD6limXLcZocG6jj</picture>
+      <picture>https://lh3.googleusercontent.com/d/11s8t9awb2iY_gPqnYh723XaSUaa0B_2X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1peYRxbyFRIQ0BCTiNP733mt-NEIk2lpr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 15 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">La4985c</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
     </offer>
     <offer id="La2985c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Родос 50 см Арт. La2985c</name>
@@ -800,6 +816,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">La3516c</param>
       <consist name="Илекс Красный" unit="шт">10</consist>
+    </offer>
+    <offer id="La0546c" available="true">
+      <name>Пачка (10 шт.) Эустома Лиловый 60 см Арт. La0546c</name>
+      <categoryId>450</categoryId>
+      <price>2601</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1d48_dv0YCSnEzT2aTHabY7aaLP7kHSj3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DTuoWmxGaowFjaVuY8f4j7gPHyEgOnaX</picture>
+      <picture>https://lh3.googleusercontent.com/d/18DpDsuLJJ2JLI9QOM2rItv2buFjSvEr0</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">La0546c</param>
+      <consist name="Эустома" unit="шт">10</consist>
     </offer>
     <offer id="La0067c" available="true">
       <name>Пачка (25 шт.) Солидаго Желтый 70 см Арт. La0067c</name>
