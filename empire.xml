@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-20T09:33:47.421+03:00">
+<yml_catalog date="2026-01-20T09:39:42.773+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -88,6 +88,42 @@
       <param name="Производитель">Tajik Flowers</param>
       <param name="Артикул">Ef2616</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef3397" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Розовый 70 см Арт. Ef3397</name>
+      <price>100</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iQM9FJo4NLsmOSnquTm6tG87JbIHLqjO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gMYp94Kb4gPEvgo9Vgny9JMCWzJ93TIA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ICHbzkanzSy1x_CZGSUV0Y7KTtOG7AeE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ONy2VMq3sjf49jl1BfdEdBstSqQnK9D3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zUH_wUq1jPskxvYd81gn9U1SqxdGR1nF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ef3397</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00385" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 50 см Арт. Ef00385</name>
+      <price>48</price>
+      <qty>150</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ezn_ZmnoJNbiGL4w62SetANh2j8NqTPq</picture>
+      <picture>https://lh3.googleusercontent.com/d/176x84HY3v66r1VjxvaieF_g546LmwyBo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EoGW4FFA2VNg6g67SFPLt1t6MCF0kXRb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N9r2uysx8SLxAPjATfA1RMMTzhlVuFRG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cz4LEn59H97Dl2pbiDagTF1m7dT-jE5V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef00385</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
