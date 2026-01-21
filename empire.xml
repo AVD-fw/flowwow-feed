@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-21T14:03:53.472+03:00">
+<yml_catalog date="2026-01-21T14:09:40.433+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -49,29 +49,11 @@
       <param name="Артикул">Ef2846</param>
       <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
-    <offer id="Ef00886" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Ньютон 60 см Арт. Ef00886</name>
-      <price>88</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1zyU8UBl3kyo7jHOIu4f7c_f1Zgv6F2BN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oDJke0JqP-Lm8B-9ogdtr5F7We4dtZrW</picture>
-      <picture>https://lh3.googleusercontent.com/d/13VX6NUbyrpiT7xtu7UwEHCapxckVAdpN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Et4Y1x27ZyR6aYD3QApLTjRBm0dYDc43</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wKLar9UrBMqRFpxx_li1Sk1P9k1cl9Bg</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ef00886</param>
-      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
-    </offer>
     <offer id="Ef00956" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Руби Стар 60 см Арт. Ef00956</name>
       <price>88</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yqKhnarsVw5fhhKsygU9tsXTgvgPI4Xi</picture>
       <picture>https://lh3.googleusercontent.com/d/1dQyt0dO9iSxbZZjb1jwJajbl26C4PSL6</picture>
@@ -89,7 +71,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Хайдар 70 см Арт. Ef3797</name>
       <price>88</price>
-      <qty>5</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hC7IntodzYv_oHkdTnrwiJxGSCs3ii7a</picture>
       <picture>https://lh3.googleusercontent.com/d/1x38u7CozlJ9iLhNmUeyXYJPx64Pup6Ee</picture>
@@ -102,24 +84,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ef3797</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
-    </offer>
-    <offer id="Ef00985" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Пеп Талк 50 см Арт. Ef00985</name>
-      <price>78</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1HjvYMkASgdfJYhS8rk2BEEjBquAMrcH7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PmetzmYJD5l-fkcpfTvT_8n4H9qbHeOG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1l3O6Ul2UuWnYKjBMYKW_YTyUu9gmN4t3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zSNT0GOdS4wUHgGqhG2bVfTIhVqf6zxl</picture>
-      <picture>https://lh3.googleusercontent.com/d/10NMSMVOjyJmtozxjYVwXZO3KgN5GBRjj</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Ef00985</param>
-      <consist name="Хризантема Сантини Пеп Талк" unit="шт">25</consist>
     </offer>
     <offer id="Ef01055" available="true">
       <categoryId>7</categoryId>
@@ -143,7 +107,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Крем 50 см Арт. Ef1705</name>
       <price>78</price>
-      <qty>25</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BH8tFA6i_Jhdu1iUHRSJOTv6ht8jjNqO</picture>
       <picture>https://lh3.googleusercontent.com/d/1yh4RFl1wlbvx2FHG6adi4C2KZriZsqAs</picture>
@@ -161,7 +125,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 60 см Арт. Ef1816</name>
       <price>132</price>
-      <qty>25</qty>
+      <qty>450</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Kjo7NVOzOBen55OQqGv8GURK8lqEL-Xd</picture>
       <picture>https://lh3.googleusercontent.com/d/1ieg0pGVsgW2es1xQINPzAVkwrf1nKyLn</picture>
@@ -176,7 +140,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ef2616</name>
       <price>132</price>
-      <qty>200</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WxZHfaQ4HAH9D2s3DL8ZE_GhQvBjiQG_</picture>
       <picture>https://lh3.googleusercontent.com/d/1lQnDKwVoc8qDHP1iW2qt4NssWg2Qb4fM</picture>
@@ -194,7 +158,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Белый 60 см Арт. Ef2966</name>
       <price>132</price>
-      <qty>25</qty>
+      <qty>325</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pHXV6XjgbB9h_qeAw70c9WLq40KvfW7U</picture>
       <picture>https://lh3.googleusercontent.com/d/1tJtiGl88tzl5QXplOF3FY6HH1Fn48EqK</picture>
@@ -212,7 +176,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
       <price>132</price>
-      <qty>25</qty>
+      <qty>475</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lxSbSZ3mNOFdGfes-meIIEgx9eor2MoN</picture>
       <picture>https://lh3.googleusercontent.com/d/1wAsQ1d61o9TBQj6XySJJspXUEKUihJq0</picture>
@@ -230,7 +194,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 60 см Арт. Ef4556</name>
       <price>132</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Hxjo-hufHAx6_KSSPaPrHndMKsGNWucq</picture>
       <picture>https://lh3.googleusercontent.com/d/1fX2ge6ZIjjZagDNPxcF--YW6Scce0w1Y</picture>
@@ -245,7 +209,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Розовый 70 см Арт. Ef3397</name>
       <price>100</price>
-      <qty>125</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iQM9FJo4NLsmOSnquTm6tG87JbIHLqjO</picture>
       <picture>https://lh3.googleusercontent.com/d/1gMYp94Kb4gPEvgo9Vgny9JMCWzJ93TIA</picture>
@@ -263,7 +227,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 50 см Арт. Ef00385</name>
       <price>47</price>
-      <qty>350</qty>
+      <qty>300</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Ezn_ZmnoJNbiGL4w62SetANh2j8NqTPq</picture>
       <picture>https://lh3.googleusercontent.com/d/176x84HY3v66r1VjxvaieF_g546LmwyBo</picture>
@@ -276,24 +240,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ef00385</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
-    </offer>
-    <offer id="Ef3966" available="true">
-      <categoryId>37</categoryId>
-      <name>Калла 60 см Арт. Ef3966</name>
-      <price>300</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1q7aSHrXW-M8hRe8coSf6MgTmeybwiLnG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1L0wZrgoH_RVFv5ZZ2OXKRjp0kl4bhFAv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1slkPQpdrnkiUqyzrZpINWtMBIThuebxK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1z-e5_tCjkxAaW7Y8zyvkAzVgKNLOoVCc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Wa5Ekrm3VIOuW3vx6TWAiHIwQ8v3_DRt</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Ef3966</param>
-      <consist name="Калла" unit="шт">10</consist>
     </offer>
     <offer id="Ef3694" available="true">
       <categoryId>37</categoryId>
@@ -364,41 +310,6 @@
       <param name="Артикул">Ef01266</param>
       <consist name="Статица" unit="шт">25</consist>
     </offer>
-    <offer id="Ef00306" available="true">
-      <categoryId>37</categoryId>
-      <name>Танацетум Белый 60 см Арт. Ef00306</name>
-      <price>66</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XNmiQF1Yq_0gaLOUn6ny-4ySdufSVFGs</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oupVOPGRtd5gjglS7csB7KBUJFjYUHUr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KwgsJZ4j-yrWAIaqq7ylAndjesKbKs6x</picture>
-      <picture>https://lh3.googleusercontent.com/d/14JLcpqwJQuUyf7F9VOtdO8PD5OStIHSy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KVV5ZvV6_0hMjKS12fwCxoEWBMwdH3G4</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Matricaria by W. Grootscholten</param>
-      <param name="Артикул">Ef00306</param>
-      <consist name="Танацетум" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef01245" available="true">
-      <categoryId>37</categoryId>
-      <name>Фрезия Белый 50 см Арт. Ef01245</name>
-      <price>90</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/17-NYBOIofbqsOcsW_PtQCmvxcK_2OVaL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1C_efQc87YdaSznIbbztxUEjHIysyaXp4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1c9t8rWjEV6AhepoO4k6sJBamUseeG-Ys</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UBq8NiaLkvvTfuRfvNp1ibBYP_g4-XlT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YmV622FiH9Q8KQIjhlGpinb-BQsCIXh6</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01245</param>
-      <consist name="Фрезия" unit="шт">50</consist>
-    </offer>
     <offer id="Ef3526" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алисса Пинк 60 см Арт. Ef3526</name>
@@ -434,24 +345,6 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Ef00257</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
-    </offer>
-    <offer id="Ef00458" available="true">
-      <categoryId>38</categoryId>
-      <name>Солидаго Желтый 80 см Арт. Ef00458</name>
-      <price>102</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1G4nIIqb_78IkuhlSUozKHAS9DNHYfyUB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1X0kbWZzkS6Sglgyd5gYfRuEzowGGGNs3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1itHRdzfHjrag2q5Q3PB6Oe41pu2BOheE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ShMa05n9JrcGxfTmuSDVUMOj_MQy6hIe</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vMehW919rfGZOwHwwEXD-YV3P98o9omZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Ef00458</param>
-      <consist name="Солидаго" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
