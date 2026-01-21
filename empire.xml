@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-21T14:09:40.433+03:00">
+<yml_catalog date="2026-01-21T14:13:52.395+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди 60 см Арт. Ef00936</name>
       <price>88</price>
-      <qty>5</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13fdLM8x_Tw_ZUQ0EhRy3_SK-F-TydY9u</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -89,7 +89,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 50 см Арт. Ef01055</name>
       <price>78</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zRTNQQdmrbMce4vg0wuKsrkR8h5soSkf</picture>
       <picture>https://lh3.googleusercontent.com/d/1piGP0o37E25h6qCJPCUDsjBxD8n6I9nE</picture>
@@ -240,75 +240,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Ef00385</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
-    </offer>
-    <offer id="Ef3694" available="true">
-      <categoryId>37</categoryId>
-      <name>Леукоспермум Красный 40 см Арт. Ef3694</name>
-      <price>240</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1CNssDsV-xETO-nWq-KiZD--dqqjxLWQz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1eaA8PAUEgUJzWshwuJcQpUraBQ_uGklR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1WaEQxPqYzCUZVqmKQQXqc5duJrOETNf-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bsZCcgfwx3fX6EGhmvxh-icA7PFlFD_q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DoAQ4kgI00eQqnERvCx2oH6lh0e3CYnp</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">African Wildflowers</param>
-      <param name="Артикул">Ef3694</param>
-      <consist name="Леукоспермум" unit="шт">5</consist>
-    </offer>
-    <offer id="Ef01045" available="true">
-      <categoryId>37</categoryId>
-      <name>Оксипеталум Голубой 50 см Арт. Ef01045</name>
-      <price>132</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kY7l7fylis0alMvtzvTkE84ZPwQ2hleE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1P9ZrMJlWON3XeQZ3xGa-mkQqk53N_k_c</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JwRRxU6_P7JC9M1GfHr7S_9opdwkWPLI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1z59TcEZY_rX0u4R5xmiziaaKKsdEEJxn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vwZrOUJZg2HrpLqMrC_oy4zREyYzAwHI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01045</param>
-      <consist name="Оксипеталум" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef01215" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Белый 50 см Арт. Ef01215</name>
-      <price>132</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Rch3uaQaGoPmWYkYoZ6Hd0Iyb0-6A5qn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H5ThNOJeSJp99qkUPL71U-T74QeoJNuQ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xTgz_Ke2wdHa-sqxP4dzMe29BTYa_6Yw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LRA1a6S8WLfnc8yVSy10-1EkDfEHERqS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MZe62O2elAfQ-GE4YOxOQDZGQYCIaIkI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01215</param>
-      <consist name="Статица" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef01266" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Фиолетовый 60 см Арт. Ef01266</name>
-      <price>132</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RL9PFzDrbJ29xXHPGrjlvsv1iWTA7gOg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H6mnqKOylrH33Jx97BUZV5rX5nYO65V1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PsSGP3YqJOouH3QOXmy9vLMy3Iq5z8vr</picture>
-      <picture>https://lh3.googleusercontent.com/d/17mR_dOTuYraG1MaRul6nlt-MmwidpKtP</picture>
-      <picture>https://lh3.googleusercontent.com/d/16yzPQ1Y6zTwpJl_a5e8fH_Palv50dcgC</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01266</param>
-      <consist name="Статица" unit="шт">25</consist>
     </offer>
     <offer id="Ef3526" available="true">
       <categoryId>37</categoryId>
