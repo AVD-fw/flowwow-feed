@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-21T10:14:09.516+03:00">
+<yml_catalog date="2026-01-21T10:19:51.747+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -277,6 +277,24 @@
       <param name="Артикул">Ef00385</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
+    <offer id="Ef3966" available="true">
+      <categoryId>37</categoryId>
+      <name>Калла 60 см Арт. Ef3966</name>
+      <price>300</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q7aSHrXW-M8hRe8coSf6MgTmeybwiLnG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1L0wZrgoH_RVFv5ZZ2OXKRjp0kl4bhFAv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1slkPQpdrnkiUqyzrZpINWtMBIThuebxK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z-e5_tCjkxAaW7Y8zyvkAzVgKNLOoVCc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Wa5Ekrm3VIOuW3vx6TWAiHIwQ8v3_DRt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Ef3966</param>
+      <consist name="Калла" unit="шт">10</consist>
+    </offer>
     <offer id="Ef3694" available="true">
       <categoryId>37</categoryId>
       <name>Леукоспермум Красный 40 см Арт. Ef3694</name>
@@ -294,6 +312,23 @@
       <param name="Производитель">African Wildflowers</param>
       <param name="Артикул">Ef3694</param>
       <consist name="Леукоспермум" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef01045" available="true">
+      <categoryId>37</categoryId>
+      <name>Оксипеталум Голубой 50 см Арт. Ef01045</name>
+      <price>132</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kY7l7fylis0alMvtzvTkE84ZPwQ2hleE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P9ZrMJlWON3XeQZ3xGa-mkQqk53N_k_c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JwRRxU6_P7JC9M1GfHr7S_9opdwkWPLI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z59TcEZY_rX0u4R5xmiziaaKKsdEEJxn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vwZrOUJZg2HrpLqMrC_oy4zREyYzAwHI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef01045</param>
+      <consist name="Оксипеталум" unit="шт">25</consist>
     </offer>
     <offer id="Ef01215" available="true">
       <categoryId>37</categoryId>
