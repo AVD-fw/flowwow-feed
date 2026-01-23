@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-23T09:24:35.146+03:00">
+<yml_catalog date="2026-01-23T09:31:26.490+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="La1136c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Аваланш 60 см Арт. La1136c</name>
+      <categoryId>450</categoryId>
+      <price>1305</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/12psSsCwow2dsZN7DGca71M2mTzzN3_d7</picture>
+      <picture>https://lh3.googleusercontent.com/d/12VH-eXk9NZfG7LDRbJUOAXAuyThgLlGR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GsWx_Be9LkqZbvBDQMtbyH65HQPOllR5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La1136c</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
     <offer id="La2104c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Аваланш 40 см Арт. La2104c</name>
       <categoryId>450</categoryId>
@@ -23,6 +39,38 @@
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La2104c</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="La3086c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Анна Карина 60 см Арт. La3086c</name>
+      <categoryId>450</categoryId>
+      <price>1305</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1BHyG-69MhSKtbiiaeCZy-Dzgg-kHSJkB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1olXCImuKHdAw55GDo4SrZOe5BNOcvxrQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TCl7Qx0GkAa7lwdZlOjVbgXhJ24R7Q-j</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La3086c</param>
+      <consist name="Роза одноголовая Анна Карина" unit="шт">10</consist>
+    </offer>
+    <offer id="La3565c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Анна Карина 50 см Арт. La3565c</name>
+      <categoryId>450</categoryId>
+      <price>1161</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1t9utYvuge9Y8Lp_U_7Eu-UzKEAqSxEyA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N0rW3qeudrVeh5gOVDbFjQ0IvPTuZtw2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-KINTjsA85IBhrpa7snFgqwWhHA_aAc6</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La3565c</param>
+      <consist name="Роза одноголовая Анна Карина" unit="шт">10</consist>
     </offer>
     <offer id="La1214c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Джумилия 40 см Арт. La1214c</name>
@@ -87,6 +135,38 @@
       <param name="Производитель">Ступино</param>
       <param name="Артикул">La1247c</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="La4025c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Коко 50 см Арт. La4025c</name>
+      <categoryId>450</categoryId>
+      <price>1161</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1vGg9q2l4pYhGex1tIL8ZaLznlHs6DfUy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vqx-NQzvqO-aeNXqvheig3eBimZ7Dzvn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A4uA2FxNJ4Cj9SM62UrylsxcIObNRpol</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La4025c</param>
+      <consist name="Роза одноголовая Коко" unit="шт">10</consist>
+    </offer>
+    <offer id="La1106c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Мандала 60 см Арт. La1106c</name>
+      <categoryId>450</categoryId>
+      <price>1449</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/188sP2LtyTglkYRt8BHm1FwKlbYR8GsAu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hnWp_sgIiESTARydNRjCnAc4gSFs8GCa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AOS20GxAP07AxJ1DJ-i8man5DDEi76ML</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La1106c</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">10</consist>
     </offer>
     <offer id="La0655c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Пич Аваланш 50 см Арт. La0655c</name>
@@ -231,6 +311,22 @@
       <param name="Производитель">Линия Розы</param>
       <param name="Артикул">La4985c</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
+    </offer>
+    <offer id="La2685c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Шангри Ла 50 см Арт. La2685c</name>
+      <categoryId>450</categoryId>
+      <price>1161</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1PWq2lC5S3MS2Cg7m0kvjVhGhiyzFRMdK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QdscUPeJIu2Fyr6nz2zkl1cVE0Vs41O8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bVF9PdG8VN4nhrK60uIuMLj9UMpnn5Ql</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Ступино</param>
+      <param name="Артикул">La2685c</param>
+      <consist name="Роза одноголовая Шангри Ла" unit="шт">10</consist>
     </offer>
     <offer id="La4627c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Алена 70 см Арт. La4627c</name>
