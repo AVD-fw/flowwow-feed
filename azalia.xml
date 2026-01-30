@@ -1,1 +1,76 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-01-30T10:01:18.916+03:00">
+  <shop>
+    <name>Азалия</name>
+    <company>azalia</company>
+    <url>https://flowwow.com/moscow/shops/wholesale/</url>
+    <categories>
+      <category id="1">Роза одноголовая</category>
+      <category id="2">Роза одноголовая пионовидная</category>
+      <category id="3">Роза кустовая</category>
+      <category id="4">Роза кустовая пионовидная</category>
+      <category id="5">Хризантема одноголовая</category>
+      <category id="6">Хризантема кустовая</category>
+      <category id="7">Хризантема Сантини</category>
+      <category id="37">Цветы</category>
+      <category id="38">Зелень</category>
+      <category id="39">Декор</category>
+    </categories>
+    <offers>
+    <offer id="Az3157" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Топспин 70 см Арт. Az3157</name>
+      <price>286</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rL5_tM7K7wA1w9qOzF4dZTzAXM-wPj19</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3157</param>
+      <consist name="Хризантема одноголовая Топспин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2887" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
+      <price>278</price>
+      <qty>100</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2887</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3124" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Стронг Голд 40 см Арт. Az3124</name>
+      <price>136</price>
+      <qty>200</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3124</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3134" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Галилео 40 см Арт. Az3134</name>
+      <price>136</price>
+      <qty>100</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1SToc9LRTXN36mR0pAewINrMgBclFO5nH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3134</param>
+      <consist name="Тюльпан Пионовидный Галилео" unit="шт">50</consist>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
