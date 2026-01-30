@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-30T10:17:05.266+03:00">
+<yml_catalog date="2026-01-30T10:27:04.482+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Va2826c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Фуксия 60 см Арт. Va2826c</name>
+      <categoryId>450</categoryId>
+      <price>2573</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1MsAvO923MfzYQaaoeekf4NurlN2B8Cpy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PQ75hyNj6uV6KhcI6EUC1IjIdjV0_VzM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OST5eh1wxABkgjltMKjpcij7fiKM08bb</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эфиопия</param>
+      <param name="Производитель">Braam Born to Bloom</param>
+      <param name="Артикул">Va2826c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="Va3626c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Бейби 60 см Арт. Va3626c</name>
       <categoryId>450</categoryId>
@@ -530,22 +546,6 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Va2754c</param>
       <consist name="Клематис" unit="шт">10</consist>
-    </offer>
-    <offer id="Va1606c" available="true">
-      <name>Пачка (10 шт.) Маттиола Розовый 60 см Арт. Va1606c</name>
-      <categoryId>450</categoryId>
-      <price>2248</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1RkimTUi1pVJFkNU1mr2p7h2DqWr8QVHl</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TGYu22fLZjnFDrXIFqnvBusWtWLyf88W</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CO1xVJQPpaojUF3D-YjbsnknZoCDR1Uk</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Италия</param>
-      <param name="Производитель">Iblaflor</param>
-      <param name="Артикул">Va1606c</param>
-      <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="Va2496c" available="true">
       <name>Пачка (10 шт.) Маттиола Фуксия 60 см Арт. Va2496c</name>
