@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-30T14:26:17.561+03:00">
+<yml_catalog date="2026-01-30T14:35:32.616+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -283,11 +283,11 @@
       <price>226</price>
       <qty>260</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1sFoj2vWmgkOB_rNnTNaHlQahCKi5PYZo</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fer_c2Kl8NQM67XBLNSiTUOkBx8WVe4r</picture>
+      <picture>https://lh3.googleusercontent.com/d/141CrrdWbsfgQOQeCJOGykfIg6zq9Ceh6</picture>
       <picture>https://lh3.googleusercontent.com/d/1uxOA6lDI3U8eAvOFCN8x6gN03F4XW1bV</picture>
       <picture>https://lh3.googleusercontent.com/d/1_zSGqjcbPu8maH5Yw5ucUci1h0LlitgT</picture>
       <picture>https://lh3.googleusercontent.com/d/1QKcOM4HNGvezm6-egu1HPIzFkyHHTnmj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sFoj2vWmgkOB_rNnTNaHlQahCKi5PYZo</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">90</param>
       <param name="Страна">Армения</param>
@@ -1101,6 +1101,24 @@
       <param name="Артикул">Fc01657</param>
       <consist name="Гипсофила Розовая" unit="шт">25</consist>
     </offer>
+    <offer id="Fc01925" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Сиреневая 50 см Арт. Fc01925</name>
+      <price>84</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1anCpqZzlOej43wUM5D3UmzHCnJJnL-Ad</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uPJ926xlVHHW2o-J5WBWDVqVAiGWXMxj</picture>
+      <picture>https://lh3.googleusercontent.com/d/151tw0jWsZOR54I8oLDMg-7nEe-S9n808</picture>
+      <picture>https://lh3.googleusercontent.com/d/115ofDqY2mSFF6Cmc0irxUYDAZijJQ_cK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yglp83KRqlJQlbSmukhNswGsUNHipkWr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fc01925</param>
+      <consist name="Гипсофила Сиреневая" unit="шт">25</consist>
+    </offer>
     <offer id="Fc02026" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Fc02026</name>
@@ -1274,6 +1292,23 @@
       <param name="Артикул">Fc19985</param>
       <consist name="Хамелациум Розовый" unit="шт">10</consist>
     </offer>
+    <offer id="Fc8575" available="true">
+      <categoryId>37</categoryId>
+      <name>Эрингиум Белый 50 см Арт. Fc8575</name>
+      <price>160</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jehlLtof8JO4JijPlG4TNoHVUiXLnBxI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HDbnvOb2SD_R-Ysoijwp3ua1PycjVp1Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/16JN2KNoz6f1dPoTCHBC1__09JRKMMcxp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mQCpsjIRydw-8yAygp_2ANvnEGeA-f3T</picture>
+      <picture>https://lh3.googleusercontent.com/d/124KgG55gYyux8VL7uvgkZCJPhG_EA2fH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc8575</param>
+      <consist name="Эрингиум" unit="шт">10</consist>
+    </offer>
     <offer id="Fc5736" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Веддинг Пинк 60 см Арт. Fc5736</name>
@@ -1361,17 +1396,87 @@
       <param name="Артикул">Fc00755</param>
       <consist name="Бруния" unit="шт">10</consist>
     </offer>
+    <offer id="Fc01695" available="true">
+      <categoryId>38</categoryId>
+      <name>Буплерум Зеленый 50 см Арт. Fc01695</name>
+      <price>66</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tEDPKXBmeDZ1ZFSZAr_SrOH9D-FiejtZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/186VVXDpHo983P94brWOUWWUO43WHvoEd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eLHZxpojIKuYAlWXD7IfG5ZY4eUc9t2s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pe5YlaSQ-BW9wrU1l1QmWP97fijUVue8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FHhP-N6Bgm41X-QVbpkcWRw_1jFx2wIU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Summer Flora</param>
+      <param name="Артикул">Fc01695</param>
+      <consist name="Буплерум" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc04667" available="true">
+      <categoryId>38</categoryId>
+      <name>Вибурнум Зеленый 70 см Арт. Fc04667</name>
+      <price>347</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16xy1AP3eo6zos7bGqHOf7XA3h8-QXvWT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TFTg6OHVhGM-iLZTfqvqu2kaNrDv4B7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Nzg24qumPtaQyLWuaaRKgDGBxYEEIcMQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H5t-UenIwIh81s5606_Z4mp3-ePLQeVK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F31YBTS3rOwnGjn2hzX5etr-qiW3hOeA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Filius Noordaw</param>
+      <param name="Артикул">Fc04667</param>
+      <consist name="Вибурнум" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc04115" available="true">
+      <categoryId>38</categoryId>
+      <name>Статица Белый 50 см Арт. Fc04115</name>
+      <price>110</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1InyqP4iQkXIu4kOtypg1CKWLejb5gOJI</picture>
+      <picture>https://lh3.googleusercontent.com/d/17v-DiW4Uk97kjvdEKWxwM0-F-r0KoHrk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D0BOGvXQPJDOh6TZMGZxoP0tZdmJVtnJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/10MSP3TTg3W2eIeRierRTFpO8AkIPSbrB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yT_TOSdaq2cZhn991wytANzxaqf_8T1k</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04115</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc04145" available="true">
+      <categoryId>38</categoryId>
+      <name>Статица Фиолетовый 50 см Арт. Fc04145</name>
+      <price>110</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aQqIu1tFFgBFyM2-4fOIcDwyXzqk9PGv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uBIHAfA7pptUxzdUIvH6fcXaYlGc_YVJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S9O9KXyc14BoRLIHWBPl3vhaJLJo5mca</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p-pycCuxhqQyMqh9vwM_p2Ne5o450JZU</picture>
+      <picture>https://lh3.googleusercontent.com/d/18TyrVWdcwN9OZ8Qf8A6cyn2QWBFmA0QZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc04145</param>
+      <consist name="Статица" unit="шт">25</consist>
+    </offer>
     <offer id="Fc01975" available="true">
       <categoryId>38</categoryId>
       <name>Эрингиум Синий 50 см Арт. Fc01975</name>
       <price>160</price>
       <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/195UvxdNGHqwr4pJrEugSB7tnv8anCQFx</picture>
-      <picture>https://lh3.googleusercontent.com/d/1QOUnZ0ptDMyr-eREmCcqqyeudWvdBy_u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lcKk8fXju2Rz7JXlxY9sO4zMyszOgTJn</picture>
       <picture>https://lh3.googleusercontent.com/d/1-AAc_Vtxh3v4MV0XF0-WuXBny-y3ff42</picture>
       <picture>https://lh3.googleusercontent.com/d/1oTV3YnhgbYQ8Z4cdKamWaFapgqE5PJ7p</picture>
       <picture>https://lh3.googleusercontent.com/d/1TDRfDKYRJ2m15jEcg8-fY6QhiPvOAjad</picture>
+      <picture>https://lh3.googleusercontent.com/d/195UvxdNGHqwr4pJrEugSB7tnv8anCQFx</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
