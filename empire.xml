@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-30T11:13:45.346+03:00">
+<yml_catalog date="2026-01-30T11:19:40.889+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,6 +17,24 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Ef3376" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
+      <price>53</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aevSrEU78Y5unLXh391g_RLnHl5CBlY8</picture>
+      <picture>https://lh3.googleusercontent.com/d/15J9wIHPIBPOSv0JNtDvmSwXqHeuxD64a</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V-PrPCOpl3kFDgBZFDoIrIpQwrb8Rsrt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lxSbSZ3mNOFdGfes-meIIEgx9eor2MoN</picture>
+      <picture>https://lh3.googleusercontent.com/d/11OQAJeUWK95ialjl28d7C4QmNmP0KAEx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ef3376</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Ef00547" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Белый 70 см Арт. Ef00547</name>
