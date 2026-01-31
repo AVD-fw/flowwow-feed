@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-31T10:26:05.554+03:00">
+<yml_catalog date="2026-01-31T10:35:20.446+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -125,24 +125,6 @@
       <param name="Артикул">Fc5967</param>
       <consist name="Роза кустовая пионовидная Йеллоу Бабблс" unit="шт">10</consist>
     </offer>
-    <offer id="Fc06356" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Йеллоу Бабблс 60 см Арт. Fc06356</name>
-      <price>209</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1LYhH5vCExIrA8xk8zGJvlbvgM7xVQrX-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GLTyT4iaU3C7sEmnPyLh2_UgbSwUTPX9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EzsWcvgJhaDjce3dtN6Ab79oGgMccrJY</picture>
-      <picture>https://lh3.googleusercontent.com/d/18jaTKHd5WV22SxEQ-7YK5HGQhc-4jUFY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OvCqMpr5Tqzwlek9MqyHa-MyJVbIHwYE</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Fc06356</param>
-      <consist name="Роза кустовая пионовидная Йеллоу Бабблс" unit="шт">10</consist>
-    </offer>
     <offer id="Fc18639" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 90 см Арт. Fc18639</name>
@@ -197,24 +179,6 @@
       <param name="Артикул">Fc06278</param>
       <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">10</consist>
     </offer>
-    <offer id="Fc6027" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Мисти Бабблс 70 см Арт. Fc6027</name>
-      <price>237</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1pFlEqlHTVm4A8BQaFZ7fmZP0O_D2sHLV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Bs7WXQzcXXITPlj22vIE4GT2oEiCjOzt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mh3nPyLrwcOl1h7bjeOvu7e9hwcvhjvP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1gTeiEwqORkpBXzL47RZEf41j1mQtqsTl</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UH4ilhYyGdNIb7Y3qMSgYwtnNR_AzAPP</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Fc6027</param>
-      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">10</consist>
-    </offer>
     <offer id="Fc18628" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мисти Бабблс 80 см Арт. Fc18628</name>
@@ -237,7 +201,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Ред Бабблс 70 см Арт. Fc06267</name>
       <price>215</price>
-      <qty>260</qty>
+      <qty>230</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1orbS-PfoFTfIsz47M5hXQuYMcLiFoe7k</picture>
       <picture>https://lh3.googleusercontent.com/d/1K6Zdk4Q8UuHvDStP5xLR8OSbmXfP2KTq</picture>
@@ -363,7 +327,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Пастелла Пинк 70 см Арт. Fc15527</name>
       <price>88</price>
-      <qty>60</qty>
+      <qty>35</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EfQxo3IOiNMKscHgLQ3yLzRBYRO-9TB0</picture>
       <picture>https://lh3.googleusercontent.com/d/15MCS1w-l3wXqlG9KbTOlb3Le5aeTMBFl</picture>
@@ -502,6 +466,23 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Fc6435</param>
       <consist name="Хризантема Сантини Росси Крашенный" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01045" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сталион 55 см Арт. Fc01045</name>
+      <price>55</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Kw1-GJmWt7hQg3EMQbrX2cdWe8C-MJYg</picture>
+      <picture>https://lh3.googleusercontent.com/d/14VEoGYjMFaW6-N-kteoLfZowaQui47gM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WbCoxSsHQhy--z2l9NC9kTDAwn_JWhgs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rmuyqe7ijr8TW-gm7g8MrFUwCKwvuFBZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ULYI8Hd-gPG9fY9g52nwisiQPhiWzuX4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc01045</param>
+      <consist name="Хризантема Сантини Сталион" unit="шт">25</consist>
     </offer>
     <offer id="Fc05054" available="true">
       <categoryId>37</categoryId>
@@ -857,7 +838,7 @@
       <categoryId>37</categoryId>
       <name>Хамелациум Розовый 50 см Арт. Fc19985</name>
       <price>110</price>
-      <qty>120</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MCaWUmrWKUfc4UEw4YmnzF7qyYBJcxdG</picture>
       <picture>https://lh3.googleusercontent.com/d/1yn5qZAUvL_JZ4KcmoJ8E9xRd38JYb5v0</picture>
