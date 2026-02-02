@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-02T08:57:06.833+03:00">
+<yml_catalog date="2026-02-02T09:07:11.729+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -482,6 +482,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va3545c</param>
       <consist name="Оксипеталум" unit="шт">25</consist>
+    </offer>
+    <offer id="Va1236c" available="true">
+      <name>Пачка (10 шт.) Сирень Белый 60 см Арт. Va1236c</name>
+      <categoryId>450</categoryId>
+      <price>3778</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-5lJIYUXvg86x8jwz7ccOhPxu8O2SJoh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lSAw7RsflmN4Ht5uhxR_ZYxwdQBP7bqz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HsvcqeJWouqpzMdHSqxqiQjqAkLRU20g</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va1236c</param>
+      <consist name="Сирень" unit="шт">10</consist>
     </offer>
     <offer id="Va1806c" available="true">
       <name>Пачка (10 шт.) Сирень Сиреневый 60 см Арт. Va1806c</name>
