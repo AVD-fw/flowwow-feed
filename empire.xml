@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-02T11:13:46.598+03:00">
+<yml_catalog date="2026-02-02T11:19:55.601+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -35,6 +35,24 @@
       <param name="Артикул">Ef00886</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
+    <offer id="Ef01146" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Малиновый 60 см Арт. Ef01146</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YpDo_jMQJwIjYtsVlB6x9j23B7cCWEsU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fT7VHNTuDBSYOXDVI8XQOId2oGQLX0MX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kqPAkZAn7JePI6ue8UMwkcxBZYbpSOxP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P8nrHKr7t0E7li4qEJVM_MLWRBrRn01g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XDZvLlpTb1S-3LS-EH0yu5misKaaPXg4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Ef01146</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Ef2616" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ef2616</name>
@@ -51,6 +69,24 @@
       <param name="Страна">Эквадор</param>
       <param name="Производитель">Tajik Flowers</param>
       <param name="Артикул">Ef2616</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef2966" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Белый 60 см Арт. Ef2966</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UvuNWS-dsTlUZ9Pa56xk59sSIBtRry6K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d6F9EMq4O71-jSeVdkj4tLe4aI4iRYHy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pHXV6XjgbB9h_qeAw70c9WLq40KvfW7U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AzINrQY802-w48jOeuMYt8mshCgXm2dn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C_FWJDBX1A_LJIEYasXhgwbKQVgCKDXR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ef2966</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="Ef3376" available="true">
@@ -70,6 +106,59 @@
       <param name="Производитель">Tajik flowers</param>
       <param name="Артикул">Ef3376</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00547" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Белый 70 см Арт. Ef00547</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1u4z8zjzFVituBDtfYBW-bE-YszHhdobi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DUJUs1W1gjAOEhq_EyxJrMd67nyJCT3U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RxKFFcialRUBhc2QdFEQ3NICnG_th4Hd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-Mo744DxUEQSFUJ49H8liW9q8qRkv4SF</picture>
+      <picture>https://lh3.googleusercontent.com/d/15rxB4dO2V--MXh6K54Ec4wox8BcY8tUf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ef00547</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef01175" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Разноцветный 50 см Арт. Ef01175</name>
+      <price>90</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OBLIQUH8GjF_Tfzviu-3EvL5xmLFBVEH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JnHdpJOZe2pGkUnq4eLzmWEITaKwX26J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ueKacI_mzMbOF3jeh-aFlZ7yT9FMWZWr</picture>
+      <picture>https://lh3.googleusercontent.com/d/12q6LIctJhQ-sGJplnxYrpmdtznJpPpdP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RDUA4YV4ypslS8ZXphPC3X6-Flr7sLF6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef01175</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef3397" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Розовый 70 см Арт. Ef3397</name>
+      <price>90</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QkAdKtTVsSjJhVz7SeQVQ10fuNSOlzU4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zUH_wUq1jPskxvYd81gn9U1SqxdGR1nF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iQM9FJo4NLsmOSnquTm6tG87JbIHLqjO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1so8TT9zjpMx4cTq2ZnmJ3zbDHje1IXOb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JspxeU9lNGtf0CYJC_67tL6j06ajStef</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ef3397</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
     <offer id="Ef3694" available="true">
       <categoryId>37</categoryId>
