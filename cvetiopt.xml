@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-02T10:15:49.347+03:00">
+<yml_catalog date="2026-02-02T10:25:56.901+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -101,6 +101,24 @@
       <param name="Артикул">Fc19469</param>
       <consist name="Роза кустовая Саммер Денс" unit="шт">10</consist>
     </offer>
+    <offer id="Fc00716" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Софи 60 см Арт. Fc00716</name>
+      <price>237</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1we9rcjb19NVPkZMWdTh97z-1xbWLll8U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RBH812ZkfHJgXZQvQAj8217cLbljsmoe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dIEw5bqwhKhJOwI5ave9QyKNTgYQfSYw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UZ-HbC83pyumkQsBUU1t2lHYXwPaJTsX</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Au7Za3upMIQl7nI2B3oPB-ThuM9ynA9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Voorn Roses</param>
+      <param name="Артикул">Fc00716</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
+    </offer>
     <offer id="Fc12007" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Б Бабблс 70 см Арт. Fc12007</name>
@@ -118,6 +136,24 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc12007</param>
       <consist name="Роза кустовая пионовидная Б Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc11987" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Джульетта 70 см Арт. Fc11987</name>
+      <price>264</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XXaNW_AKJftVyObyKk60h4e8vus-yFht</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QOdSa-UhHJ62HaF45BZiQLEwTXfWTpix</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O0qVLGR3KfMyBY_nCVJwRLl0Gz-Gp4pX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u-6Wwmh1lo_MsgW1ys8JPJGj_nFvx-6a</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kw_aJXVzKa2wfjI0YECGEv2plseuEtAk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Qmanq</param>
+      <param name="Артикул">Fc11987</param>
+      <consist name="Роза кустовая пионовидная Джульетта" unit="шт">5</consist>
     </offer>
     <offer id="Fc5967" available="true">
       <categoryId>4</categoryId>
@@ -226,6 +262,24 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc06267</param>
       <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc20287" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Ферст Дэйт 70 см Арт. Fc20287</name>
+      <price>297</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16exBJNtFo9PrxOKJ1f0DeBUUjTfMeO_C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zgYfnzWPv6RAGv6nXEqPR3bDl7mhNVnC</picture>
+      <picture>https://lh3.googleusercontent.com/d/13-QoNuBnrPVi2J0W_IYAPlXWfSsrY4jS</picture>
+      <picture>https://lh3.googleusercontent.com/d/12PjO_a9ddsXCtJaUEaIrcnkrigNdmXnP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ppfh2RzuzcvlnSQ3EowGiW0mN5Ulw0cD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen</param>
+      <param name="Артикул">Fc20287</param>
+      <consist name="Роза кустовая пионовидная Ферст Дэйт" unit="шт">10</consist>
     </offer>
     <offer id="Fc6817" available="true">
       <categoryId>5</categoryId>
@@ -423,6 +477,42 @@
       <param name="Артикул">Fc05054</param>
       <consist name="Астильба" unit="шт">10</consist>
     </offer>
+    <offer id="Fc20357" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Кремовый 70 см Арт. Fc20357</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/115drWyJkEd0x7WGB941ZIP2v_qKhjxgp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y92H_9K9hSaA4Jc982YUe8j1-0slmNp5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Sa4qZ_HIqXD5RsdpMiDDv5hYvSZlPeE9</picture>
+      <picture>https://lh3.googleusercontent.com/d/14mKdna2B_RUuSQxvDo3Xp4ul5O_clgEk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y0kBHv7WcHzAcSoSD1MC3v3cITlGQW0A</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Azeriflores</param>
+      <param name="Артикул">Fc20357</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc20607" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Белый 70 см Арт. Fc20607</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aGjaNDMwFbf1mLjIAUF4R_rFZP52FBfh</picture>
+      <picture>https://lh3.googleusercontent.com/d/18M5R_MO5tj8amFu3D_nQs5YbQn6ONbO0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K7Y_3V-8Rrsu5gsaXl7l-hTrcnFBbtay</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EM4Lv--j96tgCtpnkIsAdZqj_iJkPU_Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A9aJohfzejtkBuOnp7m1DFAwz6UQdSnn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Azeriflores</param>
+      <param name="Артикул">Fc20607</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Fc01257" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Джангл 70 см Арт. Fc01257</name>
@@ -494,6 +584,24 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Fc9727</param>
       <consist name="Гвоздика одноголовая Харизма" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc19157" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Энданте 70 см Арт. Fc19157</name>
+      <price>53</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1P9ygdTZ8qDGOCrTHZaXtXiN2K-pXSNCS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F8Npqu78Q_gngxVAVz1RsDzzW2Xx43cO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TR5qkhlp5LXQM4upzSP8rkLeq4XXovYi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DvAC-AUY7rh9nfNVT4sTvk8rXuWbeaJd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sgxoURyR6Ru66gU7xemhw3lDGNZCwGim</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Fc19157</param>
+      <consist name="Гвоздика одноголовая Энданте" unit="шт">25</consist>
     </offer>
     <offer id="Fc01445" available="true">
       <categoryId>37</categoryId>
@@ -738,6 +846,24 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Fc5736</param>
       <consist name="Эустома Веддинг Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc13736" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Корелли Лавандер 60 см Арт. Fc13736</name>
+      <price>209</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jbToioB1r481jah-fDVj6mtqf39HSn1Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/10n3MIvXGZy4003y44zCKNFrlki9vUeKP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Cc-4lEccVAXeG0rt3sm6MoeI5WMDJVMy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1x7MLdfDNNpybYwXO8KuLN58nT3Ya-VTD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R2u6858YCi7qNp4Ae-i2uJWdgzK4aoUV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Fc13736</param>
+      <consist name="Эустома Корелли Лавандер" unit="шт">10</consist>
     </offer>
     <offer id="Fc9476" available="true">
       <categoryId>37</categoryId>
