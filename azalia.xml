@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-03T06:33:36.923+03:00">
+<yml_catalog date="2026-02-03T06:41:18.914+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -87,6 +87,20 @@
       <param name="Артикул">Az3275</param>
       <consist name="Роза одноголовая Облако" unit="шт">10</consist>
     </offer>
+    <offer id="Az3288" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Тру Лав 80 см Арт. Az3288</name>
+      <price>181</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1IdCIvIWDsnE273KpIpW0Q92rbh8LIbah</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3288</param>
+      <consist name="Роза одноголовая Тру Лав" unit="шт">10</consist>
+    </offer>
     <offer id="Az1866" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Кира 60 см Арт. Az1866</name>
@@ -129,6 +143,34 @@
       <param name="Артикул">Az3215</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az2887" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
+      <price>286</price>
+      <qty>35</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2887</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
+      <price>211</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rRWcZQDXlYEdwBSmt2Dp-qXFkb6d2vKT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2877</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
     <offer id="Az1468" available="true">
       <categoryId>37</categoryId>
       <name>Илекс Вертициллата Ред 80 см см Арт. Az1468</name>
@@ -154,6 +196,19 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>211</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
