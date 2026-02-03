@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-03T07:03:49.568+03:00">
+<yml_catalog date="2026-02-03T07:09:39.614+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Малиновый 60 см Арт. Ef01146</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YpDo_jMQJwIjYtsVlB6x9j23B7cCWEsU</picture>
       <picture>https://lh3.googleusercontent.com/d/1fT7VHNTuDBSYOXDVI8XQOId2oGQLX0MX</picture>
@@ -39,7 +39,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ef2616</name>
       <price>53</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jWfE95R-cWP9nQBGqBLKw20fWlmIk7ig</picture>
       <picture>https://lh3.googleusercontent.com/d/10le35uDlQqMfkpO2ij-rprcK8TrKRs6R</picture>
@@ -57,7 +57,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
       <price>53</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1aevSrEU78Y5unLXh391g_RLnHl5CBlY8</picture>
       <picture>https://lh3.googleusercontent.com/d/15J9wIHPIBPOSv0JNtDvmSwXqHeuxD64a</picture>
@@ -75,7 +75,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Белый 70 см Арт. Ef00547</name>
       <price>83</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1u4z8zjzFVituBDtfYBW-bE-YszHhdobi</picture>
       <picture>https://lh3.googleusercontent.com/d/1DUJUs1W1gjAOEhq_EyxJrMd67nyJCT3U</picture>
@@ -93,7 +93,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Розовый 70 см Арт. Ef3397</name>
       <price>90</price>
-      <qty>75</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QkAdKtTVsSjJhVz7SeQVQ10fuNSOlzU4</picture>
       <picture>https://lh3.googleusercontent.com/d/1zUH_wUq1jPskxvYd81gn9U1SqxdGR1nF</picture>
@@ -107,23 +107,58 @@
       <param name="Артикул">Ef3397</param>
       <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
-    <offer id="Ef00306" available="true">
+    <offer id="Ef00257" available="true">
       <categoryId>37</categoryId>
-      <name>Танацетум Белый 60 см Арт. Ef00306</name>
-      <price>78</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1k6mOKuMBiUTZPgxtAqSrIWpuZhwR1clp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KwgsJZ4j-yrWAIaqq7ylAndjesKbKs6x</picture>
-      <picture>https://lh3.googleusercontent.com/d/14JLcpqwJQuUyf7F9VOtdO8PD5OStIHSy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KVV5ZvV6_0hMjKS12fwCxoEWBMwdH3G4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XNmiQF1Yq_0gaLOUn6ny-4ySdufSVFGs</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
+      <name>Эустома Росита Вайт 70 см Арт. Ef00257</name>
+      <price>240</price>
+      <qty>100</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15_WY0HK92hSn0I0j2DdMKv8cVnLQFYrJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1evlpvV0tTGh6_JnuV7liE2gvsfCV-e0e</picture>
+      <picture>https://lh3.googleusercontent.com/d/17T_3u7PDwZB-xra6tCESvZhJ3l66vA3s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GM1zNdKD51OtZOC6rLIauKTf08UYleV4</picture>
+      <picture>https://lh3.googleusercontent.com/d/17-VmSNgPaDepgMhsL52G7peXNhKt1xWr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
-      <param name="Производитель">Matricaria by W. Grootscholten</param>
-      <param name="Артикул">Ef00306</param>
-      <consist name="Танацетум" unit="шт">25</consist>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef00257</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef4587" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Пинк 70 см Арт. Ef4587</name>
+      <price>240</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1C2gPhU0uGjSvGWea-9XEHIpNqDZB0T_S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CRRAA9wCf4jArcW-eYe9NEDpmyDT4ENo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1T1OIGLaNtQOkKSNeZ_zfrq6saqqILBeM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YbV4qZGxir4fPqxBIZxBsv-ueCav4YuC</picture>
+      <picture>https://lh3.googleusercontent.com/d/158not5UaEElHT3iIvTAZBzZdE8L2pg_G</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef4587</param>
+      <consist name="Эустома Росита Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef01205" available="true">
+      <categoryId>38</categoryId>
+      <name>Эрингиум Синий 50 см Арт. Ef01205</name>
+      <price>174</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_mwdM9TjgyAIKbASgXOF13MJvwV33-Wp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1igwHeeBqsXk8PM7SuIYWsr8nAtLzuzJr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GKMJkroMSxtSTQFVUXaNN7kGOKreJxOv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ln6pHS2EVUd7bD1oG3TtX6Erk_eL70j9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qo1u0kAMdDmRb0QaQZVd2XM-AFiD26JF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Ef01205</param>
+      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
