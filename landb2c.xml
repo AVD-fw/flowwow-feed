@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-03T06:04:47.728+03:00">
+<yml_catalog date="2026-02-03T06:11:31.200+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -44,7 +44,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Джумилия 60 см Арт. La1236c</name>
       <categoryId>450</categoryId>
       <price>1305</price>
-      <qty>8</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1VFKclkmvk5INBz4aptu5K5XmvDlsoNgU</picture>
       <picture>https://lh3.googleusercontent.com/d/1UwppG0VthCdannEG9FsZBHDz9rH0BmCH</picture>
       <picture>https://lh3.googleusercontent.com/d/1eGd2C3ydEk6Mr1J4AbL-Nxx3a9T8Uxuo</picture>
@@ -76,7 +76,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 60 см Арт. La2116c</name>
       <categoryId>450</categoryId>
       <price>1305</price>
-      <qty>4</qty>
+      <qty>14</qty>
       <picture>https://lh3.googleusercontent.com/d/1rIiipKO2tbIUs9dMrFB3l3U5qYDedcV1</picture>
       <picture>https://lh3.googleusercontent.com/d/1A4n9y42COLhuwmZkW90NLWzJGVkr5rGG</picture>
       <picture>https://lh3.googleusercontent.com/d/1qYmYx9Umu_lD-A4EgG6dShArscjfTNKb</picture>
@@ -108,7 +108,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 80 см Арт. La4178c</name>
       <categoryId>450</categoryId>
       <price>1521</price>
-      <qty>8</qty>
+      <qty>13</qty>
       <picture>https://lh3.googleusercontent.com/d/13nWERudBBdakuVHhO-FIxYokHk8WPhKB</picture>
       <picture>https://lh3.googleusercontent.com/d/10CozTOyf4XY1eBitDc0aSk5wID3KO6eN</picture>
       <picture>https://lh3.googleusercontent.com/d/1G3vJxfKlJzESA7CIXy2tTMUNJd2wEwS8</picture>
@@ -139,7 +139,7 @@
       <name>Пачка (10 шт.) Роза кустовая Розовый 60 см Арт. La4266c</name>
       <categoryId>450</categoryId>
       <price>2025</price>
-      <qty>3</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1XU5HIFZrVePoJzkIeiFfGKj0v3Vv_Zsa</picture>
       <picture>https://lh3.googleusercontent.com/d/1IZitP-eycEfg-fAK8k87oWIFgY-t1-H_</picture>
       <picture>https://lh3.googleusercontent.com/d/1dgePDUDnLiRRsZael2gNVHWjBR_Q_Lh2</picture>
@@ -171,7 +171,7 @@
       <name>Пачка (10 шт.) Роза кустовая пионовидная Кремовый 60 см Арт. La2376c</name>
       <categoryId>450</categoryId>
       <price>2025</price>
-      <qty>2</qty>
+      <qty>5</qty>
       <picture>https://lh3.googleusercontent.com/d/19Qp1DCRzt4CQe4jiadB2umd0Oik5MbNF</picture>
       <picture>https://lh3.googleusercontent.com/d/102OvY6NxpU7gTEdifS3Qmo34JZwYBX_L</picture>
       <picture>https://lh3.googleusercontent.com/d/1QenTogbA7MvgKaCVEbsGihovBRNzW75t</picture>
@@ -182,6 +182,22 @@
       <param name="Производитель">Black Tulip Flowers</param>
       <param name="Артикул">La2376c</param>
       <consist name="Роза кустовая пионовидная" unit="шт">10</consist>
+    </offer>
+    <offer id="La4857c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Антонов 70 см Арт. La4857c</name>
+      <categoryId>450</categoryId>
+      <price>2889</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1_mP3-HcEaHP5K5lhLhPtZ3RDsgTKpAWY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1clQvxmzOqO874NlvOZi95_abK8USntLT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1d7Vh0QMQ45Xyc18kcoZHvudSqQPljB16</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">La4857c</param>
+      <consist name="Хризантема одноголовая Антонов" unit="шт">10</consist>
     </offer>
     <offer id="La3387c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Магнум 70 см Арт. La3387c</name>
@@ -283,7 +299,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Мексикано 70 см Арт. La0997c</name>
       <categoryId>450</categoryId>
       <price>783</price>
-      <qty>3</qty>
+      <qty>1</qty>
       <picture>https://lh3.googleusercontent.com/d/18jS_Xug1N2scKNKfA6uPKNUIVMZiRWM4</picture>
       <picture>https://lh3.googleusercontent.com/d/14z33OUogiiSSQxiNl2V5k0xxGOLknsIN</picture>
       <picture>https://lh3.googleusercontent.com/d/1gTJNWCvGOdooKs6dRVhizV-LlxmPNooR</picture>
