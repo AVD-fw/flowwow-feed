@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-03T06:27:44.952+03:00">
+<yml_catalog date="2026-02-03T06:37:44.677+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -28,7 +28,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Джумилия 50 см Арт. Az2825c</name>
       <categoryId>450</categoryId>
       <price>1780</price>
-      <qty>2</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/15tM7Gfq55PZRR1brqabSrafPElzkKu5c</picture>
       <picture>https://lh3.googleusercontent.com/d/1nHFfV57KE5hkQeHk9eoWvSBsP3wOI_81</picture>
       <picture>https://lh3.googleusercontent.com/d/1QgXs7XtR04cGGLwuqDT0AQ3i9Ze6F2_-</picture>
@@ -44,7 +44,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Лемон Финес 60 см Арт. Az2456c</name>
       <categoryId>450</categoryId>
       <price>1780</price>
-      <qty>4</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1YIhDGNncWjVOG6thqFd0v0DNTmt8tS-n</picture>
       <picture>https://lh3.googleusercontent.com/d/1HGOYhPLDBzapyqtr52muQ02kc4ItiESX</picture>
       <picture>https://lh3.googleusercontent.com/d/1w2YgLoYqohTQGLRVN9caVkJctLixr_4o</picture>
@@ -71,22 +71,6 @@
       <param name="Производитель">Чеховский Сад</param>
       <param name="Артикул">Az2505c</param>
       <consist name="Роза одноголовая Лемон Финес" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3295c" available="true">
-      <name>Пачка (10 шт.) Роза одноголовая Маритим 50 см Арт. Az3295c</name>
-      <categoryId>450</categoryId>
-      <price>1780</price>
-      <qty>3</qty>
-      <picture>https://lh3.googleusercontent.com/d/1FfNEmMNKQDv79RkRewjWtz8StwKqsJpN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1euHPcl6jHchr1L8mfvRFA8rfvZl5tkv0</picture>
-      <picture>https://lh3.googleusercontent.com/d/172zwp3GUrwUPwud-yy-uVa9-RB2FH90I</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3295c</param>
-      <consist name="Роза одноголовая Маритим" unit="шт">10</consist>
     </offer>
     <offer id="Az3275c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Облако 50 см Арт. Az3275c</name>
@@ -152,27 +136,11 @@
       <param name="Артикул">Az1895c</param>
       <consist name="Роза кустовая Кира" unit="шт">10</consist>
     </offer>
-    <offer id="Az3267c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Лавли Лидия 70 см Арт. Az3267c</name>
-      <categoryId>450</categoryId>
-      <price>3130</price>
-      <qty>2</qty>
-      <picture>https://lh3.googleusercontent.com/d/13jESZE0_eZGxQJ1gGLqL6bITrJYJMz13</picture>
-      <picture>https://lh3.googleusercontent.com/d/1cCVWJddF1hgdwnc4XyTiqjrWxY6GErIp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yP0sgtXyMZPI9FdE6qpIEHoeiKF7_o36</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3267c</param>
-      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
-    </offer>
     <offer id="Az3215c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215c</name>
       <categoryId>450</categoryId>
       <price>2530</price>
-      <qty>20</qty>
+      <qty>18</qty>
       <picture>https://lh3.googleusercontent.com/d/1oKLBCDM-j2n0YJ0poT7VpJVva-ybJe4t</picture>
       <picture>https://lh3.googleusercontent.com/d/1_XDE0CTOSAKVCEXd2qL7ORykuDTUMhT9</picture>
       <picture>https://lh3.googleusercontent.com/d/1vyook0BMyR1zQKyOW0ouB7vqLDcyYuZV</picture>
@@ -220,7 +188,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Алтай 70 см Арт. Az2887c</name>
       <categoryId>450</categoryId>
       <price>1550</price>
-      <qty>17</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1t0SpshryLeokOFaJoNMw0a3_pGuf_cg3</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVcl6AMr7SRzvBf2-iUANlOWRG_Fg8Wc</picture>
       <picture>https://lh3.googleusercontent.com/d/169BBhmU-976wUl5EuyDLE_KR7UlK1lSK</picture>
@@ -252,7 +220,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Бейби 70 см Арт. Az2877c</name>
       <categoryId>450</categoryId>
       <price>1175</price>
-      <qty>5</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/10Pzf0uub1sCXkJD9tr6F3-CtnFavI-1k</picture>
       <picture>https://lh3.googleusercontent.com/d/1cldr4D3eq1jDzmjoPrhNB21gCm6Z_xVy</picture>
       <picture>https://lh3.googleusercontent.com/d/1AT6Am8eLvPC1vRMS6IkRtJQE0N-HztHu</picture>
