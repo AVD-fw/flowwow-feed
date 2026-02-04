@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-04T06:03:39.353+03:00">
+<yml_catalog date="2026-02-04T06:51:13.104+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,193 +17,11 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az2815" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Бубль Гам 50 см Арт. Az2815</name>
-      <price>151</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1gwLch5HSRyzxyqUAwjQy1TShZ4HVsJFH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az2815</param>
-      <consist name="Роза одноголовая Бубль Гам" unit="шт">10</consist>
-    </offer>
-    <offer id="Az2825" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Джумилия 50 см Арт. Az2825</name>
-      <price>166</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/11yg6vTnRgivt4EkKeOvcxH11Ac_DCkYw</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az2825</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
-    </offer>
-    <offer id="Az2456" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Лемон Финес 60 см Арт. Az2456</name>
-      <price>166</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1B0UUSt9jPbloyi-naDLopoU40FlWP7R8</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az2456</param>
-      <consist name="Роза одноголовая Лемон Финес" unit="шт">10</consist>
-    </offer>
-    <offer id="Az2505" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Лемон Финес 50 см Арт. Az2505</name>
-      <price>136</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15GcSM684KfcwCAUntDLNi-zDnkgegDiL</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az2505</param>
-      <consist name="Роза одноголовая Лемон Финес" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3275" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Облако 50 см Арт. Az3275</name>
-      <price>166</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1fm92tyxnfeqRQYWzDtbOFMlTPAGzdlCM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3275</param>
-      <consist name="Роза одноголовая Облако" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3288" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Тру Лав 80 см Арт. Az3288</name>
-      <price>181</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1IdCIvIWDsnE273KpIpW0Q92rbh8LIbah</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3288</param>
-      <consist name="Роза одноголовая Тру Лав" unit="шт">10</consist>
-    </offer>
-    <offer id="Az1866" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Кира 60 см Арт. Az1866</name>
-      <price>226</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1iK7l8igbosN6W6VzyZMNeZLneGYF22ks</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az1866</param>
-      <consist name="Роза кустовая Кира" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3215" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215</name>
-      <price>241</price>
-      <qty>180</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1_XDE0CTOSAKVCEXd2qL7ORykuDTUMhT9</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3215</param>
-      <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
-    </offer>
-    <offer id="Az2847" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
-      <price>331</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az2847</param>
-      <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
-    </offer>
-    <offer id="Az2887" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
-      <price>286</price>
-      <qty>35</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az2887</param>
-      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3317" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
-      <price>241</price>
-      <qty>80</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19x2wAvFjuh_EtN1auKvkqShihq8CLKo6</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3317</param>
-      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
-    </offer>
-    <offer id="Az2877" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
-      <price>211</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1rRWcZQDXlYEdwBSmt2Dp-qXFkb6d2vKT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az2877</param>
-      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3037" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
-      <price>181</price>
-      <qty>20</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AEtWlIVEJ-1pfp8fH1wWXYjLhl4B-pYA</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3037</param>
-      <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
-    </offer>
     <offer id="Az1468" available="true">
       <categoryId>37</categoryId>
       <name>Илекс Вертициллата Ред 80 см см Арт. Az1468</name>
       <price>451</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ci_hC17Iu9fJ-BeZ6PGN8kR1U22Cjm6r</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -216,7 +34,7 @@
       <categoryId>37</categoryId>
       <name>Ирис 60 см Арт. Az3186</name>
       <price>91</price>
-      <qty>150</qty>
+      <qty>350</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
@@ -224,19 +42,6 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
-    </offer>
-    <offer id="Az1335" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
-      <price>211</price>
-      <qty>20</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1335</param>
-      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
