@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-04T14:57:42.611+03:00">
+<yml_catalog date="2026-02-04T15:07:40.941+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -8,6 +8,38 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Az2815c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Бубль Гам 50 см Арт. Az2815c</name>
+      <categoryId>450</categoryId>
+      <price>1630</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1LvNKwE7yrkuyU9ImPABNPb6A8d3IT1KS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WRpfA_80ARIh-14OoilNwYGJBBtDNkex</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lndt59s7erjwY8S4PRlt9wes3wlP1SEY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az2815c</param>
+      <consist name="Роза одноголовая Бубль Гам" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2825c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Джумилия 50 см Арт. Az2825c</name>
+      <categoryId>450</categoryId>
+      <price>1780</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/15tM7Gfq55PZRR1brqabSrafPElzkKu5c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nHFfV57KE5hkQeHk9eoWvSBsP3wOI_81</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QgXs7XtR04cGGLwuqDT0AQ3i9Ze6F2_-</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az2825c</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
     <offer id="Az2456c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Лемон Финес 60 см Арт. Az2456c</name>
       <categoryId>450</categoryId>
@@ -22,6 +54,22 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Чеховский Сад</param>
       <param name="Артикул">Az2456c</param>
+      <consist name="Роза одноголовая Лемон Финес" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2505c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Лемон Финес 50 см Арт. Az2505c</name>
+      <categoryId>450</categoryId>
+      <price>1480</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1YIhDGNncWjVOG6thqFd0v0DNTmt8tS-n</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HGOYhPLDBzapyqtr52muQ02kc4ItiESX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w2YgLoYqohTQGLRVN9caVkJctLixr_4o</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az2505c</param>
       <consist name="Роза одноголовая Лемон Финес" unit="шт">10</consist>
     </offer>
     <offer id="Az3275c" available="true">
@@ -40,6 +88,118 @@
       <param name="Артикул">Az3275c</param>
       <consist name="Роза одноголовая Облако" unit="шт">10</consist>
     </offer>
+    <offer id="Az3288c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Тру Лав 80 см Арт. Az3288c</name>
+      <categoryId>450</categoryId>
+      <price>1930</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/10cKR5GbnZK7RRoNbTlsWOGkV7PspRWWF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IdCIvIWDsnE273KpIpW0Q92rbh8LIbah</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-1vozSYEKIV60mlA7_zrKSQufJvTVHrM</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3288c</param>
+      <consist name="Роза одноголовая Тру Лав" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3427c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3427c</name>
+      <categoryId>450</categoryId>
+      <price>2080</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1uu1rvkByjoENp9wmgXrAi3LQeNLYQjoj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FVbjdVRChPFBI-XnburHEIT1vOvvrDJg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hCfFTQI8A93lPTm_UqInW1dDo8Qlna7E</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3427c</param>
+      <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3437c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая пионовидная Ридженс Парк 70 см Арт. Az3437c</name>
+      <categoryId>450</categoryId>
+      <price>2080</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1UwwBRxEwomS1sCF3sadslfWAQJ4YZnz3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1frB4PSGddMM0Jse3ntUZrR4wwSOtNZeD</picture>
+      <picture>https://lh3.googleusercontent.com/d/19dIohXN4dg3qzTJS2Eebzmt0ZcXq8RVA</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3437c</param>
+      <consist name="Роза одноголовая пионовидная Ридженс Парк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1866c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Кира 60 см Арт. Az1866c</name>
+      <categoryId>450</categoryId>
+      <price>2380</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZTTv-jLqmiMgm2ogvkDXUNpbubG-G2aD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OiLd2Q5epTDYCragcuGh02e2cZ8wmC80</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yEzWAf_YtoDn6kBaj8xlZxL23SFw0PPe</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az1866c</param>
+      <consist name="Роза кустовая Кира" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1895c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Кира 50 см Арт. Az1895c</name>
+      <categoryId>450</categoryId>
+      <price>2230</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZTTv-jLqmiMgm2ogvkDXUNpbubG-G2aD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OiLd2Q5epTDYCragcuGh02e2cZ8wmC80</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yEzWAf_YtoDn6kBaj8xlZxL23SFw0PPe</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az1895c</param>
+      <consist name="Роза кустовая Кира" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3267c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Лавли Лидия 70 см Арт. Az3267c</name>
+      <categoryId>450</categoryId>
+      <price>3130</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/13jESZE0_eZGxQJ1gGLqL6bITrJYJMz13</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cCVWJddF1hgdwnc4XyTiqjrWxY6GErIp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yP0sgtXyMZPI9FdE6qpIEHoeiKF7_o36</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3267c</param>
+      <consist name="Роза кустовая Лавли Лидия" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3235c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Парадиз 50 см Арт. Az3235c</name>
+      <categoryId>450</categoryId>
+      <price>2080</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1qNPlHrsMTcJKZhoFpFtHS1-M1hHA-rNn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ILusOOE3B3oo26vBIg0igpeEdUPy0dMk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EAGn34sQQ6ODxP0CVGwQp2CmSB5dtI1I</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3235c</param>
+      <consist name="Роза кустовая Парадиз" unit="шт">10</consist>
+    </offer>
     <offer id="Az3215c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215c</name>
       <categoryId>450</categoryId>
@@ -56,6 +216,38 @@
       <param name="Артикул">Az3215c</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az1876c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Крем Брюле 60 см Арт. Az1876c</name>
+      <categoryId>450</categoryId>
+      <price>3280</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1eLtdax9QzAV2GunpbuPV7dDA1C_X1_RK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_M9wZGG4F5wSji3pgetk-0kTLWaWL2J2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1992GcpgUaa6MMZZRx0h4FgzK_Jo7Pab8</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az1876c</param>
+      <consist name="Роза кустовая пионовидная Крем Брюле" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3445c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Леди Бомбасик 50 см Арт. Az3445c</name>
+      <categoryId>450</categoryId>
+      <price>3280</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1P0AJrDUmhxIlXeHD5LFja-p-Eg_9Nm_F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sJwI-9RqK40HjSvWfh5PJoz9WMP7Hcem</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-wA2LO9OpRNNEBO5rHx7bR2C1Dp9LO1S</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3445c</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбасик" unit="шт">10</consist>
+    </offer>
     <offer id="Az2847c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847c</name>
       <categoryId>450</categoryId>
@@ -71,6 +263,38 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2847c</param>
       <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3327c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Петр 70 см Арт. Az3327c</name>
+      <categoryId>450</categoryId>
+      <price>3430</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1qYAh7Xp3GZ7MHsVmQmQPG6k4togpZ71L</picture>
+      <picture>https://lh3.googleusercontent.com/d/18ccpNg9O0WzwJo7Jev5QTr9LBYuyAtxm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mlUedr_DDqfCKOhxJSLul9edyvqorrGm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3327c</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3157c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Топспин 70 см Арт. Az3157c</name>
+      <categoryId>450</categoryId>
+      <price>2980</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1_TK72AhCu5XO3X5Zm4ian67eeTgi637H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rL5_tM7K7wA1w9qOzF4dZTzAXM-wPj19</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QO8AGuo6cf1bg0LTmKEcx9DGpduri9T-</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3157c</param>
+      <consist name="Хризантема одноголовая Топспин" unit="шт">10</consist>
     </offer>
     <offer id="Az2887c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Алтай 70 см Арт. Az2887c</name>
@@ -168,6 +392,22 @@
       <param name="Артикул">Az3417c</param>
       <consist name="Хризантема кустовая Пастелла Крем" unit="шт">5</consist>
     </offer>
+    <offer id="Az3007c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Фабьен Свит 70 см Арт. Az3007c</name>
+      <categoryId>450</categoryId>
+      <price>1325</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1P4CBif_uu4_7yaEi_Wwcjsdgh8EaEOfW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kyBAg5xf2hv8xyMHKc-ZNASPUMJ9YX1n</picture>
+      <picture>https://lh3.googleusercontent.com/d/15BdKQx20n04xexpxcvbuAFjltGH2-V-f</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3007c</param>
+      <consist name="Хризантема кустовая Фабьен Свит" unit="шт">5</consist>
+    </offer>
     <offer id="Az3405c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Крем 50 см Арт. Az3405c</name>
       <categoryId>450</categoryId>
@@ -183,6 +423,84 @@
       <param name="Производитель">LS Santini</param>
       <param name="Артикул">Az3405c</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3395c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 50 см Арт. Az3395c</name>
+      <categoryId>450</categoryId>
+      <price>3895</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1pxDrgJX5UemgdkjUlpkJroWLwdfIfqS6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qD_K7M6WxdIus9ZALmRpELsqV8Enxzrg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wbnqAT48n46MQDJivfaBuDJ83ZQdaJcS</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3395c</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1497c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Сирен 70 см Арт. Az1497c</name>
+      <categoryId>450</categoryId>
+      <price>2395</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1IsjKOv6qzN6XRBnf7MoIRZBTBSRKFaMg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uqK0cyaE63ExeQfQFPdlB6qBhRT9Pbfk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b7b5PCiR5N9APdH0kmcfOFNnzQBNcB-3</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Клеар Вотер</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az1497c</param>
+      <consist name="Гвоздика одноголовая Сирен" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3374c" available="true">
+      <name>Пачка (25 шт.) Гиацинты Дельфт Блю 40 см Арт. Az3374c</name>
+      <categoryId>450</categoryId>
+      <price>3520</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Ac1znWZpF96wZnD-JZv99Kd8ID2CPLdh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MnhVS150aeN8NiBe93iYlhyFl-6pMP9H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y5eXtaARwIy_jSRQQfyUU93je6UktIJo</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3374c</param>
+      <consist name="Гиацинты Дельфт Блю" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3206c" available="true">
+      <name>Пачка (10 шт.) Гиперикум Коко Танго 60 см Арт. Az3206c</name>
+      <categoryId>450</categoryId>
+      <price>1930</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1RMefkeUTKanUAt2Yb4790RVethsiHCrp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w7fYrlWOqn52P-_35jodoK-_FXYvk57c</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Az3206c</param>
+      <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1456c" available="true">
+      <name>Пачка (5 шт.) Илекс Вертицилата Голден Вербум 60 см Арт. Az1456c</name>
+      <categoryId>450</categoryId>
+      <price>2225</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1AiipktlNT1p72QJ6JDIUDzplZoQSroFn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CWg4xSpO_A47IXZzzW-VmEqNGiau0Htq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Wh3DRcE4-fD04nn426ViLqEmTsgdDWm4</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1456c</param>
+      <consist name="Илекс Вертицилата Голден Вербум" unit="шт">5</consist>
     </offer>
     <offer id="Az1468c" available="true">
       <name>Пачка (5 шт.) Илекс Вертициллата Ред 80 см см Арт. Az1468c</name>
@@ -214,6 +532,36 @@
       <param name="Артикул">Az3186c</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
+    <offer id="Az3336c" available="true">
+      <name>Пачка (10 шт.) Маттиола Айрон Марин 60 см Арт. Az3336c</name>
+      <categoryId>450</categoryId>
+      <price>3130</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1vWaKKE9GTv6L5jWYCDRIZ5UWf7dzlW_8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VS4hZA4dztAin0oXgMlnBtqPqiX37V7P</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3336c</param>
+      <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3346c" available="true">
+      <name>Пачка (10 шт.) Маттиола Айрон Пинк 60 см Арт. Az3346c</name>
+      <categoryId>450</categoryId>
+      <price>3130</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1iPndQ1Y3KLdbUhPDqXLw-saXf8IFDqoF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sfPw8IDFRcWkNq8nBRjMI4Z-UDSSIa6E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CBemhF7g7hxy-FmRN_KWAHV1GwP1bOnd</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3346c</param>
+      <consist name="Маттиола Айрон Пинк" unit="шт">10</consist>
+    </offer>
     <offer id="Az1335c" available="true">
       <name>Пачка (5 шт.) Статица Кристал Дарк Блю 50 см Арт. Az1335c</name>
       <categoryId>450</categoryId>
@@ -228,6 +576,96 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az1335c</param>
       <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
+    </offer>
+    <offer id="Az1426c" available="true">
+      <name>Пачка (20 шт.) Танацетум Матрикария 60 см Арт. Az1426c</name>
+      <categoryId>450</categoryId>
+      <price>2840</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1dDQW1XBtY1yYvHWRp08swQ4NuJ5L4eys</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YZtJbVa-CwFTBAtk3NnS8CD6Az3ZFHZZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/11s3iW8U15ka4LCJgwSK0m5kziADMidrw</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1426c</param>
+      <consist name="Танацетум Матрикария" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3104c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Династий 40 см Арт. Az3104c</name>
+      <categoryId>450</categoryId>
+      <price>6170</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1c401QRhpzXHA2oRTTAHkVQ-3KTekJN1i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vgHi8F7Orz9_W5aETSlX0VyOGlSEM1LB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PWH0EPqh6xRIevQ4ZegpMrCx-oQEvp4g</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3104c</param>
+      <consist name="Тюльпан Династий" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3124c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Стронг Голд 40 см Арт. Az3124c</name>
+      <categoryId>450</categoryId>
+      <price>6920</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/10Yt_-elkaPsskKijrD1xq5FBcwTCdVhm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O7zKMTZyNcN7a5x4YxzvlP0jlWuKciKB</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3124c</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3134c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Пионовидный Галилео 40 см Арт. Az3134c</name>
+      <categoryId>450</categoryId>
+      <price>6920</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/120wu5NtVYkClUa8BoHE9WL6TA-SJNhzB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SToc9LRTXN36mR0pAewINrMgBclFO5nH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hHye7vkvTRrdV8RdfV7ibYpE2HqdOc_q</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3134c</param>
+      <consist name="Тюльпан Пионовидный Галилео" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3144c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Пионовидный Самбука 40 см Арт. Az3144c</name>
+      <categoryId>450</categoryId>
+      <price>9170</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1EXj5SODZoUXJwLorIIBpapn7q_R4YsSU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j1fIx-GLrMHey7ehD0VPM6WTgED1Dkga</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3144c</param>
+      <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3364c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364c</name>
+      <categoryId>450</categoryId>
+      <price>9170</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/13U2xbMR6v7bQnV3BNdLckzApaqQNAklt</picture>
+      <picture>https://lh3.googleusercontent.com/d/10FEzuF9onhD29Sw5WZ1_DVBC5wR1T2FN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fPE15pp-THXuuWSfWQ0nvokWmVUIxfgK</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3364c</param>
+      <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
     </offer>
     <offer id="Az3384c" available="true">
       <name>Пачка (50 шт.) Тюльпан Попугаи Марвел Паррот 40 см Арт. Az3384c</name>
