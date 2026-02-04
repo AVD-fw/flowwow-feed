@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-04T12:43:50.874+03:00">
+<yml_catalog date="2026-02-04T12:49:41.171+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -35,6 +35,24 @@
       <param name="Артикул">Ef2616</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
+    <offer id="Ef00537" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Радужный 70 см Арт. Ef00537</name>
+      <price>90</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MpyXpfHAoLbnRABKThCIOLSNqE6BmpV3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U2PzJrf5lcrMqGzfNFBJki7O3z5VVxTF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dAQQSyKUMgPoiXRN8qpuQsWJeHk9y012</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eHAVxcyXABaOfL1m8n1kvbUghu2BR6YJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pGOSR3ud06-QXidHd_9rN92hxbzaC2YS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ef00537</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
     <offer id="Ef00547" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Белый 70 см Арт. Ef00547</name>
@@ -52,6 +70,24 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ef00547</param>
       <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef3416" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алисса Вайт 60 см Арт. Ef3416</name>
+      <price>240</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gbdtMEzDRYkDK6d3nnFjOaWlhowq3t9b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ha1aNupT49hfad9E4Lex5XNUSB1QOwPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ibAA1TL4x8hUPA2uGib_VftLJ7MsfhvO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UOWQ-tvX1XyZTAOFj5rt9_T_pQPRhQ9c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LDx0VopG--zVJvdyWUQ4cN8xjkmRN7XR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ef3416</param>
+      <consist name="Эустома Алисса Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Ef00257" available="true">
       <categoryId>37</categoryId>
