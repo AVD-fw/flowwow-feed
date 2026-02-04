@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-04T05:54:42.654+03:00">
+<yml_catalog date="2026-02-04T06:01:26.174+03:00">
   <shop>
     <name>Flora land</name>
     <company>landb2c</company>
@@ -44,7 +44,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 70 см Арт. La1177c</name>
       <categoryId>450</categoryId>
       <price>1449</price>
-      <qty>14</qty>
+      <qty>12</qty>
       <picture>https://lh3.googleusercontent.com/d/1M9uNRl3MkSa4twrUUQUZ4lhC6yf2eRcb</picture>
       <picture>https://lh3.googleusercontent.com/d/1GllSm_HTbHk-3spdE5BKyfhjxCuVTw9d</picture>
       <picture>https://lh3.googleusercontent.com/d/1TLtqu1aEWFlmyUrCkq6cSv6kAE-7jso4</picture>
@@ -60,7 +60,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 60 см Арт. La2116c</name>
       <categoryId>450</categoryId>
       <price>1305</price>
-      <qty>6</qty>
+      <qty>5</qty>
       <picture>https://lh3.googleusercontent.com/d/1rIiipKO2tbIUs9dMrFB3l3U5qYDedcV1</picture>
       <picture>https://lh3.googleusercontent.com/d/1A4n9y42COLhuwmZkW90NLWzJGVkr5rGG</picture>
       <picture>https://lh3.googleusercontent.com/d/1qYmYx9Umu_lD-A4EgG6dShArscjfTNKb</picture>
@@ -92,7 +92,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Родос 50 см Арт. La2985c</name>
       <categoryId>450</categoryId>
       <price>1305</price>
-      <qty>7</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1nR7A-2M72jHrlUaeRtVtLeouQ2zx00P8</picture>
       <picture>https://lh3.googleusercontent.com/d/1AiyeRib6JO2tryFY3kkiMgnWvHY44ESB</picture>
       <picture>https://lh3.googleusercontent.com/d/11dbFyLLPTRbj1TK0sChaTMzROR_xdjJL</picture>
@@ -182,6 +182,21 @@
       <param name="Производитель">Retine</param>
       <param name="Артикул">La4917c</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="La5347c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Балтика 70 см Арт. La5347c</name>
+      <categoryId>450</categoryId>
+      <price>1085</price>
+      <qty>7</qty>
+      <picture>https://lh3.googleusercontent.com/d/1_efO0jebWhiukP2J3t8MOtQuYL_k5h46</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mlkiqK9WeftzYoO7SE0zWBdSrsUXNty_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OeQ5jSkRR-9l1AzC6_V8PYIvHwnLcBXF</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">La5347c</param>
+      <consist name="Хризантема кустовая Балтика" unit="шт">5</consist>
     </offer>
     <offer id="La1517c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Балтика Еллоу 70 см Арт. La1517c</name>
