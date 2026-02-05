@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T07:17:46.196+03:00">
+<yml_catalog date="2026-02-05T07:27:42.219+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -12,7 +12,7 @@
       <name>Пачка (10 шт.) Роза одноголовая Лемон Финес 60 см Арт. Az2456c</name>
       <categoryId>450</categoryId>
       <price>1780</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1YIhDGNncWjVOG6thqFd0v0DNTmt8tS-n</picture>
       <picture>https://lh3.googleusercontent.com/d/1HGOYhPLDBzapyqtr52muQ02kc4ItiESX</picture>
       <picture>https://lh3.googleusercontent.com/d/1w2YgLoYqohTQGLRVN9caVkJctLixr_4o</picture>
@@ -40,22 +40,6 @@
       <param name="Артикул">Az3275c</param>
       <consist name="Роза одноголовая Облако" unit="шт">10</consist>
     </offer>
-    <offer id="Az3475c" available="true">
-      <name>Пачка (10 шт.) Роза одноголовая Свит Ревайвл 50 см Арт. Az3475c</name>
-      <categoryId>450</categoryId>
-      <price>1480</price>
-      <qty>2</qty>
-      <picture>https://lh3.googleusercontent.com/d/1xYjaTtz_q9accsobV6MOLAfRXLekNexp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1n4d4jO5xhJb-8_O-fJcWCN2KBlmd6hUE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1gbmKAqq5L2xf4V1S6HWf7I2VPPj6MU40</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az3475c</param>
-      <consist name="Роза одноголовая Свит Ревайвл" unit="шт">10</consist>
-    </offer>
     <offer id="Az3427c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3427c</name>
       <categoryId>450</categoryId>
@@ -76,7 +60,7 @@
       <name>Пачка (10 шт.) Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215c</name>
       <categoryId>450</categoryId>
       <price>2530</price>
-      <qty>4</qty>
+      <qty>15</qty>
       <picture>https://lh3.googleusercontent.com/d/1oKLBCDM-j2n0YJ0poT7VpJVva-ybJe4t</picture>
       <picture>https://lh3.googleusercontent.com/d/1_XDE0CTOSAKVCEXd2qL7ORykuDTUMhT9</picture>
       <picture>https://lh3.googleusercontent.com/d/1vyook0BMyR1zQKyOW0ouB7vqLDcyYuZV</picture>
@@ -87,22 +71,6 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az3215c</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3525c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая пионовидная Бомбастик 50 см Арт. Az3525c</name>
-      <categoryId>450</categoryId>
-      <price>2980</price>
-      <qty>2</qty>
-      <picture>https://lh3.googleusercontent.com/d/1RmzzMhkuXqbWoP_GeE_0XvzP2cDFf3WV</picture>
-      <picture>https://lh3.googleusercontent.com/d/12jz0Lf2Cp7IEY0nr4LX6sbs9I54WMlGx</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CNEhQNJmtk5jzO39YhlCshAk3c-dddis</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3525c</param>
-      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Az2847c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847c</name>
@@ -280,37 +248,6 @@
       <param name="Артикул">Az3395c</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
-    <offer id="Az1497c" available="true">
-      <name>Пачка (25 шт.) Гвоздика одноголовая Сирен 70 см Арт. Az1497c</name>
-      <categoryId>450</categoryId>
-      <price>2395</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1IsjKOv6qzN6XRBnf7MoIRZBTBSRKFaMg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uqK0cyaE63ExeQfQFPdlB6qBhRT9Pbfk</picture>
-      <picture>https://lh3.googleusercontent.com/d/1b7b5PCiR5N9APdH0kmcfOFNnzQBNcB-3</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">70</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Клеар Вотер</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Az1497c</param>
-      <consist name="Гвоздика одноголовая Сирен" unit="шт">25</consist>
-    </offer>
-    <offer id="Az1456c" available="true">
-      <name>Пачка (10 шт.) Илекс Вертицилата Голден Вербум 60 см Арт. Az1456c</name>
-      <categoryId>450</categoryId>
-      <price>4330</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1AiipktlNT1p72QJ6JDIUDzplZoQSroFn</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CWg4xSpO_A47IXZzzW-VmEqNGiau0Htq</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Wh3DRcE4-fD04nn426ViLqEmTsgdDWm4</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1456c</param>
-      <consist name="Илекс Вертицилата Голден Вербум" unit="шт">10</consist>
-    </offer>
     <offer id="Az1468c" available="true">
       <name>Пачка (5 шт.) Илекс Вертициллата Ред 80 см Арт. Az1468c</name>
       <categoryId>450</categoryId>
@@ -330,7 +267,7 @@
       <name>Пачка (25 шт.) Ирис 60 см Арт. Az3186c</name>
       <categoryId>450</categoryId>
       <price>2395</price>
-      <qty>16</qty>
+      <qty>14</qty>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
       <picture>https://lh3.googleusercontent.com/d/11rMISMPJSCes22XiL5D_Bnhg_3exypU7</picture>
       <picture>https://lh3.googleusercontent.com/d/11IgWnl7ZRek3DXoPzus-U1GQx7js_JBW</picture>
@@ -345,7 +282,7 @@
       <name>Пачка (10 шт.) Маттиола Айрон Марин 60 см Арт. Az3336c</name>
       <categoryId>450</categoryId>
       <price>3130</price>
-      <qty>3</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1vWaKKE9GTv6L5jWYCDRIZ5UWf7dzlW_8</picture>
       <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
       <picture>https://lh3.googleusercontent.com/d/1VS4hZA4dztAin0oXgMlnBtqPqiX37V7P</picture>
