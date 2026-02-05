@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T07:33:51.511+03:00">
+<yml_catalog date="2026-02-05T07:41:17.745+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -59,6 +59,90 @@
       <param name="Артикул">Az3215</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az2847" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
+      <price>331</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2847</param>
+      <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3327" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Петр 70 см Арт. Az3327</name>
+      <price>331</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18ccpNg9O0WzwJo7Jev5QTr9LBYuyAtxm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3327</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2887" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
+      <price>286</price>
+      <qty>60</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2887</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3317" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
+      <price>241</price>
+      <qty>50</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19x2wAvFjuh_EtN1auKvkqShihq8CLKo6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3317</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
+      <price>211</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rRWcZQDXlYEdwBSmt2Dp-qXFkb6d2vKT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2877</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3007" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
+      <price>241</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uP27vUX9EN6c2jkAK9DyiAl8EhMdPv--</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3007</param>
+      <consist name="Хризантема кустовая Фабьен Свит" unit="шт">5</consist>
+    </offer>
     <offer id="Az1468" available="true">
       <categoryId>37</categoryId>
       <name>Илекс Вертициллата Ред 80 см Арт. Az1468</name>
@@ -110,6 +194,19 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az3124</param>
       <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3144" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Самбука 40 см Арт. Az3144</name>
+      <price>181</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3144</param>
+      <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
