@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T15:01:30.486+03:00">
+<yml_catalog date="2026-02-05T15:04:20.263+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,6 +32,20 @@
       <param name="Артикул">Az2815</param>
       <consist name="Роза одноголовая Бубль Гам" unit="шт">10</consist>
     </offer>
+    <offer id="Az3896" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джовита 60 см Арт. Az3896</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10WpzT7gvd5SqTqe2Xytrbb800zU_DQ5f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Az3896</param>
+      <consist name="Роза одноголовая Джовита" unit="шт">10</consist>
+    </offer>
     <offer id="Az2456" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Лемон Финес 60 см Арт. Az2456</name>
@@ -45,6 +59,20 @@
       <param name="Производитель">Чеховский Сад</param>
       <param name="Артикул">Az2456</param>
       <consist name="Роза одноголовая Лемон Финес" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3886" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мандала 60 см Арт. Az3886</name>
+      <price>166</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19yZrsibshCub7Cao4reO8upECj-VTVs-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Az3886</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">15</consist>
     </offer>
     <offer id="Az3275" available="true">
       <categoryId>1</categoryId>
@@ -74,6 +102,118 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az3288</param>
       <consist name="Роза одноголовая Тру Лав" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3815" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Час Пик 50 см Арт. Az3815</name>
+      <price>136</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G1VFaTuDsHJ3NHemQtgZ66qn7iL7CWuZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3815</param>
+      <consist name="Роза одноголовая Час Пик" unit="шт">15</consist>
+    </offer>
+    <offer id="Az3805" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Черри Аваланш 50 см Арт. Az3805</name>
+      <price>136</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OhVykwklfLNJvvJVartXm2q4tanJRYV4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3805</param>
+      <consist name="Роза одноголовая Черри Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az3866" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Зайна 60 см Арт. Az3866</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NIP64vGRNzcnXurNQXm1ji1CxC8UqYMy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Az3866</param>
+      <consist name="Роза одноголовая пионовидная Зайна" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3857" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Лондон Таймс 70 см Арт. Az3857</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mbGP_8UN9BC2bWocRHtoJzhqoqNgOOTc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3857</param>
+      <consist name="Роза одноголовая пионовидная Лондон Таймс" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3876" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Монмартр 60 см Арт. Az3876</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10JKbT28o1tzf4oryUjThqOJj22C51zjM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Az3876</param>
+      <consist name="Роза одноголовая пионовидная Монмартр" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3838" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Питер Парк 80 см Арт. Az3838</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14aq2GP4gzcrxXTr_hFm5XiyoCbcdUaUI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3838</param>
+      <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3847" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3847</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14aq2GP4gzcrxXTr_hFm5XiyoCbcdUaUI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3847</param>
+      <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3825" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Шифон 50 см Арт. Az3825</name>
+      <price>271</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xGkjhvLaDIn3rnAbLHi_U0ajvFSFClcB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мир Цветов</param>
+      <param name="Артикул">Az3825</param>
+      <consist name="Роза одноголовая пионовидная Шифон" unit="шт">10</consist>
     </offer>
     <offer id="Az1674" available="true">
       <categoryId>3</categoryId>
@@ -205,6 +345,32 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3007</param>
       <consist name="Хризантема кустовая Фабьен Свит" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3787" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Розовый 70 см Арт. Az3787</name>
+      <price>106</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1X1joJr1rcmwUYu2TQ-ZKI7kRmRFmCLYL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3787</param>
+      <consist name="Гвоздика кустовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3797" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая 70 см Арт. Az3797</name>
+      <price>106</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hyUZ41QqyYrEgWJyMn7pd96Fosiz6GlF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3797</param>
+      <consist name="Гвоздика кустовая" unit="шт">20</consist>
     </offer>
     <offer id="Az3737" available="true">
       <categoryId>37</categoryId>
@@ -396,6 +562,19 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az3144</param>
       <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3904" available="true">
+      <categoryId>37</categoryId>
+      <name>Хелеборус Дабл Эллен 40 см Арт. Az3904</name>
+      <price>271</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DiT4Y6lhpwFCE1aFs9ihqBmkfJ6ZUOMG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3904</param>
+      <consist name="Хелеборус Дабл Эллен" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
