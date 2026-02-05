@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T07:31:20.686+03:00">
+<yml_catalog date="2026-02-05T07:33:51.511+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,34 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az2456" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Лемон Финес 60 см Арт. Az2456</name>
+      <price>166</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1B0UUSt9jPbloyi-naDLopoU40FlWP7R8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az2456</param>
+      <consist name="Роза одноголовая Лемон Финес" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3275" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Облако 50 см Арт. Az3275</name>
+      <price>166</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fm92tyxnfeqRQYWzDtbOFMlTPAGzdlCM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3275</param>
+      <consist name="Роза одноголовая Облако" unit="шт">10</consist>
+    </offer>
     <offer id="Az3215" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215</name>
@@ -56,6 +84,32 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>211</price>
+      <qty>25</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3124" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Стронг Голд 40 см Арт. Az3124</name>
+      <price>136</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3124</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
