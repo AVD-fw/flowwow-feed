@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T15:21:33.690+03:00">
+<yml_catalog date="2026-02-05T15:23:56.488+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -64,7 +64,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Лондон Таймс 60 см Арт. Az2756</name>
       <price>166</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VDS1GDA966whYGeW1q0ti6v4wRE_V81Q</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -228,21 +228,6 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Az3825</param>
       <consist name="Роза одноголовая пионовидная Шифон" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3255" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Карамель 50 см Арт. Az3255</name>
-      <price>286</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jfKeulamXP2XR5Mw77i4n9OSug-xddjM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FIlzvelzjUh8OHlwIY3zY2rnpJRazMfZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3255</param>
-      <consist name="Роза кустовая Карамель" unit="шт">10</consist>
     </offer>
     <offer id="Az1674" available="true">
       <categoryId>3</categoryId>
