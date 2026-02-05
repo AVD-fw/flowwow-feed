@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T15:31:41.184+03:00">
+<yml_catalog date="2026-02-05T15:33:53.506+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -533,19 +533,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az3144</param>
       <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
-    </offer>
-    <offer id="Az3904" available="true">
-      <categoryId>37</categoryId>
-      <name>Хелеборус Дабл Эллен 40 см Арт. Az3904</name>
-      <price>271</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DiT4Y6lhpwFCE1aFs9ihqBmkfJ6ZUOMG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az3904</param>
-      <consist name="Хелеборус Дабл Эллен" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
