@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T10:43:38.030+03:00">
+<yml_catalog date="2026-02-05T10:51:20.032+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az2815" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Бубль Гам 50 см Арт. Az2815</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QounKp8yRsw14OsRvL6ehoC6RB1XUlF4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gwLch5HSRyzxyqUAwjQy1TShZ4HVsJFH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az2815</param>
+      <consist name="Роза одноголовая Бубль Гам" unit="шт">10</consist>
+    </offer>
     <offer id="Az2456" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Лемон Финес 60 см Арт. Az2456</name>
@@ -44,6 +59,21 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az3275</param>
       <consist name="Роза одноголовая Облако" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3288" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Тру Лав 80 см Арт. Az3288</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XdtXsubFZpHzRmdUryTOLpKhxtEuMM9P</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IdCIvIWDsnE273KpIpW0Q92rbh8LIbah</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3288</param>
+      <consist name="Роза одноголовая Тру Лав" unit="шт">10</consist>
     </offer>
     <offer id="Az3215" available="true">
       <categoryId>3</categoryId>
@@ -203,6 +233,7 @@
       <price>181</price>
       <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nsGpiMUjdxfqTdiO4FurHySOPy6MOZdd</picture>
       <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
