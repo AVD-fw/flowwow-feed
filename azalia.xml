@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05T10:51:20.032+03:00">
+<yml_catalog date="2026-02-05T10:53:40.262+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -75,12 +75,28 @@
       <param name="Артикул">Az3288</param>
       <consist name="Роза одноголовая Тру Лав" unit="шт">10</consist>
     </offer>
+    <offer id="Az1674" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Крем Грация 40 см Арт. Az1674</name>
+      <price>136</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_RlL_IL7xJunBsJMrV9wY1jT6lyEbvQo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCbCUFwVM39ASJQsAqh3QTVDoJlSiAEr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1674</param>
+      <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
+    </offer>
     <offer id="Az3215" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215</name>
       <price>241</price>
       <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mfDy18LsrxmFjhsWM74s0lHqgT1wnXpd</picture>
       <picture>https://lh3.googleusercontent.com/d/1_XDE0CTOSAKVCEXd2qL7ORykuDTUMhT9</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
@@ -213,6 +229,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az1335</param>
       <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3104" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Династий 40 см Арт. Az3104</name>
+      <price>121</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zQnCxhcZoawj13uTl9AQidRMNocMQxEY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vgHi8F7Orz9_W5aETSlX0VyOGlSEM1LB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3104</param>
+      <consist name="Тюльпан Династий" unit="шт">50</consist>
     </offer>
     <offer id="Az3124" available="true">
       <categoryId>37</categoryId>
