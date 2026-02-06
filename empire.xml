@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-06T14:43:49.684+03:00">
+<yml_catalog date="2026-02-06T14:49:49.791+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -39,7 +39,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Фуксия 60 см Арт. Ef2616</name>
       <price>53</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1UMHmxBUOwmK6H1DWm8JJ2gDI1PyaJ_HC</picture>
       <picture>https://lh3.googleusercontent.com/d/1wEEM6wStD9Ai6UJ6_mRpI1ZYGvMoW5Iv</picture>
@@ -93,7 +93,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Белый 70 см Арт. Ef00547</name>
       <price>83</price>
-      <qty>275</qty>
+      <qty>225</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1afm967_M5M77WSdS7CfWW3dPHHLv0ufj</picture>
       <picture>https://lh3.googleusercontent.com/d/1-Mo744DxUEQSFUJ49H8liW9q8qRkv4SF</picture>
@@ -141,23 +141,6 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Ef4587</param>
       <consist name="Эустома Росита Пинк" unit="шт">10</consist>
-    </offer>
-    <offer id="Ef01205" available="true">
-      <categoryId>38</categoryId>
-      <name>Эрингиум Синий 50 см Арт. Ef01205</name>
-      <price>174</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1_mwdM9TjgyAIKbASgXOF13MJvwV33-Wp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1igwHeeBqsXk8PM7SuIYWsr8nAtLzuzJr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GKMJkroMSxtSTQFVUXaNN7kGOKreJxOv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ln6pHS2EVUd7bD1oG3TtX6Erk_eL70j9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qo1u0kAMdDmRb0QaQZVd2XM-AFiD26JF</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Ef01205</param>
-      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
