@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-06T12:36:35.805+03:00">
+<yml_catalog date="2026-02-06T12:46:03.652+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -218,6 +218,20 @@
       <param name="Артикул">Fc12678</param>
       <consist name="Роза кустовая Антонина" unit="шт">10</consist>
     </offer>
+    <offer id="Fc20016" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Беларус 60 см Арт. Fc20016</name>
+      <price>220</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-iZRWcNHcGPE32C2doBTayw4f_OJca8t</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc20016</param>
+      <consist name="Роза кустовая Беларус" unit="шт">10</consist>
+    </offer>
     <offer id="Fc02966" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Пинк Промайс 60 см Арт. Fc02966</name>
@@ -271,6 +285,24 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc12007</param>
       <consist name="Роза кустовая пионовидная Б Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc19379" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Бомбастик 90 см Арт. Fc19379</name>
+      <price>259</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YlxKoFz-aoeah6vEIEvtxxS9OSw7ZBVi</picture>
+      <picture>https://lh3.googleusercontent.com/d/11nV31Tmsax_IyS-ZQ1WXVp4W-UHSOx_z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ynivjLRsPI6pY-c63H_ZVGKz2N-ulrRH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zi6f26mYu9zx6NLYj1RFtBXE39b9jGMw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1klBlOi7b0dOpSlok4_jSQy2Pc3aJ30JW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc19379</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Fc11987" available="true">
       <categoryId>4</categoryId>
@@ -326,6 +358,24 @@
       <param name="Артикул">Fc06287</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
     </offer>
+    <offer id="Fc12648" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Леди Бомбастик 80 см Арт. Fc12648</name>
+      <price>259</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1498L4zyNZdghF-LC-2m_5WmYBvDiINli</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GSqo8lo8mICo8QugAbVBNo5-m-V2CHBb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rIU0_iLVldNARB6Gvr_ezuYAqpr971TF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GmKXkhXXVEYpHH2eCgiGmP0vAirdFlga</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SoclOqpQD-p37g2CcsiYI_7M3Pac3mtk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc12648</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Fc18639" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 90 см Арт. Fc18639</name>
@@ -343,6 +393,60 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc18639</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc12658" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мадам Бомбастик 80 см Арт. Fc12658</name>
+      <price>259</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1X7W1QgTaVwKYW68TwvjMN6pEHezUUmPE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cghdjmQKRjiI63CUw8nkt-4ZSGQD5OX5</picture>
+      <picture>https://lh3.googleusercontent.com/d/17ZhqmqUdN4L20aJfkNaNLH46nIrlAJ7L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hACUqU2EOtLseBov9SYFidfNiwEKnt3o</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J_Hkz80KZ3-PaM-kNCfFHXIpBFeQTjMR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc12658</param>
+      <consist name="Роза кустовая пионовидная Мадам Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc06247" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мисс Бомбастик 70 см Арт. Fc06247</name>
+      <price>253</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Mkwf9Jky8NJxt3eNJ5p_9CfhlKaf5RXs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FRy1yGyRJtZRxJTWtk0gHKco8iDFytUo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kuOjYOFabZqzAhPdoxByBDpdcSKeOxZi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kM2_OFNoTwtm3Kh_9eoykqt1nOomqMFY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nieqTF9Nl8YEaofIJ5yojdsxu2lsr4CY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc06247</param>
+      <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc13989" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мисс Бомбастик 90 см Арт. Fc13989</name>
+      <price>259</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DhBcl98P-fQXsH-wtAPjSS1iR5zlHht-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dX4Hi_0-YJi6ZKNAUnDndQXYYKavGhZ_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xrnRp78fkZ50MOUUHCQfJHTHTSPw1bQk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Nvl2FK2eszlFh1u-fkyoeGGl38tnfrrT</picture>
+      <picture>https://lh3.googleusercontent.com/d/18jXy6kCeFmBpLSR8Fnka5XE9xg_LyYIH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc13989</param>
+      <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Fc6027" available="true">
       <categoryId>4</categoryId>
@@ -379,6 +483,20 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc06267</param>
       <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc20176" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Ред Бабблс 60 см Арт. Fc20176</name>
+      <price>220</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jh6RERbPpCQwKzpRo59CxH1wVSodwyvx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc20176</param>
+      <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">15</consist>
     </offer>
     <offer id="Fc19286" available="true">
       <categoryId>4</categoryId>
