@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-06T12:47:06.596+03:00">
+<yml_catalog date="2026-02-06T12:57:04.639+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Va1256c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Оранжевый 60 см Арт. Va1256c</name>
+      <categoryId>450</categoryId>
+      <price>3353</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-SVdPYp5o-J7C-YwmhGiorw4YMBaJZT6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zvxuNcEGluHeGbvFQuvtuuPpsN7pLUHy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eG8wNs570a3ZYrrOQn85U5dqrr4o8T_Y</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen</param>
+      <param name="Артикул">Va1256c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="Va3626c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Бейби 60 см Арт. Va3626c</name>
       <categoryId>450</categoryId>
@@ -23,6 +39,22 @@
       <param name="Производитель">Sian Flowers</param>
       <param name="Артикул">Va3626c</param>
       <consist name="Роза кустовая Бейби" unit="шт">10</consist>
+    </offer>
+    <offer id="Va1726c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Грин Глоу 60 см Арт. Va1726c</name>
+      <categoryId>450</categoryId>
+      <price>2628</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1CBPOETLvINeNhPXzgRCHjVs4YohYVfRf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WLxjldWQuyrrW9C4Rv6bWTuesoj9qHZo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vbephcDwD0bXURCOIaHYk1bAKsBbF737</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эфиопия</param>
+      <param name="Производитель">Braam Born to Bloom</param>
+      <param name="Артикул">Va1726c</param>
+      <consist name="Роза кустовая Грин Глоу" unit="шт">10</consist>
     </offer>
     <offer id="Va1276c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Желтый 60 см Арт. Va1276c</name>
