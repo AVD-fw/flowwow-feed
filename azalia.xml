@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-09T15:43:41.563+03:00">
+<yml_catalog date="2026-02-09T15:51:35.151+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -59,6 +59,20 @@
       <param name="Артикул">Az3805</param>
       <consist name="Роза одноголовая Черри Аваланш" unit="шт">15</consist>
     </offer>
+    <offer id="Az2347" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Батер Кап 70 см Арт. Az2347</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1azE62f3eHwoD-9vnqCx2gcoXDAZVijTq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az2347</param>
+      <consist name="Роза одноголовая пионовидная Батер Кап" unit="шт">10</consist>
+    </offer>
     <offer id="Az3215" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215</name>
@@ -87,6 +101,20 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az4196</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2005" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Бомбастик 50 см Арт. Az2005</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LYHFhnJNBHYPL3xIKnm8YWE3wbJzgxh_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Groove</param>
+      <param name="Артикул">Az2005</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Az2847" available="true">
       <categoryId>5</categoryId>
