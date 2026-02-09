@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-09T06:47:41.632+03:00">
+<yml_catalog date="2026-02-09T06:57:39.594+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -87,6 +87,22 @@
       <param name="Производитель">Мир Цветов</param>
       <param name="Артикул">Az3876c</param>
       <consist name="Роза одноголовая пионовидная Монмартр" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3838c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая пионовидная Питер Парк 80 см Арт. Az3838c</name>
+      <categoryId>450</categoryId>
+      <price>2230</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1uu1rvkByjoENp9wmgXrAi3LQeNLYQjoj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hCfFTQI8A93lPTm_UqInW1dDo8Qlna7E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FVbjdVRChPFBI-XnburHEIT1vOvvrDJg</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">80</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3838c</param>
+      <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
     </offer>
     <offer id="Az3847c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3847c</name>
