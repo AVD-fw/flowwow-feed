@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T08:33:39.560+03:00">
+<yml_catalog date="2026-02-10T08:41:18.549+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -44,21 +44,6 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3805</param>
       <consist name="Роза одноголовая Черри Аваланш" unit="шт">15</consist>
-    </offer>
-    <offer id="Az3215" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215</name>
-      <price>241</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mfDy18LsrxmFjhsWM74s0lHqgT1wnXpd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_XDE0CTOSAKVCEXd2qL7ORykuDTUMhT9</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3215</param>
-      <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Az4196" available="true">
       <categoryId>3</categoryId>
@@ -247,7 +232,7 @@
     <offer id="Az3636" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
-      <price>361</price>
+      <price>376</price>
       <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17ZnTBZoh1npMTh7ocWXIINDTBzGds206</picture>
