@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T08:41:18.549+03:00">
+<yml_catalog date="2026-02-10T08:43:39.828+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -58,6 +58,21 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az4196</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3945" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Az3945</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Fn-Kd36bQYPtnZW84fZ6mo0WFLzPcWGG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1874koUqIYe9aSoxPjVIoKS-O3ulAP0Wy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Groove</param>
+      <param name="Артикул">Az3945</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Az3317" available="true">
       <categoryId>6</categoryId>
