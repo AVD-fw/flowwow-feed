@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T11:11:33.748+03:00">
+<yml_catalog date="2026-02-10T11:21:29.236+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -495,6 +495,20 @@
       <param name="Артикул">Az3405</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
+    <offer id="Az2214" available="true">
+      <categoryId>37</categoryId>
+      <name>Анемон Дарк Блю 40 см Арт. Az2214</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15-yMpkORi6b1yumvAcKx8E38frLB1ep1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OYqKZ0IpA1CeJwJoPWBa4EVchVgoxtX3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az2214</param>
+      <consist name="Анемон Дарк Блю" unit="шт">10</consist>
+    </offer>
     <offer id="Az1507" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Коричневый 70 см Арт. Az1507</name>
@@ -557,8 +571,9 @@
       <price>166</price>
       <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/10dJR54ywAQhBtJ5KoM6rB2dg8r4zTQ2b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rEK-cZkf_hJ3Pmgr21pCtSX-uS0fDqVQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1NzOrEPXpgq-2LURNs7YxGr7ZQ0XhPmHH</picture>
+      <picture>https://lh3.googleusercontent.com/d/10dJR54ywAQhBtJ5KoM6rB2dg8r4zTQ2b</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Китай</param>
@@ -588,6 +603,7 @@
       <price>91</price>
       <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ysoFlgKwFijbcJu5VpmO3j3AnHHJKaGI</picture>
       <picture>https://lh3.googleusercontent.com/d/1bqg-9Z-tVAsq8A_TNpf7pLvvqnn3UBH9</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
