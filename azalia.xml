@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T07:13:30.396+03:00">
+<yml_catalog date="2026-02-10T07:21:21.995+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,107 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az3815" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Час Пик 50 см Арт. Az3815</name>
+      <price>136</price>
+      <qty>375</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G1VFaTuDsHJ3NHemQtgZ66qn7iL7CWuZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3815</param>
+      <consist name="Роза одноголовая Час Пик" unit="шт">15</consist>
+    </offer>
+    <offer id="Az3805" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Черри Аваланш 50 см Арт. Az3805</name>
+      <price>136</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OhVykwklfLNJvvJVartXm2q4tanJRYV4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3805</param>
+      <consist name="Роза одноголовая Черри Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az3215" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Флиртинг Бабблс 50 см Арт. Az3215</name>
+      <price>241</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mfDy18LsrxmFjhsWM74s0lHqgT1wnXpd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_XDE0CTOSAKVCEXd2qL7ORykuDTUMhT9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3215</param>
+      <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4196" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Флиртинг Бабблс 60 см Арт. Az4196</name>
+      <price>271</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mfDy18LsrxmFjhsWM74s0lHqgT1wnXpd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az4196</param>
+      <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3317" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
+      <price>241</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DTLYn6kLjziwsPdiLLQg_vmm4cgOElDA</picture>
+      <picture>https://lh3.googleusercontent.com/d/19x2wAvFjuh_EtN1auKvkqShihq8CLKo6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3317</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
+      <price>211</price>
+      <qty>20</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1l5FwrpPR8iBUurCJzmIzfUrSfBxACx0f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rRWcZQDXlYEdwBSmt2Dp-qXFkb6d2vKT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2877</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3417" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Пастелла Крем 70 см Арт. Az3417</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ONbSvhUPudsLiF3QE2abKmxtdqQyLBJo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3417</param>
+      <consist name="Хризантема кустовая Пастелла Крем" unit="шт">5</consist>
+    </offer>
     <offer id="Az3747" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Розовый 70 см Арт. Az3747</name>
@@ -29,6 +130,48 @@
       <param name="Страна">Китай</param>
       <param name="Артикул">Az3747</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3757" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Голубой 70 см Арт. Az3757</name>
+      <price>136</price>
+      <qty>80</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15XEKPsPNLBLK4i3dWyhlYy8ftvJ4m21B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W01ygjhl4BlWYFs-VaTbQC2nCPMPK90W</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3757</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3767" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Розовый 70 см Арт. Az3767</name>
+      <price>106</price>
+      <qty>260</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jGB-Pcve-2LemwoTVCH0okybXApNk4Qr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gPQ3YERt4_KyS89z5Py1flpkUMrQ_YGP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3767</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3777" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Грин Трик 70 см Арт. Az3777</name>
+      <price>166</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10dJR54ywAQhBtJ5KoM6rB2dg8r4zTQ2b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NzOrEPXpgq-2LURNs7YxGr7ZQ0XhPmHH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3777</param>
+      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
     </offer>
     <offer id="Az1487" available="true">
       <categoryId>37</categoryId>
@@ -45,6 +188,61 @@
       <param name="Производитель">Florigeni Suntory</param>
       <param name="Артикул">Az1487</param>
       <consist name="Гвоздика одноголовая Мунлайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3917" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Форси 70 см Арт. Az3917</name>
+      <price>91</price>
+      <qty>150</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-0mg20lCVKpvGUculOQVYLMJ7ijryepU</picture>
+      <picture>https://lh3.googleusercontent.com/d/12EXXRYdEnUhlqTEnkMkPUEYSoewSW7J1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az3917</param>
+      <consist name="Гвоздика одноголовая Форси" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1468" available="true">
+      <categoryId>37</categoryId>
+      <name>Илекс Вертициллата Ред 80 см Арт. Az1468</name>
+      <price>451</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ci_hC17Iu9fJ-BeZ6PGN8kR1U22Cjm6r</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1468</param>
+      <consist name="Илекс Вертициллата Ред" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3186" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
+      <price>91</price>
+      <qty>300</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3186</param>
+      <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az4064" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Лайонс Глори 40 см Арт. Az4064</name>
+      <price>121</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EwJBL2gXwIFDImUKpGvEWEXU1gIwJ74y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4064</param>
+      <consist name="Тюльпан Лайонс Глори" unit="шт">50</consist>
     </offer>
     <offer id="Az3636" available="true">
       <categoryId>37</categoryId>
