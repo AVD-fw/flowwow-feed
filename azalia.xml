@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T14:01:35.085+03:00">
+<yml_catalog date="2026-02-10T14:03:46.150+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -75,6 +75,22 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4325</param>
       <consist name="Роза одноголовая Батер Кап" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2777" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 70 см Арт. Az2777</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W6nT55J2rF1F-Ae_bO8GSOV8XGBM8p74</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SOmfA7Pn5Q663VsgdKFkCdsq3OTvNTXF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jRzcIzCOMV2j9SMXQRGESUWD061CedbY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az2777</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
     <offer id="Az3295" available="true">
       <categoryId>1</categoryId>
