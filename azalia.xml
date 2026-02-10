@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T09:01:25.934+03:00">
+<yml_catalog date="2026-02-10T09:03:39.910+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -92,6 +92,21 @@
       <param name="Артикул">Az4415</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
+    <offer id="Az4438" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Софи Лорен 80 см Арт. Az4438</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16d_qbEr1Ki8yjFfHz989TIDCwjiFbvQz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rkyS0VDYvhHfgkMRv1k3tl5hMMELmiCU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4438</param>
+      <consist name="Роза одноголовая Софи Лорен" unit="шт">10</consist>
+    </offer>
     <offer id="Az3815" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Час Пик 50 см Арт. Az3815</name>
@@ -119,6 +134,21 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3805</param>
       <consist name="Роза одноголовая Черри Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az2445" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Батер Кап 50 см Арт. Az2445</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11ePBFkqGn6YHAm6LYTvE4ELAcUiCljJp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lr-fr1HPzQaKQMPdD1rllH5xp5Y6V5Fx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az2445</param>
+      <consist name="Роза одноголовая пионовидная Батер Кап" unit="шт">10</consist>
     </offer>
     <offer id="Az4016" available="true">
       <categoryId>3</categoryId>
