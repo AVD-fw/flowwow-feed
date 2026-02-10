@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T15:23:56.437+03:00">
+<yml_catalog date="2026-02-10T15:32:00.389+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -166,6 +166,20 @@
       <param name="Артикул">Az4415</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
+    <offer id="Az4605" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пенни Лейн 50 см Арт. Az4605</name>
+      <price>136</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N021w6hpRTFx2Ce7mkMxdHeFAXqTk8dx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4605</param>
+      <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
+    </offer>
     <offer id="Az4438" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Софи Лорен 80 см Арт. Az4438</name>
@@ -228,7 +242,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Кремовый 60 см Арт. Az4016</name>
       <price>233</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17n49Cu5rpI2vdqsHIAgYZyN0wQGhydVx</picture>
       <picture>https://lh3.googleusercontent.com/d/1rjRYMdH3TtHyEr-_7K_in9NiyWp5GM0t</picture>
@@ -258,7 +272,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Грация 50 см Арт. Az1885</name>
       <price>196</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Cs9M4CkAYmMrYMGQ1yFGT2CpjuUmyo4B</picture>
       <picture>https://lh3.googleusercontent.com/d/11Zb0WWg_MxpX5Qed0SH_InOvTsEVfOtq</picture>
@@ -273,7 +287,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Кинг Бабблс 70 см Арт. Az4397</name>
       <price>316</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/13GWHafOk7njycNIguXRpNrqsQ6gzJmDs</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -303,7 +317,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Лидия 50 см Арт. Az4295</name>
       <price>211</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Jdu_uLIgvvmi-ULRZvE6jU88OmTdxKFL</picture>
       <picture>https://lh3.googleusercontent.com/d/1vCdldQHdpcaKjiLA6rIDhGN4xXsW0uw8</picture>
@@ -318,7 +332,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Сильвер Бабблс 50 см Арт. Az3225</name>
       <price>286</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1He_fSlapxyDLAonuISEdqJFo647NMSbw</picture>
       <picture>https://lh3.googleusercontent.com/d/1RDR5QJR0rUbg8j3Q7oRBd-0yUjWIz0R1</picture>
@@ -572,7 +586,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
       <price>91</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vxkHe8IPJUwqImv5MSqgg3XdzbQ76FB6</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -600,7 +614,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
       <price>106</price>
-      <qty>20</qty>
+      <qty>160</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ahmDYskh59O0TovXWjgzKYnzs61VmLDl</picture>
       <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
@@ -643,7 +657,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Розовый 70 см Арт. Az3767</name>
       <price>106</price>
-      <qty>260</qty>
+      <qty>180</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jGB-Pcve-2LemwoTVCH0okybXApNk4Qr</picture>
       <picture>https://lh3.googleusercontent.com/d/1gPQ3YERt4_KyS89z5Py1flpkUMrQ_YGP</picture>
@@ -672,7 +686,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мунлайт 70 см Арт. Az1487</name>
       <price>106</price>
-      <qty>100</qty>
+      <qty>125</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zcpBxZCaYIdGoXbqsm3a2Ja_U2LCwe-Y</picture>
       <picture>https://lh3.googleusercontent.com/d/1NFcp2jpwec4ukUaTpOm7uDXgNypCSR4f</picture>
@@ -689,7 +703,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Сирен 70 см Арт. Az1497</name>
       <price>91</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ysoFlgKwFijbcJu5VpmO3j3AnHHJKaGI</picture>
       <picture>https://lh3.googleusercontent.com/d/1bqg-9Z-tVAsq8A_TNpf7pLvvqnn3UBH9</picture>
@@ -732,7 +746,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>91</price>
-      <qty>300</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
@@ -746,7 +760,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
       <price>68</price>
-      <qty>50</qty>
+      <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
