@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T08:43:39.828+03:00">
+<yml_catalog date="2026-02-10T08:51:19.595+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -45,12 +45,59 @@
       <param name="Артикул">Az3805</param>
       <consist name="Роза одноголовая Черри Аваланш" unit="шт">15</consist>
     </offer>
+    <offer id="Az4016" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Кремовый 60 см Арт. Az4016</name>
+      <price>233</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17n49Cu5rpI2vdqsHIAgYZyN0wQGhydVx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rjRYMdH3TtHyEr-_7K_in9NiyWp5GM0t</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Sian Flowers</param>
+      <param name="Артикул">Az4016</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1885" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Грация 50 см Арт. Az1885</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Cs9M4CkAYmMrYMGQ1yFGT2CpjuUmyo4B</picture>
+      <picture>https://lh3.googleusercontent.com/d/11Zb0WWg_MxpX5Qed0SH_InOvTsEVfOtq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1885</param>
+      <consist name="Роза кустовая Грация" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1674" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Крем Грация 40 см Арт. Az1674</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uZFbpNhYF9ocBy0a5p6aZcSkAFbErHWg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCbCUFwVM39ASJQsAqh3QTVDoJlSiAEr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_RlL_IL7xJunBsJMrV9wY1jT6lyEbvQo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1674</param>
+      <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
+    </offer>
     <offer id="Az4196" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Флиртинг Бабблс 60 см Арт. Az4196</name>
       <price>271</price>
       <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10KsoT4w4_ytJQj-Ue1bylJf8r22e35yr</picture>
       <picture>https://lh3.googleusercontent.com/d/1mfDy18LsrxmFjhsWM74s0lHqgT1wnXpd</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
@@ -58,6 +105,21 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az4196</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2005" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Бомбастик 50 см Арт. Az2005</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HkACp854rZgP5Ahl3fC0GrLak6tOh87q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LYHFhnJNBHYPL3xIKnm8YWE3wbJzgxh_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Groove</param>
+      <param name="Артикул">Az2005</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Az3945" available="true">
       <categoryId>4</categoryId>
