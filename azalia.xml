@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T08:51:19.595+03:00">
+<yml_catalog date="2026-02-10T08:53:38.131+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,51 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az1685" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
+      <price>136</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vQAeGrBgQJvEWSq3eMQ8OalhIt7ut_6f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1685</param>
+      <consist name="Роза одноголовая Аква" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3295" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Маритим 50 см Арт. Az3295</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15xRb1AgnOEChBn-NjmPTB2sTjYQg_B1h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1euHPcl6jHchr1L8mfvRFA8rfvZl5tkv0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3295</param>
+      <consist name="Роза одноголовая Маритим" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4266" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Маритим 60 см Арт. Az4266</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YyO4_u3tx1DMum6LoO-KwfCHbZnBgnw1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kKBSq0r9-aL6gUqG4KnmEjIzKzfa2BhW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az4266</param>
+      <consist name="Роза одноголовая Маритим" unit="шт">10</consist>
+    </offer>
     <offer id="Az3815" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Час Пик 50 см Арт. Az3815</name>
@@ -135,6 +180,21 @@
       <param name="Производитель">Groove</param>
       <param name="Артикул">Az3945</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4254" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Пиони Бабблс 40 см Арт. Az4254</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13HVIGhJSVhP3S1ZgI29_22q1mQnMSS1y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1COGpJFzWJIuodNLygo_E9Kb85iSUP5CJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az4254</param>
+      <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Az3317" available="true">
       <categoryId>6</categoryId>
