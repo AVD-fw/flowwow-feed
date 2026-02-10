@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T09:13:36.933+03:00">
+<yml_catalog date="2026-02-10T09:21:36.509+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -180,6 +180,21 @@
       <param name="Артикул">Az4016</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
     </offer>
+    <offer id="Az4335" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Барбадос 50 см Арт. Az4335</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QpqHJ7v0x7DOXov2msQLxPCxZFQWrP1j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xs6FAaBWipItzwrvzTaRIOvDof4ZxrWA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4335</param>
+      <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
     <offer id="Az1885" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Грация 50 см Арт. Az1885</name>
@@ -210,6 +225,36 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az1674</param>
       <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4295" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лидия 50 см Арт. Az4295</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Jdu_uLIgvvmi-ULRZvE6jU88OmTdxKFL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vCdldQHdpcaKjiLA6rIDhGN4xXsW0uw8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4295</param>
+      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3225" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Сильвер Бабблс 50 см Арт. Az3225</name>
+      <price>286</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1He_fSlapxyDLAonuISEdqJFo647NMSbw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RDR5QJR0rUbg8j3Q7oRBd-0yUjWIz0R1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3225</param>
+      <consist name="Роза кустовая Сильвер Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Az4196" available="true">
       <categoryId>3</categoryId>
@@ -256,6 +301,21 @@
       <param name="Артикул">Az3945</param>
       <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
     </offer>
+    <offer id="Az3515" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мисс Бомбастик 50 см Арт. Az3515</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Yx7KFSbDKBG-TuxxgqIUbivJz0_ST5J9</picture>
+      <picture>https://lh3.googleusercontent.com/d/17JovYLBsnLOxlYc-l7bFnzCHamLiFqnU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3515</param>
+      <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Az4254" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Пиони Бабблс 40 см Арт. Az4254</name>
@@ -301,12 +361,29 @@
       <param name="Артикул">Az2877</param>
       <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
     </offer>
+    <offer id="Az2967" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Кеннеди 70 см Арт. Az2967</name>
+      <price>203</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JEcqYraMyWY8H-ueHuRABXMW-qRgam1U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z0l-5DqmYRufS66ew5_MRUl5ncCkalb_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Uo91MT-HoMlH6sbsdtNofvlibd-Q6MI-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2967</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
+    </offer>
     <offer id="Az3417" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Пастелла Крем 70 см Арт. Az3417</name>
       <price>166</price>
       <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rBa5Bo6_IB_wATKQcM6rSHjDaAwUK9lk</picture>
       <picture>https://lh3.googleusercontent.com/d/1ONbSvhUPudsLiF3QE2abKmxtdqQyLBJo</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
