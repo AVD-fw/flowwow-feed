@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T09:21:36.509+03:00">
+<yml_catalog date="2026-02-10T09:31:26.784+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -391,6 +391,36 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3417</param>
       <consist name="Хризантема кустовая Пастелла Крем" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3027" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
+      <price>188</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jtq5edDbkf7fjCVLC9605eSLLssAO0J5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tbG6uF8HR3qCwCihiZI3c01u79nYN8ij</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3027</param>
+      <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3707" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
+      <price>203</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3707</param>
+      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
     <offer id="Az3747" available="true">
       <categoryId>37</categoryId>
