@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T09:41:41.858+03:00">
+<yml_catalog date="2026-02-10T09:44:00.259+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -345,6 +345,21 @@
       <param name="Артикул">Az4254</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az3157" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Топспин 70 см Арт. Az3157</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14OA9eaIY8nE1A9-j6ry2EHaFLJJhX-Ki</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rL5_tM7K7wA1w9qOzF4dZTzAXM-wPj19</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3157</param>
+      <consist name="Хризантема одноголовая Топспин" unit="шт">10</consist>
+    </offer>
     <offer id="Az3317" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
@@ -466,6 +481,34 @@
       <param name="Артикул">Az3707</param>
       <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
+    <offer id="Az3405" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крем 50 см Арт. Az3405</name>
+      <price>151</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YgLI1fdV6w5mcmpNQnt7_HCznB0gt2Oq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Az3405</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1507" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Коричневый 70 см Арт. Az1507</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1d_xozpP7rJ7LaauHrVi_c2HIujKsUp-8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Flores La Conejera</param>
+      <param name="Артикул">Az1507</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Az3747" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Розовый 70 см Арт. Az3747</name>
@@ -578,6 +621,20 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3656" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
+      <price>68</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Az4064" available="true">
       <categoryId>37</categoryId>
