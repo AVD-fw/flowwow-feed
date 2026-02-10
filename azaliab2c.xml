@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T09:27:42.316+03:00">
+<yml_catalog date="2026-02-10T09:38:16.677+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -183,6 +183,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3417c</param>
       <consist name="Хризантема кустовая Пастелла Крем" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3007c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Фабьен Свит 70 см Арт. Az3007c</name>
+      <categoryId>450</categoryId>
+      <price>1508</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1P4CBif_uu4_7yaEi_Wwcjsdgh8EaEOfW</picture>
+      <picture>https://lh3.googleusercontent.com/d/15BdKQx20n04xexpxcvbuAFjltGH2-V-f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kyBAg5xf2hv8xyMHKc-ZNASPUMJ9YX1n</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3007c</param>
+      <consist name="Хризантема кустовая Фабьен Свит" unit="шт">5</consist>
     </offer>
     <offer id="Az3707c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Чик 70 см Арт. Az3707c</name>
