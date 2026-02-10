@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T14:41:40.005+03:00">
+<yml_catalog date="2026-02-10T14:44:26.724+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -553,6 +553,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az2214</param>
       <consist name="Анемон Дарк Блю" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4005" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
+      <price>91</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vxkHe8IPJUwqImv5MSqgg3XdzbQ76FB6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az4005</param>
+      <consist name="Гвоздика кустовая Теа" unit="шт">10</consist>
     </offer>
     <offer id="Az1507" available="true">
       <categoryId>37</categoryId>
