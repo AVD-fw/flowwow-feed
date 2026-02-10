@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T09:44:00.259+03:00">
+<yml_catalog date="2026-02-10T09:51:37.368+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -579,6 +579,20 @@
       <param name="Производитель">Florigeni Suntory</param>
       <param name="Артикул">Az1487</param>
       <consist name="Гвоздика одноголовая Мунлайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1497" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Сирен 70 см Арт. Az1497</name>
+      <price>91</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bqg-9Z-tVAsq8A_TNpf7pLvvqnn3UBH9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Клеар Вотер</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az1497</param>
+      <consist name="Гвоздика одноголовая Сирен" unit="шт">25</consist>
     </offer>
     <offer id="Az3917" available="true">
       <categoryId>37</categoryId>
