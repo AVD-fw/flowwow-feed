@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T09:33:44.769+03:00">
+<yml_catalog date="2026-02-10T09:41:41.858+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -209,6 +209,20 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az1885</param>
       <consist name="Роза кустовая Грация" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4397" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Кинг Бабблс 70 см Арт. Az4397</name>
+      <price>316</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13GWHafOk7njycNIguXRpNrqsQ6gzJmDs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4397</param>
+      <consist name="Роза кустовая Кинг Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Az1674" available="true">
       <categoryId>3</categoryId>
@@ -422,6 +436,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3007" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
+      <price>241</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16y_qmhUp0tOo07MrzzE0ygJovBPiumZs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uP27vUX9EN6c2jkAK9DyiAl8EhMdPv--</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3007</param>
+      <consist name="Хризантема кустовая Фабьен Свит" unit="шт">5</consist>
     </offer>
     <offer id="Az3707" available="true">
       <categoryId>6</categoryId>
