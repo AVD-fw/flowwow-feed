@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10T14:57:40.530+03:00">
+<yml_catalog date="2026-02-10T15:07:40.260+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -87,6 +87,22 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4325c</param>
       <consist name="Роза одноголовая Батер Кап" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4666c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Вау 60 см Арт. Az4666c</name>
+      <categoryId>450</categoryId>
+      <price>1813</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1WIsEPEGkXZWNuKD84fXYwiBn9IP1Dztb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Yx6WrctdjKLy_aXjl2EfAN8Hyeei3PU5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xBpFsfVuyFWe74qk1Prz7zNipeuMQUI3</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4666c</param>
+      <consist name="Роза одноголовая Вау" unit="шт">10</consist>
     </offer>
     <offer id="Az2777c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Джумилия 70 см Арт. Az2777c</name>
@@ -535,6 +551,21 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Az4005c</param>
       <consist name="Гвоздика кустовая Теа" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1595c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая Кремовый 50 см Арт. Az1595c</name>
+      <categoryId>450</categoryId>
+      <price>2423</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZGhORPGRU5ye99s_74etmvGA5hCO-0P3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O3oHO3GjEzF5tK-Wd0xLOcbTA5wv4mnv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rhc9Xo_prOQywNoIZ-vA9OtHQT9CKSvO</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az1595c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
     <offer id="Az3747c" available="true">
       <name>Пачка (20 шт.) Гвоздика одноголовая Розовый 70 см Арт. Az3747c</name>
