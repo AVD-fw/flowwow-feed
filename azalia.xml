@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T06:23:34.906+03:00">
+<yml_catalog date="2026-02-11T06:31:19.007+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -31,6 +31,78 @@
       <param name="Артикул">Az4005</param>
       <consist name="Гвоздика кустовая Теа" unit="шт">10</consist>
     </offer>
+    <offer id="Az1595" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
+      <price>106</price>
+      <qty>520</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ahmDYskh59O0TovXWjgzKYnzs61VmLDl</picture>
+      <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
+      <picture>https://lh3.googleusercontent.com/d/10WXf3aZ3V47IuacZyQaj7vH5Xlrf6coF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az1595</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3747" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Розовый 70 см Арт. Az3747</name>
+      <price>106</price>
+      <qty>60</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17-16hVx6g3JRLlu6lYMKxMwymKSUftsO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P5VzOjcFoh2D7nKaCUY5XuQobIF2vUBt</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3747</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3757" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Голубой 70 см Арт. Az3757</name>
+      <price>136</price>
+      <qty>80</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15XEKPsPNLBLK4i3dWyhlYy8ftvJ4m21B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W01ygjhl4BlWYFs-VaTbQC2nCPMPK90W</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3757</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3767" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Розовый 70 см Арт. Az3767</name>
+      <price>106</price>
+      <qty>300</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jGB-Pcve-2LemwoTVCH0okybXApNk4Qr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gPQ3YERt4_KyS89z5Py1flpkUMrQ_YGP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3767</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3777" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Грин Трик 70 см Арт. Az3777</name>
+      <price>166</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rEK-cZkf_hJ3Pmgr21pCtSX-uS0fDqVQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NzOrEPXpgq-2LURNs7YxGr7ZQ0XhPmHH</picture>
+      <picture>https://lh3.googleusercontent.com/d/10dJR54ywAQhBtJ5KoM6rB2dg8r4zTQ2b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3777</param>
+      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
+    </offer>
     <offer id="Az1487" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мунлайт 70 см Арт. Az1487</name>
@@ -47,6 +119,63 @@
       <param name="Производитель">Florigeni Suntory</param>
       <param name="Артикул">Az1487</param>
       <consist name="Гвоздика одноголовая Мунлайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1497" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Сирен 70 см Арт. Az1497</name>
+      <price>91</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ysoFlgKwFijbcJu5VpmO3j3AnHHJKaGI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bqg-9Z-tVAsq8A_TNpf7pLvvqnn3UBH9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Клеар Вотер</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az1497</param>
+      <consist name="Гвоздика одноголовая Сирен" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3917" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Форси 70 см Арт. Az3917</name>
+      <price>91</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-0mg20lCVKpvGUculOQVYLMJ7ijryepU</picture>
+      <picture>https://lh3.googleusercontent.com/d/12EXXRYdEnUhlqTEnkMkPUEYSoewSW7J1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az3917</param>
+      <consist name="Гвоздика одноголовая Форси" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1468" available="true">
+      <categoryId>37</categoryId>
+      <name>Илекс Вертициллата Ред 80 см Арт. Az1468</name>
+      <price>451</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ci_hC17Iu9fJ-BeZ6PGN8kR1U22Cjm6r</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1468</param>
+      <consist name="Илекс Вертициллата Ред" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3186" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
+      <price>91</price>
+      <qty>200</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3186</param>
+      <consist name="Ирис" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
