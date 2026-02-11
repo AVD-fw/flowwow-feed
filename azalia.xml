@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T10:21:28.003+03:00">
+<yml_catalog date="2026-02-11T10:24:19.384+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -783,6 +783,19 @@
       <param name="Высота, см">50</param>
       <param name="Страна">Китай</param>
       <param name="Артикул">Az1595</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az1935" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Оранжевый 50 см Арт. Az1935</name>
+      <price>106</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yBRLdoELJJlrlrNU-iebFBLFL5-LmpTZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az1935</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
     <offer id="Az3747" available="true">
