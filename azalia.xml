@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T06:51:19.245+03:00">
+<yml_catalog date="2026-02-11T06:53:34.426+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -47,6 +47,20 @@
       <param name="Артикул">Az1696</param>
       <consist name="Роза одноголовая Аква" unit="шт">10</consist>
     </offer>
+    <offer id="Az4325" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Батер Кап 50 см Арт. Az4325</name>
+      <price>136</price>
+      <qty>110</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XrBfha1za2mcHLE_U13hPzZP1Rz2UmHq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4325</param>
+      <consist name="Роза одноголовая Батер Кап" unit="шт">10</consist>
+    </offer>
     <offer id="Az2777" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 70 см Арт. Az2777</name>
@@ -77,6 +91,49 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az2806</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4266" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Маритим 60 см Арт. Az4266</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YyO4_u3tx1DMum6LoO-KwfCHbZnBgnw1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kKBSq0r9-aL6gUqG4KnmEjIzKzfa2BhW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az4266</param>
+      <consist name="Роза одноголовая Маритим" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3815" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Час Пик 50 см Арт. Az3815</name>
+      <price>136</price>
+      <qty>345</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G1VFaTuDsHJ3NHemQtgZ66qn7iL7CWuZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3815</param>
+      <consist name="Роза одноголовая Час Пик" unit="шт">15</consist>
+    </offer>
+    <offer id="Az3805" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Черри Аваланш 50 см Арт. Az3805</name>
+      <price>136</price>
+      <qty>45</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OhVykwklfLNJvvJVartXm2q4tanJRYV4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3805</param>
+      <consist name="Роза одноголовая Черри Аваланш" unit="шт">15</consist>
     </offer>
     <offer id="Az4016" available="true">
       <categoryId>3</categoryId>
