@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T09:23:55.013+03:00">
+<yml_catalog date="2026-02-11T09:31:41.648+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -137,6 +137,21 @@
       <param name="Производитель">Чеховский Сад</param>
       <param name="Артикул">Az4266</param>
       <consist name="Роза одноголовая Маритим" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3275" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Облако 50 см Арт. Az3275</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aCupq0sEf3fNyZC6M33E7tYYl_wzhuSh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fm92tyxnfeqRQYWzDtbOFMlTPAGzdlCM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3275</param>
+      <consist name="Роза одноголовая Облако" unit="шт">10</consist>
     </offer>
     <offer id="Az4415" available="true">
       <categoryId>1</categoryId>
