@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T10:11:31.367+03:00">
+<yml_catalog date="2026-02-11T10:13:49.885+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -917,6 +917,50 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3656</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3586" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az3586</param>
+      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3336" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Айрон Марин 60 см Арт. Az3336</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h0hQAsuJv1YEnFIoY_bTaTNoua1xVBe8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3336</param>
+      <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1435" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Айрон Чери Блоссом 50 см Арт. Az1435</name>
+      <price>301</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1eQ3Kvwq41gX11VwxUHKLxGUSvHItELhR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JWw8tMTvsXWoSueVtg1KfJU5TSeXxsAg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KnBCl3u45LUjMjWMkZtgfsOWnb3Q-rQb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1435</param>
+      <consist name="Маттиола Айрон Чери Блоссом" unit="шт">5</consist>
     </offer>
     <offer id="Az3636" available="true">
       <categoryId>37</categoryId>
