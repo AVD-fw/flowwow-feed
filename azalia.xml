@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T09:33:51.466+03:00">
+<yml_catalog date="2026-02-11T09:41:38.689+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -61,6 +61,20 @@
       <param name="Артикул">Az4666</param>
       <consist name="Роза одноголовая Вау" unit="шт">10</consist>
     </offer>
+    <offer id="Az2616" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Гуля 60 см Арт. Az2616</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qqWTlgfJqvH_prcUF75VRpqytLaYDu--</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az2616</param>
+      <consist name="Роза одноголовая Гуля" unit="шт">10</consist>
+    </offer>
     <offer id="Az2777" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 70 см Арт. Az2777</name>
@@ -107,6 +121,21 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az4685</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2395" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Илиос 50 см Арт. Az2395</name>
+      <price>136</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1U4VSPZUuHXLFob8Jj4fVcpKGvOOKOhyY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OdH8LsZDjaUSBBRYCLjSXVrMFEFxcSxx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az2395</param>
+      <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
     </offer>
     <offer id="Az4266" available="true">
       <categoryId>1</categoryId>
@@ -195,6 +224,34 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4605</param>
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2536" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 60 см Арт. Az2536</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1u57rQkHpkfoILGSO9xBxKvA8Tu7x6MNu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az2536</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4447" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Свит Ревайвл 70 см Арт. Az4447</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gbmKAqq5L2xf4V1S6HWf7I2VPPj6MU40</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az4447</param>
+      <consist name="Роза одноголовая Свит Ревайвл" unit="шт">10</consist>
     </offer>
     <offer id="Az4438" available="true">
       <categoryId>1</categoryId>
