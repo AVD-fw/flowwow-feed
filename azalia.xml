@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T09:41:38.689+03:00">
+<yml_catalog date="2026-02-11T09:44:10.214+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -151,6 +151,20 @@
       <param name="Производитель">Чеховский Сад</param>
       <param name="Артикул">Az4266</param>
       <consist name="Роза одноголовая Маритим" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2797" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мисс Пигги 70 см Арт. Az2797</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Tz7hTMYlHU4RIUkGvNxanzzt_Z28BpKF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az2797</param>
+      <consist name="Роза одноголовая Мисс Пигги" unit="шт">10</consist>
     </offer>
     <offer id="Az3275" available="true">
       <categoryId>1</categoryId>
@@ -479,6 +493,20 @@
       <param name="Артикул">Az4254</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az2847" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
+      <price>346</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2847</param>
+      <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
+    </offer>
     <offer id="Az3157" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Топспин 70 см Арт. Az3157</name>
@@ -523,6 +551,22 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2977</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2967" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Кеннеди 70 см Арт. Az2967</name>
+      <price>203</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JEcqYraMyWY8H-ueHuRABXMW-qRgam1U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z0l-5DqmYRufS66ew5_MRUl5ncCkalb_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Uo91MT-HoMlH6sbsdtNofvlibd-Q6MI-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2967</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
     <offer id="Az3417" available="true">
       <categoryId>6</categoryId>
