@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T08:53:44.229+03:00">
+<yml_catalog date="2026-02-11T09:01:34.610+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -323,6 +323,37 @@
       <param name="Артикул">Az4397</param>
       <consist name="Роза кустовая Кинг Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az1905" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Крем Грация 50 см Арт. Az1905</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11S2rvO0qvS2yeBxPnMDLJkS5iE2qsTSl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCbCUFwVM39ASJQsAqh3QTVDoJlSiAEr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1905</param>
+      <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4295" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лидия 50 см Арт. Az4295</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wi-bIHvv8S_-xa6dXnLkeah2vLu6CmNi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vCdldQHdpcaKjiLA6rIDhGN4xXsW0uw8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jdu_uLIgvvmi-ULRZvE6jU88OmTdxKFL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4295</param>
+      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
+    </offer>
     <offer id="Az4196" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Флиртинг Бабблс 60 см Арт. Az4196</name>
@@ -338,14 +369,31 @@
       <param name="Артикул">Az4196</param>
       <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az2005" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Бомбастик 50 см Арт. Az2005</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_RlAtKfujk6o93oLMEE-uJ5x0NlAAfLu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LYHFhnJNBHYPL3xIKnm8YWE3wbJzgxh_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HkACp854rZgP5Ahl3fC0GrLak6tOh87q</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Groove</param>
+      <param name="Артикул">Az2005</param>
+      <consist name="Роза кустовая пионовидная Бомбастик" unit="шт">10</consist>
+    </offer>
     <offer id="Az3945" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбастик 50 см Арт. Az3945</name>
       <price>226</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Fn-Kd36bQYPtnZW84fZ6mo0WFLzPcWGG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YcxVe7_488VJPTHqDeWwKSCoamjoF8Ps</picture>
       <picture>https://lh3.googleusercontent.com/d/1874koUqIYe9aSoxPjVIoKS-O3ulAP0Wy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Fn-Kd36bQYPtnZW84fZ6mo0WFLzPcWGG</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Кения</param>
@@ -359,8 +407,9 @@
       <price>166</price>
       <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/13HVIGhJSVhP3S1ZgI29_22q1mQnMSS1y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hk1kZaJGStdJaakpJmffigXGfECI8GHv</picture>
       <picture>https://lh3.googleusercontent.com/d/1COGpJFzWJIuodNLygo_E9Kb85iSUP5CJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/13HVIGhJSVhP3S1ZgI29_22q1mQnMSS1y</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">Россия</param>
