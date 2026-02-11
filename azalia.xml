@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T09:53:48.246+03:00">
+<yml_catalog date="2026-02-11T10:01:49.406+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -683,6 +683,20 @@
       <param name="Артикул">Az3405</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
+    <offer id="Az2175" available="true">
+      <categoryId>37</categoryId>
+      <name>Астранция Биллион Старс 50 см Арт. Az2175</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15zufUeuN57Yulay5OTPfa8Q9kHyo_i1m</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wl5AoB2YTjzofHPa83CjM0BxunJMfIP0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az2175</param>
+      <consist name="Астранция Биллион Старс" unit="шт">10</consist>
+    </offer>
     <offer id="Az4005" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
@@ -816,19 +830,6 @@
       <param name="Артикул">Az3917</param>
       <consist name="Гвоздика одноголовая Форси" unit="шт">25</consist>
     </offer>
-    <offer id="Az1468" available="true">
-      <categoryId>37</categoryId>
-      <name>Илекс Вертициллата Ред 80 см Арт. Az1468</name>
-      <price>451</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ci_hC17Iu9fJ-BeZ6PGN8kR1U22Cjm6r</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1468</param>
-      <consist name="Илекс Вертициллата Ред" unit="шт">10</consist>
-    </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
@@ -842,6 +843,21 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3656" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
+      <price>68</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1o6z5Hi0V9Wuxm81adMncqC9OQza_Kwcg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Az3636" available="true">
       <categoryId>37</categoryId>
