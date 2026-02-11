@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T06:33:35.375+03:00">
+<yml_catalog date="2026-02-11T06:41:15.812+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az4016" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Кремовый 60 см Арт. Az4016</name>
+      <price>233</price>
+      <qty>25</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17n49Cu5rpI2vdqsHIAgYZyN0wQGhydVx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rjRYMdH3TtHyEr-_7K_in9NiyWp5GM0t</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Sian Flowers</param>
+      <param name="Артикул">Az4016</param>
+      <consist name="Роза кустовая" unit="шт">5</consist>
+    </offer>
     <offer id="Az1885" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Грация 50 см Арт. Az1885</name>
