@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11T09:31:41.648+03:00">
+<yml_catalog date="2026-02-11T09:33:51.466+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,21 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az4405" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 50 см Арт. Az4405</name>
-      <price>151</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EmyCqwWhynjS3ZBZb06LrX7580Zw4JuK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MgV5uXq7aXIX80FJs_4VcZUBjcG1je2T</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az4405</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
     <offer id="Az1685" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
@@ -166,6 +151,21 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4415</param>
+      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4427" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пакая 70 см Арт. Az4427</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lOdAcmjtGTfZNi4QZOOVfvB5h96ZVIev</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
     <offer id="Az4587" available="true">
