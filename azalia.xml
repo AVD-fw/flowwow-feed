@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-12T15:11:30.313+03:00">
+<yml_catalog date="2026-02-12T15:14:45.085+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -284,7 +284,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Кремовый 60 см Арт. Az4016</name>
       <price>233</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17n49Cu5rpI2vdqsHIAgYZyN0wQGhydVx</picture>
       <picture>https://lh3.googleusercontent.com/d/1rjRYMdH3TtHyEr-_7K_in9NiyWp5GM0t</picture>
@@ -488,20 +488,6 @@
       <param name="Артикул">Az3395</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
-    <offer id="Az4725" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика кустовая Стратус 50 см Арт. Az4725</name>
-      <price>91</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Y9DDcfvdrFFDwA-NfdV5ekjC8NK21T46</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Az4725</param>
-      <consist name="Гвоздика кустовая Стратус" unit="шт">10</consist>
-    </offer>
     <offer id="Az4005" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
@@ -549,7 +535,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Голубой 70 см Арт. Az3757</name>
       <price>136</price>
-      <qty>40</qty>
+      <qty>60</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/15XEKPsPNLBLK4i3dWyhlYy8ftvJ4m21B</picture>
       <picture>https://lh3.googleusercontent.com/d/1W01ygjhl4BlWYFs-VaTbQC2nCPMPK90W</picture>
@@ -577,7 +563,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Грин Трик 70 см Арт. Az3777</name>
       <price>166</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rEK-cZkf_hJ3Pmgr21pCtSX-uS0fDqVQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1NzOrEPXpgq-2LURNs7YxGr7ZQ0XhPmHH</picture>
@@ -638,7 +624,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>91</price>
-      <qty>100</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
@@ -647,35 +633,6 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
-    </offer>
-    <offer id="Az3586" available="true">
-      <categoryId>37</categoryId>
-      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
-      <price>166</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Az3586</param>
-      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3336" available="true">
-      <categoryId>37</categoryId>
-      <name>Маттиола Айрон Марин 60 см Арт. Az3336</name>
-      <price>301</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1h0hQAsuJv1YEnFIoY_bTaTNoua1xVBe8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az3336</param>
-      <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
     </offer>
     <offer id="Az1435" available="true">
       <categoryId>37</categoryId>
@@ -767,7 +724,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
       <price>346</price>
-      <qty>20</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
