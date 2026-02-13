@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T09:31:33.130+03:00">
+<yml_catalog date="2026-02-13T09:33:40.767+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,22 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az4405" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 50 см Арт. Az4405</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sfnSHO5f6rEtYJXKYPYYpHqI1n1dtVMT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MgV5uXq7aXIX80FJs_4VcZUBjcG1je2T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EmyCqwWhynjS3ZBZb06LrX7580Zw4JuK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az4405</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
     <offer id="Az4325" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Батер Кап 50 см Арт. Az4325</name>
@@ -30,6 +46,21 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4325</param>
       <consist name="Роза одноголовая Батер Кап" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4666" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Вау 60 см Арт. Az4666</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1USycRskLsGpBx6PsGci-Y1YW9HplFe9u</picture>
+      <picture>https://lh3.googleusercontent.com/d/12qUUcWeiLcSXQms1APs8GEbdigl4PqOH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4666</param>
+      <consist name="Роза одноголовая Вау" unit="шт">10</consist>
     </offer>
     <offer id="Az2777" available="true">
       <categoryId>1</categoryId>
