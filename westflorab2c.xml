@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T13:17:01.975+03:00">
+<yml_catalog date="2026-02-13T13:27:03.934+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -71,6 +71,22 @@
       <param name="Производитель">Sian Flowers</param>
       <param name="Артикул">Va3626c</param>
       <consist name="Роза кустовая Бейби" unit="шт">10</consist>
+    </offer>
+    <offer id="Va3116c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Эмилия 60 см Арт. Va3116c</name>
+      <categoryId>450</categoryId>
+      <price>4903</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1NkDWO2lc6ynDdTvxU-S_lYSvRjWjote2</picture>
+      <picture>https://lh3.googleusercontent.com/d/10x5P8U4yINdbsxN7Y-9IjCubIfEdSR6n</picture>
+      <picture>https://lh3.googleusercontent.com/d/14kAPgDIbKwwqbflPypxYj68MeflEl-dm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen</param>
+      <param name="Артикул">Va3116c</param>
+      <consist name="Роза кустовая Эмилия" unit="шт">10</consist>
     </offer>
     <offer id="Va1276c" available="true">
       <name>Пачка (10 шт.) Роза кустовая пионовидная Желтый 60 см Арт. Va1276c</name>
