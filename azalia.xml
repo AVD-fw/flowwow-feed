@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T09:54:03.463+03:00">
+<yml_catalog date="2026-02-13T10:01:37.188+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -740,6 +740,22 @@
       <param name="Артикул">Az1497</param>
       <consist name="Гвоздика одноголовая Сирен" unit="шт">25</consist>
     </offer>
+    <offer id="Az3917" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Форси 70 см Арт. Az3917</name>
+      <price>91</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12mY0G3sdLlEXxEcCj6OaiS9Ms4YPd1MY</picture>
+      <picture>https://lh3.googleusercontent.com/d/12EXXRYdEnUhlqTEnkMkPUEYSoewSW7J1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-0mg20lCVKpvGUculOQVYLMJ7ijryepU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az3917</param>
+      <consist name="Гвоздика одноголовая Форси" unit="шт">25</consist>
+    </offer>
     <offer id="Az1345" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Радужная 50 см Арт. Az1345</name>
@@ -763,13 +779,44 @@
       <price>91</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ihakNa7QE3aZnBMMuABN-Nd89FIF-zXF</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
+      <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az4376" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Стар Ривер 60 см Арт. Az4376</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TTHnXaYguQdYB1DIww6x7NsmogcSaxhp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Aawt5N7xtGCOzndStcbrCbtyQFl8XOi_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az4376</param>
+      <consist name="Клематис Стар Ривер" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3586" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az3586</param>
+      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
     </offer>
     <offer id="Az1435" available="true">
       <categoryId>37</categoryId>
