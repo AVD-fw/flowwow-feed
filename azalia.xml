@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T10:03:49.230+03:00">
+<yml_catalog date="2026-02-13T10:11:28.215+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -657,8 +657,9 @@
       <price>136</price>
       <qty>60</qty>
       <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15XEKPsPNLBLK4i3dWyhlYy8ftvJ4m21B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aGmuThTO4HfDsxYInPqYK8akh5stLdby</picture>
       <picture>https://lh3.googleusercontent.com/d/1W01ygjhl4BlWYFs-VaTbQC2nCPMPK90W</picture>
+      <picture>https://lh3.googleusercontent.com/d/15XEKPsPNLBLK4i3dWyhlYy8ftvJ4m21B</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Китай</param>
@@ -835,6 +836,34 @@
       <param name="Артикул">Az1435</param>
       <consist name="Маттиола Айрон Чери Блоссом" unit="шт">5</consist>
     </offer>
+    <offer id="Az3124" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Стронг Голд 40 см Арт. Az3124</name>
+      <price>136</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RnGeLvwhWeNhF7EIZQkmQbMiP_Rzk5EE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3124</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3134" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Галилео 40 см Арт. Az3134</name>
+      <price>196</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ften_fr25hr6lCO0yofPVcR8ZAWlEpMe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SToc9LRTXN36mR0pAewINrMgBclFO5nH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3134</param>
+      <consist name="Тюльпан Пионовидный Галилео" unit="шт">50</consist>
+    </offer>
     <offer id="Az3646" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
@@ -855,6 +884,7 @@
       <price>376</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1r5z-6LAPym-L-OLr21uqKEUzDJQyvguB</picture>
       <picture>https://lh3.googleusercontent.com/d/1HLtXFc-Mn8Iwu4Qbm11sNiVKQhweOn15</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
@@ -892,6 +922,21 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Az3626</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3616" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Селебрейт Вайт 60 см Арт. Az3616</name>
+      <price>376</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Tg8iTM_1lPPi7c204tcPQBfzDf2z2t73</picture>
+      <picture>https://lh3.googleusercontent.com/d/15i1yxyh4Vu787sossJ8wdF9dPwQGsN7y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az3616</param>
+      <consist name="Эустома Селебрейт Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
