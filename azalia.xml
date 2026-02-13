@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T09:41:32.443+03:00">
+<yml_catalog date="2026-02-13T09:43:57.168+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,6 +32,35 @@
       <param name="Производитель">Чеховский Сад</param>
       <param name="Артикул">Az4405</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4636" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 60 см Арт. Az4636</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1J3_B72jiNCHBFL5Rbh6caZ5jMY9AisSv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4636</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2476" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Батер Кап 60 см Арт. Az2476</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1osGhjNFEXYA74zmCgDMkq0rDnfbZDCuM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H6NxTlNi1Z9lmb3afuuIxHfJm60nc8Um</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az2476</param>
+      <consist name="Роза одноголовая Батер Кап" unit="шт">10</consist>
     </offer>
     <offer id="Az4325" available="true">
       <categoryId>1</categoryId>
@@ -188,6 +217,7 @@
       <price>181</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1S7J5xbsrUzzJPjkFhjbH3v53Lq0dqF0-</picture>
       <picture>https://lh3.googleusercontent.com/d/1N021w6hpRTFx2Ce7mkMxdHeFAXqTk8dx</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">70</param>
@@ -258,6 +288,7 @@
       <price>181</price>
       <qty>90</qty>
       <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zzUN4wNB37Ny7Jf8sAn2O4fBlIPMA6iH</picture>
       <picture>https://lh3.googleusercontent.com/d/1azE62f3eHwoD-9vnqCx2gcoXDAZVijTq</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
       <param name="Высота, см">70</param>
@@ -387,6 +418,21 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2977</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3167" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Ньютон 70 см Арт. Az3167</name>
+      <price>301</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1O85tlx-SAIjs85ZXim56Z2KMODHQMyGv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OrCuzLUep6ksp2Jy6yj2vTCJ3ncLszUF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3167</param>
+      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
     <offer id="Az3417" available="true">
       <categoryId>6</categoryId>
