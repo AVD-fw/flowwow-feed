@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T07:03:35.974+03:00">
+<yml_catalog date="2026-02-13T07:11:22.756+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -91,20 +91,6 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az2797</param>
       <consist name="Роза одноголовая Мисс Пигги" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4775" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Норма Джин 50 см Арт. Az4775</name>
-      <price>166</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Wiju2I2uWZ3V2ULpMXTLHXwfi3N-_8pO</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az4775</param>
-      <consist name="Роза одноголовая Норма Джин" unit="шт">10</consist>
     </offer>
     <offer id="Az4415" available="true">
       <categoryId>1</categoryId>
