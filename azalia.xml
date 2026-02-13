@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T09:33:40.767+03:00">
+<yml_catalog date="2026-02-13T09:41:32.443+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -61,6 +61,35 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4666</param>
       <consist name="Роза одноголовая Вау" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2616" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Гуля 60 см Арт. Az2616</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qqWTlgfJqvH_prcUF75VRpqytLaYDu--</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az2616</param>
+      <consist name="Роза одноголовая Гуля" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2767" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 70 см Арт. Az2767</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LQSudvtDHzCikL967aHP29ZqH4XK6Oav</picture>
+      <picture>https://lh3.googleusercontent.com/d/12khFwNGXfrK47cWm2Xgl97FxZtzShN9a</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az2767</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
     <offer id="Az2777" available="true">
       <categoryId>1</categoryId>
@@ -242,15 +271,15 @@
       <name>Роза одноголовая пионовидная Батер Кап 50 см Арт. Az2445</name>
       <price>151</price>
       <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
+      <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11ePBFkqGn6YHAm6LYTvE4ELAcUiCljJp</picture>
       <picture>https://lh3.googleusercontent.com/d/1lr-fr1HPzQaKQMPdD1rllH5xp5Y6V5Fx</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az2445</param>
-      <consist name="Роза одноголовая пионовидная Батер Кап" unit="шт">10</consist>
+      <consist name="Роза одноголовая пионовидная Батер Кап" unit="шт">15</consist>
     </offer>
     <offer id="Az4016" available="true">
       <categoryId>3</categoryId>
