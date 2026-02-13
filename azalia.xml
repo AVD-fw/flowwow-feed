@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T09:51:34.580+03:00">
+<yml_catalog date="2026-02-13T09:54:03.463+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -375,6 +375,38 @@
       <param name="Артикул">Az3157</param>
       <consist name="Хризантема одноголовая Топспин" unit="шт">10</consist>
     </offer>
+    <offer id="Az4557" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Топспин Еллоу 70 см Арт. Az4557</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Rny0fEbyOxy07QgOuz_KhZuNntaYLkoC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IewIrY3MtnNwCvis6awsuSONaeWMe-PU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uv72xiqjdCcr2SXheZ2wwS83V7oalvqW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az4557</param>
+      <consist name="Хризантема одноголовая Топспин Еллоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2887" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
+      <price>301</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AX0b6B-0aZ2l8fSesJCt8HxqAwd_20SO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z6QGOr0ggyzkJD2r4558Tn-6WtcQZu4V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2887</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
     <offer id="Az3317" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
@@ -451,6 +483,53 @@
       <param name="Артикул">Az3417</param>
       <consist name="Хризантема кустовая Пастелла Крем" unit="шт">5</consist>
     </offer>
+    <offer id="Az3097" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Пастелла Пинк 70 см Арт. Az3097</name>
+      <price>226</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sUP8-ZkLwxYZqZV5LrpEKUpQmJJNvsBE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l-1JF5wO4_KvFdNDCFj-wz6Bmtuy33eN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3097</param>
+      <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4757" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Перпл Стар 70 см Арт. Az4757</name>
+      <price>203</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sTKSVoMBKT6V7BqxYhL4i-JgOL4jQA3c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qkimSB_n0JHIEpMo0fgPjwAjMJBnIOyT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4757</param>
+      <consist name="Хризантема кустовая Перпл Стар" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3027" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
+      <price>226</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Qo7lPUGin1vOYcFPtqFmqQVd6DnbaCRe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tbG6uF8HR3qCwCihiZI3c01u79nYN8ij</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jtq5edDbkf7fjCVLC9605eSLLssAO0J5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3027</param>
+      <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
     <offer id="Az3007" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
@@ -511,6 +590,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az4565</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3405" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крем 50 см Арт. Az3405</name>
+      <price>181</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vy5bJ7_EoFiPr8VCSGcsEN3GgwW-bvIo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YgLI1fdV6w5mcmpNQnt7_HCznB0gt2Oq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Az3405</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
     <offer id="Az3395" available="true">
       <categoryId>7</categoryId>
