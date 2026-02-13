@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13T15:44:15.279+03:00">
+<yml_catalog date="2026-02-13T15:51:28.655+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -137,21 +137,6 @@
       <param name="Артикул">Az2806</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
-    <offer id="Az4685" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Джумилия 50 см Арт. Az4685</name>
-      <price>151</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1dkWHIZ7RiWmOE3a90IuYRXUpAoHpmC-T</picture>
-      <picture>https://lh3.googleusercontent.com/d/1BAlxk12FYiBX8lDJ7QvULyzwTl8S1S51</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az4685</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
-    </offer>
     <offer id="Az2797" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Мисс Пигги 70 см Арт. Az2797</name>
@@ -258,7 +243,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Батер Кап 70 см Арт. Az2347</name>
       <price>181</price>
-      <qty>105</qty>
+      <qty>90</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1zzUN4wNB37Ny7Jf8sAn2O4fBlIPMA6iH</picture>
       <picture>https://lh3.googleusercontent.com/d/1azE62f3eHwoD-9vnqCx2gcoXDAZVijTq</picture>
@@ -273,7 +258,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Батер Кап 50 см Арт. Az2445</name>
       <price>151</price>
-      <qty>195</qty>
+      <qty>165</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11ePBFkqGn6YHAm6LYTvE4ELAcUiCljJp</picture>
       <picture>https://lh3.googleusercontent.com/d/1lr-fr1HPzQaKQMPdD1rllH5xp5Y6V5Fx</picture>
@@ -350,7 +335,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
       <price>241</price>
-      <qty>20</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DflHHwniHd0b8idbi7fLIetCdiCtXUmv</picture>
       <picture>https://lh3.googleusercontent.com/d/19x2wAvFjuh_EtN1auKvkqShihq8CLKo6</picture>
@@ -411,7 +396,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Перпл Стар 70 см Арт. Az4757</name>
       <price>203</price>
-      <qty>15</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sTKSVoMBKT6V7BqxYhL4i-JgOL4jQA3c</picture>
       <picture>https://lh3.googleusercontent.com/d/1qkimSB_n0JHIEpMo0fgPjwAjMJBnIOyT</picture>
@@ -669,7 +654,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Галилео 40 см Арт. Az3134</name>
       <price>196</price>
-      <qty>450</qty>
+      <qty>350</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ften_fr25hr6lCO0yofPVcR8ZAWlEpMe</picture>
       <picture>https://lh3.googleusercontent.com/d/1SToc9LRTXN36mR0pAewINrMgBclFO5nH</picture>
@@ -683,7 +668,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>376</price>
-      <qty>90</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -729,7 +714,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
       <price>346</price>
-      <qty>60</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gPa0UGqGLwMlVoskpRUGuXWT-It60-ec</picture>
       <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
@@ -744,7 +729,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Селебрейт Вайт 60 см Арт. Az3616</name>
       <price>376</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Tg8iTM_1lPPi7c204tcPQBfzDf2z2t73</picture>
       <picture>https://lh3.googleusercontent.com/d/15i1yxyh4Vu787sossJ8wdF9dPwQGsN7y</picture>
