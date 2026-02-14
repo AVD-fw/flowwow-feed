@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-14T09:43:38.212+03:00">
+<yml_catalog date="2026-02-14T09:51:24.978+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -198,27 +198,11 @@
       <param name="Артикул">Az3157</param>
       <consist name="Хризантема одноголовая Топспин" unit="шт">10</consist>
     </offer>
-    <offer id="Az2887" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
-      <price>301</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AX0b6B-0aZ2l8fSesJCt8HxqAwd_20SO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1z6QGOr0ggyzkJD2r4558Tn-6WtcQZu4V</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az2887</param>
-      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
-    </offer>
     <offer id="Az3317" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
       <price>241</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DflHHwniHd0b8idbi7fLIetCdiCtXUmv</picture>
       <picture>https://lh3.googleusercontent.com/d/19x2wAvFjuh_EtN1auKvkqShihq8CLKo6</picture>
@@ -234,7 +218,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Балтика Еллоу 70 см Арт. Az3717</name>
       <price>181</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nsuNfNtGx6Bl2uYgwDoaaeMS_HyW9VeP</picture>
       <picture>https://lh3.googleusercontent.com/d/1jjFWsNpIpbKJ11lwE2BJg5NuTuIW0Ojn</picture>
@@ -244,21 +228,6 @@
       <param name="Производитель">LinFlowers</param>
       <param name="Артикул">Az3717</param>
       <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3167" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Ньютон 70 см Арт. Az3167</name>
-      <price>301</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1O85tlx-SAIjs85ZXim56Z2KMODHQMyGv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OrCuzLUep6ksp2Jy6yj2vTCJ3ncLszUF</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3167</param>
-      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
@@ -431,7 +400,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>376</price>
-      <qty>130</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -460,7 +429,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
       <price>376</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
       <picture>https://lh3.googleusercontent.com/d/17ZnTBZoh1npMTh7ocWXIINDTBzGds206</picture>
@@ -477,7 +446,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
       <price>346</price>
-      <qty>30</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gPa0UGqGLwMlVoskpRUGuXWT-It60-ec</picture>
       <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
@@ -492,7 +461,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Селебрейт Вайт 60 см Арт. Az3616</name>
       <price>376</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Tg8iTM_1lPPi7c204tcPQBfzDf2z2t73</picture>
       <picture>https://lh3.googleusercontent.com/d/15i1yxyh4Vu787sossJ8wdF9dPwQGsN7y</picture>
