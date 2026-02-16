@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-16T12:16:20.558+03:00">
+<yml_catalog date="2026-02-16T12:25:44.559+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,74 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fc6158" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 80 см Арт. Fc6158</name>
+      <price>110</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DINHbS3PRZnUAeYhPh3VznY4S-QlkyKh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TmB2NyuHE97xJTYATs3wx5TpVrfg4FP1</picture>
+      <picture>https://lh3.googleusercontent.com/d/104oRbxMg9wVdT8_r1ZvnDuSKkjnTZZFn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mePVDV9MlHlEmzybBPwtfdMzC_ygo346</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZgGUdjgikDuwUtt2Bd4cixfzGRSowC6I</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc6158</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">15</consist>
+    </offer>
+    <offer id="Fc17326" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 60 см Арт. Fc17326</name>
+      <price>88</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13B2ssr-pIeRMCqUa9HlbFDmDF8SPYcHi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AYjINzQ-Zne3Uig0wfUH6NWhvuwm0c0Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-7TZSRb5hdk04xj0_dpDl3PJ6IbQ9cqG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Линия Розы</param>
+      <param name="Артикул">Fc17326</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc5698" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Саммер Денс 80 см Арт. Fc5698</name>
+      <price>242</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KwBZjKM3J20ecT1nCPvp4Wo7mOb5lDId</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KeNBKExMymvtB1Ue1gtzBnI40Ojkl99w</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-l5KaEtsdFKKFFBs5M3vj2sQD4JOHJfL</picture>
+      <picture>https://lh3.googleusercontent.com/d/15JFFpVTVIIwGbi9MjYoS2U0dfAXfohv_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hyv-N_UmttdxZ70bU13IbZS0gAmT58x7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc5698</param>
+      <consist name="Роза кустовая Саммер Денс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc20129" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Йеллоу Бабблс 90 см Арт. Fc20129</name>
+      <price>242</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ygv7XUpu6bcy33ZZc5gppbuFcsjaPanW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e0H3ET2tNNDZLwrDfnPqvXT-DFt2PpL1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N0_lUksavGTuI3RmuJl1CJJgwHTirnA-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc20129</param>
+      <consist name="Роза кустовая пионовидная Йеллоу Бабблс" unit="шт">10</consist>
+    </offer>
     <offer id="Fc01317" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Алемани 70 см Арт. Fc01317</name>
@@ -673,6 +741,57 @@
       <param name="Артикул">Fc14375</param>
       <consist name="Питтоспорум Нигра" unit="шт">10</consist>
     </offer>
+    <offer id="Fc18686" available="true">
+      <categoryId>37</categoryId>
+      <name>Сирень Белый 60 см Арт. Fc18686</name>
+      <price>429</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1io1N3pFeDDi30HgjevKTJNaxozbOloQr</picture>
+      <picture>https://lh3.googleusercontent.com/d/19BBH7mB-drOKhVlZO9yiiRkNodFdw-61</picture>
+      <picture>https://lh3.googleusercontent.com/d/1imSfi_ZKRY_nOm5IAmx6b9q3kwJqjWbs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KvSwYB0ICLWr8hVolP-DH4ytP4SQjPXz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zMwKdYNvPJuxYBqihCUidT29jEdsMan_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc18686</param>
+      <consist name="Сирень" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc04794" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Династий 40 см Арт. Fc04794</name>
+      <price>64</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yNZqR23ApOTTuXQVOHsCsGc644yrtCi8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dZ_TKhJXIFKHqAfecZFg_lTs2IDh1F3E</picture>
+      <picture>https://lh3.googleusercontent.com/d/1biDVuAQU7yV8pRow6GCui1LbKH1cixEc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rvgu2sA-1EWWiXYd8Tag0m1IuA__LLPx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1THPvHM213BMZHSXxF0gQNc2eoqcKqVXM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc04794</param>
+      <consist name="Тюльпан Династий" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc04784" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Колумбус 40 см Арт. Fc04784</name>
+      <price>71</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1d_iBIUsWKso6K9mTGZHSimlgUQPbFynX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z5n5PWbQG_bFM_sK9mf6WFHg75KMVQj3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ymIbzNjTkNh3dEkW7kdNk_XfxzhGIfLz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GrhFYZeuqpMIdwplxQuHoO9B-UsCEaGa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q13Z6AlcD736SciCa9_kyrT1F1Dx1cN7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc04784</param>
+      <consist name="Тюльпан Колумбус" unit="шт">50</consist>
+    </offer>
     <offer id="Fc18384" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Супер Парот 40 см Арт. Fc18384</name>
@@ -742,6 +861,24 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Fc13756</param>
       <consist name="Эустома Алиса Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc5736" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Веддинг Пинк 60 см Арт. Fc5736</name>
+      <price>237</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TJqraX8kyeq0BO2xW-S4uKX5z-1Q8bk1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r65M8i4q8PCMHcOW3dgwec92bFauJsjM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nOB5Oxkf3sjt97MkC9mqTBRcwn7_W_Hd</picture>
+      <picture>https://lh3.googleusercontent.com/d/17sFnBCIf9aSfWc_v_QMl_3KnBAiuA-Xc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MV_g1v8fqsOTY-YtMXnktHO-PsEfKPsK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Fc5736</param>
+      <consist name="Эустома Веддинг Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Fc13736" available="true">
       <categoryId>37</categoryId>
