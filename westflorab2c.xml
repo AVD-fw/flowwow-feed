@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-16T15:27:08.725+03:00">
+<yml_catalog date="2026-02-16T15:37:12.561+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -22,6 +22,22 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Fransen</param>
       <param name="Артикул">Va1256c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Va3686c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Розовый 60 см Арт. Va3686c</name>
+      <categoryId>450</categoryId>
+      <price>3823</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1WIs5Ns3aaWHsrdB-clcwTMo3kLlo_yeM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UFyroO0UPX_ZDjD0yeOoQ38WMh4TkYXF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KnBOdTqMTDt7_tZOH6bpnWcRDllq15CQ</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Jewel</param>
+      <param name="Артикул">Va3686c</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
     </offer>
     <offer id="Va2707c" available="true">
