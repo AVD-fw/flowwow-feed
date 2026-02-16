@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-16T13:53:42.966+03:00">
+<yml_catalog date="2026-02-16T14:01:36.206+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -285,6 +285,34 @@
       <param name="Артикул">Az3395</param>
       <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
+    <offer id="Az3725" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Бамбу 50 см Арт. Az3725</name>
+      <price>91</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19_bcNCqudic0c_W1LMwY-2leXu9614SY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az3725</param>
+      <consist name="Гвоздика кустовая Бамбу" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4005" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
+      <price>91</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vxkHe8IPJUwqImv5MSqgg3XdzbQ76FB6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az4005</param>
+      <consist name="Гвоздика кустовая Теа" unit="шт">10</consist>
+    </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
@@ -330,6 +358,21 @@
       <param name="Артикул">Az3767</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
+    <offer id="Az1527" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Пастел Кримея 70 см Арт. Az1527</name>
+      <price>91</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TcM_o6_LSy7GrLvmwN3pozdo9msskRoN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CnZ2gqyLU0Q4fC8h0Q8rWlvlHAupUe5p</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az1527</param>
+      <consist name="Гвоздика одноголовая Пастел Кримея" unit="шт">25</consist>
+    </offer>
     <offer id="Az4737" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
@@ -344,6 +387,22 @@
       <param name="Производитель">Flores La Conejera</param>
       <param name="Артикул">Az4737</param>
       <consist name="Гвоздика одноголовая Ред" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3917" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Форси 70 см Арт. Az3917</name>
+      <price>91</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12mY0G3sdLlEXxEcCj6OaiS9Ms4YPd1MY</picture>
+      <picture>https://lh3.googleusercontent.com/d/12EXXRYdEnUhlqTEnkMkPUEYSoewSW7J1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-0mg20lCVKpvGUculOQVYLMJ7ijryepU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az3917</param>
+      <consist name="Гвоздика одноголовая Форси" unit="шт">25</consist>
     </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
@@ -433,6 +492,20 @@
       <param name="Страна">Голландия</param>
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Az3626</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4516" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 60 см Арт. Az4516</name>
+      <price>346</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1J8KG2y_6VnhPAUVZhyoWQoGJUPWltNBy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az4516</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Az3616" available="true">
