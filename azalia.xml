@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-17T09:41:37.502+03:00">
+<yml_catalog date="2026-02-17T09:43:43.225+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -598,6 +598,34 @@
       <param name="Артикул">Az3656</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
+    <offer id="Az4376" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Стар Ривер 60 см Арт. Az4376</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TTHnXaYguQdYB1DIww6x7NsmogcSaxhp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Aawt5N7xtGCOzndStcbrCbtyQFl8XOi_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az4376</param>
+      <consist name="Клематис Стар Ривер" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3336" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Айрон Марин 60 см Арт. Az3336</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1h0hQAsuJv1YEnFIoY_bTaTNoua1xVBe8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3336</param>
+      <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
+    </offer>
     <offer id="Az1435" available="true">
       <categoryId>37</categoryId>
       <name>Маттиола Айрон Чери Блоссом 50 см Арт. Az1435</name>
@@ -687,6 +715,19 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Az3616</param>
       <consist name="Эустома Селебрейт Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2184" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Рубелла 40 см Арт. Az2184</name>
+      <price>1051</price>
+      <qty>1</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vdj5Oa9t-MQVpO9N6K4ORHVvjYkgxG5t</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az2184</param>
+      <consist name="Скиммия Рубелла" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
