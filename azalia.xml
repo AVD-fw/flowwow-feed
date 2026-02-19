@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-19T08:52:13.540+03:00">
+<yml_catalog date="2026-02-19T08:53:51.336+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -92,6 +92,37 @@
       <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
+    <offer id="Az1905" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Крем Грация 50 см Арт. Az1905</name>
+      <price>211</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11S2rvO0qvS2yeBxPnMDLJkS5iE2qsTSl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCbCUFwVM39ASJQsAqh3QTVDoJlSiAEr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1905</param>
+      <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4295" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лидия 50 см Арт. Az4295</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wi-bIHvv8S_-xa6dXnLkeah2vLu6CmNi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vCdldQHdpcaKjiLA6rIDhGN4xXsW0uw8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jdu_uLIgvvmi-ULRZvE6jU88OmTdxKFL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4295</param>
+      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
+    </offer>
     <offer id="Az2867" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Антонов 70 см Арт. Az2867</name>
@@ -148,6 +179,22 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Az3327</param>
       <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4557" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Топспин Еллоу 70 см Арт. Az4557</name>
+      <price>301</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Rny0fEbyOxy07QgOuz_KhZuNntaYLkoC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IewIrY3MtnNwCvis6awsuSONaeWMe-PU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uv72xiqjdCcr2SXheZ2wwS83V7oalvqW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az4557</param>
+      <consist name="Хризантема одноголовая Топспин Еллоу" unit="шт">10</consist>
     </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
