@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-19T08:37:40.861+03:00">
+<yml_catalog date="2026-02-19T08:47:48.375+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -103,6 +103,38 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2847c</param>
       <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3327c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Петр 70 см Арт. Az3327c</name>
+      <categoryId>450</categoryId>
+      <price>3763</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1qYAh7Xp3GZ7MHsVmQmQPG6k4togpZ71L</picture>
+      <picture>https://lh3.googleusercontent.com/d/18ccpNg9O0WzwJo7Jev5QTr9LBYuyAtxm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mlUedr_DDqfCKOhxJSLul9edyvqorrGm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3327c</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2887c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Алтай 70 см Арт. Az2887c</name>
+      <categoryId>450</categoryId>
+      <price>1808</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1t0SpshryLeokOFaJoNMw0a3_pGuf_cg3</picture>
+      <picture>https://lh3.googleusercontent.com/d/169BBhmU-976wUl5EuyDLE_KR7UlK1lSK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fVcl6AMr7SRzvBf2-iUANlOWRG_Fg8Wc</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2887c</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
     </offer>
     <offer id="Az3317c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317c</name>
@@ -231,6 +263,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az4565c</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3405c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Крем 50 см Арт. Az3405c</name>
+      <categoryId>450</categoryId>
+      <price>4828</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/11NHv1BSILGjBq7jeCzrZKOhhQGs0DWut</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HHJvhiuYur2s6fC6RD7G2rtKNhaDXHaY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YgLI1fdV6w5mcmpNQnt7_HCznB0gt2Oq</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Az3405c</param>
+      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
     </offer>
     <offer id="Az3395c" available="true">
       <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 50 см Арт. Az3395c</name>
