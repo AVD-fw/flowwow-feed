@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-19T09:21:24.155+03:00">
+<yml_catalog date="2026-02-19T09:23:57.500+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -520,6 +520,21 @@
       <param name="Артикул">Az1916</param>
       <consist name="Антирринум Авиньон Вайт" unit="шт">10</consist>
     </offer>
+    <offer id="Az2175" available="true">
+      <categoryId>37</categoryId>
+      <name>Астранция Биллион Старс 50 см Арт. Az2175</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16XttJwMoK0HLcQtXccYE6hTfc7Z_36bj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wl5AoB2YTjzofHPa83CjM0BxunJMfIP0</picture>
+      <picture>https://lh3.googleusercontent.com/d/15zufUeuN57Yulay5OTPfa8Q9kHyo_i1m</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az2175</param>
+      <consist name="Астранция Биллион Старс" unit="шт">10</consist>
+    </offer>
     <offer id="Az3797" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Белый 70 см Арт. Az3797</name>
@@ -546,6 +561,20 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Az4005</param>
       <consist name="Гвоздика кустовая Теа" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1507" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Коричневый 70 см Арт. Az1507</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1d_xozpP7rJ7LaauHrVi_c2HIujKsUp-8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Flores La Conejera</param>
+      <param name="Артикул">Az1507</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
@@ -576,6 +605,21 @@
       <param name="Страна">Китай</param>
       <param name="Артикул">Az3767</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az1527" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Пастел Кримея 70 см Арт. Az1527</name>
+      <price>91</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TcM_o6_LSy7GrLvmwN3pozdo9msskRoN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CnZ2gqyLU0Q4fC8h0Q8rWlvlHAupUe5p</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az1527</param>
+      <consist name="Гвоздика одноголовая Пастел Кримея" unit="шт">25</consist>
     </offer>
     <offer id="Az4737" available="true">
       <categoryId>37</categoryId>
@@ -623,6 +667,19 @@
       <param name="Артикул">Az1345</param>
       <consist name="Гипсофила Радужная" unit="шт">25</consist>
     </offer>
+    <offer id="Az1478" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Реинбоу Аврора 80 см Арт. Az1478</name>
+      <price>226</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pE-8sCj1Cu3GYK13JtzqKs-nhFmn9YAT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1478</param>
+      <consist name="Гипсофила Реинбоу Аврора" unit="шт">25</consist>
+    </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
@@ -637,6 +694,36 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az4376" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Стар Ривер 60 см Арт. Az4376</name>
+      <price>226</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TTHnXaYguQdYB1DIww6x7NsmogcSaxhp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Aawt5N7xtGCOzndStcbrCbtyQFl8XOi_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az4376</param>
+      <consist name="Клематис Стар Ривер" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3586" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az3586</param>
+      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
     </offer>
     <offer id="Az3336" available="true">
       <categoryId>37</categoryId>
