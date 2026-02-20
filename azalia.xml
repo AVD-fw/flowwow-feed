@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20T06:53:33.880+03:00">
+<yml_catalog date="2026-02-20T07:01:27.394+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -209,6 +209,20 @@
       <param name="Артикул">Az3037</param>
       <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="Az4137" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4137</param>
+      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
+    </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
@@ -225,6 +239,66 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3707" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
+      <price>241</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oIUXutRnyXNnWK_nCjciWs5GPkc9i199</picture>
+      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3707</param>
+      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4487" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KYYZwxN4KhFjyEcZK-om3Rkoz-7y28pr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zOi2sdxnFc1ccFJNtOouAeSU2_wUQYAg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4487</param>
+      <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4565" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 50 см Арт. Az4565</name>
+      <price>181</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18iKsac3bNWW2XdlkDxa8s85kHcfUFi9S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j3TsdAq2wDKtaVG49cigCR4bQ9lLiIlZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4565</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3395" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Пинк 50 см Арт. Az3395</name>
+      <price>181</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15I9KYKMdFwV07H3RSP21-ETINBCSaAX_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qD_K7M6WxdIus9ZALmRpELsqV8Enxzrg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3395</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
     <offer id="Az4005" available="true">
       <categoryId>37</categoryId>
