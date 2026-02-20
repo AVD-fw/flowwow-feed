@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20T15:04:00.910+03:00">
+<yml_catalog date="2026-02-20T15:11:35.020+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -51,7 +51,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 60 см Арт. Az1696</name>
       <price>166</price>
-      <qty>40</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EM5r1t7j04sN1sv4URkNKlyrQhwDXbPn</picture>
       <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
@@ -94,7 +94,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пакая 50 см Арт. Az4415</name>
       <price>151</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12mOdA1rcvVnaX6_U9f1QHc61GSF9gkCI</picture>
       <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
@@ -109,7 +109,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пакая 70 см Арт. Az4427</name>
       <price>196</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lOdAcmjtGTfZNi4QZOOVfvB5h96ZVIev</picture>
       <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
@@ -197,7 +197,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
       <price>346</price>
-      <qty>20</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -206,21 +206,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2847</param>
       <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3327" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Петр 70 см Арт. Az3327</name>
-      <price>346</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1nzhC1xm-VeyIB5OCj7rWkjHQfWDUuhva</picture>
-      <picture>https://lh3.googleusercontent.com/d/18ccpNg9O0WzwJo7Jev5QTr9LBYuyAtxm</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">Az3327</param>
-      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
     </offer>
     <offer id="Az4557" available="true">
       <categoryId>5</categoryId>
@@ -287,7 +272,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697</name>
       <price>211</price>
-      <qty>30</qty>
+      <qty>60</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -301,7 +286,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
       <price>226</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AEtWlIVEJ-1pfp8fH1wWXYjLhl4B-pYA</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -315,7 +300,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
       <price>226</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -329,7 +314,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
       <price>226</price>
-      <qty>15</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Qo7lPUGin1vOYcFPtqFmqQVd6DnbaCRe</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
@@ -361,7 +346,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
       <price>226</price>
-      <qty>10</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KYYZwxN4KhFjyEcZK-om3Rkoz-7y28pr</picture>
       <picture>https://lh3.googleusercontent.com/d/1zOi2sdxnFc1ccFJNtOouAeSU2_wUQYAg</picture>
@@ -406,7 +391,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
       <price>91</price>
-      <qty>30</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vxkHe8IPJUwqImv5MSqgg3XdzbQ76FB6</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -550,20 +535,6 @@
       <param name="Артикул">Az4853</param>
       <consist name="Мускари Карола" unit="шт">10</consist>
     </offer>
-    <offer id="Az3124" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Стронг Голд 40 см Арт. Az3124</name>
-      <price>136</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RnGeLvwhWeNhF7EIZQkmQbMiP_Rzk5EE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az3124</param>
-      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
-    </offer>
     <offer id="Az3134" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Галилео 40 см Арт. Az3134</name>
@@ -596,7 +567,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>376</price>
-      <qty>90</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -610,7 +581,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
       <price>376</price>
-      <qty>120</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
       <picture>https://lh3.googleusercontent.com/d/17ZnTBZoh1npMTh7ocWXIINDTBzGds206</picture>
@@ -627,7 +598,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
       <price>346</price>
-      <qty>20</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gPa0UGqGLwMlVoskpRUGuXWT-It60-ec</picture>
       <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
@@ -642,7 +613,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Селебрейт Вайт 60 см Арт. Az3616</name>
       <price>376</price>
-      <qty>120</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Tg8iTM_1lPPi7c204tcPQBfzDf2z2t73</picture>
       <picture>https://lh3.googleusercontent.com/d/15i1yxyh4Vu787sossJ8wdF9dPwQGsN7y</picture>
