@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20T12:43:45.532+03:00">
+<yml_catalog date="2026-02-20T12:51:28.217+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -193,6 +193,19 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az2887</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3057" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3057</name>
+      <price>241</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gZhIKGAOXubjiiEsk9YyRGDlaek-8IWb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3057</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
     <offer id="Az3317" available="true">
       <categoryId>6</categoryId>
