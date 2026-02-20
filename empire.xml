@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20T13:03:57.552+03:00">
+<yml_catalog date="2026-02-20T13:09:48.404+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -124,6 +124,42 @@
       <param name="Производитель">Tajik Flowers</param>
       <param name="Артикул">Ef01146</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef2506" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алисса Лайт Пинк 60 см Арт. Ef2506</name>
+      <price>263</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19GAKSYFelNafPR-wCil0b_EqeLeihIcj</picture>
+      <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qEn-kCcEKEfTJacXJHTry-Xg7Qukuo70</picture>
+      <picture>https://lh3.googleusercontent.com/d/10vG74eoP9DdRUEyoO6ztyUsDtJhc4e27</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lS_cRzGFrNyPpJ7Z1EQmZu2mYHsEC3ZS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ef2506</param>
+      <consist name="Эустома Алисса Лайт Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef4587" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Пинк 70 см Арт. Ef4587</name>
+      <price>263</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HKVlLcVYzO8AU5Bcd0MUH20n6TBNOG6a</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YbV4qZGxir4fPqxBIZxBsv-ueCav4YuC</picture>
+      <picture>https://lh3.googleusercontent.com/d/158not5UaEElHT3iIvTAZBzZdE8L2pg_G</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C2gPhU0uGjSvGWea-9XEHIpNqDZB0T_S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V3AgXYzfZaHN-LBNUArtinpY0ekW1b4n</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef4587</param>
+      <consist name="Эустома Росита Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
