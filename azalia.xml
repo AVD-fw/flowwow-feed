@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-21T10:51:20.569+03:00">
+<yml_catalog date="2026-02-21T10:54:02.593+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -108,20 +108,6 @@
       <param name="Артикул">Az4254</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
-    <offer id="Az2847" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
-      <price>346</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az2847</param>
-      <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
-    </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
@@ -158,7 +144,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697</name>
       <price>211</price>
-      <qty>50</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -186,7 +172,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
       <price>226</price>
-      <qty>15</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -212,21 +198,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3707" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
-      <price>241</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1oIUXutRnyXNnWK_nCjciWs5GPkc9i199</picture>
-      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3707</param>
-      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
     <offer id="Az4487" available="true">
       <categoryId>6</categoryId>
