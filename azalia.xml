@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-21T07:23:32.949+03:00">
+<yml_catalog date="2026-02-21T07:31:17.884+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -108,6 +108,20 @@
       <param name="Артикул">Az4254</param>
       <consist name="Роза кустовая пионовидная Пиони Бабблс" unit="шт">10</consist>
     </offer>
+    <offer id="Az2847" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
+      <price>346</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2847</param>
+      <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
+    </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
@@ -168,6 +182,20 @@
       <param name="Артикул">Az3037</param>
       <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
     </offer>
+    <offer id="Az4137" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
+      <price>226</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4137</param>
+      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
+    </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
@@ -199,6 +227,21 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3707</param>
       <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4487" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
+      <price>226</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KYYZwxN4KhFjyEcZK-om3Rkoz-7y28pr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zOi2sdxnFc1ccFJNtOouAeSU2_wUQYAg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4487</param>
+      <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
     </offer>
     <offer id="Az4005" available="true">
       <categoryId>37</categoryId>
@@ -300,6 +343,67 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az3134</param>
       <consist name="Тюльпан Пионовидный Галилео" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3646" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
+      <price>376</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3646</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3636" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
+      <price>376</price>
+      <qty>160</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
+      <picture>https://lh3.googleusercontent.com/d/17ZnTBZoh1npMTh7ocWXIINDTBzGds206</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yMOyYlODnylCeYtAi-j9Jv0MbIxhWkka</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OtTYBPl5qWKklImIHN46jE6vnXRCE80M</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az3636</param>
+      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3626" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
+      <price>346</price>
+      <qty>110</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gPa0UGqGLwMlVoskpRUGuXWT-It60-ec</picture>
+      <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3626</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3616" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Селебрейт Вайт 60 см Арт. Az3616</name>
+      <price>376</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Tg8iTM_1lPPi7c204tcPQBfzDf2z2t73</picture>
+      <picture>https://lh3.googleusercontent.com/d/15i1yxyh4Vu787sossJ8wdF9dPwQGsN7y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az3616</param>
+      <consist name="Эустома Селебрейт Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
