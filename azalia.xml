@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-23T14:53:35.934+03:00">
+<yml_catalog date="2026-02-23T15:01:24.913+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
       <price>151</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-5UL_v1XCzRMbdXsRc4TQS_YXcMJOkU7</picture>
       <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
@@ -128,7 +128,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
       <price>256</price>
-      <qty>55</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AEtWlIVEJ-1pfp8fH1wWXYjLhl4B-pYA</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -184,20 +184,6 @@
       <param name="Артикул">Az4487</param>
       <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
     </offer>
-    <offer id="Az4005" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
-      <price>91</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1vxkHe8IPJUwqImv5MSqgg3XdzbQ76FB6</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Az4005</param>
-      <consist name="Гвоздика кустовая Теа" unit="шт">10</consist>
-    </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
@@ -232,7 +218,7 @@
       <categoryId>37</categoryId>
       <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
       <price>226</price>
-      <qty>130</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
       <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
@@ -248,7 +234,7 @@
       <categoryId>37</categoryId>
       <name>Маттиола Айрон Марин 60 см Арт. Az3336</name>
       <price>301</price>
-      <qty>140</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1h0hQAsuJv1YEnFIoY_bTaTNoua1xVBe8</picture>
       <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
