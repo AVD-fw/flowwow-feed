@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-23T14:23:59.380+03:00">
+<yml_catalog date="2026-02-23T14:29:44.052+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ef2866</name>
       <price>114</price>
-      <qty>30</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18CL32aAfhakgPdDdKC47h5viNQxO4NOj</picture>
       <picture>https://lh3.googleusercontent.com/d/1pgY0ki-6WHiS5t5KVXFIqBMP7g0KxKVY</picture>
@@ -53,24 +53,6 @@
       <param name="Артикул">Ef00916</param>
       <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
     </offer>
-    <offer id="Ef2807" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Командер 70 см Арт. Ef2807</name>
-      <price>114</price>
-      <qty>90</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/13s_qhQee-AG0jOEW-BaBAr_ydZZQZJq3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Kd07DsAYqeALvJGDHzaeTHPLnPy0giFL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1AtB_Prw2iu6vVoi3XMVKje_FOjyYGugj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hPaT5LTrpomty44dGgPTr587bwYHmsLZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1eHgqO78crEl8lqaegSbBZqtA5zgkGoCE</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">Ef2807</param>
-      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
-    </offer>
     <offer id="Ef00926" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 60 см Арт. Ef00926</name>
@@ -93,7 +75,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Хайдар 70 см Арт. Ef3797</name>
       <price>114</price>
-      <qty>15</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hC7IntodzYv_oHkdTnrwiJxGSCs3ii7a</picture>
       <picture>https://lh3.googleusercontent.com/d/1x38u7CozlJ9iLhNmUeyXYJPx64Pup6Ee</picture>
@@ -111,7 +93,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Крем 50 см Арт. Ef1705</name>
       <price>110</price>
-      <qty>125</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NKI_NGxhwNCFwIkcjPnC7JVlWmsQ0JwD</picture>
       <picture>https://lh3.googleusercontent.com/d/1eWyqCEYr43Uq1G8QyKqQScIX4QKyaGIv</picture>
@@ -124,24 +106,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ef1705</param>
       <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef3416" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алисса Вайт 60 см Арт. Ef3416</name>
-      <price>263</price>
-      <qty>60</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1gbdtMEzDRYkDK6d3nnFjOaWlhowq3t9b</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Ha1aNupT49hfad9E4Lex5XNUSB1QOwPE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ibAA1TL4x8hUPA2uGib_VftLJ7MsfhvO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UOWQ-tvX1XyZTAOFj5rt9_T_pQPRhQ9c</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LDx0VopG--zVJvdyWUQ4cN8xjkmRN7XR</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">Ef3416</param>
-      <consist name="Эустома Алисса Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Ef2506" available="true">
       <categoryId>37</categoryId>
@@ -165,7 +129,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Пинк 70 см Арт. Ef4587</name>
       <price>263</price>
-      <qty>170</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1HKVlLcVYzO8AU5Bcd0MUH20n6TBNOG6a</picture>
       <picture>https://lh3.googleusercontent.com/d/1YbV4qZGxir4fPqxBIZxBsv-ueCav4YuC</picture>
