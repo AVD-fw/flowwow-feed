@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-24T08:53:40.493+03:00">
+<yml_catalog date="2026-02-24T09:01:46.973+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az2575" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 50 см Арт. Az2575</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ozqNH9LAwEUozEzdr2wNEyWd3MVfkDsr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ethRyMHDHvdg0BikiGwFcxjF0yItVEJ3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az2575</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
     <offer id="Az1685" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
@@ -39,14 +54,31 @@
       <price>166</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EM5r1t7j04sN1sv4URkNKlyrQhwDXbPn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JLIThuXDef5Hxh-a5TZiRPAs579HIexL</picture>
       <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EM5r1t7j04sN1sv4URkNKlyrQhwDXbPn</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az1696</param>
       <consist name="Роза одноголовая Аква" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4666" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Вау 60 см Арт. Az4666</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1iJnu0aM01od5_vaXhOdCvylyxS0l26hP</picture>
+      <picture>https://lh3.googleusercontent.com/d/12qUUcWeiLcSXQms1APs8GEbdigl4PqOH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1USycRskLsGpBx6PsGci-Y1YW9HplFe9u</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4666</param>
+      <consist name="Роза одноголовая Вау" unit="шт">10</consist>
     </offer>
     <offer id="Az4415" available="true">
       <categoryId>1</categoryId>
