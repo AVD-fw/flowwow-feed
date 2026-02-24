@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-24T09:11:21.737+03:00">
+<yml_catalog date="2026-02-24T09:13:41.476+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -128,6 +128,21 @@
       <param name="Артикул">Az2777</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
+    <offer id="Az4837" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мисс Пигги 70 см Арт. Az4837</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oEvyvkCBvKDXHwh63zygTkjo7cy9kga4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zstUh6SmpALqmWqH5Uf6QT9RPfkCWxgm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4837</param>
+      <consist name="Роза одноголовая Мисс Пигги" unit="шт">10</consist>
+    </offer>
     <offer id="Az4415" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пакая 50 см Арт. Az4415</name>
@@ -174,6 +189,37 @@
       <param name="Артикул">Az4605</param>
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
     </offer>
+    <offer id="Az3157" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Топспин 70 см Арт. Az3157</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KpJCxSVt6h_KdQFEBH7_YCV92bc_R6Fb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rL5_tM7K7wA1w9qOzF4dZTzAXM-wPj19</picture>
+      <picture>https://lh3.googleusercontent.com/d/14OA9eaIY8nE1A9-j6ry2EHaFLJJhX-Ki</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YLCPFeUdKUO4myFnvgO6xyq6CG_Y-oqY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3157</param>
+      <consist name="Хризантема одноголовая Топспин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3017" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Этруско 70 см Арт. Az3017</name>
+      <price>346</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VFcXkhgegPd1FA5GgDPrvSUdVITctvGu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3017</param>
+      <consist name="Хризантема одноголовая Этруско" unit="шт">10</consist>
+    </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
@@ -206,6 +252,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3317</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3717" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Балтика Еллоу 70 см Арт. Az3717</name>
+      <price>181</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gI4UOtKJgtPpYH8TWpUOzIJ93geaKNFQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jjFWsNpIpbKJ11lwE2BJg5NuTuIW0Ojn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsuNfNtGx6Bl2uYgwDoaaeMS_HyW9VeP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LinFlowers</param>
+      <param name="Артикул">Az3717</param>
+      <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
     </offer>
     <offer id="Az3697" available="true">
       <categoryId>6</categoryId>
