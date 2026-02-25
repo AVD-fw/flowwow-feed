@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-25T10:41:29.307+03:00">
+<yml_catalog date="2026-02-25T10:43:47.864+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -96,21 +96,6 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4605" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Пенни Лейн 50 см Арт. Az4605</name>
-      <price>151</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1yYnoN_AlYhss8lUFJLhKZ1l6PzWiKXK1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1N021w6hpRTFx2Ce7mkMxdHeFAXqTk8dx</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az4605</param>
-      <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
     </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
@@ -225,7 +210,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
       <price>106</price>
-      <qty>320</qty>
+      <qty>280</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ahmDYskh59O0TovXWjgzKYnzs61VmLDl</picture>
       <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
