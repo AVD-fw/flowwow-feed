@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-25T07:31:27.590+03:00">
+<yml_catalog date="2026-02-25T07:33:49.078+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -295,6 +295,50 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3336</param>
       <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3104" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Династий 40 см Арт. Az3104</name>
+      <price>121</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DTStobAIUNwAg4NRdICc0jTCuQZarP8S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vgHi8F7Orz9_W5aETSlX0VyOGlSEM1LB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zQnCxhcZoawj13uTl9AQidRMNocMQxEY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3104</param>
+      <consist name="Тюльпан Династий" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4064" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Лайонс Глори 40 см Арт. Az4064</name>
+      <price>121</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dNYMRj9fhPa5qMkVGNllc1gtfk04Ch_p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EwJBL2gXwIFDImUKpGvEWEXU1gIwJ74y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4064</param>
+      <consist name="Тюльпан Лайонс Глори" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3144" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Самбука 40 см Арт. Az3144</name>
+      <price>151</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oGNB0AHQRMVKiiTV43aUtr3HDJ9o64Ul</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsGpiMUjdxfqTdiO4FurHySOPy6MOZdd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3144</param>
+      <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
     </offer>
     <offer id="Az4084" available="true">
       <categoryId>37</categoryId>
