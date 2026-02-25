@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-25T15:03:57.872+03:00">
+<yml_catalog date="2026-02-25T15:11:28.599+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -218,7 +218,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
       <price>256</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -341,7 +341,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Аутфит 40 см Арт. Az4914</name>
       <price>121</price>
-      <qty>50</qty>
+      <qty>300</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NbfJSgJH2_7vVbCucXnTWFEGK21-ZmOq</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
@@ -369,7 +369,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Лав Трейн 40 см Арт. Az4894</name>
       <price>121</price>
-      <qty>50</qty>
+      <qty>450</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mX91532ISbB7DTO9A_iyrqSiO3_gNMLO</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
@@ -378,39 +378,11 @@
       <param name="Артикул">Az4894</param>
       <consist name="Тюльпан Лав Трейн" unit="шт">50</consist>
     </offer>
-    <offer id="Az4904" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Полестар 40 см Арт. Az4904</name>
-      <price>121</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/134bhRFWdefyLPDqVm4FgnlCasv8SvjyU</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az4904</param>
-      <consist name="Тюльпан Полестар" unit="шт">50</consist>
-    </offer>
-    <offer id="Az3144" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Самбука 40 см Арт. Az3144</name>
-      <price>151</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1oGNB0AHQRMVKiiTV43aUtr3HDJ9o64Ul</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nsGpiMUjdxfqTdiO4FurHySOPy6MOZdd</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az3144</param>
-      <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
-    </offer>
     <offer id="Az4934" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Шугар Блоссом 40 см Арт. Az4934</name>
       <price>331</price>
-      <qty>50</qty>
+      <qty>150</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1HVNxBS9OqZZjb7iD5mH0qIpVC1z6sCQj</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
@@ -437,7 +409,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>376</price>
-      <qty>40</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
