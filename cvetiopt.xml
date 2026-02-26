@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-26T13:25:56.968+03:00">
+<yml_catalog date="2026-02-26T13:35:30.967+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -113,11 +113,11 @@
       <price>143</price>
       <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mhMKWCg6DPE0qgX4tH_irhsU7fV8nAw3</picture>
-      <picture>https://lh3.googleusercontent.com/d/15yaKMDLSrxzLfLhSMj5Q61mPP0-jn6at</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RL5qcyLIOfaY4gUtk3l0FeqJ-0bPBVgz</picture>
       <picture>https://lh3.googleusercontent.com/d/1uFmVM1TSdHEzfTb6qErZyzBFHWqMxbNi</picture>
       <picture>https://lh3.googleusercontent.com/d/1WvuprvIMPOJXgli4V9Y_FoKykJxXw0nV</picture>
       <picture>https://lh3.googleusercontent.com/d/1KCo06viv6rqybYbE9u05kZF5HrYCqxya</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mhMKWCg6DPE0qgX4tH_irhsU7fV8nAw3</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -337,6 +337,24 @@
       <param name="Артикул">Fc9155</param>
       <consist name="Хризантема Сантини Маверик Вайт" unit="шт">25</consist>
     </offer>
+    <offer id="Fc15225" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Пепталк 55 см Арт. Fc15225</name>
+      <price>91</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Q7sL7C4JaqQ5DBoQe1o1noHoYs76Fbd_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xZZ9TohSDxWUyD8fVqsySi4Qrt632vYX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kw8AJqmP0ZcLFHnyogf5jE2glENYQiH5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vPfQDZPtjYnvHGvXE8gM-Um-U5P9Q-0C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o7pdz-R9QUpFzGPq5w9PY3juS_Z7caYU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc15225</param>
+      <consist name="Хризантема Сантини Пепталк" unit="шт">25</consist>
+    </offer>
     <offer id="Fc16155" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Вайт 55 см Арт. Fc16155</name>
@@ -354,6 +372,42 @@
       <param name="Производитель">LS Santini</param>
       <param name="Артикул">Fc16155</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01065" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Крашенная 55 см Арт. Fc01065</name>
+      <price>105</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AWE0yZcdKfIjgHpnUBJPx0qHZxnf_UWI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AbrncfiIorTp8NskzpXYgOGwPsKBXN2L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1M3tmUcB1BQjNYcbaSx1fbrN9Fb7SYV-u</picture>
+      <picture>https://lh3.googleusercontent.com/d/10P03D7KRR5wJb5jqL-kHNrkYICPKg7zK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EfLnNW2zVwBxh_bVu128chmYo7V8TwYX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc01065</param>
+      <consist name="Хризантема Сантини Росси Крашенная" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01085" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси крашенная 55 см Арт. Fc01085</name>
+      <price>105</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14UvOzN70t-CDf2WQUmD_LjDwSlSHPgHD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FkjvJB2iA-qA7a0Ip_nbIGyjYVvt-EYG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mjgLWGt_PHchuaVRwZWi3Sqq8ErSnw4H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A2zg3-UETXf_k2N9oEeJGxr_TPLU_JyI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xkbaiRXZenC3C6BuLuhzavoThvRgHT_K</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc01085</param>
+      <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
     </offer>
     <offer id="Fc03455" available="true">
       <categoryId>7</categoryId>
@@ -461,6 +515,23 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Fc02035</param>
       <consist name="Астранция" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc10504" available="true">
+      <categoryId>37</categoryId>
+      <name>Вероника кустовая 40 см Арт. Fc10504</name>
+      <price>72</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1beGDjdvB2S4QqjOmkApExY-czi1WA5S9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nj4iX130jPe96oIEmjibUXBAk8ZsCnrC</picture>
+      <picture>https://lh3.googleusercontent.com/d/18GBz7qOR3hs_Kl62FTuWCjr10EFuE_tf</picture>
+      <picture>https://lh3.googleusercontent.com/d/193Go_eAPZMDVQ7lCYsYnKPYoD-UeHDvK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qdEfkiCpaaRadffBuBbfw76Pi3sreqQC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc10504</param>
+      <consist name="Вероника кустовая" unit="шт">20</consist>
     </offer>
     <offer id="Fc03167" available="true">
       <categoryId>37</categoryId>
@@ -693,6 +764,23 @@
       <param name="Производитель">Neeman</param>
       <param name="Артикул">Fc04855</param>
       <consist name="Оксипеталум" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc10035" available="true">
+      <categoryId>37</categoryId>
+      <name>Питтоспорум Илан 50 см Арт. Fc10035</name>
+      <price>77</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HS6rIs9uRob1HSyCTyU5v41OGn7davNm</picture>
+      <picture>https://lh3.googleusercontent.com/d/14rf35hVTtV1iEZIRCYhbvngD3RT5W80A</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BPnctAlulSzMAqWAVWH5ylyrJ97jAdPS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aBDmXvWswekqfiRsDkqdJtZdkdMJwhHk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1heSsS3DD5zGxQPWO6VmyYIYfZC4YE8BY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc10035</param>
+      <consist name="Питтоспорум Илан" unit="шт">10</consist>
     </offer>
     <offer id="Fc16866" available="true">
       <categoryId>37</categoryId>
@@ -949,6 +1037,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc00755</param>
       <consist name="Бруния" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc03795" available="true">
+      <categoryId>38</categoryId>
+      <name>Вероника кустовая Лиловый 50 см Арт. Fc03795</name>
+      <price>72</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12dnk9oURaHqwpvXmrFFGFxBXS1sb_36y</picture>
+      <picture>https://lh3.googleusercontent.com/d/10VqeJAYCI222ZDF0W-rQ0MzsLJ7CUiWO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yDk4lUHwvuM9Khyd2c7LUVhpfttiPw_v</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FqxKjpPNUmUnVChv4_uPijzz3GU8lKQK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tZH0FiGY1F8CXkiE1dd1tnjnru5HAcBo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc03795</param>
+      <consist name="Вероника кустовая" unit="шт">20</consist>
     </offer>
     <offer id="Fc04667" available="true">
       <categoryId>38</categoryId>
