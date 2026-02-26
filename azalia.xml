@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-26T15:44:02.642+03:00">
+<yml_catalog date="2026-02-26T15:51:21.100+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -35,7 +35,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
       <price>151</price>
-      <qty>70</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-5UL_v1XCzRMbdXsRc4TQS_YXcMJOkU7</picture>
       <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
@@ -51,7 +51,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 60 см Арт. Az1696</name>
       <price>166</price>
-      <qty>10</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JLIThuXDef5Hxh-a5TZiRPAs579HIexL</picture>
       <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
@@ -63,56 +63,11 @@
       <param name="Артикул">Az1696</param>
       <consist name="Роза одноголовая Аква" unit="шт">10</consist>
     </offer>
-    <offer id="Az4666" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Вау 60 см Арт. Az4666</name>
-      <price>166</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1iJnu0aM01od5_vaXhOdCvylyxS0l26hP</picture>
-      <picture>https://lh3.googleusercontent.com/d/12qUUcWeiLcSXQms1APs8GEbdigl4PqOH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1USycRskLsGpBx6PsGci-Y1YW9HplFe9u</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az4666</param>
-      <consist name="Роза одноголовая Вау" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4677" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Вау 70 см Арт. Az4677</name>
-      <price>181</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1H06tIlQH16qBD99JubGX_fPABUHG0CPc</picture>
-      <picture>https://lh3.googleusercontent.com/d/12qUUcWeiLcSXQms1APs8GEbdigl4PqOH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az4677</param>
-      <consist name="Роза одноголовая Вау" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4954" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Джумилия 40 см Арт. Az4954</name>
-      <price>151</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az4954</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
-    </offer>
     <offer id="Az4965" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 50 см Арт. Az4965</name>
       <price>166</price>
-      <qty>150</qty>
+      <qty>380</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -126,7 +81,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 60 см Арт. Az4976</name>
       <price>181</price>
-      <qty>10</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -136,25 +91,11 @@
       <param name="Артикул">Az4976</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
-    <offer id="Az4285" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Дэнис 50 см Арт. Az4285</name>
-      <price>331</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1WqH5a4u356iC6W_iO5Q8iduTOLYq2Xpo</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az4285</param>
-      <consist name="Роза одноголовая Дэнис" unit="шт">10</consist>
-    </offer>
     <offer id="Az4415" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пакая 50 см Арт. Az4415</name>
       <price>151</price>
-      <qty>20</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12mOdA1rcvVnaX6_U9f1QHc61GSF9gkCI</picture>
       <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
@@ -169,7 +110,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пакая 70 см Арт. Az4427</name>
       <price>196</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/18lAZWbCfU3WMMNSdgdI1OLB-DxBflNP1</picture>
       <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
@@ -352,7 +293,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
       <price>106</price>
-      <qty>20</qty>
+      <qty>100</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ahmDYskh59O0TovXWjgzKYnzs61VmLDl</picture>
       <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
@@ -383,7 +324,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
       <price>76</price>
-      <qty>100</qty>
+      <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1o6z5Hi0V9Wuxm81adMncqC9OQza_Kwcg</picture>
       <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
@@ -398,7 +339,7 @@
       <categoryId>37</categoryId>
       <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
       <price>226</price>
-      <qty>30</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
       <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
@@ -414,7 +355,7 @@
       <categoryId>37</categoryId>
       <name>Маттиола Айрон Марин 60 см Арт. Az3336</name>
       <price>301</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1h0hQAsuJv1YEnFIoY_bTaTNoua1xVBe8</picture>
       <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
@@ -424,24 +365,11 @@
       <param name="Артикул">Az3336</param>
       <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
     </offer>
-    <offer id="Az4914" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Аутфит 40 см Арт. Az4914</name>
-      <price>121</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1NbfJSgJH2_7vVbCucXnTWFEGK21-ZmOq</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az4914</param>
-      <consist name="Тюльпан Аутфит" unit="шт">50</consist>
-    </offer>
     <offer id="Az3104" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Династий 40 см Арт. Az3104</name>
       <price>121</price>
-      <qty>150</qty>
+      <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DTStobAIUNwAg4NRdICc0jTCuQZarP8S</picture>
       <picture>https://lh3.googleusercontent.com/d/1vgHi8F7Orz9_W5aETSlX0VyOGlSEM1LB</picture>
@@ -456,7 +384,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Лав Трейн 40 см Арт. Az4894</name>
       <price>121</price>
-      <qty>250</qty>
+      <qty>300</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mX91532ISbB7DTO9A_iyrqSiO3_gNMLO</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
