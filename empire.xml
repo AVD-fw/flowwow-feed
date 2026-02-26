@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-26T07:39:48.903+03:00">
+<yml_catalog date="2026-02-26T07:43:47.293+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -34,6 +34,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ef00916</param>
       <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef3376" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
+      <price>108</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14rGMrMigbABH28zDfpDLVnKcjz8AG57Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lxSbSZ3mNOFdGfes-meIIEgx9eor2MoN</picture>
+      <picture>https://lh3.googleusercontent.com/d/11OQAJeUWK95ialjl28d7C4QmNmP0KAEx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aevSrEU78Y5unLXh391g_RLnHl5CBlY8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XL3snPPzUI94avFXCF_bLFd3Zg5ptqoU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ef3376</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="Ef00547" available="true">
       <categoryId>37</categoryId>
