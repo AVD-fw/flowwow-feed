@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27T11:11:28.693+03:00">
+<yml_catalog date="2026-02-27T11:13:46.402+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -356,6 +356,20 @@
       <param name="Артикул">Az3336</param>
       <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
     </offer>
+    <offer id="Az4914" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Аутфит 40 см Арт. Az4914</name>
+      <price>121</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HUVHOVtxs4IJvzw8CyJJt5M0SUdJd1eA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NbfJSgJH2_7vVbCucXnTWFEGK21-ZmOq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4914</param>
+      <consist name="Тюльпан Аутфит" unit="шт">50</consist>
+    </offer>
     <offer id="Az3104" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Династий 40 см Арт. Az3104</name>
@@ -399,6 +413,36 @@
       <param name="Артикул">Az4064</param>
       <consist name="Тюльпан Лайонс Глори" unit="шт">50</consist>
     </offer>
+    <offer id="Az3144" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Самбука 40 см Арт. Az3144</name>
+      <price>151</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nCFMe4bgiDnXGOe-ZvOzlcNsJsaurTWb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsGpiMUjdxfqTdiO4FurHySOPy6MOZdd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oGNB0AHQRMVKiiTV43aUtr3HDJ9o64Ul</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3144</param>
+      <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4934" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Шугар Блоссом 40 см Арт. Az4934</name>
+      <price>331</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Y89v0cb0UIt2dR-6yS6aX2woay9Hn6VP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HVNxBS9OqZZjb7iD5mH0qIpVC1z6sCQj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4934</param>
+      <consist name="Тюльпан Пионовидный Шугар Блоссом" unit="шт">50</consist>
+    </offer>
     <offer id="Az3646" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
@@ -429,6 +473,19 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Az3636</param>
       <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1388" available="true">
+      <categoryId>38</categoryId>
+      <name>Солидаго Карзан Глори 80 см Арт. Az1388</name>
+      <price>181</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kiuFBivDMTan-G1zj-3sDUhY8TT7sVfk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1388</param>
+      <consist name="Солидаго Карзан Глори" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
