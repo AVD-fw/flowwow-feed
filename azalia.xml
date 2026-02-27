@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27T06:33:36.200+03:00">
+<yml_catalog date="2026-02-27T06:41:17.654+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -49,6 +49,34 @@
       <param name="Артикул">Az1696</param>
       <consist name="Роза одноголовая Аква" unit="шт">10</consist>
     </offer>
+    <offer id="Az4965" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 50 см Арт. Az4965</name>
+      <price>166</price>
+      <qty>580</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4965</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4976" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 60 см Арт. Az4976</name>
+      <price>181</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4976</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
     <offer id="Az4415" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пакая 50 см Арт. Az4415</name>
@@ -62,6 +90,22 @@
       <param name="Страна">Россия</param>
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4415</param>
+      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4427" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пакая 70 см Арт. Az4427</name>
+      <price>196</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18lAZWbCfU3WMMNSdgdI1OLB-DxBflNP1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lOdAcmjtGTfZNi4QZOOVfvB5h96ZVIev</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
     <offer id="Az1595" available="true">
