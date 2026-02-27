@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27T11:21:33.459+03:00">
+<yml_catalog date="2026-02-27T11:23:41.804+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -199,6 +199,23 @@
       <param name="Артикул">Az1674</param>
       <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
     </offer>
+    <offer id="Az4557" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Топспин Еллоу 70 см Арт. Az4557</name>
+      <price>301</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YhP31A68kyBSQkilPEoBBDrJiU-E22L7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IewIrY3MtnNwCvis6awsuSONaeWMe-PU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uv72xiqjdCcr2SXheZ2wwS83V7oalvqW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rny0fEbyOxy07QgOuz_KhZuNntaYLkoC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az4557</param>
+      <consist name="Хризантема одноголовая Топспин Еллоу" unit="шт">10</consist>
+    </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
@@ -231,20 +248,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3317</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
-    </offer>
-    <offer id="Az4137" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
-      <price>256</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4137</param>
-      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
     </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
@@ -369,6 +372,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3336</param>
       <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>211</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     <offer id="Az4914" available="true">
       <categoryId>37</categoryId>
