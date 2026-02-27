@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27T10:57:51.124+03:00">
+<yml_catalog date="2026-02-27T11:07:43.493+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -371,6 +371,21 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az4894c</param>
       <consist name="Тюльпан Лав Трейн" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4064c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Лайонс Глори 40 см Арт. Az4064c</name>
+      <categoryId>450</categoryId>
+      <price>6353</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1JwExqAZSIu8_oyULN63wwwS5aJWG5lPS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KMEgpFWl16P1WACWOQIF0V2xjmrrqPBu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsAncZGViQTj3ZUiCV6ZJp2rUcfo2usD</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4064c</param>
+      <consist name="Тюльпан Лайонс Глори" unit="шт">50</consist>
     </offer>
     <offer id="Az3646c" available="true">
       <name>Пачка (10 шт.) Эустома Алиса Пинк 60 см Арт. Az3646c</name>
