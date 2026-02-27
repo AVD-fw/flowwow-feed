@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27T10:51:26.232+03:00">
+<yml_catalog date="2026-02-27T10:53:48.364+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -69,6 +69,7 @@
       <price>166</price>
       <qty>520</qty>
       <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1i7Zi7Spri0CFlObErJaLh4Dh3SsM2YzA</picture>
       <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
@@ -83,12 +84,28 @@
       <price>181</price>
       <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Kbz-m6qoeixPHG1GRP5nFfA8_n4F8uxN</picture>
       <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4976</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4987" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 70 см Арт. Az4987</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qhQDjTN86JWwqadDQsoSxA0dKBGZqmlc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4987</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
     <offer id="Az5116" available="true">
@@ -163,6 +180,23 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az5186</param>
       <consist name="Роза одноголовая Пич Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1674" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Крем Грация 40 см Арт. Az1674</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1C_4xIZOO-jffwT3pCCT-xTQJM_rdKzAQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCbCUFwVM39ASJQsAqh3QTVDoJlSiAEr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_RlL_IL7xJunBsJMrV9wY1jT6lyEbvQo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uZFbpNhYF9ocBy0a5p6aZcSkAFbErHWg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1674</param>
+      <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
     </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
