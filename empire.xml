@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-27T05:59:37.020+03:00">
+<yml_catalog date="2026-02-28T07:39:36.883+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -17,47 +17,47 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Ef00916" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Делигрин 60 см Арт. Ef00916</name>
-      <price>114</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1bcDtrUiXz34YVUszatnFPG1PmCBMbjjf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yjzwKOO649t12EghqjSmWGVZT5nWV4OC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aTGhR-tGqRG3QU_iJ1eSC76nD_B23bbt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oSrkTXVXbcrwceFzhakXJQGSAkAc2GCC</picture>
-      <picture>https://lh3.googleusercontent.com/d/14FVHL8qsSi6SrJ24ehiNSgFXMvsgcwHf</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ef00916</param>
-      <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
-    </offer>
-    <offer id="Ef3376" available="true">
+    <offer id="Ef01146" available="true">
       <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
+      <name>Гвоздика одноголовая Малиновый 60 см Арт. Ef01146</name>
       <price>108</price>
-      <qty>100</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14rGMrMigbABH28zDfpDLVnKcjz8AG57Z</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lxSbSZ3mNOFdGfes-meIIEgx9eor2MoN</picture>
-      <picture>https://lh3.googleusercontent.com/d/11OQAJeUWK95ialjl28d7C4QmNmP0KAEx</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aevSrEU78Y5unLXh391g_RLnHl5CBlY8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XL3snPPzUI94avFXCF_bLFd3Zg5ptqoU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YpDo_jMQJwIjYtsVlB6x9j23B7cCWEsU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fT7VHNTuDBSYOXDVI8XQOId2oGQLX0MX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kqPAkZAn7JePI6ue8UMwkcxBZYbpSOxP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P8nrHKr7t0E7li4qEJVM_MLWRBrRn01g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XDZvLlpTb1S-3LS-EH0yu5misKaaPXg4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Эквадор</param>
-      <param name="Производитель">Tajik flowers</param>
-      <param name="Артикул">Ef3376</param>
+      <param name="Производитель">Tajik Flowers</param>
+      <param name="Артикул">Ef01146</param>
       <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00537" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Радужный 70 см Арт. Ef00537</name>
+      <price>107</price>
+      <qty>200</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17KJrY81rXYr59VM9zWpMGcsAUJibMQOR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dAQQSyKUMgPoiXRN8qpuQsWJeHk9y012</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eHAVxcyXABaOfL1m8n1kvbUghu2BR6YJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pGOSR3ud06-QXidHd_9rN92hxbzaC2YS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MpyXpfHAoLbnRABKThCIOLSNqE6BmpV3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Ef00537</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
     <offer id="Ef00547" available="true">
       <categoryId>37</categoryId>
       <name>Гипсофила Белый 70 см Арт. Ef00547</name>
       <price>83</price>
-      <qty>250</qty>
+      <qty>300</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14gb-deBakQzjyfHN5EZ0uNkmsf07ZD3q</picture>
       <picture>https://lh3.googleusercontent.com/d/1u4z8zjzFVituBDtfYBW-bE-YszHhdobi</picture>
@@ -70,6 +70,60 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Ef00547</param>
       <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef00306" available="true">
+      <categoryId>37</categoryId>
+      <name>Танацетум Белый 60 см Арт. Ef00306</name>
+      <price>100</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1k6mOKuMBiUTZPgxtAqSrIWpuZhwR1clp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KwgsJZ4j-yrWAIaqq7ylAndjesKbKs6x</picture>
+      <picture>https://lh3.googleusercontent.com/d/14JLcpqwJQuUyf7F9VOtdO8PD5OStIHSy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KVV5ZvV6_0hMjKS12fwCxoEWBMwdH3G4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XNmiQF1Yq_0gaLOUn6ny-4ySdufSVFGs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Matricaria by W. Grootscholten</param>
+      <param name="Артикул">Ef00306</param>
+      <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef2506" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алисса Лайт Пинк 60 см Арт. Ef2506</name>
+      <price>263</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19GAKSYFelNafPR-wCil0b_EqeLeihIcj</picture>
+      <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qEn-kCcEKEfTJacXJHTry-Xg7Qukuo70</picture>
+      <picture>https://lh3.googleusercontent.com/d/10vG74eoP9DdRUEyoO6ztyUsDtJhc4e27</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lS_cRzGFrNyPpJ7Z1EQmZu2mYHsEC3ZS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Lugt Lisianthus</param>
+      <param name="Артикул">Ef2506</param>
+      <consist name="Эустома Алисса Лайт Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef2707" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Лисанне Лайт Пинк 70 см Арт. Ef2707</name>
+      <price>263</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OR9W-57O58g4lQhDCThmpkdrr_TusOj5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e3frHglOsAhBDqjR4B2jtPqd_daYzUx2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xtZS85O-55RC5ce6u4gDbtYeg3WcKO7Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tR1IyjNhYwUX-UI22ggJbSEbMlytgpoP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PiNd9gHldHFuYa8RYYkYur2rUPClOcvB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef2707</param>
+      <consist name="Эустома Лисанне Лайт Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
