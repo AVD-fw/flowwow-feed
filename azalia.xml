@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-28T15:21:19.218+03:00">
+<yml_catalog date="2026-02-28T15:23:38.221+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 40 см Арт. Az5134</name>
       <price>136</price>
-      <qty>200</qty>
+      <qty>160</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sfnSHO5f6rEtYJXKYPYYpHqI1n1dtVMT</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -82,7 +82,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 60 см Арт. Az4976</name>
       <price>196</price>
-      <qty>60</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Kbz-m6qoeixPHG1GRP5nFfA8_n4F8uxN</picture>
       <picture>https://lh3.googleusercontent.com/d/1LBx4rCh0yGFo8cpvX1_PLvCHjwpAgOj4</picture>
@@ -125,25 +125,11 @@
       <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
-    <offer id="Az5175" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Пич Аваланш 50 см Арт. Az5175</name>
-      <price>151</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ygutGoZAOi1AK0ZYb8beoTGRm_37tm_r</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az5175</param>
-      <consist name="Роза одноголовая Пич Аваланш" unit="шт">10</consist>
-    </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
       <price>256</price>
-      <qty>35</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
@@ -266,7 +252,7 @@
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>25</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -280,7 +266,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Желтый 40 см Арт. Az5454</name>
       <price>121</price>
-      <qty>100</qty>
+      <qty>450</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1si3O69V9lT8A4LvoZeYA0y1qjLNaHkm-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
