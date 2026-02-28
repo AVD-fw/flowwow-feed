@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-28T10:41:18.000+03:00">
+<yml_catalog date="2026-02-28T10:43:39.503+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -143,7 +143,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
       <price>256</price>
-      <qty>20</qty>
+      <qty>35</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
@@ -156,35 +156,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3707" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
-      <price>286</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1oIUXutRnyXNnWK_nCjciWs5GPkc9i199</picture>
-      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3707</param>
-      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
-    </offer>
-    <offer id="Az5075" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси Вайт 50 см Арт. Az5075</name>
-      <price>181</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1euCBFwRIAvmDPMSkOUZu7Fj2-PbWP-jP</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">Az5075</param>
-      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
     <offer id="Az1565" available="true">
       <categoryId>37</categoryId>
@@ -331,20 +302,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az4914</param>
       <consist name="Тюльпан Аутфит" unit="шт">50</consist>
-    </offer>
-    <offer id="Az3646" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
-      <price>391</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Az3646</param>
-      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
