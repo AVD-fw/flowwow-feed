@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-02T14:36:37.600+03:00">
+<yml_catalog date="2026-03-02T14:45:30.742+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -107,29 +107,11 @@
       <param name="Артикул">Fc7508</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">15</consist>
     </offer>
-    <offer id="Fc12678" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Антонина 80 см Арт. Fc12678</name>
-      <price>275</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/167wTiHRaQmJNCckx8oHhnw7KKC6TMMRY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JaZbNpVTUqTEIHpliK0HBZQNs98Lx1h7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SkP3TCud5Oa45qE_x_tvN57Vyuq_ZF-C</picture>
-      <picture>https://lh3.googleusercontent.com/d/10eYAiPhhEP-Q6NUC_vntY2Q9z0FGlCJ2</picture>
-      <picture>https://lh3.googleusercontent.com/d/1g792jXvy-0THpO0WoBpwYhmtBNhR2B7f</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Fc12678</param>
-      <consist name="Роза кустовая Антонина" unit="шт">10</consist>
-    </offer>
     <offer id="Fc19099" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Антонина 90 см Арт. Fc19099</name>
       <price>281</price>
-      <qty>30</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1YIYML6JC3QCJhLkWMywoBbWIlL0tqUdj</picture>
       <picture>https://lh3.googleusercontent.com/d/1VVNXBrcxTUxrbR0XdAnW0kXojWj7B8Qe</picture>
@@ -165,7 +147,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Саммер Денс 90 см Арт. Fc19469</name>
       <price>259</price>
-      <qty>330</qty>
+      <qty>320</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10oLYt_-xJZkupfYsPYU5AuCN-idvEtGw</picture>
       <picture>https://lh3.googleusercontent.com/d/1_zSGqjcbPu8maH5Yw5ucUci1h0LlitgT</picture>
@@ -705,7 +687,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Фуксия 85 см Арт. Fc18268</name>
       <price>138</price>
-      <qty>70</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eVd4a8MdNCh4HRJ9dzcTDxLETBcKsdCS</picture>
       <picture>https://lh3.googleusercontent.com/d/1w7-YlLjac41GyXNmBPH9cAD3aqOtzhTb</picture>
@@ -734,24 +716,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc05054</param>
       <consist name="Астильба" unit="шт">10</consist>
-    </offer>
-    <offer id="Fc01267" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Веддинг 70 см Арт. Fc01267</name>
-      <price>55</price>
-      <qty>75</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1FWN6OdYy5C6XHp1lArhGBY47TW2hBrUJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nIvZZIXzDrm0zk8wmKy88wLcI9ccQW8a</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Y6i4ziuWM_K2kdBB0p7IXfItwu-0aLBe</picture>
-      <picture>https://lh3.googleusercontent.com/d/1u5vuQpKhxo7PUyFrfgVrcZXhx6IsPb9d</picture>
-      <picture>https://lh3.googleusercontent.com/d/18IxpOcaImdIllYXpVqpfzKxIPJ9AI9P9</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Geoflora</param>
-      <param name="Артикул">Fc01267</param>
-      <consist name="Гвоздика одноголовая Веддинг" unit="шт">25</consist>
     </offer>
     <offer id="Fc01825" available="true">
       <categoryId>37</categoryId>
@@ -1126,25 +1090,11 @@
       <param name="Артикул">Fc01915</param>
       <consist name="Танацетум" unit="шт">25</consist>
     </offer>
-    <offer id="Fc20804" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Розовый 40 см Арт. Fc20804</name>
-      <price>69</price>
-      <qty>300</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/118KjdGjLyVs6mdKzXkqNfQq7DR5xEunz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ctH1Sfi0O2azeH1ARZdYRkDEw2orXgR_</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Fc20804</param>
-      <consist name="Тюльпан" unit="шт">50</consist>
-    </offer>
     <offer id="Fc04784" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Колумбус 40 см Арт. Fc04784</name>
       <price>71</price>
-      <qty>200</qty>
+      <qty>300</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mSVjoL2BBmmNfwfOCVjki1dT6dnFflvy</picture>
       <picture>https://lh3.googleusercontent.com/d/1GrhFYZeuqpMIdwplxQuHoO9B-UsCEaGa</picture>
@@ -1173,28 +1123,11 @@
       <param name="Артикул">Fc20734</param>
       <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
-    <offer id="Fc9624" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Дабл Прайс 40 см Арт. Fc9624</name>
-      <price>69</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1izrkrlTM2mh8rFv616w956RvADHfIH9m</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MZ8aKrVD5_hwUD-mZguOmXlullCoxdHS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1jsOBLjKBaLQvWO2wEDk1obTkaoS8KXgI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_Bc24VIme7xb6jkKvhYRZlQ4av4ECmUr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wlVjqXbv9kMIDzT-9I5E4FNMpWTBfP8G</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Fc9624</param>
-      <consist name="Тюльпан Пионовидный Дабл Прайс" unit="шт">50</consist>
-    </offer>
     <offer id="Fc20824" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Строуберри Крем 40 см Арт. Fc20824</name>
       <price>176</price>
-      <qty>200</qty>
+      <qty>180</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hVWxrrdQqByJ9pqphDkiGaTj-4Cg_jNd</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -1261,7 +1194,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Веддинг Пинк 60 см Арт. Fc5736</name>
       <price>253</price>
-      <qty>350</qty>
+      <qty>320</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qX5bUfX1QkYySUG7abFyAgmUEH712_1u</picture>
       <picture>https://lh3.googleusercontent.com/d/1nOB5Oxkf3sjt97MkC9mqTBRcwn7_W_Hd</picture>
@@ -1279,7 +1212,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Fc9476</name>
       <price>237</price>
-      <qty>700</qty>
+      <qty>650</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BG5UK1lLd5W9ZY7xnqRyjKRB0ZF5iZkh</picture>
       <picture>https://lh3.googleusercontent.com/d/1ZFnaE4SwyhTmbWZrBrOJJDt5PzsVP6zB</picture>
@@ -1349,7 +1282,7 @@
       <categoryId>38</categoryId>
       <name>Вибурнум Зеленый 70 см Арт. Fc04667</name>
       <price>363</price>
-      <qty>120</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1M8jlDtcgmRN7xzMCWndgz7fdsztOKpWQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1F31YBTS3rOwnGjn2hzX5etr-qiW3hOeA</picture>
