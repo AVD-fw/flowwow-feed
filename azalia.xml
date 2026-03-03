@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T11:13:46.262+03:00">
+<yml_catalog date="2026-03-03T11:21:23.566+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -63,22 +63,6 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az1696</param>
       <consist name="Роза одноголовая Аква" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4415" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Пакая 50 см Арт. Az4415</name>
-      <price>151</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1_lct_6bqu8ogdhLs35Fw3b2I2RwQxoym</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
-      <picture>https://lh3.googleusercontent.com/d/12mOdA1rcvVnaX6_U9f1QHc61GSF9gkCI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az4415</param>
-      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
     <offer id="Az4427" available="true">
       <categoryId>1</categoryId>
@@ -206,20 +190,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
-    </offer>
-    <offer id="Az5475" available="true">
-      <categoryId>37</categoryId>
-      <name>Антирринум Потомак Лавандер 50 см Арт. Az5475</name>
-      <price>286</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Q0zc5dXI0dKiKbi-XSbwabTK9GhnffyJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pTzsKvA65f1S7osLvH7aJu5gfqyby7Ya</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5475</param>
-      <consist name="Антирринум Потомак Лавандер" unit="шт">10</consist>
     </offer>
     <offer id="Az5415" available="true">
       <categoryId>37</categoryId>
@@ -354,6 +324,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az1435</param>
       <consist name="Маттиола Айрон Чери Блоссом" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>211</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     <offer id="Az5454" available="true">
       <categoryId>37</categoryId>
