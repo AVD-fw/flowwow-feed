@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T10:51:23.568+03:00">
+<yml_catalog date="2026-03-03T10:53:38.895+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -111,6 +111,39 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az5705</param>
       <consist name="Роза одноголовая Шангри Ла" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1674" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Крем Грация 40 см Арт. Az1674</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1LWapVc03eYA1T3qUtTfl90NNB8dA3Lai</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCbCUFwVM39ASJQsAqh3QTVDoJlSiAEr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_RlL_IL7xJunBsJMrV9wY1jT6lyEbvQo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uZFbpNhYF9ocBy0a5p6aZcSkAFbErHWg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C_4xIZOO-jffwT3pCCT-xTQJM_rdKzAQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1674</param>
+      <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1905" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Крем Грация 50 см Арт. Az1905</name>
+      <price>256</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11S2rvO0qvS2yeBxPnMDLJkS5iE2qsTSl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zCbCUFwVM39ASJQsAqh3QTVDoJlSiAEr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1905</param>
+      <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
     </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
