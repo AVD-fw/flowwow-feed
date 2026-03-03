@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T11:01:21.895+03:00">
+<yml_catalog date="2026-03-03T11:03:55.060+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 40 см Арт. Az5134</name>
       <price>136</price>
-      <qty>120</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Hnbo2DgGoxKL0tn2Hsiq07LDXPCE8ZUi</picture>
       <picture>https://lh3.googleusercontent.com/d/1sfnSHO5f6rEtYJXKYPYYpHqI1n1dtVMT</picture>
@@ -36,7 +36,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
       <price>151</price>
-      <qty>130</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-5UL_v1XCzRMbdXsRc4TQS_YXcMJOkU7</picture>
       <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
@@ -52,7 +52,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 60 см Арт. Az1696</name>
       <price>166</price>
-      <qty>110</qty>
+      <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JLIThuXDef5Hxh-a5TZiRPAs579HIexL</picture>
       <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
@@ -96,6 +96,20 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4547" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Софи Лорен 70 см Арт. Az4547</name>
+      <price>241</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1W6npdviC0Pro2Y8kB3BA497h3KlLcUNg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az4547</param>
+      <consist name="Роза одноголовая Софи Лорен" unit="шт">10</consist>
     </offer>
     <offer id="Az5705" available="true">
       <categoryId>1</categoryId>
@@ -192,6 +206,19 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5415" available="true">
+      <categoryId>37</categoryId>
+      <name>Астильба Поп Гардер 50 см Арт. Az5415</name>
+      <price>211</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Z7fc90DEUpHzNs0PHFouaHusrF9BqJJ1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az5415</param>
+      <consist name="Астильба Поп Гардер" unit="шт">10</consist>
     </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
