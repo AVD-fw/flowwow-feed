@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T20:49:45.365+03:00">
+<yml_catalog date="2026-03-03T20:53:49.773+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -229,24 +229,6 @@
       <param name="Артикул">Ef01595</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
-    <offer id="Ef2506" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алисса Лайт Пинк 60 см Арт. Ef2506</name>
-      <price>270</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/19GAKSYFelNafPR-wCil0b_EqeLeihIcj</picture>
-      <picture>https://lh3.googleusercontent.com/d/13noXFG-iaQMq3vXf7QCQbJRoh97uITUM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qEn-kCcEKEfTJacXJHTry-Xg7Qukuo70</picture>
-      <picture>https://lh3.googleusercontent.com/d/10vG74eoP9DdRUEyoO6ztyUsDtJhc4e27</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lS_cRzGFrNyPpJ7Z1EQmZu2mYHsEC3ZS</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">Ef2506</param>
-      <consist name="Эустома Алисса Лайт Пинк" unit="шт">10</consist>
-    </offer>
     <offer id="Ef2707" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Лисанне Лайт Пинк 70 см Арт. Ef2707</name>
@@ -264,24 +246,6 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Ef2707</param>
       <consist name="Эустома Лисанне Лайт Пинк" unit="шт">10</consist>
-    </offer>
-    <offer id="Ef00257" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Росита Вайт 70 см Арт. Ef00257</name>
-      <price>270</price>
-      <qty>110</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mxdvTlpSfZ2Jt5LcaHOiRskUZxsmJ__I</picture>
-      <picture>https://lh3.googleusercontent.com/d/17T_3u7PDwZB-xra6tCESvZhJ3l66vA3s</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GM1zNdKD51OtZOC6rLIauKTf08UYleV4</picture>
-      <picture>https://lh3.googleusercontent.com/d/17-VmSNgPaDepgMhsL52G7peXNhKt1xWr</picture>
-      <picture>https://lh3.googleusercontent.com/d/15_WY0HK92hSn0I0j2DdMKv8cVnLQFYrJ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Ef00257</param>
-      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
