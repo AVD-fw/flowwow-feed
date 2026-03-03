@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T11:21:23.566+03:00">
+<yml_catalog date="2026-03-03T11:23:59.077+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -157,27 +157,59 @@
       <param name="Артикул">Az1905</param>
       <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
     </offer>
-    <offer id="Az4295" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Лидия 50 см Арт. Az4295</name>
-      <price>256</price>
-      <qty>10</qty>
+    <offer id="Az2857" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум 70 см Арт. Az2857</name>
+      <price>361</price>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1wi-bIHvv8S_-xa6dXnLkeah2vLu6CmNi</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vCdldQHdpcaKjiLA6rIDhGN4xXsW0uw8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Jdu_uLIgvvmi-ULRZvE6jU88OmTdxKFL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aCcqnp8fJq7Vdxt-L9AODBWnnKSFRzUG</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az4295</param>
-      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2857</param>
+      <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4557" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Топспин Еллоу 70 см Арт. Az4557</name>
+      <price>301</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YhP31A68kyBSQkilPEoBBDrJiU-E22L7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IewIrY3MtnNwCvis6awsuSONaeWMe-PU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uv72xiqjdCcr2SXheZ2wwS83V7oalvqW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rny0fEbyOxy07QgOuz_KhZuNntaYLkoC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az4557</param>
+      <consist name="Хризантема одноголовая Топспин Еллоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3087" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Оптимист 70 см Арт. Az3087</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VFAtzrh2m4ou4tzn3kWSP2dpbF3u7G8j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qq4zjJBFFmvnZeAYyrhS6BEULKfa2KeY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1imcz6tDYkGV9OzZ04oRLni5XGT-6_VHT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QINynXZ-gBcHmAgh3gNNJxgxAS7SidXy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3087</param>
+      <consist name="Хризантема кустовая Оптимист" unit="шт">5</consist>
     </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
       <price>256</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
@@ -191,11 +223,25 @@
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
     </offer>
+    <offer id="Az5085" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Инь Янь 50 см Арт. Az5085</name>
+      <price>136</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zn1f5B02JdVJyFnYhZjELXIYV-kjRtLa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Van Helvoort Company</param>
+      <param name="Артикул">Az5085</param>
+      <consist name="Хризантема Сантини Инь Янь" unit="шт">25</consist>
+    </offer>
     <offer id="Az5415" available="true">
       <categoryId>37</categoryId>
       <name>Астильба Поп Гардер 50 см Арт. Az5415</name>
       <price>211</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Z7fc90DEUpHzNs0PHFouaHusrF9BqJJ1</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -233,6 +279,20 @@
       <param name="Артикул">Az5405</param>
       <consist name="Астранция Рома" unit="шт">10</consist>
     </offer>
+    <offer id="Az1507" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Коричневый 70 см Арт. Az1507</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1d_xozpP7rJ7LaauHrVi_c2HIujKsUp-8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Flores La Conejera</param>
+      <param name="Артикул">Az1507</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
+    </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
@@ -264,6 +324,36 @@
       <param name="Производитель">Flores La Conejera</param>
       <param name="Артикул">Az4737</param>
       <consist name="Гвоздика одноголовая Ред" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3186" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
+      <price>106</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ihakNa7QE3aZnBMMuABN-Nd89FIF-zXF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
+      <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3186</param>
+      <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3656" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
+      <price>76</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1o6z5Hi0V9Wuxm81adMncqC9OQza_Kwcg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Az4376" available="true">
       <categoryId>37</categoryId>
@@ -309,27 +399,11 @@
       <param name="Артикул">Az3336</param>
       <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
     </offer>
-    <offer id="Az1435" available="true">
-      <categoryId>37</categoryId>
-      <name>Маттиола Айрон Чери Блоссом 50 см Арт. Az1435</name>
-      <price>301</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1wt4RuuWshNitmhIYDEYiNOSdbIJz8gT3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JWw8tMTvsXWoSueVtg1KfJU5TSeXxsAg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KnBCl3u45LUjMjWMkZtgfsOWnb3Q-rQb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1eQ3Kvwq41gX11VwxUHKLxGUSvHItELhR</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1435</param>
-      <consist name="Маттиола Айрон Чери Блоссом" unit="шт">10</consist>
-    </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -351,20 +425,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az5454</param>
       <consist name="Тюльпан" unit="шт">50</consist>
-    </offer>
-    <offer id="Az4746" available="true">
-      <categoryId>37</categoryId>
-      <name>Эрингиум Супернова Кьюстар 60 см Арт. Az4746</name>
-      <price>271</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1NfMZAdLHLyTkmiaABLjkPqC-GeXKpqrG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Az4746</param>
-      <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
     </offer>
     <offer id="Az1388" available="true">
       <categoryId>38</categoryId>
