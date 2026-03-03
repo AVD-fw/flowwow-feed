@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T12:03:41.980+03:00">
+<yml_catalog date="2026-03-03T12:11:30.998+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -455,6 +455,47 @@
       <param name="Артикул">Az5454</param>
       <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
+    <offer id="Az5464" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Желтый 40 см Арт. Az5464</name>
+      <price>136</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1my3fcem2u_H7TvRSaqA-EiUrhjUuFdSO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Галантус</param>
+      <param name="Артикул">Az5464</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Az5604" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан 40 см Арт. Az5604</name>
+      <price>136</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17JV9CQEayKdI-sNbdQpD3a7G0026ox4M</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Галантус</param>
+      <param name="Артикул">Az5604</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4944" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Дабл Прайс 40 см Арт. Az4944</name>
+      <price>151</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kcCpcUY-trSphPtxbj3Iteb2IPFByE4_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az4944</param>
+      <consist name="Тюльпан Дабл Прайс" unit="шт">50</consist>
+    </offer>
     <offer id="Az5674" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный 40 см Арт. Az5674</name>
@@ -468,6 +509,19 @@
       <param name="Производитель">Галантус</param>
       <param name="Артикул">Az5674</param>
       <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
+    </offer>
+    <offer id="Az5964" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Квинсдей 40 см Арт. Az5964</name>
+      <price>151</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1WgATlQrDYkGd9v-NILJGFwAmg-gyqHtS</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az5964</param>
+      <consist name="Тюльпан Пионовидный Квинсдей" unit="шт">50</consist>
     </offer>
     <offer id="Az1388" available="true">
       <categoryId>38</categoryId>
