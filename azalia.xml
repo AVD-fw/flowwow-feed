@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T11:53:41.646+03:00">
+<yml_catalog date="2026-03-03T12:03:41.980+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -156,6 +156,20 @@
       <param name="Артикул">Az2857</param>
       <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
     </offer>
+    <offer id="Az2847" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
+      <price>331</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2847</param>
+      <consist name="Хризантема одноголовая Магнум Еллоу" unit="шт">10</consist>
+    </offer>
     <offer id="Az4557" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Топспин Еллоу 70 см Арт. Az4557</name>
@@ -221,6 +235,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4487" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1noVrJqtvRB_CK2QkbuJmOG1i9J9NkCof</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zOi2sdxnFc1ccFJNtOouAeSU2_wUQYAg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KYYZwxN4KhFjyEcZK-om3Rkoz-7y28pr</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4487</param>
+      <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
     </offer>
     <offer id="Az5085" available="true">
       <categoryId>7</categoryId>
@@ -424,6 +454,20 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az5454</param>
       <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Az5674" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный 40 см Арт. Az5674</name>
+      <price>166</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fZFjdVXasdQ-5ZScNKmbF44cUKR3D5PH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Галантус</param>
+      <param name="Артикул">Az5674</param>
+      <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
     <offer id="Az1388" available="true">
       <categoryId>38</categoryId>
