@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T10:43:45.445+03:00">
+<yml_catalog date="2026-03-03T10:51:23.568+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -64,6 +64,22 @@
       <param name="Артикул">Az1696</param>
       <consist name="Роза одноголовая Аква" unit="шт">10</consist>
     </offer>
+    <offer id="Az4415" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пакая 50 см Арт. Az4415</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_lct_6bqu8ogdhLs35Fw3b2I2RwQxoym</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
+      <picture>https://lh3.googleusercontent.com/d/12mOdA1rcvVnaX6_U9f1QHc61GSF9gkCI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4415</param>
+      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
     <offer id="Az4427" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пакая 70 см Арт. Az4427</name>
@@ -80,6 +96,21 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az5705" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Шангри Ла 50 см Арт. Az5705</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1eTOUqVYZpQodsDuvTnzNm54FKoxH8gUs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HVmrGSsUHvOZKYR4aAhJvzYsiQU81eTx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az5705</param>
+      <consist name="Роза одноголовая Шангри Ла" unit="шт">10</consist>
     </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
