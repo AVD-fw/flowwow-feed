@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T12:19:52.335+03:00">
+<yml_catalog date="2026-03-03T12:23:44.546+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -34,6 +34,24 @@
       <param name="Производитель">Lugt Lisianthus</param>
       <param name="Артикул">Ef2506</param>
       <consist name="Эустома Алисса Лайт Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Ef2707" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Лисанне Лайт Пинк 70 см Арт. Ef2707</name>
+      <price>263</price>
+      <qty>120</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OR9W-57O58g4lQhDCThmpkdrr_TusOj5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e3frHglOsAhBDqjR4B2jtPqd_daYzUx2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xtZS85O-55RC5ce6u4gDbtYeg3WcKO7Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tR1IyjNhYwUX-UI22ggJbSEbMlytgpoP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PiNd9gHldHFuYa8RYYkYur2rUPClOcvB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Ef2707</param>
+      <consist name="Эустома Лисанне Лайт Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
