@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T10:53:38.895+03:00">
+<yml_catalog date="2026-03-03T11:01:21.895+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -112,6 +112,20 @@
       <param name="Артикул">Az5705</param>
       <consist name="Роза одноголовая Шангри Ла" unit="шт">10</consist>
     </offer>
+    <offer id="Az1664" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Грация 40 см Арт. Az1664</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MGx5IFCABs2DqLWTOtGA93GPJM-CHcO2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1664</param>
+      <consist name="Роза кустовая Грация" unit="шт">10</consist>
+    </offer>
     <offer id="Az1674" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Крем Грация 40 см Арт. Az1674</name>
@@ -145,6 +159,22 @@
       <param name="Артикул">Az1905</param>
       <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
     </offer>
+    <offer id="Az4295" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лидия 50 см Арт. Az4295</name>
+      <price>256</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wi-bIHvv8S_-xa6dXnLkeah2vLu6CmNi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vCdldQHdpcaKjiLA6rIDhGN4xXsW0uw8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jdu_uLIgvvmi-ULRZvE6jU88OmTdxKFL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4295</param>
+      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
+    </offer>
     <offer id="Az3027" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
@@ -167,7 +197,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
       <price>106</price>
-      <qty>280</qty>
+      <qty>240</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XS3LrQDzRK-vCye6CP4YW0nugd-J4Zlm</picture>
       <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
@@ -183,7 +213,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
       <price>83</price>
-      <qty>250</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16iOIRz9kiDLJox1md5OkAR2xSkim1Rd_</picture>
       <picture>https://lh3.googleusercontent.com/d/1TMSotvBry5sPbaaZzphbCMmTq-ZRNEek</picture>
