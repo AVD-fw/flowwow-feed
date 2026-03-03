@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T06:33:52.696+03:00">
+<yml_catalog date="2026-03-03T06:41:19.131+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az5134" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 40 см Арт. Az5134</name>
+      <price>136</price>
+      <qty>120</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Hnbo2DgGoxKL0tn2Hsiq07LDXPCE8ZUi</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sfnSHO5f6rEtYJXKYPYYpHqI1n1dtVMT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az5134</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
     <offer id="Az1685" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
@@ -65,6 +80,24 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3027" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
+      <price>256</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tbG6uF8HR3qCwCihiZI3c01u79nYN8ij</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jtq5edDbkf7fjCVLC9605eSLLssAO0J5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qo7lPUGin1vOYcFPtqFmqQVd6DnbaCRe</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3027</param>
+      <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
     </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
@@ -127,6 +160,19 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3336</param>
       <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az5454" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Желтый 40 см Арт. Az5454</name>
+      <price>121</price>
+      <qty>1300</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1si3O69V9lT8A4LvoZeYA0y1qjLNaHkm-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az5454</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
