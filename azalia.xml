@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03T12:14:04.537+03:00">
+<yml_catalog date="2026-03-03T12:21:35.374+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -81,6 +81,36 @@
       <param name="Артикул">Az4427</param>
       <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
     </offer>
+    <offer id="Az4466" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пакая 60 см Арт. Az4466</name>
+      <price>181</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mPrqjhNpvYnjiTX6JBRtPN8wbVC-DOdr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4466</param>
+      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2525" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 50 см Арт. Az2525</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RhPdz_oZqE2Yp_RTOCJMhZ7rjLBr1ts1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zm15ttWtqNEoPj-flm_ViOU_bx_SYWfI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az2525</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
+    </offer>
     <offer id="Az4547" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Софи Лорен 70 см Арт. Az4547</name>
@@ -94,6 +124,21 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az4547</param>
       <consist name="Роза одноголовая Софи Лорен" unit="шт">10</consist>
+    </offer>
+    <offer id="Az5934" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Эльторо 40 см Арт. Az5934</name>
+      <price>151</price>
+      <qty>400</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1S3y6pduMtfKOrxZqgPdLT5loTu9c3Qaj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ztZ6ivQfs6JKfyDJRgzVngZx6q4bQ8yh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az5934</param>
+      <consist name="Роза одноголовая Эльторо" unit="шт">10</consist>
     </offer>
     <offer id="Az1664" available="true">
       <categoryId>3</categoryId>
@@ -141,6 +186,20 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az1905</param>
       <consist name="Роза кустовая Крем Грация" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6014" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лидия 40 см Арт. Az6014</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wi-bIHvv8S_-xa6dXnLkeah2vLu6CmNi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az6014</param>
+      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
     </offer>
     <offer id="Az2857" available="true">
       <categoryId>5</categoryId>
