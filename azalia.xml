@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-04T06:43:34.999+03:00">
+<yml_catalog date="2026-03-04T06:51:18.910+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,69 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az1685" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
+      <price>151</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1-5UL_v1XCzRMbdXsRc4TQS_YXcMJOkU7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vQAeGrBgQJvEWSq3eMQ8OalhIt7ut_6f</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1685</param>
+      <consist name="Роза одноголовая Аква" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1696" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аква 60 см Арт. Az1696</name>
+      <price>166</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JLIThuXDef5Hxh-a5TZiRPAs579HIexL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EM5r1t7j04sN1sv4URkNKlyrQhwDXbPn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1696</param>
+      <consist name="Роза одноголовая Аква" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4427" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пакая 70 см Арт. Az4427</name>
+      <price>196</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aRq4WtW00OPq2EqeHJSuW71JW6j8svOh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lOdAcmjtGTfZNi4QZOOVfvB5h96ZVIev</picture>
+      <picture>https://lh3.googleusercontent.com/d/18lAZWbCfU3WMMNSdgdI1OLB-DxBflNP1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4427</param>
+      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6014" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Лидия 40 см Арт. Az6014</name>
+      <price>226</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wi-bIHvv8S_-xa6dXnLkeah2vLu6CmNi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az6014</param>
+      <consist name="Роза кустовая Лидия" unit="шт">10</consist>
+    </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
