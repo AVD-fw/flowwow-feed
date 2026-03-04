@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-04T14:05:50.950+03:00">
+<yml_catalog date="2026-03-04T14:15:35.646+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -21,7 +21,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Саммер Денс 90 см Арт. Fc19469</name>
       <price>259</price>
-      <qty>260</qty>
+      <qty>360</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/10oLYt_-xJZkupfYsPYU5AuCN-idvEtGw</picture>
       <picture>https://lh3.googleusercontent.com/d/1_zSGqjcbPu8maH5Yw5ucUci1h0LlitgT</picture>
@@ -35,29 +35,11 @@
       <param name="Артикул">Fc19469</param>
       <consist name="Роза кустовая Саммер Денс" unit="шт">10</consist>
     </offer>
-    <offer id="Fc12648" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Леди Бомбастик 80 см Арт. Fc12648</name>
-      <price>275</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1PIJUes93kSPHlEAT3wRN-V9Ddaif126p</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rIU0_iLVldNARB6Gvr_ezuYAqpr971TF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GmKXkhXXVEYpHH2eCgiGmP0vAirdFlga</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SoclOqpQD-p37g2CcsiYI_7M3Pac3mtk</picture>
-      <picture>https://lh3.googleusercontent.com/d/1498L4zyNZdghF-LC-2m_5WmYBvDiINli</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">Армения</param>
-      <param name="Производитель">Rose Art</param>
-      <param name="Артикул">Fc12648</param>
-      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
-    </offer>
     <offer id="Fc01317" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Алемани 70 см Арт. Fc01317</name>
       <price>165</price>
-      <qty>60</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12a0v6Hp5MFg_ryp45qmsLXDoa8pWnLXL</picture>
       <picture>https://lh3.googleusercontent.com/d/1TSgKK8If32RzbKbDqpJr99cIkIDb0fBU</picture>
@@ -358,24 +340,6 @@
       <param name="Артикул">Fc20366</param>
       <consist name="Озотамнус Белый" unit="шт">25</consist>
     </offer>
-    <offer id="Fc04855" available="true">
-      <categoryId>37</categoryId>
-      <name>Оксипеталум Голубой 50 см Арт. Fc04855</name>
-      <price>154</price>
-      <qty>150</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ZwBnk_fqSSAQOl1IurzPve-__D8QbalF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1n70T4LwQTCJ_WPIGJ6OyKdUXnRD7yocp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1l26XryKb_1HYBRhKa2Ual9bWnSmNvgnp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bH68Qm-WA7phQLekDPm1slXkKdu-ckr7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1evfZdq6S1k3fNzmW3IHySmtXpfx6LKQ8</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Израиль</param>
-      <param name="Производитель">Neeman</param>
-      <param name="Артикул">Fc04855</param>
-      <consist name="Оксипеталум" unit="шт">25</consist>
-    </offer>
     <offer id="Fc16866" available="true">
       <categoryId>37</categoryId>
       <name>Сирень Розовый 60 см Арт. Fc16866</name>
@@ -391,23 +355,6 @@
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc16866</param>
-      <consist name="Сирень" unit="шт">10</consist>
-    </offer>
-    <offer id="Fc18686" available="true">
-      <categoryId>37</categoryId>
-      <name>Сирень Белый 60 см Арт. Fc18686</name>
-      <price>528</price>
-      <qty>50</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1gIBf3OluIOG2lK1KroEZsGW6dR88tymc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KvSwYB0ICLWr8hVolP-DH4ytP4SQjPXz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zMwKdYNvPJuxYBqihCUidT29jEdsMan_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1io1N3pFeDDi30HgjevKTJNaxozbOloQr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1QZ3Qy_tVyB6TCTDKXEHlEBzGKycJBihI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Fc18686</param>
       <consist name="Сирень" unit="шт">10</consist>
     </offer>
     <offer id="Fc04784" available="true">
@@ -458,11 +405,24 @@
       <param name="Артикул">Fc20814</param>
       <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
     </offer>
+    <offer id="Fc20824" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Строуберри Крем 40 см Арт. Fc20824</name>
+      <price>176</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hVWxrrdQqByJ9pqphDkiGaTj-4Cg_jNd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc20824</param>
+      <consist name="Тюльпан Пионовидный Строуберри Крем" unit="шт">10</consist>
+    </offer>
     <offer id="Fc9476" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Fc9476</name>
       <price>237</price>
-      <qty>550</qty>
+      <qty>400</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Gx1xYK5M3YPA1i8Q9mfCQ8d97GEbiNYa</picture>
       <picture>https://lh3.googleusercontent.com/d/1GgLy5Y-RGS5iz1jAAmOm02fCCz9J6Ruz</picture>
