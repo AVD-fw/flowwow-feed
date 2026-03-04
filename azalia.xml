@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-04T06:41:15.984+03:00">
+<yml_catalog date="2026-03-04T06:43:34.999+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -78,6 +78,22 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3656</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3586" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
+      <price>226</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az3586</param>
+      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
     </offer>
     <offer id="Az5674" available="true">
       <categoryId>37</categoryId>
