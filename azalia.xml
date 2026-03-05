@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05T05:53:33.564+03:00">
+<yml_catalog date="2026-03-05T06:01:28.992+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 40 см Арт. Az5134</name>
       <price>136</price>
-      <qty>70</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Hnbo2DgGoxKL0tn2Hsiq07LDXPCE8ZUi</picture>
       <picture>https://lh3.googleusercontent.com/d/1sfnSHO5f6rEtYJXKYPYYpHqI1n1dtVMT</picture>
@@ -100,7 +100,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Эльторо 40 см Арт. Az5934</name>
       <price>151</price>
-      <qty>350</qty>
+      <qty>270</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1S3y6pduMtfKOrxZqgPdLT5loTu9c3Qaj</picture>
       <picture>https://lh3.googleusercontent.com/d/1ztZ6ivQfs6JKfyDJRgzVngZx6q4bQ8yh</picture>
@@ -211,7 +211,7 @@
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>40</qty>
+      <qty>35</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -225,7 +225,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Желтый 40 см Арт. Az5454</name>
       <price>121</price>
-      <qty>500</qty>
+      <qty>550</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1si3O69V9lT8A4LvoZeYA0y1qjLNaHkm-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
@@ -248,20 +248,6 @@
       <param name="Артикул">Az5464</param>
       <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
-    <offer id="Az5594" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан 40 см Арт. Az5594</name>
-      <price>136</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ycmk0_fKCLl5n4uqPzFp7yuaVHHtkPcl</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Галантус</param>
-      <param name="Артикул">Az5594</param>
-      <consist name="Тюльпан" unit="шт">50</consist>
-    </offer>
     <offer id="Az5604" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан 40 см Арт. Az5604</name>
@@ -280,7 +266,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан 40 см Арт. Az5664</name>
       <price>136</price>
-      <qty>100</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cyfQCV8arqt0VrROSqsBi3W0s1Yn2J5G</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
@@ -318,24 +304,11 @@
       <param name="Артикул">Az5674</param>
       <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
-    <offer id="Az5584" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Адоре 40 см Арт. Az5584</name>
-      <price>166</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1adxVkfO_WDdCXGE7CCwSDenmLTAEIJdN</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az5584</param>
-      <consist name="Тюльпан Пионовидный Адоре" unit="шт">50</consist>
-    </offer>
     <offer id="Az3134" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Галилео 40 см Арт. Az3134</name>
       <price>196</price>
-      <qty>100</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1RXJQdEhlMoSIMzh2ZwDSlw0Dp-VXOshs</picture>
       <picture>https://lh3.googleusercontent.com/d/1SToc9LRTXN36mR0pAewINrMgBclFO5nH</picture>
@@ -358,19 +331,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5964</param>
       <consist name="Тюльпан Пионовидный Квинсдей" unit="шт">50</consist>
-    </offer>
-    <offer id="Az5494" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Ковенри 40 см Арт. Az5494</name>
-      <price>211</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1f_Ual7n6SSvQTKhUKA02vgFE3R2s2Ehi</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az5494</param>
-      <consist name="Тюльпан Пионовидный Ковенри" unit="шт">50</consist>
     </offer>
     <offer id="Az5974" available="true">
       <categoryId>37</categoryId>
@@ -399,21 +359,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az4354</param>
       <consist name="Тюльпан Пионовидный Софт Прайс" unit="шт">50</consist>
-    </offer>
-    <offer id="Az4084" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Элисон Бредли 40 см Арт. Az4084</name>
-      <price>166</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1FNMJSNBQFsSDkYlSwH53GRVkoGxBE-Oc</picture>
-      <picture>https://lh3.googleusercontent.com/d/1WjyvtI0oAhdbJxBUewnXEa3wrD8ilr63</picture>
-      <picture>https://lh3.googleusercontent.com/d/1WZ7fABZcHhMR2C1YPmVsA3Cv-3O7D1O7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az4084</param>
-      <consist name="Тюльпан Пионовидный Элисон Бредли" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
