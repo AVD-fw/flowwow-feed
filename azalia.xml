@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05T15:43:37.912+03:00">
+<yml_catalog date="2026-03-05T15:51:23.995+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,39 +32,6 @@
       <param name="Артикул">Az5134</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
     </offer>
-    <offer id="Az1685" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аква 50 см Арт. Az1685</name>
-      <price>151</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1-5UL_v1XCzRMbdXsRc4TQS_YXcMJOkU7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KtvWaureI2g7_PeJQmX1as4GCbi2RyVp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vQAeGrBgQJvEWSq3eMQ8OalhIt7ut_6f</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az1685</param>
-      <consist name="Роза одноголовая Аква" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4427" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Пакая 70 см Арт. Az4427</name>
-      <price>196</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1aRq4WtW00OPq2EqeHJSuW71JW6j8svOh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RqFjsrjYMNMN-mCANw5n0ox1scNl6FG_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lOdAcmjtGTfZNi4QZOOVfvB5h96ZVIev</picture>
-      <picture>https://lh3.googleusercontent.com/d/18lAZWbCfU3WMMNSdgdI1OLB-DxBflNP1</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az4427</param>
-      <consist name="Роза одноголовая Пакая" unit="шт">10</consist>
-    </offer>
     <offer id="Az5934" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Эльторо 40 см Арт. Az5934</name>
@@ -84,7 +51,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
       <price>256</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
@@ -180,7 +147,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Желтый 40 см Арт. Az5454</name>
       <price>121</price>
-      <qty>750</qty>
+      <qty>400</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1si3O69V9lT8A4LvoZeYA0y1qjLNaHkm-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
@@ -201,20 +168,6 @@
       <param name="Страна">уточняется</param>
       <param name="Производитель">Галантус</param>
       <param name="Артикул">Az5464</param>
-      <consist name="Тюльпан" unit="шт">50</consist>
-    </offer>
-    <offer id="Az5604" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан 40 см Арт. Az5604</name>
-      <price>136</price>
-      <qty>100</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/17JV9CQEayKdI-sNbdQpD3a7G0026ox4M</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Галантус</param>
-      <param name="Артикул">Az5604</param>
       <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
     <offer id="Az6054" available="true">
@@ -244,21 +197,6 @@
       <param name="Производитель">Галантус</param>
       <param name="Артикул">Az5674</param>
       <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
-    </offer>
-    <offer id="Az3134" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Галилео 40 см Арт. Az3134</name>
-      <price>196</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RXJQdEhlMoSIMzh2ZwDSlw0Dp-VXOshs</picture>
-      <picture>https://lh3.googleusercontent.com/d/1SToc9LRTXN36mR0pAewINrMgBclFO5nH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ften_fr25hr6lCO0yofPVcR8ZAWlEpMe</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az3134</param>
-      <consist name="Тюльпан Пионовидный Галилео" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
