@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05T05:59:39.733+03:00">
+<yml_catalog date="2026-03-05T09:53:42.732+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ef2866</name>
       <price>188</price>
-      <qty>50</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vyKwR8NnN0y8E9UFDLKzexLOg-xRz4J4</picture>
       <picture>https://lh3.googleusercontent.com/d/1l9f_6KTu8jCKvo0biX4TuGlJvWPU_2PE</picture>
@@ -39,7 +39,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер 60 см Арт. Ef2836</name>
       <price>152</price>
-      <qty>20</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vmExB6mKF-EbVlPn3CG20EySwZublDkJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1J36uZwCxGPqc82U40gpJ77eLy0-4XuUM</picture>
@@ -50,24 +50,6 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Ef2836</param>
       <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
-    </offer>
-    <offer id="Ef00886" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Ньютон 60 см Арт. Ef00886</name>
-      <price>152</price>
-      <qty>25</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1hYziIsehH4gP3sgut-TlRlj559HPwD2L</picture>
-      <picture>https://lh3.googleusercontent.com/d/13VX6NUbyrpiT7xtu7UwEHCapxckVAdpN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Et4Y1x27ZyR6aYD3QApLTjRBm0dYDc43</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wKLar9UrBMqRFpxx_li1Sk1P9k1cl9Bg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zyU8UBl3kyo7jHOIu4f7c_f1Zgv6F2BN</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ef00886</param>
-      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
     </offer>
     <offer id="Ef3797" available="true">
       <categoryId>6</categoryId>
@@ -105,28 +87,11 @@
       <param name="Артикул">Ef00547</param>
       <consist name="Гипсофила" unit="шт">25</consist>
     </offer>
-    <offer id="Ef01595" available="true">
-      <categoryId>37</categoryId>
-      <name>Маттиола Белый 50 см Арт. Ef01595</name>
-      <price>180</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xxRGweMHDb6njQvpATzrEVux0saFfy27</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_Ir298fe9xwOBr2_VoLqlyA8iCb_zLG3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1us-VrroqxHIzGIodwr0WkWxfhHXIHIYE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CT15eSzcEMfxefDBXI3DspXGwYl39N64</picture>
-      <picture>https://lh3.googleusercontent.com/d/1IMfpid5o0zyFnA9Yu3KCjWq0Ax7ry_oM</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Ef01595</param>
-      <consist name="Маттиола" unit="шт">10</consist>
-    </offer>
     <offer id="Ef2707" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Лисанне Лайт Пинк 70 см Арт. Ef2707</name>
       <price>270</price>
-      <qty>50</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1OR9W-57O58g4lQhDCThmpkdrr_TusOj5</picture>
       <picture>https://lh3.googleusercontent.com/d/1e3frHglOsAhBDqjR4B2jtPqd_daYzUx2</picture>
