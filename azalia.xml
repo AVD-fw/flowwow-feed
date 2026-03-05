@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05T11:01:19.982+03:00">
+<yml_catalog date="2026-03-05T11:03:34.447+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -304,19 +304,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az3134</param>
       <consist name="Тюльпан Пионовидный Галилео" unit="шт">50</consist>
-    </offer>
-    <offer id="Az5964" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Квинсдей 40 см Арт. Az5964</name>
-      <price>166</price>
-      <qty>100</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1WgATlQrDYkGd9v-NILJGFwAmg-gyqHtS</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5964</param>
-      <consist name="Тюльпан Пионовидный Квинсдей" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
