@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T10:03:37.483+03:00">
+<yml_catalog date="2026-03-06T10:11:24.010+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -164,7 +164,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
       <price>106</price>
-      <qty>40</qty>
+      <qty>20</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wJm81sKK9Myt_XGncNvd4EBuDI9AveL2</picture>
       <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
@@ -193,27 +193,11 @@
       <param name="Артикул">Az3767</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
-    <offer id="Az3777" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Грин Трик 70 см Арт. Az3777</name>
-      <price>166</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EGI4YQyLrOikQwI_tjviQMbcSjY54ViF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NzOrEPXpgq-2LURNs7YxGr7ZQ0XhPmHH</picture>
-      <picture>https://lh3.googleusercontent.com/d/10dJR54ywAQhBtJ5KoM6rB2dg8r4zTQ2b</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rEK-cZkf_hJ3Pmgr21pCtSX-uS0fDqVQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Китай</param>
-      <param name="Артикул">Az3777</param>
-      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
-    </offer>
     <offer id="Az1487" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мунлайт 70 см Арт. Az1487</name>
       <price>106</price>
-      <qty>25</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Gt-t2397531XSynukiSDbvD_QHzQT7Rz</picture>
       <picture>https://lh3.googleusercontent.com/d/1UIDzWDYJZEUTAqqq6rScmOtqNHuDwVic</picture>
@@ -248,7 +232,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>106</price>
-      <qty>125</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ihakNa7QE3aZnBMMuABN-Nd89FIF-zXF</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
@@ -273,22 +257,6 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3656</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
-    </offer>
-    <offer id="Az1435" available="true">
-      <categoryId>37</categoryId>
-      <name>Маттиола Айрон Чери Блоссом 50 см Арт. Az1435</name>
-      <price>301</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1wt4RuuWshNitmhIYDEYiNOSdbIJz8gT3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JWw8tMTvsXWoSueVtg1KfJU5TSeXxsAg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KnBCl3u45LUjMjWMkZtgfsOWnb3Q-rQb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1eQ3Kvwq41gX11VwxUHKLxGUSvHItELhR</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1435</param>
-      <consist name="Маттиола Айрон Чери Блоссом" unit="шт">10</consist>
     </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
