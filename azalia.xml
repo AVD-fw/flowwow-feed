@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T09:23:34.700+03:00">
+<yml_catalog date="2026-03-06T09:31:19.380+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -105,10 +105,11 @@
       <price>106</price>
       <qty>40</qty>
       <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XS3LrQDzRK-vCye6CP4YW0nugd-J4Zlm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wJm81sKK9Myt_XGncNvd4EBuDI9AveL2</picture>
       <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
       <picture>https://lh3.googleusercontent.com/d/10WXf3aZ3V47IuacZyQaj7vH5Xlrf6coF</picture>
       <picture>https://lh3.googleusercontent.com/d/1ahmDYskh59O0TovXWjgzKYnzs61VmLDl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XS3LrQDzRK-vCye6CP4YW0nugd-J4Zlm</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Китай</param>
@@ -160,6 +161,22 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3656</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az1435" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Айрон Чери Блоссом 50 см Арт. Az1435</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wt4RuuWshNitmhIYDEYiNOSdbIJz8gT3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JWw8tMTvsXWoSueVtg1KfJU5TSeXxsAg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KnBCl3u45LUjMjWMkZtgfsOWnb3Q-rQb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eQ3Kvwq41gX11VwxUHKLxGUSvHItELhR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1435</param>
+      <consist name="Маттиола Айрон Чери Блоссом" unit="шт">10</consist>
     </offer>
     <offer id="Az5454" available="true">
       <categoryId>37</categoryId>
