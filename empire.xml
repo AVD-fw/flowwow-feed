@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T07:44:14.718+03:00">
+<yml_catalog date="2026-03-06T07:53:50.722+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -35,6 +35,24 @@
       <param name="Артикул">Ef2866</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Ef00916" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Делигрин 60 см Арт. Ef00916</name>
+      <price>152</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bcDtrUiXz34YVUszatnFPG1PmCBMbjjf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yjzwKOO649t12EghqjSmWGVZT5nWV4OC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aTGhR-tGqRG3QU_iJ1eSC76nD_B23bbt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oSrkTXVXbcrwceFzhakXJQGSAkAc2GCC</picture>
+      <picture>https://lh3.googleusercontent.com/d/14FVHL8qsSi6SrJ24ehiNSgFXMvsgcwHf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef00916</param>
+      <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
+    </offer>
     <offer id="Ef2807" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер 70 см Арт. Ef2807</name>
@@ -69,6 +87,23 @@
       <param name="Артикул">Ef2836</param>
       <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
     </offer>
+    <offer id="Ef4687" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер Пинк 70 см Арт. Ef4687</name>
+      <price>152</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1skYo_F9XApl_wBuxifsTeZgBehnchk2S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ICRa2xf9LMszova2TgUv1kLOHrXiqqTM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ogC3bmLg4d7PV_QLTCPODI1e9aZDsZ82</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zP9kUTA-9iN6Sbl7HplSLbt6PZn4uyyp</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Ef4687</param>
+      <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
+    </offer>
     <offer id="Ef3797" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Хайдар 70 см Арт. Ef3797</name>
@@ -102,6 +137,42 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Ef2897</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef4285" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Санни 55 см Арт. Ef4285</name>
+      <price>114</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1UatWFwgKN6oh6jQ4KmQaMhISQa6Zr-qo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nhKqQKlTNpF6R2oA9LGBG_TIwvHU9wCT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NSVhuKdJ79cmtpBtHetM870n61rNcZ0U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v1bdgGxt_ZhEfQn0nmtk8gNDbFEiwEO-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RijYJlfeI3mLH0RIQPUY_jUmYvEQYKZo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef4285</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
+    <offer id="Ef3376" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Красный 60 см Арт. Ef3376</name>
+      <price>108</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14rGMrMigbABH28zDfpDLVnKcjz8AG57Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lxSbSZ3mNOFdGfes-meIIEgx9eor2MoN</picture>
+      <picture>https://lh3.googleusercontent.com/d/11OQAJeUWK95ialjl28d7C4QmNmP0KAEx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aevSrEU78Y5unLXh391g_RLnHl5CBlY8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XL3snPPzUI94avFXCF_bLFd3Zg5ptqoU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Tajik flowers</param>
+      <param name="Артикул">Ef3376</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="Ef2707" available="true">
       <categoryId>37</categoryId>
