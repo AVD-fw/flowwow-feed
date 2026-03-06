@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T09:53:34.308+03:00">
+<yml_catalog date="2026-03-06T10:01:24.701+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -88,11 +88,11 @@
       <price>241</price>
       <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
+      <picture>https://lh3.googleusercontent.com/d/174NH2acTqcLhSPcbYOF55LWYztbn3Ogc</picture>
       <picture>https://lh3.googleusercontent.com/d/1tbG6uF8HR3qCwCihiZI3c01u79nYN8ij</picture>
       <picture>https://lh3.googleusercontent.com/d/1jtq5edDbkf7fjCVLC9605eSLLssAO0J5</picture>
       <picture>https://lh3.googleusercontent.com/d/1Qo7lPUGin1vOYcFPtqFmqQVd6DnbaCRe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
@@ -135,7 +135,7 @@
       <categoryId>37</categoryId>
       <name>Антирринум Потомак Лавандер 50 см Арт. Az5475</name>
       <price>256</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Q0zc5dXI0dKiKbi-XSbwabTK9GhnffyJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1pTzsKvA65f1S7osLvH7aJu5gfqyby7Ya</picture>
@@ -144,6 +144,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5475</param>
       <consist name="Антирринум Потомак Лавандер" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4005" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
+      <price>91</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pup_eu9T5MJLUmeb4l1XmxOJFKOjlcSo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vxkHe8IPJUwqImv5MSqgg3XdzbQ76FB6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Geoflora</param>
+      <param name="Артикул">Az4005</param>
+      <consist name="Гвоздика кустовая Теа" unit="шт">10</consist>
     </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
@@ -162,6 +177,22 @@
       <param name="Артикул">Az1595</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
+    <offer id="Az3767" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Розовый 70 см Арт. Az3767</name>
+      <price>106</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kKAQoETR5zZDRA_h6z7AutpYimvxJciP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gPQ3YERt4_KyS89z5Py1flpkUMrQ_YGP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jGB-Pcve-2LemwoTVCH0okybXApNk4Qr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MRb6NyZQtRpP_YA4hpu49hfEK2Cdb9d8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3767</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
     <offer id="Az3777" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Грин Трик 70 см Арт. Az3777</name>
@@ -178,15 +209,34 @@
       <param name="Артикул">Az3777</param>
       <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
     </offer>
+    <offer id="Az1487" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Мунлайт 70 см Арт. Az1487</name>
+      <price>106</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Gt-t2397531XSynukiSDbvD_QHzQT7Rz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UIDzWDYJZEUTAqqq6rScmOtqNHuDwVic</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dqvGmcFamPJbeqqZ3Xz2svRWuYocp8-j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zcpBxZCaYIdGoXbqsm3a2Ja_U2LCwe-Y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IMdK0M91qjP-Mm7vyPNRbJm2jyZ73l5M</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Florigeni Suntory</param>
+      <param name="Артикул">Az1487</param>
+      <consist name="Гвоздика одноголовая Мунлайт" unit="шт">25</consist>
+    </offer>
     <offer id="Az4737" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
       <price>83</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/16iOIRz9kiDLJox1md5OkAR2xSkim1Rd_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PyIoHvMbWU45EGG4ZqfvT-PYOF_VLP5-</picture>
       <picture>https://lh3.googleusercontent.com/d/1TMSotvBry5sPbaaZzphbCMmTq-ZRNEek</picture>
       <picture>https://lh3.googleusercontent.com/d/1pDOupW3HXsezU-jJcEHBCWcoB4_F-PA7</picture>
+      <picture>https://lh3.googleusercontent.com/d/16iOIRz9kiDLJox1md5OkAR2xSkim1Rd_</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Колумбия</param>
@@ -261,6 +311,7 @@
       <price>121</price>
       <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Jg8QaNJbYOAfSoJfxWJKujnwNvtMGgaB</picture>
       <picture>https://lh3.googleusercontent.com/d/1si3O69V9lT8A4LvoZeYA0y1qjLNaHkm-</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
@@ -274,6 +325,7 @@
       <price>136</price>
       <qty>500</qty>
       <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/183uPVAdzfhRK62FILzpSFRK3g4snLW22</picture>
       <picture>https://lh3.googleusercontent.com/d/1my3fcem2u_H7TvRSaqA-EiUrhjUuFdSO</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
@@ -286,7 +338,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан 40 см Арт. Az6054</name>
       <price>136</price>
-      <qty>50</qty>
+      <qty>500</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WaFjUBthtkZmhYqNdorvpxktLvv8at9i</picture>
       <picture>https://lh3.googleusercontent.com/d/1GBbSvMVolkUfvZPd-PWugYrOYVqSo8Wh</picture>
