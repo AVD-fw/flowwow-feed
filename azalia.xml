@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T15:03:43.035+03:00">
+<yml_catalog date="2026-03-06T15:12:16.787+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Эльторо 40 см Арт. Az5934</name>
       <price>151</price>
-      <qty>140</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VfWNdKHoSvGbEL5_CUEHY0L0qU9-jHMq</picture>
       <picture>https://lh3.googleusercontent.com/d/1ztZ6ivQfs6JKfyDJRgzVngZx6q4bQ8yh</picture>
@@ -118,7 +118,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика кустовая Теа 50 см Арт. Az4005</name>
       <price>91</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pup_eu9T5MJLUmeb4l1XmxOJFKOjlcSo</picture>
       <picture>https://lh3.googleusercontent.com/d/1vxkHe8IPJUwqImv5MSqgg3XdzbQ76FB6</picture>
@@ -150,7 +150,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Розовый 70 см Арт. Az3767</name>
       <price>106</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kKAQoETR5zZDRA_h6z7AutpYimvxJciP</picture>
       <picture>https://lh3.googleusercontent.com/d/1gPQ3YERt4_KyS89z5Py1flpkUMrQ_YGP</picture>
@@ -166,7 +166,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Мунлайт 70 см Арт. Az1487</name>
       <price>106</price>
-      <qty>150</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Gt-t2397531XSynukiSDbvD_QHzQT7Rz</picture>
       <picture>https://lh3.googleusercontent.com/d/1UIDzWDYJZEUTAqqq6rScmOtqNHuDwVic</picture>
@@ -184,7 +184,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
       <price>83</price>
-      <qty>50</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PyIoHvMbWU45EGG4ZqfvT-PYOF_VLP5-</picture>
       <picture>https://lh3.googleusercontent.com/d/1TMSotvBry5sPbaaZzphbCMmTq-ZRNEek</picture>
@@ -211,21 +211,6 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
-    </offer>
-    <offer id="Az1335" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
-      <price>211</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1335</param>
-      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     <offer id="Az5454" available="true">
       <categoryId>37</categoryId>
