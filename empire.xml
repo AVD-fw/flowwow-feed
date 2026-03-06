@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T07:39:41.057+03:00">
+<yml_catalog date="2026-03-06T07:44:14.718+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -23,17 +23,35 @@
       <price>188</price>
       <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1vyKwR8NnN0y8E9UFDLKzexLOg-xRz4J4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1l9f_6KTu8jCKvo0biX4TuGlJvWPU_2PE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Jb2nAqMfMvEfqAilmEKrzDIMQx2Fs82e</picture>
       <picture>https://lh3.googleusercontent.com/d/1AUrEJxnjVxt35umQp8KmSYO79RWEVu9i</picture>
       <picture>https://lh3.googleusercontent.com/d/17lPA3suzLBraz-RcOp_GqBuAiseUJxyN</picture>
       <picture>https://lh3.googleusercontent.com/d/18CL32aAfhakgPdDdKC47h5viNQxO4NOj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vyKwR8NnN0y8E9UFDLKzexLOg-xRz4J4</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ef2866</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef2807" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер 70 см Арт. Ef2807</name>
+      <price>152</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13s_qhQee-AG0jOEW-BaBAr_ydZZQZJq3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Kd07DsAYqeALvJGDHzaeTHPLnPy0giFL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AtB_Prw2iu6vVoi3XMVKje_FOjyYGugj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hPaT5LTrpomty44dGgPTr587bwYHmsLZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eHgqO78crEl8lqaegSbBZqtA5zgkGoCE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef2807</param>
+      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
     </offer>
     <offer id="Ef2836" available="true">
       <categoryId>6</categoryId>
@@ -68,6 +86,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Ef3797</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
+    <offer id="Ef2897" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 70 см Арт. Ef2897</name>
+      <price>114</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19n-ofkUB0wLUxk60u6VI7TQlKBRGj8sR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J7LAcu39mysj5mA4jgMqBZdSRsj21Du2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R1EPdvOJubUG8L4hU_K18P67mjVHFJU7</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Ef2897</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
     <offer id="Ef2707" available="true">
       <categoryId>37</categoryId>
