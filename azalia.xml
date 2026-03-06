@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T11:03:38.051+03:00">
+<yml_catalog date="2026-03-06T11:11:23.979+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -226,21 +226,6 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
-    </offer>
-    <offer id="Az3656" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
-      <price>76</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1o6z5Hi0V9Wuxm81adMncqC9OQza_Kwcg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3656</param>
-      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
