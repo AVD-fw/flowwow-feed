@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T09:17:49.614+03:00">
+<yml_catalog date="2026-03-06T09:37:42.910+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -40,6 +40,22 @@
       <param name="Артикул">Az5934c</param>
       <consist name="Роза одноголовая Эльторо" unit="шт">10</consist>
     </offer>
+    <offer id="Az3697c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697c</name>
+      <categoryId>450</categoryId>
+      <price>1508</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1UdouvWvWq_K9WO2TdA8v_xaVEIlk3ijg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RXbDWLmqgFd8AXCgAQmFs8GS75EHe-1u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3697c</param>
+      <consist name="Хризантема кустовая Кеннеди Рози" unit="шт">5</consist>
+    </offer>
     <offer id="Az3027c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Селебрейт 70 см Арт. Az3027c</name>
       <categoryId>450</categoryId>
@@ -55,6 +71,38 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027c</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5085c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Инь Янь 50 см Арт. Az5085c</name>
+      <categoryId>450</categoryId>
+      <price>3703</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Li8-alGIRk84OfUM1xPePa-gO2S5HkQT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oL8fwiquYjUsJyB1YB645R_3A4VcgSko</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WVefr8wFZmlQd9blP7Gi8-DjGOa_WQq_</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Van Helvoort Company</param>
+      <param name="Артикул">Az5085c</param>
+      <consist name="Хризантема Сантини Инь Янь" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3395c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 50 см Арт. Az3395c</name>
+      <categoryId>450</categoryId>
+      <price>4828</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1pxDrgJX5UemgdkjUlpkJroWLwdfIfqS6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wbnqAT48n46MQDJivfaBuDJ83ZQdaJcS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qD_K7M6WxdIus9ZALmRpELsqV8Enxzrg</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3395c</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
     <offer id="Az5475c" available="true">
       <name>Пачка (10 шт.) Антирринум Потомак Лавандер 50 см Арт. Az5475c</name>
@@ -85,6 +133,21 @@
       <param name="Страна">Китай</param>
       <param name="Артикул">Az1595c</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3777c" available="true">
+      <name>Пачка (10 шт.) Гвоздика одноголовая Грин Трик 70 см Арт. Az3777c</name>
+      <categoryId>450</categoryId>
+      <price>1963</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1LVl45PZxseoORzsxJXNWTARZEWP24pGS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mnYt_Vs0M0YD--Bei4WP2HReooUVJivl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o6pcrXhnDqlBgk0v9TrwAamQi3tHBfE4</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3777c</param>
+      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
     </offer>
     <offer id="Az4737c" available="true">
       <name>Пачка (25 шт.) Гвоздика одноголовая Ред 70 см Арт. Az4737c</name>
@@ -132,6 +195,36 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3656c</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az1435c" available="true">
+      <name>Пачка (10 шт.) Маттиола Айрон Чери Блоссом 50 см Арт. Az1435c</name>
+      <categoryId>450</categoryId>
+      <price>3313</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1RPtgz0my1EMHtmQTi0Fm8Ci0XatVp0LS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1znr9tqyWlL10CvpOQu1l3LeBpMCfYeIL</picture>
+      <picture>https://lh3.googleusercontent.com/d/17c5IqyjVzwMUiItBCxYqYIwEWQk91Q2m</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1435c</param>
+      <consist name="Маттиола Айрон Чери Блоссом" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1335c" available="true">
+      <name>Пачка (5 шт.) Статица Кристал Дарк Блю 50 см Арт. Az1335c</name>
+      <categoryId>450</categoryId>
+      <price>1358</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1_QgKokUTFy0hCXoNXGGKqyxGWbr8olYb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AQrwWrc42XosH7Jn8SSlfOyJHHvwsZEv</picture>
+      <picture>https://lh3.googleusercontent.com/d/12IpGkV8ll0SmxxOigqOMgI8pDx1FHlvm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335c</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     <offer id="Az5454c" available="true">
       <name>Пачка (50 шт.) Тюльпан Желтый 40 см Арт. Az5454c</name>
