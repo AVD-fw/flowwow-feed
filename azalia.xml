@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T06:23:39.628+03:00">
+<yml_catalog date="2026-03-06T06:31:16.940+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -31,6 +31,24 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az5934</param>
       <consist name="Роза одноголовая Эльторо" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3027" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
+      <price>256</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OfMnVtA12VJxTbwgrWHPrsjZtaF2rlTL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fVeMbLzx8r4OBOW6Zl6icY78Kve4yRou</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tbG6uF8HR3qCwCihiZI3c01u79nYN8ij</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jtq5edDbkf7fjCVLC9605eSLLssAO0J5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qo7lPUGin1vOYcFPtqFmqQVd6DnbaCRe</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3027</param>
+      <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
     </offer>
     <offer id="Az1595" available="true">
       <categoryId>37</categoryId>
@@ -93,6 +111,33 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3656</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az5454" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Желтый 40 см Арт. Az5454</name>
+      <price>121</price>
+      <qty>250</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1si3O69V9lT8A4LvoZeYA0y1qjLNaHkm-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az5454</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Az5674" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный 40 см Арт. Az5674</name>
+      <price>166</price>
+      <qty>250</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fZFjdVXasdQ-5ZScNKmbF44cUKR3D5PH</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Галантус</param>
+      <param name="Артикул">Az5674</param>
+      <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
