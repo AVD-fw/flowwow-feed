@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06T15:13:49.338+03:00">
+<yml_catalog date="2026-03-06T15:21:33.694+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -55,7 +55,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697</name>
       <price>241</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12iigSE0fRyyvIzFX9l8WPN4xICdfftK3</picture>
       <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
@@ -70,7 +70,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Селебрейт 70 см Арт. Az3027</name>
       <price>241</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/174NH2acTqcLhSPcbYOF55LWYztbn3Ogc</picture>
       <picture>https://lh3.googleusercontent.com/d/1tbG6uF8HR3qCwCihiZI3c01u79nYN8ij</picture>
@@ -83,22 +83,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3027</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3395" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси Пинк 50 см Арт. Az3395</name>
-      <price>181</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1A3ehrCY4TY7LPTGlyMxirGwGyg1g9mvy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qD_K7M6WxdIus9ZALmRpELsqV8Enxzrg</picture>
-      <picture>https://lh3.googleusercontent.com/d/15I9KYKMdFwV07H3RSP21-ETINBCSaAX_</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3395</param>
-      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
     </offer>
     <offer id="Az5475" available="true">
       <categoryId>37</categoryId>
@@ -201,7 +185,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>106</price>
-      <qty>100</qty>
+      <qty>25</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ihakNa7QE3aZnBMMuABN-Nd89FIF-zXF</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
@@ -212,25 +196,11 @@
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
-    <offer id="Az5454" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Желтый 40 см Арт. Az5454</name>
-      <price>121</price>
-      <qty>100</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Jg8QaNJbYOAfSoJfxWJKujnwNvtMGgaB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1si3O69V9lT8A4LvoZeYA0y1qjLNaHkm-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az5454</param>
-      <consist name="Тюльпан" unit="шт">50</consist>
-    </offer>
     <offer id="Az5464" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Желтый 40 см Арт. Az5464</name>
       <price>136</price>
-      <qty>500</qty>
+      <qty>400</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/183uPVAdzfhRK62FILzpSFRK3g4snLW22</picture>
       <picture>https://lh3.googleusercontent.com/d/1my3fcem2u_H7TvRSaqA-EiUrhjUuFdSO</picture>
@@ -245,7 +215,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан 40 см Арт. Az6054</name>
       <price>136</price>
-      <qty>500</qty>
+      <qty>350</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1WaFjUBthtkZmhYqNdorvpxktLvv8at9i</picture>
       <picture>https://lh3.googleusercontent.com/d/1GBbSvMVolkUfvZPd-PWugYrOYVqSo8Wh</picture>
@@ -270,24 +240,6 @@
       <param name="Производитель">Галантус</param>
       <param name="Артикул">Az5674</param>
       <consist name="Тюльпан Пионовидный" unit="шт">50</consist>
-    </offer>
-    <offer id="Az3636" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
-      <price>391</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15Z6UEdm-lbdTR-YBfz-GL4HfHL7h6r2N</picture>
-      <picture>https://lh3.googleusercontent.com/d/17ZnTBZoh1npMTh7ocWXIINDTBzGds206</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yMOyYlODnylCeYtAi-j9Jv0MbIxhWkka</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OtTYBPl5qWKklImIHN46jE6vnXRCE80M</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">Az3636</param>
-      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Az1388" available="true">
       <categoryId>38</categoryId>
