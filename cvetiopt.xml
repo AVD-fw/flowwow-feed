@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-07T09:05:45.679+03:00">
+<yml_catalog date="2026-03-07T09:15:13.086+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -70,6 +70,24 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc12007</param>
       <consist name="Роза кустовая пионовидная Б Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc18639" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Леди Бомбастик 90 см Арт. Fc18639</name>
+      <price>281</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1t14NWhOYURVNBKoy6rBSF-LGLXf5ua_e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uf7TTTH4wxGMNSlNCfvEipqktDT2wJxQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tHQQIsaXDU5Yat_s7dpIHPvGbZqYmU_u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1awVzcqhJdH-uh3tCXj-pRVhbCsuji-rs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r4lwhp3O8Yh8cOsaRr8PStspQnuC8qM4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">90</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc18639</param>
+      <consist name="Роза кустовая пионовидная Леди Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Fc06267" available="true">
       <categoryId>4</categoryId>
