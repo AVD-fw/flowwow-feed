@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-08T11:33:34.625+03:00">
+<yml_catalog date="2026-03-08T11:41:15.461+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,21 +32,6 @@
       <param name="Артикул">Az2547</param>
       <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
     </offer>
-    <offer id="Az5475" available="true">
-      <categoryId>37</categoryId>
-      <name>Антирринум Потомак Лавандер 50 см Арт. Az5475</name>
-      <price>256</price>
-      <qty>60</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1FDuZMLsJYurnd02sJcUpj0u9-PJYC4K6</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pTzsKvA65f1S7osLvH7aJu5gfqyby7Ya</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q0zc5dXI0dKiKbi-XSbwabTK9GhnffyJ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5475</param>
-      <consist name="Антирринум Потомак Лавандер" unit="шт">10</consist>
-    </offer>
     <offer id="Az2175" available="true">
       <categoryId>37</categoryId>
       <name>Астранция Биллион Старс 50 см Арт. Az2175</name>
@@ -67,7 +52,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
       <price>106</price>
-      <qty>100</qty>
+      <qty>80</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wJm81sKK9Myt_XGncNvd4EBuDI9AveL2</picture>
       <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
@@ -92,20 +77,6 @@
       <param name="Высота, см">50</param>
       <param name="Страна">Китай</param>
       <param name="Артикул">Az1935</param>
-      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
-    </offer>
-    <offer id="Az5537" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Белый 70 см Арт. Az5537</name>
-      <price>106</price>
-      <qty>80</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1no4K4NA1SMv8X6mbi9mRtHwpnUu0t3H5</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UW9DwXtee21e7_h20guFEPjC9g3JFgSo</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Китай</param>
-      <param name="Артикул">Az5537</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
     </offers>
