@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-09T06:03:34.115+03:00">
+<yml_catalog date="2026-03-09T06:13:30.678+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,21 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az2547" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Ред Наоми 70 см Арт. Az2547</name>
-      <price>226</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XHxnt7KLboK-jh50d1oRKZEtu54JU5f9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mDqnOfDJsd3azEBxtcZzputJyB5dU3cq</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az2547</param>
-      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
-    </offer>
     <offer id="Az5475" available="true">
       <categoryId>37</categoryId>
       <name>Антирринум Потомак Лавандер 50 см Арт. Az5475</name>
@@ -47,58 +32,11 @@
       <param name="Артикул">Az5475</param>
       <consist name="Антирринум Потомак Лавандер" unit="шт">10</consist>
     </offer>
-    <offer id="Az2175" available="true">
-      <categoryId>37</categoryId>
-      <name>Астранция Биллион Старс 50 см Арт. Az2175</name>
-      <price>181</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/10ZVbZ4kNhiw05WUcw4vaPLGfpAH1jt7q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wl5AoB2YTjzofHPa83CjM0BxunJMfIP0</picture>
-      <picture>https://lh3.googleusercontent.com/d/15zufUeuN57Yulay5OTPfa8Q9kHyo_i1m</picture>
-      <picture>https://lh3.googleusercontent.com/d/16XttJwMoK0HLcQtXccYE6hTfc7Z_36bj</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az2175</param>
-      <consist name="Астранция Биллион Старс" unit="шт">10</consist>
-    </offer>
-    <offer id="Az1595" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Кремовый 50 см Арт. Az1595</name>
-      <price>106</price>
-      <qty>40</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1wJm81sKK9Myt_XGncNvd4EBuDI9AveL2</picture>
-      <picture>https://lh3.googleusercontent.com/d/12J5u9W_A9_QXr5ErmoDnJJrrpZAVgETa</picture>
-      <picture>https://lh3.googleusercontent.com/d/10WXf3aZ3V47IuacZyQaj7vH5Xlrf6coF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ahmDYskh59O0TovXWjgzKYnzs61VmLDl</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XS3LrQDzRK-vCye6CP4YW0nugd-J4Zlm</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Китай</param>
-      <param name="Артикул">Az1595</param>
-      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
-    </offer>
-    <offer id="Az1935" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Оранжевый 50 см Арт. Az1935</name>
-      <price>106</price>
-      <qty>20</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1-rBjcPFdxgqVRz_eo3FUY28VPITMSWmV</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yBRLdoELJJlrlrNU-iebFBLFL5-LmpTZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Китай</param>
-      <param name="Артикул">Az1935</param>
-      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
-    </offer>
     <offer id="Az5464" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Желтый 40 см Арт. Az5464</name>
       <price>151</price>
-      <qty>700</qty>
+      <qty>300</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/183uPVAdzfhRK62FILzpSFRK3g4snLW22</picture>
       <picture>https://lh3.googleusercontent.com/d/1my3fcem2u_H7TvRSaqA-EiUrhjUuFdSO</picture>
