@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-10T11:57:13.029+03:00">
+<yml_catalog date="2026-03-10T12:07:10.145+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -264,6 +264,22 @@
       <param name="Артикул">Va0357c</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
     </offer>
+    <offer id="Va1735c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Росси Санни 50 см Арт. Va1735c</name>
+      <categoryId>450</categoryId>
+      <price>3733</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/16b3K8hduOZfXEtoHmqwQxBttwi-Y23yD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1R9zNSpFBtRQn2SN80OGX5iwX15Yna5TV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tmwIFK_Xp9NgOkPayI9t86H1g6NI_5Ca</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Va1735c</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
     <offer id="Va0095c" available="true">
       <name>Пачка (10 шт.) Бруния Серый 50 см Арт. Va0095c</name>
       <categoryId>450</categoryId>
@@ -283,7 +299,7 @@
       <name>Пачка (25 шт.) Гиацинт Микс 50 см Арт. Va4115c</name>
       <categoryId>450</categoryId>
       <price>4584</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1vYNNbb9cyBmm6iAgl8xP2ZuWo09YkKdo</picture>
       <picture>https://lh3.googleusercontent.com/d/11LzRU-gCm2HxA6T_pBLmWpD2J4IfJ-eW</picture>
       <picture>https://lh3.googleusercontent.com/d/19bSUCz2fR08GobRdDeOmbAsMxYyN9Vg8</picture>
@@ -293,6 +309,22 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va4115c</param>
       <consist name="Гиацинт Микс" unit="шт">25</consist>
+    </offer>
+    <offer id="Va0626c" available="true">
+      <name>Пачка (50 шт.) Ирис Блю Меджик 60 см Арт. Va0626c</name>
+      <categoryId>450</categoryId>
+      <price>4783</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZOc8tUpfjvkXqv_A4tMpKyZnEDrVwCZV</picture>
+      <picture>https://lh3.googleusercontent.com/d/17dQXq3P0GUshMG7BAg-Cy28s7ZoJW0_r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U6Nq70zCVwA6_G9GbfH-GkT5J3NH7clY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Flowers Tuinbouw BV</param>
+      <param name="Артикул">Va0626c</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Va2604c" available="true">
       <name>Пачка (5 шт.) Леукоспермум Оранжевый 40 см Арт. Va2604c</name>
