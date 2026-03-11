@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11T11:23:32.753+03:00">
+<yml_catalog date="2026-03-11T11:31:15.895+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -34,6 +34,58 @@
       <param name="Производитель">Flores La Conejera</param>
       <param name="Артикул">Az4737</param>
       <consist name="Гвоздика одноголовая Ред" unit="шт">25</consist>
+    </offer>
+    <offer id="Az6075" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола 50 см Арт. Az6075</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1j3t6A6Gx7N1lTvhu9yYnRm2VWiIIKYJk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az6075</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6085" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола 50 см Арт. Az6085</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nuBfo8uWOF5PRxKo-3XvU_pREq_LGrG0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az6085</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6124" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан 40 см Арт. Az6124</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CyYlKtW7JcEPNfDwtq5N7aEcq8EdfoBB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az6124</param>
+      <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Az6134" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан 40 см Арт. Az6134</name>
+      <price>80</price>
+      <qty>50</qty>
+      <quantity_in_package>40</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NGiaKzvYdjHWCBESphSfYrCbqep3c2Ns</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 40 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az6134</param>
+      <consist name="Тюльпан" unit="шт">40</consist>
     </offer>
     </offers>
   </shop>
