@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-10T06:03:35.444+03:00">
+<yml_catalog date="2026-03-11T09:11:25.157+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,37 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az5475" available="true">
-      <categoryId>37</categoryId>
-      <name>Антирринум Потомак Лавандер 50 см Арт. Az5475</name>
-      <price>256</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1n6iOX3rTz7DQst5Be2QASgEu_Xn5HdyX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pTzsKvA65f1S7osLvH7aJu5gfqyby7Ya</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q0zc5dXI0dKiKbi-XSbwabTK9GhnffyJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FDuZMLsJYurnd02sJcUpj0u9-PJYC4K6</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5475</param>
-      <consist name="Антирринум Потомак Лавандер" unit="шт">10</consist>
-    </offer>
-    <offer id="Az1935" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Оранжевый 50 см Арт. Az1935</name>
-      <price>106</price>
-      <qty>20</qty>
-      <quantity_in_package>20</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Wo8cSrpXFit6WmyTNP0dw_QVnxCVIk9f</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yBRLdoELJJlrlrNU-iebFBLFL5-LmpTZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-rBjcPFdxgqVRz_eo3FUY28VPITMSWmV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Китай</param>
-      <param name="Артикул">Az1935</param>
-      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
-    </offer>
     <offer id="Az4737" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
@@ -65,35 +34,6 @@
       <param name="Производитель">Flores La Conejera</param>
       <param name="Артикул">Az4737</param>
       <consist name="Гвоздика одноголовая Ред" unit="шт">25</consist>
-    </offer>
-    <offer id="Az1478" available="true">
-      <categoryId>37</categoryId>
-      <name>Гипсофила Реинбоу Аврора 80 см Арт. Az1478</name>
-      <price>226</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1aejEePnLwhoCBL-tz8GN03sBPJ47yOLR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1pE-8sCj1Cu3GYK13JtzqKs-nhFmn9YAT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">80</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1478</param>
-      <consist name="Гипсофила Реинбоу Аврора" unit="шт">25</consist>
-    </offer>
-    <offer id="Az5464" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Желтый 40 см Арт. Az5464</name>
-      <price>136</price>
-      <qty>400</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/183uPVAdzfhRK62FILzpSFRK3g4snLW22</picture>
-      <picture>https://lh3.googleusercontent.com/d/1my3fcem2u_H7TvRSaqA-EiUrhjUuFdSO</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Галантус</param>
-      <param name="Артикул">Az5464</param>
-      <consist name="Тюльпан" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
