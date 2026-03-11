@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11T06:05:58.018+03:00">
+<yml_catalog date="2026-03-11T06:35:18.852+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -39,7 +39,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Калимба 70 см Арт. Fc12217</name>
       <price>132</price>
-      <qty>35</qty>
+      <qty>75</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1tS1UUsEpPyKtDNe1nWhvnylvHXWxeF9Z</picture>
       <picture>https://lh3.googleusercontent.com/d/1XZHe2JRlwamqRbqMCbltZE6iN4hFaoK7</picture>
@@ -57,7 +57,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер 70 см Арт. Fc00877</name>
       <price>132</price>
-      <qty>25</qty>
+      <qty>75</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PCoaH3ZNynJottyBt-2D1SATs3WYW_sW</picture>
       <picture>https://lh3.googleusercontent.com/d/11Eho1nAh7a3QhnBDf2EYdcgHJJ6_cEIQ</picture>
@@ -75,7 +75,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Пепталк 55 см Арт. Fc15225</name>
       <price>106</price>
-      <qty>300</qty>
+      <qty>375</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1w4S6zRWj-eN9RoreixRT3Nt2TBQWvx1L</picture>
       <picture>https://lh3.googleusercontent.com/d/1vPfQDZPtjYnvHGvXE8gM-Um-U5P9Q-0C</picture>
@@ -89,47 +89,11 @@
       <param name="Артикул">Fc15225</param>
       <consist name="Хризантема Сантини Пепталк" unit="шт">25</consist>
     </offer>
-    <offer id="Fc19745" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Пизаро 50 см Арт. Fc19745</name>
-      <price>106</price>
-      <qty>325</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Yq5CLgX1_4wk8Azdj1wMTGjaPA5brfN0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1IklfVfH404jfU303noAcf0hwtLTSK61r</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FXOVC8y9rYYmr2E886Jqead2neOQcPlk</picture>
-      <picture>https://lh3.googleusercontent.com/d/1jDWPHkiTN21yfLPKRv_z6K8eMd9owbdB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Pw4iaFHx1sXu_mJE6-wNXXnAceauXtKV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">VannoVa</param>
-      <param name="Артикул">Fc19745</param>
-      <consist name="Хризантема Сантини Пизаро" unit="шт">25</consist>
-    </offer>
-    <offer id="Fc16155" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси Вайт 55 см Арт. Fc16155</name>
-      <price>99</price>
-      <qty>175</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1KLiYVv1cRaIeugF1x87ST2_7pqwcnspX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OadKzd92WQOZSfqMU8KwWMcYyHYJpgYe</picture>
-      <picture>https://lh3.googleusercontent.com/d/1slgQcyhA_fo2lVJ8IoTm82KqT7zACAb1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1s_lxvLaxcmyqPXSaezMI8SWg73O0GybM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dEsupHjvJQpEOPX50gKVeB730srjvzqr</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">LS Santini</param>
-      <param name="Артикул">Fc16155</param>
-      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
-    </offer>
     <offer id="Fc01065" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Крашенная 55 см Арт. Fc01065</name>
       <price>102</price>
-      <qty>175</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11WY9GiQRad_4G6Cvm8cTkDVOGAa4e788</picture>
       <picture>https://lh3.googleusercontent.com/d/10P03D7KRR5wJb5jqL-kHNrkYICPKg7zK</picture>
@@ -147,7 +111,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Пинк 50 см Арт. Fc19885</name>
       <price>106</price>
-      <qty>25</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uNBDa23fAU9oWafCOSHo6r9YmVUVWCET</picture>
       <picture>https://lh3.googleusercontent.com/d/15wM7qqGziyQjzowKNJljy5oMVkm0hQVf</picture>
@@ -165,7 +129,7 @@
       <categoryId>37</categoryId>
       <name>Астильба Розовый 40 см Арт. Fc05054</name>
       <price>94</price>
-      <qty>60</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1sC3EPovcku4UybODgqVRABuv5Z-Djdo9</picture>
       <picture>https://lh3.googleusercontent.com/d/1RizVAAlg5bpIAuIAXV4yCQD593vnD5o9</picture>
@@ -200,7 +164,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Диабло 50 см Арт. Fc01825</name>
       <price>154</price>
-      <qty>400</qty>
+      <qty>300</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1S8skTVV0TXU4qwHCI-0ZkXxBceFKbUs_</picture>
       <picture>https://lh3.googleusercontent.com/d/1_VYUhJso-9dnqehiWExay_VV0hWJz6H9</picture>
@@ -236,7 +200,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Разноцветный 80 см Арт. Fc15178</name>
       <price>86</price>
-      <qty>150</qty>
+      <qty>300</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Fa1_pRPVuwBvVWhcqw4vHgQUVl72miCv</picture>
       <picture>https://lh3.googleusercontent.com/d/1r0ZUnlvDUZ1buIGqBe8t2uO4yLMobVVp</picture>
@@ -254,7 +218,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Белая 70 см Арт. Fc01937</name>
       <price>80</price>
-      <qty>250</qty>
+      <qty>300</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hZD6EUOqV4VmTFw42Nc1GvZmzK5fKicF</picture>
       <picture>https://lh3.googleusercontent.com/d/18wbXVtT_Fl6jAQkNBoAGrrSDSgohJJnr</picture>
@@ -272,7 +236,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Розовая 70 см Арт. Fc01657</name>
       <price>86</price>
-      <qty>175</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Rv17ykfGJsdhGtp3Z_0pP_ewOeM-kQtB</picture>
       <picture>https://lh3.googleusercontent.com/d/12cJIioO8n_X_L55bEhUoeKtp0SqWEvNp</picture>
@@ -308,7 +272,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Белый 50 см Арт. Fc5435</name>
       <price>55</price>
-      <qty>100</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1lDuWlEzSQlgsEYPm_CD6IYS0U5CuaHQR</picture>
       <picture>https://lh3.googleusercontent.com/d/1NpriPZf-XXmu_9AR85wHxrBNHBcyi8In</picture>
@@ -326,7 +290,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Fc02026</name>
       <price>42</price>
-      <qty>500</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19jJSmLKlqwRSk9uhxlwtjUJIV5iUPVrL</picture>
       <picture>https://lh3.googleusercontent.com/d/1QcpEdvIM1y931glqy0tIhpzb2XG6NJhl</picture>
@@ -344,7 +308,7 @@
       <categoryId>37</categoryId>
       <name>Озотамнус Белый 60 см Арт. Fc20366</name>
       <price>99</price>
-      <qty>200</qty>
+      <qty>575</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1SZ0njPdFgJvrVRZdHaAg1Tiw0SpNp3lb</picture>
       <picture>https://lh3.googleusercontent.com/d/1rmVtnylaJSUHM_XpPx2xFdfpZL-wp-of</picture>
@@ -362,7 +326,7 @@
       <categoryId>37</categoryId>
       <name>Озотамнус Розовый 60 см Арт. Fc00816</name>
       <price>99</price>
-      <qty>150</qty>
+      <qty>180</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EpcynIvZigliejttPw57QUmYkvuzZdfL</picture>
       <picture>https://lh3.googleusercontent.com/d/1X_RUaZ-vBAJP7Fs6YOwfVNlAMWBvdscW</picture>
@@ -380,7 +344,7 @@
       <categoryId>37</categoryId>
       <name>Оксипеталум Голубой 50 см Арт. Fc04855</name>
       <price>160</price>
-      <qty>425</qty>
+      <qty>200</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AScPKa5k6UGnoL11P1wJQsIGNfyGFP_P</picture>
       <picture>https://lh3.googleusercontent.com/d/1l26XryKb_1HYBRhKa2Ual9bWnSmNvgnp</picture>
@@ -430,7 +394,7 @@
       <categoryId>38</categoryId>
       <name>Бруния Серый 50 см Арт. Fc00755</name>
       <price>110</price>
-      <qty>70</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1o5gDSCZoKHBpIb8n9Ar6IZ3yWRz0AeIb</picture>
       <picture>https://lh3.googleusercontent.com/d/1ef8jjw9unpozEAZ4GOwwxGP0lQK-47Pp</picture>
