@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-18T09:51:21.577+03:00">
+<yml_catalog date="2026-03-18T09:53:43.152+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -153,6 +153,23 @@
       <param name="Артикул">Az3255</param>
       <consist name="Роза кустовая Карамель" unit="шт">10</consist>
     </offer>
+    <offer id="Az3395" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Пинк 50 см Арт. Az3395</name>
+      <price>166</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18WVF5Vl2jAT9eLUF9zZUcEUegVqDYrz5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qD_K7M6WxdIus9ZALmRpELsqV8Enxzrg</picture>
+      <picture>https://lh3.googleusercontent.com/d/15I9KYKMdFwV07H3RSP21-ETINBCSaAX_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1A3ehrCY4TY7LPTGlyMxirGwGyg1g9mvy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3395</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
+    </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
@@ -168,6 +185,56 @@
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
+    <offer id="Az3656" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
+      <price>61</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1kJxhWz-mfUozYEGEBzx4M_Tbot0PxbjW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o6z5Hi0V9Wuxm81adMncqC9OQza_Kwcg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4716" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Блю Пикоти 60 см Арт. Az4716</name>
+      <price>391</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ClAo3f8IKwQZsWT9wG4rMR_W-IscOhHL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HLtXFc-Mn8Iwu4Qbm11sNiVKQhweOn15</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r5z-6LAPym-L-OLr21uqKEUzDJQyvguB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az4716</param>
+      <consist name="Эустома Росита Блю Пикоти" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3636" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
+      <price>391</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1q3CUXhMyMMVMGykm16SWNMOEt8vtivFL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yMOyYlODnylCeYtAi-j9Jv0MbIxhWkka</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OtTYBPl5qWKklImIHN46jE6vnXRCE80M</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Z6UEdm-lbdTR-YBfz-GL4HfHL7h6r2N</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az3636</param>
+      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
+    </offer>
     <offer id="Az4516" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Az4516</name>
@@ -182,6 +249,21 @@
       <param name="Производитель">Kwekerij Waalzicht</param>
       <param name="Артикул">Az4516</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1388" available="true">
+      <categoryId>38</categoryId>
+      <name>Солидаго Карзан Глори 80 см Арт. Az1388</name>
+      <price>181</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OCJXrNlaW2W_g3OxNqbQQ9T9S4qSoMcE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kiuFBivDMTan-G1zj-3sDUhY8TT7sVfk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MCA7rFLH9IkUw4PSqWNkOgenlsnvvk6b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1388</param>
+      <consist name="Солидаго Карзан Глори" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
