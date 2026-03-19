@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-19T12:33:37.846+03:00">
+<yml_catalog date="2026-03-19T12:41:21.675+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 50 см Арт. Az6325</name>
       <price>106</price>
-      <qty>255</qty>
+      <qty>120</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BMDFqiU2GQOB2u2OzoZtiua1YtcgYvS7</picture>
       <picture>https://lh3.googleusercontent.com/d/1awYVcW2pcIJp7QLwPZsf3xqtS3ey9KLr</picture>
@@ -32,27 +32,11 @@
       <param name="Артикул">Az6325</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
     </offer>
-    <offer id="Az4685" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Джумилия 50 см Арт. Az4685</name>
-      <price>151</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1WmV_z7JBwh6tgpJA15RX4Q2P5QinIqzX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1BAlxk12FYiBX8lDJ7QvULyzwTl8S1S51</picture>
-      <picture>https://lh3.googleusercontent.com/d/1dkWHIZ7RiWmOE3a90IuYRXUpAoHpmC-T</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az4685</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
-    </offer>
     <offer id="Az6215" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Перл Аваланш 50 см Арт. Az6215</name>
       <price>106</price>
-      <qty>30</qty>
+      <qty>60</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XxHzdo5_BzHN9hxeB24B5GD6xaqjVUhw</picture>
       <picture>https://lh3.googleusercontent.com/d/1ap5YfQaPIa-YerwMSCqKZ463wRP33iJ4</picture>
@@ -68,7 +52,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ред Игл 40 см Арт. Az6354</name>
       <price>106</price>
-      <qty>300</qty>
+      <qty>255</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Vc7Hg8yneyDgfn8_eJ84xGVDxcW_WRTa</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ko6ZZRJldK3Q74a_C1qSAPJRAqsw411O</picture>
@@ -83,7 +67,7 @@
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3847</name>
       <price>196</price>
-      <qty>20</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16kYZ40BBQA8imekVGiPtnQA7bW9QXgLa</picture>
       <picture>https://lh3.googleusercontent.com/d/14aq2GP4gzcrxXTr_hFm5XiyoCbcdUaUI</picture>
@@ -93,21 +77,6 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3847</param>
       <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3255" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Карамель 50 см Арт. Az3255</name>
-      <price>316</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jfKeulamXP2XR5Mw77i4n9OSug-xddjM</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FIlzvelzjUh8OHlwIY3zY2rnpJRazMfZ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az3255</param>
-      <consist name="Роза кустовая Карамель" unit="шт">10</consist>
     </offer>
     <offer id="Az5525" available="true">
       <categoryId>4</categoryId>
@@ -127,7 +96,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Мисс Бомбастик 50 см Арт. Az3515</name>
       <price>316</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Yx7KFSbDKBG-TuxxgqIUbivJz0_ST5J9</picture>
       <picture>https://lh3.googleusercontent.com/d/17JovYLBsnLOxlYc-l7bFnzCHamLiFqnU</picture>
@@ -216,7 +185,7 @@
       <categoryId>37</categoryId>
       <name>Астильба Поп Гардер 50 см Арт. Az5415</name>
       <price>196</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yA3WT5q53Ep94bllBy54EX4QTUcn-O1f</picture>
       <picture>https://lh3.googleusercontent.com/d/1Z7fc90DEUpHzNs0PHFouaHusrF9BqJJ1</picture>
@@ -230,7 +199,7 @@
       <categoryId>37</categoryId>
       <name>Мускари Карола 30 см Арт. Az4853</name>
       <price>76</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xN-E-or6_jWs0Obbs7aucEoAtLwicgqq</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -257,7 +226,7 @@
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>5</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -268,25 +237,11 @@
       <param name="Артикул">Az1335</param>
       <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
-    <offer id="Az6124" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан 40 см Арт. Az6124</name>
-      <price>80</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1CyYlKtW7JcEPNfDwtq5N7aEcq8EdfoBB</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Микс Ар</param>
-      <param name="Артикул">Az6124</param>
-      <consist name="Тюльпан" unit="шт">50</consist>
-    </offer>
     <offer id="Az6134" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан 40 см Арт. Az6134</name>
       <price>80</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JUCnwJ4OYRl4Ye-WuuZ1ldl5rfNq4f5Y</picture>
       <picture>https://lh3.googleusercontent.com/d/1NGiaKzvYdjHWCBESphSfYrCbqep3c2Ns</picture>
@@ -301,7 +256,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Пинк Фокстрот 40 см Арт. Az4104</name>
       <price>181</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1S6MgyQueQd2BowtoVIa3SoZlR6_bmgrq</picture>
       <picture>https://lh3.googleusercontent.com/d/1J0E2KgW65OzJgXqDz7OWBsEgWO2kI2nJ</picture>
@@ -315,7 +270,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Строуберри Крем 50 см Арт. Az5645</name>
       <price>376</price>
-      <qty>10</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NWIpr5Zkd6KoXIRCfbtr9Ae9B52Uu4TB</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
