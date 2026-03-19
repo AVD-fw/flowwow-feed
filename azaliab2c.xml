@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-19T09:37:39.680+03:00">
+<yml_catalog date="2026-03-19T09:47:39.381+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -87,6 +87,38 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az3255c</param>
       <consist name="Роза кустовая Карамель" unit="шт">10</consist>
+    </offer>
+    <offer id="Az5525c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Крем Брюле 50 см Арт. Az5525c</name>
+      <categoryId>450</categoryId>
+      <price>3463</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1XPq04VHRpMW0hHj0wmJdbpHBfkTdbKWy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1992GcpgUaa6MMZZRx0h4FgzK_Jo7Pab8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_M9wZGG4F5wSji3pgetk-0kTLWaWL2J2</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az5525c</param>
+      <consist name="Роза кустовая пионовидная Крем Брюле" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3515c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Мисс Бомбастик 50 см Арт. Az3515c</name>
+      <categoryId>450</categoryId>
+      <price>3463</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-dNqXY7NFf_0-V7ydnB62LpKQvBwH6R4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EHIg8vBbXk9FEyTBFO0M_KPEZrbnyV9_</picture>
+      <picture>https://lh3.googleusercontent.com/d/17JovYLBsnLOxlYc-l7bFnzCHamLiFqnU</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az3515c</param>
+      <consist name="Роза кустовая пионовидная Мисс Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Az3707c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Чик 70 см Арт. Az3707c</name>
