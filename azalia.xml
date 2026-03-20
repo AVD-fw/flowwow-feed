@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T15:21:29.126+03:00">
+<yml_catalog date="2026-03-20T15:24:38.130+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 50 см Арт. Az6325</name>
       <price>106</price>
-      <qty>75</qty>
+      <qty>60</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1BMDFqiU2GQOB2u2OzoZtiua1YtcgYvS7</picture>
       <picture>https://lh3.googleusercontent.com/d/1awYVcW2pcIJp7QLwPZsf3xqtS3ey9KLr</picture>
@@ -48,26 +48,11 @@
       <param name="Артикул">Az2395</param>
       <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
     </offer>
-    <offer id="Az6097" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Испания 70 см Арт. Az6097</name>
-      <price>181</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1bYoCfsgVgHiqRI8xwSIczD1qoNJEXH3j</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EMGstA_ATihquSawSY_MTnI5aaJHqlhC</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">КЦХ</param>
-      <param name="Артикул">Az6097</param>
-      <consist name="Роза одноголовая Испания" unit="шт">15</consist>
-    </offer>
     <offer id="Az6115" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Испания 50 см Арт. Az6115</name>
       <price>136</price>
-      <qty>15</qty>
+      <qty>45</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1HXuykZTiipiuukcwIY2a78hYbmb479Wu</picture>
       <picture>https://lh3.googleusercontent.com/d/1EMGstA_ATihquSawSY_MTnI5aaJHqlhC</picture>
@@ -78,38 +63,6 @@
       <param name="Производитель">КЦХ</param>
       <param name="Артикул">Az6115</param>
       <consist name="Роза одноголовая Испания" unit="шт">15</consist>
-    </offer>
-    <offer id="Az6215" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Перл Аваланш 50 см Арт. Az6215</name>
-      <price>106</price>
-      <qty>30</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DcfQ1npU8jp8suGF8k10RpDZaaIixFiK</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ap5YfQaPIa-YerwMSCqKZ463wRP33iJ4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Om4l8l0wWh402AyBp1cxU_usyC_Drtkh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1XxHzdo5_BzHN9hxeB24B5GD6xaqjVUhw</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">КЦХ</param>
-      <param name="Артикул">Az6215</param>
-      <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
-    </offer>
-    <offer id="Az6226" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Перл Аваланш 60 см Арт. Az6226</name>
-      <price>121</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DzmYi_IgUVNihjlBjnDBUcSsoQYrL7o8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DcfQ1npU8jp8suGF8k10RpDZaaIixFiK</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">КЦХ</param>
-      <param name="Артикул">Az6226</param>
-      <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
     </offer>
     <offer id="Az3847" available="true">
       <categoryId>2</categoryId>
@@ -126,21 +79,6 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3847</param>
       <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
-    </offer>
-    <offer id="Az1895" available="true">
-      <categoryId>3</categoryId>
-      <name>Роза кустовая Кира 50 см Арт. Az1895</name>
-      <price>316</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ZUGzICHxc8gh9yCZGJAjUvqZ3-ephuP-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iK7l8igbosN6W6VzyZMNeZLneGYF22ks</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az1895</param>
-      <consist name="Роза кустовая Кира" unit="шт">10</consist>
     </offer>
     <offer id="Az2857" available="true">
       <categoryId>5</categoryId>
@@ -237,7 +175,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
       <price>83</price>
-      <qty>25</qty>
+      <qty>150</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1NndfrYroSRWw33bc7QGXL-L6yvON6ugH</picture>
       <picture>https://lh3.googleusercontent.com/d/1pDOupW3HXsezU-jJcEHBCWcoB4_F-PA7</picture>
