@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T12:21:22.232+03:00">
+<yml_catalog date="2026-03-20T12:23:37.126+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -48,20 +48,18 @@
       <param name="Артикул">Az2395</param>
       <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
     </offer>
-    <offer id="Az6215" available="true">
+    <offer id="Az6226" available="true">
       <categoryId>1</categoryId>
-      <name>Роза одноголовая Перл Аваланш 50 см Арт. Az6215</name>
-      <price>106</price>
-      <qty>30</qty>
+      <name>Роза одноголовая Перл Аваланш 60 см Арт. Az6226</name>
+      <price>121</price>
+      <qty>15</qty>
       <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XxHzdo5_BzHN9hxeB24B5GD6xaqjVUhw</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ap5YfQaPIa-YerwMSCqKZ463wRP33iJ4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Om4l8l0wWh402AyBp1cxU_usyC_Drtkh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DcfQ1npU8jp8suGF8k10RpDZaaIixFiK</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">КЦХ</param>
-      <param name="Артикул">Az6215</param>
+      <param name="Артикул">Az6226</param>
       <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
     </offer>
     <offer id="Az1895" available="true">
@@ -300,6 +298,22 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Az4746</param>
       <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3646" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
+      <price>391</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Phjwsjyf3-qaKu5QCx1jq6D4dm9R0ifm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xavcE8gOFM0bQEHgYyROxvT_HacqfdAX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3646</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Az3636" available="true">
       <categoryId>37</categoryId>
