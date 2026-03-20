@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T12:23:37.126+03:00">
+<yml_catalog date="2026-03-20T12:31:36.220+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -48,12 +48,30 @@
       <param name="Артикул">Az2395</param>
       <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
     </offer>
+    <offer id="Az6215" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Перл Аваланш 50 см Арт. Az6215</name>
+      <price>106</price>
+      <qty>30</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DcfQ1npU8jp8suGF8k10RpDZaaIixFiK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ap5YfQaPIa-YerwMSCqKZ463wRP33iJ4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Om4l8l0wWh402AyBp1cxU_usyC_Drtkh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XxHzdo5_BzHN9hxeB24B5GD6xaqjVUhw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">КЦХ</param>
+      <param name="Артикул">Az6215</param>
+      <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
+    </offer>
     <offer id="Az6226" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Перл Аваланш 60 см Арт. Az6226</name>
       <price>121</price>
       <qty>15</qty>
       <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DzmYi_IgUVNihjlBjnDBUcSsoQYrL7o8</picture>
       <picture>https://lh3.googleusercontent.com/d/1DcfQ1npU8jp8suGF8k10RpDZaaIixFiK</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
       <param name="Высота, см">60</param>
@@ -61,6 +79,22 @@
       <param name="Производитель">КЦХ</param>
       <param name="Артикул">Az6226</param>
       <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az3847" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3847</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12RVAf9_rl0i7sOET4ylaN2kXYWu2i7DU</picture>
+      <picture>https://lh3.googleusercontent.com/d/14aq2GP4gzcrxXTr_hFm5XiyoCbcdUaUI</picture>
+      <picture>https://lh3.googleusercontent.com/d/16kYZ40BBQA8imekVGiPtnQA7bW9QXgLa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3847</param>
+      <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
     </offer>
     <offer id="Az1895" available="true">
       <categoryId>3</categoryId>
@@ -152,6 +186,39 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az2987</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5395" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Патрис Вайт 50 см Арт. Az5395</name>
+      <price>181</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wDjDQrntTIDqLnC6vnCx__DUUBpbfYht</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wgDaATu4DONNQEpsBpBPTkoQ4Y63MCCs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Az5395</param>
+      <consist name="Хризантема Сантини Патрис Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az4737" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
+      <price>83</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NndfrYroSRWw33bc7QGXL-L6yvON6ugH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pDOupW3HXsezU-jJcEHBCWcoB4_F-PA7</picture>
+      <picture>https://lh3.googleusercontent.com/d/16iOIRz9kiDLJox1md5OkAR2xSkim1Rd_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PyIoHvMbWU45EGG4ZqfvT-PYOF_VLP5-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Gj28zbFSqgBD_w9tO9eqpwZSPXjlVQi4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Колумбия</param>
+      <param name="Производитель">Flores La Conejera</param>
+      <param name="Артикул">Az4737</param>
+      <consist name="Гвоздика одноголовая Ред" unit="шт">25</consist>
     </offer>
     <offer id="Az4794" available="true">
       <categoryId>37</categoryId>
