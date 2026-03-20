@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T12:31:36.220+03:00">
+<yml_catalog date="2026-03-20T12:34:03.089+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -47,6 +47,37 @@
       <param name="Производитель">Чеховский Сад</param>
       <param name="Артикул">Az2395</param>
       <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6097" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Испания 70 см Арт. Az6097</name>
+      <price>181</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bYoCfsgVgHiqRI8xwSIczD1qoNJEXH3j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EMGstA_ATihquSawSY_MTnI5aaJHqlhC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">КЦХ</param>
+      <param name="Артикул">Az6097</param>
+      <consist name="Роза одноголовая Испания" unit="шт">15</consist>
+    </offer>
+    <offer id="Az6115" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Испания 50 см Арт. Az6115</name>
+      <price>136</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HXuykZTiipiuukcwIY2a78hYbmb479Wu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EMGstA_ATihquSawSY_MTnI5aaJHqlhC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wd4WAS4uQysYZyp_Y9ahzBUrNqJQYbr1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">КЦХ</param>
+      <param name="Артикул">Az6115</param>
+      <consist name="Роза одноголовая Испания" unit="шт">15</consist>
     </offer>
     <offer id="Az6215" available="true">
       <categoryId>1</categoryId>
