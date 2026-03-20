@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T11:53:52.844+03:00">
+<yml_catalog date="2026-03-20T12:01:22.750+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -138,6 +138,20 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az2987</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4794" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиацинты Микс 40 см Арт. Az4794</name>
+      <price>151</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xmakSnt77qaHTKtQddDryXSdKAzB6DyD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZGQA3gG5syMdl7pk1CnCAs_sId92BRm_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az4794</param>
+      <consist name="Гиацинты Микс" unit="шт">25</consist>
     </offer>
     <offer id="Az4804" available="true">
       <categoryId>37</categoryId>
