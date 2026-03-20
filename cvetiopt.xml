@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T14:15:56.870+03:00">
+<yml_catalog date="2026-03-20T14:25:50.522+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 60 см Арт. Fc17646</name>
       <price>83</price>
-      <qty>130</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14HrTs_EHXDUCGtDWmMXYGgTjruCjIgGR</picture>
       <picture>https://lh3.googleusercontent.com/d/1CEjxBKs-K0t4GVQGSnjcynYYFj6HOOYC</picture>
@@ -39,7 +39,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Маритим 60 см Арт. Fc02536</name>
       <price>83</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1qoZl2C-KNeQP2y2uujOpmUQajHoksjvn</picture>
       <picture>https://lh3.googleusercontent.com/d/1j_cW7zntaHWkxz2D21-8GBX_UQubALZ6</picture>
@@ -269,24 +269,6 @@
       <param name="Артикул">Fc06236</param>
       <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
     </offer>
-    <offer id="Fc12417" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Супербоул 70 см Арт. Fc12417</name>
-      <price>176</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1IaqESEJnxHdii8W2tH3AWLaSADDNG_Du</picture>
-      <picture>https://lh3.googleusercontent.com/d/1QfISKoElqpaQ-83MxQWNKIvDi60dxMwR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1g7g-4UQzX9iR2VAwljwD2iUjlPeG1jXD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vpuY1z4Qec8vXK2AKVml1NbSMsUVf7iZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UZtbq6vc97jfbELMigu4jhy-TNeGZ-cn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Fc12417</param>
-      <consist name="Хризантема одноголовая Супербоул" unit="шт">10</consist>
-    </offer>
     <offer id="Fc7427" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бейби 70 см Арт. Fc7427</name>
@@ -309,7 +291,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. Fc20347</name>
       <price>132</price>
-      <qty>30</qty>
+      <qty>145</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1htu15yvctxw_7OolyPzsA0tUOte_XUXl</picture>
       <picture>https://lh3.googleusercontent.com/d/19WolvSk52EAyY9mPgRuBUQ_z9Kc6F-T9</picture>
@@ -341,24 +323,6 @@
       <param name="Артикул">Fc18677</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
     </offer>
-    <offer id="Fc01055" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Байкал 55 см Арт. Fc01055</name>
-      <price>93</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1sKqKZ4PWKOt3IN8Pe7HkykdK9MTL_wCd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1gCXzKDZc8Zt6ejQZQ9Ju4ahS4j-11E2t</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Xc3yZuT58MvyFUOsKC1tNMpvGrtXxCco</picture>
-      <picture>https://lh3.googleusercontent.com/d/1D5H8tJ2f0grbLKrE0uGRFORdZtSbXifb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xXPiQp5Tjyme9xPXKDs2z5cMyzuwf7wa</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Fc01055</param>
-      <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
-    </offer>
     <offer id="Fc7455" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Дория 55 см Арт. Fc7455</name>
@@ -381,7 +345,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Марадона 55 см Арт. Fc13765</name>
       <price>91</price>
-      <qty>150</qty>
+      <qty>250</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1cRfhMHwA9smyHdxYjM7oFCfVgQHqyRMg</picture>
       <picture>https://lh3.googleusercontent.com/d/18TZcnMhbhac3qcMzdWaXX8v4mNhB1oku</picture>
@@ -399,7 +363,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси крашенная 55 см Арт. Fc01085</name>
       <price>93</price>
-      <qty>425</qty>
+      <qty>400</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16b-dXXuQYIH1Sae_8FrXgKaVqJfn6g-A</picture>
       <picture>https://lh3.googleusercontent.com/d/1xkbaiRXZenC3C6BuLuhzavoThvRgHT_K</picture>
@@ -417,7 +381,7 @@
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Пинк 55 см Арт. Fc03455</name>
       <price>102</price>
-      <qty>275</qty>
+      <qty>250</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1jTAU8MGKUcYDKJkM8Hr5VdHTQk28ov54</picture>
       <picture>https://lh3.googleusercontent.com/d/1yepj__occbnUlqll5LbWSUrwdU9HDW8W</picture>
@@ -703,7 +667,7 @@
       <categoryId>37</categoryId>
       <name>Сирень Розовый 60 см Арт. Fc16866</name>
       <price>424</price>
-      <qty>40</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1y9dISpIwssgFC_BZpyuFgvCQsS9I0QaS</picture>
       <picture>https://lh3.googleusercontent.com/d/1-CxyBt5kPP63HUbBiiIiL1-Budg-xxi0</picture>
@@ -720,7 +684,7 @@
       <categoryId>37</categoryId>
       <name>Танацетум Белый 50 см Арт. Fc01915</name>
       <price>99</price>
-      <qty>1450</qty>
+      <qty>1525</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Tg9GydHH-UQCmn1-6SBq5VbXHu_aEJPl</picture>
       <picture>https://lh3.googleusercontent.com/d/19-_gw3DC-eyB9b8tIrKmNyehvzxaDVE7</picture>
@@ -751,28 +715,11 @@
       <param name="Артикул">Fc04794</param>
       <consist name="Тюльпан Династий" unit="шт">50</consist>
     </offer>
-    <offer id="Fc04784" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Колумбус 40 см Арт. Fc04784</name>
-      <price>75</price>
-      <qty>250</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1GJdSc0ObUFIfTSzCzmFMoCvNvIx1d43Q</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q13Z6AlcD736SciCa9_kyrT1F1Dx1cN7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1d_iBIUsWKso6K9mTGZHSimlgUQPbFynX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1roVKJ1JGEO0DAFbfvoO62tSZHiVo6mu_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mSVjoL2BBmmNfwfOCVjki1dT6dnFflvy</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Fc04784</param>
-      <consist name="Тюльпан Колумбус" unit="шт">50</consist>
-    </offer>
     <offer id="Fc20984" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный 40 см Арт. Fc20984</name>
       <price>88</price>
-      <qty>1050</qty>
+      <qty>950</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1m-J1x0-g5g6E4ja-aBFFOERrTRAP-tzz</picture>
       <picture>https://lh3.googleusercontent.com/d/1FGrnGEMWYAkYNIeMTRaC8TzWTY3w15I_</picture>
@@ -803,7 +750,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Гудошник 40 см Арт. Fc20924</name>
       <price>160</price>
-      <qty>100</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1716LEyi8WPHiU0TOg08izmJ_VxC0Q6Se</picture>
       <picture>https://lh3.googleusercontent.com/d/1VpUw1tVNnZeXp5ROEFLS57RBbOlID_fM</picture>
@@ -819,7 +766,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Самбука 40 см Арт. Fc20814</name>
       <price>91</price>
-      <qty>300</qty>
+      <qty>750</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1gKfy3urN6LFxMNcKDuAzSFy6--B8fbBD</picture>
       <picture>https://lh3.googleusercontent.com/d/1ENrmy5BjBKYfdnUfX-ijGdBtOdCyKcwr</picture>
@@ -853,7 +800,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Fc9476</name>
       <price>215</price>
-      <qty>1400</qty>
+      <qty>1270</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XXP0S7cg_7J7pUQUUoZe4Fl1-b8mj5aJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1cT5rrkWXfzTjyHRQFscLEGmExIdB1RoW</picture>
