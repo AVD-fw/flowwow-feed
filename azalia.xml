@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T12:11:20.557+03:00">
+<yml_catalog date="2026-03-20T12:13:44.278+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -31,6 +31,22 @@
       <param name="Производитель">КЦХ</param>
       <param name="Артикул">Az6325</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az2395" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Илиос 50 см Арт. Az2395</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aqCS_1JgDicZi1JEprAfygqllifU9Bip</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OdH8LsZDjaUSBBRYCLjSXVrMFEFxcSxx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U4VSPZUuHXLFob8Jj4fVcpKGvOOKOhyY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az2395</param>
+      <consist name="Роза одноголовая Илиос" unit="шт">10</consist>
     </offer>
     <offer id="Az6215" available="true">
       <categoryId>1</categoryId>
@@ -269,6 +285,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5645</param>
       <consist name="Тюльпан Пионовидный Строуберри Крем" unit="шт">10</consist>
+    </offer>
+    <offer id="Az4746" available="true">
+      <categoryId>37</categoryId>
+      <name>Эрингиум Супернова Кьюстар 60 см Арт. Az4746</name>
+      <price>271</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jMbIy7WWCEN9SaRVm6aX2x1RuzRc1s7y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NfMZAdLHLyTkmiaABLjkPqC-GeXKpqrG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az4746</param>
+      <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
     </offer>
     <offer id="Az3636" available="true">
       <categoryId>37</categoryId>
