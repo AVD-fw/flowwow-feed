@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T11:01:20.649+03:00">
+<yml_catalog date="2026-03-20T11:03:32.809+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -47,6 +47,21 @@
       <param name="Производитель">КЦХ</param>
       <param name="Артикул">Az6215</param>
       <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az1895" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Кира 50 см Арт. Az1895</name>
+      <price>316</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ZUGzICHxc8gh9yCZGJAjUvqZ3-ephuP-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iK7l8igbosN6W6VzyZMNeZLneGYF22ks</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az1895</param>
+      <consist name="Роза кустовая Кира" unit="шт">10</consist>
     </offer>
     <offer id="Az5547" available="true">
       <categoryId>37</categoryId>
@@ -104,6 +119,21 @@
       <param name="Производитель">Микс Ар</param>
       <param name="Артикул">Az6134</param>
       <consist name="Тюльпан" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4104" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Пинк Фокстрот 40 см Арт. Az4104</name>
+      <price>181</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mXfkiHvv477001CzfPvaD202W2ZZfKui</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J0E2KgW65OzJgXqDz7OWBsEgWO2kI2nJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S6MgyQueQd2BowtoVIa3SoZlR6_bmgrq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4104</param>
+      <consist name="Тюльпан Пионовидный Пинк Фокстрот" unit="шт">50</consist>
     </offer>
     <offer id="Az5645" available="true">
       <categoryId>37</categoryId>
