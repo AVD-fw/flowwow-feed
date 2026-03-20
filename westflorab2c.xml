@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T09:47:02.736+03:00">
+<yml_catalog date="2026-03-20T09:57:05.784+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -357,6 +357,22 @@
       <param name="Артикул">Va0165c</param>
       <consist name="Гиперикум Коко Уно" unit="шт">10</consist>
     </offer>
+    <offer id="Va0626c" available="true">
+      <name>Пачка (50 шт.) Ирис Блю Меджик 60 см Арт. Va0626c</name>
+      <categoryId>450</categoryId>
+      <price>3840</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZOc8tUpfjvkXqv_A4tMpKyZnEDrVwCZV</picture>
+      <picture>https://lh3.googleusercontent.com/d/17dQXq3P0GUshMG7BAg-Cy28s7ZoJW0_r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U6Nq70zCVwA6_G9GbfH-GkT5J3NH7clY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Flowers Tuinbouw BV</param>
+      <param name="Артикул">Va0626c</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
     <offer id="Va1376c" available="true">
       <name>Пачка (10 шт.) Калла Белый 60 см Арт. Va1376c</name>
       <categoryId>450</categoryId>
@@ -419,6 +435,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va3146c</param>
       <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Va1236c" available="true">
+      <name>Пачка (10 шт.) Сирень Белый 60 см Арт. Va1236c</name>
+      <categoryId>450</categoryId>
+      <price>6583</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-5lJIYUXvg86x8jwz7ccOhPxu8O2SJoh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lSAw7RsflmN4Ht5uhxR_ZYxwdQBP7bqz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HsvcqeJWouqpzMdHSqxqiQjqAkLRU20g</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va1236c</param>
+      <consist name="Сирень" unit="шт">10</consist>
     </offer>
     <offer id="Va1806c" available="true">
       <name>Пачка (10 шт.) Сирень Сиреневый 60 см Арт. Va1806c</name>
