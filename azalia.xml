@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-20T15:24:38.130+03:00">
+<yml_catalog date="2026-03-20T15:31:26.133+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -64,22 +64,6 @@
       <param name="Артикул">Az6115</param>
       <consist name="Роза одноголовая Испания" unit="шт">15</consist>
     </offer>
-    <offer id="Az3847" available="true">
-      <categoryId>2</categoryId>
-      <name>Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3847</name>
-      <price>196</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12RVAf9_rl0i7sOET4ylaN2kXYWu2i7DU</picture>
-      <picture>https://lh3.googleusercontent.com/d/14aq2GP4gzcrxXTr_hFm5XiyoCbcdUaUI</picture>
-      <picture>https://lh3.googleusercontent.com/d/16kYZ40BBQA8imekVGiPtnQA7bW9QXgLa</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az3847</param>
-      <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
-    </offer>
     <offer id="Az2857" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. Az2857</name>
@@ -111,37 +95,6 @@
       <param name="Артикул">Az4557</param>
       <consist name="Хризантема одноголовая Топспин Еллоу" unit="шт">10</consist>
     </offer>
-    <offer id="Az4137" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
-      <price>256</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ODZQ-MBNEY3bzNv0_mOB7lYwY81N1Ipp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4137</param>
-      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3007" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
-      <price>256</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1vbbfw06lt_AIFpB6xzLlM7-YgLlanQoh</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uP27vUX9EN6c2jkAK9DyiAl8EhMdPv--</picture>
-      <picture>https://lh3.googleusercontent.com/d/16y_qmhUp0tOo07MrzzE0ygJovBPiumZs</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3007</param>
-      <consist name="Хризантема кустовая Фабьен Свит" unit="шт">5</consist>
-    </offer>
     <offer id="Az2987" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Хайдар 70 см Арт. Az2987</name>
@@ -155,21 +108,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az2987</param>
       <consist name="Хризантема кустовая Хайдар" unit="шт">5</consist>
-    </offer>
-    <offer id="Az5395" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Патрис Вайт 50 см Арт. Az5395</name>
-      <price>181</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1wDjDQrntTIDqLnC6vnCx__DUUBpbfYht</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wgDaATu4DONNQEpsBpBPTkoQ4Y63MCCs</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">LS Santini</param>
-      <param name="Артикул">Az5395</param>
-      <consist name="Хризантема Сантини Патрис Вайт" unit="шт">25</consist>
     </offer>
     <offer id="Az4737" available="true">
       <categoryId>37</categoryId>
@@ -248,7 +186,7 @@
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -263,7 +201,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан 40 см Арт. Az6134</name>
       <price>80</price>
-      <qty>300</qty>
+      <qty>400</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JUCnwJ4OYRl4Ye-WuuZ1ldl5rfNq4f5Y</picture>
       <picture>https://lh3.googleusercontent.com/d/1NGiaKzvYdjHWCBESphSfYrCbqep3c2Ns</picture>
@@ -278,7 +216,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Пинк Фокстрот 40 см Арт. Az4104</name>
       <price>181</price>
-      <qty>50</qty>
+      <qty>300</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mXfkiHvv477001CzfPvaD202W2ZZfKui</picture>
       <picture>https://lh3.googleusercontent.com/d/1J0E2KgW65OzJgXqDz7OWBsEgWO2kI2nJ</picture>
@@ -293,7 +231,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Самбука 40 см Арт. Az3144</name>
       <price>151</price>
-      <qty>50</qty>
+      <qty>200</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1he_OT5df6wwz4bppjyTBUPtaWnHTc83n</picture>
       <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
@@ -310,7 +248,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Строуберри Крем 50 см Арт. Az5645</name>
       <price>376</price>
-      <qty>70</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EfTK9zzLWAoybVVUPsQSMsR_6CG2klid</picture>
       <picture>https://lh3.googleusercontent.com/d/1NWIpr5Zkd6KoXIRCfbtr9Ae9B52Uu4TB</picture>
@@ -319,55 +257,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5645</param>
       <consist name="Тюльпан Пионовидный Строуберри Крем" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4746" available="true">
-      <categoryId>37</categoryId>
-      <name>Эрингиум Супернова Кьюстар 60 см Арт. Az4746</name>
-      <price>271</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jMbIy7WWCEN9SaRVm6aX2x1RuzRc1s7y</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NfMZAdLHLyTkmiaABLjkPqC-GeXKpqrG</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Az4746</param>
-      <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3646" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
-      <price>391</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Phjwsjyf3-qaKu5QCx1jq6D4dm9R0ifm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xavcE8gOFM0bQEHgYyROxvT_HacqfdAX</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Az3646</param>
-      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3636" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
-      <price>421</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1q3CUXhMyMMVMGykm16SWNMOEt8vtivFL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yMOyYlODnylCeYtAi-j9Jv0MbIxhWkka</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OtTYBPl5qWKklImIHN46jE6vnXRCE80M</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
-      <picture>https://lh3.googleusercontent.com/d/15Z6UEdm-lbdTR-YBfz-GL4HfHL7h6r2N</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">Az3636</param>
-      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Az1357" available="true">
       <categoryId>38</categoryId>
