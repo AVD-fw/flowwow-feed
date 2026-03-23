@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-23T11:03:41.966+03:00">
+<yml_catalog date="2026-03-23T11:11:17.565+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,35 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az6226" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Перл Аваланш 60 см Арт. Az6226</name>
-      <price>100</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DzmYi_IgUVNihjlBjnDBUcSsoQYrL7o8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1DcfQ1npU8jp8suGF8k10RpDZaaIixFiK</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">КЦХ</param>
-      <param name="Артикул">Az6226</param>
-      <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
-    </offer>
-    <offer id="Az5525" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Крем Брюле 50 см Арт. Az5525</name>
-      <price>316</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1PDw_lbaNzBEIQIhf_aWn_GRBIx31JUIr</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az5525</param>
-      <consist name="Роза кустовая пионовидная Крем Брюле" unit="шт">10</consist>
-    </offer>
     <offer id="Az2857" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум 70 см Арт. Az2857</name>
@@ -61,44 +32,11 @@
       <param name="Артикул">Az2857</param>
       <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
     </offer>
-    <offer id="Az2887" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
-      <price>271</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AX0b6B-0aZ2l8fSesJCt8HxqAwd_20SO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1z6QGOr0ggyzkJD2r4558Tn-6WtcQZu4V</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az2887</param>
-      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
-    </offer>
-    <offer id="Az2977" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
-      <price>256</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/10Bw2NawHqNNzu91tvu3-L4Mcykdqg3CC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Qs7sCe9cJ1R4zE3kiwRTVewmG1DZH8sG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Lj86Dw-eLUO4XhD8BqcoG8tt3EWcgvZ-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az2977</param>
-      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
-    </offer>
     <offer id="Az3037" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
       <price>256</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AEtWlIVEJ-1pfp8fH1wWXYjLhl4B-pYA</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
@@ -126,7 +64,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
       <price>256</price>
-      <qty>5</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/12n_F9jQl45w-heIMkUTr8-uC3xHI90hd</picture>
       <picture>https://lh3.googleusercontent.com/d/1zOi2sdxnFc1ccFJNtOouAeSU2_wUQYAg</picture>
@@ -171,39 +109,6 @@
       <param name="Артикул">Az4565</param>
       <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
     </offer>
-    <offer id="Az3405" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси Крем 50 см Арт. Az3405</name>
-      <price>181</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1vy5bJ7_EoFiPr8VCSGcsEN3GgwW-bvIo</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YgLI1fdV6w5mcmpNQnt7_HCznB0gt2Oq</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">LS Santini</param>
-      <param name="Артикул">Az3405</param>
-      <consist name="Хризантема Сантини Росси Крем" unit="шт">25</consist>
-    </offer>
-    <offer id="Az3395" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Росси Пинк 50 см Арт. Az3395</name>
-      <price>181</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1J9Vmr-DA3VV2rPl7ZhpErI7xNm8nR3h7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qD_K7M6WxdIus9ZALmRpELsqV8Enxzrg</picture>
-      <picture>https://lh3.googleusercontent.com/d/15I9KYKMdFwV07H3RSP21-ETINBCSaAX_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1A3ehrCY4TY7LPTGlyMxirGwGyg1g9mvy</picture>
-      <picture>https://lh3.googleusercontent.com/d/18WVF5Vl2jAT9eLUF9zZUcEUegVqDYrz5</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3395</param>
-      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
-    </offer>
     <offer id="Az5385" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Сан Ап 50 см Арт. Az5385</name>
@@ -239,7 +144,7 @@
       <categoryId>37</categoryId>
       <name>Маттиола Айрон Марин 60 см Арт. Az3336</name>
       <price>301</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iYZSBCZf-oTzi6JRLulgF7YlFfNzJUqv</picture>
       <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
@@ -254,7 +159,7 @@
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -284,7 +189,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Строуберри Крем 50 см Арт. Az5645</name>
       <price>376</price>
-      <qty>20</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EfTK9zzLWAoybVVUPsQSMsR_6CG2klid</picture>
       <picture>https://lh3.googleusercontent.com/d/1NWIpr5Zkd6KoXIRCfbtr9Ae9B52Uu4TB</picture>
