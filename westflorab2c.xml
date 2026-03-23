@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-23T10:17:11.750+03:00">
+<yml_catalog date="2026-03-23T10:27:03.716+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Va1036c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Красный 60 см Арт. Va1036c</name>
+      <categoryId>450</categoryId>
+      <price>3902</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Xzpt4waqkTkLOF_7izdw7V-gnQNjcg8t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IFKzt0EFsg_b-EGicYiypaeiCvwj51ZX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N3TkbjwxEoIuwLUQSo7uoHWXT4q4s2OC</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Sun Spray</param>
+      <param name="Артикул">Va1036c</param>
+      <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
     <offer id="Va1256c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Оранжевый 60 см Арт. Va1256c</name>
       <categoryId>450</categoryId>
@@ -55,6 +71,70 @@
       <param name="Производитель">Jewel</param>
       <param name="Артикул">Va4046c</param>
       <consist name="Роза кустовая" unit="шт">10</consist>
+    </offer>
+    <offer id="Va1756c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Фаер Флоу 60 см Арт. Va1756c</name>
+      <categoryId>450</categoryId>
+      <price>3902</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1usebM9vi4SfKR3vaGqQzHQ89ALO2MxC9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AVDMTwVVeBGbE65XprYUQM5cCoTTpkSm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OZfaDlUX6EsrMAMp_-ICRjM_014as1VF</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Flora Ola</param>
+      <param name="Артикул">Va1756c</param>
+      <consist name="Роза кустовая Фаер Флоу" unit="шт">10</consist>
+    </offer>
+    <offer id="Va2246c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая пионовидная Кремовый 60 см Арт. Va2246c</name>
+      <categoryId>450</categoryId>
+      <price>3902</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1-hZF6b6YhCGIoJC1z-HHWYG8QxfK7EeU</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ec1Lr7fWgX48RhNR2B0XEj2YkpO2l668</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_QmGrItSxBy84ZyIKpZX_dleSr4v4ZQe</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Flora Ola</param>
+      <param name="Артикул">Va2246c</param>
+      <consist name="Роза кустовая пионовидная" unit="шт">10</consist>
+    </offer>
+    <offer id="Va1656c" available="true">
+      <name>Пачка (5 шт.) Роза кустовая пионовидная Джульетта 60 см Арт. Va1656c</name>
+      <categoryId>450</categoryId>
+      <price>2043</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/18rlE4gcoC0AqR1Fw0ectFTy8r5PUG249</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JFjLLrot_paN4gPQ3_16Ldqel6PlZwqK</picture>
+      <picture>https://lh3.googleusercontent.com/d/16WayKKtIyMr68zPV9P78-RlYtweAhnMy</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Qmang</param>
+      <param name="Артикул">Va1656c</param>
+      <consist name="Роза кустовая пионовидная Джульетта" unit="шт">5</consist>
+    </offer>
+    <offer id="Va3606c" available="true">
+      <name>Пачка (5 шт.) Роза кустовая пионовидная Сильва Пинк 60 см Арт. Va3606c</name>
+      <categoryId>450</categoryId>
+      <price>2403</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1s-5NpimtQf5RmAEnLfBjmBU3CMimJaf9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m3WAjafdCC2IXQXqqfrS8_KsQFaXXDgr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eOsPHntVsTNI6lncNQKJMAoTCZ18CIKp</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen</param>
+      <param name="Артикул">Va3606c</param>
+      <consist name="Роза кустовая пионовидная Сильва Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Va3527c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Момоко 70 см Арт. Va3527c</name>
@@ -168,6 +248,22 @@
       <param name="Артикул">Va2967c</param>
       <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
+    <offer id="Va0796c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Ньютон 60 см Арт. Va0796c</name>
+      <categoryId>450</categoryId>
+      <price>1433</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/18B-l1yG6Nc7or2Dm_FwL5uOtfou2GBKQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/142v1ic2TR6efUQ2_a5bMvtmgDWhhgXFK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-QBI2cCGCiHTLoQfy9FlHN0jNE0bRiVr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0796c</param>
+      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
+    </offer>
     <offer id="Va1967c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Оптимист 70 см Арт. Va1967c</name>
       <categoryId>450</categoryId>
@@ -247,6 +343,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Va1327c</param>
       <consist name="Хризантема кустовая Селебрейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Va2066c" available="true">
+      <name>Пачка (10 шт.) Антирринум Фиолетовый 60 см Арт. Va2066c</name>
+      <categoryId>450</categoryId>
+      <price>2038</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1gLJyCVEoASfhZCYZFbI1va0huYl4aF-s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G8k99jdKUHRr_IPh244ajoyuiPCMBhmR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OuNyNbYt3CzeXk9SI6rUoSQeRMAO61f2</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va2066c</param>
+      <consist name="Антирринум" unit="шт">10</consist>
     </offer>
     <offer id="Va3716c" available="true">
       <name>Пачка (10 шт.) Вибурнум Зеленый 60 см Арт. Va3716c</name>
@@ -418,6 +529,22 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Va2166c</param>
       <consist name="Эустома Алисса Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Va0696c" available="true">
+      <name>Пачка (10 шт.) Эустома Алисса Пинк 60 см Арт. Va0696c</name>
+      <categoryId>450</categoryId>
+      <price>4043</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1vibTw2AoBAcptYFbvjmwgskSvML9rLRH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q9fFzyD6Y1vqncGZIk6JNNJiIcPwT17r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FwDv7wXQ9hi4SFi3lbGRecf8nKVcx3cR</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Va0696c</param>
+      <consist name="Эустома Алисса Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Va1246c" available="true">
       <name>Пачка (10 шт.) Эустома Росита Пинк 60 см Арт. Va1246c</name>
