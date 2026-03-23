@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-23T15:13:37.005+03:00">
+<yml_catalog date="2026-03-23T15:21:24.828+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,20 +32,6 @@
       <param name="Артикул">Az2857</param>
       <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
     </offer>
-    <offer id="Az3037" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
-      <price>256</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AEtWlIVEJ-1pfp8fH1wWXYjLhl4B-pYA</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3037</param>
-      <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
-    </offer>
     <offer id="Az3047" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Радость 70 см Арт. Az3047</name>
@@ -60,28 +46,11 @@
       <param name="Артикул">Az3047</param>
       <consist name="Хризантема кустовая Радость" unit="шт">5</consist>
     </offer>
-    <offer id="Az4487" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
-      <price>256</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12n_F9jQl45w-heIMkUTr8-uC3xHI90hd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zOi2sdxnFc1ccFJNtOouAeSU2_wUQYAg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1KYYZwxN4KhFjyEcZK-om3Rkoz-7y28pr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1noVrJqtvRB_CK2QkbuJmOG1i9J9NkCof</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4487</param>
-      <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
-    </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>106</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rwxb-vBzGgbps4dMrGmN-Lio_85jOQpD</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
@@ -93,26 +62,11 @@
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
-    <offer id="Az3336" available="true">
-      <categoryId>37</categoryId>
-      <name>Маттиола Айрон Марин 60 см Арт. Az3336</name>
-      <price>301</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1iYZSBCZf-oTzi6JRLulgF7YlFfNzJUqv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GOEuy4Whz9HDQ-iCq6MW0ujq_xW4PayI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1h0hQAsuJv1YEnFIoY_bTaTNoua1xVBe8</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az3336</param>
-      <consist name="Маттиола Айрон Марин" unit="шт">10</consist>
-    </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>20</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -127,7 +81,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Пинк Фокстрот 40 см Арт. Az4104</name>
       <price>181</price>
-      <qty>200</qty>
+      <qty>400</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mXfkiHvv477001CzfPvaD202W2ZZfKui</picture>
       <picture>https://lh3.googleusercontent.com/d/1J0E2KgW65OzJgXqDz7OWBsEgWO2kI2nJ</picture>
@@ -142,7 +96,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Строуберри Крем 50 см Арт. Az5645</name>
       <price>376</price>
-      <qty>30</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EfTK9zzLWAoybVVUPsQSMsR_6CG2klid</picture>
       <picture>https://lh3.googleusercontent.com/d/1NWIpr5Zkd6KoXIRCfbtr9Ae9B52Uu4TB</picture>
