@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-23T10:51:20.825+03:00">
+<yml_catalog date="2026-03-23T10:53:35.646+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -219,29 +219,11 @@
       <param name="Артикул">Az5385</param>
       <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
     </offer>
-    <offer id="Az4737" available="true">
-      <categoryId>37</categoryId>
-      <name>Гвоздика одноголовая Ред 70 см Арт. Az4737</name>
-      <price>83</price>
-      <qty>75</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1nkJum9iMnzc9QJJVRasajRg7SfQLnTP0</picture>
-      <picture>https://lh3.googleusercontent.com/d/16iOIRz9kiDLJox1md5OkAR2xSkim1Rd_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PyIoHvMbWU45EGG4ZqfvT-PYOF_VLP5-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Gj28zbFSqgBD_w9tO9eqpwZSPXjlVQi4</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NndfrYroSRWw33bc7QGXL-L6yvON6ugH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Колумбия</param>
-      <param name="Производитель">Flores La Conejera</param>
-      <param name="Артикул">Az4737</param>
-      <consist name="Гвоздика одноголовая Ред" unit="шт">25</consist>
-    </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>106</price>
-      <qty>25</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rwxb-vBzGgbps4dMrGmN-Lio_85jOQpD</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
