@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-23T08:53:33.091+03:00">
+<yml_catalog date="2026-03-23T09:01:36.509+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az6226" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Перл Аваланш 60 см Арт. Az6226</name>
+      <price>100</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DzmYi_IgUVNihjlBjnDBUcSsoQYrL7o8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DcfQ1npU8jp8suGF8k10RpDZaaIixFiK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">КЦХ</param>
+      <param name="Артикул">Az6226</param>
+      <consist name="Роза одноголовая Перл Аваланш" unit="шт">15</consist>
+    </offer>
     <offer id="Az5525" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Крем Брюле 50 см Арт. Az5525</name>
@@ -46,6 +61,22 @@
       <param name="Артикул">Az2857</param>
       <consist name="Хризантема одноголовая Магнум" unit="шт">10</consist>
     </offer>
+    <offer id="Az2887" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
+      <price>271</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AX0b6B-0aZ2l8fSesJCt8HxqAwd_20SO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z6QGOr0ggyzkJD2r4558Tn-6WtcQZu4V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2887</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
     <offer id="Az2977" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
@@ -62,6 +93,34 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2977</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3037" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1AEtWlIVEJ-1pfp8fH1wWXYjLhl4B-pYA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3037</param>
+      <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3047" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Радость 70 см Арт. Az3047</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19q7j5EjpHKoVqOMo0VRFmfbm7rvPbmfJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3047</param>
+      <consist name="Хризантема кустовая Радость" unit="шт">5</consist>
     </offer>
     <offer id="Az4487" available="true">
       <categoryId>6</categoryId>
