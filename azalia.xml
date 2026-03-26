@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-26T15:13:38.808+03:00">
+<yml_catalog date="2026-03-26T15:21:42.428+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Лондон Таймс 40 см Арт. Az6384</name>
       <price>166</price>
-      <qty>60</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QA2ATg9Ra8hrUBj_ZWyAzYcMvqc8_28a</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -35,7 +35,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Ридженс Парк 50 см Арт. Az5305</name>
       <price>166</price>
-      <qty>20</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XLJeHBqTKD9JVUSgar4AiLNY0D3k5Rbt</picture>
       <picture>https://lh3.googleusercontent.com/d/1viW8tBznpwXIUC17QV-AHvceg5QcLIeC</picture>
@@ -82,7 +82,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбасик 50 см Арт. Az3445</name>
       <price>331</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QZa2pRDY57-KKnxmV3RJRBoLxRRpIOP9</picture>
       <picture>https://lh3.googleusercontent.com/d/1sJwI-9RqK40HjSvWfh5PJoz9WMP7Hcem</picture>
@@ -93,28 +93,11 @@
       <param name="Артикул">Az3445</param>
       <consist name="Роза кустовая пионовидная Леди Бомбасик" unit="шт">10</consist>
     </offer>
-    <offer id="Az3167" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Ньютон 70 см Арт. Az3167</name>
-      <price>256</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1e5PEgfMm4Ps_TgHL7yl6xn4HMSY2tndI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OrCuzLUep6ksp2Jy6yj2vTCJ3ncLszUF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1O85tlx-SAIjs85ZXim56Z2KMODHQMyGv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1TG09-BjVrMKHQH_n2tGz0HJCPB8-8KN7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3167</param>
-      <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
-    </offer>
     <offer id="Az5415" available="true">
       <categoryId>37</categoryId>
       <name>Астильба Поп Гардер 50 см Арт. Az5415</name>
       <price>211</price>
-      <qty>60</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Vnwc4UWKfyCXdzINQR9HZypHLxb32gUj</picture>
       <picture>https://lh3.googleusercontent.com/d/1Z7fc90DEUpHzNs0PHFouaHusrF9BqJJ1</picture>
@@ -129,7 +112,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>106</price>
-      <qty>75</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
@@ -164,7 +147,7 @@
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>50</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -180,7 +163,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Стронг Голд 40 см Арт. Az3124</name>
       <price>121</price>
-      <qty>50</qty>
+      <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1G6-B_LeFw-arJLSs_CvvDu09qtNNtFsH</picture>
       <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
@@ -212,7 +195,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Строуберри Крем 50 см Арт. Az5645</name>
       <price>376</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1EfTK9zzLWAoybVVUPsQSMsR_6CG2klid</picture>
       <picture>https://lh3.googleusercontent.com/d/1NWIpr5Zkd6KoXIRCfbtr9Ae9B52Uu4TB</picture>
@@ -226,7 +209,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364</name>
       <price>166</price>
-      <qty>900</qty>
+      <qty>1000</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kTsQlbp2mjF02aDF8wC-rgPlczkwnV4l</picture>
       <picture>https://lh3.googleusercontent.com/d/10FEzuF9onhD29Sw5WZ1_DVBC5wR1T2FN</picture>
@@ -240,7 +223,7 @@
       <categoryId>37</categoryId>
       <name>Хамелациум Ади 40 см Арт. Az3554</name>
       <price>256</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1GRlTNcb1gt9mtaJX5sSxFYmi9M8CAc9F</picture>
       <picture>https://lh3.googleusercontent.com/d/1lDJH7pIDlldcu7qInT2nA9aJn-St0eii</picture>
@@ -254,7 +237,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>391</price>
-      <qty>50</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
@@ -271,7 +254,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пьюр Вайт 60 см Арт. Az5636</name>
       <price>391</price>
-      <qty>40</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1VbKkNqhq3vCzM11WtqFrpBTSJ28kjsqo</picture>
       <picture>https://lh3.googleusercontent.com/d/1VAyd7P7QpTReLEVz8QdeJM359p3QE2PC</picture>
