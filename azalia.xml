@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-26T09:43:47.514+03:00">
+<yml_catalog date="2026-03-26T09:51:43.871+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Лондон Таймс 40 см Арт. Az6384</name>
       <price>166</price>
-      <qty>80</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QA2ATg9Ra8hrUBj_ZWyAzYcMvqc8_28a</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -66,7 +66,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Барбадос 50 см Арт. Az4335</name>
       <price>196</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DGN6XnMuLgpps6wSHwTJ1D39ZchD5AqF</picture>
       <picture>https://lh3.googleusercontent.com/d/1xs6FAaBWipItzwrvzTaRIOvDof4ZxrWA</picture>
@@ -82,7 +82,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Леди Бомбасик 50 см Арт. Az3445</name>
       <price>331</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1QZa2pRDY57-KKnxmV3RJRBoLxRRpIOP9</picture>
       <picture>https://lh3.googleusercontent.com/d/1sJwI-9RqK40HjSvWfh5PJoz9WMP7Hcem</picture>
@@ -142,28 +142,11 @@
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
-    <offer id="Az3656" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
-      <price>61</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1SfTmpf51TGEiYhEcjlz7Q6NfHFr7m8fg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
-      <picture>https://lh3.googleusercontent.com/d/1o6z5Hi0V9Wuxm81adMncqC9OQza_Kwcg</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kJxhWz-mfUozYEGEBzx4M_Tbot0PxbjW</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3656</param>
-      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
-    </offer>
     <offer id="Az3586" available="true">
       <categoryId>37</categoryId>
       <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
       <price>271</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14UWlsJlqCV8s2HeKijrvyVjoXWvPH2cI</picture>
       <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
@@ -181,7 +164,7 @@
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>30</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
