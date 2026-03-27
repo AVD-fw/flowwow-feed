@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27T06:03:36.928+03:00">
+<yml_catalog date="2026-03-27T06:22:02.252+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,40 +17,11 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az6384" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Лондон Таймс 40 см Арт. Az6384</name>
-      <price>166</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1QA2ATg9Ra8hrUBj_ZWyAzYcMvqc8_28a</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az6384</param>
-      <consist name="Роза одноголовая Лондон Таймс" unit="шт">10</consist>
-    </offer>
-    <offer id="Az5305" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Ридженс Парк 50 см Арт. Az5305</name>
-      <price>166</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XLJeHBqTKD9JVUSgar4AiLNY0D3k5Rbt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1viW8tBznpwXIUC17QV-AHvceg5QcLIeC</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az5305</param>
-      <consist name="Роза одноголовая Ридженс Парк" unit="шт">10</consist>
-    </offer>
     <offer id="Az2917" available="true">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Питер Парк 70 см Арт. Az2917</name>
       <price>196</price>
-      <qty>40</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Gia0WMBMc0cknZCD8bL2Y-jTThlsUWHh</picture>
       <picture>https://lh3.googleusercontent.com/d/1JynY5FkEt98-qc85V4JxGyaSWK1rM8US</picture>
@@ -66,7 +37,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Барбадос 50 см Арт. Az4335</name>
       <price>196</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1DGN6XnMuLgpps6wSHwTJ1D39ZchD5AqF</picture>
       <picture>https://lh3.googleusercontent.com/d/1xs6FAaBWipItzwrvzTaRIOvDof4ZxrWA</picture>
@@ -97,7 +68,7 @@
       <categoryId>37</categoryId>
       <name>Астильба Поп Гардер 50 см Арт. Az5415</name>
       <price>211</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Vnwc4UWKfyCXdzINQR9HZypHLxb32gUj</picture>
       <picture>https://lh3.googleusercontent.com/d/1Z7fc90DEUpHzNs0PHFouaHusrF9BqJJ1</picture>
@@ -108,46 +79,11 @@
       <param name="Артикул">Az5415</param>
       <consist name="Астильба Поп Гардер" unit="шт">10</consist>
     </offer>
-    <offer id="Az3186" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
-      <price>106</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
-      <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ihakNa7QE3aZnBMMuABN-Nd89FIF-zXF</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rwxb-vBzGgbps4dMrGmN-Lio_85jOQpD</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Az3186</param>
-      <consist name="Ирис" unit="шт">25</consist>
-    </offer>
-    <offer id="Az3586" available="true">
-      <categoryId>37</categoryId>
-      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
-      <price>271</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14UWlsJlqCV8s2HeKijrvyVjoXWvPH2cI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1W1YvkMnyHmC2e3d6bW0hbcioY8gdILrA</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Az3586</param>
-      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
-    </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
       <price>211</price>
-      <qty>45</qty>
+      <qty>35</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ftkvt3ybRivBIzkADnKOLjcYSfsD5Eu7</picture>
@@ -190,79 +126,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az3144</param>
       <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
-    </offer>
-    <offer id="Az5645" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Строуберри Крем 50 см Арт. Az5645</name>
-      <price>376</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1EfTK9zzLWAoybVVUPsQSMsR_6CG2klid</picture>
-      <picture>https://lh3.googleusercontent.com/d/1NWIpr5Zkd6KoXIRCfbtr9Ae9B52Uu4TB</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5645</param>
-      <consist name="Тюльпан Пионовидный Строуберри Крем" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3364" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364</name>
-      <price>166</price>
-      <qty>1000</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kTsQlbp2mjF02aDF8wC-rgPlczkwnV4l</picture>
-      <picture>https://lh3.googleusercontent.com/d/10FEzuF9onhD29Sw5WZ1_DVBC5wR1T2FN</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az3364</param>
-      <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
-    </offer>
-    <offer id="Az3554" available="true">
-      <categoryId>37</categoryId>
-      <name>Хамелациум Ади 40 см Арт. Az3554</name>
-      <price>256</price>
-      <qty>20</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1GRlTNcb1gt9mtaJX5sSxFYmi9M8CAc9F</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lDJH7pIDlldcu7qInT2nA9aJn-St0eii</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az3554</param>
-      <consist name="Хамелациум Ади" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3646" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
-      <price>391</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xavcE8gOFM0bQEHgYyROxvT_HacqfdAX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Phjwsjyf3-qaKu5QCx1jq6D4dm9R0ifm</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Az3646</param>
-      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
-    </offer>
-    <offer id="Az5636" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Пьюр Вайт 60 см Арт. Az5636</name>
-      <price>391</price>
-      <qty>100</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1VbKkNqhq3vCzM11WtqFrpBTSJ28kjsqo</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VAyd7P7QpTReLEVz8QdeJM359p3QE2PC</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5636</param>
-      <consist name="Эустома Алиса Пьюр Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
