@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27T11:41:32.992+03:00">
+<yml_catalog date="2026-03-27T11:44:04.329+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -211,6 +211,24 @@
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
+    <offer id="Az3586" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
+      <price>271</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14UWlsJlqCV8s2HeKijrvyVjoXWvPH2cI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W1YvkMnyHmC2e3d6bW0hbcioY8gdILrA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az3586</param>
+      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
+    </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
@@ -318,6 +336,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3554</param>
       <consist name="Хамелациум Ади" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3646" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
+      <price>391</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xavcE8gOFM0bQEHgYyROxvT_HacqfdAX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Phjwsjyf3-qaKu5QCx1jq6D4dm9R0ifm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3646</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Az5626" available="true">
       <categoryId>37</categoryId>
