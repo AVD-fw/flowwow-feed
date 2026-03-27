@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27T08:33:56.961+03:00">
+<yml_catalog date="2026-03-27T08:41:17.607+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -80,6 +80,21 @@
       <param name="Артикул">Az5415</param>
       <consist name="Астильба Поп Гардер" unit="шт">10</consist>
     </offer>
+    <offer id="Az3206" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KhFEVPCJx-_TBrj6ilSQSQX1Fbjuw2iB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Az3206</param>
+      <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
+    </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
@@ -135,11 +150,11 @@
       <price>166</price>
       <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1he_OT5df6wwz4bppjyTBUPtaWnHTc83n</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
+      <picture>https://lh3.googleusercontent.com/d/19NtDqf0ZMOm-tKgjd7W0YlZM70j8_z3B</picture>
       <picture>https://lh3.googleusercontent.com/d/1nsGpiMUjdxfqTdiO4FurHySOPy6MOZdd</picture>
       <picture>https://lh3.googleusercontent.com/d/1oGNB0AHQRMVKiiTV43aUtr3HDJ9o64Ul</picture>
       <picture>https://lh3.googleusercontent.com/d/1nCFMe4bgiDnXGOe-ZvOzlcNsJsaurTWb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1he_OT5df6wwz4bppjyTBUPtaWnHTc83n</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">Голландия</param>
@@ -166,13 +181,30 @@
       <price>166</price>
       <qty>900</qty>
       <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kTsQlbp2mjF02aDF8wC-rgPlczkwnV4l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Tcq2JwS0V5MFw94L7h28kQh6vbAqws30</picture>
       <picture>https://lh3.googleusercontent.com/d/10FEzuF9onhD29Sw5WZ1_DVBC5wR1T2FN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kTsQlbp2mjF02aDF8wC-rgPlczkwnV4l</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
       <param name="Высота, см">40</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3364</param>
       <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4084" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Элисон Бредли 40 см Арт. Az4084</name>
+      <price>166</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/14EYxnaXaJ3SGSPJRyyx87zstsvRI431U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WjyvtI0oAhdbJxBUewnXEa3wrD8ilr63</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WZ7fABZcHhMR2C1YPmVsA3Cv-3O7D1O7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FNMJSNBQFsSDkYlSwH53GRVkoGxBE-Oc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4084</param>
+      <consist name="Тюльпан Пионовидный Элисон Бредли" unit="шт">50</consist>
     </offer>
     <offer id="Az3554" available="true">
       <categoryId>37</categoryId>
