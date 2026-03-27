@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27T08:13:52.986+03:00">
+<yml_catalog date="2026-03-27T08:21:20.894+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -78,6 +78,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5415</param>
       <consist name="Астильба Поп Гардер" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3186" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
+      <price>106</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
+      <picture>https://lh3.googleusercontent.com/d/18-2KS_5NnbfsZ7O6r56IOsusMHHEJXsC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ihakNa7QE3aZnBMMuABN-Nd89FIF-zXF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rwxb-vBzGgbps4dMrGmN-Lio_85jOQpD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3186</param>
+      <consist name="Ирис" unit="шт">25</consist>
     </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
@@ -170,19 +187,53 @@
       <param name="Артикул">Az3554</param>
       <consist name="Хамелациум Ади" unit="шт">5</consist>
     </offer>
+    <offer id="Az5626" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пич 60 см Арт. Az5626</name>
+      <price>391</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oT6wcbI-YbNYa-Ir88fCZAY6YGIY-kRd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hmK6vkJ5rqAy7t8fdpHNgZodRJMlVG_w</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az5626</param>
+      <consist name="Эустома Алиса Пич" unit="шт">10</consist>
+    </offer>
     <offer id="Az5636" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пьюр Вайт 60 см Арт. Az5636</name>
       <price>391</price>
       <qty>90</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1VbKkNqhq3vCzM11WtqFrpBTSJ28kjsqo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y0dlFrFzQLxCWhvEMUBRDSwtCQV8uOMf</picture>
       <picture>https://lh3.googleusercontent.com/d/1VAyd7P7QpTReLEVz8QdeJM359p3QE2PC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VbKkNqhq3vCzM11WtqFrpBTSJ28kjsqo</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5636</param>
       <consist name="Эустома Алиса Пьюр Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3636" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
+      <price>421</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12KpU28eAWiD34-ogSIieevmqW4xpSSXT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OtTYBPl5qWKklImIHN46jE6vnXRCE80M</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Z6UEdm-lbdTR-YBfz-GL4HfHL7h6r2N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1q3CUXhMyMMVMGykm16SWNMOEt8vtivFL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az3636</param>
+      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
