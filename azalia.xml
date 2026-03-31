@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-31T10:53:34.553+03:00">
+<yml_catalog date="2026-03-31T11:01:22.999+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -86,7 +86,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
       <price>181</price>
-      <qty>50</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KhFEVPCJx-_TBrj6ilSQSQX1Fbjuw2iB</picture>
       <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
@@ -113,24 +113,6 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
-    </offer>
-    <offer id="Az3586" available="true">
-      <categoryId>37</categoryId>
-      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
-      <price>226</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14UWlsJlqCV8s2HeKijrvyVjoXWvPH2cI</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uqLGOFnGxwQEMYqSIXH8Rk6UtD5PrPfZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/18pEAtLYz6FhVh4Jw01PBwjVycSvjEo7W</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
-      <picture>https://lh3.googleusercontent.com/d/1W1YvkMnyHmC2e3d6bW0hbcioY8gdILrA</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">Marginpar</param>
-      <param name="Артикул">Az3586</param>
-      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
     </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
@@ -215,7 +197,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>391</price>
-      <qty>30</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
@@ -232,7 +214,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пьюр Вайт 60 см Арт. Az5636</name>
       <price>391</price>
-      <qty>90</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1y0dlFrFzQLxCWhvEMUBRDSwtCQV8uOMf</picture>
       <picture>https://lh3.googleusercontent.com/d/1VAyd7P7QpTReLEVz8QdeJM359p3QE2PC</picture>
@@ -242,24 +224,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5636</param>
       <consist name="Эустома Алиса Пьюр Вайт" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3636" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
-      <price>421</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12KpU28eAWiD34-ogSIieevmqW4xpSSXT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OtTYBPl5qWKklImIHN46jE6vnXRCE80M</picture>
-      <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
-      <picture>https://lh3.googleusercontent.com/d/15Z6UEdm-lbdTR-YBfz-GL4HfHL7h6r2N</picture>
-      <picture>https://lh3.googleusercontent.com/d/1q3CUXhMyMMVMGykm16SWNMOEt8vtivFL</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">Az3636</param>
-      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
