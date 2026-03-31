@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-31T06:53:37.789+03:00">
+<yml_catalog date="2026-03-31T07:01:23.245+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -117,7 +117,7 @@
     <offer id="Az3586" available="true">
       <categoryId>37</categoryId>
       <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
-      <price>271</price>
+      <price>226</price>
       <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/14UWlsJlqCV8s2HeKijrvyVjoXWvPH2cI</picture>
@@ -196,6 +196,38 @@
       <param name="Артикул">Az3554</param>
       <consist name="Хамелациум Ади" unit="шт">5</consist>
     </offer>
+    <offer id="Az4746" available="true">
+      <categoryId>37</categoryId>
+      <name>Эрингиум Супернова Кьюстар 60 см Арт. Az4746</name>
+      <price>286</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jMbIy7WWCEN9SaRVm6aX2x1RuzRc1s7y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NfMZAdLHLyTkmiaABLjkPqC-GeXKpqrG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az4746</param>
+      <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3646" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
+      <price>391</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xavcE8gOFM0bQEHgYyROxvT_HacqfdAX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Phjwsjyf3-qaKu5QCx1jq6D4dm9R0ifm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3646</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
     <offer id="Az5636" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пьюр Вайт 60 см Арт. Az5636</name>
@@ -210,6 +242,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az5636</param>
       <consist name="Эустома Алиса Пьюр Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3636" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Брайт Пинк 60 см Арт. Az3636</name>
+      <price>421</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12KpU28eAWiD34-ogSIieevmqW4xpSSXT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OtTYBPl5qWKklImIHN46jE6vnXRCE80M</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kVGE3i2LwhfJb7IBgyCF0BHtY-V9SXQF</picture>
+      <picture>https://lh3.googleusercontent.com/d/15Z6UEdm-lbdTR-YBfz-GL4HfHL7h6r2N</picture>
+      <picture>https://lh3.googleusercontent.com/d/1q3CUXhMyMMVMGykm16SWNMOEt8vtivFL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az3636</param>
+      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
