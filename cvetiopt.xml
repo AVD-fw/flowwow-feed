@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-02T14:06:10.462+03:00">
+<yml_catalog date="2026-04-02T14:15:29.621+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -75,7 +75,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Саммер Денс 90 см Арт. Fc19469</name>
       <price>198</price>
-      <qty>100</qty>
+      <qty>60</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1SwkovFMqXUQL2IdUcxjsJ5Y2wRPWrFOQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1lfYecYSdFUXvLYBryI2a14c7ffjnjUDY</picture>
@@ -93,7 +93,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Б Бабблс 70 см Арт. Fc12007</name>
       <price>198</price>
-      <qty>80</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1G8prPPZdONIeKa-RH8XDUO7GgkWAO-ty</picture>
       <picture>https://lh3.googleusercontent.com/d/17XsXOn58aZ9ZD0fnGKTc82EptMdHN1_k</picture>
@@ -183,7 +183,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Момоко 75 см Арт. Fc01327</name>
       <price>176</price>
-      <qty>270</qty>
+      <qty>250</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fOd9eSFrtzQXeetv3XfwSUK0N6aRBNBj</picture>
       <picture>https://lh3.googleusercontent.com/d/1gtpR5YGkflSbRm-16YOLP8ZTwpYt8pXH</picture>
@@ -484,7 +484,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Бамбу 50 см Арт. Fc01445</name>
       <price>88</price>
-      <qty>100</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1LJise3fCYXWBusJL37goI03khO9-39nl</picture>
       <picture>https://lh3.googleusercontent.com/d/1oq07fNQ1iqBnBAW8oS-7PaJN06mkmvbK</picture>
@@ -520,7 +520,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Уно 50 см Арт. Fc5885</name>
       <price>94</price>
-      <qty>100</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pmZU2cH0fKMaz-fEFvwnWHXOS0kIkC0h</picture>
       <picture>https://lh3.googleusercontent.com/d/1hnQVOoxknUjpJVdiFgcgJuL67Lgy6GQy</picture>
@@ -538,7 +538,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Разноцветный 80 см Арт. Fc15178</name>
       <price>86</price>
-      <qty>100</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1mHs2_V58rQJWx321JeSK0LUvgd25AQAJ</picture>
       <picture>https://lh3.googleusercontent.com/d/15fyfn870RTfO2XdXQxEUFiJDAW3VE1Fd</picture>
@@ -556,7 +556,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Белая 70 см Арт. Fc01937</name>
       <price>80</price>
-      <qty>150</qty>
+      <qty>100</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1eFMm632Q24Kpmgy_iGYeD9rflLYNcQnc</picture>
       <picture>https://lh3.googleusercontent.com/d/1OE0BqBY1mLQitBPcetTvw4oV-juLnxsM</picture>
@@ -592,7 +592,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Белый 50 см Арт. Fc5435</name>
       <price>55</price>
-      <qty>600</qty>
+      <qty>350</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1rlekPr3eeWQGUZchgZ0Pf1LDISpc2MHo</picture>
       <picture>https://lh3.googleusercontent.com/d/1lDuWlEzSQlgsEYPm_CD6IYS0U5CuaHQR</picture>
@@ -610,7 +610,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Fc02026</name>
       <price>42</price>
-      <qty>1150</qty>
+      <qty>1100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pWpbAw118ZgYggsqIQwilyzM09kI111u</picture>
       <picture>https://lh3.googleusercontent.com/d/17hquoN8SHlt8iBthXmqWLauIMn5x2seh</picture>
@@ -784,23 +784,6 @@
       <param name="Артикул">Fc04855</param>
       <consist name="Оксипеталум" unit="шт">25</consist>
     </offer>
-    <offer id="Fc16866" available="true">
-      <categoryId>37</categoryId>
-      <name>Сирень Розовый 60 см Арт. Fc16866</name>
-      <price>517</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1i3b51ZnGybqynjQYqGftSVlcBVrLr_fX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1atrdES_0NbEk57lbDUqRYveW-dvrAYl-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1cwhoIFLXC2DWO7pzPx4bJaOTHxHc-9r6</picture>
-      <picture>https://lh3.googleusercontent.com/d/1y9dISpIwssgFC_BZpyuFgvCQsS9I0QaS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1H4HOvVs67BEEtM9PN120vTpX6dz2u2Nk</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Fc16866</param>
-      <consist name="Сирень" unit="шт">10</consist>
-    </offer>
     <offer id="Fc18686" available="true">
       <categoryId>37</categoryId>
       <name>Сирень Белый 60 см Арт. Fc18686</name>
@@ -840,7 +823,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Колумбус 40 см Арт. Fc04784</name>
       <price>69</price>
-      <qty>500</qty>
+      <qty>350</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1r1Z7B_XNvp044dk-K-kY5o6d0YjaNurX</picture>
       <picture>https://lh3.googleusercontent.com/d/1roVKJ1JGEO0DAFbfvoO62tSZHiVo6mu_</picture>
@@ -924,7 +907,7 @@
       <categoryId>37</categoryId>
       <name>Фрезия Белый 50 см Арт. Fc04235</name>
       <price>84</price>
-      <qty>450</qty>
+      <qty>600</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17DD2uV5A27YFSErCZ-jmFRXv_df3I97X</picture>
       <picture>https://lh3.googleusercontent.com/d/18gO3Fdk1otS7bGg1VJc3WYOVnrz7eZ0v</picture>
@@ -942,7 +925,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Веддинг Пинк 60 см Арт. Fc5736</name>
       <price>253</price>
-      <qty>170</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1e_nns0zDYHFkE9oNm1-gakkh9BPVhc-z</picture>
       <picture>https://lh3.googleusercontent.com/d/1qX5bUfX1QkYySUG7abFyAgmUEH712_1u</picture>
@@ -960,7 +943,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Росита Вайт 60 см Арт. Fc9476</name>
       <price>215</price>
-      <qty>650</qty>
+      <qty>550</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1wvH3C4pHoqWZti0-eNylnv_d0nKS_2aU</picture>
       <picture>https://lh3.googleusercontent.com/d/1Gx1xYK5M3YPA1i8Q9mfCQ8d97GEbiNYa</picture>
@@ -978,7 +961,7 @@
       <categoryId>38</categoryId>
       <name>Астильба Красный 50 см Арт. Fc02095</name>
       <price>83</price>
-      <qty>110</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1hg2wh_Vv8O-RB3u1yfFMh_DynP2TjeH7</picture>
       <picture>https://lh3.googleusercontent.com/d/1UwheGmVOb7tc0SDsVANCmea5E6m5ysmT</picture>
@@ -1012,7 +995,7 @@
       <categoryId>38</categoryId>
       <name>Вибурнум Зеленый 70 см Арт. Fc04667</name>
       <price>259</price>
-      <qty>100</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XyXjp-GbUfSlBE3a-BbLqKDqodCpOLh0</picture>
       <picture>https://lh3.googleusercontent.com/d/1xo4KU-EFlbO_b_BTUCDVeLCcDO8-2p6-</picture>
@@ -1047,7 +1030,7 @@
       <categoryId>38</categoryId>
       <name>Хелеборус Зеленый 50 см Арт. Fc02015</name>
       <price>110</price>
-      <qty>60</qty>
+      <qty>50</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1onVbCx7fRUnsMQL8t1xVA0tpMU3Kvnxj</picture>
       <picture>https://lh3.googleusercontent.com/d/1DjdH5CKTQ3Urv96nRBc45VSwJkr7cvtT</picture>
