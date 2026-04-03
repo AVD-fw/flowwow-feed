@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T06:13:45.924+03:00">
+<yml_catalog date="2026-04-03T06:21:28.189+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,56 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az4335" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Барбадос 50 см Арт. Az4335</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1DGN6XnMuLgpps6wSHwTJ1D39ZchD5AqF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xs6FAaBWipItzwrvzTaRIOvDof4ZxrWA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QpqHJ7v0x7DOXov2msQLxPCxZFQWrP1j</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az4335</param>
+      <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2977" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
+      <price>256</price>
+      <qty>55</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/10Bw2NawHqNNzu91tvu3-L4Mcykdqg3CC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qs7sCe9cJ1R4zE3kiwRTVewmG1DZH8sG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lj86Dw-eLUO4XhD8BqcoG8tt3EWcgvZ-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2977</param>
+      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4137" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
+      <price>256</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/10g63ZeoKVVIH21bIyhd8FYn0nvIIsJko</picture>
+      <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ODZQ-MBNEY3bzNv0_mOB7lYwY81N1Ipp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BCtFdxjZ2KGy6xbMt7UZuZYdVjrOz3Yv</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4137</param>
+      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
+    </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
@@ -31,6 +81,73 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Az3206</param>
       <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3186" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
+      <price>106</price>
+      <qty>225</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Pl1L3GEkp5b9HK53BVASvRBEGKWMUa7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ihakNa7QE3aZnBMMuABN-Nd89FIF-zXF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rwxb-vBzGgbps4dMrGmN-Lio_85jOQpD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3186</param>
+      <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3364" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364</name>
+      <price>166</price>
+      <qty>500</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1_-TIRh8V4j89Qa5DHzPcXoefuw6jMfPe</picture>
+      <picture>https://lh3.googleusercontent.com/d/10FEzuF9onhD29Sw5WZ1_DVBC5wR1T2FN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kTsQlbp2mjF02aDF8wC-rgPlczkwnV4l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Tcq2JwS0V5MFw94L7h28kQh6vbAqws30</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tv_ZFlAFIPCpQlXsBcx1dMTqFXpLVVuW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3364</param>
+      <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4084" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Элисон Бредли 40 см Арт. Az4084</name>
+      <price>166</price>
+      <qty>100</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PjX_eo2UFQoa7MA7DUDV7WrNo4E2p1mb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WZ7fABZcHhMR2C1YPmVsA3Cv-3O7D1O7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FNMJSNBQFsSDkYlSwH53GRVkoGxBE-Oc</picture>
+      <picture>https://lh3.googleusercontent.com/d/14EYxnaXaJ3SGSPJRyyx87zstsvRI431U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ubhRdORNRRoDtf77eL00en7LbgjA6ziT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4084</param>
+      <consist name="Тюльпан Пионовидный Элисон Бредли" unit="шт">50</consist>
+    </offer>
+    <offer id="Az4746" available="true">
+      <categoryId>37</categoryId>
+      <name>Эрингиум Супернова Кьюстар 60 см Арт. Az4746</name>
+      <price>286</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1lypTuETJlCQ7IdchzHW26lhnc9dQiVjs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NfMZAdLHLyTkmiaABLjkPqC-GeXKpqrG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jMbIy7WWCEN9SaRVm6aX2x1RuzRc1s7y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az4746</param>
+      <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
