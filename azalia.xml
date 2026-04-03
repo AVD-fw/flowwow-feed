@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T08:11:19.057+03:00">
+<yml_catalog date="2026-04-03T08:13:41.008+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -128,6 +128,64 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az6815</param>
       <consist name="Астранция Стар оф Лав" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3787" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика кустовая Розовый 70 см Арт. Az3787</name>
+      <price>101</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qI5qRf6ANBsoqHtnNDjDpxf52KadJT4-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1X1joJr1rcmwUYu2TQ-ZKI7kRmRFmCLYL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3787</param>
+      <consist name="Гвоздика кустовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3737" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Зеленый 70 см Арт. Az3737</name>
+      <price>86</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1J03R-yDKR7Yvx7X2NoyLO264uav5ky5x</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-yfDOsIkdu0bgiGsg0Axns6V9oailU2y</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3737</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3747" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Розовый 70 см Арт. Az3747</name>
+      <price>86</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1y9CuY2wvrZwyGwcLYyXVrgq-u5NAkG7K</picture>
+      <picture>https://lh3.googleusercontent.com/d/1P5VzOjcFoh2D7nKaCUY5XuQobIF2vUBt</picture>
+      <picture>https://lh3.googleusercontent.com/d/17-16hVx6g3JRLlu6lYMKxMwymKSUftsO</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3747</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az5537" available="true">
+      <categoryId>37</categoryId>
+      <name>Гвоздика одноголовая Белый 70 см Арт. Az5537</name>
+      <price>86</price>
+      <qty>20</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1fPJt4qJNJHubf_xpRouU3L-cR1rakoKr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UW9DwXtee21e7_h20guFEPjC9g3JFgSo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1no4K4NA1SMv8X6mbi9mRtHwpnUu0t3H5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az5537</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
