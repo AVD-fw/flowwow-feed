@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T05:59:42.667+03:00">
+<yml_catalog date="2026-04-03T06:43:44.280+03:00">
   <shop>
     <name>Империя цветов</name>
     <company>empire</company>
@@ -21,7 +21,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая 70 см Арт. Ef4617</name>
       <price>146</price>
-      <qty>30</qty>
+      <qty>45</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1pLgS_iZCom9dDyxPZLCOKezfAlfjUthD</picture>
       <picture>https://lh3.googleusercontent.com/d/1HYRFRp8Bn-aRnfsRshpudwq9bXnr9p-E</picture>
@@ -38,7 +38,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 60 см Арт. Ef2866</name>
       <price>167</price>
-      <qty>15</qty>
+      <qty>20</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Jb2nAqMfMvEfqAilmEKrzDIMQx2Fs82e</picture>
       <picture>https://lh3.googleusercontent.com/d/1AUrEJxnjVxt35umQp8KmSYO79RWEVu9i</picture>
@@ -56,7 +56,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. Ef4687</name>
       <price>146</price>
-      <qty>25</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ActF9Ryw_yWQEXtjAJHpUU_f0c2up52T</picture>
       <picture>https://lh3.googleusercontent.com/d/1ogC3bmLg4d7PV_QLTCPODI1e9aZDsZ82</picture>
@@ -70,42 +70,11 @@
       <param name="Артикул">Ef4687</param>
       <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
     </offer>
-    <offer id="Ef1725" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Белый 50 см Арт. Ef1725</name>
-      <price>107</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1tQvVetZiTPzVl_07DT0St2aec_SL5ymr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1miTREDeXu3HfS8g9HJ43F8sPTyajvNvk</picture>
-      <picture>https://lh3.googleusercontent.com/d/1d-bpn9uwoZdL4Bgl7GCZqXnA7EKb5_uc</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Vannova</param>
-      <param name="Артикул">Ef1725</param>
-      <consist name="Хризантема Сантини" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef3635" available="true">
-      <categoryId>7</categoryId>
-      <name>Хризантема Сантини Помпони Микс 55 см Арт. Ef3635</name>
-      <price>107</price>
-      <qty>50</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1jyeKP_Cly-L_6dWpcbemwJ35lrx2DAXP</picture>
-      <picture>https://lh3.googleusercontent.com/d/19WrJjAQIWECymrgg2Nb2uixfkYc3Z5Y-</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">55</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Ef3635</param>
-      <consist name="Хризантема Сантини Помпони Микс" unit="шт">25</consist>
-    </offer>
     <offer id="Ef1715" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Пинк 50 см Арт. Ef1715</name>
       <price>107</price>
-      <qty>150</qty>
+      <qty>75</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1uiU0tl38BocPjbPujqtoZ5QNta-AMwTe</picture>
       <picture>https://lh3.googleusercontent.com/d/10OZeLCwYfqocAsm3ZbEnvj5PxeArESEt</picture>
@@ -158,7 +127,7 @@
       <categoryId>37</categoryId>
       <name>Оксипеталум Голубой 50 см Арт. Ef01045</name>
       <price>156</price>
-      <qty>100</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1irCWOR-wqAvFBoW0JOhCeMWayVScitGR</picture>
       <picture>https://lh3.googleusercontent.com/d/1vwZrOUJZg2HrpLqMrC_oy4zREyYzAwHI</picture>
@@ -170,42 +139,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Ef01045</param>
       <consist name="Оксипеталум" unit="шт">25</consist>
-    </offer>
-    <offer id="Ef2506" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алисса Лайт Пинк 60 см Арт. Ef2506</name>
-      <price>234</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/15P-IijFKmCMDaeafpy5rd7JBKRU0XF_7</picture>
-      <picture>https://lh3.googleusercontent.com/d/10vG74eoP9DdRUEyoO6ztyUsDtJhc4e27</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lS_cRzGFrNyPpJ7Z1EQmZu2mYHsEC3ZS</picture>
-      <picture>https://lh3.googleusercontent.com/d/19GAKSYFelNafPR-wCil0b_EqeLeihIcj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wKYFZeFLG2kfd8XugStkbXsy6Koal1_7</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Lugt Lisianthus</param>
-      <param name="Артикул">Ef2506</param>
-      <consist name="Эустома Алисса Лайт Пинк" unit="шт">10</consist>
-    </offer>
-    <offer id="Ef00257" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Росита Вайт 70 см Арт. Ef00257</name>
-      <price>234</price>
-      <qty>120</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1MVoz4B8TZWxuoab9xABVeg_QLeDfA2-g</picture>
-      <picture>https://lh3.googleusercontent.com/d/17-VmSNgPaDepgMhsL52G7peXNhKt1xWr</picture>
-      <picture>https://lh3.googleusercontent.com/d/15_WY0HK92hSn0I0j2DdMKv8cVnLQFYrJ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1mxdvTlpSfZ2Jt5LcaHOiRskUZxsmJ__I</picture>
-      <picture>https://lh3.googleusercontent.com/d/1yCX9JC2smxJ4byIZppYxgLDmkfgYVdxC</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Ef00257</param>
-      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
