@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T08:51:48.225+03:00">
+<yml_catalog date="2026-04-03T08:53:53.062+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -61,6 +61,24 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az2927</param>
       <consist name="Роза одноголовая Софи Лорен" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1746" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Сансет Парк 60 см Арт. Az1746</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hbA8LIkRbyOjvZla_IbJaghBDyIzRfzv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QdikHaR6lCrx_Yvw5QPpDJXXxNFpG9vY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FUxjLlybIEOOfDNQDOjGXCI-Zh4FRWmc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VYD8906g1S52HfU2uvgM5efRqRJl_r1s</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vbW8EuX1KYP1w1Wxit3TfgVR66tqPGhR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az1746</param>
+      <consist name="Роза одноголовая пионовидная Сансет Парк" unit="шт">10</consist>
     </offer>
     <offer id="Az4335" available="true">
       <categoryId>3</categoryId>
