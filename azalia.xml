@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T08:03:37.611+03:00">
+<yml_catalog date="2026-04-03T08:11:19.057+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,6 +32,21 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4335</param>
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6676" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Перл Дайменшен 60 см Арт. Az6676</name>
+      <price>286</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bjV_auwrQAE22nJ3ABiP07I_D_FjCSu2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qUn4efT4u8NGJyKWnfgzEaZmy5GILGZA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6676</param>
+      <consist name="Роза кустовая Перл Дайменшен" unit="шт">10</consist>
     </offer>
     <offer id="Az2977" available="true">
       <categoryId>6</categoryId>
@@ -212,6 +227,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3364</param>
       <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
+    </offer>
+    <offer id="Az6544" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Хэштег 40 см Арт. Az6544</name>
+      <price>196</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1XJ4jD9k4VeNFmKiEc-RkIHSEFEx9NJb-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Nvcnkqn2dpn7SwxWOlIHA9KS-N7F_X6V</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az6544</param>
+      <consist name="Тюльпан Пионовидный Хэштег" unit="шт">50</consist>
     </offer>
     <offer id="Az4084" available="true">
       <categoryId>37</categoryId>
