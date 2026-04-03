@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T07:35:58.164+03:00">
+<yml_catalog date="2026-04-03T07:45:28.783+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -197,6 +197,24 @@
       <param name="Артикул">Fc01327</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
     </offer>
+    <offer id="Fc12417" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Супербоул 70 см Арт. Fc12417</name>
+      <price>176</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OkW81-iLSuOPeLRJMbzVtwi9vvEU7Ixf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UZtbq6vc97jfbELMigu4jhy-TNeGZ-cn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IaqESEJnxHdii8W2tH3AWLaSADDNG_Du</picture>
+      <picture>https://lh3.googleusercontent.com/d/15_D1_mUCGwRUbBwqD5n5edxkXO43VZhH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zFS3Ovyqr5aJd9zMDZ1bnIMns-QLHBiz</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc12417</param>
+      <consist name="Хризантема одноголовая Супербоул" unit="шт">10</consist>
+    </offer>
     <offer id="Fc00857" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Fc00857</name>
@@ -303,6 +321,24 @@
       <param name="Артикул">Fc01055</param>
       <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
     </offer>
+    <offer id="Fc12085" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Вайт 55 см Арт. Fc12085</name>
+      <price>97</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PyFjVFuC_uE3aokJG3yA0e3rKcQG9Kpu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VARvti8rppWfrYFEzN9f9VoPdY26MGXw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bX3hhetsFF2DzXZQzzLIMDT-bu05axo7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U_wEI3Uki4UtbUpPXLYlox2jWO_Mvv5p</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Bf629QDt9R9U-H5Mz2pTHbB9T_AJooH-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc12085</param>
+      <consist name="Хризантема Сантини Росси Вайт" unit="шт">25</consist>
+    </offer>
     <offer id="Fc01065" available="true">
       <categoryId>7</categoryId>
       <name>Хризантема Сантини Росси Крашенная 55 см Арт. Fc01065</name>
@@ -338,6 +374,42 @@
       <param name="Производитель">VannoVa</param>
       <param name="Артикул">Fc01085</param>
       <consist name="Хризантема Сантини Росси крашенная" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc11085" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Санни 55 см Арт. Fc11085</name>
+      <price>88</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1NRj02VxFiUREv1QXcB--9wqdJNS9T15U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IE282LyoAoLd_ZPnEdkfZEw_2rVlSUct</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WyGeF3PJVsjfQmJmaNe1dqZIJzlwHsNf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bM6-lyMixWXvW50-GNWkSMXVUAcbcer1</picture>
+      <picture>https://lh3.googleusercontent.com/d/15dQyjK_30A4TX03i_UvEMqxo0gumrXNL</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Fc11085</param>
+      <consist name="Хризантема Сантини Росси Санни" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc20435" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Смоки 50 см Арт. Fc20435</name>
+      <price>97</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PNnXDMsGDiHztn57QJ8wxpjTUFDprIBQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rR8qDWlpiqMQ0T4NgaQmN91f9jUmJ21o</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_QuP5-NSjxI8aza3pmgLNPHD8Yf1JRe8</picture>
+      <picture>https://lh3.googleusercontent.com/d/13A2CUN1gQx96B82mbVDn6WlM7Gqk0GvW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bGoLE2Jh9DM0_wxTDVBrPlexUEOBnRTk</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Fc20435</param>
+      <consist name="Хризантема Сантини Росси Смоки" unit="шт">25</consist>
     </offer>
     <offer id="Fc04216" available="true">
       <categoryId>37</categoryId>
@@ -380,11 +452,11 @@
       <price>69</price>
       <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1XprZgRqujGaSQmetXHHxogK4yDZS0Iq8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rEo5oRH7mqOwzxCASRflnARqd_BDDnki</picture>
+      <picture>https://lh3.googleusercontent.com/d/13TMje3mDrO9YMpwFMmD3LTy1gfDg2pxc</picture>
       <picture>https://lh3.googleusercontent.com/d/1VkhQ3blFidyFZ-1Q1b6UBxKByG5hIaeE</picture>
       <picture>https://lh3.googleusercontent.com/d/1jVcjzYn6RDf7mFKmQai9eAorfsBNdsJP</picture>
       <picture>https://lh3.googleusercontent.com/d/1ZIf0OjsK5fkS96EEWZ-NCbg4hgPQRTWa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XprZgRqujGaSQmetXHHxogK4yDZS0Iq8</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">уточняется</param>
@@ -445,6 +517,24 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Fc01825</param>
       <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc02335" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Казино 50 см Арт. Fc02335</name>
+      <price>99</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1B-Ajri6X2LxPOsTsln-UxUHY4iayRlUN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DlYlC0NgdfT7v5lFDheNqIUZFQODw_S1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RDKAEKLr1EbmsPGQaESBKGV-ppWPBaGi</picture>
+      <picture>https://lh3.googleusercontent.com/d/121x6m2gVo0wmj1T6ec9TeuuGDGTjW_0z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ycGa9xeBVejukv-fJcKlSxMMnvkmeZZ8</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Fc02335</param>
+      <consist name="Гиперикум Коко Казино" unit="шт">10</consist>
     </offer>
     <offer id="Fc5885" available="true">
       <categoryId>37</categoryId>
@@ -606,6 +696,42 @@
       <param name="Производитель">Kallaland</param>
       <param name="Артикул">Fc9545</param>
       <consist name="Калла" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc12437" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Перл Пинк 70 см Арт. Fc12437</name>
+      <price>160</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1aFbGzksybXnZZfvWkTSI5ByEPYTnzXkO</picture>
+      <picture>https://lh3.googleusercontent.com/d/11WZrGe7PIbdOfctDZPPKvQebi7q1rL24</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VA-UhtwsC_UiZKKuZKVZhtSKFDaa6q7g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JMbjx37JdZUXioEkF09Z4vhsArSY5hWR</picture>
+      <picture>https://lh3.googleusercontent.com/d/18-NjPj-dgM1kr8xK_8YzQmmu3XT4IDEB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fc12437</param>
+      <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc05147" available="true">
+      <categoryId>37</categoryId>
+      <name>Кампанула Чемпион Вайт 70 см Арт. Fc05147</name>
+      <price>160</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1eXOaZJEBwMksD4SUxY73-Kjgc0p54IjY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AujzAglA1Rh_hN1dfzSoUTPlVkYTv-S7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xydo7pbfkr3Hi6ODWdKIsk8p_ch2Zkdu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DKUe8EVuTMcSGbUlJXO2eHJCOtGj8hfc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lM1Ry6-TFQhGcFPD139YTJfmDN95gya5</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fc05147</param>
+      <consist name="Кампанула Чемпион Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Fc01457" available="true">
       <categoryId>37</categoryId>
@@ -815,6 +941,23 @@
       <param name="Артикул">Fc20814</param>
       <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
     </offer>
+    <offer id="Fc20824" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Строуберри Крем 40 см Арт. Fc20824</name>
+      <price>149</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1yCsXJ_vf2QIvFt8uIqtYl8rNX81TeAO-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hVWxrrdQqByJ9pqphDkiGaTj-4Cg_jNd</picture>
+      <picture>https://lh3.googleusercontent.com/d/10LFi86S9O5SWN4iH9jYMLUxce9OfA4C5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Awir8VDJh2pj1bbX4Gt1ChANI7L3Ffmb</picture>
+      <picture>https://lh3.googleusercontent.com/d/12gdIr4EHcZ7d6PmQp6B7113raP4SVv7-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc20824</param>
+      <consist name="Тюльпан Пионовидный Строуберри Крем" unit="шт">10</consist>
+    </offer>
     <offer id="Fc00795" available="true">
       <categoryId>37</categoryId>
       <name>Фрезия Разноцветный 50 см Арт. Fc00795</name>
@@ -919,6 +1062,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc04607</param>
       <consist name="Леукадендрон" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc01705" available="true">
+      <categoryId>38</categoryId>
+      <name>Солидаго Карзан Глори 50 см Арт. Fc01705</name>
+      <price>116</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1O1Ef0PAPnSIl-MJYwyvsLy5dntg3vhbg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AHdOAOcp05746QvtnHjizai_9tPOX_ga</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gKKvzF_uwVoCYVf8FJ6XQpX7BOp9I5wq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tgbym265qxA4pXzqmP3M-2nLQGWvn1bt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v1-j-ovlNFzb7XsHTILOIl8uja8_uze_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Fc01705</param>
+      <consist name="Солидаго Карзан Глори" unit="шт">25</consist>
     </offer>
     <offer id="Fc02015" available="true">
       <categoryId>38</categoryId>
