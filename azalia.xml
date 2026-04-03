@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T07:53:49.563+03:00">
+<yml_catalog date="2026-04-03T08:01:32.060+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -56,16 +56,32 @@
       <price>256</price>
       <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/10g63ZeoKVVIH21bIyhd8FYn0nvIIsJko</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qsW8kMsiKZ3EWcXvCsNaykLK11mUwQCQ</picture>
       <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
       <picture>https://lh3.googleusercontent.com/d/1ODZQ-MBNEY3bzNv0_mOB7lYwY81N1Ipp</picture>
       <picture>https://lh3.googleusercontent.com/d/1BCtFdxjZ2KGy6xbMt7UZuZYdVjrOz3Yv</picture>
+      <picture>https://lh3.googleusercontent.com/d/10g63ZeoKVVIH21bIyhd8FYn0nvIIsJko</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
       <param name="Высота, см">70</param>
       <param name="Страна">Голландия</param>
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az4137</param>
       <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
+    </offer>
+    <offer id="Az6776" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Белый 60 см Арт. Az6776</name>
+      <price>286</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1rq0m4p6tlY3hbN1oqKxbyWhWwhNebxrE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j57-xpvWnjk6wgfYv9Fdqzvo-l2NuzZx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Юг РФ</param>
+      <param name="Артикул">Az6776</param>
+      <consist name="Антирринум" unit="шт">10</consist>
     </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
@@ -98,6 +114,21 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az6605" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Сара Бернар 50 см Арт. Az6605</name>
+      <price>601</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1cEubt4xesq7jetOsz5lKQY2JqGJzIGe1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AngM5CFj3drqjZ77uXsWpCuOl1c7Kke4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nX4YV5rp1-0uA7owOpUbExcl0Q7iO-yK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az6605</param>
+      <consist name="Пион Сара Бернар" unit="шт">10</consist>
     </offer>
     <offer id="Az3364" available="true">
       <categoryId>37</categoryId>
@@ -148,6 +179,23 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Az4746</param>
       <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2184" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Рубелла 40 см Арт. Az2184</name>
+      <price>1201</price>
+      <qty>4</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15aTwn6hHOAqo4Ex2n4UmvA9hS72b5UbC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vdj5Oa9t-MQVpO9N6K4ORHVvjYkgxG5t</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y8HJ6S6-Ag76JXc46KBrGpSv5qn0zq5c</picture>
+      <picture>https://lh3.googleusercontent.com/d/14OELYwaOJ5f9Q2B6rs5z03htphQ_eGEr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y0ViK5dkI_qAMZyb-yOSmkOIVWp_Mz97</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az2184</param>
+      <consist name="Скиммия Рубелла" unit="шт">1</consist>
     </offer>
     </offers>
   </shop>
