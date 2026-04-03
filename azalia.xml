@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T08:13:41.008+03:00">
+<yml_catalog date="2026-04-03T08:21:24.424+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,21 +17,83 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az6746" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Мандала 60 см Арт. Az6746</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/166TIMw3e_zc9ZVMxJIgqpWCR5BPLfuzR</picture>
+      <picture>https://lh3.googleusercontent.com/d/13xHHSOOx_u_zdosnkVv8UlzQ-rhrPrPg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6746</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2927" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Софи Лорен 70 см Арт. Az2927</name>
+      <price>166</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HcuH_2Yk5eO4mVnRtWxTKHjJTvUSf-Tn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rkyS0VDYvhHfgkMRv1k3tl5hMMELmiCU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az2927</param>
+      <consist name="Роза одноголовая Софи Лорен" unit="шт">10</consist>
+    </offer>
     <offer id="Az4335" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Барбадос 50 см Арт. Az4335</name>
       <price>196</price>
       <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1DGN6XnMuLgpps6wSHwTJ1D39ZchD5AqF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XikeoaQf5_uYyuen_LQYOGO2bx6t5jTv</picture>
       <picture>https://lh3.googleusercontent.com/d/1xs6FAaBWipItzwrvzTaRIOvDof4ZxrWA</picture>
       <picture>https://lh3.googleusercontent.com/d/1QpqHJ7v0x7DOXov2msQLxPCxZFQWrP1j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DGN6XnMuLgpps6wSHwTJ1D39ZchD5AqF</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">50</param>
       <param name="Страна">Россия</param>
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4335</param>
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6665" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Джозефина 50 см Арт. Az6665</name>
+      <price>316</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TQeSdXl5vkfWthj_59admurA7iuNYMtb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1upL8aZjtNcza9FdLcNtMMmr6sAd9JtPs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az6665</param>
+      <consist name="Роза кустовая Джозефина" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1895" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Кира 50 см Арт. Az1895</name>
+      <price>316</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wjwkOtfJdpsn6TmFMT2IqksNthf4UDQt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iK7l8igbosN6W6VzyZMNeZLneGYF22ks</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZUGzICHxc8gh9yCZGJAjUvqZ3-ephuP-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az1895</param>
+      <consist name="Роза кустовая Кира" unit="шт">10</consist>
     </offer>
     <offer id="Az6676" available="true">
       <categoryId>3</categoryId>
