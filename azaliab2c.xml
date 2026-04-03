@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-03T08:07:47.771+03:00">
+<yml_catalog date="2026-04-03T08:17:49.455+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Az6746c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Мандала 60 см Арт. Az6746c</name>
+      <categoryId>450</categoryId>
+      <price>1813</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/12oYKnBvO0BgmH42h2zDPiEgR3tKqaTwD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QRPVI7TpReM9UJxQwAIqn2N2G3OAO6sF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1K1Rcmik0U2G3E-6h7M5WZLeJgmH2P1vp</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6746c</param>
+      <consist name="Роза одноголовая Мандала" unit="шт">10</consist>
+    </offer>
     <offer id="Az4335c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Барбадос 50 см Арт. Az4335c</name>
       <categoryId>450</categoryId>
@@ -23,6 +39,22 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4335c</param>
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1895c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Кира 50 см Арт. Az1895c</name>
+      <categoryId>450</categoryId>
+      <price>3463</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1l6rZLSgcKCAiP2TpMQzjgZPBNU5sTpFz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1yEzWAf_YtoDn6kBaj8xlZxL23SFw0PPe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1OiLd2Q5epTDYCragcuGh02e2cZ8wmC80</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az1895c</param>
+      <consist name="Роза кустовая Кира" unit="шт">10</consist>
     </offer>
     <offer id="Az6676c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Перл Дайменшен 60 см Арт. Az6676c</name>
@@ -102,6 +134,66 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az2175c</param>
       <consist name="Астранция Биллион Старс" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3787c" available="true">
+      <name>Пачка (20 шт.) Гвоздика кустовая Розовый 70 см Арт. Az3787c</name>
+      <categoryId>450</categoryId>
+      <price>2323</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ELlwnk2GX6n21zGYYQ5z_MwU-LN-4tH3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uWI5hcNHRrr7841NtuVRcKmGwWdQbQ0S</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZdbIrshtHgeGIkwHHyqD_j97hTckzVJs</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3787c</param>
+      <consist name="Гвоздика кустовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3737c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая Зеленый 70 см Арт. Az3737c</name>
+      <categoryId>450</categoryId>
+      <price>2023</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1HwlE5yy67wjfKykYNK7J21VVk6-A4CTi</picture>
+      <picture>https://lh3.googleusercontent.com/d/19xBe8-XkEPgsbka5nVvGaVUim1djp6a2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MglPeiFBe7MwAhHeCbsK_fS1ykQ-Ghn6</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3737c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az3747c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая Розовый 70 см Арт. Az3747c</name>
+      <categoryId>450</categoryId>
+      <price>2023</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/19S3f6choLgRV_Sl6KNj3HDoA6tCTQKwb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pBu18LTdb22Wc8izB5wwfzQg4RT2YII_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vNpYHLGa6WJQcRyOTFV8ub-VCI3UFGkV</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3747c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+    </offer>
+    <offer id="Az5537c" available="true">
+      <name>Пачка (20 шт.) Гвоздика одноголовая Белый 70 см Арт. Az5537c</name>
+      <categoryId>450</categoryId>
+      <price>2023</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1qJbUGNwfkiMAuJMsYKgk2Is8snwpWYRc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VgMzPKOT-d87Qy46wmsmWhJDb5JCXUIw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1V0cDTLBBXO69SPfykoDri7Fl4ojvPj_w</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az5537c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
     <offer id="Az3206c" available="true">
       <name>Пачка (10 шт.) Гиперикум Коко Танго 60 см Арт. Az3206c</name>
