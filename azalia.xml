@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-06T14:54:00.258+03:00">
+<yml_catalog date="2026-04-06T15:01:50.504+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -301,7 +301,7 @@
       <categoryId>37</categoryId>
       <name>Астранция Биллион Старс 50 см Арт. Az2175</name>
       <price>166</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Utd3Jlg3hICvc-_AXK4SbxOUr_9t4Bmu</picture>
       <picture>https://lh3.googleusercontent.com/d/1wl5AoB2YTjzofHPa83CjM0BxunJMfIP0</picture>
@@ -332,7 +332,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
       <price>181</price>
-      <qty>40</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KhFEVPCJx-_TBrj6ilSQSQX1Fbjuw2iB</picture>
       <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
@@ -347,7 +347,7 @@
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Тиамо 70 см Арт. Az6897</name>
       <price>181</price>
-      <qty>10</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1x5vIIYgp5UUY-yBkTcnPeas2eEOs7rbP</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -356,23 +356,6 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Az6897</param>
       <consist name="Гиперикум Коко Тиамо" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3186" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
-      <price>106</price>
-      <qty>25</qty>
-      <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1KzFDT5EewHzrHpcIwY3ohQVjoDskdmg3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rwxb-vBzGgbps4dMrGmN-Lio_85jOQpD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Pl1L3GEkp5b9HK53BVASvRBEGKWMUa7l</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Артикул">Az3186</param>
-      <consist name="Ирис" unit="шт">25</consist>
     </offer>
     <offer id="Az4376" available="true">
       <categoryId>37</categoryId>
@@ -419,20 +402,6 @@
       <param name="Артикул">Az1396</param>
       <consist name="Леукадендрон Сафари Сансет" unit="шт">10</consist>
     </offer>
-    <offer id="Az6085" available="true">
-      <categoryId>37</categoryId>
-      <name>Маттиола 50 см Арт. Az6085</name>
-      <price>301</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1nuBfo8uWOF5PRxKo-3XvU_pREq_LGrG0</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Производитель">ИТ</param>
-      <param name="Артикул">Az6085</param>
-      <consist name="Маттиола" unit="шт">10</consist>
-    </offer>
     <offer id="Az6787" available="true">
       <categoryId>37</categoryId>
       <name>Маттиола Розовый 70 см Арт. Az6787</name>
@@ -465,7 +434,7 @@
       <categoryId>37</categoryId>
       <name>Мускари Карола 30 см Арт. Az4853</name>
       <price>76</price>
-      <qty>10</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1xN-E-or6_jWs0Obbs7aucEoAtLwicgqq</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
