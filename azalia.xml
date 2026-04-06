@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-06T13:11:24.338+03:00">
+<yml_catalog date="2026-04-06T13:13:38.682+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -48,6 +48,35 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az4335</param>
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6656" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Дарлин 60 см Арт. Az6656</name>
+      <price>316</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PSfo4ZmNVkv0g0Awtsgcg1t9x3Hk6faR</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Red Lands</param>
+      <param name="Артикул">Az6656</param>
+      <consist name="Роза кустовая Дарлин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6436" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Голден Трендсеттер 60 см Арт. Az6436</name>
+      <price>346</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CNYwYoDt9tb24ZWyqOEwRc38uK0zHh67</picture>
+      <picture>https://lh3.googleusercontent.com/d/1seesEUOnxLwfcGticOilc5afy2Y8CDUM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Red Lands</param>
+      <param name="Артикул">Az6436</param>
+      <consist name="Роза кустовая пионовидная Голден Трендсеттер" unit="шт">10</consist>
     </offer>
     <offer id="Az2977" available="true">
       <categoryId>6</categoryId>
@@ -209,6 +238,20 @@
       <param name="Артикул">Az1396</param>
       <consist name="Леукадендрон Сафари Сансет" unit="шт">10</consist>
     </offer>
+    <offer id="Az6085" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола 50 см Арт. Az6085</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nuBfo8uWOF5PRxKo-3XvU_pREq_LGrG0</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">ИТ</param>
+      <param name="Артикул">Az6085</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
     <offer id="Az4853" available="true">
       <categoryId>37</categoryId>
       <name>Мускари Карола 30 см Арт. Az4853</name>
@@ -238,6 +281,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az1335</param>
       <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4104" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Пинк Фокстрот 40 см Арт. Az4104</name>
+      <price>196</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mXfkiHvv477001CzfPvaD202W2ZZfKui</picture>
+      <picture>https://lh3.googleusercontent.com/d/1J0E2KgW65OzJgXqDz7OWBsEgWO2kI2nJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1S6MgyQueQd2BowtoVIa3SoZlR6_bmgrq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az4104</param>
+      <consist name="Тюльпан Пионовидный Пинк Фокстрот" unit="шт">50</consist>
     </offer>
     <offer id="Az3364" available="true">
       <categoryId>37</categoryId>
@@ -271,6 +329,38 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3554</param>
       <consist name="Хамелациум Ади" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4746" available="true">
+      <categoryId>37</categoryId>
+      <name>Эрингиум Супернова Кьюстар 60 см Арт. Az4746</name>
+      <price>286</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hBmm-rkvmhgNXOBRA61N9lXrVW4OV4s1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NfMZAdLHLyTkmiaABLjkPqC-GeXKpqrG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jMbIy7WWCEN9SaRVm6aX2x1RuzRc1s7y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lypTuETJlCQ7IdchzHW26lhnc9dQiVjs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az4746</param>
+      <consist name="Эрингиум Супернова Кьюстар" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1388" available="true">
+      <categoryId>38</categoryId>
+      <name>Солидаго Карзан Глори 80 см Арт. Az1388</name>
+      <price>196</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1OCJXrNlaW2W_g3OxNqbQQ9T9S4qSoMcE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kiuFBivDMTan-G1zj-3sDUhY8TT7sVfk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1MCA7rFLH9IkUw4PSqWNkOgenlsnvvk6b</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1388</param>
+      <consist name="Солидаго Карзан Глори" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
