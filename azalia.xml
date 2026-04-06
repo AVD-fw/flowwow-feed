@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-06T13:13:38.682+03:00">
+<yml_catalog date="2026-04-06T13:21:33.795+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az6735" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Желтый 50 см Арт. Az6735</name>
+      <price>101</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dHniATZtwppwk1JyfGcGFbX9hUv11cGO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wqjYjSXloREW5r0t0PUdmE4qfntlj5mb</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Subati</param>
+      <param name="Артикул">Az6735</param>
+      <consist name="Роза одноголовая" unit="шт">10</consist>
+    </offer>
     <offer id="Az3857" available="true">
       <categoryId>2</categoryId>
       <name>Роза одноголовая пионовидная Лондон Таймс 70 см Арт. Az3857</name>
@@ -62,6 +77,35 @@
       <param name="Производитель">Red Lands</param>
       <param name="Артикул">Az6656</param>
       <consist name="Роза кустовая Дарлин" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6665" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Джозефина 50 см Арт. Az6665</name>
+      <price>316</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1TQeSdXl5vkfWthj_59admurA7iuNYMtb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1upL8aZjtNcza9FdLcNtMMmr6sAd9JtPs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az6665</param>
+      <consist name="Роза кустовая Джозефина" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6636" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Мадам Бомбастик 60 см Арт. Az6636</name>
+      <price>346</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/16buF9VjAjPHI08bQwQAcpLT5N5A-ZVZq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Red Lands</param>
+      <param name="Артикул">Az6636</param>
+      <consist name="Роза кустовая Мадам Бомбастик" unit="шт">10</consist>
     </offer>
     <offer id="Az6436" available="true">
       <categoryId>4</categoryId>
@@ -250,6 +294,20 @@
       <param name="Страна">уточняется</param>
       <param name="Производитель">ИТ</param>
       <param name="Артикул">Az6085</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6787" available="true">
+      <categoryId>37</categoryId>
+      <name>Маттиола Розовый 70 см Арт. Az6787</name>
+      <price>301</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1pybHAVuBgNZ_lS_T0iOkPhwIv3_BFvV6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">ИТ</param>
+      <param name="Артикул">Az6787</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
     <offer id="Az4853" available="true">
