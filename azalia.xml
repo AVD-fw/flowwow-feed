@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-08T09:51:19.311+03:00">
+<yml_catalog date="2026-04-08T09:54:05.365+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -199,6 +199,41 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Az3206</param>
       <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3186" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
+      <price>106</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1CBorV-W5t1EnOs6STF8fOpisBrSl13BZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pl1L3GEkp5b9HK53BVASvRBEGKWMUa7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KzFDT5EewHzrHpcIwY3ohQVjoDskdmg3</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3186</param>
+      <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3656" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
+      <price>61</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ybLvTJYl9JnE3JDBMYNst13N9Z2F7lij</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o6z5Hi0V9Wuxm81adMncqC9OQza_Kwcg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1kJxhWz-mfUozYEGEBzx4M_Tbot0PxbjW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SfTmpf51TGEiYhEcjlz7Q6NfHFr7m8fg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Az1396" available="true">
       <categoryId>37</categoryId>
