@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-08T11:13:42.946+03:00">
+<yml_catalog date="2026-04-08T11:21:28.430+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -103,6 +103,24 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2957</param>
       <consist name="Хризантема кустовая Кеннеди Крем" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4137" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
+      <price>256</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qsW8kMsiKZ3EWcXvCsNaykLK11mUwQCQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1onXXx5EnXPb2d9aB9S7_7ioga2TmTR85</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ODZQ-MBNEY3bzNv0_mOB7lYwY81N1Ipp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BCtFdxjZ2KGy6xbMt7UZuZYdVjrOz3Yv</picture>
+      <picture>https://lh3.googleusercontent.com/d/10g63ZeoKVVIH21bIyhd8FYn0nvIIsJko</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4137</param>
+      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
     </offer>
     <offer id="Az3707" available="true">
       <categoryId>6</categoryId>
@@ -330,6 +348,23 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Az3565</param>
       <consist name="Озотамнус Виктория Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>226</price>
+      <qty>35</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wNBGjIlggFHcfXPm-O6FP0D9H-xw9pUg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
+      <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hrjd2_xd66NF1uDlLdUceoHwMcbXVtSX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     <offer id="Az3364" available="true">
       <categoryId>37</categoryId>
