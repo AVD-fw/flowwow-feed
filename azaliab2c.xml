@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-08T09:27:46.432+03:00">
+<yml_catalog date="2026-04-08T09:37:39.946+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -8,6 +8,38 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Az2877c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Бейби 70 см Арт. Az2877c</name>
+      <categoryId>450</categoryId>
+      <price>1583</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/10Pzf0uub1sCXkJD9tr6F3-CtnFavI-1k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AT6Am8eLvPC1vRMS6IkRtJQE0N-HztHu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1cldr4D3eq1jDzmjoPrhNB21gCm6Z_xVy</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2877c</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2977c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Калимба 70 см Арт. Az2977c</name>
+      <categoryId>450</categoryId>
+      <price>1583</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Ku0HhchxksWdJKUQnv2JhUkVQb8N5ifF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TjPCGdnGrjOozOuKEzdJ3T_ZWJ6ppVBA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c60lASsAjKqDL_VY5RMQSb-XoRGThB8N</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2977c</param>
+      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
     <offer id="Az4137c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Прециус 70 см Арт. Az4137c</name>
       <categoryId>450</categoryId>
@@ -23,6 +55,37 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az4137c</param>
       <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5395c" available="true">
+      <name>Пачка (25 шт.) Хризантема Сантини Патрис Вайт 50 см Арт. Az5395c</name>
+      <categoryId>450</categoryId>
+      <price>4828</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1LuTId_mMMIlMa95gG1Wu4wdWYNKAUueG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Helm1ACjZMxEyJ1LMQpPylmLlGcFla-b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PxW8maxUfPrJvlhl2yD9qHlH5Okd6ne5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Az5395c</param>
+      <consist name="Хризантема Сантини Патрис Вайт" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3777c" available="true">
+      <name>Пачка (10 шт.) Гвоздика одноголовая Грин Трик 70 см Арт. Az3777c</name>
+      <categoryId>450</categoryId>
+      <price>1663</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1LVl45PZxseoORzsxJXNWTARZEWP24pGS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mnYt_Vs0M0YD--Bei4WP2HReooUVJivl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o6pcrXhnDqlBgk0v9TrwAamQi3tHBfE4</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Китай</param>
+      <param name="Артикул">Az3777c</param>
+      <consist name="Гвоздика одноголовая Грин Трик" unit="шт">10</consist>
     </offer>
     <offer id="Az3206c" available="true">
       <name>Пачка (10 шт.) Гиперикум Коко Танго 60 см Арт. Az3206c</name>
@@ -84,6 +147,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3364c</param>
       <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3554c" available="true">
+      <name>Пачка (5 шт.) Хамелациум Ади 40 см Арт. Az3554c</name>
+      <categoryId>450</categoryId>
+      <price>1658</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Ps9__HKO3IPW18KJ0jupNlfqBK-9xS1T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mF4xShY7uHVOy8nb53EN2WsrSUhOJ6-6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lDJH7pIDlldcu7qInT2nA9aJn-St0eii</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3554c</param>
+      <consist name="Хамелациум Ади" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
