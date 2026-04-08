@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-08T09:43:46.877+03:00">
+<yml_catalog date="2026-04-08T09:51:19.311+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -153,6 +153,21 @@
       <param name="Артикул">Az6796</param>
       <consist name="Антирринум" unit="шт">10</consist>
     </offer>
+    <offer id="Az6815" available="true">
+      <categoryId>37</categoryId>
+      <name>Астранция Стар оф Лав 50 см Арт. Az6815</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Dd0iSADsfNCVGdWiP2953d86josKb15g</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HgGnJ2utPRUH8G0DvTWvAagdAk0nFh_B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ewghemQ36YaDsaBwaK0JOlXdQlN3XI3o</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az6815</param>
+      <consist name="Астранция Стар оф Лав" unit="шт">10</consist>
+    </offer>
     <offer id="Az3777" available="true">
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Грин Трик 70 см Арт. Az3777</name>
@@ -215,6 +230,21 @@
       <param name="Артикул">Az6836</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
+    <offer id="Az3565" available="true">
+      <categoryId>37</categoryId>
+      <name>Озотамнус Виктория Вайт 50 см Арт. Az3565</name>
+      <price>196</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1RB-bOeD6pG1Ry4oRIuO72hsDOnlDiMBw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vh0bOE7P4H8Ps1Ajnurxq9TmBw5mL2Dl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Az3565</param>
+      <consist name="Озотамнус Виктория Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Az3364" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364</name>
@@ -263,6 +293,20 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3554</param>
       <consist name="Хамелациум Ади" unit="шт">5</consist>
+    </offer>
+    <offer id="Az6845" available="true">
+      <categoryId>37</categoryId>
+      <name>Эрингиум Кьюстар 50 см Арт. Az6845</name>
+      <price>286</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Eqp18vWB12Co-btJL2aSFvq8llxAtqFh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bIy-yxWT_M43uj5pxsbQR7u9WIVI18Q_</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az6845</param>
+      <consist name="Эрингиум Кьюстар" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
