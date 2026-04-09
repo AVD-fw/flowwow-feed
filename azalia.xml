@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09T06:21:16.989+03:00">
+<yml_catalog date="2026-04-09T06:23:36.840+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -174,6 +174,57 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Az3565</param>
       <consist name="Озотамнус Виктория Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>226</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wNBGjIlggFHcfXPm-O6FP0D9H-xw9pUg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
+      <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hrjd2_xd66NF1uDlLdUceoHwMcbXVtSX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3364" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364</name>
+      <price>166</price>
+      <qty>150</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1reH0Ccg3rZ8ARNSer-avY4CuWkxgk49T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Tcq2JwS0V5MFw94L7h28kQh6vbAqws30</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tv_ZFlAFIPCpQlXsBcx1dMTqFXpLVVuW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_-TIRh8V4j89Qa5DHzPcXoefuw6jMfPe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ARG1hPiaJRItlN33PcO8Ft9jui6LUj10</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3364</param>
+      <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3554" available="true">
+      <categoryId>37</categoryId>
+      <name>Хамелациум Ади 40 см Арт. Az3554</name>
+      <price>271</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HmwIdh05D-LCNNY2aDb-GFp4gslSDM3J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lDJH7pIDlldcu7qInT2nA9aJn-St0eii</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GRlTNcb1gt9mtaJX5sSxFYmi9M8CAc9F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fs5rgj_LZUqaP2vhx1AIqqJW9H6YfJQh</picture>
+      <picture>https://lh3.googleusercontent.com/d/11RgOmzXFabd3dQxuC1cOp-Izkli1UdVy</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3554</param>
+      <consist name="Хамелациум Ади" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
