@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09T10:03:58.600+03:00">
+<yml_catalog date="2026-04-09T10:11:29.009+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -30,20 +30,6 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az7015</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
-    </offer>
-    <offer id="Az6956" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Джумилия 60 см Арт. Az6956</name>
-      <price>121</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1qd97GNlda4ZKihIHazvmCO9JJ8skBeBU</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">СТК</param>
-      <param name="Артикул">Az6956</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
     <offer id="Az6985" available="true">
       <categoryId>1</categoryId>
@@ -77,7 +63,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
       <price>256</price>
-      <qty>10</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-De6vceqS7maE1z9N_dXU1819H7sW4HI</picture>
       <picture>https://lh3.googleusercontent.com/d/1rRWcZQDXlYEdwBSmt2Dp-qXFkb6d2vKT</picture>
@@ -147,7 +133,7 @@
       <categoryId>37</categoryId>
       <name>Гвоздика одноголовая Грин Трик 70 см Арт. Az3777</name>
       <price>136</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1C2Y4da208ccQgPcYb85X-MQvv4eTDN7w</picture>
       <picture>https://lh3.googleusercontent.com/d/10dJR54ywAQhBtJ5KoM6rB2dg8r4zTQ2b</picture>
@@ -164,7 +150,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>106</price>
-      <qty>75</qty>
+      <qty>50</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1CBorV-W5t1EnOs6STF8fOpisBrSl13BZ</picture>
       <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
@@ -213,21 +199,6 @@
       <param name="Артикул">Az3586</param>
       <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
     </offer>
-    <offer id="Az1396" available="true">
-      <categoryId>37</categoryId>
-      <name>Леукадендрон Сафари Сансет 60 см Арт. Az1396</name>
-      <price>271</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RC3VVpXohs6OWvoPD_PPu62w12JHYXrO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VRyXAaBvJAReXtwVPr13zP2V0BS44y2o</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-qX59KLJ6fchkMioALja_BFauNBP0H3F</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az1396</param>
-      <consist name="Леукадендрон Сафари Сансет" unit="шт">10</consist>
-    </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
@@ -249,7 +220,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364</name>
       <price>166</price>
-      <qty>150</qty>
+      <qty>100</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1reH0Ccg3rZ8ARNSer-avY4CuWkxgk49T</picture>
       <picture>https://lh3.googleusercontent.com/d/1Tcq2JwS0V5MFw94L7h28kQh6vbAqws30</picture>
@@ -261,23 +232,6 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3364</param>
       <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
-    </offer>
-    <offer id="Az3554" available="true">
-      <categoryId>37</categoryId>
-      <name>Хамелациум Ади 40 см Арт. Az3554</name>
-      <price>271</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1HmwIdh05D-LCNNY2aDb-GFp4gslSDM3J</picture>
-      <picture>https://lh3.googleusercontent.com/d/1lDJH7pIDlldcu7qInT2nA9aJn-St0eii</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GRlTNcb1gt9mtaJX5sSxFYmi9M8CAc9F</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fs5rgj_LZUqaP2vhx1AIqqJW9H6YfJQh</picture>
-      <picture>https://lh3.googleusercontent.com/d/11RgOmzXFabd3dQxuC1cOp-Izkli1UdVy</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az3554</param>
-      <consist name="Хамелациум Ади" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
