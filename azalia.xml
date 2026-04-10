@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-10T06:23:32.714+03:00">
+<yml_catalog date="2026-04-10T06:31:19.341+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,83 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az7015" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 50 см Арт. Az7015</name>
+      <price>121</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ze-wFwd849eX9pSjQ3fhMO-uK_-wr4WV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7015</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az6985" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Испания 50 см Арт. Az6985</name>
+      <price>106</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jfyqjGrok2UhcBNIDcL46elo6G0HvO-X</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6985</param>
+      <consist name="Роза одноголовая Испания" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6965" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пенни Лейн 50 см Арт. Az6965</name>
+      <price>106</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FKbVLH5CJEPzz-WKidgn2vGequVAfTc4</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6965</param>
+      <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2977" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
+      <price>256</price>
+      <qty>25</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1bRdwr39ubWweTJprIhQNcpxpc4aQLNQN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Qs7sCe9cJ1R4zE3kiwRTVewmG1DZH8sG</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Lj86Dw-eLUO4XhD8BqcoG8tt3EWcgvZ-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sn7Gymja2ydfU3cyYOK122FX-zbmvUCA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2977</param>
+      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5395" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Патрис Вайт 50 см Арт. Az5395</name>
+      <price>181</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17zrTW-ecKLmGsSlvH5VJbdlAFDyPKMZb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wgDaATu4DONNQEpsBpBPTkoQ4Y63MCCs</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wDjDQrntTIDqLnC6vnCx__DUUBpbfYht</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iQQSVMeGT7TbBga1_SnxLtRYlkaDGDYa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Az5395</param>
+      <consist name="Хризантема Сантини Патрис Вайт" unit="шт">25</consist>
+    </offer>
     <offer id="Az5415" available="true">
       <categoryId>37</categoryId>
       <name>Астильба Поп Гардер 50 см Арт. Az5415</name>
@@ -50,6 +127,58 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3186</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3586" available="true">
+      <categoryId>37</categoryId>
+      <name>Клематис Эмейзинг София 60 см Арт. Az3586</name>
+      <price>226</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1YF2SYm7dEYwjxdq-SC_IoDkXJPGEo5N8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W1YvkMnyHmC2e3d6bW0hbcioY8gdILrA</picture>
+      <picture>https://lh3.googleusercontent.com/d/14UWlsJlqCV8s2HeKijrvyVjoXWvPH2cI</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dQcRAdWs8CVaelTzen8CJmISWNb_oqeo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Marginpar</param>
+      <param name="Артикул">Az3586</param>
+      <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>226</price>
+      <qty>35</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wNBGjIlggFHcfXPm-O6FP0D9H-xw9pUg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fAXdip3dj6X4EgOp7vr04MX76dKVfkFo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
+      <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hrjd2_xd66NF1uDlLdUceoHwMcbXVtSX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3364" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Фокси Фокстрот 40 см Арт. Az3364</name>
+      <price>166</price>
+      <qty>200</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1reH0Ccg3rZ8ARNSer-avY4CuWkxgk49T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Tcq2JwS0V5MFw94L7h28kQh6vbAqws30</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tv_ZFlAFIPCpQlXsBcx1dMTqFXpLVVuW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_-TIRh8V4j89Qa5DHzPcXoefuw6jMfPe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ARG1hPiaJRItlN33PcO8Ft9jui6LUj10</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3364</param>
+      <consist name="Тюльпан Пионовидный Фокси Фокстрот" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
