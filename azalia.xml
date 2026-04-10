@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-10T12:53:47.296+03:00">
+<yml_catalog date="2026-04-10T13:01:27.344+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -298,6 +298,20 @@
       <param name="Артикул">Az6836</param>
       <consist name="Маттиола" unit="шт">10</consist>
     </offer>
+    <offer id="Az6865" available="true">
+      <categoryId>37</categoryId>
+      <name>Озотамнус Кукс Сноу Вайт 50 см Арт. Az6865</name>
+      <price>1501</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18qd4c7eJ-PgUVZ4ydvZrcLUcItXox11b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xa2uNYKCcpbsBSmN4u0qhf_CkFP9rmWi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az6865</param>
+      <consist name="Озотамнус Кукс Сноу Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
       <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
@@ -379,6 +393,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3554</param>
       <consist name="Хамелациум Ади" unit="шт">5</consist>
+    </offer>
+    <offer id="Az6845" available="true">
+      <categoryId>37</categoryId>
+      <name>Эрингиум Кьюстар 50 см Арт. Az6845</name>
+      <price>286</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1maVqzGx3obu6Y6ExuCMVdgn-K-dCeAae</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bIy-yxWT_M43uj5pxsbQR7u9WIVI18Q_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Eqp18vWB12Co-btJL2aSFvq8llxAtqFh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az6845</param>
+      <consist name="Эрингиум Кьюстар" unit="шт">10</consist>
     </offer>
     <offer id="Az3636" available="true">
       <categoryId>37</categoryId>
