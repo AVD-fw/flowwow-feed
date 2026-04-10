@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-10T12:31:19.803+03:00">
+<yml_catalog date="2026-04-10T12:33:38.370+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -76,6 +76,40 @@
       <param name="Артикул">Az6965</param>
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
     </offer>
+    <offer id="Az6907" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Ламира 70 см Арт. Az6907</name>
+      <price>331</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hCAvgx2ttr-ogvx0y_v6v-kx_pGYK51u</picture>
+      <picture>https://lh3.googleusercontent.com/d/13Zf3VuSPJ8mDMiDwUhQbVDK3iEmW0wWK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1m3jlyIgl7zjRYo3VeTDF4BvczGlP7I-p</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az6907</param>
+      <consist name="Хризантема одноголовая Ламира" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mW-JO3IVZr-jiuEbM1wQyzBGnp9tF6MA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l5FwrpPR8iBUurCJzmIzfUrSfBxACx0f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GUz3unERnxtZo_tRkkJVPkMsYs1WehAu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fIkpSe6EOCUdBtKM2CKcleL7l3wdTm2j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-De6vceqS7maE1z9N_dXU1819H7sW4HI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2877</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
     <offer id="Az2977" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
@@ -109,6 +143,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3097</param>
       <consist name="Хризантема кустовая Пастелла Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4137" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xc1mtSXpCG12Bwhu-iY1wuS0xMWiX60r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ODZQ-MBNEY3bzNv0_mOB7lYwY81N1Ipp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BCtFdxjZ2KGy6xbMt7UZuZYdVjrOz3Yv</picture>
+      <picture>https://lh3.googleusercontent.com/d/10g63ZeoKVVIH21bIyhd8FYn0nvIIsJko</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qsW8kMsiKZ3EWcXvCsNaykLK11mUwQCQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4137</param>
+      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
     </offer>
     <offer id="Az4487" available="true">
       <categoryId>6</categoryId>
@@ -145,17 +197,33 @@
       <param name="Артикул">Az5395</param>
       <consist name="Хризантема Сантини Патрис Вайт" unit="шт">25</consist>
     </offer>
+    <offer id="Az6815" available="true">
+      <categoryId>37</categoryId>
+      <name>Астранция Стар оф Лав 50 см Арт. Az6815</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QQQY8nZlGUJi_cC-AeQvX44s_6jCPE2L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1HgGnJ2utPRUH8G0DvTWvAagdAk0nFh_B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ewghemQ36YaDsaBwaK0JOlXdQlN3XI3o</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dd0iSADsfNCVGdWiP2953d86josKb15g</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az6815</param>
+      <consist name="Астранция Стар оф Лав" unit="шт">10</consist>
+    </offer>
     <offer id="Az3186" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 60 см Арт. Az3186</name>
       <price>106</price>
       <qty>225</qty>
       <quantity_in_package>25</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1CBorV-W5t1EnOs6STF8fOpisBrSl13BZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iWAqURrvwd39qSGieva0Ejy13_kHVNpf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KxNmm3Kug8buGG2LiawY_So0LhWtfyXH</picture>
       <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
       <picture>https://lh3.googleusercontent.com/d/1Pl1L3GEkp5b9HK53BVASvRBEGKWMUa7l</picture>
       <picture>https://lh3.googleusercontent.com/d/1KzFDT5EewHzrHpcIwY3ohQVjoDskdmg3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CBorV-W5t1EnOs6STF8fOpisBrSl13BZ</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Россия</param>
@@ -168,11 +236,11 @@
       <price>226</price>
       <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1YF2SYm7dEYwjxdq-SC_IoDkXJPGEo5N8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1YLWbKSCNgoUOpK_dHW3UMJOgnlB9deyP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qKl_4FH1St1jMdSSX26sSw7qvNlJGc1d</picture>
       <picture>https://lh3.googleusercontent.com/d/1W1YvkMnyHmC2e3d6bW0hbcioY8gdILrA</picture>
       <picture>https://lh3.googleusercontent.com/d/14UWlsJlqCV8s2HeKijrvyVjoXWvPH2cI</picture>
       <picture>https://lh3.googleusercontent.com/d/1dQcRAdWs8CVaelTzen8CJmISWNb_oqeo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YF2SYm7dEYwjxdq-SC_IoDkXJPGEo5N8</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
       <param name="Высота, см">60</param>
       <param name="Страна">Голландия</param>
@@ -230,6 +298,23 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Az3554</param>
       <consist name="Хамелациум Ади" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2184" available="true">
+      <categoryId>38</categoryId>
+      <name>Скиммия Рубелла 40 см Арт. Az2184</name>
+      <price>1351</price>
+      <qty>4</qty>
+      <quantity_in_package>1</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1jHh8gmx_5fT_0bpfVOtHpsy-b9wZoLPm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y8HJ6S6-Ag76JXc46KBrGpSv5qn0zq5c</picture>
+      <picture>https://lh3.googleusercontent.com/d/14OELYwaOJ5f9Q2B6rs5z03htphQ_eGEr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1y0ViK5dkI_qAMZyb-yOSmkOIVWp_Mz97</picture>
+      <picture>https://lh3.googleusercontent.com/d/15aTwn6hHOAqo4Ex2n4UmvA9hS72b5UbC</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 1 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az2184</param>
+      <consist name="Скиммия Рубелла" unit="шт">1</consist>
     </offer>
     <offer id="Az1388" available="true">
       <categoryId>38</categoryId>
