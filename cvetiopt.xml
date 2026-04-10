@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-10T12:16:10.398+03:00">
+<yml_catalog date="2026-04-10T12:26:10.415+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -160,6 +160,24 @@
       <param name="Производитель">Rose Art</param>
       <param name="Артикул">Fc06267</param>
       <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc01487" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Бразильяна 70 см Арт. Fc01487</name>
+      <price>143</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hbGdCyt0HdAWL4Uca8CYr1Z_cLeHJ8CY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DdTFdQhHlb9AUmp9URZMZ89MmzwShTQc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D1cV785jF-kWX_5tmdqvxHpg2zLH_I1H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zMTKT6Dy4zmVEsIy3N5U-zGeuL6KbKNR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iBXvOWMVaFPLMVo7ReMD7S7O9wAgvnQN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc01487</param>
+      <consist name="Хризантема одноголовая Бразильяна" unit="шт">10</consist>
     </offer>
     <offer id="Fc01327" available="true">
       <categoryId>5</categoryId>
@@ -714,6 +732,60 @@
       <param name="Артикул">Fc02335</param>
       <consist name="Гиперикум Коко Казино" unit="шт">10</consist>
     </offer>
+    <offer id="Fc15178" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Разноцветный 80 см Арт. Fc15178</name>
+      <price>86</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nkI76j55Ymu7_daVcHITysIAhUiNh-pu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bkVrHyWbfb4jtaMYTNTaYV2OkiCn84Y_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VSNEYgn--vTQoX_o2m7hx9Vncak3mydz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mHs2_V58rQJWx321JeSK0LUvgd25AQAJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Hf_zxZnocQOG86nqgUeJPjUaa9RV2Fn1</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">80</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fc15178</param>
+      <consist name="Гипсофила" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01937" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Белая 70 см Арт. Fc01937</name>
+      <price>80</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BiSQKYpf-LAnQM8ekFLw-TtXFpsVO3ue</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hZD6EUOqV4VmTFw42Nc1GvZmzK5fKicF</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tSRQCY2wE1cfOnebF4FtVyco0RpZXsHN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qWUMgrXizQ38Dqw4e88wCq0AEu32So5k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1eFMm632Q24Kpmgy_iGYeD9rflLYNcQnc</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fc01937</param>
+      <consist name="Гипсофила Белая" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01657" available="true">
+      <categoryId>37</categoryId>
+      <name>Гипсофила Розовая 70 см Арт. Fc01657</name>
+      <price>86</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/11L2i8kjpZmIRa16xzQ5dQdbtTNjFMfVn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_4XEFBSPgDZC6FPVrRE8HA8WSZ1KjVkW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XDAlfR3njojw3z8c2NDgDG1lzHqZsGh2</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Rv17ykfGJsdhGtp3Z_0pP_ewOeM-kQtB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Xzs55LS4918MZPu1rZlXEHXyzSkIeqna</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Esmeralda</param>
+      <param name="Артикул">Fc01657</param>
+      <consist name="Гипсофила Розовая" unit="шт">25</consist>
+    </offer>
     <offer id="Fc02026" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Fc02026</name>
@@ -785,6 +857,24 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Fc5595</param>
       <consist name="Клематис" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc04905" available="true">
+      <categoryId>37</categoryId>
+      <name>Краспедия Желтый 50 см Арт. Fc04905</name>
+      <price>102</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/18JLXvJzR7clVTDUDvzBK0zIEdl9eD0yZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LKtoDN5ozg57WPvDRtsTFETSNAq82ivS</picture>
+      <picture>https://lh3.googleusercontent.com/d/1C0GlL2ZQLq0g4_SoTAC-azFG83pc-tfm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LIrudHSKBdB24aN1vYQbU9gM_ySk-m3a</picture>
+      <picture>https://lh3.googleusercontent.com/d/18LqBC3P7egU2y0QO4AJuJPrIgP01SZJM</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Beauty Line</param>
+      <param name="Артикул">Fc04905</param>
+      <consist name="Краспедия" unit="шт">10</consist>
     </offer>
     <offer id="Fc04205" available="true">
       <categoryId>37</categoryId>
@@ -873,6 +963,24 @@
       <param name="Страна">Израиль</param>
       <param name="Производитель">Neeman</param>
       <param name="Артикул">Fc04855</param>
+      <consist name="Оксипеталум" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc6455" available="true">
+      <categoryId>37</categoryId>
+      <name>Оксипеталум Розовый 50 см Арт. Fc6455</name>
+      <price>127</price>
+      <qty>25</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1k4PKSzbFyKj4ZK1-8u8Mew1yG64PbzlD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o1ZhfEl5bDAE_VRDYZCTXTdlg2TnKqEr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TrBMUVvNEjbN99kZFvRdC4GCUZyg-HSf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c-Yn-O3n-dh_IXeCsNboKIfH9ACkiSn8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1FooIGAjG1NCDwXJ0xxGiKSFuHZC44ocu</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Peleg Flowers</param>
+      <param name="Артикул">Fc6455</param>
       <consist name="Оксипеталум" unit="шт">25</consist>
     </offer>
     <offer id="Fc00726" available="true">
@@ -1199,6 +1307,24 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Fc02105</param>
       <consist name="Астильба" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc01695" available="true">
+      <categoryId>38</categoryId>
+      <name>Буплерум Зеленый 50 см Арт. Fc01695</name>
+      <price>91</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1m9QFM21TtG15JRDVY7Z6J7jsr5FuXA5Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nIAia66uX_sL2Qf-6Gb0OEctCw1nCluz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1B_SyNCRLLnz4k_HITyRGHrPadJcuozuA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1UPvBw-sPn8FNqR_qOfCPTqIO6jOGQ7bn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GPIlqIwEflnkt_GTSJqH43pxkXxV0R4M</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Summer Flora</param>
+      <param name="Артикул">Fc01695</param>
+      <consist name="Буплерум" unit="шт">50</consist>
     </offer>
     <offer id="Fc00615" available="true">
       <categoryId>38</categoryId>
