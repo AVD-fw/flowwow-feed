@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-11T11:03:49.191+03:00">
+<yml_catalog date="2026-04-11T11:11:18.584+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -91,6 +91,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az2887</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2877" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1mW-JO3IVZr-jiuEbM1wQyzBGnp9tF6MA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1l5FwrpPR8iBUurCJzmIzfUrSfBxACx0f</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GUz3unERnxtZo_tRkkJVPkMsYs1WehAu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fIkpSe6EOCUdBtKM2CKcleL7l3wdTm2j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-De6vceqS7maE1z9N_dXU1819H7sW4HI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2877</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
     </offer>
     <offer id="Az2977" available="true">
       <categoryId>6</categoryId>
