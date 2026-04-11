@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-11T07:17:06.015+03:00">
+<yml_catalog date="2026-04-11T07:27:06.992+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -8,27 +8,11 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
-    <offer id="Va3126c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Кремовый 60 см Арт. Va3126c</name>
-      <categoryId>450</categoryId>
-      <price>3376</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1y4z20UAIXKa13HZXMaih6czIJW1m7ow0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_VGPnSRg94iUmjRWr2TFSrEZfj7TIxi0</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rEwDZmLth-iIdi_35MWsf9lpadbI28I9</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Fransen</param>
-      <param name="Артикул">Va3126c</param>
-      <consist name="Роза кустовая" unit="шт">10</consist>
-    </offer>
     <offer id="Va3116c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Эмилия 60 см Арт. Va3116c</name>
       <categoryId>450</categoryId>
       <price>3376</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1NkDWO2lc6ynDdTvxU-S_lYSvRjWjote2</picture>
       <picture>https://lh3.googleusercontent.com/d/10x5P8U4yINdbsxN7Y-9IjCubIfEdSR6n</picture>
       <picture>https://lh3.googleusercontent.com/d/14kAPgDIbKwwqbflPypxYj68MeflEl-dm</picture>
@@ -44,7 +28,7 @@
       <name>Пачка (5 шт.) Роза кустовая пионовидная Джульетта 60 см Арт. Va1656c</name>
       <categoryId>450</categoryId>
       <price>1407</price>
-      <qty>1</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/18rlE4gcoC0AqR1Fw0ectFTy8r5PUG249</picture>
       <picture>https://lh3.googleusercontent.com/d/1JFjLLrot_paN4gPQ3_16Ldqel6PlZwqK</picture>
       <picture>https://lh3.googleusercontent.com/d/16WayKKtIyMr68zPV9P78-RlYtweAhnMy</picture>
@@ -60,7 +44,7 @@
       <name>Пачка (10 шт.) Роза кустовая пионовидная Мадам Бомбастик 60 см Арт. Va1446c</name>
       <categoryId>450</categoryId>
       <price>2630</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1O1eq6-7nk0R31v79YojCzS3hVMkjxAtF</picture>
       <picture>https://lh3.googleusercontent.com/d/12i76hySSB01kuy6jM1xVgXZ5kWTi6lSF</picture>
       <picture>https://lh3.googleusercontent.com/d/196hqzc0BnLV0M_mIgqr14FyJOTwYAM_A</picture>
@@ -76,7 +60,7 @@
       <name>Пачка (10 шт.) Хризантема одноголовая Момоко 70 см Арт. Va3527c</name>
       <categoryId>450</categoryId>
       <price>2352</price>
-      <qty>1</qty>
+      <qty>5</qty>
       <picture>https://lh3.googleusercontent.com/d/1qw4Bcs9uX4buFCLjDcVvO21a4m064DJk</picture>
       <picture>https://lh3.googleusercontent.com/d/1hf4NQ4rDcZwihSvaTTFNNmtO0EA8Sdfz</picture>
       <picture>https://lh3.googleusercontent.com/d/1P0fZ5lwBkrUErI0skSwk4tSEByH4hyHg</picture>
@@ -92,7 +76,7 @@
       <name>Пачка (10 шт.) Хризантема одноголовая Супербоул 70 см Арт. Va2127c</name>
       <categoryId>450</categoryId>
       <price>2352</price>
-      <qty>1</qty>
+      <qty>5</qty>
       <picture>https://lh3.googleusercontent.com/d/1PhT6iHbLnFQkjKNr-qeftLQl2TZgVcPm</picture>
       <picture>https://lh3.googleusercontent.com/d/1-bbgykNSjFI822jQM536YSc1x5AE2MnX</picture>
       <picture>https://lh3.googleusercontent.com/d/1JK0FuXQfGJMXRwc2iGTBRUcVLKxbqjvT</picture>
@@ -119,6 +103,22 @@
       <param name="Артикул">Va0737c</param>
       <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
     </offer>
+    <offer id="Va0877c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Бейби 70 см Арт. Va0877c</name>
+      <categoryId>450</categoryId>
+      <price>889</price>
+      <qty>7</qty>
+      <picture>https://lh3.googleusercontent.com/d/1_P9En0GjpjRVI_XLFF4I1HmM5vl5U4et</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RK0lt5ehXhxdI5j6wmCN1mussz05tBzl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u3miTdcBOJFqjQ9AglS1f6Sw9iyLnWXr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0877c</param>
+      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
     <offer id="Va0707c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Делегрин 70 см Арт. Va0707c</name>
       <categoryId>450</categoryId>
@@ -139,7 +139,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Калимба 60 см Арт. Va1986c</name>
       <categoryId>450</categoryId>
       <price>889</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1Ar3ttX98gRyu1EuuYyYonAT1wZUs3mHR</picture>
       <picture>https://lh3.googleusercontent.com/d/1gBGOraNa7y2bqvZUvC_NFGnUBWenUos4</picture>
       <picture>https://lh3.googleusercontent.com/d/1j5C93hWTSfAipGdwlNEfu0I3RrSMwvJ1</picture>
@@ -150,6 +150,22 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Va1986c</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Va2967c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Кеннеди 70 см Арт. Va2967c</name>
+      <categoryId>450</categoryId>
+      <price>889</price>
+      <qty>7</qty>
+      <picture>https://lh3.googleusercontent.com/d/1CkDuc3SLHbUSEl8efLqtnpUZrIIL-Ehn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1iYGFvVB84l0el-P2URkA3EuJGWXkw6Ny</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jputGXmEtOn7IJFl7RvgQzOwNmrWOBaf</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Va2967c</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
     <offer id="Va0866c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Коммандер Пинк 60 см Арт. Va0866c</name>
@@ -187,7 +203,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Оптимист 70 см Арт. Va1967c</name>
       <categoryId>450</categoryId>
       <price>889</price>
-      <qty>1</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/12d7qf8ImxnOmKCUesMFGBr5_AZwOkBFU</picture>
       <picture>https://lh3.googleusercontent.com/d/1XhpCWdIY5mfYTd4b70JXNxVK09uT39vg</picture>
       <picture>https://lh3.googleusercontent.com/d/1xEpWfoD3hmxFo51LrtSom9L0_zlX7LvA</picture>
@@ -251,7 +267,7 @@
       <name>Пачка (10 шт.) Хризантема Сантини Пепталк 50 см Арт. Va1565c</name>
       <categoryId>450</categoryId>
       <price>1344</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/10lr1eu90-3bLzIz7zw5fFXpaemqir3J9</picture>
       <picture>https://lh3.googleusercontent.com/d/1oNBk9ZIh9iVxIzzxtqh6j1X9C6BVZEtr</picture>
       <picture>https://lh3.googleusercontent.com/d/1EbIjEFJkiUtvh-wkxHLM4m9Ea-mthLB-</picture>
@@ -267,7 +283,7 @@
       <name>Пачка (25 шт.) Хризантема Сантини Помпони Микс 55 см Арт. Va0245c</name>
       <categoryId>450</categoryId>
       <price>3084</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1l3kKko0xzJliWLSVl0f2GAtX6Vm3oPVM</picture>
       <picture>https://lh3.googleusercontent.com/d/11gTvahN4yPzSVntg4qnZqQMtBYQcJoLU</picture>
       <picture>https://lh3.googleusercontent.com/d/1MQkl49WemFNai9v7nmNjyR18EE1LyDr1</picture>
@@ -283,7 +299,7 @@
       <name>Пачка (25 шт.) Хризантема Сантини Росси Вайт 70 см Арт. Va0127c</name>
       <categoryId>450</categoryId>
       <price>3084</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/10SHwT4zJufFyPpnuC6847VdqfWMM3pX4</picture>
       <picture>https://lh3.googleusercontent.com/d/1W7cBX_PH3pLSHPkfmznCT8tKrhihI-3z</picture>
       <picture>https://lh3.googleusercontent.com/d/1V-fhexld-m6E8GhBKOBTirMiXW8xf8II</picture>
@@ -299,7 +315,7 @@
       <name>Пачка (25 шт.) Хризантема Сантини Росси Пинк 55 см Арт. Va0105c</name>
       <categoryId>450</categoryId>
       <price>3084</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1WgHsJ3fJI3HGPOoRXZhE7dWAFnZLcS39</picture>
       <picture>https://lh3.googleusercontent.com/d/1USwwg_NvQ7QQ4Dx9CLj6QXQP15Ay34_u</picture>
       <picture>https://lh3.googleusercontent.com/d/1X_7tQYV-goFslD3lQdFX86jePs2mNNa_</picture>
@@ -315,7 +331,7 @@
       <name>Пачка (25 шт.) Хризантема Сантини Росси Санни 55 см Арт. Va0235c</name>
       <categoryId>450</categoryId>
       <price>3084</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1BdpSmlVw5HyrfKlEifO-a6SIsoPAw1fG</picture>
       <picture>https://lh3.googleusercontent.com/d/1v673FOwwTmwqLuHxMgIOLGgYgRNU5NOy</picture>
       <picture>https://lh3.googleusercontent.com/d/1MGqgNuEHEGQX6Yh06VFUXAiMiW2hOT6w</picture>
@@ -347,7 +363,7 @@
       <name>Пачка (10 шт.) Астранция Белый 60 см Арт. Va3156c</name>
       <categoryId>450</categoryId>
       <price>1892</price>
-      <qty>1</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1OvWgNhRZBsYpg0GQ_gjo7w4LcXRwdQDM</picture>
       <picture>https://lh3.googleusercontent.com/d/1yfjEaB6lXTAf86s3fBKfwWUrqf08OB2X</picture>
       <picture>https://lh3.googleusercontent.com/d/1MUu6tyGDoltG-xcpbYebBUNmfH1sqgdE</picture>
@@ -378,7 +394,7 @@
       <name>Пачка (25 шт.) Гвоздика одноголовая Кремовый 60 см Арт. Va0476c</name>
       <categoryId>450</categoryId>
       <price>2262</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1gN0r_NVf-XyfRkgRJZrLRTqN-FTIonxr</picture>
       <picture>https://lh3.googleusercontent.com/d/1CD9zY3fVQAbpa_nyEXWI8exlVUIpoK8U</picture>
       <picture>https://lh3.googleusercontent.com/d/1n2kog4vwxmsePzRxl3sCPZg3tbyDvYbG</picture>
@@ -393,7 +409,7 @@
       <name>Пачка (25 шт.) Гвоздика одноголовая Белый 60 см Арт. Va0486c</name>
       <categoryId>450</categoryId>
       <price>2262</price>
-      <qty>1</qty>
+      <qty>8</qty>
       <picture>https://lh3.googleusercontent.com/d/1LimNcggcDXBDc3vKhKdBKyyZNHA8lOz0</picture>
       <picture>https://lh3.googleusercontent.com/d/19VK85tWlkSgFfdyin-qnyJSghI_UpzGU</picture>
       <picture>https://lh3.googleusercontent.com/d/1NoINp3rPGfbbXEArLcGhoLdirJ43f84D</picture>
@@ -408,7 +424,7 @@
       <name>Пачка (25 шт.) Гвоздика одноголовая Красный 70 см Арт. Va2197c</name>
       <categoryId>450</categoryId>
       <price>2262</price>
-      <qty>1</qty>
+      <qty>8</qty>
       <picture>https://lh3.googleusercontent.com/d/1r8z4KqNfPsJu29m8fUvAgPK6Y3maKDZ5</picture>
       <picture>https://lh3.googleusercontent.com/d/1C2mXeJXSsF0eHdDPCqPF9r0dOjVhEdQW</picture>
       <picture>https://lh3.googleusercontent.com/d/1LUVMxG2o9UzEJA7gnN4MIllLLU-e94PP</picture>
@@ -423,7 +439,7 @@
       <name>Пачка (10 шт.) Гиперикум Коко Диабло 50 см Арт. Va1335c</name>
       <categoryId>450</categoryId>
       <price>2056</price>
-      <qty>1</qty>
+      <qty>8</qty>
       <picture>https://lh3.googleusercontent.com/d/1CeAjq9AhtQ0P8oz45APysHEZC9dVKrCJ</picture>
       <picture>https://lh3.googleusercontent.com/d/1-hIS2Z5a43dm76Lp4PVWqHOeNe9qjUqy</picture>
       <picture>https://lh3.googleusercontent.com/d/1k7D626AW6dJIO5FLTyIni4ad8pZFVl1m</picture>
@@ -439,7 +455,7 @@
       <name>Пачка (10 шт.) Гиперикум Коко Казино 50 см Арт. Va0175c</name>
       <categoryId>450</categoryId>
       <price>2056</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1kdrxBpiet9Pjvr0sbFxz2xT6tuthbPoh</picture>
       <picture>https://lh3.googleusercontent.com/d/1qnW_ZyP33LDkvGF1EHfb9Q5yAKn7HRNL</picture>
       <picture>https://lh3.googleusercontent.com/d/1EIehR1MNRmLKhPSjTqrj-GRV2V89NR2r</picture>
@@ -455,7 +471,7 @@
       <name>Пачка (10 шт.) Гиперикум Коко Уно 50 см Арт. Va0165c</name>
       <categoryId>450</categoryId>
       <price>2056</price>
-      <qty>1</qty>
+      <qty>10</qty>
       <picture>https://lh3.googleusercontent.com/d/1UPV00CQhh6uw2WRkPytSeeL8KnVsj0pE</picture>
       <picture>https://lh3.googleusercontent.com/d/1OJaNIBwG3KuQCSYldlp9EUEPPtc4ET5f</picture>
       <picture>https://lh3.googleusercontent.com/d/1Biif_ol26mxiqJQUzvE_4ZSTFXRrid5C</picture>
@@ -471,7 +487,7 @@
       <name>Пачка (10 шт.) Клематис Лиловый 40 см Арт. Va2754c</name>
       <categoryId>450</categoryId>
       <price>1955</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1g5mBx0tI8dMQNrlQBOlT0YqO04gmTkpd</picture>
       <picture>https://lh3.googleusercontent.com/d/1AlODWkxanwGqBtJdXgqfQzsOwDM-zEX-</picture>
       <picture>https://lh3.googleusercontent.com/d/1F53nvwYMksv74FcEjRh4eZJSbdrQPhGw</picture>
@@ -487,7 +503,7 @@
       <name>Пачка (10 шт.) Маттиола Белый 60 см Арт. Va1116c</name>
       <categoryId>450</categoryId>
       <price>2352</price>
-      <qty>1</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1H-Br1I8muUWMUNAKvck0g9716Llr9bCk</picture>
       <picture>https://lh3.googleusercontent.com/d/1ohIxkLFRBJm-GXlGU2AgV3kGFjDukIgx</picture>
       <picture>https://lh3.googleusercontent.com/d/1Lr9_Wkoy3RexuZd1rR9ZK9XAxBnFbjZo</picture>
@@ -503,7 +519,7 @@
       <name>Пачка (10 шт.) Маттиола Фуксия 60 см Арт. Va2496c</name>
       <categoryId>450</categoryId>
       <price>2352</price>
-      <qty>1</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1fd1A8P2yJemBUIpSnmJdOj6y-Jm5qmSn</picture>
       <picture>https://lh3.googleusercontent.com/d/1-e-NTd1KyIMVYC0o0HFi5rf_ujX9sAi3</picture>
       <picture>https://lh3.googleusercontent.com/d/1w3-5EQj5_4yOfb2TyyMljenYQq2_AhUt</picture>
@@ -534,7 +550,7 @@
       <name>Пачка (10 шт.) Сирень Сиреневый 60 см Арт. Va1806c</name>
       <categoryId>450</categoryId>
       <price>4537</price>
-      <qty>1</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1xLRmXr6xqrvoOKplRY3ybAVW8x9klZdt</picture>
       <picture>https://lh3.googleusercontent.com/d/1p6KurZ3OzaOam8xXJneaIRpP5HCV_ILs</picture>
       <picture>https://lh3.googleusercontent.com/d/1OXsTSZSdK1kcwVuMbLFnBMbCGDcT9tus</picture>
@@ -590,11 +606,27 @@
       <param name="Артикул">Va4184c</param>
       <consist name="Тюльпан пионовидный Самбука" unit="шт">50</consist>
     </offer>
+    <offer id="Va2166c" available="true">
+      <name>Пачка (10 шт.) Эустома Алисса Вайт 60 см Арт. Va2166c</name>
+      <categoryId>450</categoryId>
+      <price>2827</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ykOjlPFO3jYDlo8s3BhURIU80_-5mIh3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1pj97EC-WQpvpLEoU8utTdCCJCKafuuwg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WjM67q_h1-2hEB1sDqLf1SwN3NtC1noE</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Va2166c</param>
+      <consist name="Эустома Алисса Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Va0696c" available="true">
       <name>Пачка (10 шт.) Эустома Алисса Пинк 60 см Арт. Va0696c</name>
       <categoryId>450</categoryId>
       <price>2827</price>
-      <qty>1</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1vibTw2AoBAcptYFbvjmwgskSvML9rLRH</picture>
       <picture>https://lh3.googleusercontent.com/d/1Q9fFzyD6Y1vqncGZIk6JNNJiIcPwT17r</picture>
       <picture>https://lh3.googleusercontent.com/d/1FwDv7wXQ9hi4SFi3lbGRecf8nKVcx3cR</picture>
@@ -622,11 +654,27 @@
       <param name="Артикул">Va0566c</param>
       <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
+    <offer id="Va2306c" available="true">
+      <name>Пачка (10 шт.) Эустома Росита Вайт 60 см Арт. Va2306c</name>
+      <categoryId>450</categoryId>
+      <price>2827</price>
+      <qty>6</qty>
+      <picture>https://lh3.googleusercontent.com/d/1CB62X_ID2arkwYi0y3HyLCnpWGw3bL66</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-XuQBVgwxBlqsfkLYB8EKTC4yUE8-46B</picture>
+      <picture>https://lh3.googleusercontent.com/d/1s2bFi2x0ShQWCs6zy9u0G3EB7nauRyuv</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Va2306c</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
+    </offer>
     <offer id="Va1246c" available="true">
       <name>Пачка (10 шт.) Эустома Росита Пинк 60 см Арт. Va1246c</name>
       <categoryId>450</categoryId>
       <price>2827</price>
-      <qty>1</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1A8lYoA7W3EasOJVaA9UfVglkQcdGzUIK</picture>
       <picture>https://lh3.googleusercontent.com/d/1d7bE4MY8eccfiErx1xrDCM77l7Ctga37</picture>
       <picture>https://lh3.googleusercontent.com/d/1msyxC043C7ir1Fk3HxSdWu9uF5EuWMcF</picture>
@@ -642,7 +690,7 @@
       <name>Пачка (25 шт.) Солидаго Желтый 70 см Арт. Va0277c</name>
       <categoryId>450</categoryId>
       <price>4926</price>
-      <qty>1</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/16PAFUYm41jrSQ7lk_ZwiXNiGXm8vu5x4</picture>
       <picture>https://lh3.googleusercontent.com/d/19yhBxVBHSPX8FypD3yJuZA2rGCNV-QRi</picture>
       <picture>https://lh3.googleusercontent.com/d/1mogodpa_iKhDT6zb1Nhxkf6usS7bakdp</picture>
@@ -658,7 +706,7 @@
       <name>Пачка (25 шт.) Статица Фиолетовый 60 см Арт. Va2806c</name>
       <categoryId>450</categoryId>
       <price>3892</price>
-      <qty>1</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/1IwxqlzZOrlf0gy0HcKaItqQ48fPxcBk1</picture>
       <picture>https://lh3.googleusercontent.com/d/1PYhNqqOZC2VQBMK5FGs9fBak6-LLTddP</picture>
       <picture>https://lh3.googleusercontent.com/d/1E213pJ1t6yKqSoE42yzszaGxdkdXKnUQ</picture>
@@ -700,6 +748,21 @@
       <param name="Страна">уточняется</param>
       <param name="Артикул">Va0375c</param>
       <consist name="Хелеборус" unit="шт">5</consist>
+    </offer>
+    <offer id="Va0055c" available="true">
+      <name>Пачка (10 шт.) Эрингиум Синий 50 см Арт. Va0055c</name>
+      <categoryId>450</categoryId>
+      <price>2640</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1HC-o_-DmDdh2G3n9xkE3l9Lq5jXhVhZ9</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H7-FsE9K87ZdCAUEC1C6eKF9QshbIu2G</picture>
+      <picture>https://lh3.googleusercontent.com/d/19Ml6dGmyQAzDVePEhgE0N7zGXNUf4WZW</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va0055c</param>
+      <consist name="Эрингиум" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
