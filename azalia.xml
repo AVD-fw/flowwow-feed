@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13T13:01:37.797+03:00">
+<yml_catalog date="2026-04-13T13:04:00.958+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -238,6 +238,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az2877</param>
       <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
+    </offer>
+    <offer id="Az6887" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Болте 70 см Арт. Az6887</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/15FV7m8xiQAXLQylgFChsU2ZhmlfwRrwz</picture>
+      <picture>https://lh3.googleusercontent.com/d/14wmE3NZdKLr25RExV5C-bH6I_O5u66bl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az6887</param>
+      <consist name="Хризантема кустовая Болте" unit="шт">5</consist>
     </offer>
     <offer id="Az2977" available="true">
       <categoryId>6</categoryId>
