@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13T12:31:36.411+03:00">
+<yml_catalog date="2026-04-13T12:33:47.870+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -45,6 +45,40 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az7015</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az5846" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Барбадос 60 см Арт. Az5846</name>
+      <price>391</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1prH5A7K7i0fjKE_iT2ripIiX2ZJ9fS2z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ie2XML8FKtXgvvEJPc-2l9Ihxs3t1tnC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XiiOp4cCcH_1vx4UbOdZsWJsHJOLXblX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hhucDd5vs58nFJiweC5QjmofUGelIvVw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aCWCLZdxzFXt3qC1rsFA8cM8DXDgtgmX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az5846</param>
+      <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6676" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Перл Дайменшен 60 см Арт. Az6676</name>
+      <price>346</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ll8VOHBkBcsjKu6K2YhIi8je_gCHpdom</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qUn4efT4u8NGJyKWnfgzEaZmy5GILGZA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bjV_auwrQAE22nJ3ABiP07I_D_FjCSu2</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6676</param>
+      <consist name="Роза кустовая Перл Дайменшен" unit="шт">10</consist>
     </offer>
     <offer id="Az2857" available="true">
       <categoryId>5</categoryId>
