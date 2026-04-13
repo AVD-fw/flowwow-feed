@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13T09:37:43.577+03:00">
+<yml_catalog date="2026-04-13T09:47:41.484+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -39,6 +39,22 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az7015c</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az3157c" available="true">
+      <name>Пачка (10 шт.) Хризантема одноголовая Топспин 70 см Арт. Az3157c</name>
+      <categoryId>450</categoryId>
+      <price>2863</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1_TK72AhCu5XO3X5Zm4ian67eeTgi637H</picture>
+      <picture>https://lh3.googleusercontent.com/d/1QO8AGuo6cf1bg0LTmKEcx9DGpduri9T-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rL5_tM7K7wA1w9qOzF4dZTzAXM-wPj19</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az3157c</param>
+      <consist name="Хризантема одноголовая Топспин" unit="шт">10</consist>
     </offer>
     <offer id="Az2877c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Бейби 70 см Арт. Az2877c</name>
@@ -103,6 +119,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3927c</param>
       <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4757c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Перпл Стар 70 см Арт. Az4757c</name>
+      <categoryId>450</categoryId>
+      <price>1508</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ig26-J_8r_IGTO9nltCjKeP9Hzq7-6kv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JSX73WYULrTqD-y_V9ica8osC2DYxMi4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qkimSB_n0JHIEpMo0fgPjwAjMJBnIOyT</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4757c</param>
+      <consist name="Хризантема кустовая Перпл Стар" unit="шт">5</consist>
     </offer>
     <offer id="Az3027c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Селебрейт 70 см Арт. Az3027c</name>
