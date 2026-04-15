@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15T06:13:31.935+03:00">
+<yml_catalog date="2026-04-15T06:21:15.699+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,6 +32,20 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az2476</param>
       <consist name="Роза одноголовая Батер Кап" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2756" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Лондон Таймс 60 см Арт. Az2756</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1VDS1GDA966whYGeW1q0ti6v4wRE_V81Q</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az2756</param>
+      <consist name="Роза одноголовая Лондон Таймс" unit="шт">10</consist>
     </offer>
     <offer id="Az5846" available="true">
       <categoryId>3</categoryId>
@@ -120,6 +134,23 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Az3586</param>
       <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
+    </offer>
+    <offer id="Az1335" available="true">
+      <categoryId>37</categoryId>
+      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
+      <price>226</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QPUzgFt3IXNSt0r5u3Au2PZR5YEK7q6c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
+      <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hrjd2_xd66NF1uDlLdUceoHwMcbXVtSX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wNBGjIlggFHcfXPm-O6FP0D9H-xw9pUg</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
