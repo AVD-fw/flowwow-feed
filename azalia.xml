@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15T06:03:50.878+03:00">
+<yml_catalog date="2026-04-15T06:11:14.619+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,50 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az2586" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 60 см Арт. Az2586</name>
-      <price>151</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1A2Lr1rlcIQcpZ9yWfpu6pPno1fKBuyjt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1uljAuYXMBt6S-qAehl2fwHdslu_g6M9R</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az2586</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3486" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 60 см Арт. Az3486</name>
-      <price>136</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1PBkh3fcpcOvp_APffZPpYcajoEPlso09</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xofiGAQBC3RwYg9rYYW_edqOnTeYxDLW</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az3486</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
-    <offer id="Az7015" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 50 см Арт. Az7015</name>
-      <price>121</price>
-      <qty>15</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Ze-wFwd849eX9pSjQ3fhMO-uK_-wr4WV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az7015</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
-    </offer>
     <offer id="Az2476" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Батер Кап 60 см Арт. Az2476</name>
@@ -76,35 +32,6 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az2476</param>
       <consist name="Роза одноголовая Батер Кап" unit="шт">10</consist>
-    </offer>
-    <offer id="Az2825" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Джумилия 50 см Арт. Az2825</name>
-      <price>181</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1LqFo80RlRISA0AJho7iPQzuNanDfeYuk</picture>
-      <picture>https://lh3.googleusercontent.com/d/11yg6vTnRgivt4EkKeOvcxH11Ac_DCkYw</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az2825</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
-    </offer>
-    <offer id="Az2756" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Лондон Таймс 60 см Арт. Az2756</name>
-      <price>151</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1VDS1GDA966whYGeW1q0ti6v4wRE_V81Q</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Rose Hill</param>
-      <param name="Артикул">Az2756</param>
-      <consist name="Роза одноголовая Лондон Таймс" unit="шт">10</consist>
     </offer>
     <offer id="Az5846" available="true">
       <categoryId>3</categoryId>
@@ -124,111 +51,11 @@
       <param name="Артикул">Az5846</param>
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
     </offer>
-    <offer id="Az2877" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Бейби 70 см Арт. Az2877</name>
-      <price>256</price>
-      <qty>15</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1mW-JO3IVZr-jiuEbM1wQyzBGnp9tF6MA</picture>
-      <picture>https://lh3.googleusercontent.com/d/1l5FwrpPR8iBUurCJzmIzfUrSfBxACx0f</picture>
-      <picture>https://lh3.googleusercontent.com/d/1GUz3unERnxtZo_tRkkJVPkMsYs1WehAu</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fIkpSe6EOCUdBtKM2CKcleL7l3wdTm2j</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-De6vceqS7maE1z9N_dXU1819H7sW4HI</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az2877</param>
-      <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
-    </offer>
-    <offer id="Az2977" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
-      <price>256</price>
-      <qty>20</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1A04j2OMexwlhab4fGBnumCZM0jpOJTQv</picture>
-      <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1sn7Gymja2ydfU3cyYOK122FX-zbmvUCA</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bRdwr39ubWweTJprIhQNcpxpc4aQLNQN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1I6z6o_QbbCuTTd0UPxOWbJFSWpMjnyuj</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az2977</param>
-      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3697" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697</name>
-      <price>218</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12iigSE0fRyyvIzFX9l8WPN4xICdfftK3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3697</param>
-      <consist name="Хризантема кустовая Кеннеди Рози" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3927" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Летс Гоу Пинк 70 см Арт. Az3927</name>
-      <price>256</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1HEBaN6xS9CW0zY6JhseuyyVwDVwoZe7y</picture>
-      <picture>https://lh3.googleusercontent.com/d/1vXSW4uwxJQRJ6mf3alhVXwBparHtoQgU</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3927</param>
-      <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
-    </offer>
-    <offer id="Az4757" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Перпл Стар 70 см Арт. Az4757</name>
-      <price>241</price>
-      <qty>15</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1WXiXKqM-CAbuw1Jp9VNGyrhqX3dDbj_e</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qkimSB_n0JHIEpMo0fgPjwAjMJBnIOyT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1sTKSVoMBKT6V7BqxYhL4i-JgOL4jQA3c</picture>
-      <picture>https://lh3.googleusercontent.com/d/17P05aTPGIs4sbGHq7yLu6kXDe4lAg2Sn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4757</param>
-      <consist name="Хризантема кустовая Перпл Стар" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3707" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
-      <price>256</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Loe4OvkzU8jBJ0MVrQcd7eGlKkSxcEZW</picture>
-      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oIUXutRnyXNnWK_nCjciWs5GPkc9i199</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zOdbu_WCVjMMlQR9RnA4bhHZGnYW6tHQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3707</param>
-      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
-    </offer>
     <offer id="Az4487" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
       <price>241</price>
-      <qty>15</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kar8oI0MopqmVGBsddP3_XrNlSU-iERb</picture>
       <picture>https://lh3.googleusercontent.com/d/1noVrJqtvRB_CK2QkbuJmOG1i9J9NkCof</picture>
@@ -293,40 +120,6 @@
       <param name="Производитель">Marginpar</param>
       <param name="Артикул">Az3586</param>
       <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
-    </offer>
-    <offer id="Az1335" available="true">
-      <categoryId>37</categoryId>
-      <name>Статица Кристал Дарк Блю 50 см Арт. Az1335</name>
-      <price>226</price>
-      <qty>15</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1QPUzgFt3IXNSt0r5u3Au2PZR5YEK7q6c</picture>
-      <picture>https://lh3.googleusercontent.com/d/1F8Efnzo1JvKX_Qt8U2bpDR16Igw_ckgV</picture>
-      <picture>https://lh3.googleusercontent.com/d/16xMpVg71j3quMUbRK8Qn2vnCKRobeAa7</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hrjd2_xd66NF1uDlLdUceoHwMcbXVtSX</picture>
-      <picture>https://lh3.googleusercontent.com/d/1wNBGjIlggFHcfXPm-O6FP0D9H-xw9pUg</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az1335</param>
-      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3554" available="true">
-      <categoryId>37</categoryId>
-      <name>Хамелациум Ади 40 см Арт. Az3554</name>
-      <price>271</price>
-      <qty>35</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1QSuAtajD8xXRnyIPxBx8CxbKlDZJbHff</picture>
-      <picture>https://lh3.googleusercontent.com/d/1fs5rgj_LZUqaP2vhx1AIqqJW9H6YfJQh</picture>
-      <picture>https://lh3.googleusercontent.com/d/11RgOmzXFabd3dQxuC1cOp-Izkli1UdVy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HmwIdh05D-LCNNY2aDb-GFp4gslSDM3J</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_qsrD6Oxeox5Pav0QXFxkNmuobEGwrrn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az3554</param>
-      <consist name="Хамелациум Ади" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
