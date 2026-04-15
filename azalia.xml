@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15T06:21:15.699+03:00">
+<yml_catalog date="2026-04-15T06:23:32.288+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -64,6 +64,24 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az5846</param>
       <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
+    <offer id="Az2977" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
+      <price>256</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1A04j2OMexwlhab4fGBnumCZM0jpOJTQv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sn7Gymja2ydfU3cyYOK122FX-zbmvUCA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bRdwr39ubWweTJprIhQNcpxpc4aQLNQN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I6z6o_QbbCuTTd0UPxOWbJFSWpMjnyuj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2977</param>
+      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
     </offer>
     <offer id="Az4487" available="true">
       <categoryId>6</categoryId>
