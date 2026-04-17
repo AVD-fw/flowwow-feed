@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-17T12:31:33.673+03:00">
+<yml_catalog date="2026-04-17T12:33:52.001+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,35 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az3486" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 60 см Арт. Az3486</name>
+      <price>151</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1PBkh3fcpcOvp_APffZPpYcajoEPlso09</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xofiGAQBC3RwYg9rYYW_edqOnTeYxDLW</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3486</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="Az7015" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 50 см Арт. Az7015</name>
+      <price>136</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Ze-wFwd849eX9pSjQ3fhMO-uK_-wr4WV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7015</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
     <offer id="Az2476" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Батер Кап 60 см Арт. Az2476</name>
@@ -257,6 +286,21 @@
       <param name="Артикул">Az2977</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
     </offer>
+    <offer id="Az4537" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер Пинк 70 см Арт. Az4537</name>
+      <price>233</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1buDIGe-2DO8ZtbC84sNNdFYTGO0Xzf_7</picture>
+      <picture>https://lh3.googleusercontent.com/d/16zDM7_f6tWl_zgd6nlIomddXPIsNBUX6</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Az4537</param>
+      <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
+    </offer>
     <offer id="Az3167" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Ньютон 70 см Арт. Az3167</name>
@@ -274,6 +318,39 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3167</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3007" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vbbfw06lt_AIFpB6xzLlM7-YgLlanQoh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1uP27vUX9EN6c2jkAK9DyiAl8EhMdPv--</picture>
+      <picture>https://lh3.googleusercontent.com/d/16y_qmhUp0tOo07MrzzE0ygJovBPiumZs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3007</param>
+      <consist name="Хризантема кустовая Фабьен Свит" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3707" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Loe4OvkzU8jBJ0MVrQcd7eGlKkSxcEZW</picture>
+      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1oIUXutRnyXNnWK_nCjciWs5GPkc9i199</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zOdbu_WCVjMMlQR9RnA4bhHZGnYW6tHQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3707</param>
+      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
     <offer id="Az6776" available="true">
       <categoryId>37</categoryId>
