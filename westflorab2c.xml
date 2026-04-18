@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-18T14:57:03.278+03:00">
+<yml_catalog date="2026-04-18T15:07:04.931+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -92,7 +92,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Оптимист 70 см Арт. Va1967c</name>
       <categoryId>450</categoryId>
       <price>807</price>
-      <qty>4</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/12d7qf8ImxnOmKCUesMFGBr5_AZwOkBFU</picture>
       <picture>https://lh3.googleusercontent.com/d/1XhpCWdIY5mfYTd4b70JXNxVK09uT39vg</picture>
       <picture>https://lh3.googleusercontent.com/d/1xEpWfoD3hmxFo51LrtSom9L0_zlX7LvA</picture>
@@ -188,7 +188,7 @@
       <name>Пачка (50 шт.) Ирис Блю Меджик 60 см Арт. Va0626c</name>
       <categoryId>450</categoryId>
       <price>3524</price>
-      <qty>4</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/1ZOc8tUpfjvkXqv_A4tMpKyZnEDrVwCZV</picture>
       <picture>https://lh3.googleusercontent.com/d/17dQXq3P0GUshMG7BAg-Cy28s7ZoJW0_r</picture>
       <picture>https://lh3.googleusercontent.com/d/1U6Nq70zCVwA6_G9GbfH-GkT5J3NH7clY</picture>
@@ -199,22 +199,6 @@
       <param name="Производитель">Flowers Tuinbouw BV</param>
       <param name="Артикул">Va0626c</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
-    </offer>
-    <offer id="Va3665c" available="true">
-      <name>Пачка (10 шт.) Калла Кентор 50 см Арт. Va3665c</name>
-      <categoryId>450</categoryId>
-      <price>2402</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1jvbiZY9yIybIZa54ywJYRrW6sZNAuNve</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MAMx6folCeX9H4I7wIIeUwob323VYg3B</picture>
-      <picture>https://lh3.googleusercontent.com/d/1CkPgh1P2jb8VdgYgdf_VPSkPJrkUdiO-</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Meiland</param>
-      <param name="Артикул">Va3665c</param>
-      <consist name="Калла Кентор" unit="шт">10</consist>
     </offer>
     <offer id="Va0265c" available="true">
       <name>Пачка (25 шт.) Танацетум Белый 50 см Арт. Va0265c</name>
@@ -230,22 +214,6 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Va0265c</param>
       <consist name="Танацетум" unit="шт">25</consist>
-    </offer>
-    <offer id="Va0696c" available="true">
-      <name>Пачка (10 шт.) Эустома Алисса Пинк 60 см Арт. Va0696c</name>
-      <categoryId>450</categoryId>
-      <price>2292</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1vibTw2AoBAcptYFbvjmwgskSvML9rLRH</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Q9fFzyD6Y1vqncGZIk6JNNJiIcPwT17r</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FwDv7wXQ9hi4SFi3lbGRecf8nKVcx3cR</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Sunrise Holland</param>
-      <param name="Артикул">Va0696c</param>
-      <consist name="Эустома Алисса Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Va2306c" available="true">
       <name>Пачка (10 шт.) Эустома Росита Вайт 60 см Арт. Va2306c</name>
@@ -298,7 +266,7 @@
       <name>Пачка (25 шт.) Статица Фиолетовый 60 см Арт. Va2806c</name>
       <categoryId>450</categoryId>
       <price>3885</price>
-      <qty>3</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1IwxqlzZOrlf0gy0HcKaItqQ48fPxcBk1</picture>
       <picture>https://lh3.googleusercontent.com/d/1PYhNqqOZC2VQBMK5FGs9fBak6-LLTddP</picture>
       <picture>https://lh3.googleusercontent.com/d/1E213pJ1t6yKqSoE42yzszaGxdkdXKnUQ</picture>
