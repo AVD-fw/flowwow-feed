@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-18T06:41:17.388+03:00">
+<yml_catalog date="2026-04-18T06:43:30.786+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,6 +32,37 @@
       <param name="Производитель">Юг РФ</param>
       <param name="Артикул">Az6776</param>
       <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3185" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 50 см Арт. Az3185</name>
+      <price>106</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KxNmm3Kug8buGG2LiawY_So0LhWtfyXH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pl1L3GEkp5b9HK53BVASvRBEGKWMUa7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KzFDT5EewHzrHpcIwY3ohQVjoDskdmg3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CBorV-W5t1EnOs6STF8fOpisBrSl13BZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3185</param>
+      <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az1357" available="true">
+      <categoryId>38</categoryId>
+      <name>Вибурнум Сноу Бол 70 см Арт. Az1357</name>
+      <price>301</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1dz4YzX_nhC_ths5tFOPD21HiQBRy-3S6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tj-uc4j6wEaGWYNCTClHKzpY2iqO8-NV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az1357</param>
+      <consist name="Вибурнум Сноу Бол" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
