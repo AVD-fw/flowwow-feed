@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-18T12:13:46.999+03:00">
+<yml_catalog date="2026-04-18T12:21:23.758+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -36,7 +36,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 50 см Арт. Az7015</name>
       <price>136</price>
-      <qty>15</qty>
+      <qty>330</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Ze-wFwd849eX9pSjQ3fhMO-uK_-wr4WV</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
@@ -115,7 +115,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Кимберли 70 см Арт. Az1717</name>
       <price>166</price>
-      <qty>20</qty>
+      <qty>150</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-5p3Nkcu1aDqQ69x6szZtTekxPxE-pLV</picture>
       <picture>https://lh3.googleusercontent.com/d/1MoaAs-eFh3QoUKc5QsOYsnS7YvnqUmam</picture>
@@ -238,7 +238,7 @@
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Перл Дайменшен 50 см Арт. Az6405</name>
       <price>301</price>
-      <qty>10</qty>
+      <qty>70</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1A39Bc51YiKOCCkGPw1ewjyFOXJKUyGtB</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -248,25 +248,11 @@
       <param name="Артикул">Az6405</param>
       <consist name="Роза кустовая пионовидная Перл Дайменшен" unit="шт">10</consist>
     </offer>
-    <offer id="Az6416" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Перл Дайменшен 60 см Арт. Az6416</name>
-      <price>346</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1A39Bc51YiKOCCkGPw1ewjyFOXJKUyGtB</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">СТК</param>
-      <param name="Артикул">Az6416</param>
-      <consist name="Роза кустовая пионовидная Перл Дайменшен" unit="шт">10</consist>
-    </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
       <price>301</price>
-      <qty>20</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1AX0b6B-0aZ2l8fSesJCt8HxqAwd_20SO</picture>
       <picture>https://lh3.googleusercontent.com/d/1y2qIJIKMAdfHdZgif71FZEtTHZr7A9D1</picture>
@@ -282,7 +268,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
       <price>256</price>
-      <qty>20</qty>
+      <qty>60</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/17v1BdvMSwIF4jZCfXtOu3g02Zj-loELc</picture>
       <picture>https://lh3.googleusercontent.com/d/19x2wAvFjuh_EtN1auKvkqShihq8CLKo6</picture>
@@ -300,7 +286,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
       <price>256</price>
-      <qty>20</qty>
+      <qty>30</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1A04j2OMexwlhab4fGBnumCZM0jpOJTQv</picture>
       <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
@@ -336,7 +322,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
       <price>256</price>
-      <qty>15</qty>
+      <qty>10</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vbbfw06lt_AIFpB6xzLlM7-YgLlanQoh</picture>
       <picture>https://lh3.googleusercontent.com/d/1uP27vUX9EN6c2jkAK9DyiAl8EhMdPv--</picture>
@@ -352,7 +338,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
       <price>256</price>
-      <qty>20</qty>
+      <qty>40</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Loe4OvkzU8jBJ0MVrQcd7eGlKkSxcEZW</picture>
       <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
@@ -369,7 +355,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
       <price>241</price>
-      <qty>15</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kar8oI0MopqmVGBsddP3_XrNlSU-iERb</picture>
       <picture>https://lh3.googleusercontent.com/d/1noVrJqtvRB_CK2QkbuJmOG1i9J9NkCof</picture>
@@ -494,43 +480,11 @@
       <param name="Артикул">Az3586</param>
       <consist name="Клематис Эмейзинг София" unit="шт">10</consist>
     </offer>
-    <offer id="Az5974" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Колумбус 40 см Арт. Az5974</name>
-      <price>181</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1RvH3z_BU80oKnIb0cFo3Bq4g99kHkR0B</picture>
-      <picture>https://lh3.googleusercontent.com/d/1roVKJ1JGEO0DAFbfvoO62tSZHiVo6mu_</picture>
-      <picture>https://lh3.googleusercontent.com/d/16mBhywfHCuB93Bz1x6bdKAef4fUVqGDh</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5974</param>
-      <consist name="Тюльпан Пионовидный Колумбус" unit="шт">50</consist>
-    </offer>
-    <offer id="Az4084" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Пионовидный Элисон Бредли 40 см Арт. Az4084</name>
-      <price>166</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Yh3lTBTRYmB_b5w1djx56Zg6u3Rhlr66</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FNMJSNBQFsSDkYlSwH53GRVkoGxBE-Oc</picture>
-      <picture>https://lh3.googleusercontent.com/d/14EYxnaXaJ3SGSPJRyyx87zstsvRI431U</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ubhRdORNRRoDtf77eL00en7LbgjA6ziT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PjX_eo2UFQoa7MA7DUDV7WrNo4E2p1mb</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az4084</param>
-      <consist name="Тюльпан Пионовидный Элисон Бредли" unit="шт">50</consist>
-    </offer>
     <offer id="Az3646" available="true">
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>346</price>
-      <qty>30</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
@@ -542,21 +496,6 @@
       <param name="Производитель">Sunrise Holland</param>
       <param name="Артикул">Az3646</param>
       <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
-    </offer>
-    <offer id="Az5636" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Пьюр Вайт 60 см Арт. Az5636</name>
-      <price>301</price>
-      <qty>30</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1y0dlFrFzQLxCWhvEMUBRDSwtCQV8uOMf</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VAyd7P7QpTReLEVz8QdeJM359p3QE2PC</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VbKkNqhq3vCzM11WtqFrpBTSJ28kjsqo</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5636</param>
-      <consist name="Эустома Алиса Пьюр Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Az1357" available="true">
       <categoryId>38</categoryId>
