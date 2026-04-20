@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-20T05:15:39.410+03:00">
+<yml_catalog date="2026-04-20T05:25:12.254+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,6 +17,42 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Fc12007" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Б Бабблс 70 см Арт. Fc12007</name>
+      <price>143</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G8prPPZdONIeKa-RH8XDUO7GgkWAO-ty</picture>
+      <picture>https://lh3.googleusercontent.com/d/17XsXOn58aZ9ZD0fnGKTc82EptMdHN1_k</picture>
+      <picture>https://lh3.googleusercontent.com/d/1apvi81NJasNtZrSjAgmmtKiG6JRgi_Jl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZnKN9CrX2TrFWyeov3VCj3Ny2BAu5jkp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GtL1OYTfahgUaQ4midHsnsXFdVCH5BOF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc12007</param>
+      <consist name="Роза кустовая пионовидная Б Бабблс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc06267" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Ред Бабблс 70 см Арт. Fc06267</name>
+      <price>143</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1240IN1QVH0jWBONU8wlwkzY0vI9EJzTq</picture>
+      <picture>https://lh3.googleusercontent.com/d/13RBiJbHsFwkpznUPShee7cDAydF8rx_c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IuXxua0bjoMkMZ0bSx9qZ3oJvpQb5LJd</picture>
+      <picture>https://lh3.googleusercontent.com/d/18qn5g-6LDZF4tM-UnbcE3ogHeEgy4Zue</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Dws16ipY40ofqEWy72RWlOSbrl_KYPRI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Армения</param>
+      <param name="Производитель">Rose Art</param>
+      <param name="Артикул">Fc06267</param>
+      <consist name="Роза кустовая пионовидная Ред Бабблс" unit="шт">10</consist>
+    </offer>
     <offer id="Fc7437" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Fc7437</name>
@@ -160,6 +196,216 @@
       <param name="Производитель">SenZaro</param>
       <param name="Артикул">Fc9937</param>
       <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc17495" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини 50 см Арт. Fc17495</name>
+      <price>51</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1JzQIOr-iWHXIrCsBRGiwDQb3Y9KP67j_</picture>
+      <picture>https://lh3.googleusercontent.com/d/16AxrKc77IndAibqXSek-28BZRdowchB1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EyUbzNK1IMHbrRDYc9I8_LZTOaI2Gni1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NZWRxY1w5qEcqy63kR-jf-8RUMfdYHqa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BsVqadPEbcTPRHHZZCxbSFBVQYkADeFi</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc17495</param>
+      <consist name="Хризантема Сантини" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc01055" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Байкал 55 см Арт. Fc01055</name>
+      <price>51</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sKqKZ4PWKOt3IN8Pe7HkykdK9MTL_wCd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1wLxeB8jtC4ARa915JnF-j4y8HJzjAhpd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PzvWP4UtvSYhlz1mU8sJ_S62ZVXk-mi0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U3MFLUROu60HsC9kOvBikfg-Bh1I9E1P</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc01055</param>
+      <consist name="Хризантема Сантини Байкал" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc15225" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Пепталк 55 см Арт. Fc15225</name>
+      <price>51</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1vkbZGZ2jDw5T5gjsEgAAEt5gHcl3i0qR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ogGD9doThm-P5E19ou12ULxWiG-g1qel</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w4S6zRWj-eN9RoreixRT3Nt2TBQWvx1L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1W4ch0owO_e-itFT7N0NXgCRpJb6nJT49</picture>
+      <picture>https://lh3.googleusercontent.com/d/167jZKhxtLPjWcw7l3f3eZUHIoPhNXeVn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc15225</param>
+      <consist name="Хризантема Сантини Пепталк" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc03455" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Пинк 55 см Арт. Fc03455</name>
+      <price>64</price>
+      <qty>125</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tjc5qVi8xiV_v2EPhjV_vs7UVUqfDxIH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ITEzgpzO-a2nlDYzjRenyTGVfOeu9huO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1dQrx4ab_E6ZLQ8tJHcMmlV8vHww8zWNz</picture>
+      <picture>https://lh3.googleusercontent.com/d/1f91VXBsm_0CHsTd3OB9wU1n1YrcBwCYu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1YapRijHkSwc_DS_se137LDOD6TJTJ5WN</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc03455</param>
+      <consist name="Хризантема Сантини Росси Пинк" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc7375" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Росси Сальмон 55 см Арт. Fc7375</name>
+      <price>64</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KKwhZ8GzGIiLUcelTcqudYgGJD7wpmQV</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JwUJmj7bNMT58CoY_7ozNees7QoyCUT1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1b8UdRUaL6e4f96Rs4qFAuqbLy2pO7t1Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ux0p-LqN29nYhw_Y0nmNMYtOLWProHz0</picture>
+      <picture>https://lh3.googleusercontent.com/d/19F_BABkhyp1UxicbcpqKgTPUJE419NWT</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LS Santini</param>
+      <param name="Артикул">Fc7375</param>
+      <consist name="Хризантема Сантини Росси Сальмон" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc13475" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Сан Ап 55 см Арт. Fc13475</name>
+      <price>51</price>
+      <qty>50</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1nCk70WR87vrRUuAr4WaH9Sxcgm5eRH3L</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RM9CCN_c7eXrVYq7TwzoUECYeaM40T1g</picture>
+      <picture>https://lh3.googleusercontent.com/d/190194JwnkhVrKUehMAzIXSgC0WqXqTo7</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XaEPfNAv819II03ZdlooZOYDpC7xwDj0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-xrtElvcvryiUJ3LmJgvo7w3XzeI9uLq</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc13475</param>
+      <consist name="Хризантема Сантини Сан Ап" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc18035" available="true">
+      <categoryId>7</categoryId>
+      <name>Хризантема Сантини Ферри 55 см Арт. Fc18035</name>
+      <price>64</price>
+      <qty>100</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1uFCR3eJb4Wf-iqJZaAHMSLPsc0TzJmhg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1aMPUAOv5W6ICPjRU-fk3hxggLA9kGzxt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Q0xAeerwvRkXn-FsSG0e4jJgCsCwVBbE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LNi0Z9aZ0keXPAL0NhRrEUBO-6gbP-Sq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ZICZ_VgRg2gQvU-i0AdgdcP69g2DAlSB</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">55</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Fc18035</param>
+      <consist name="Хризантема Сантини Ферри" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc15666" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Корал Шарм 65 см Арт. Fc15666</name>
+      <price>341</price>
+      <qty>100</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1D1Q_HH8wcbrTDvLd65HF578jR_8TS27Z</picture>
+      <picture>https://lh3.googleusercontent.com/d/13CYXEP2GGzAmTsv8aLsE0_FfXcrtplzg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e2Ic_BbtlAzQW5JGqLW5SmRqeq7hkqPO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TF2uj96250cy8q73WHTXskmt1ryoWWGj</picture>
+      <picture>https://lh3.googleusercontent.com/d/12URdBGvhGtHBL-Bn3yfZ_UUxyVOo8luJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">65</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc15666</param>
+      <consist name="Пион Корал Шарм" unit="шт">20</consist>
+    </offer>
+    <offer id="Fc18235" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Ред Шарм 50 см Арт. Fc18235</name>
+      <price>292</price>
+      <qty>80</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/19SNJlsD5-mNDCgeDIWlaw08aOE2INxhN</picture>
+      <picture>https://lh3.googleusercontent.com/d/10PDwXFuw0tqhibzDEvhFCfApF9F0eAmb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NFzBrWhqXLJpyUoUuC8zyYzFqpJB-Nir</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IeNeDfxlL9pixO5SmQzIRAOagipPGL9X</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jWC-2pnuPJAWlZRR27fUx_2BgUJlcW63</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc18235</param>
+      <consist name="Пион Ред Шарм" unit="шт">20</consist>
+    </offer>
+    <offer id="Fc12404" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Милк Шейк 40 см Арт. Fc12404</name>
+      <price>69</price>
+      <qty>300</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sslx6bycNfv9SMqMOBH84kDpqqp3Pzr1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1p6I5uPlf6YIKNThjtr0GxRsUsM7Bv-lm</picture>
+      <picture>https://lh3.googleusercontent.com/d/115Vwy3WyBJNGQ3dIWOzvpZMPaPi61mUN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H1ST9XfdFHZDVdvW1iRkwjGDZISI834V</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GdMLKMD5fwKD4eh64F3WPNEBSnj1opEA</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc12404</param>
+      <consist name="Тюльпан Милк Шейк" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc16964" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Стронг Голд 40 см Арт. Fc16964</name>
+      <price>64</price>
+      <qty>200</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/13NnyPyfUpWxICjuZTfyAK1jd6J-Tousq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r1FyFxLvHkB_4HLQLNgypb1Q8-LIpeEq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CYZlOM961-6bpnNc7UUfC-1OHyjEGWG3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lS4xApWS--noVzGrtTT8R_8m6gog1g4U</picture>
+      <picture>https://lh3.googleusercontent.com/d/19W8zT7ueA-q8rdOk_HtB_ZX8QmLcy5Hs</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc16964</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
+    </offer>
+    <offer id="Fc20814" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Пионовидный Самбука 40 см Арт. Fc20814</name>
+      <price>82</price>
+      <qty>300</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QV6oclroTe2zfmqZ4TRK0WDHceQUBtqt</picture>
+      <picture>https://lh3.googleusercontent.com/d/1EM_FI_F3AlpqduY6tmigPPZ9g-hShGCC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1gKfy3urN6LFxMNcKDuAzSFy6--B8fbBD</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ule1EUrJt3rHZu0bPwxqXnCbg-AvuJL4</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xhaKEHJQ-etg3hkep1-ACCy9kre1PHCF</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc20814</param>
+      <consist name="Тюльпан Пионовидный Самбука" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
