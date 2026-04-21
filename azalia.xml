@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-21T10:11:18.136+03:00">
+<yml_catalog date="2026-04-21T10:13:47.645+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -36,7 +36,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Испания 60 см Арт. Az5116</name>
       <price>61</price>
-      <qty>20</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Muhj0mEcCqGf_bBBbtbu0DFP94sIAJ2B</picture>
       <picture>https://lh3.googleusercontent.com/d/1NLNHP1s2Z6HPvNpZmGfkUiUwHU768HS_</picture>
@@ -52,7 +52,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Кимберли 70 см Арт. Az1717</name>
       <price>61</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-5p3Nkcu1aDqQ69x6szZtTekxPxE-pLV</picture>
       <picture>https://lh3.googleusercontent.com/d/1MoaAs-eFh3QoUKc5QsOYsnS7YvnqUmam</picture>
@@ -82,7 +82,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Пенни Лейн 60 см Арт. Az4596</name>
       <price>73</price>
-      <qty>30</qty>
+      <qty>10</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1fexjhlfyDHrSCO_VI3jCpHrJPyzHfRWW</picture>
       <picture>https://lh3.googleusercontent.com/d/1N021w6hpRTFx2Ce7mkMxdHeFAXqTk8dx</picture>
@@ -147,7 +147,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
       <price>256</price>
-      <qty>20</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1A04j2OMexwlhab4fGBnumCZM0jpOJTQv</picture>
       <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
@@ -165,7 +165,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
       <price>256</price>
-      <qty>15</qty>
+      <qty>25</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vbbfw06lt_AIFpB6xzLlM7-YgLlanQoh</picture>
       <picture>https://lh3.googleusercontent.com/d/1uP27vUX9EN6c2jkAK9DyiAl8EhMdPv--</picture>
@@ -212,22 +212,6 @@
       <param name="Артикул">Az4487</param>
       <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
     </offer>
-    <offer id="Az6776" available="true">
-      <categoryId>37</categoryId>
-      <name>Антирринум Белый 60 см Арт. Az6776</name>
-      <price>286</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1x92Ghgg5gvOC9VIhJvogIv8OLr4fWkxO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1j57-xpvWnjk6wgfYv9Fdqzvo-l2NuzZx</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rq0m4p6tlY3hbN1oqKxbyWhWwhNebxrE</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Юг РФ</param>
-      <param name="Артикул">Az6776</param>
-      <consist name="Антирринум" unit="шт">10</consist>
-    </offer>
     <offer id="Az7246" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Диабло 60 см Арт. Az7246</name>
@@ -246,7 +230,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 50 см Арт. Az3185</name>
       <price>106</price>
-      <qty>125</qty>
+      <qty>475</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KxNmm3Kug8buGG2LiawY_So0LhWtfyXH</picture>
       <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
@@ -263,7 +247,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
       <price>61</price>
-      <qty>100</qty>
+      <qty>350</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1MNEmHkAFhKSn_AxHm2z7flop4y4r0A6d</picture>
       <picture>https://lh3.googleusercontent.com/d/1SfTmpf51TGEiYhEcjlz7Q6NfHFr7m8fg</picture>
