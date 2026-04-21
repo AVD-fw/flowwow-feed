@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-21T14:43:39.522+03:00">
+<yml_catalog date="2026-04-21T14:51:35.171+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -95,20 +95,6 @@
       <param name="Артикул">Az4596</param>
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">10</consist>
     </offer>
-    <offer id="Az6405" available="true">
-      <categoryId>4</categoryId>
-      <name>Роза кустовая пионовидная Перл Дайменшен 50 см Арт. Az6405</name>
-      <price>131</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1A39Bc51YiKOCCkGPw1ewjyFOXJKUyGtB</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">СТК</param>
-      <param name="Артикул">Az6405</param>
-      <consist name="Роза кустовая пионовидная Перл Дайменшен" unit="шт">10</consist>
-    </offer>
     <offer id="Az2887" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Алтай 70 см Арт. Az2887</name>
@@ -165,7 +151,7 @@
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Фабьен Свит 70 см Арт. Az3007</name>
       <price>256</price>
-      <qty>25</qty>
+      <qty>15</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1vbbfw06lt_AIFpB6xzLlM7-YgLlanQoh</picture>
       <picture>https://lh3.googleusercontent.com/d/1uP27vUX9EN6c2jkAK9DyiAl8EhMdPv--</picture>
