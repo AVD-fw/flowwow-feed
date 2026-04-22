@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-22T07:21:17.121+03:00">
+<yml_catalog date="2026-04-22T07:23:39.743+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -66,6 +66,21 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2977</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3927" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Летс Гоу Пинк 70 см Арт. Az3927</name>
+      <price>256</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1HEBaN6xS9CW0zY6JhseuyyVwDVwoZe7y</picture>
+      <picture>https://lh3.googleusercontent.com/d/1vXSW4uwxJQRJ6mf3alhVXwBparHtoQgU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3927</param>
+      <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Az4137" available="true">
       <categoryId>6</categoryId>
