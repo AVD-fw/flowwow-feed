@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-23T06:57:19.622+03:00">
+<yml_catalog date="2026-04-23T07:07:02.052+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -8,22 +8,6 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
-    <offer id="Va1756c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая Фаер Флоу 60 см Арт. Va1756c</name>
-      <categoryId>450</categoryId>
-      <price>2366</price>
-      <qty>2</qty>
-      <picture>https://lh3.googleusercontent.com/d/1usebM9vi4SfKR3vaGqQzHQ89ALO2MxC9</picture>
-      <picture>https://lh3.googleusercontent.com/d/1AVDMTwVVeBGbE65XprYUQM5cCoTTpkSm</picture>
-      <picture>https://lh3.googleusercontent.com/d/1OZfaDlUX6EsrMAMp_-ICRjM_014as1VF</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Кения</param>
-      <param name="Производитель">Flora Ola</param>
-      <param name="Артикул">Va1756c</param>
-      <consist name="Роза кустовая Фаер Флоу" unit="шт">10</consist>
-    </offer>
     <offer id="Va0737c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Алтай 70 см Арт. Va0737c</name>
       <categoryId>450</categoryId>
@@ -55,6 +39,22 @@
       <param name="Артикул">Va0877c</param>
       <consist name="Хризантема кустовая Бейби" unit="шт">5</consist>
     </offer>
+    <offer id="Va0707c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Делегрин 70 см Арт. Va0707c</name>
+      <categoryId>450</categoryId>
+      <price>753</price>
+      <qty>10</qty>
+      <picture>https://lh3.googleusercontent.com/d/1niTx87rLPS7ImP4h1e8WIDsueHrYy8Zp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JmnzXayngqyfW4R9l1Wxj1uAo7XqC6GA</picture>
+      <picture>https://lh3.googleusercontent.com/d/16iF-TFxmW7XJeyG_9fGoUVj4Vp3xr4VW</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0707c</param>
+      <consist name="Хризантема кустовая Делегрин" unit="шт">5</consist>
+    </offer>
     <offer id="Va0866c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Коммандер Пинк 60 см Арт. Va0866c</name>
       <categoryId>450</categoryId>
@@ -70,6 +70,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Va0866c</param>
       <consist name="Хризантема кустовая Коммандер Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Va0366c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Пастела Пинк 60 см Арт. Va0366c</name>
+      <categoryId>450</categoryId>
+      <price>753</price>
+      <qty>10</qty>
+      <picture>https://lh3.googleusercontent.com/d/14y5aftEJ7KiL-SLsn8zkY4vVgT5p9YtA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IOp2ZXKHPUzjgZY_YQdHTQKs3dZvwbYa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1leRVTRJyuIDzBQpSUfNG5cazPjaBCjLq</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Va0366c</param>
+      <consist name="Хризантема кустовая Пастела Пинк" unit="шт">5</consist>
     </offer>
     <offer id="Va0717c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Руби Стар 70 см Арт. Va0717c</name>
@@ -87,21 +103,20 @@
       <param name="Артикул">Va0717c</param>
       <consist name="Хризантема кустовая Руби Стар" unit="шт">5</consist>
     </offer>
-    <offer id="Va1617c" available="true">
-      <name>Пачка (20 шт.) Гвоздика одноголовая Оранжевый 70 см Арт. Va1617c</name>
+    <offer id="Va0476c" available="true">
+      <name>Пачка (25 шт.) Гвоздика одноголовая Кремовый 60 см Арт. Va0476c</name>
       <categoryId>450</categoryId>
-      <price>1847</price>
+      <price>2262</price>
       <qty>3</qty>
-      <picture>https://lh3.googleusercontent.com/d/15Q3YaQ7HEczgIYIgIi-LoKLRBbS8_JaB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1bZ8xLmeXERkaYAuhv-kxtZnrFU6oyTCQ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1alUJh9-4Y2SUcDl3t80AJDAzitZh1ncT</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">70</param>
+      <picture>https://lh3.googleusercontent.com/d/1gN0r_NVf-XyfRkgRJZrLRTqN-FTIonxr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CD9zY3fVQAbpa_nyEXWI8exlVUIpoK8U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1n2kog4vwxmsePzRxl3sCPZg3tbyDvYbG</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">Кения</param>
-      <param name="Производитель">EMF</param>
-      <param name="Артикул">Va1617c</param>
-      <consist name="Гвоздика одноголовая" unit="шт">20</consist>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Va0476c</param>
+      <consist name="Гвоздика одноголовая" unit="шт">25</consist>
     </offer>
     <offer id="Va2797c" available="true">
       <name>Пачка (20 шт.) Гвоздика одноголовая Фиолетовый 70 см Арт. Va2797c</name>
@@ -118,20 +133,53 @@
       <param name="Артикул">Va2797c</param>
       <consist name="Гвоздика одноголовая" unit="шт">20</consist>
     </offer>
-    <offer id="Va0085c" available="true">
-      <name>Пачка (10 шт.) Астильба Белый 50 см Арт. Va0085c</name>
+    <offer id="Va1335c" available="true">
+      <name>Пачка (10 шт.) Гиперикум Коко Диабло 50 см Арт. Va1335c</name>
       <categoryId>450</categoryId>
-      <price>1368</price>
+      <price>1357</price>
       <qty>4</qty>
-      <picture>https://lh3.googleusercontent.com/d/1RCu7176LRgLC-K-sZQAetMcKTUZgRPGY</picture>
-      <picture>https://lh3.googleusercontent.com/d/1rEc-uYnHwMvXxMsyEA2v18CGtekX_Wf_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PZ0fg47CJlzhZSfuc0fUTT-LJp2ppWsB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CeAjq9AhtQ0P8oz45APysHEZC9dVKrCJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-hIS2Z5a43dm76Lp4PVWqHOeNe9qjUqy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1k7D626AW6dJIO5FLTyIni4ad8pZFVl1m</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">50</param>
       <param name="Ширина, см">15</param>
+      <param name="Страна">Кения</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Va1335c</param>
+      <consist name="Гиперикум Коко Диабло" unit="шт">10</consist>
+    </offer>
+    <offer id="Va0626c" available="true">
+      <name>Пачка (50 шт.) Ирис Блю Меджик 60 см Арт. Va0626c</name>
+      <categoryId>450</categoryId>
+      <price>2188</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ZOc8tUpfjvkXqv_A4tMpKyZnEDrVwCZV</picture>
+      <picture>https://lh3.googleusercontent.com/d/17dQXq3P0GUshMG7BAg-Cy28s7ZoJW0_r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1U6Nq70zCVwA6_G9GbfH-GkT5J3NH7clY</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
       <param name="Страна">Голландия</param>
-      <param name="Артикул">Va0085c</param>
-      <consist name="Астильба" unit="шт">10</consist>
+      <param name="Производитель">Flowers Tuinbouw BV</param>
+      <param name="Артикул">Va0626c</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Va2806c" available="true">
+      <name>Пачка (25 шт.) Статица Фиолетовый 60 см Арт. Va2806c</name>
+      <categoryId>450</categoryId>
+      <price>2736</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1IwxqlzZOrlf0gy0HcKaItqQ48fPxcBk1</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PYhNqqOZC2VQBMK5FGs9fBak6-LLTddP</picture>
+      <picture>https://lh3.googleusercontent.com/d/1E213pJ1t6yKqSoE42yzszaGxdkdXKnUQ</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Италия</param>
+      <param name="Производитель">Iblaflor</param>
+      <param name="Артикул">Va2806c</param>
+      <consist name="Статица" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
