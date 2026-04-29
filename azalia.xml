@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-29T06:31:18.296+03:00">
+<yml_catalog date="2026-04-29T06:33:30.626+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -30,6 +30,56 @@
       <param name="Производитель">Geoflora</param>
       <param name="Артикул">Az4725</param>
       <consist name="Гвоздика кустовая Стратус" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3185" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 50 см Арт. Az3185</name>
+      <price>106</price>
+      <qty>75</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KxNmm3Kug8buGG2LiawY_So0LhWtfyXH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pl1L3GEkp5b9HK53BVASvRBEGKWMUa7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KzFDT5EewHzrHpcIwY3ohQVjoDskdmg3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CBorV-W5t1EnOs6STF8fOpisBrSl13BZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3185</param>
+      <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3656" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
+      <price>61</price>
+      <qty>100</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1MNEmHkAFhKSn_AxHm2z7flop4y4r0A6d</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SfTmpf51TGEiYhEcjlz7Q6NfHFr7m8fg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ybLvTJYl9JnE3JDBMYNst13N9Z2F7lij</picture>
+      <picture>https://lh3.googleusercontent.com/d/12eDjbaFOJR3FC_cpKDcs0Wz3LppDQmsO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Y0nyG3IfahDu0Gy2dWkVhr6QH2MIf-JU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3124" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Стронг Голд 40 см Арт. Az3124</name>
+      <price>121</price>
+      <qty>150</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1G6-B_LeFw-arJLSs_CvvDu09qtNNtFsH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RnGeLvwhWeNhF7EIZQkmQbMiP_Rzk5EE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3124</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
