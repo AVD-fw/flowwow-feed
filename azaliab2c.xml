@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-29T06:27:41.608+03:00">
+<yml_catalog date="2026-04-29T06:37:56.999+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -8,6 +8,22 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Az2887c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Алтай 70 см Арт. Az2887c</name>
+      <categoryId>450</categoryId>
+      <price>1433</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1t0SpshryLeokOFaJoNMw0a3_pGuf_cg3</picture>
+      <picture>https://lh3.googleusercontent.com/d/169BBhmU-976wUl5EuyDLE_KR7UlK1lSK</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fVcl6AMr7SRzvBf2-iUANlOWRG_Fg8Wc</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az2887c</param>
+      <consist name="Хризантема кустовая Алтай" unit="шт">5</consist>
+    </offer>
     <offer id="Az3317c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317c</name>
       <categoryId>450</categoryId>
@@ -40,6 +56,38 @@
       <param name="Артикул">Az2977c</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
     </offer>
+    <offer id="Az3697c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697c</name>
+      <categoryId>450</categoryId>
+      <price>1393</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1UdouvWvWq_K9WO2TdA8v_xaVEIlk3ijg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1RXbDWLmqgFd8AXCgAQmFs8GS75EHe-1u</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3697c</param>
+      <consist name="Хризантема кустовая Кеннеди Рози" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3707c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Чик 70 см Арт. Az3707c</name>
+      <categoryId>450</categoryId>
+      <price>1468</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1NsHKrQgFX9T94a9VQxUBzNR-VePSRFYD</picture>
+      <picture>https://lh3.googleusercontent.com/d/11BY_c4elYRSOqUlybpkAi8cWFqltYaJI</picture>
+      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3707c</param>
+      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
+    </offer>
     <offer id="Az4487c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Чик Крем 70 см Арт. Az4487c</name>
       <categoryId>450</categoryId>
@@ -60,7 +108,7 @@
       <name>Пачка (10 шт.) Гвоздика кустовая Стратус 50 см Арт. Az4725c</name>
       <categoryId>450</categoryId>
       <price>1133</price>
-      <qty>9</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1IIHIXYIZwv90ZaW8jKGJ8NC9a8Xz31Xq</picture>
       <picture>https://lh3.googleusercontent.com/d/11azr9SU1M68rWLmgEcXtzehgtDpQ_UvP</picture>
       <picture>https://lh3.googleusercontent.com/d/1Y9DDcfvdrFFDwA-NfdV5ekjC8NK21T46</picture>
@@ -103,6 +151,52 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Az1345c</param>
       <consist name="Гипсофила Радужная" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3185c" available="true">
+      <name>Пачка (25 шт.) Ирис Фиолетовый 50 см Арт. Az3185c</name>
+      <categoryId>450</categoryId>
+      <price>2953</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
+      <picture>https://lh3.googleusercontent.com/d/11IgWnl7ZRek3DXoPzus-U1GQx7js_JBW</picture>
+      <picture>https://lh3.googleusercontent.com/d/11rMISMPJSCes22XiL5D_Bnhg_3exypU7</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 25 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3185c</param>
+      <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3656c" available="true">
+      <name>Пачка (50 шт.) Ирис Блю Меджик 60 см Арт. Az3656c</name>
+      <categoryId>450</categoryId>
+      <price>3353</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Uc8zBZ_aH0IdU2xr5LrXRtePCs0sQK57</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_LutRjLIsiAgRLpypDzqn9g3sxazwMBr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656c</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3124c" available="true">
+      <name>Пачка (50 шт.) Тюльпан Стронг Голд 40 см Арт. Az3124c</name>
+      <categoryId>450</categoryId>
+      <price>6353</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1KHGFpKjgA_H5qiRXULQ75U35-5hAMs4C</picture>
+      <picture>https://lh3.googleusercontent.com/d/1O7zKMTZyNcN7a5x4YxzvlP0jlWuKciKB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
+      <description>Рекомендации по уходу за тюльпанами в пачке: не снимая упаковку подрежьте тюльпаны ровным срезом и поставьте в холодную воду. Через 5-6 часов упаковку можно снять. Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az3124c</param>
+      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
     </offer>
     </offers>
   </shop>
