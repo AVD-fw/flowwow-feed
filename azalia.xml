@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-01T15:33:43.178+03:00">
+<yml_catalog date="2026-05-01T15:41:43.805+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 60 см Арт. Az3486</name>
       <price>151</price>
-      <qty>60</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1PBkh3fcpcOvp_APffZPpYcajoEPlso09</picture>
       <picture>https://lh3.googleusercontent.com/d/1xofiGAQBC3RwYg9rYYW_edqOnTeYxDLW</picture>
@@ -80,7 +80,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Эльторо 40 см Арт. Az6254</name>
       <price>86</price>
-      <qty>90</qty>
+      <qty>30</qty>
       <quantity_in_package>15</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1q8EoCb3eWvyj-eAasyFjRrmurFKyRgoE</picture>
       <picture>https://lh3.googleusercontent.com/d/1qi5Z-7joiwYDhZUjYALtJtipje6FlQiP</picture>
@@ -104,21 +104,6 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3437</param>
       <consist name="Роза одноголовая пионовидная Ридженс Парк" unit="шт">10</consist>
-    </offer>
-    <offer id="Az5747" available="true">
-      <categoryId>5</categoryId>
-      <name>Хризантема одноголовая Этруско Вайт 70 см Арт. Az5747</name>
-      <price>196</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/14im0_inv8j-a-SkmrRPsiA0xG2C1nsqj</picture>
-      <picture>https://lh3.googleusercontent.com/d/1iFiVup1gEU6rnst12t2XI7pRJ8HwyVPJ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az5747</param>
-      <consist name="Хризантема одноголовая Этруско Вайт" unit="шт">10</consist>
     </offer>
     <offer id="Az2877" available="true">
       <categoryId>6</categoryId>
@@ -188,29 +173,11 @@
       <param name="Артикул">Az3707</param>
       <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
-    <offer id="Az4487" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
-      <price>218</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kar8oI0MopqmVGBsddP3_XrNlSU-iERb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1noVrJqtvRB_CK2QkbuJmOG1i9J9NkCof</picture>
-      <picture>https://lh3.googleusercontent.com/d/12n_F9jQl45w-heIMkUTr8-uC3xHI90hd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-IZytsK6liDOOtFw1fTiKO5Q_4sxrB1T</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LLAW0smOdKjWSSOiNJDBQCiJGJVa9XkT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4487</param>
-      <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
-    </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
       <price>181</price>
-      <qty>110</qty>
+      <qty>80</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KhFEVPCJx-_TBrj6ilSQSQX1Fbjuw2iB</picture>
       <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
@@ -257,7 +224,7 @@
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Самбука 40 см Арт. Az3144</name>
       <price>166</price>
-      <qty>300</qty>
+      <qty>150</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/19NtDqf0ZMOm-tKgjd7W0YlZM70j8_z3B</picture>
       <picture>https://lh3.googleusercontent.com/d/1nsGpiMUjdxfqTdiO4FurHySOPy6MOZdd</picture>
