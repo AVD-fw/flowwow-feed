@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-01T10:07:39.866+03:00">
+<yml_catalog date="2026-05-01T10:19:05.170+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -24,22 +24,6 @@
       <param name="Артикул">Az3486c</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
     </offer>
-    <offer id="Az2825c" available="true">
-      <name>Пачка (10 шт.) Роза одноголовая Джумилия 50 см Арт. Az2825c</name>
-      <categoryId>450</categoryId>
-      <price>2113</price>
-      <qty>2</qty>
-      <picture>https://lh3.googleusercontent.com/d/1OXap7u-wi2KRSL6XI5PaPMMUMbBrg8K-</picture>
-      <picture>https://lh3.googleusercontent.com/d/1D483qCP_d6FDC3KSSsmbXdwPPx8L3Qhp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1nHFfV57KE5hkQeHk9eoWvSBsP3wOI_81</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский сад</param>
-      <param name="Артикул">Az2825c</param>
-      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
-    </offer>
     <offer id="Az2786c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая Мисс Пигги 60 см Арт. Az2786c</name>
       <categoryId>450</categoryId>
@@ -60,7 +44,7 @@
       <name>Пачка (15 шт.) Роза одноголовая Пенни Лейн 50 см Арт. Az6275c</name>
       <categoryId>450</categoryId>
       <price>2118</price>
-      <qty>5</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/15CBGqdSmTaVFGXrvCwT2HoNcyndGn6xl</picture>
       <picture>https://lh3.googleusercontent.com/d/1Ye7jz8mlQe_QiJ0TxEx7yja11Assc5pw</picture>
       <picture>https://lh3.googleusercontent.com/d/1Tw4P9q_F9kQyhiOjkEjv9mI4-rDcffKU</picture>
@@ -72,11 +56,27 @@
       <param name="Артикул">Az6275c</param>
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">15</consist>
     </offer>
+    <offer id="Az5337c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Ридженс Парк 70 см Арт. Az5337c</name>
+      <categoryId>450</categoryId>
+      <price>913</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1k37MO5Q9FbwYM8U5zVVBKysvhUpKu23I</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JGpyblQPxvPxRPHcwf8ttL-JtAST6Tag</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z_P5nKxfJMg5v1RbzRDTJn0a4_cUeAxy</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Rose Hill</param>
+      <param name="Артикул">Az5337c</param>
+      <consist name="Роза одноголовая Ридженс Парк" unit="шт">10</consist>
+    </offer>
     <offer id="Az6254c" available="true">
       <name>Пачка (15 шт.) Роза одноголовая Эльторо 40 см Арт. Az6254c</name>
       <categoryId>450</categoryId>
       <price>1593</price>
-      <qty>5</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1uquBA1tqohY7VTxFLNzK7I_8Ts67W6kN</picture>
       <picture>https://lh3.googleusercontent.com/d/1zojRROgnLo5jVjg8TGl0x1CV_MPfKuPh</picture>
       <picture>https://lh3.googleusercontent.com/d/1un5vwe78IB3ogMo6MKCyf1N9JBzDNKpC</picture>
@@ -88,21 +88,21 @@
       <param name="Артикул">Az6254c</param>
       <consist name="Роза одноголовая Эльторо" unit="шт">15</consist>
     </offer>
-    <offer id="Az5525c" available="true">
-      <name>Пачка (10 шт.) Роза кустовая пионовидная Крем Брюле 50 см Арт. Az5525c</name>
+    <offer id="Az3437c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая пионовидная Ридженс Парк 70 см Арт. Az3437c</name>
       <categoryId>450</categoryId>
-      <price>3463</price>
-      <qty>4</qty>
-      <picture>https://lh3.googleusercontent.com/d/1XPq04VHRpMW0hHj0wmJdbpHBfkTdbKWy</picture>
-      <picture>https://lh3.googleusercontent.com/d/1992GcpgUaa6MMZZRx0h4FgzK_Jo7Pab8</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_M9wZGG4F5wSji3pgetk-0kTLWaWL2J2</picture>
+      <price>2663</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1i8TRfz3BuCFruQ_oTwUNOzSCQT5tVs-l</picture>
+      <picture>https://lh3.googleusercontent.com/d/19dIohXN4dg3qzTJS2Eebzmt0ZcXq8RVA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1frB4PSGddMM0Jse3ntUZrR4wwSOtNZeD</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">50</param>
+      <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az5525c</param>
-      <consist name="Роза кустовая пионовидная Крем Брюле" unit="шт">10</consist>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3437c</param>
+      <consist name="Роза одноголовая пионовидная Ридженс Парк" unit="шт">10</consist>
     </offer>
     <offer id="Az5747c" available="true">
       <name>Пачка (10 шт.) Хризантема одноголовая Этруско Вайт 70 см Арт. Az5747c</name>
@@ -140,7 +140,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697c</name>
       <categoryId>450</categoryId>
       <price>1393</price>
-      <qty>16</qty>
+      <qty>13</qty>
       <picture>https://lh3.googleusercontent.com/d/1UdouvWvWq_K9WO2TdA8v_xaVEIlk3ijg</picture>
       <picture>https://lh3.googleusercontent.com/d/1RXbDWLmqgFd8AXCgAQmFs8GS75EHe-1u</picture>
       <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
@@ -188,7 +188,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Чик Крем 70 см Арт. Az4487c</name>
       <categoryId>450</categoryId>
       <price>1393</price>
-      <qty>2</qty>
+      <qty>1</qty>
       <picture>https://lh3.googleusercontent.com/d/1oTDUw3MyrkCY9SAMmbondaAPvetDSokd</picture>
       <picture>https://lh3.googleusercontent.com/d/1CDE1BAKbDd3iSoYCi3PoHfzhO6GmLJP1</picture>
       <picture>https://lh3.googleusercontent.com/d/1zOi2sdxnFc1ccFJNtOouAeSU2_wUQYAg</picture>
@@ -204,7 +204,7 @@
       <name>Пачка (10 шт.) Гиперикум Коко Танго 60 см Арт. Az3206c</name>
       <categoryId>450</categoryId>
       <price>2113</price>
-      <qty>6</qty>
+      <qty>11</qty>
       <picture>https://lh3.googleusercontent.com/d/1EksZQTl1I7Gj-LwHqCKl3K5ZwJdxrmtB</picture>
       <picture>https://lh3.googleusercontent.com/d/1w7fYrlWOqn52P-_35jodoK-_FXYvk57c</picture>
       <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
@@ -220,7 +220,7 @@
       <name>Пачка (25 шт.) Ирис Фиолетовый 50 см Арт. Az3185c</name>
       <categoryId>450</categoryId>
       <price>2953</price>
-      <qty>7</qty>
+      <qty>10</qty>
       <picture>https://lh3.googleusercontent.com/d/1kxfLaBZoUVvBccCn8X-1AXvSNq2C5kO9</picture>
       <picture>https://lh3.googleusercontent.com/d/11IgWnl7ZRek3DXoPzus-U1GQx7js_JBW</picture>
       <picture>https://lh3.googleusercontent.com/d/11rMISMPJSCes22XiL5D_Bnhg_3exypU7</picture>
@@ -230,22 +230,6 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3185c</param>
       <consist name="Ирис" unit="шт">25</consist>
-    </offer>
-    <offer id="Az3656c" available="true">
-      <name>Пачка (50 шт.) Ирис Блю Меджик 60 см Арт. Az3656c</name>
-      <categoryId>450</categoryId>
-      <price>3353</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1Uc8zBZ_aH0IdU2xr5LrXRtePCs0sQK57</picture>
-      <picture>https://lh3.googleusercontent.com/d/1_LutRjLIsiAgRLpypDzqn9g3sxazwMBr</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
-      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
-      <param name="Высота, см">60</param>
-      <param name="Ширина, см">15</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3656c</param>
-      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
     </offer>
     <offer id="Az3124c" available="true">
       <name>Пачка (50 шт.) Тюльпан Стронг Голд 40 см Арт. Az3124c</name>
@@ -266,7 +250,7 @@
       <name>Пачка (50 шт.) Тюльпан Пионовидный Самбука 40 см Арт. Az3144c</name>
       <categoryId>450</categoryId>
       <price>8603</price>
-      <qty>3</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1EXj5SODZoUXJwLorIIBpapn7q_R4YsSU</picture>
       <picture>https://lh3.googleusercontent.com/d/1j1fIx-GLrMHey7ehD0VPM6WTgED1Dkga</picture>
       <picture>https://lh3.googleusercontent.com/d/1ywf3z0gN6XUXk1MI7DsUCIkEHS3gjwlc</picture>
