@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-04T07:37:43.071+03:00">
+<yml_catalog date="2026-05-04T07:47:41.885+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -72,6 +72,37 @@
       <param name="Артикул">Az3206c</param>
       <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
     </offer>
+    <offer id="Az3656c" available="true">
+      <name>Пачка (50 шт.) Ирис Блю Меджик 60 см Арт. Az3656c</name>
+      <categoryId>450</categoryId>
+      <price>3353</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Uc8zBZ_aH0IdU2xr5LrXRtePCs0sQK57</picture>
+      <picture>https://lh3.googleusercontent.com/d/1_LutRjLIsiAgRLpypDzqn9g3sxazwMBr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Z-nTqJbUvI9oVWGdQKNkm2XO3MkvFy4i</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 50 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3656c</param>
+      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az1335c" available="true">
+      <name>Пачка (5 шт.) Статица Кристал Дарк Блю 50 см Арт. Az1335c</name>
+      <categoryId>450</categoryId>
+      <price>1433</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1_QgKokUTFy0hCXoNXGGKqyxGWbr8olYb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1AQrwWrc42XosH7Jn8SSlfOyJHHvwsZEv</picture>
+      <picture>https://lh3.googleusercontent.com/d/12IpGkV8ll0SmxxOigqOMgI8pDx1FHlvm</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az1335c</param>
+      <consist name="Статица Кристал Дарк Блю" unit="шт">5</consist>
+    </offer>
     <offer id="Az3124c" available="true">
       <name>Пачка (50 шт.) Тюльпан Стронг Голд 40 см Арт. Az3124c</name>
       <categoryId>450</categoryId>
@@ -86,6 +117,21 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Az3124c</param>
       <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
+    </offer>
+    <offer id="Az3554c" available="true">
+      <name>Пачка (5 шт.) Хамелациум Ади 40 см Арт. Az3554c</name>
+      <categoryId>450</categoryId>
+      <price>1658</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1Ps9__HKO3IPW18KJ0jupNlfqBK-9xS1T</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mF4xShY7uHVOy8nb53EN2WsrSUhOJ6-6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1lDJH7pIDlldcu7qInT2nA9aJn-St0eii</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">40</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az3554c</param>
+      <consist name="Хамелациум Ади" unit="шт">5</consist>
     </offer>
     </offers>
   </shop>
