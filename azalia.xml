@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-04T09:01:20.612+03:00">
+<yml_catalog date="2026-05-04T09:04:05.346+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -96,6 +96,20 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3656</param>
       <consist name="Ирис Блю Меджик" unit="шт">50</consist>
+    </offer>
+    <offer id="Az6584" available="true">
+      <categoryId>37</categoryId>
+      <name>Ранункулус Ханой 40 см Арт. Az6584</name>
+      <price>451</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xCfr5gzTXCH2gdfZZcBZJIebtG7P3Wqd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bu50mZVfQewpwJe6-BWjV7NarSkQKmTY</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az6584</param>
+      <consist name="Ранункулус Ханой" unit="шт">10</consist>
     </offer>
     <offer id="Az1335" available="true">
       <categoryId>37</categoryId>
