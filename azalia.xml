@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-07T11:23:48.848+03:00">
+<yml_catalog date="2026-05-07T11:31:16.040+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -32,6 +32,22 @@
       <param name="Производитель">Rose Hill</param>
       <param name="Артикул">Az1685</param>
       <consist name="Роза одноголовая Аква" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6976" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аква 60 см Арт. Az6976</name>
+      <price>151</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zWVXjN4GxKONyUGy9U6YbENODNhcYbp6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nkb5Jh_pyY-1IPdQi-5MrSJR99F9mpIH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KII6Cum9EnjTIQ28EiCfRrcl0PXHr_jG</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az6976</param>
+      <consist name="Роза одноголовая Аква" unit="шт">15</consist>
     </offer>
     <offer id="Az3437" available="true">
       <categoryId>2</categoryId>
