@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-12T07:23:35.828+03:00">
+<yml_catalog date="2026-05-12T07:31:23.934+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -95,6 +95,35 @@
       <param name="Артикул">Az6956</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
+    <offer id="Az6515" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 50 см Арт. Az6515</name>
+      <price>136</price>
+      <qty>150</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BSBvKh8EFBW1b8UH13TfCFe6ZsaLWslD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6515</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
+    </offer>
+    <offer id="Az6526" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 60 см Арт. Az6526</name>
+      <price>151</price>
+      <qty>130</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1FP4qBZuC1yeuEiDdzZW462QBpdsSr7Uu</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BSBvKh8EFBW1b8UH13TfCFe6ZsaLWslD</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6526</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
+    </offer>
     <offer id="Az6245" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Эльторо 50 см Арт. Az6245</name>
@@ -157,6 +186,20 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3185</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az7496" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Одиле 60 см Арт. Az7496</name>
+      <price>481</price>
+      <qty>130</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1s5tYQKoE-Up28CabN09_KuWacRU26Qcw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Италия</param>
+      <param name="Производитель">IT</param>
+      <param name="Артикул">Az7496</param>
+      <consist name="Пион Одиле" unit="шт">10</consist>
     </offer>
     <offer id="Az3646" available="true">
       <categoryId>37</categoryId>
