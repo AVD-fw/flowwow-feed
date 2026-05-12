@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-12T06:03:43.493+03:00">
+<yml_catalog date="2026-05-12T06:53:53.974+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,38 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Az3486" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 60 см Арт. Az3486</name>
-      <price>151</price>
-      <qty>90</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ts9b8texflRPr370Lkqs7d4D8UbEaso_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1xofiGAQBC3RwYg9rYYW_edqOnTeYxDLW</picture>
-      <picture>https://lh3.googleusercontent.com/d/1PBkh3fcpcOvp_APffZPpYcajoEPlso09</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az3486</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
-    <offer id="Az4405" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 50 см Арт. Az4405</name>
-      <price>166</price>
-      <qty>130</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1sfnSHO5f6rEtYJXKYPYYpHqI1n1dtVMT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MgV5uXq7aXIX80FJs_4VcZUBjcG1je2T</picture>
-      <picture>https://lh3.googleusercontent.com/d/1EmyCqwWhynjS3ZBZb06LrX7580Zw4JuK</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Чеховский Сад</param>
-      <param name="Артикул">Az4405</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
     <offer id="Az4685" available="true">
       <categoryId>1</categoryId>
       <name>Роза одноголовая Джумилия 50 см Арт. Az4685</name>
@@ -66,44 +34,11 @@
       <param name="Артикул">Az4685</param>
       <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
     </offer>
-    <offer id="Az5266" available="true">
-      <categoryId>2</categoryId>
-      <name>Роза одноголовая пионовидная Ридженс Парк 60 см Арт. Az5266</name>
-      <price>206</price>
-      <qty>100</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1qGV7qrejSWRE9cZn6gIo19lyBwBPceJ3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1frB4PSGddMM0Jse3ntUZrR4wwSOtNZeD</picture>
-      <picture>https://lh3.googleusercontent.com/d/1HFbi2DY7C2gD3qtXZuvOhgsP9PdT9XFL</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qI3BxyTuWx6DaRwyWDdYRHjfMizjlHPG</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zdrNwyLJ2uU-o2jhcCA--zeAvkTrgYFV</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Новая Голландия</param>
-      <param name="Артикул">Az5266</param>
-      <consist name="Роза одноголовая пионовидная Ридженс Парк" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3697" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Кеннеди Рози 70 см Арт. Az3697</name>
-      <price>218</price>
-      <qty>10</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/12iigSE0fRyyvIzFX9l8WPN4xICdfftK3</picture>
-      <picture>https://lh3.googleusercontent.com/d/1JhEkmh7Olev4gl9-BLUWcLmmXtdcDtVg</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3697</param>
-      <consist name="Хризантема кустовая Кеннеди Рози" unit="шт">5</consist>
-    </offer>
     <offer id="Az3707" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
       <price>233</price>
-      <qty>25</qty>
+      <qty>5</qty>
       <quantity_in_package>5</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Loe4OvkzU8jBJ0MVrQcd7eGlKkSxcEZW</picture>
       <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
@@ -116,29 +51,11 @@
       <param name="Артикул">Az3707</param>
       <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
-    <offer id="Az4487" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Чик Крем 70 см Арт. Az4487</name>
-      <price>218</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1kar8oI0MopqmVGBsddP3_XrNlSU-iERb</picture>
-      <picture>https://lh3.googleusercontent.com/d/1noVrJqtvRB_CK2QkbuJmOG1i9J9NkCof</picture>
-      <picture>https://lh3.googleusercontent.com/d/12n_F9jQl45w-heIMkUTr8-uC3xHI90hd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-IZytsK6liDOOtFw1fTiKO5Q_4sxrB1T</picture>
-      <picture>https://lh3.googleusercontent.com/d/1LLAW0smOdKjWSSOiNJDBQCiJGJVa9XkT</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4487</param>
-      <consist name="Хризантема кустовая Чик Крем" unit="шт">5</consist>
-    </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
       <price>151</price>
-      <qty>80</qty>
+      <qty>100</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1KhFEVPCJx-_TBrj6ilSQSQX1Fbjuw2iB</picture>
       <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
@@ -148,22 +65,6 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Az3206</param>
       <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
-    </offer>
-    <offer id="Az3124" available="true">
-      <categoryId>37</categoryId>
-      <name>Тюльпан Стронг Голд 40 см Арт. Az3124</name>
-      <price>121</price>
-      <qty>150</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AnDFwSKzk5Cj4xdl6Xer6ysjvNwlfvca</picture>
-      <picture>https://lh3.googleusercontent.com/d/1-rcU31JfNCmzVi3gjVtdgsL7aq7uXFvO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1RnGeLvwhWeNhF7EIZQkmQbMiP_Rzk5EE</picture>
-      <picture>https://lh3.googleusercontent.com/d/1G6-B_LeFw-arJLSs_CvvDu09qtNNtFsH</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">40</param>
-      <param name="Страна">Голландия</param>
-      <param name="Артикул">Az3124</param>
-      <consist name="Тюльпан Стронг Голд" unit="шт">50</consist>
     </offer>
     <offer id="Az5636" available="true">
       <categoryId>37</categoryId>
