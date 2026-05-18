@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-18T06:21:13.368+03:00">
+<yml_catalog date="2026-05-18T06:23:32.987+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,35 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az6956" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Джумилия 60 см Арт. Az6956</name>
+      <price>151</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1qd97GNlda4ZKihIHazvmCO9JJ8skBeBU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">СТК</param>
+      <param name="Артикул">Az6956</param>
+      <consist name="Роза одноголовая Джумилия" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3206" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
+      <price>151</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KhFEVPCJx-_TBrj6ilSQSQX1Fbjuw2iB</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xOyv9SSUJmHdnJ4LR736HieTjHYtRIev</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Az3206</param>
+      <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
+    </offer>
     <offer id="Az3185" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Фиолетовый 50 см Арт. Az3185</name>
@@ -33,6 +62,20 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3185</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az7496" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Одиле 60 см Арт. Az7496</name>
+      <price>481</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1s5tYQKoE-Up28CabN09_KuWacRU26Qcw</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Италия</param>
+      <param name="Производитель">IT</param>
+      <param name="Артикул">Az7496</param>
+      <consist name="Пион Одиле" unit="шт">10</consist>
     </offer>
     <offer id="Az3646" available="true">
       <categoryId>37</categoryId>
