@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-20T10:01:21.665+03:00">
+<yml_catalog date="2026-05-20T10:03:35.726+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -46,6 +46,20 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3437</param>
       <consist name="Роза одноголовая пионовидная Ридженс Парк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az7786" available="true">
+      <categoryId>4</categoryId>
+      <name>Роза кустовая пионовидная Мисти Бабблс 60 см Арт. Az7786</name>
+      <price>571</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1tQ9Q3J1oX0CwXf6-z4QSzgRHTeb9-swZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Мамадыш</param>
+      <param name="Артикул">Az7786</param>
+      <consist name="Роза кустовая пионовидная Мисти Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Az4487" available="true">
       <categoryId>6</categoryId>
