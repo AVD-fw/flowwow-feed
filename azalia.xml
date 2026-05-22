@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-22T06:33:39.375+03:00">
+<yml_catalog date="2026-05-22T06:41:14.160+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -21,7 +21,7 @@
       <categoryId>1</categoryId>
       <name>Роза одноголовая Аваланш 60 см Арт. Az3486</name>
       <price>151</price>
-      <qty>40</qty>
+      <qty>50</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1ts9b8texflRPr370Lkqs7d4D8UbEaso_</picture>
       <picture>https://lh3.googleusercontent.com/d/1xofiGAQBC3RwYg9rYYW_edqOnTeYxDLW</picture>
@@ -32,20 +32,6 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3486</param>
       <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
-    <offer id="Az7846" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Испания 60 см Арт. Az7846</name>
-      <price>106</price>
-      <qty>60</qty>
-      <quantity_in_package>15</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1PWosSSUiYNR-oHzo11ZtORb9AA5hIOUA</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">КЦХ</param>
-      <param name="Артикул">Az7846</param>
-      <consist name="Роза одноголовая Испания" unit="шт">15</consist>
     </offer>
     <offer id="Az4487" available="true">
       <categoryId>6</categoryId>
@@ -97,20 +83,6 @@
       <param name="Артикул">Az3185</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
-    <offer id="Az7855" available="true">
-      <categoryId>37</categoryId>
-      <name>Маттиола Желтый 50 см Арт. Az7855</name>
-      <price>256</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1z-nHzxdGDOCrWSDBaXTWIhfc2VcNN9yt</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Юг РФ</param>
-      <param name="Артикул">Az7855</param>
-      <consist name="Маттиола" unit="шт">10</consist>
-    </offer>
     <offer id="Az7834" available="true">
       <categoryId>37</categoryId>
       <name>Тюльпан Пионовидный Санспот 40 см Арт. Az7834</name>
@@ -128,7 +100,7 @@
       <categoryId>37</categoryId>
       <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
       <price>361</price>
-      <qty>40</qty>
+      <qty>30</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
