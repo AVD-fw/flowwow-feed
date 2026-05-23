@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-23T05:55:53.512+03:00">
+<yml_catalog date="2026-05-23T06:05:35.819+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -337,6 +337,23 @@
       <param name="Артикул">Fc04035</param>
       <consist name="Амарин" unit="шт">10</consist>
     </offer>
+    <offer id="Fc11336" available="true">
+      <categoryId>37</categoryId>
+      <name>Антирринум Розовый 60 см Арт. Fc11336</name>
+      <price>127</price>
+      <qty>70</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1hqGClk4Se5etxNSB5wC8lGkon0_caaDQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/15_Lh2__uW10fkoxnw8z3ZpSscpcIJBBy</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xJ4o8dPFIcz88_pQCe_k6OzpYeFjDltL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NxTHcPOCS-x-yrBmdGjLWJ7PrXJ_f1yg</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Eh7qZsJtkG-QlEh7bIQpRU8W98pbWzrX</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc11336</param>
+      <consist name="Антирринум" unit="шт">10</consist>
+    </offer>
     <offer id="Fc05035" available="true">
       <categoryId>37</categoryId>
       <name>Вероника Розовый 50 см Арт. Fc05035</name>
@@ -521,7 +538,7 @@
       <categoryId>37</categoryId>
       <name>Гипсофила Белая 70 см Арт. Fc01937</name>
       <price>79</price>
-      <qty>250</qty>
+      <qty>225</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1JrtWFzIETMK_WkRa5cQV3HXtA_an0Euu</picture>
       <picture>https://lh3.googleusercontent.com/d/1tSRQCY2wE1cfOnebF4FtVyco0RpZXsHN</picture>
@@ -557,7 +574,7 @@
       <categoryId>37</categoryId>
       <name>Ирис Белый 50 см Арт. Fc5435</name>
       <price>46</price>
-      <qty>150</qty>
+      <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1-LUk-Fu9gvV4SPOGn6rgdzP6BnipSgs8</picture>
       <picture>https://lh3.googleusercontent.com/d/13bE80PKgl7kDcWzl-Ce58Yr5YLJcSDAi</picture>
@@ -571,28 +588,11 @@
       <param name="Артикул">Fc5435</param>
       <consist name="Ирис" unit="шт">50</consist>
     </offer>
-    <offer id="Fc04515" available="true">
-      <categoryId>37</categoryId>
-      <name>Калла Белый 50 см Арт. Fc04515</name>
-      <price>271</price>
-      <qty>40</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xuSCx9vbStlwd5WlOj1s2CSJ4vjiFwT_</picture>
-      <picture>https://lh3.googleusercontent.com/d/13awDgP59XVgyrlP8G7hmmDW-a5eisreZ</picture>
-      <picture>https://lh3.googleusercontent.com/d/1VUxbY94DRk__UzXrCup-_NMRSrkJseuB</picture>
-      <picture>https://lh3.googleusercontent.com/d/1anEuoljfsYL6ky_9CRPt8AYJHCB-JCX6</picture>
-      <picture>https://lh3.googleusercontent.com/d/1aIZf936PiCi1SWxI1ebyWbFh0Zq2qz2t</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">50</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Fc04515</param>
-      <consist name="Калла" unit="шт">10</consist>
-    </offer>
     <offer id="Fc9545" available="true">
       <categoryId>37</categoryId>
       <name>Калла Бордовый 50 см Арт. Fc9545</name>
       <price>173</price>
-      <qty>130</qty>
+      <qty>120</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1nFxl0vmSy56qVLIPxntM64t0oOlmx9Js</picture>
       <picture>https://lh3.googleusercontent.com/d/1DX4rJaZJikGHicePyI83RP5n0aZaqIT5</picture>
@@ -610,7 +610,7 @@
       <categoryId>37</categoryId>
       <name>Кампанула Перл Пинк 70 см Арт. Fc12437</name>
       <price>127</price>
-      <qty>100</qty>
+      <qty>160</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/11qi4CZI6Or1Kxq9m73rI-V5dbxU3HiMo</picture>
       <picture>https://lh3.googleusercontent.com/d/1JMbjx37JdZUXioEkF09Z4vhsArSY5hWR</picture>
@@ -663,7 +663,7 @@
       <categoryId>37</categoryId>
       <name>Пион Сара Бернар 60 см Арт. Fc00726</name>
       <price>288</price>
-      <qty>160</qty>
+      <qty>1760</qty>
       <quantity_in_package>20</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1kLpvxjXSsMEjV5aE3a-LZi5_-Wxzp-8R</picture>
       <picture>https://lh3.googleusercontent.com/d/1CEttjzYp2JcMc7dadWGw8eKP1RayE0Wg</picture>
@@ -680,7 +680,7 @@
       <categoryId>37</categoryId>
       <name>Танацетум Белый 50 см Арт. Fc01915</name>
       <price>83</price>
-      <qty>1075</qty>
+      <qty>400</qty>
       <quantity_in_package>25</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XLaewpHchtKDr6CsMQGur3JcC8WKJ7yz</picture>
       <picture>https://lh3.googleusercontent.com/d/1Tg9GydHH-UQCmn1-6SBq5VbXHu_aEJPl</picture>
@@ -698,7 +698,7 @@
       <categoryId>37</categoryId>
       <name>Фрезия Разноцветный 50 см Арт. Fc00795</name>
       <price>74</price>
-      <qty>150</qty>
+      <qty>250</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1Yd_kaUD749TL5oqgQH8SvJa1MIWn2NV3</picture>
       <picture>https://lh3.googleusercontent.com/d/170aFWHS6UnoVodFe298SyGFPLa3aMArP</picture>
@@ -716,7 +716,7 @@
       <categoryId>37</categoryId>
       <name>Фрезия Белый 50 см Арт. Fc04235</name>
       <price>74</price>
-      <qty>500</qty>
+      <qty>700</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1yjV7wTNqL09hDb1FG5qmfK88doRU6lpl</picture>
       <picture>https://lh3.googleusercontent.com/d/1EgeBzVgnEKY_2J2m8sJVx-D7eUU1MKrD</picture>
