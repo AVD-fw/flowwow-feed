@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-25T06:21:13.500+03:00">
+<yml_catalog date="2026-05-25T06:23:33.314+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,21 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az7015" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 50 см Арт. Az7015</name>
+      <price>136</price>
+      <qty>105</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EtHIDTjnAn_RtqLRlCfxrrlDdcGKjw1h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ze-wFwd849eX9pSjQ3fhMO-uK_-wr4WV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7015</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
