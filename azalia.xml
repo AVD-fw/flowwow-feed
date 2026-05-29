@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29T09:13:38.040+03:00">
+<yml_catalog date="2026-05-29T09:21:25.907+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -167,6 +167,24 @@
       <param name="Артикул">Az3717</param>
       <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Az2967" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Кеннеди 70 см Арт. Az2967</name>
+      <price>185</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1j31HgTRQGltb818l8u8IPwbHew1vJRbH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z0l-5DqmYRufS66ew5_MRUl5ncCkalb_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Uo91MT-HoMlH6sbsdtNofvlibd-Q6MI-</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JEcqYraMyWY8H-ueHuRABXMW-qRgam1U</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DmH9Q1q021xF9GQiVsx2iibObsG0WB_O</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2967</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
+    </offer>
     <offer id="Az3037" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
@@ -232,6 +250,20 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3707</param>
       <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5377" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Шугарбанни 70 см Арт. Az5377</name>
+      <price>185</price>
+      <qty>5</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Wo2WwJYxPLyt8v60Q4OyvEJbHuPSr08T</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az5377</param>
+      <consist name="Хризантема кустовая Шугарбанни" unit="шт">5</consist>
     </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
