@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29T10:03:59.779+03:00">
+<yml_catalog date="2026-05-29T10:11:20.303+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -141,7 +141,7 @@
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
       <price>211</price>
-      <qty>10</qty>
+      <qty>20</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1N6V3zUDixNyINmtaaiYPsG1hnZCgYXI_</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -185,20 +185,6 @@
       <param name="Артикул">Az2967</param>
       <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
     </offer>
-    <offer id="Az3037" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Командер Пинк 70 см Арт. Az3037</name>
-      <price>185</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1AEtWlIVEJ-1pfp8fH1wWXYjLhl4B-pYA</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3037</param>
-      <consist name="Хризантема кустовая Командер Пинк" unit="шт">5</consist>
-    </offer>
     <offer id="Az4757" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Перпл Стар 70 см Арт. Az4757</name>
@@ -233,23 +219,6 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az4137</param>
       <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
-    </offer>
-    <offer id="Az3707" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Чик 70 см Арт. Az3707</name>
-      <price>181</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Loe4OvkzU8jBJ0MVrQcd7eGlKkSxcEZW</picture>
-      <picture>https://lh3.googleusercontent.com/d/16fmO7yp3jTzfTFR709gwXUbUZqPHI3t1</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oIUXutRnyXNnWK_nCjciWs5GPkc9i199</picture>
-      <picture>https://lh3.googleusercontent.com/d/1zOdbu_WCVjMMlQR9RnA4bhHZGnYW6tHQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3707</param>
-      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
     <offer id="Az5377" available="true">
       <categoryId>6</categoryId>
