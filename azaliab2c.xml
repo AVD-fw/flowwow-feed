@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29T09:17:43.903+03:00">
+<yml_catalog date="2026-05-29T09:27:43.425+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -231,6 +231,22 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az3707c</param>
       <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5377c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Шугарбанни 70 см Арт. Az5377c</name>
+      <categoryId>450</categoryId>
+      <price>1228</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1cMzQRJ6K6KMP28jApaxaRIJtOhIf4SJe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G6qi9SyGLUKQolwhN8ErBZpyC-WvSewM</picture>
+      <picture>https://lh3.googleusercontent.com/d/1H6NiSMel9UAv9kGJYVPZ9ueYzX6U1VjU</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az5377c</param>
+      <consist name="Хризантема кустовая Шугарбанни" unit="шт">5</consist>
     </offer>
     <offer id="Az3206c" available="true">
       <name>Пачка (10 шт.) Гиперикум Коко Танго 60 см Арт. Az3206c</name>
