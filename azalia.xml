@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29T09:11:20.092+03:00">
+<yml_catalog date="2026-05-29T09:13:38.040+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -122,6 +122,20 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az3437</param>
       <consist name="Роза одноголовая пионовидная Ридженс Парк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az7926" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Фейерверк 60 см Арт. Az7926</name>
+      <price>370</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/136_cj05Ylwm_L5zNjVUHbe__NKbJyqMU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az7926</param>
+      <consist name="Роза кустовая Фейерверк" unit="шт">10</consist>
     </offer>
     <offer id="Az2847" available="true">
       <categoryId>5</categoryId>
