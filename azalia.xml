@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29T12:13:39.135+03:00">
+<yml_catalog date="2026-05-29T12:21:24.544+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -137,6 +137,20 @@
       <param name="Артикул">Az7926</param>
       <consist name="Роза кустовая Фейерверк" unit="шт">10</consist>
     </offer>
+    <offer id="Az7997" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Ферст Дейт 70 см Арт. Az7997</name>
+      <price>402</price>
+      <qty>185</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1M2zWfF3DZVneTnNZ9Mm9144HgiQ3LE6A</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen</param>
+      <param name="Артикул">Az7997</param>
+      <consist name="Роза кустовая Ферст Дейт" unit="шт">5</consist>
+    </offer>
     <offer id="Az2847" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Магнум Еллоу 70 см Арт. Az2847</name>
@@ -202,6 +216,19 @@
       <param name="Артикул">Az2957</param>
       <consist name="Хризантема кустовая Кеннеди Крем" unit="шт">5</consist>
     </offer>
+    <offer id="Az8017" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Копа 70 см Арт. Az8017</name>
+      <price>185</price>
+      <qty>45</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1U1GPlb0OqIz_i1_NH38igm2YWg516zPh</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Az8017</param>
+      <consist name="Хризантема кустовая Копа" unit="шт">5</consist>
+    </offer>
     <offer id="Az4757" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Перпл Стар 70 см Арт. Az4757</name>
@@ -265,6 +292,20 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Az3206</param>
       <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
+    </offer>
+    <offer id="Az8006" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Уно 60 см Арт. Az8006</name>
+      <price>162</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sTBYreeoOJd2GRIHJBcNToeK0_PzwJ5R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Az8006</param>
+      <consist name="Гиперикум Коко Уно" unit="шт">10</consist>
     </offer>
     <offer id="Az3185" available="true">
       <categoryId>37</categoryId>
