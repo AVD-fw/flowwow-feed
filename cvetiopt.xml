@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-29T06:15:52.940+03:00">
+<yml_catalog date="2026-05-29T06:25:18.554+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -107,6 +107,24 @@
       <param name="Артикул">Fc01327</param>
       <consist name="Хризантема одноголовая Момоко" unit="шт">10</consist>
     </offer>
+    <offer id="Fc03377" available="true">
+      <categoryId>5</categoryId>
+      <name>Хризантема одноголовая Петр 70 см Арт. Fc03377</name>
+      <price>127</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1zpO6-tbvWEWAjpOaRaEaN5l0--myOo7F</picture>
+      <picture>https://lh3.googleusercontent.com/d/1j2ttjhUdajR4_Qj3FfC2fPBVmeka9sh5</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NjzEAc1iFdBtYxzxsXNOzk3EWH3s2TjW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qmrmW3FDyTAYOinrrxcG5_kTsxBDFbxu</picture>
+      <picture>https://lh3.googleusercontent.com/d/13Ti50H6s1SiQRmDUhvL2SGgpn5hl9iEE</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">VannoVa</param>
+      <param name="Артикул">Fc03377</param>
+      <consist name="Хризантема одноголовая Петр" unit="шт">10</consist>
+    </offer>
     <offer id="Fc12417" available="true">
       <categoryId>5</categoryId>
       <name>Хризантема одноголовая Супербоул 70 см Арт. Fc12417</name>
@@ -143,6 +161,24 @@
       <param name="Артикул">Fc00957</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Fc14346" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Кеннеди 65 см Арт. Fc14346</name>
+      <price>104</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1a46Nph1lv6AxXyipy8zPwWk2ucanD8Ne</picture>
+      <picture>https://lh3.googleusercontent.com/d/10W9ZsN1ZCF34ZIdTHlCZbncxltzsstsx</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ogtq-U4BiGdhe68WEZRAM4iGH-vPZn4J</picture>
+      <picture>https://lh3.googleusercontent.com/d/1zQQGtMcU2FenfRTdJxajPkvhpyoisBcr</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I-aJRi8Oe-gxOuJJL4pmQA3_V2LlUZFJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">65</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Charisma</param>
+      <param name="Артикул">Fc14346</param>
+      <consist name="Хризантема кустовая Кеннеди" unit="шт">5</consist>
+    </offer>
     <offer id="Fc03477" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Ньютон 70 см Арт. Fc03477</name>
@@ -160,6 +196,21 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Fc03477</param>
       <consist name="Хризантема кустовая Ньютон" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc20247" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Рендал 70 см Арт. Fc20247</name>
+      <price>104</price>
+      <qty>20</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1es29iMvzLjDYQU95ZMdo8wbeqiI9nyLC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1N-qttFF5lkapHfIld6waGRalRX3umXDI</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Cornelis jan</param>
+      <param name="Артикул">Fc20247</param>
+      <consist name="Хризантема кустовая Рендал" unit="шт">5</consist>
     </offer>
     <offer id="Fc15225" available="true">
       <categoryId>7</categoryId>
