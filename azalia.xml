@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-30T07:21:48.301+03:00">
+<yml_catalog date="2026-05-30T07:23:52.898+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -46,6 +46,22 @@
       <param name="Артикул">Az7955</param>
       <consist name="Роза одноголовая Раш Ауэр" unit="шт">15</consist>
     </offer>
+    <offer id="Az3847" available="true">
+      <categoryId>2</categoryId>
+      <name>Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3847</name>
+      <price>220</price>
+      <qty>80</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/12RVAf9_rl0i7sOET4ylaN2kXYWu2i7DU</picture>
+      <picture>https://lh3.googleusercontent.com/d/14aq2GP4gzcrxXTr_hFm5XiyoCbcdUaUI</picture>
+      <picture>https://lh3.googleusercontent.com/d/16kYZ40BBQA8imekVGiPtnQA7bW9QXgLa</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3847</param>
+      <consist name="Роза одноголовая пионовидная Питер Парк" unit="шт">10</consist>
+    </offer>
     <offer id="Az7926" available="true">
       <categoryId>3</categoryId>
       <name>Роза кустовая Фейерверк 60 см Арт. Az7926</name>
@@ -59,6 +75,103 @@
       <param name="Производитель">Чеховский сад</param>
       <param name="Артикул">Az7926</param>
       <consist name="Роза кустовая Фейерверк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az7997" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Ферст Дейт 70 см Арт. Az7997</name>
+      <price>402</price>
+      <qty>160</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1M2zWfF3DZVneTnNZ9Mm9144HgiQ3LE6A</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen</param>
+      <param name="Артикул">Az7997</param>
+      <consist name="Роза кустовая Ферст Дейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3317" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Алтай Еллоу 70 см Арт. Az3317</name>
+      <price>185</price>
+      <qty>40</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/17v1BdvMSwIF4jZCfXtOu3g02Zj-loELc</picture>
+      <picture>https://lh3.googleusercontent.com/d/19x2wAvFjuh_EtN1auKvkqShihq8CLKo6</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DTLYn6kLjziwsPdiLLQg_vmm4cgOElDA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1DflHHwniHd0b8idbi7fLIetCdiCtXUmv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1IGqEitHJ-1OVyauT2kpq543YEeclY2nx</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az3317</param>
+      <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3717" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Балтика Еллоу 70 см Арт. Az3717</name>
+      <price>181</price>
+      <qty>15</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gI4UOtKJgtPpYH8TWpUOzIJ93geaKNFQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jjFWsNpIpbKJ11lwE2BJg5NuTuIW0Ojn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsuNfNtGx6Bl2uYgwDoaaeMS_HyW9VeP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LinFlowers</param>
+      <param name="Артикул">Az3717</param>
+      <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4757" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Перпл Стар 70 см Арт. Az4757</name>
+      <price>185</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1WXiXKqM-CAbuw1Jp9VNGyrhqX3dDbj_e</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qkimSB_n0JHIEpMo0fgPjwAjMJBnIOyT</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sTKSVoMBKT6V7BqxYhL4i-JgOL4jQA3c</picture>
+      <picture>https://lh3.googleusercontent.com/d/17P05aTPGIs4sbGHq7yLu6kXDe4lAg2Sn</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4757</param>
+      <consist name="Хризантема кустовая Перпл Стар" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4137" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
+      <price>185</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1xc1mtSXpCG12Bwhu-iY1wuS0xMWiX60r</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ODZQ-MBNEY3bzNv0_mOB7lYwY81N1Ipp</picture>
+      <picture>https://lh3.googleusercontent.com/d/1BCtFdxjZ2KGy6xbMt7UZuZYdVjrOz3Yv</picture>
+      <picture>https://lh3.googleusercontent.com/d/10g63ZeoKVVIH21bIyhd8FYn0nvIIsJko</picture>
+      <picture>https://lh3.googleusercontent.com/d/1qsW8kMsiKZ3EWcXvCsNaykLK11mUwQCQ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4137</param>
+      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5377" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Шугарбанни 70 см Арт. Az5377</name>
+      <price>185</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Wo2WwJYxPLyt8v60Q4OyvEJbHuPSr08T</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az5377</param>
+      <consist name="Хризантема кустовая Шугарбанни" unit="шт">5</consist>
     </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
@@ -105,6 +218,36 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3185</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az5636" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пьюр Вайт 60 см Арт. Az5636</name>
+      <price>386</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1y0dlFrFzQLxCWhvEMUBRDSwtCQV8uOMf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VAyd7P7QpTReLEVz8QdeJM359p3QE2PC</picture>
+      <picture>https://lh3.googleusercontent.com/d/1VbKkNqhq3vCzM11WtqFrpBTSJ28kjsqo</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Az5636</param>
+      <consist name="Эустома Алиса Пьюр Вайт" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3626" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
+      <price>361</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gPa0UGqGLwMlVoskpRUGuXWT-It60-ec</picture>
+      <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3626</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
