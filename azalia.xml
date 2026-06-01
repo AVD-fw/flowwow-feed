@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-01T12:23:51.654+03:00">
+<yml_catalog date="2026-06-01T12:31:23.139+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -169,55 +169,6 @@
       <param name="Артикул">Az2957</param>
       <consist name="Хризантема кустовая Кеннеди Крем" unit="шт">5</consist>
     </offer>
-    <offer id="Az4757" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Перпл Стар 70 см Арт. Az4757</name>
-      <price>185</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1WXiXKqM-CAbuw1Jp9VNGyrhqX3dDbj_e</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qkimSB_n0JHIEpMo0fgPjwAjMJBnIOyT</picture>
-      <picture>https://lh3.googleusercontent.com/d/1sTKSVoMBKT6V7BqxYhL4i-JgOL4jQA3c</picture>
-      <picture>https://lh3.googleusercontent.com/d/17P05aTPGIs4sbGHq7yLu6kXDe4lAg2Sn</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4757</param>
-      <consist name="Хризантема кустовая Перпл Стар" unit="шт">5</consist>
-    </offer>
-    <offer id="Az4137" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Прециус 70 см Арт. Az4137</name>
-      <price>185</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1xc1mtSXpCG12Bwhu-iY1wuS0xMWiX60r</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ODZQ-MBNEY3bzNv0_mOB7lYwY81N1Ipp</picture>
-      <picture>https://lh3.googleusercontent.com/d/1BCtFdxjZ2KGy6xbMt7UZuZYdVjrOz3Yv</picture>
-      <picture>https://lh3.googleusercontent.com/d/10g63ZeoKVVIH21bIyhd8FYn0nvIIsJko</picture>
-      <picture>https://lh3.googleusercontent.com/d/1qsW8kMsiKZ3EWcXvCsNaykLK11mUwQCQ</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az4137</param>
-      <consist name="Хризантема кустовая Прециус" unit="шт">5</consist>
-    </offer>
-    <offer id="Az5377" available="true">
-      <categoryId>6</categoryId>
-      <name>Хризантема кустовая Шугарбанни 70 см Арт. Az5377</name>
-      <price>185</price>
-      <qty>5</qty>
-      <quantity_in_package>5</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Wo2WwJYxPLyt8v60Q4OyvEJbHuPSr08T</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
-      <param name="Высота, см">70</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az5377</param>
-      <consist name="Хризантема кустовая Шугарбанни" unit="шт">5</consist>
-    </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
@@ -264,29 +215,11 @@
       <param name="Артикул">Az3185</param>
       <consist name="Ирис" unit="шт">25</consist>
     </offer>
-    <offer id="Az3656" available="true">
-      <categoryId>37</categoryId>
-      <name>Ирис Блю Меджик 60 см Арт. Az3656</name>
-      <price>65</price>
-      <qty>50</qty>
-      <quantity_in_package>50</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1bDm1EYnb0uHXK6mtvF2TYrv3h4O2dRzS</picture>
-      <picture>https://lh3.googleusercontent.com/d/1ybLvTJYl9JnE3JDBMYNst13N9Z2F7lij</picture>
-      <picture>https://lh3.googleusercontent.com/d/12eDjbaFOJR3FC_cpKDcs0Wz3LppDQmsO</picture>
-      <picture>https://lh3.googleusercontent.com/d/1Y0nyG3IfahDu0Gy2dWkVhr6QH2MIf-JU</picture>
-      <picture>https://lh3.googleusercontent.com/d/1MNEmHkAFhKSn_AxHm2z7flop4y4r0A6d</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Decorum</param>
-      <param name="Артикул">Az3656</param>
-      <consist name="Ирис Блю Меджик" unit="шт">50</consist>
-    </offer>
     <offer id="Az5066" available="true">
       <categoryId>37</categoryId>
       <name>Ирис Касабланка 60 см Арт. Az5066</name>
       <price>97</price>
-      <qty>100</qty>
+      <qty>50</qty>
       <quantity_in_package>50</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/1XdoT12X0lO2_nLeBSoShgetY7i62o-tC</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
