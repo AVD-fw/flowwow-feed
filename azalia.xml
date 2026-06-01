@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-01T06:33:35.068+03:00">
+<yml_catalog date="2026-06-01T06:41:18.392+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -123,6 +123,23 @@
       <param name="Производитель">LinFlowers</param>
       <param name="Артикул">Az3717</param>
       <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Az2957" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Кеннеди Крем 70 см Арт. Az2957</name>
+      <price>233</price>
+      <qty>35</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BlfcmAHf8oZIhpzwwo9ys49N56ZkCiTm</picture>
+      <picture>https://lh3.googleusercontent.com/d/1NDb4P92U6O5nQIEErUKG20hFW3xuFMde</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a0cLfIhEymwierWV-TEWcL58qskWSxwh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CKCZqDbxaTkX9oXNLbHtUXi5CWMYZuet</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2957</param>
+      <consist name="Хризантема кустовая Кеннеди Крем" unit="шт">5</consist>
     </offer>
     <offer id="Az4757" available="true">
       <categoryId>6</categoryId>
