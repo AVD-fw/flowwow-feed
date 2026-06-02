@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-02T06:41:33.055+03:00">
+<yml_catalog date="2026-06-02T06:43:37.967+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -194,6 +194,22 @@
       <param name="Артикул">Az3317</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
     </offer>
+    <offer id="Az3717" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Балтика Еллоу 70 см Арт. Az3717</name>
+      <price>181</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gI4UOtKJgtPpYH8TWpUOzIJ93geaKNFQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1jjFWsNpIpbKJ11lwE2BJg5NuTuIW0Ojn</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nsuNfNtGx6Bl2uYgwDoaaeMS_HyW9VeP</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">LinFlowers</param>
+      <param name="Артикул">Az3717</param>
+      <consist name="Хризантема кустовая Балтика Еллоу" unit="шт">5</consist>
+    </offer>
     <offer id="Az2957" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди Крем 70 см Арт. Az2957</name>
@@ -336,6 +352,21 @@
       <param name="Производитель">Юг РФ</param>
       <param name="Артикул">Az7855</param>
       <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
+    <offer id="Az5626" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пич 60 см Арт. Az5626</name>
+      <price>361</price>
+      <qty>30</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1oT6wcbI-YbNYa-Ir88fCZAY6YGIY-kRd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hmK6vkJ5rqAy7t8fdpHNgZodRJMlVG_w</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az5626</param>
+      <consist name="Эустома Алиса Пич" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
