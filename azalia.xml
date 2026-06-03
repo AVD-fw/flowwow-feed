@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-03T14:23:35.411+03:00">
+<yml_catalog date="2026-06-03T14:31:46.043+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -284,21 +284,6 @@
       <param name="Производитель">Юг РФ</param>
       <param name="Артикул">Az7855</param>
       <consist name="Маттиола" unit="шт">10</consist>
-    </offer>
-    <offer id="Az5626" available="true">
-      <categoryId>37</categoryId>
-      <name>Эустома Алиса Пич 60 см Арт. Az5626</name>
-      <price>361</price>
-      <qty>10</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1oT6wcbI-YbNYa-Ir88fCZAY6YGIY-kRd</picture>
-      <picture>https://lh3.googleusercontent.com/d/1hmK6vkJ5rqAy7t8fdpHNgZodRJMlVG_w</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Голландия</param>
-      <param name="Производитель">Kwekerij Waalzicht</param>
-      <param name="Артикул">Az5626</param>
-      <consist name="Эустома Алиса Пич" unit="шт">10</consist>
     </offer>
     <offer id="Az5636" available="true">
       <categoryId>37</categoryId>
