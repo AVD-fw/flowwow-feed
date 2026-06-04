@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-04T08:05:50.249+03:00">
+<yml_catalog date="2026-06-04T08:15:50.752+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -17,24 +17,6 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
-    <offer id="Fc17646" available="true">
-      <categoryId>1</categoryId>
-      <name>Роза одноголовая Аваланш 60 см Арт. Fc17646</name>
-      <price>98</price>
-      <qty>20</qty>
-      <quantity_in_package>10</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1Yud_Zw6h6MtL5xkx0pgrfSrFpshyKuM3</picture>
-      <picture>https://lh3.googleusercontent.com/d/14HrTs_EHXDUCGtDWmMXYGgTjruCjIgGR</picture>
-      <picture>https://lh3.googleusercontent.com/d/1y_wf2BQTM8yOMup3FmOixfk-0icFVJTz</picture>
-      <picture>https://lh3.googleusercontent.com/d/1m3sXhRNn1pBCUl2ipsyQdRIc71xfslGN</picture>
-      <picture>https://lh3.googleusercontent.com/d/1oGqMO0NHrag3iW0StpZRXiL_fj_mPuz9</picture>
-      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Линия Розы</param>
-      <param name="Артикул">Fc17646</param>
-      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
-    </offer>
     <offer id="Fc11987" available="true">
       <categoryId>4</categoryId>
       <name>Роза кустовая пионовидная Джульетта 70 см Арт. Fc11987</name>
@@ -142,6 +124,24 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Fc00957</param>
       <consist name="Хризантема кустовая Алтай Еллоу" unit="шт">5</consist>
+    </offer>
+    <offer id="Fc03367" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Делигрин 70 см Арт. Fc03367</name>
+      <price>102</price>
+      <qty>30</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1BzjpAI6IkFSTvMrYKY6k8a-eB_EI5-kj</picture>
+      <picture>https://lh3.googleusercontent.com/d/16VSohKNoHgOLd7NLvS2tBN-GijMtjgkQ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1hWff0t5oED01CdO3d9aPZLZrI7xnfXto</picture>
+      <picture>https://lh3.googleusercontent.com/d/153cIypGozDuWicTzVJ3i58T5vYvZfmRR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-8xu9AodUQPa1lEV08es3coQQWzAI1bJ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Fc03367</param>
+      <consist name="Хризантема кустовая Делигрин" unit="шт">5</consist>
     </offer>
     <offer id="Fc00917" available="true">
       <categoryId>6</categoryId>
@@ -502,6 +502,23 @@
       <param name="Артикул">Fc00816</param>
       <consist name="Озотамнус Розовый" unit="шт">10</consist>
     </offer>
+    <offer id="Fc15666" available="true">
+      <categoryId>37</categoryId>
+      <name>Пион Корал Шарм 65 см Арт. Fc15666</name>
+      <price>202</price>
+      <qty>240</qty>
+      <quantity_in_package>20</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KEKGQZHEaDJyoNQkbZThHm8z-NBcH88R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1e2Ic_BbtlAzQW5JGqLW5SmRqeq7hkqPO</picture>
+      <picture>https://lh3.googleusercontent.com/d/1TF2uj96250cy8q73WHTXskmt1ryoWWGj</picture>
+      <picture>https://lh3.googleusercontent.com/d/12URdBGvhGtHBL-Bn3yfZ_UUxyVOo8luJ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1D1Q_HH8wcbrTDvLd65HF578jR_8TS27Z</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 20 шт.</description>
+      <param name="Высота, см">65</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc15666</param>
+      <consist name="Пион Корал Шарм" unit="шт">20</consist>
+    </offer>
     <offer id="Fc00726" available="true">
       <categoryId>37</categoryId>
       <name>Пион Сара Бернар 60 см Арт. Fc00726</name>
@@ -536,6 +553,23 @@
       <param name="Производитель">Zara Flora</param>
       <param name="Артикул">Fc01915</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Fc04784" available="true">
+      <categoryId>37</categoryId>
+      <name>Тюльпан Колумбус 40 см Арт. Fc04784</name>
+      <price>75</price>
+      <qty>50</qty>
+      <quantity_in_package>50</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1211-PeIQ0HTeF9qBbTgGYznQgv5h6DpY</picture>
+      <picture>https://lh3.googleusercontent.com/d/1GJdSc0ObUFIfTSzCzmFMoCvNvIx1d43Q</picture>
+      <picture>https://lh3.googleusercontent.com/d/11l8gaaflS4K7cKbvHWW5iCJpkuk1m8Dw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1r1Z7B_XNvp044dk-K-kY5o6d0YjaNurX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ym6lDihzHnaGj4Fi37HV8CGN1kq4B1Jd</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 50 шт.</description>
+      <param name="Высота, см">40</param>
+      <param name="Страна">Голландия</param>
+      <param name="Артикул">Fc04784</param>
+      <consist name="Тюльпан Колумбус" unit="шт">50</consist>
     </offer>
     <offer id="Fc00795" available="true">
       <categoryId>37</categoryId>
