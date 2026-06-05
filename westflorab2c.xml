@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-05T07:47:06.097+03:00">
+<yml_catalog date="2026-06-05T07:57:05.122+03:00">
   <shop>
     <name>West flora</name>
     <company>westflora</company>
@@ -197,6 +197,22 @@
       <param name="Страна">Голландия</param>
       <param name="Артикул">Va0265c</param>
       <consist name="Танацетум" unit="шт">25</consist>
+    </offer>
+    <offer id="Va3006c" available="true">
+      <name>Пачка (10 шт.) Эустома Лисенн Лавандер 60 см Арт. Va3006c</name>
+      <categoryId>450</categoryId>
+      <price>3228</price>
+      <qty>30</qty>
+      <picture>https://lh3.googleusercontent.com/d/1EneYvkaDT0kzTqGTEpzFixei-4Q18nzf</picture>
+      <picture>https://lh3.googleusercontent.com/d/14M2hX0c1ScDZfeSVLdnF0bBKxZPMaDYB</picture>
+      <picture>https://lh3.googleusercontent.com/d/12GGwE6nwehDZUV5skq2PC92tM-ACccey</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij waalzicht</param>
+      <param name="Артикул">Va3006c</param>
+      <consist name="Эустома Лисенн Лавандер" unit="шт">10</consist>
     </offer>
     <offer id="Va0566c" available="true">
       <name>Пачка (10 шт.) Эустома Росита Вайт 60 см Арт. Va0566c</name>
