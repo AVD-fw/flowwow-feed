@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-05T06:33:36.254+03:00">
+<yml_catalog date="2026-06-05T06:41:18.430+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -150,7 +150,7 @@
       <categoryId>3</categoryId>
       <name>Роза кустовая Фейерверк 60 см Арт. Az7926</name>
       <price>370</price>
-      <qty>50</qty>
+      <qty>40</qty>
       <quantity_in_package>10</quantity_in_package>
       <picture>https://lh3.googleusercontent.com/d/136_cj05Ylwm_L5zNjVUHbe__NKbJyqMU</picture>
       <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
@@ -174,6 +174,24 @@
       <param name="Артикул">Az7997</param>
       <consist name="Роза кустовая Ферст Дейт" unit="шт">5</consist>
     </offer>
+    <offer id="Az2977" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Калимба 70 см Арт. Az2977</name>
+      <price>194</price>
+      <qty>10</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1A04j2OMexwlhab4fGBnumCZM0jpOJTQv</picture>
+      <picture>https://lh3.googleusercontent.com/d/1a6fBnWgpNu2v34349mmMy1l-EecfKUZZ</picture>
+      <picture>https://lh3.googleusercontent.com/d/1sn7Gymja2ydfU3cyYOK122FX-zbmvUCA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1bRdwr39ubWweTJprIhQNcpxpc4aQLNQN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1I6z6o_QbbCuTTd0UPxOWbJFSWpMjnyuj</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az2977</param>
+      <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
+    </offer>
     <offer id="Az2957" available="true">
       <categoryId>6</categoryId>
       <name>Хризантема кустовая Кеннеди Крем 70 см Арт. Az2957</name>
@@ -190,6 +208,20 @@
       <param name="Производитель">Decorum</param>
       <param name="Артикул">Az2957</param>
       <consist name="Хризантема кустовая Кеннеди Крем" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5737" available="true">
+      <categoryId>6</categoryId>
+      <name>Хризантема кустовая Командер 70 см Арт. Az5737</name>
+      <price>181</price>
+      <qty>25</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1z7SsVut-APnLfWnsntYYhCwdNZZ7UfN-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az5737</param>
+      <consist name="Хризантема кустовая Командер" unit="шт">5</consist>
     </offer>
     <offer id="Az3007" available="true">
       <categoryId>6</categoryId>
@@ -252,6 +284,38 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3185</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3646" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
+      <price>370</price>
+      <qty>40</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xavcE8gOFM0bQEHgYyROxvT_HacqfdAX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Phjwsjyf3-qaKu5QCx1jq6D4dm9R0ifm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3646</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3626" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
+      <price>354</price>
+      <qty>60</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gPa0UGqGLwMlVoskpRUGuXWT-It60-ec</picture>
+      <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3626</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
