@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-05T06:21:16.347+03:00">
+<yml_catalog date="2026-06-05T06:23:32.550+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -17,6 +17,93 @@
       <category id="39">Декор</category>
     </categories>
     <offers>
+    <offer id="Az3486" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 60 см Арт. Az3486</name>
+      <price>161</price>
+      <qty>10</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1ts9b8texflRPr370Lkqs7d4D8UbEaso_</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xofiGAQBC3RwYg9rYYW_edqOnTeYxDLW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1PBkh3fcpcOvp_APffZPpYcajoEPlso09</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az3486</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">10</consist>
+    </offer>
+    <offer id="Az7015" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Аваланш 50 см Арт. Az7015</name>
+      <price>145</price>
+      <qty>120</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1EtHIDTjnAn_RtqLRlCfxrrlDdcGKjw1h</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Ze-wFwd849eX9pSjQ3fhMO-uK_-wr4WV</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7015</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
+    <offer id="Az6275" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пенни Лейн 50 см Арт. Az6275</name>
+      <price>129</price>
+      <qty>120</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1wWHsp6eJm6sCFQWV4CAza3MaQ3ui-Bfl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">КЦХ</param>
+      <param name="Артикул">Az6275</param>
+      <consist name="Роза одноголовая Пенни Лейн" unit="шт">15</consist>
+    </offer>
+    <offer id="Az7395" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Мирабель 50 см Арт. Az7395</name>
+      <price>322</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Bq7PxDR0ppx9MiJrg5SFiGi-19cKuYtl</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7395</param>
+      <consist name="Роза кустовая Мирабель" unit="шт">10</consist>
+    </offer>
+    <offer id="Az7926" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Фейерверк 60 см Арт. Az7926</name>
+      <price>370</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/136_cj05Ylwm_L5zNjVUHbe__NKbJyqMU</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az7926</param>
+      <consist name="Роза кустовая Фейерверк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az7997" available="true">
+      <categoryId>3</categoryId>
+      <name>Роза кустовая Ферст Дейт 70 см Арт. Az7997</name>
+      <price>402</price>
+      <qty>75</qty>
+      <quantity_in_package>5</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1M2zWfF3DZVneTnNZ9Mm9144HgiQ3LE6A</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 5 шт.</description>
+      <param name="Высота, см">70</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen</param>
+      <param name="Артикул">Az7997</param>
+      <consist name="Роза кустовая Ферст Дейт" unit="шт">5</consist>
+    </offer>
     <offer id="Az3206" available="true">
       <categoryId>37</categoryId>
       <name>Гиперикум Коко Танго 60 см Арт. Az3206</name>
@@ -31,6 +118,37 @@
       <param name="Производитель">Florius Flowers</param>
       <param name="Артикул">Az3206</param>
       <consist name="Гиперикум Коко Танго" unit="шт">10</consist>
+    </offer>
+    <offer id="Az8006" available="true">
+      <categoryId>37</categoryId>
+      <name>Гиперикум Коко Уно 60 см Арт. Az8006</name>
+      <price>162</price>
+      <qty>20</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1sTBYreeoOJd2GRIHJBcNToeK0_PzwJ5R</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Florius Flowers</param>
+      <param name="Артикул">Az8006</param>
+      <consist name="Гиперикум Коко Уно" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3185" available="true">
+      <categoryId>37</categoryId>
+      <name>Ирис Фиолетовый 50 см Арт. Az3185</name>
+      <price>113</price>
+      <qty>250</qty>
+      <quantity_in_package>25</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1KxNmm3Kug8buGG2LiawY_So0LhWtfyXH</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nB4e-H7R0Kmm2gipXDsxEdnVQ3gJ174b</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Pl1L3GEkp5b9HK53BVASvRBEGKWMUa7l</picture>
+      <picture>https://lh3.googleusercontent.com/d/1KzFDT5EewHzrHpcIwY3ohQVjoDskdmg3</picture>
+      <picture>https://lh3.googleusercontent.com/d/1CBorV-W5t1EnOs6STF8fOpisBrSl13BZ</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 25 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Артикул">Az3185</param>
+      <consist name="Ирис" unit="шт">25</consist>
     </offer>
     </offers>
   </shop>
