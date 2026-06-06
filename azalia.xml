@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-06T06:33:32.950+03:00">
+<yml_catalog date="2026-06-06T06:41:16.118+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -209,6 +209,38 @@
       <param name="Страна">Россия</param>
       <param name="Артикул">Az3185</param>
       <consist name="Ирис" unit="шт">25</consist>
+    </offer>
+    <offer id="Az3646" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Алиса Пинк 60 см Арт. Az3646</name>
+      <price>370</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1czYyaDrh3geMHi_daNhc-cKS6SFBhTHb</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xavcE8gOFM0bQEHgYyROxvT_HacqfdAX</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Phjwsjyf3-qaKu5QCx1jq6D4dm9R0ifm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3646</param>
+      <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Az3626" available="true">
+      <categoryId>37</categoryId>
+      <name>Эустома Росита Вайт 60 см Арт. Az3626</name>
+      <price>354</price>
+      <qty>50</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1gPa0UGqGLwMlVoskpRUGuXWT-It60-ec</picture>
+      <picture>https://lh3.googleusercontent.com/d/1leob7k1yXWrsTGVYluqwsvAw51oneaBK</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Sunrise Holland</param>
+      <param name="Артикул">Az3626</param>
+      <consist name="Эустома Росита Вайт" unit="шт">10</consist>
     </offer>
     </offers>
   </shop>
