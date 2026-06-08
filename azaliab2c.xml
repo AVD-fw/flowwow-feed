@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-08T10:37:40.254+03:00">
+<yml_catalog date="2026-06-08T10:47:39.562+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -39,6 +39,22 @@
       <param name="Производитель">КЦХ</param>
       <param name="Артикул">Az6275c</param>
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">15</consist>
+    </offer>
+    <offer id="Az7955c" available="true">
+      <name>Пачка (15 шт.) Роза одноголовая Раш Ауэр 50 см Арт. Az7955c</name>
+      <categoryId>450</categoryId>
+      <price>2343</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1GKi1UhRB5DwQbPbMP40trdRb72pq1NYl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v0F5eFfIDp2tyLHvtWEUb43G0NDY0Tup</picture>
+      <picture>https://lh3.googleusercontent.com/d/1ydgNSMmZxXZsF0q4hu8ptDfuFHDXMmfv</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 15 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7955c</param>
+      <consist name="Роза одноголовая Раш Ауэр" unit="шт">15</consist>
     </offer>
     <offer id="Az3427c" available="true">
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3427c</name>
@@ -167,6 +183,22 @@
       <param name="Производитель">Zentoo</param>
       <param name="Артикул">Az3927c</param>
       <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
+    </offer>
+    <offer id="Az5776c" available="true">
+      <name>Пачка (10 шт.) Хризантема кустовая Яна 60 см Арт. Az5776c</name>
+      <categoryId>450</categoryId>
+      <price>3523</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1pXDiDmJtuNGRKLyIFtxrJ7ByPQ6_kBRT</picture>
+      <picture>https://lh3.googleusercontent.com/d/16U-pVhs6pNITr2EbgIw9G-A20pDyCc2j</picture>
+      <picture>https://lh3.googleusercontent.com/d/1WYZEG2CkyBLwXnbh1ZbdeL7fCmf775tv</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az5776c</param>
+      <consist name="Хризантема кустовая Яна" unit="шт">10</consist>
     </offer>
     <offer id="Az3185c" available="true">
       <name>Пачка (25 шт.) Ирис Фиолетовый 50 см Арт. Az3185c</name>
