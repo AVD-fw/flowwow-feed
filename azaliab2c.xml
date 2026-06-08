@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-08T10:47:39.562+03:00">
+<yml_catalog date="2026-06-08T10:57:40.048+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -120,6 +120,22 @@
       <param name="Артикул">Az7978c</param>
       <consist name="Роза одноголовая пионовидная Ридженс Парк" unit="шт">10</consist>
     </offer>
+    <offer id="Az8036c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Барбадос 60 см Арт. Az8036c</name>
+      <categoryId>450</categoryId>
+      <price>3913</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1HvkD1QgkI9VH9Pd6af_cAMfvkv0YpTtE</picture>
+      <picture>https://lh3.googleusercontent.com/d/1mxkCm56XP3wsupmXX5slTSTVbvksaICk</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JImVNPjTcPJXYBWP8vtmanGlhYh5PetE</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az8036c</param>
+      <consist name="Роза кустовая Барбадос" unit="шт">10</consist>
+    </offer>
     <offer id="Az7926c" available="true">
       <name>Пачка (10 шт.) Роза кустовая Фейерверк 60 см Арт. Az7926c</name>
       <categoryId>450</categoryId>
@@ -151,6 +167,22 @@
       <param name="Производитель">Fransen</param>
       <param name="Артикул">Az7997c</param>
       <consist name="Роза кустовая Ферст Дейт" unit="шт">5</consist>
+    </offer>
+    <offer id="Az4207c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Флиртинг Бабблс 70 см Арт. Az4207c</name>
+      <categoryId>450</categoryId>
+      <price>4323</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1wDSH13aFH2CfStYCd13P3QHHtazEPn15</picture>
+      <picture>https://lh3.googleusercontent.com/d/1rsJNLiSrRqn1_9glW1oZLDdy_W_4jLSe</picture>
+      <picture>https://lh3.googleusercontent.com/d/1nhtFnxHgXsohEQJ650-KNaXN7iuhoBXo</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский сад</param>
+      <param name="Артикул">Az4207c</param>
+      <consist name="Роза кустовая Флиртинг Бабблс" unit="шт">10</consist>
     </offer>
     <offer id="Az2977c" available="true">
       <name>Пачка (5 шт.) Хризантема кустовая Калимба 70 см Арт. Az2977c</name>
