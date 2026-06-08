@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-08T08:49:42.351+03:00">
+<yml_catalog date="2026-06-08T08:56:34.662+03:00">
   <shop>
     <name>Цветы оптом</name>
     <company>cvetiopt</company>
@@ -28,7 +28,7 @@
       <name>Пачка (10 шт.) Роза кустовая Мисс Бомбастик 60 см Арт. Fc02406c</name>
       <categoryId>450</categoryId>
       <price>3071</price>
-      <qty>10</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1AXbDZ1XY1y-d_6wBJvLm2n14pjmAlrzm</picture>
       <picture>https://lh3.googleusercontent.com/d/1RREzIfKdL7cG6-xYPfasLtRFwrAx6rXX</picture>
       <picture>https://lh3.googleusercontent.com/d/1Yjovt2ERKJQPlklVOBIiSYyWlpNMdpmu</picture>
@@ -40,11 +40,59 @@
       <param name="Артикул">Fc02406c</param>
       <consist name="Роза кустовая Мисс Бомбастик" unit="шт">10</consist>
     </offer>
+    <offer id="Fc02966c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Пинк Промайс 60 см Арт. Fc02966c</name>
+      <categoryId>450</categoryId>
+      <price>2937</price>
+      <qty>21</qty>
+      <picture>https://lh3.googleusercontent.com/d/1JgJ5FWMXfH1Yodj2mRGUqn0l_wJI9iQq</picture>
+      <picture>https://lh3.googleusercontent.com/d/1tE7qXKNNDW9Kc1b5gFv3IuIOlsjBIlLc</picture>
+      <picture>https://lh3.googleusercontent.com/d/11E7q6mZ0OHKMydgu6OssLMYcA-LI4aup</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Fransen Roses</param>
+      <param name="Артикул">Fc02966c</param>
+      <consist name="Роза кустовая Пинк Промайс" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc00716c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Софи 60 см Арт. Fc00716c</name>
+      <categoryId>450</categoryId>
+      <price>3632</price>
+      <qty>16</qty>
+      <picture>https://lh3.googleusercontent.com/d/1khb0wcIigTEMwbVh8pdDq1nHH_U4dUyh</picture>
+      <picture>https://lh3.googleusercontent.com/d/1c9ngR7Mpo2T9ZO4YkEq8cB9BsepQhT48</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w3PmXTxcz3OCyd-9Af53atKEMAEOtbgG</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Voorn Roses</param>
+      <param name="Артикул">Fc00716c</param>
+      <consist name="Роза кустовая Софи" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc00987c" available="true">
+      <name>Пачка (10 шт.) Роза кустовая Фаерворкс 70 см Арт. Fc00987c</name>
+      <categoryId>450</categoryId>
+      <price>2302</price>
+      <qty>29</qty>
+      <picture>https://lh3.googleusercontent.com/d/1whZA6Hfy8FBtYe9kbWLFCV4-mvDbDzTk</picture>
+      <picture>https://lh3.googleusercontent.com/d/17f0STuRpyqqwB-17FzzSZGVRJfsA49Dw</picture>
+      <picture>https://lh3.googleusercontent.com/d/1v0L-P6yH315Ulvicb3fH0WshlDxNUnVh</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Производитель">Sun Spray</param>
+      <param name="Артикул">Fc00987c</param>
+      <consist name="Роза кустовая Фаерворкс" unit="шт">10</consist>
+    </offer>
     <offer id="Fc11987c" available="true">
       <name>Пачка (5 шт.) Роза кустовая пионовидная Джульетта 70 см Арт. Fc11987c</name>
       <categoryId>450</categoryId>
       <price>1808</price>
-      <qty>6</qty>
+      <qty>7</qty>
       <picture>https://lh3.googleusercontent.com/d/1MdGlSowKhYn-Y85q0kcKm5RlUph9JPUp</picture>
       <picture>https://lh3.googleusercontent.com/d/1wY9RoIl2e_Zb4jIg0tOwalQN3mFMKH1C</picture>
       <picture>https://lh3.googleusercontent.com/d/1_eXvyHWqaSt5DYaOFXCCJo3ph3KOuU_h</picture>
@@ -76,7 +124,7 @@
       <name>Пачка (10 шт.) Роза кустовая пионовидная Йеллоу Бабблс 80 см Арт. Fc19358c</name>
       <categoryId>450</categoryId>
       <price>3217</price>
-      <qty>2</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1FFI_naFoUP3ZevfV3qcchQHx95bJHPYA</picture>
       <picture>https://lh3.googleusercontent.com/d/1TelATyDvy_hKwNn_8agk92U_qp-knuyz</picture>
       <picture>https://lh3.googleusercontent.com/d/1HZ9h9NkjSW1uy3uZZg-7H02qizAfVfiw</picture>
@@ -92,7 +140,7 @@
       <name>Пачка (10 шт.) Роза кустовая пионовидная Мисти Бабблс 50 см Арт. Fc19105c</name>
       <categoryId>450</categoryId>
       <price>2790</price>
-      <qty>4</qty>
+      <qty>5</qty>
       <picture>https://lh3.googleusercontent.com/d/1l408qHNWipr9iMMjMTdKc6hiw7hpqNxl</picture>
       <picture>https://lh3.googleusercontent.com/d/1peIWJqL4qmLS2y9kbCoY1E1OmTOQc5vk</picture>
       <picture>https://lh3.googleusercontent.com/d/1qo9gzAEkKn5f_gF9XAYp-p_4WPvPH17J</picture>
@@ -597,6 +645,37 @@
       <param name="Артикул">Fc5435c</param>
       <consist name="Ирис" unit="шт">50</consist>
     </offer>
+    <offer id="Fc12437c" available="true">
+      <name>Пачка (10 шт.) Кампанула Перл Пинк 70 см Арт. Fc12437c</name>
+      <categoryId>450</categoryId>
+      <price>2022</price>
+      <qty>2</qty>
+      <picture>https://lh3.googleusercontent.com/d/1LoC4E6_6OBuSEV9HtEsx0x7IJTIw6nPa</picture>
+      <picture>https://lh3.googleusercontent.com/d/1i7xUqb1ljlS9VJvja0rq4bTI3faCQZi8</picture>
+      <picture>https://lh3.googleusercontent.com/d/1JZogLRxB7coDHdGbeR2_FZzS1OPevIBA</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">De Waal Fensie</param>
+      <param name="Артикул">Fc12437c</param>
+      <consist name="Кампанула Перл Пинк" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc00695c" available="true">
+      <name>Пачка (10 шт.) Маттиола Желтый 50 см Арт. Fc00695c</name>
+      <categoryId>450</categoryId>
+      <price>1558</price>
+      <qty>26</qty>
+      <picture>https://lh3.googleusercontent.com/d/1VW_N3xpdw0h9U3eRGIc_ogRdmeqCeKgN</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w5Wt3mIIwuEJ6Wj7WuWJK_BRPJX0hjm0</picture>
+      <picture>https://lh3.googleusercontent.com/d/1z-nHzxdGDOCrWSDBaXTWIhfc2VcNN9yt</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Эквадор</param>
+      <param name="Артикул">Fc00695c</param>
+      <consist name="Маттиола" unit="шт">10</consist>
+    </offer>
     <offer id="Fc00816c" available="true">
       <name>Пачка (10 шт.) Озотамнус Розовый 60 см Арт. Fc00816c</name>
       <categoryId>450</categoryId>
@@ -612,6 +691,36 @@
       <param name="Производитель">Esmeralda</param>
       <param name="Артикул">Fc00816c</param>
       <consist name="Озотамнус Розовый" unit="шт">10</consist>
+    </offer>
+    <offer id="Fc15666c" available="true">
+      <name>Пачка (20 шт.) Пион Корал Шарм 65 см Арт. Fc15666c</name>
+      <categoryId>450</categoryId>
+      <price>8280</price>
+      <qty>4</qty>
+      <picture>https://lh3.googleusercontent.com/d/1qCVEvJw-Ub1QV0TxQXZnlz1yFklvzE1s</picture>
+      <picture>https://lh3.googleusercontent.com/d/10AZ0pkQCyH-vcgm7vPn6g83mdqT1DGfR</picture>
+      <picture>https://lh3.googleusercontent.com/d/1SL3t55YupYH2FZ4WJl1E1EVgcbmAZCrg</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">65</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc15666c</param>
+      <consist name="Пион Корал Шарм" unit="шт">20</consist>
+    </offer>
+    <offer id="Fc18235c" available="true">
+      <name>Пачка (20 шт.) Пион Ред Шарм 50 см Арт. Fc18235c</name>
+      <categoryId>450</categoryId>
+      <price>5889</price>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ksbrcE90ogx5mnI2VNmGP2n9Lof8Tr5c</picture>
+      <picture>https://lh3.googleusercontent.com/d/1w9-M0fQ1Km04npSD7rLA4ey6EBZOkdhc</picture>
+      <picture>https://lh3.googleusercontent.com/d/1G6tyXok2L9PvKVOANjmj7ibmB6jumZZ5</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 20 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">уточняется</param>
+      <param name="Артикул">Fc18235c</param>
+      <consist name="Пион Ред Шарм" unit="шт">20</consist>
     </offer>
     <offer id="Fc00726c" available="true">
       <name>Пачка (20 шт.) Пион Сара Бернар 60 см Арт. Fc00726c</name>
