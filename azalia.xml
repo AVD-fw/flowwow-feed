@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-10T14:33:45.830+03:00">
+<yml_catalog date="2026-06-10T14:41:34.049+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -44,6 +44,20 @@
       <param name="Производитель">КЦХ</param>
       <param name="Артикул">Az6275</param>
       <consist name="Роза одноголовая Пенни Лейн" unit="шт">15</consist>
+    </offer>
+    <offer id="Az6756" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Пич Аваланш 60 см Арт. Az6756</name>
+      <price>161</price>
+      <qty>15</qty>
+      <quantity_in_package>15</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1QmKfRl7-kf3FfHSP9GMTMBNrMX9b3Ebm</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 15 шт.</description>
+      <param name="Высота, см">60</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az6756</param>
+      <consist name="Роза одноголовая Пич Аваланш" unit="шт">15</consist>
     </offer>
     <offer id="Az7955" available="true">
       <categoryId>1</categoryId>
