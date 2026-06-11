@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-11T06:27:50.910+03:00">
+<yml_catalog date="2026-06-11T06:37:41.325+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -87,6 +87,22 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az7955c</param>
       <consist name="Роза одноголовая Раш Ауэр" unit="шт">15</consist>
+    </offer>
+    <offer id="Az4455c" available="true">
+      <name>Пачка (10 шт.) Роза одноголовая Ред Наоми 50 см Арт. Az4455c</name>
+      <categoryId>450</categoryId>
+      <price>2083</price>
+      <qty>14</qty>
+      <picture>https://lh3.googleusercontent.com/d/1M-W4z1UgdXUv1xB_O6EF9Zk_WEnQVLxo</picture>
+      <picture>https://lh3.googleusercontent.com/d/14l2q--ZKOzfOh-4MfoMFl7-VbUBCuBxd</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Cg43H8oyrQfVDhdDYs-bqDIztfU8z6e-</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az4455c</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
     </offer>
     <offer id="Az7536c" available="true">
       <name>Пачка (15 шт.) Роза одноголовая Эльторо 60 см Арт. Az7536c</name>
@@ -363,7 +379,7 @@
       <name>Пачка (10 шт.) Эустома Алиса Пинк 60 см Арт. Az3646c</name>
       <categoryId>450</categoryId>
       <price>4003</price>
-      <qty>2</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1bg-qmGa3hExnltFk9AwVG0lXT_YvDHr-</picture>
       <picture>https://lh3.googleusercontent.com/d/1QuaFgo2ZgB_ZQuOrHSvMjiYuWIRjiOnA</picture>
       <picture>https://lh3.googleusercontent.com/d/1ifzR86WKZHo1LORaUT8cT42UvLLLI_s0</picture>
@@ -375,20 +391,21 @@
       <param name="Артикул">Az3646c</param>
       <consist name="Эустома Алиса Пинк" unit="шт">10</consist>
     </offer>
-    <offer id="Az5636c" available="true">
-      <name>Пачка (10 шт.) Эустома Алиса Пьюр Вайт 60 см Арт. Az5636c</name>
+    <offer id="Az3636c" available="true">
+      <name>Пачка (10 шт.) Эустома Росита Брайт Пинк 60 см Арт. Az3636c</name>
       <categoryId>450</categoryId>
-      <price>4163</price>
-      <qty>2</qty>
-      <picture>https://lh3.googleusercontent.com/d/1nIP4lHwaH8Z1GKhVQS4O0hIE2t1dU6nt</picture>
-      <picture>https://lh3.googleusercontent.com/d/1FgwR95uQpfE-QhovN2Aeu_eGpkmtIw6W</picture>
-      <picture>https://lh3.googleusercontent.com/d/1z8PFkVMeuTlLSN9i2OfM2mbeSGE2H6HB</picture>
+      <price>4213</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1rBaxj_bRom37kyPqMfVm0X6gWmaFmbJl</picture>
+      <picture>https://lh3.googleusercontent.com/d/1fIV4Yuv7VtUfHHQks36vxhEoU7OEhtFB</picture>
+      <picture>https://lh3.googleusercontent.com/d/17ZnTBZoh1npMTh7ocWXIINDTBzGds206</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 10 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">60</param>
       <param name="Ширина, см">15</param>
-      <param name="Страна">уточняется</param>
-      <param name="Артикул">Az5636c</param>
-      <consist name="Эустома Алиса Пьюр Вайт" unit="шт">10</consist>
+      <param name="Страна">Голландия</param>
+      <param name="Производитель">Kwekerij Waalzicht</param>
+      <param name="Артикул">Az3636c</param>
+      <consist name="Эустома Росита Брайт Пинк" unit="шт">10</consist>
     </offer>
     <offer id="Az3626c" available="true">
       <name>Пачка (10 шт.) Эустома Росита Вайт 60 см Арт. Az3626c</name>
