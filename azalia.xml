@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-11T06:31:20.461+03:00">
+<yml_catalog date="2026-06-11T06:33:37.007+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -87,6 +87,20 @@
       <param name="Производитель">Новая Голландия</param>
       <param name="Артикул">Az7955</param>
       <consist name="Роза одноголовая Раш Ауэр" unit="шт">15</consist>
+    </offer>
+    <offer id="Az4455" available="true">
+      <categoryId>1</categoryId>
+      <name>Роза одноголовая Ред Наоми 50 см Арт. Az4455</name>
+      <price>178</price>
+      <qty>140</qty>
+      <quantity_in_package>10</quantity_in_package>
+      <picture>https://lh3.googleusercontent.com/d/1Cg43H8oyrQfVDhdDYs-bqDIztfU8z6e-</picture>
+      <description>ВНИМАНИЕ! Заказ возможен только целыми пачками по 10 шт.</description>
+      <param name="Высота, см">50</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Чеховский Сад</param>
+      <param name="Артикул">Az4455</param>
+      <consist name="Роза одноголовая Ред Наоми" unit="шт">10</consist>
     </offer>
     <offer id="Az7536" available="true">
       <categoryId>1</categoryId>
