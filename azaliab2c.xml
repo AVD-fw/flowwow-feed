@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-11T06:18:06.575+03:00">
+<yml_catalog date="2026-06-11T06:27:50.910+03:00">
   <shop>
     <name>Азалия</name>
     <company>azalia</company>
@@ -8,11 +8,27 @@
       <category id="450">Цветы пачками</category>
     </categories>
     <offers>
+    <offer id="Az7015c" available="true">
+      <name>Пачка (15 шт.) Роза одноголовая Аваланш 50 см Арт. Az7015c</name>
+      <categoryId>450</categoryId>
+      <price>2478</price>
+      <qty>9</qty>
+      <picture>https://lh3.googleusercontent.com/d/1kbcOVTCd1Aa7fsQZ6RqW3eQk0T6yi46R</picture>
+      <picture>https://lh3.googleusercontent.com/d/1LFwnfoFVX27j1JzAMZJj7ncKqGCGPiRW</picture>
+      <picture>https://lh3.googleusercontent.com/d/1o1rdj9sk-B6U3Grji_40Aormom3nBYNT</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 15 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">50</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7015c</param>
+      <consist name="Роза одноголовая Аваланш" unit="шт">15</consist>
+    </offer>
     <offer id="Az7646c" available="true">
       <name>Пачка (15 шт.) Роза одноголовая Джумилия 60 см Арт. Az7646c</name>
       <categoryId>450</categoryId>
       <price>2718</price>
-      <qty>3</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1ZEakPYvmWPzzZVaZG1kUOnqoYiv4EDGh</picture>
       <picture>https://lh3.googleusercontent.com/d/1WDm8slpJn3rsZKKEIX1Fq2DipUozlNxi</picture>
       <picture>https://lh3.googleusercontent.com/d/1oYrlDIllm4Ox5FSDbOV95MgfHlCwknvX</picture>
@@ -28,7 +44,7 @@
       <name>Пачка (15 шт.) Роза одноголовая Пенни Лейн 50 см Арт. Az6275c</name>
       <categoryId>450</categoryId>
       <price>2118</price>
-      <qty>3</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1NS6xlz1ahujpArMqbA-mGK_L26of_u96</picture>
       <picture>https://lh3.googleusercontent.com/d/1ygzCb_Pl1-82q2G5s6OA0qQcCuXiFaoo</picture>
       <picture>https://lh3.googleusercontent.com/d/1K9BLaeqICKqq0FypVm-EX4aFUg6N9DxP</picture>
@@ -44,7 +60,7 @@
       <name>Пачка (15 шт.) Роза одноголовая Пич Аваланш 60 см Арт. Az6756c</name>
       <categoryId>450</categoryId>
       <price>2718</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/18Ijy_WN0SlmPjHYVhG13Zsb-9oGcGUhx</picture>
       <picture>https://lh3.googleusercontent.com/d/1OgCV3HVGvu-GoEhCocVbrNNYVpbwBH8Q</picture>
       <picture>https://lh3.googleusercontent.com/d/11U572-7VJxgo9A2j-hEkMqZC0sRgnoot</picture>
@@ -72,6 +88,22 @@
       <param name="Артикул">Az7955c</param>
       <consist name="Роза одноголовая Раш Ауэр" unit="шт">15</consist>
     </offer>
+    <offer id="Az7536c" available="true">
+      <name>Пачка (15 шт.) Роза одноголовая Эльторо 60 см Арт. Az7536c</name>
+      <categoryId>450</categoryId>
+      <price>2568</price>
+      <qty>3</qty>
+      <picture>https://lh3.googleusercontent.com/d/1zpXNQa72u0XflMHZzqf-uyTA27C7gVfo</picture>
+      <picture>https://lh3.googleusercontent.com/d/1u37UIrsLkOACHC_7HcB4EtOcoJRKcrpA</picture>
+      <picture>https://lh3.googleusercontent.com/d/1XazsRsMEIf3sBEdNR8KRNeHM2VQiZLTr</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 15 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">60</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Россия</param>
+      <param name="Производитель">Новая Голландия</param>
+      <param name="Артикул">Az7536c</param>
+      <consist name="Роза одноголовая Эльторо" unit="шт">15</consist>
+    </offer>
     <offer id="Az4616c" available="true">
       <name>Пачка (15 шт.) Роза одноголовая пионовидная Батер Кап 60 см Арт. Az4616c</name>
       <categoryId>450</categoryId>
@@ -92,7 +124,7 @@
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Питер Парк 70 см Арт. Az3427c</name>
       <categoryId>450</categoryId>
       <price>2503</price>
-      <qty>1</qty>
+      <qty>4</qty>
       <picture>https://lh3.googleusercontent.com/d/1opWP6bNnUaAHOfill_dJEllhZd585T02</picture>
       <picture>https://lh3.googleusercontent.com/d/1XeZihfIwn6yH4_WwKHcvgobTvRnYxKDr</picture>
       <picture>https://lh3.googleusercontent.com/d/1B0trV6L4jOxS_3tIia-xRwMOCvsc6JKv</picture>
@@ -108,7 +140,7 @@
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Питер Парк 80 см Арт. Az3838c</name>
       <categoryId>450</categoryId>
       <price>2663</price>
-      <qty>3</qty>
+      <qty>6</qty>
       <picture>https://lh3.googleusercontent.com/d/1opWP6bNnUaAHOfill_dJEllhZd585T02</picture>
       <picture>https://lh3.googleusercontent.com/d/1XeZihfIwn6yH4_WwKHcvgobTvRnYxKDr</picture>
       <picture>https://lh3.googleusercontent.com/d/1B0trV6L4jOxS_3tIia-xRwMOCvsc6JKv</picture>
@@ -124,7 +156,7 @@
       <name>Пачка (10 шт.) Роза одноголовая пионовидная Ридженс Парк 70 см Арт. Az3437c</name>
       <categoryId>450</categoryId>
       <price>2503</price>
-      <qty>13</qty>
+      <qty>21</qty>
       <picture>https://lh3.googleusercontent.com/d/1y2Z472uAcvccBN67spMd8y_TTzXdqJNk</picture>
       <picture>https://lh3.googleusercontent.com/d/1s4WXb5nQR7MAgCecFVhNWmNdebvjJv6z</picture>
       <picture>https://lh3.googleusercontent.com/d/1SCfhujs383xRciuSidvxGjgbSI7YC-Ml</picture>
@@ -156,7 +188,7 @@
       <name>Пачка (10 шт.) Роза кустовая Барбадос 60 см Арт. Az8036c</name>
       <categoryId>450</categoryId>
       <price>3913</price>
-      <qty>3</qty>
+      <qty>1</qty>
       <picture>https://lh3.googleusercontent.com/d/1HvkD1QgkI9VH9Pd6af_cAMfvkv0YpTtE</picture>
       <picture>https://lh3.googleusercontent.com/d/1mxkCm56XP3wsupmXX5slTSTVbvksaICk</picture>
       <picture>https://lh3.googleusercontent.com/d/1JImVNPjTcPJXYBWP8vtmanGlhYh5PetE</picture>
@@ -188,7 +220,7 @@
       <name>Пачка (5 шт.) Роза кустовая Ферст Дейт 70 см Арт. Az7997c</name>
       <categoryId>450</categoryId>
       <price>2313</price>
-      <qty>5</qty>
+      <qty>2</qty>
       <picture>https://lh3.googleusercontent.com/d/1Fa_KkzQX7FFXfvEL_IANXru_Tugaxyro</picture>
       <picture>https://lh3.googleusercontent.com/d/1-JTDtlxS8Xe2ZFs0Op0yG41wNgsJJ5-N</picture>
       <picture>https://lh3.googleusercontent.com/d/1M2zWfF3DZVneTnNZ9Mm9144HgiQ3LE6A</picture>
@@ -204,7 +236,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Алтай 70 см Арт. Az2887c</name>
       <categoryId>450</categoryId>
       <price>1513</price>
-      <qty>5</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/1t0SpshryLeokOFaJoNMw0a3_pGuf_cg3</picture>
       <picture>https://lh3.googleusercontent.com/d/169BBhmU-976wUl5EuyDLE_KR7UlK1lSK</picture>
       <picture>https://lh3.googleusercontent.com/d/1fVcl6AMr7SRzvBf2-iUANlOWRG_Fg8Wc</picture>
@@ -220,7 +252,7 @@
       <name>Пачка (5 шт.) Хризантема кустовая Балтика Еллоу 70 см Арт. Az3717c</name>
       <categoryId>450</categoryId>
       <price>1273</price>
-      <qty>2</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/12r9-QURpRFRoorfQZ0k69ZIGFpZ7PAIP</picture>
       <picture>https://lh3.googleusercontent.com/d/1HUACXAMNZ0WE4d0t6wzKLnYYEL3X_Vs_</picture>
       <picture>https://lh3.googleusercontent.com/d/1jjFWsNpIpbKJ11lwE2BJg5NuTuIW0Ojn</picture>
@@ -248,27 +280,43 @@
       <param name="Артикул">Az2977c</param>
       <consist name="Хризантема кустовая Калимба" unit="шт">5</consist>
     </offer>
-    <offer id="Az3927c" available="true">
-      <name>Пачка (5 шт.) Хризантема кустовая Летс Гоу Пинк 70 см Арт. Az3927c</name>
+    <offer id="Az4157c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Фабьен 70 см Арт. Az4157c</name>
+      <categoryId>450</categoryId>
+      <price>1583</price>
+      <qty>1</qty>
+      <picture>https://lh3.googleusercontent.com/d/1UMzMmQuDefY9Uhzo-22qMDU857DWkftW</picture>
+      <picture>https://lh3.googleusercontent.com/d/11QHgH3_dHwi7V58pRpSeWnTl0bz_qfPf</picture>
+      <picture>https://lh3.googleusercontent.com/d/1xcfOyB3jJ4OFUnDoIa-Dz5daYxvTNsoF</picture>
+      <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
+      <param name="Высота, см">70</param>
+      <param name="Ширина, см">15</param>
+      <param name="Страна">Хризантема кустовая</param>
+      <param name="Производитель">Zentoo</param>
+      <param name="Артикул">Az4157c</param>
+      <consist name="Хризантема кустовая Фабьен" unit="шт">5</consist>
+    </offer>
+    <offer id="Az3707c" available="true">
+      <name>Пачка (5 шт.) Хризантема кустовая Чик 70 см Арт. Az3707c</name>
       <categoryId>450</categoryId>
       <price>1273</price>
-      <qty>1</qty>
-      <picture>https://lh3.googleusercontent.com/d/1qd08S9YVz-6veKQWMB39JT_awQgSbjH_</picture>
-      <picture>https://lh3.googleusercontent.com/d/1r-UYYYqEihkkmxuVCAMtlPX5JUxmATre</picture>
-      <picture>https://lh3.googleusercontent.com/d/1UJ-lgAOS8YWtK3ipcWMls-K2hK9r5vLA</picture>
+      <qty>5</qty>
+      <picture>https://lh3.googleusercontent.com/d/1ipySGzzQQokMjCQGQI7PHXaN7-UDdsgL</picture>
+      <picture>https://lh3.googleusercontent.com/d/1-xsxShjWtKxc1H8f_htHe2BK7nJsgGsj</picture>
+      <picture>https://lh3.googleusercontent.com/d/1Wsw_Jr9rmDvfi-97XwrjVtKLRi_9FvN9</picture>
       <description>Пачки — новый формат для тех, кто хочет максимум свежести и аромата. Свежесрезанные цветы прямо из теплицы: без услуг флориста и лишней упаковки — выгодно и просто. Формат: пачка 5 стеблей; можно заказать несколько пачек. Открытка, сборка букета и добавление отдельных стеблей не предусмотрены. *Цветы доставляются без дополнительной обработки флористом — сохраняем их естественный вид.</description>
       <param name="Высота, см">70</param>
       <param name="Ширина, см">15</param>
       <param name="Страна">Голландия</param>
-      <param name="Производитель">Zentoo</param>
-      <param name="Артикул">Az3927c</param>
-      <consist name="Хризантема кустовая Летс Гоу Пинк" unit="шт">5</consist>
+      <param name="Производитель">Decorum</param>
+      <param name="Артикул">Az3707c</param>
+      <consist name="Хризантема кустовая Чик" unit="шт">5</consist>
     </offer>
     <offer id="Az5776c" available="true">
       <name>Пачка (10 шт.) Хризантема кустовая Яна 60 см Арт. Az5776c</name>
       <categoryId>450</categoryId>
       <price>3523</price>
-      <qty>1</qty>
+      <qty>3</qty>
       <picture>https://lh3.googleusercontent.com/d/1pXDiDmJtuNGRKLyIFtxrJ7ByPQ6_kBRT</picture>
       <picture>https://lh3.googleusercontent.com/d/16U-pVhs6pNITr2EbgIw9G-A20pDyCc2j</picture>
       <picture>https://lh3.googleusercontent.com/d/1WYZEG2CkyBLwXnbh1ZbdeL7fCmf775tv</picture>
@@ -300,7 +348,7 @@
       <name>Пачка (25 шт.) Ирис Фиолетовый 50 см Арт. Az3185c</name>
       <categoryId>450</categoryId>
       <price>3128</price>
-      <qty>1</qty>
+      <qty>15</qty>
       <picture>https://lh3.googleusercontent.com/d/1SVowzRN5s7r4kYFOq2VF_BlPg2LmnV-V</picture>
       <picture>https://lh3.googleusercontent.com/d/1H2vER-ZQz6Ny0RQrjigXoES8U2H9D-YX</picture>
       <picture>https://lh3.googleusercontent.com/d/1ivrbOWTCHreH6DN1td9Zb6zZMN6z7iiE</picture>
