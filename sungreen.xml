@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-20T13:26:47.817+03:00">
+<yml_catalog date="2026-08-20T13:36:36.220+03:00">
   <shop>
     <name>Сангрин</name>
     <company>sungreen</company>
@@ -423,24 +423,6 @@ Sungreen
       <param name="Производитель">Sungreen</param>
       <param name="Артикул">G00925</param>
       <consist name="Ячмень" unit="шт">1</consist>
-    </offer>
-    <offer id="G00036" available="true">
-      <categoryId>38</categoryId>
-      <name>Барбарис Зеленый 60 см Арт. G00036</name>
-      <price>640</price>
-      <qty>400</qty>
-      <quantity_in_package>1</quantity_in_package>
-      <picture>https://lh3.googleusercontent.com/d/1ZxWIc4h6yOJPR5V6W6n87qq_QarKwNHX</picture>
-      <description>Барбарис
-Зеленый
-Sungreen
-Россия
-Зелень</description>
-      <param name="Высота, см">60</param>
-      <param name="Страна">Россия</param>
-      <param name="Производитель">Sungreen</param>
-      <param name="Артикул">G00036</param>
-      <consist name="Барбарис Зеленый" unit="шт">1</consist>
     </offer>
     <offer id="G00136" available="true">
       <categoryId>38</categoryId>
